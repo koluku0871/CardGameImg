@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD01-009', 'PackNo': 'SD01', 'CardName': 'ボーン・ドッグ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': ['紫'], 'CardType': '無魔', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／3'], 'Text': '-'}

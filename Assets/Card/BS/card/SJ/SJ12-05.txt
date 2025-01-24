@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SJ12-05', 'PackNo': 'SJ', 'CardName': '最強天使イエロー・ミカファール', 'CardRarity': 'SJ', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '白'], 'CardType': '天霊', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2', 'LV3 : 5000／3'], 'Text': '［Lv2-Lv3］『自分のアタックステップ』カード名に「最強」と入っている自分のスピリットすべては、Lv1の相手のスピリットからブロックされない。'}

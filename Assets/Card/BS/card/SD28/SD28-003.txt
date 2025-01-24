@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD28-003', 'PackNo': 'SD28', 'CardName': 'ウスバアゲハ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '刃虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個を自分のリザーブに置く。 ［Lv2］系統：「殻人」を持つ自分のアルティメットがバトルしている間、相手はバーストを発動できない。'}

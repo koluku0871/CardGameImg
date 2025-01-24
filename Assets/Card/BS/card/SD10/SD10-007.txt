@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD10-007', 'PackNo': 'SD10', 'CardName': '火旋竜ファイアーストーム', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 7000／5'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』BP3000以下の相手のスピリット1体を破壊する。'}

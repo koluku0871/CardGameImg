@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD34-002', 'PackNo': 'SD34', 'CardName': 'シャズネーク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『相手によるこのスピリットの消滅/破壊時』相手のスピリット/アルティメット1体を疲労させる。'}

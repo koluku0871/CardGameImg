@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD41-004', 'PackNo': 'SD41', 'CardName': '魔界兵カースソーズマン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '呪鬼', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv2］『このスピリットのアタック時』相手のスピリットのコア1個を、相手が相手のリザーブに置くことで、自分はデッキから1枚ドローする。'}

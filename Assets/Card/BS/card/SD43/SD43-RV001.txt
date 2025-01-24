@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD43-RV001', 'PackNo': 'SD43', 'CardName': 'ブレイドラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '0', 'ReducedCost': [], 'CardType': '翼竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［Lv1-Lv2-Lv3］『自分のメインステップ』自分が創界神ネクサスを配置したとき、自分はデッキから1枚ドローする。この効果は重複しない。'}

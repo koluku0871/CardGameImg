@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD22-002', 'PackNo': 'SD22', 'CardName': 'レディバド', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': [], 'CardType': '刃虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。'}

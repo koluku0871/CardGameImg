@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD19-016', 'PackNo': 'SD19', 'CardName': 'ネオ・フレイムテンペスト', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '7', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP8000以下の相手のスピリット1体を破壊する。または、BP4000以下のスピリットすべてを破壊する。'}

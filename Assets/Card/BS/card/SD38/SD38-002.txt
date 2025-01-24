@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD38-002', 'PackNo': 'SD38', 'CardName': 'オハヤシバード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '爪鳥', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 6000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』ボイドからコア1個を自分のリザーブに置く。 ［Lv2-Lv3］『相手によるこのスピリットの破壊時』相手のスピリット/アルティメット1体を疲労させる。'}

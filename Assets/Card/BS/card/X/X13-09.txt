@@ -1,0 +1,1 @@
+﻿{'CardNo': 'X13-09', 'PackNo': 'X', 'CardName': '渚のトリックスター', 'CardRarity': 'X', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '6', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '道化・導魔', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のトラッシュにあるマジックカード1枚を手札に戻す。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD01-037', 'PackNo': 'SD01', 'CardName': 'キャリーコア', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］ボイドからコア1個を自分のリザーブに置く。このターンの間、スピリット1体をBP+1000する。'}

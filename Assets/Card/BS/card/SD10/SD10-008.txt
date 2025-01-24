@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD10-008', 'PackNo': 'SD10', 'CardName': 'ドラゴン・アンヌラー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』【強化】を持つ自分のスピリットすべてをBP+2000する。 ［Lv2］【強化】自分の「BP破壊効果」の上限を+1000する。'}

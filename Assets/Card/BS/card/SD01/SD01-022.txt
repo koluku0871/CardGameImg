@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD01-022', 'PackNo': 'SD01', 'CardName': 'グラスカルゴ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白', '白'], 'CardType': '光虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／3'], 'Text': '-'}

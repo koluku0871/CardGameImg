@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD01-028', 'PackNo': 'SD01', 'CardName': '呪われし神殿', 'CardRarity': 'R', 'CardCategory': 'ネクサス', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］自分の紫のスピリットすべてをBP+1000する。 ［Lv2］『相手のアタックステップ』相手のスピリットが疲労したとき、自分はデッキから1枚ドローする。'}

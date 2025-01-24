@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD31-007', 'PackNo': 'SD31', 'CardName': '風魔ベニマトイ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '忍風・爪鳥', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』ボイドからコア1個を自分のリザーブに置く。このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、さらに、相手のスピリット1体を疲労させる。'}

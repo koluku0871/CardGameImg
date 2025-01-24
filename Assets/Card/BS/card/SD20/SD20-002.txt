@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD20-002', 'PackNo': 'SD20', 'CardName': 'ムゲンドラ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': ['白', '赤'], 'CardType': '新生', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／4'], 'Text': '［Lv1-Lv2-Lv3］このスピリットの色とシンボルは赤としても扱う。'}

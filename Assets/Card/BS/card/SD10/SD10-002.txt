@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD10-002', 'PackNo': 'SD10', 'CardName': 'グローリー・ガードラー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '星竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』このスピリットをBP+2000する。 ［Lv2］【強化】自分の「BP破壊効果」の上限を+1000する。'}

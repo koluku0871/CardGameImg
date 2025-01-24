@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD02-019', 'PackNo': 'SD02', 'CardName': '黒騎士シュヴァルト', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '魔影', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 4000／3'], 'Text': '［Lv1-Lv2-Lv3］このスピリットが【転召】の対象になったとき、【転召】を持たない相手のスピリット上のコア2個を、相手のトラッシュに置く。'}

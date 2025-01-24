@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD48-011', 'PackNo': 'SD48', 'CardName': '神拳甲ガンドレット', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '神'], 'CardType': '神話・霊装', 'Lv': ['LV1 : 4000／1', 'brave : +4000／'], 'Text': '［Lv1］『このブレイヴの召喚時』BP5000以下の相手のスピリット1体を破壊する。 合体条件：コスト4以上/創界神ネクサス'}

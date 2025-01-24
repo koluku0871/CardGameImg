@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD31-002', 'PackNo': 'SD31', 'CardName': '甲蛾忍ナミテント', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '忍風・殻人', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』相手のスピリット1体を疲労させる。このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、さらに、相手のスピリット1体を疲労させる。'}

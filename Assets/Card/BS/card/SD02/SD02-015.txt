@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD02-015', 'PackNo': 'SD02', 'CardName': 'フレンドリーパワー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、自分のスピリット1体を、そのスピリットと同じ系統を持つ自分のスピリット1体につきBP+1000する。'}

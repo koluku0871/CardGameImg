@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD17-002', 'PackNo': 'SD17', 'CardName': 'ダーク・ディノニクソー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '［Lv2-Lv3］このスピリットは緑のスピリットとしても扱う。'}

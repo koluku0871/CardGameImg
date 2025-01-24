@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD23-016', 'PackNo': 'SD23', 'CardName': 'リバーサルフォース', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '7', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］疲労状態のスピリットすべてを回復し、回復状態のスピリットすべてを疲労させる。この効果は、『自分のターン』で使えない。'}

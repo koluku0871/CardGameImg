@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD17-003', 'PackNo': 'SD17', 'CardName': '刀竜ステゴディータ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／5'], 'Text': '［Lv1-Lv2-Lv3］【激突】『このスピリットのアタック時』相手は可能ならば必ずブロックする。'}

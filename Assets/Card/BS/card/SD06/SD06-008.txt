@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD06-008', 'PackNo': 'SD06', 'CardName': 'アルマジトカゲ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': ['白', '赤'], 'CardType': '甲竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 4000／3'], 'Text': '［Lv1-Lv2-Lv3］このスピリットを赤のスピリットとしても扱う。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD26-003', 'PackNo': 'SD26', 'CardName': 'リューマン・ウィソード', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', 'ico_ultimate.png'], 'CardType': '竜人', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のデッキを上から4枚オープンする。その中の系統：「剣刃」を持つブレイヴカード1枚を手札に加える。残ったカードは破棄する。 《合体時》［Lv2］このスピリットをBP+5000する。'}

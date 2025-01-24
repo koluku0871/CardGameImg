@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD31-004', 'PackNo': 'SD31', 'CardName': '異牙忍カタナゼル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '忍風・遊精', 'Lv': ['LV1 : 6000／1', 'LV2 : 8000／3', 'LV3 : 12000／5'], 'Text': '-'}

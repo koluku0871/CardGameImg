@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD33-002', 'PackNo': 'SD33', 'CardName': 'ビーバン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)が置かれているとき、自分はデッキから1枚ドローする。'}

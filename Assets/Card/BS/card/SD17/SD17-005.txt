@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD17-005', 'PackNo': 'SD17', 'CardName': '羽竜ペドペンナー', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤', '緑'], 'CardType': '地竜・空牙', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］『自分のアタックステップ』系統：「地竜」を持つ自分のスピリットすべてをBP+2000する。'}

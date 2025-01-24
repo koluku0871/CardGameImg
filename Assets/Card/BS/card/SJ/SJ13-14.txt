@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SJ13-14', 'PackNo': 'SJ', 'CardName': 'サンライト・シーサー', 'CardRarity': 'SJ', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2'], 'Text': '-'}
