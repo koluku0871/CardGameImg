@@ -1,0 +1,11 @@
+.vsconfig
+.vs/
+Library/
+ProjectSettings/
+Logs/
+obj/
+UserSettings/
+Packages/manifest.json
+Packages/packages-lock.json
+CardGameImg.sln
+Assembly-CSharp-Editor.csproj
