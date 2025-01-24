@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC26-004', 'PackNo': 'BSC26', 'CardName': 'ゴジラ[1965]', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '緑'], 'CardType': '古竜', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 6000／4'], 'Text': '［Lv1-Lv2-Lv3］このスピリットの色とシンボルは緑としても扱う。 ［Lv2-Lv3］『このスピリットのアタック時』自分はデッキから1枚ドローする。'}

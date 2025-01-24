@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC19-019', 'PackNo': 'BSC19', 'CardName': 'モスラ（幼虫）［1992］', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '怪虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個をこのスピリットに置く。'}

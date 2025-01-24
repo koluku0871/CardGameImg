@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC24-027', 'PackNo': 'BSC24', 'CardName': '宇宙ロボットキングジョーブラック', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '青'], 'CardType': '機人・造兵', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／2', 'LV3 : 7000／4'], 'Text': '[Lv1-Lv2-Lv3]【超装甲：赤/紫】このスピリットは、相手の赤/紫のスピリット/アルティメット/ネクサス/マジックの効果を受けない。'}

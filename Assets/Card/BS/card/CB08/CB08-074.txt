@@ -1,0 +1,1 @@
+﻿{'CardNo': 'CB08-074', 'PackNo': 'CB08', 'CardName': 'BOARD', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］自分の手元にある系統：「仮面」と「四道」を持つカードは、手元からでも【チェンジ】/《煌臨》できる。 ［Lv2］バトルしている自分のスピリットは、そのスピリット以外の回復状態の自分のスピリットがいる間、BP+4000される。'}

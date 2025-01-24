@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-144', 'PackNo': 'BSC22', 'CardName': 'ドリームチェスト', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］スピリット1体をデッキの上に戻す。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、かわりに、アルティメット1体をデッキの上に戻す。'}

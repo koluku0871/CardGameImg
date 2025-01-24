@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS47-001', 'PackNo': 'BS47', 'CardName': 'ブレイドラX', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '0', 'ReducedCost': [], 'CardType': '翼竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［Lv3］『このスピリットのアタック/ブロック時』ボイドからコア1個を自分の赤1色の創界神ネクサスに置く。'}

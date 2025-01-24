@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC42-027', 'PackNo': 'BSC42', 'CardName': 'バットホッパーLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '碧雷・怪虫', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚/アタック時』ターンに1回、ボイドからコア1個をこのスピリットに置く。'}

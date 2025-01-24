@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-134', 'PackNo': 'BSC22', 'CardName': 'ギャザーフォース', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］ボイドからコア1個を自分のリザーブに置く。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、このターンの最初のアタックの間、相手はバーストを発動できない。 ［フラッシュ］このターンの間、スピリット1体をBP+1000する。'}

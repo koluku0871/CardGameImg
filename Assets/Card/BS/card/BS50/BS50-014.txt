@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS50-014', 'PackNo': 'BS50', 'CardName': '鎧魂', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '0', 'ReducedCost': [], 'CardType': '魔影', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれているとき、相手のスピリットのコア1個を相手のトラッシュに置く。'}

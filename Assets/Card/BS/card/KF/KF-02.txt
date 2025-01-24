@@ -1,0 +1,1 @@
+﻿{'CardNo': 'KF-02', 'PackNo': 'KF', 'CardName': 'キング・カーネル', 'CardRarity': 'KF', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '小玩', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '［Lv1-Lv2-Lv3］カード名に「カーネル」/「ケンタ」と入っている自分のスピリット1体につき、このスピリットをBP+1000する。'}

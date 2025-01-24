@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC24-025', 'PackNo': 'BSC24', 'CardName': 'うす怪獣モチロン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白', '白'], 'CardType': '動器', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／3'], 'Text': '-'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC19-004', 'PackNo': 'BSC19', 'CardName': 'アンギラス［2004］', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』相手のネクサス1つを破壊する。 ［Lv2-Lv3］カード名に「ゴジラ」と入っている自分のスピリットがいる間、このスピリットをBP+5000する。'}

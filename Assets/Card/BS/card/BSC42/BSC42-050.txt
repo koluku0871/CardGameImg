@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC42-050', 'PackNo': 'BSC42', 'CardName': 'コリスタルLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '0', 'ReducedCost': [], 'CardType': '金雲・漂精', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 6000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック/ブロック時』バトル終了時、このスピリットを破壊する。 ［Lv3］『このスピリットの破壊時』自分はデッキから1枚ドローできる。'}

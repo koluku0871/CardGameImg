@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-135', 'PackNo': 'BSC22', 'CardName': 'リレイションソウル', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、疲労状態の相手のスピリット/アルティメット1体につき、スピリット1体をBP+5000する。'}

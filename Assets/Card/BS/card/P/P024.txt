@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P024', 'PackNo': 'P', 'CardName': 'ふわねこ', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '小玩', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの破壊時』自分のフィールドに【聖命】を持つスピリットがいる間、このスピリットは疲労状態で自分のフィールドに戻る。'}

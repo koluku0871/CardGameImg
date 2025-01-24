@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC21-006', 'PackNo': 'BSC21', 'CardName': '蛍丸', 'CardRarity': 'U', 'CardCategory': 'ブレイヴ', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '剣刃', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '《合体条件：コスト4以上》 《合体時》系統：「起導者」/「剣使」/「剣刃」を持つ自分のスピリット/アルティメットがバトルしている間、相手はバーストを発動できない。'}

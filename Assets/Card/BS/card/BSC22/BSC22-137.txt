@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-137', 'PackNo': 'BSC22', 'CardName': 'フェザーバリア', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、バトルしている自分のスピリット/アルティメット1体は、相手の効果すべてを受けない。'}

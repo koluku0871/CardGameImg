@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS64-085', 'PackNo': 'BS64', 'CardName': '邪神再臨', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '8', 'ReducedCost': ['ico_ultimate.png', 'ico_ultimate.png', 'ico_ultimate.png'], 'CardType': '邪神', 'Lv': [], 'Text': '自分のカウント5以上の間、手札にあるこのカードをコスト4にする。 ［フラッシュ］自分のトラッシュにある系統：「邪神」を持つアルティメットカード1枚を召喚/《煌臨》する。この効果で召喚するとき、自分のアタックステップなら、コストを支払わずに召喚する。'}

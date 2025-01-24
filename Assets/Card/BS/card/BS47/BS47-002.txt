@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS47-002', 'PackNo': 'BS47', 'CardName': 'サンダー・Z・ウルヴァリン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚/破壊時』相手のブレイヴ1つを破壊することで、ボイドからコア1個を自分の赤1色の創界神ネクサスに置く。'}

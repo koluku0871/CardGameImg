@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-029', 'PackNo': 'BSC22', 'CardName': 'リブ・リーパー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫'], 'CardType': '無魔', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］自分のフィールドに赤のシンボルがある間、このスピリットをBP+8000する。'}

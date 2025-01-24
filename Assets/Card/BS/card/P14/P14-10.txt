@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P14-10', 'PackNo': 'P14', 'CardName': 'タンク・モービル・チャーチル', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白'], 'CardType': '動器・武装', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／2'], 'Text': '［Lv1-Lv2］【超装甲：紫】このスピリットは、相手の紫のスピリット/アルティメット/ネクサス/マジックの効果を受けない。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-140', 'PackNo': 'BSC22', 'CardName': 'ディバインチェイン', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このバトルの間、相手はフラッシュタイミングで手札のカードを使用できない。自分のスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、さらに、相手はバーストを発動できない。'}

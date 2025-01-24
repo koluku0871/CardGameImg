@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS67-065', 'PackNo': 'BS67', 'CardName': '審判牙銃トライバルクロウ', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['全'], 'CardType': '剣刃・審判', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '［Lv1］『このブレイヴの召喚時』相手のスピリット/アルティメット1体を疲労させ、ボイドからコア1個を自分のリザーブに置く。 合体条件：審判＆コスト4以上'}

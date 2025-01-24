@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC26-008', 'PackNo': 'BSC26', 'CardName': '空の大怪獣ラドン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '緑'], 'CardType': '翼竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／4'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』このスピリットをBP+5000する。'}

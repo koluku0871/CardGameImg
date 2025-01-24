@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-074', 'PackNo': 'BSC22', 'CardName': 'バーサーカー・ガン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': [], 'CardType': '動器', 'Lv': ['LV1 : 4000／1', 'LV2 : 5000／2'], 'Text': '-'}

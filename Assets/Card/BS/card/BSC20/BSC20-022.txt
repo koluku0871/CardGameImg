@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC20-022', 'PackNo': 'BSC20', 'CardName': '翠遁之術', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット/アルティメット1体を疲労させる。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)を使用していたら、さらに、ボイドからコア2個を自分のスピリット1体に置く。'}

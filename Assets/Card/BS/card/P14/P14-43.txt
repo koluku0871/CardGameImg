@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P14-43', 'PackNo': 'P14', 'CardName': 'GODZILLA ゴジラ', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '8', 'ReducedCost': ['赤', '赤', '赤', '赤', '赤', '赤'], 'CardType': '古竜', 'Lv': ['LV1 : 10000／1', 'LV2 : 15000／3', 'LV3 : 20000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットをBP+10000する。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-120', 'PackNo': 'BSC22', 'CardName': 'バスターファランクス', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］ネクサスすべてを破壊する。 ［フラッシュ］コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、相手のネクサスすべてを破壊する。'}

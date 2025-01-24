@@ -1,0 +1,1 @@
+﻿{'CardNo': 'CB01-035', 'PackNo': 'CB01', 'CardName': '月光怪獣再生エレキング', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青', '青'], 'CardType': '異合・星竜', 'Lv': ['LV1 : 6000／1', 'LV2 : 10000／3', 'LV3 : 13000／6'], 'Text': '-'}

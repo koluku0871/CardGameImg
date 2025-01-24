@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC32-035', 'PackNo': 'BSC32', 'CardName': 'ワンドロー！', 'CardRarity': '-', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］自分はデッキから1枚ドローする。 [フラッシュ]自分のトラッシュにあるカード名：「シキツル」1枚を、1コスト支払って召喚する。'}

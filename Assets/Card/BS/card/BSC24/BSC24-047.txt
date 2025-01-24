@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC24-047', 'PackNo': 'BSC24', 'CardName': '一兆度の火球', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP5000以下の相手のスピリット1体を破壊する。カード名に「宇宙恐竜」と入っている自分のスピリットがいるとき、さらに、BP20000以下の相手のスピリット/アルティメット1体を破壊する。'}

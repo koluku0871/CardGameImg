@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC05-001', 'PackNo': 'BSC05', 'CardName': 'ソウルホース', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': ['紫', '赤'], 'CardType': '魔影', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］このスピリットは赤のスピリットとしても扱う。'}

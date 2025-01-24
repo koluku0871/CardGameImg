@@ -1,0 +1,1 @@
+﻿{'CardNo': 'PX02', 'PackNo': 'PX', 'CardName': '極甲王グラン・トルタス', 'CardRarity': 'PX', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '8', 'ReducedCost': ['白', '白', '白'], 'CardType': '甲獣', 'Lv': ['LV1 : 6000／1', 'LV2 : 10000／2'], 'Text': '［Lv1-Lv2］『このスピリットのブロック時』このスピリットは、相手のLv1スピリットをブロックしたとき疲労しない。 ［Lv2］『このスピリットのブロック時』このスピリットをBP+4000する。'}

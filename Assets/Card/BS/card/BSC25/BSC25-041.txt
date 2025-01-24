@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC25-041', 'PackNo': 'BSC25', 'CardName': '目覚める炎の異魔神', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］系統：「異魔神」を持つ自分のブレイヴが召喚されたとき、BP5000以下の相手のスピリット1体を破壊する。 ［Lv2］『自分のアタックステップ』自分の合体スピリットすべてをBP+3000する。'}

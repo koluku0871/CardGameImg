@@ -1,0 +1,1 @@
+﻿{'CardNo': 'KF-08', 'PackNo': 'KF', 'CardName': 'マッハ・ツイスター', 'CardRarity': 'KF', 'CardCategory': 'ブレイヴ', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '動器', 'Lv': ['LV1 : 3000／1', 'LV2 : -／-', 'brave : +3000／'], 'Text': '《合体条件：コスト4以上》 《合体時》『このスピリットのブロック時』BP4000以下の相手のスピリット1体を手札に戻す。'}

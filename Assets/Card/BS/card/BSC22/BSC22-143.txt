@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-143', 'PackNo': 'BSC22', 'CardName': 'ドリームリボン', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体を手札に戻す。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、この効果発揮後、BP5000以下の相手のスピリット1体を手札に戻す。'}

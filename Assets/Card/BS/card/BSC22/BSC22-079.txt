@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-079', 'PackNo': 'BSC22', 'CardName': 'レインボウパピヨン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白'], 'CardType': '光虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］自分の緑のスピリットがいる間、このスピリットをBP+8000する。'}

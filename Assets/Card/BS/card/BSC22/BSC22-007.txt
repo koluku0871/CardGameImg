@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-007', 'PackNo': 'BSC22', 'CardName': 'ハンマドレイク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 10000／1', 'LV2 : 13000／2', 'LV3 : 20000／7'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のフィールドかトラッシュのコア1個をボイドに置く。'}

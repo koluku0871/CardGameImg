@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS66-066', 'PackNo': 'BS66', 'CardName': 'カレンデュラソード', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['ico_ultimate.png', 'ico_ultimate.png'], 'CardType': '剣刃・真聖', 'Lv': ['LV1 : 4000／1', 'brave : +4000／'], 'Text': '〔ターンに1回：同名〕手札にあるこのカードは、自分のＵトリガーがヒットしたとき、その効果発揮後、1コスト支払って召喚できる。 合体条件：コスト4以上のアルティメット 【合体中】このブレイヴをコスト0にする。'}

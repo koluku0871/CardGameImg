@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC42-070', 'PackNo': 'BSC42', 'CardName': '狼人ウルフィLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['全', '全', '全', '全'], 'CardType': '蒼波・獣頭', 'Lv': ['LV1 : 6000／1', 'LV2 : 9000／3', 'LV3 : 11000／4'], 'Text': '-'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC05-026', 'PackNo': 'BSC05', 'CardName': 'ミラージュコート', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、自分のスピリット状態のブレイヴすべてはブロックされない。'}

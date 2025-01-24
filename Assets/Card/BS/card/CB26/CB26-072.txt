@@ -1,0 +1,1 @@
+﻿{'CardNo': 'CB26-072', 'PackNo': 'CB26', 'CardName': 'バディシステム', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］自分の「Mr. BLACK」と「HE IS THOMAS」がいる間、このネクサスは相手の効果で破壊されない。 ［Lv2］『相手のエンドステップ』〔ターンに1回：同名〕このターン、自分の「Mr. BLACK」/「HE IS THOMAS」が相手のスピリットをブロックしていたとき、自分はデッキから2枚ドローする。'}

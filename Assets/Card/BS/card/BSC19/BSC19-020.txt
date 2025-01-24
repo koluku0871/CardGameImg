@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC19-020', 'PackNo': 'BSC19', 'CardName': 'キングシーサー［2004］', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '剣獣', 'Lv': ['LV1 : 5000／1', 'LV2 : 10000／3', 'LV3 : 12000／4'], 'Text': '-'}

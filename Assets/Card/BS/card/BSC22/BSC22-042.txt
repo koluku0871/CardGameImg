@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-042', 'PackNo': 'BSC22', 'CardName': 'ミストウィゼル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': 'トラッシュにあるこのスピリットカードはコスト2として扱う。［Lv1-Lv2］『このスピリットの破壊時』自分はデッキから3枚ドローする。'}

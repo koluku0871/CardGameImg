@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC42-006', 'PackNo': 'BSC42', 'CardName': 'ドラグサウルスLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤', '全'], 'CardType': '緋炎・爬獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』ネクサス1つを破壊できる。'}

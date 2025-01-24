@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC42-029', 'PackNo': 'BSC42', 'CardName': 'シダフクロウLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '碧雷・爪鳥', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '［Lv1-Lv2-Lv3］相手の手札が増えたか、相手の手元にカードが置かれたとき、このスピリットは回復できる。'}

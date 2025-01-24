@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P13-17', 'PackNo': 'P13', 'CardName': '封印されし神剣', 'CardRarity': 'P', 'CardCategory': 'ブレイヴ', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '剣刃', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '《合体条件：コスト4以上》 《合体時》『このスピリットの合体アタック時』自分はデッキから1枚ドローし、BP3000以下の相手のスピリット1体を破壊する。'}

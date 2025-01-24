@@ -1,0 +1,1 @@
+﻿{'CardNo': 'CB13-022', 'PackNo': 'CB13', 'CardName': 'バクゥ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白'], 'CardType': 'MS・ザフト', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］このスピリットは、相手の効果でフィールドを離れるとき、手元に置ける。 ［Lv2-Lv3］『このスピリットのアタック/ブロック時』このバトルの間、相手のスピリットすべては効果で回復できない。'}
