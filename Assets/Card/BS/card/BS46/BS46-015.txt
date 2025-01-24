@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS46-015', 'PackNo': 'BS46', 'CardName': 'サンダー・Z・マンモス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '9', 'ReducedCost': ['赤', '赤', '赤', '赤', '神', '神'], 'CardType': '皇獣', 'Lv': ['LV1 : 12000／1', 'LV2 : 16000／3', 'LV3 : 22000／5'], 'Text': '-'}

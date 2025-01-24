@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC25-011', 'PackNo': 'BSC25', 'CardName': '蛇司祭ライノラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫'], 'CardType': '死竜・妖蛇', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : 5000／5'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分の手札にある系統：「死竜」を持つスピリットカード/ブレイヴカード1枚を破棄することで、自分はデッキから1枚ドローする。'}

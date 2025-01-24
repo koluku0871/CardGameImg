@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P17-05', 'PackNo': 'P17', 'CardName': 'オルタナティブソウル', 'CardRarity': 'P', 'CardCategory': 'マジック', 'Element': '赤\n紫\n緑\n白\n黄\n青', 'Cost': '6', 'ReducedCost': ['赤', '紫', '緑', '白', '黄', '青'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分の手札にある《煌臨》を持つスピリットカード1枚を、自分の<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置かずに、対象の自分のスピリットに《煌臨》で重ねられる。この効果は、メインステップで使えない。'}

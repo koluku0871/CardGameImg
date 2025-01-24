@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC25-005', 'PackNo': 'BSC25', 'CardName': 'ケラトザウラー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 7000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』BP6000以下の相手のスピリット1体を破壊する。'}

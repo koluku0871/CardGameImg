@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P079', 'PackNo': 'P', 'CardName': '激翔', 'CardRarity': 'EX', 'CardCategory': 'マジック', 'Element': '白\n黄', 'Cost': '2', 'ReducedCost': ['白', '黄'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '［メイン］このターンの間、スピリット1体に、本来持っている色とは別に、もう1色、好きな色を与える。 ［フラッシュ］ブロックしている自分のスピリット1体を回復させる。'}

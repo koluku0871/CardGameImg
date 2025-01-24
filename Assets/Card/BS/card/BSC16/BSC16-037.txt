@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC16-037', 'PackNo': 'BSC16', 'CardName': 'スイートハート', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このバトルが終了したとき、系統：「詩姫」を持つ自分のスピリットがいれば、アタックステップを終了する。'}

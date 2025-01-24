@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC42-018', 'PackNo': 'BSC42', 'CardName': 'シャ・ズーLT', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫', '全'], 'CardType': '血晶・霊獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』スピリット/アルティメット2体までを疲労させる。'}

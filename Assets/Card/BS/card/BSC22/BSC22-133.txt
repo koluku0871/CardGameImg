@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-133', 'PackNo': 'BSC22', 'CardName': 'パワーオーラ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分はデッキから1枚ドローする。このターンの間、自分のスピリット/アルティメットすべてをBP+3000する。'}

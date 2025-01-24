@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-002', 'PackNo': 'BSC22', 'CardName': 'ロクケラトプス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 6000／3'], 'Text': '-'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-122', 'PackNo': 'BSC22', 'CardName': 'フレイムテンペスト', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP3000以下のスピリット/アルティメットすべてを破壊する。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、かわりに、BP7000以下の相手のスピリット/アルティメットすべてを破壊する。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'CB10-074', 'PackNo': 'CB10', 'CardName': 'ストライクベント', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP8000以下の相手のスピリット1体を破壊する。さらに、系統：「仮面」と「戦騎」を持つ自分のスピリットがいるとき、自分はデッキから1枚ドローする。'}

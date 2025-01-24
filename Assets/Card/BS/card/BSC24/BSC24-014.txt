@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC24-014', 'PackNo': 'BSC24', 'CardName': '三面怪人ダダ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫', '紫'], 'CardType': '冥主', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3', 'LV3 : 8000／4'], 'Text': '-'}

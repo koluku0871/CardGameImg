@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC42-013', 'PackNo': 'BSC42', 'CardName': 'フォッガーLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '0', 'ReducedCost': [], 'CardType': '血晶・幽魔', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '-'}

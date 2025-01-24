@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC19-008', 'PackNo': 'BSC19', 'CardName': 'ラドン［2004］', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '翼竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』BP3000以下の相手のスピリット1体を破壊する。'}

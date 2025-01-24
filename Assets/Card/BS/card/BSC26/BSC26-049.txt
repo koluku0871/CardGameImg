@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC26-049', 'PackNo': 'BSC26', 'CardName': 'レーザー引力光線', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体を手札に戻す。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、カード名に「ギドラ」と入っている自分のスピリット1体を回復させる。'}

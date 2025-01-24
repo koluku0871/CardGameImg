@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS64-002', 'PackNo': 'BS64', 'CardName': 'ファイアミングバード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '緋炎・皇獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］このスピリットと自分の赤の「ジークフリード」すべてのコアは、相手の効果で2個より少なくならない。'}

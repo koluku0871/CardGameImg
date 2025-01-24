@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC24-051', 'PackNo': 'BSC24', 'CardName': 'ペンシル爆弾', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］コスト6以下の相手のスピリット1体を手札に戻す。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、かわりに、カード名に「怪獣」/「恐竜」と入っている相手のスピリット1体をデッキの下に戻す。'}

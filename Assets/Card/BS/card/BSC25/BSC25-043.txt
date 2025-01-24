@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC25-043', 'PackNo': 'BSC25', 'CardName': '眠れる風の異魔神', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］系統：「異魔神」を持つ自分のブレイヴが召喚されたとき、ボイドからコア1個を自分のリザーブに置く。 ［Lv2］『自分のエンドステップ』自分の合体スピリットすべてを回復させる。'}

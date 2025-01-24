@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-139', 'PackNo': 'BSC22', 'CardName': 'ピュアエリクサー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のスピリット/アルティメットすべてを回復させる。このターンの間、この効果で回復したスピリット/アルティメットはアタックできない。'}

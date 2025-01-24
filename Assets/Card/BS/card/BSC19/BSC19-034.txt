@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC19-034', 'PackNo': 'BSC19', 'CardName': '新轟天号', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白'], 'CardType': '動器', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／2'], 'Text': '［Lv1-Lv2］『自分のエンドステップ』このスピリットは回復する。 ［Lv2］『このスピリットのアタック時』自分のライフが2以下のとき、このスピリットは相手のスピリットからブロックされない。'}

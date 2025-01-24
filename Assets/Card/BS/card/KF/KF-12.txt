@@ -1,0 +1,1 @@
+﻿{'CardNo': 'KF-12', 'PackNo': 'KF', 'CardName': 'ポテトアロー', 'CardRarity': 'KF', 'CardCategory': 'マジック', 'Element': '-', 'Cost': '5', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '［メイン］BP4000以下のスピリットすべてを破壊する。 ［フラッシュ］このターンの間、スピリット1体をBP+4000する。'}

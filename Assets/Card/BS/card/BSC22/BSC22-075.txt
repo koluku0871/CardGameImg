@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-075', 'PackNo': 'BSC22', 'CardName': 'アイスメイデン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': ['白'], 'CardType': '動器', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2'], 'Text': '-'}

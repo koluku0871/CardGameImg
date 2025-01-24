@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P007', 'PackNo': 'P', 'CardName': '天使ドミニア', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '天霊', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2', 'LV3 : 5000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットを対象としたBPを+するマジックの効果が使用されたとき、さらにこのスピリットをBP+1000する。'}

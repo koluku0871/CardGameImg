@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P012', 'PackNo': 'P', 'CardName': '三叉槍のヒューゴー', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '闘神', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 7000／6'], 'Text': '［Lv1-Lv2-Lv3］【粉砕】『このスピリットのアタック時』相手のデッキを上から、このスピリットのLvと同じ枚数破棄する。'}

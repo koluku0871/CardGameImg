@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P013', 'PackNo': 'P', 'CardName': 'ボルゲーノドラゴン', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '地竜・古竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 5000／3', 'LV3 : 6000／5'], 'Text': '［Lv1-Lv2-Lv3］『自分のアタックステップ』系統：「地竜」を持つ自分のスピリットすべてをＢＰ+1000する。'}

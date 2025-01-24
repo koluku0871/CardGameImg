@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC45-073', 'PackNo': 'BSC45', 'CardName': '鼬の暗殺者ウィゼーブLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '0', 'ReducedCost': [], 'CardType': '獣頭', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］このスピリットが相手によってフィールドを離れるとき、自分のトラッシュにあるネクサスカード1枚を、コストを支払わずに配置できる。'}

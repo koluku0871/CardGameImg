@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-026', 'PackNo': 'BSC22', 'CardName': 'フォッガー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '0', 'ReducedCost': [], 'CardType': '幽魔', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2'], 'Text': '-'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC19-036', 'PackNo': 'BSC19', 'CardName': '改造ガイガン［2004］', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '赤'], 'CardType': '甲竜・星竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／2', 'LV3 : 9000／4'], 'Text': '［Lv2-Lv3］『このスピリットのアタック時』BP5000以下の相手のスピリット2体を手札に戻す。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC19-006', 'PackNo': 'BSC19', 'CardName': '婆羅護吽', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／2', 'LV3 : 9000／3'], 'Text': '-'}

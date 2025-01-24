@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC20-014', 'PackNo': 'BSC20', 'CardName': 'フーリン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', '黄'], 'CardType': '妖戒', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 4000／3'], 'Text': '［Lv1-Lv2-Lv3］『相手によるこのスピリットの破壊時』自分のトラッシュにあるマジックカード1枚を手札に戻す。'}

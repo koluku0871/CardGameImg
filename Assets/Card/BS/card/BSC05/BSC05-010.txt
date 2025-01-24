@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC05-010', 'PackNo': 'BSC05', 'CardName': 'イーズナ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': ['黄', '赤'], 'CardType': '戯狩', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［Lv1-Lv2-Lv3］このスピリットは赤のスピリットとしても扱う。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P13-27', 'PackNo': 'P13', 'CardName': 'V龍', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤'], 'CardType': '竜人', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 7000／5'], 'Text': '［Lv1-Lv2-Lv3］【激突】『このスピリットのアタック時』相手は可能ならば必ずブロックする。 ［Lv2-Lv3］『このスピリットのアタック時』自分はデッキから1枚ドローする。'}

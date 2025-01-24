@@ -1,0 +1,1 @@
+﻿{'CardNo': 'CB07-060', 'PackNo': 'CB07', 'CardName': 'プチツイスター', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体を手札に戻す。この効果でコスト4以下のスピリットを手札に戻したとき、このカードは手札に戻せる。'}

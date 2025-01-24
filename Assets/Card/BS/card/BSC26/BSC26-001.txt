@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC26-001', 'PackNo': 'BSC26', 'CardName': '海竜マンダ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '爬獣・妖蛇', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': '-'}

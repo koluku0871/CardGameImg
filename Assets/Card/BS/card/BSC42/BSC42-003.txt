@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC42-003', 'PackNo': 'BSC42', 'CardName': 'ロクケラトプスLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['全'], 'CardType': '緋炎・地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 7000／4'], 'Text': '-'}

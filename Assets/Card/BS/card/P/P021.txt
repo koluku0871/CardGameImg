@@ -1,0 +1,1 @@
+﻿{'CardNo': 'P021', 'PackNo': 'P', 'CardName': '龍騎士ワーグナー', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', '赤', '赤'], 'CardType': '機人', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3', 'LV3 : 7000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』自分のトラッシュから[大龍皇ジークムンド]1枚を選び手札に戻す。'}

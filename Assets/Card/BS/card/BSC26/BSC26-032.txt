@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC26-032', 'PackNo': 'BSC26', 'CardName': 'ロボット怪獣モゲラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': ['白'], 'CardType': '武装', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／2'], 'Text': '-'}

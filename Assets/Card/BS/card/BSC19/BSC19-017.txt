@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC19-017', 'PackNo': 'BSC19', 'CardName': '妖精モスラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': [], 'CardType': '怪虫・漂精', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。'}

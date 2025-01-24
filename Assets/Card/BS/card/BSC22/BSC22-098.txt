@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BSC22-098', 'PackNo': 'BSC22', 'CardName': '燃えさかる戦場', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』アタックしている自分のスピリットすべてをBP+3000する。 ［Lv2］『自分のアタックステップ』自分のターンの最初のアタックのとき、相手は可能ならスピリットでブロックする。'}
