@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-114', 'PackNo': 'BS01', 'CardName': 'バスタースピア', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]ネクサス1つを破壊する。相手のネクサスを破壊した場合、自分はデッキから1枚ドローする。'}

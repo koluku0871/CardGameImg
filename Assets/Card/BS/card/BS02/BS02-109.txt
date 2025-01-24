@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-109', 'PackNo': 'BS02', 'CardName': 'エンジェルボイス', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]バトル解決時、BPのかわりにLvを比べ、Lvの低いスピリットが破壊される。Lvが同じとき、お互いのスピリットが破壊される。'}

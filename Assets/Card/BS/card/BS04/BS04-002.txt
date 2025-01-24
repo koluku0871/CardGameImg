@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-002', 'PackNo': 'BS04', 'CardName': 'カメレウィップ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '爬獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1］『相手のアタックステップ』このスピリットは、相手のスピリットをブロックできない。 ［Lv2］『このスピリットのアタック時』このスピリットをBP+1000する。'}

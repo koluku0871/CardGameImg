@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-054', 'PackNo': 'BS03', 'CardName': 'アルカナドール・トリア', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄'], 'CardType': '四道', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '[Lv2]【光芒】『このスピリットのアタック時』バトル終了時、自分がこのバトルで使用したマジックカードすべては手札に戻る。'}

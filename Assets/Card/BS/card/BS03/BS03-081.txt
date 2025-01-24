@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-081', 'PackNo': 'BS03', 'CardName': '人馬巨兵ダンストン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '異合', 'Lv': ['LV1 : 5000／2', 'LV2 : 8000／6'], 'Text': '-'}

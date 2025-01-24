@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-014', 'PackNo': 'BS02', 'CardName': 'ファンタズマ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : -／-'], 'Text': '-'}

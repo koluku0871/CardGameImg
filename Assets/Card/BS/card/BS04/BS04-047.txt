@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-047', 'PackNo': 'BS04', 'CardName': 'ワイズレス・スケアクロウ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄'], 'CardType': '動玩', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv2］【光芒】『このスピリットのアタック時』バトル終了時、自分がこのバトルで使用したマジックカードすべては手札に戻る。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-138', 'PackNo': 'BS03', 'CardName': 'テレポートチェンジ', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]バトルしている自分のスピリット1体を、バトルしていないものとして扱い、代わりに疲労状態の自分のスピリット1体を選び、バトルさせる。'}

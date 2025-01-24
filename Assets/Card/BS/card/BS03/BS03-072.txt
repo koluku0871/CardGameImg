@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-072', 'PackNo': 'BS03', 'CardName': '槍兵のジェフリー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': [], 'CardType': '闘神', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／4'], 'Text': '-'}

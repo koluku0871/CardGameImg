@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-127', 'PackNo': 'BS03', 'CardName': 'アイビィーケイジ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]BP2000以下のスピリットすべてを疲労させる。 [フラッシュ]このターンの間、スピリット1体をBP+3000する。'}

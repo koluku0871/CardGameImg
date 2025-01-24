@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-054', 'PackNo': 'BS01', 'CardName': 'ショックイーター', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '樹魔', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '-'}

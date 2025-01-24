@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-035', 'PackNo': 'BS04', 'CardName': 'バーサーカー・マグナム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白'], 'CardType': '動器', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2'], 'Text': '-'}

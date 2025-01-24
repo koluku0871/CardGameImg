@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-131', 'PackNo': 'BS03', 'CardName': 'ユナイテッドパワー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]自分のスピリット1体を疲労させる。このターンの間、スピリット1体をBP+(疲労させたスピリットのBP)する。'}

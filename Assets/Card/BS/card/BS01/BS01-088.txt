@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-088', 'PackNo': 'BS01', 'CardName': 'タワーミットクラブ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '巨獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '[Lv1-Lv2]自分のフィールドにあるネクサス1つにつき、このスピリットをBP+1000する'}

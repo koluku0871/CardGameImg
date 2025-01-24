@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-059', 'PackNo': 'BS02', 'CardName': 'ロム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '小玩', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3', 'LV3 : 5000／4'], 'Text': '-'}

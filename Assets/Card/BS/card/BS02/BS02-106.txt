@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-106', 'PackNo': 'BS02', 'CardName': 'ローヤルポーション', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]コスト2のスピリットすべてを回復させる。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-078', 'PackNo': 'BS01', 'CardName': '姫械マーニ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白'], 'CardType': '氷姫', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／4'], 'Text': '[Lv1-Lv2-Lv3]『このスピリットのアタック時』自分のトラッシュから、コア1個を自分のリザーブに置く'}

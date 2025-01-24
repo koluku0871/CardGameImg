@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-061', 'PackNo': 'BS04', 'CardName': '戦闘獣ジャッカー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '戦獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／4'], 'Text': '［Lv1-Lv2］自分のネクサス1つが破壊されたとき、このスピリット上のコアすべてを自分のトラッシュに置くことで、その破壊されたネクサス1つを自分のフィールドに戻す。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-057', 'PackNo': 'BS02', 'CardName': '妖精女王ティ・ターニャ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄'], 'CardType': '楽族', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 6000／5'], 'Text': '[Lv2-Lv3]『相手のアタックステップ』ステップ開始時、自分のトラッシュから、コア2個をこのスピリット上に置くことができる。'}

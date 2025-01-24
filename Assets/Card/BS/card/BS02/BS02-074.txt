@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-074', 'PackNo': 'BS02', 'CardName': '風船魔人バーバル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '6', 'ReducedCost': ['黄', '黄', '黄', '黄'], 'CardType': '動玩', 'Lv': ['LV1 : 5000／1', 'LV2 : 6000／3', 'LV3 : 7000／4'], 'Text': '-'}

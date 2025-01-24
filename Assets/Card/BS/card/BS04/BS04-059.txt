@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-059', 'PackNo': 'BS04', 'CardName': '薬師ギルママール', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': [], 'CardType': '創手', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』ボイドからコア1個を自分のネクサス1つの上に置く。'}

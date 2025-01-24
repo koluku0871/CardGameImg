@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-045', 'PackNo': 'BS03', 'CardName': '銀狐ハティ', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白'], 'CardType': '機獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '[Lv1-Lv2]『このスピリットのブロック時』このスピリットをBP+5000する。'}

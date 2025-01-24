@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-096', 'PackNo': 'BS01', 'CardName': '妖機妃ソール', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '8', 'ReducedCost': ['白', '白', '白'], 'CardType': '氷姫', 'Lv': ['LV1 : 2000／1', 'LV2 : 6000／4'], 'Text': '[Lv1]『このスピリットの破壊時』相手ターンのとき、そのターンのアタックステップをなくす。または終了する'}

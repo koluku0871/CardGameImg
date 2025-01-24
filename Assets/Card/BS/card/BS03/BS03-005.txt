@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-005', 'PackNo': 'BS03', 'CardName': 'エンチュウ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '溶魚', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3', 'LV3 : 6000／5'], 'Text': '-'}

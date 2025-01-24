@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-048', 'PackNo': 'BS01', 'CardName': '吸血姫ヴァンピレス', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '6', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '夜族', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／5'], 'Text': '[Lv1-Lv2-Lv3]『このスピリットの召喚時』自分か相手の疲労状態のスピリット1体を破壊する'}

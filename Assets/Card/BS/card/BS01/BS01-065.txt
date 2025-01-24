@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-065', 'PackNo': 'BS01', 'CardName': 'キリカブト', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '怪虫', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／3', 'LV3 : 6000／5'], 'Text': '[Lv1-Lv2-Lv3]『このスピリットの召喚時』ボイドからコア1個を自分のスピリット1体の上に置く'}

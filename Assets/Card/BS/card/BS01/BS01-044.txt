@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-044', 'PackNo': 'BS01', 'CardName': '牛霊スモゥグ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3', 'LV3 : 7000／6'], 'Text': '[Lv1-Lv2-Lv3]『このスピリットのアタック時』コアが1個しか置かれていない相手のスピリット1体を指定し、そのスピリットにアタックできる'}

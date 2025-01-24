@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-097', 'PackNo': 'BS04', 'CardName': 'フォレストオーラ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、アタックしている系統：「爪鳥」/「樹魔」を持つ自分のスピリットすべてをBP+3000する。'}

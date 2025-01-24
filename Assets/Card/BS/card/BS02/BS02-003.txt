@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-003', 'PackNo': 'BS02', 'CardName': 'ディノハウンド', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 4000／2', 'LV2 : 6000／4', 'LV3 : -／-'], 'Text': '-'}

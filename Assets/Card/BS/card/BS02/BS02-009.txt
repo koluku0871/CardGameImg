@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-009', 'PackNo': 'BS02', 'CardName': '竜狩りのアーケオルニ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '道化', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : -／-'], 'Text': '[Lv2]自分か相手のフィールドにあるネクサスが破壊されたとき、破壊されたネクサス1つにつき、自分はデッキから1枚ドローする。'}

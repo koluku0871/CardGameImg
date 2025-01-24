@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-095', 'PackNo': 'BS03', 'CardName': '奇術師オリバー', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '6', 'ReducedCost': ['青', '青', '青'], 'CardType': '道化', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／5'], 'Text': '[Lv1-Lv2]『相手のスタートステップ』相手の手札が4枚以上のとき、相手は手札が3枚になるようにカードを選んで破棄する。'}

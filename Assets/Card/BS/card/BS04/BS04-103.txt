@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-103', 'PackNo': 'BS04', 'CardName': 'ハイエーテル', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］系統：「巨獣」/「甲獣」を持つ自分のスピリット3体を回復させる。'}

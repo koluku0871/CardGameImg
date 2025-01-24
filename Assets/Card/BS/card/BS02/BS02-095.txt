@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-095', 'PackNo': 'BS02', 'CardName': 'サクリファイス', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '6', 'ReducedCost': ['紫', '紫', '紫', '紫'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]自分のネクサス1つを破壊することで、相手のネクサスすべての上に置かれているコアすべてを、相手のトラッシュに置く。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-142', 'PackNo': 'BS01', 'CardName': 'ピュアエリクサー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]自分の疲労状態のすべてのスピリットを回復する。このターンの間、この効果で回復したスピリットはアタックできない。'}

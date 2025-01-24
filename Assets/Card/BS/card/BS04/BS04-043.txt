@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-043', 'PackNo': 'BS04', 'CardName': 'ワルキューレ・ヒルド', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '6', 'ReducedCost': ['白', '白', '白'], 'CardType': '機人', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／3'], 'Text': '［Lv1-Lv2］このスピリットは、相手のスピリット/マジックの効果の対象にならない。 ［Lv2］自分のライフが減ったとき、このスピリットは回復する。'}

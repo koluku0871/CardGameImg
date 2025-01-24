@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-005', 'PackNo': 'BS01', 'CardName': 'アイバーン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '翼竜', 'Lv': ['LV1 : 2000／1', 'LV2 : 6000／4'], 'Text': '-'}

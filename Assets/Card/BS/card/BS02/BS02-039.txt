@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-039', 'PackNo': 'BS02', 'CardName': '神機ミョルニール', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 3000／2', 'LV2 : 5000／3', 'LV3 : 7000／5'], 'Text': '-'}

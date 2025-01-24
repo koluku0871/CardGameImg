@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-040', 'PackNo': 'BS04', 'CardName': '鎧装獣グリン・ブルスティ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', '白'], 'CardType': '甲獣・巨獣', 'Lv': ['LV1 : 4000／2', 'LV2 : 6000／3', 'LV3 : 8000／4'], 'Text': '-'}

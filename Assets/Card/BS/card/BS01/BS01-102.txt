@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-102', 'PackNo': 'BS01', 'CardName': '主無き古城', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': ['LV1 : -／0', 'LV2 : -／2', 'LV3 : -／-'], 'Text': '[Lv1-Lv2]自分の紫のスピリットすべてをBP+1000する。 [Lv2]『自分のスタートステップ』お互いの手札の枚数が同じか、相手の方が多いとき、自分はデッキから1枚ドローする。'}

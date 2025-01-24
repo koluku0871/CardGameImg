@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-003', 'PackNo': 'BS01', 'CardName': 'テラノセイバー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': [], 'CardType': '空牙', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '[Lv1]『相手のアタックステップ』このスピリットは、相手のスピリットをブロックできない。'}

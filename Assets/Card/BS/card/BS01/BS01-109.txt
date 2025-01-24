@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-109', 'PackNo': 'BS01', 'CardName': '風吹く丘陵', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': ['LV1 : -／0', 'LV2 : -／2', 'LV3 : -／-'], 'Text': '[Lv1-Lv2]『相手のスタートステップ』自分の【神速】を持つスピリット1体を回復させる。 [Lv2]召喚された自分のスピリットすべてを、そのターンの間のみBP+1000する'}

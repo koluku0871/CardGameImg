@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-077', 'PackNo': 'BS03', 'CardName': '強襲兵のノーマン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青'], 'CardType': '闘神', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／4'], 'Text': '[Lv1-Lv2]『このスピリットの破壊時』自分の手札にある青のネクサスカード1枚を、コストを支払わずに自分のフィールドに配置できる。'}

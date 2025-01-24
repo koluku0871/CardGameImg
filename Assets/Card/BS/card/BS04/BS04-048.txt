@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-048', 'PackNo': 'BS04', 'CardName': 'ダークピヨン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', '黄'], 'CardType': '歌鳥', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3', 'LV3 : 4000／4'], 'Text': '-'}

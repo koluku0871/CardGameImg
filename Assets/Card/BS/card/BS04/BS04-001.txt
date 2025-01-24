@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-001', 'PackNo': 'BS04', 'CardName': 'クナノミ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '溶魚', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』自分のフィールドに【覚醒】を持つスピリットがいるとき、このスピリットをBP+2000する。'}

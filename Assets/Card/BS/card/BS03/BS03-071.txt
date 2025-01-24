@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-071', 'PackNo': 'BS03', 'CardName': '戦闘獣ブルトップ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '0', 'ReducedCost': [], 'CardType': '戦獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '-'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-105', 'PackNo': 'BS02', 'CardName': 'グレートウォール', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[メイン]このターンの間、コスト6と8のスピリットすべては、アタックとブロックができない。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。'}

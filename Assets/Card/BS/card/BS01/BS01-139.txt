@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-139', 'PackNo': 'BS01', 'CardName': 'フェザーバリア', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]このターンの間、ブロックしている自分のスピリット1体は、相手のカードの効果を受けない。'}

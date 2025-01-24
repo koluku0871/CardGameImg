@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-120', 'PackNo': 'BS03', 'CardName': 'フレイムサイクロン', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]BP5000以下のスピリット1体を破壊する。'}

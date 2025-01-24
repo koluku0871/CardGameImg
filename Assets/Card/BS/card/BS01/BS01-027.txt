@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-027', 'PackNo': 'BS01', 'CardName': 'ウィル・オーブ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': [], 'CardType': '幽魔', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3', 'LV3 : 5000／4'], 'Text': '[Lv1]このスピリットはアタックできるとき、必ずアタックする。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-087', 'PackNo': 'BS01', 'CardName': 'メタルディー・バグ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '光虫', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '[Lv1-Lv2]『このスピリットの召喚時』お互いのフィールドにあるスピリット1体を指定する。そのお互いのスピリット上のコア1個をお互いのトラッシュに置く'}

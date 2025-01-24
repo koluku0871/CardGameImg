@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-043', 'PackNo': 'BS02', 'CardName': 'アルマ・ジール', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白'], 'CardType': '甲獣', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／3', 'LV3 : -／-'], 'Text': '[Lv2]『相手のアタックステップ』自分の白のスピリットすべてをBP+1000する。'}

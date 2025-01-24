@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-031', 'PackNo': 'BS01', 'CardName': 'デス・ハーデス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫'], 'CardType': '呪鬼', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／4'], 'Text': '-'}

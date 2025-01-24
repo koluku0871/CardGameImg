@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-005', 'PackNo': 'BS04', 'CardName': 'チェイン・ドラゴン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '機竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': '-'}

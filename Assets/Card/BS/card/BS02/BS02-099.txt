@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-099', 'PackNo': 'BS02', 'CardName': 'ライフチェイン', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', '緑', '緑'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]自分のスピリット1体を破壊する。ボイドから、破壊したスピリットのコスト1につき、コア1個を自分のリザーブに置く。'}

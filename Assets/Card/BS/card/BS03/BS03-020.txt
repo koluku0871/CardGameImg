@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-020', 'PackNo': 'BS03', 'CardName': 'メガ・ハンプダンプ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫', '紫'], 'CardType': '幽魔', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 7000／5'], 'Text': '-'}

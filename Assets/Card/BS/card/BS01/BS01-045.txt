@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-045', 'PackNo': 'BS01', 'CardName': '切り裂きヘディレス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '無魔', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '[Lv1-Lv2]『このスピリットの破壊時』このスピリットを自分の手札に戻す。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-148', 'PackNo': 'BS01', 'CardName': 'ラークドライブ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '6', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]今行っているバトルをただちに終了させる。'}

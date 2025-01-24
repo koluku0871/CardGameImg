@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-072', 'PackNo': 'BS02', 'CardName': 'トリックスター', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '6', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '道化', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : -／-'], 'Text': '[Lv1-Lv2]『このスピリットの召喚時』自分のトラッシュにあるマジックカード1枚を選んで手札に戻す。'}

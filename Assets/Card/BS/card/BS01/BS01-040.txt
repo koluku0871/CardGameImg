@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-040', 'PackNo': 'BS01', 'CardName': 'ダークウィッチ', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '呪鬼', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : 5000／7'], 'Text': '[Lv2-Lv3]『このスピリットのアタック時』自分か相手の疲労状態のスピリット1体を破壊する'}

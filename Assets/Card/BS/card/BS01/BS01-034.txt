@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-034', 'PackNo': 'BS01', 'CardName': 'バイ・パイソン', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '[Lv1-Lv2]『このスピリットのアタック時』自分はデッキから1枚ドローする。'}

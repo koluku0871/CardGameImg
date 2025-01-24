@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-074', 'PackNo': 'BS03', 'CardName': '戦闘獣ドーベン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '戦獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／3'], 'Text': '[Lv1-Lv2]『このスピリットのアタック時』このスピリットをBP+1000する。'}

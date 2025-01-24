@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-121', 'PackNo': 'BS01', 'CardName': 'フレイムダンス', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]BP4000以下のスピリット1体を破壊する。'}

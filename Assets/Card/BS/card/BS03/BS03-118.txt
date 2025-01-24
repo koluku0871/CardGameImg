@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-118', 'PackNo': 'BS03', 'CardName': 'フォースドロー', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]自分の手札が4枚になるまで、自分はデッキからドローする。 [フラッシュ]このターンの間、スピリット1体をBP+3000する'}

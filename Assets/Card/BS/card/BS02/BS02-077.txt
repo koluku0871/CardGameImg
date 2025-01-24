@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-077', 'PackNo': 'BS02', 'CardName': '決闘台地', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': ['LV1 : -／0', 'LV2 : -／4', 'LV3 : -／-'], 'Text': '[Lv1]『相手のスタートステップ』【覚醒】を持つ自分のスピリット1体を回復させる。 [Lv2]『相手のスタートステップ』【覚醒】を持つ自分のスピリットすべてを回復させる。'}

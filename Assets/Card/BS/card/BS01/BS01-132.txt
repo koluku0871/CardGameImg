@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-132', 'PackNo': 'BS01', 'CardName': 'ストームドロー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[メイン]自分はデッキから3枚ドローする。その後、手札2枚を選んで破棄する。 [フラッシュ]このターンの間、スピリット1体をBP+3000する。'}

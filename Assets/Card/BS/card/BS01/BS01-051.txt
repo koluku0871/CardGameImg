@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-051', 'PackNo': 'BS01', 'CardName': 'フライングミラージュ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': ['緑'], 'CardType': '殻虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '-'}

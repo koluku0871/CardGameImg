@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-030', 'PackNo': 'BS03', 'CardName': '調教師ライナ兄弟', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '道化', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '[Lv1-Lv2]『このスピリットの召喚時』ボイドから、自分のフィールドにあるネクサス1つにつき、コア1個をこのスピリット上に置く。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-050', 'PackNo': 'BS03', 'CardName': 'キノコノコ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': ['黄'], 'CardType': '楽族', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '[Lv2]『このスピリットのアタック時』自分がマジックの効果を使用するたび、このスピリットをBP+1000する。'}

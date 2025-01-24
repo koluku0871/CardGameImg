@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS04-112', 'PackNo': 'BS04', 'CardName': 'マッシブアップ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青', '青'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このターンの間、Lv3を持つ青のスピリット1体をLv3として扱う。'}

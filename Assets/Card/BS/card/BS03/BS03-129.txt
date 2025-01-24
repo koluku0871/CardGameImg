@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-129', 'PackNo': 'BS03', 'CardName': 'フロックリカバリー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '6', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]系統1つを指定する。指定した系統を持つ自分のスピリット3体を回復させる。'}

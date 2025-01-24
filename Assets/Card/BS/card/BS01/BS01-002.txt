@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-002', 'PackNo': 'BS01', 'CardName': 'ロクケラトプス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '地竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 4000／3'], 'Text': '-'}

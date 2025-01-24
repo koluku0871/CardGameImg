@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-026', 'PackNo': 'BS03', 'CardName': '木精ドリアドナ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': ['緑'], 'CardType': '樹魔・楽族', 'Lv': ['LV1 : 1000／1', 'LV2 : 6000／5'], 'Text': '-'}

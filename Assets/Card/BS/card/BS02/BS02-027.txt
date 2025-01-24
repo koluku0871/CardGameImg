@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS02-027', 'PackNo': 'BS02', 'CardName': 'カプリホルン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': ['緑'], 'CardType': '遊精', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3', 'LV3 : -／-'], 'Text': '[Lv2]『このスピリットのアタック時』相手の回復状態のスピリット1体につき、このスピリットをBP+1000する。'}

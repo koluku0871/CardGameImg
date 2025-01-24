@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-035', 'PackNo': 'BS03', 'CardName': '太陽花ゾンネ・ブルム', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '7', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '樹魔', 'Lv': ['LV1 : 5000／1', 'LV2 : 6000／4'], 'Text': '[Lv1-Lv2]『このスピリットの召喚時』ボイドからコア1個ずつを、系統:「樹魔」/「爪鳥」を持つ自分のスピリットすべての上に置く。'}

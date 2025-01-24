@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS01-145', 'PackNo': 'BS01', 'CardName': 'ディフェンシブオーラ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]このターンの間、ブロックしている自分のスピリットすべてをBP+3000する'}

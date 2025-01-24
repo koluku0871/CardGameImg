@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS03-139', 'PackNo': 'BS03', 'CardName': 'セイムタイアード', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '6', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]自分と相手のフィールドの疲労しているスピリットの数が同じになるように、相手のスピリットを疲労させる。'}
