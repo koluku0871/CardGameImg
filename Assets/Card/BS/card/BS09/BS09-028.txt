@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS09-028', 'PackNo': 'BS09', 'CardName': '機人ガラール', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': [], 'CardType': '機人', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］このスピリットは黄のスピリットとしても扱う。'}

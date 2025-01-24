@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS20-046', 'PackNo': 'BS20', 'CardName': 'ドラットフィッシュ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': [], 'CardType': '異合', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '-'}

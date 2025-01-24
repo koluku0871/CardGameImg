@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS32-078', 'PackNo': 'BS32', 'CardName': 'リミテッドバリア', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、コスト4以上のスピリット/アルティメットのアタックでは、自分のライフは減らない。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、相手のネクサス1つを手札に戻す。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS13-054', 'PackNo': 'BS13', 'CardName': 'ヒョウ・カッチュー', 'CardRarity': 'R', 'CardCategory': 'ブレイヴ', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '白'], 'CardType': '剣獣', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '［Lv1］『このブレイヴの召喚時』相手は、相手のスピリット2体を疲労させる。 《合体条件：コスト4以上》'}

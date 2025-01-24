@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-111', 'PackNo': 'BS10', 'CardName': 'ハンドタイフーン', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]お互い、手札すべてを破棄する。その後、お互い、デッキから4枚ドローする。 [フラッシュ]このターンの間、スピリット1体をBP+3000する。'}

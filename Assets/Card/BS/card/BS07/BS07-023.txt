@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS07-023', 'PackNo': 'BS07', 'CardName': 'ラクダチョウ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '遊精', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］【暴風：1】『このスピリットのアタック時』このスピリットがブロックされたとき、相手は、相手のスピリットを指定された体数疲労させる。'}

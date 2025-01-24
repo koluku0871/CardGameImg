@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS20-037', 'PackNo': 'BS20', 'CardName': '天使スピエル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '0', 'ReducedCost': [], 'CardType': '天霊', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］【強化】自分の「BP-効果」を-1000する。'}

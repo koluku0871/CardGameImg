@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS40-091', 'PackNo': 'BS40', 'CardName': 'セイクリッドウィング', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］煌臨元になっている自分のスピリットカード1枚を、コストを支払わずに召喚する。'}

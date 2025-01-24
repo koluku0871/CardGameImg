@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS11-075', 'PackNo': 'BS11', 'CardName': 'トーテンタンツ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]自分の手札にあるスピリットカード1枚かブレイヴカード1枚を破棄することで、相手のスピリット上のコア2個を相手のリザーブに置く。'}

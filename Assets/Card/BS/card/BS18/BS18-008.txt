@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS18-008', 'PackNo': 'BS18', 'CardName': 'モンク・ドラゴン', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '戦竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／2', 'LV3 : 9000／3'], 'Text': '［Lv1-Lv2-Lv3］『自分のバースト発動後』このスピリットは回復する。さらに、自分のスピリットのコア1個を、このスピリットに置くことができる。'}

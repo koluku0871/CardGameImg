@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS05-033', 'PackNo': 'BS05', 'CardName': '巨人機ユミール', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '動器', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／2'], 'Text': '-'}

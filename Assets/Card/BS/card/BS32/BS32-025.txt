@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS32-025', 'PackNo': 'BS32', 'CardName': '異牙忍カンガル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '忍風・剣獣', 'Lv': ['LV1 : 12000／1', 'LV2 : 16000／3'], 'Text': '-'}

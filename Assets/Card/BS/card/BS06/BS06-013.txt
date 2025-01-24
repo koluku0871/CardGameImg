@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-013', 'PackNo': 'BS06', 'CardName': 'ピジョンヘディレス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '0', 'ReducedCost': [], 'CardType': '無魔', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '-'}

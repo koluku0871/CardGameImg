@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-038', 'PackNo': 'BS14', 'CardName': '弓機兵ヴァーリ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '-'}

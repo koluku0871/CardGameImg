@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS26-034', 'PackNo': 'BS26', 'CardName': '天使ナスエル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄', 'ico_ultimate.png'], 'CardType': '護将・天霊', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］コスト6以上の自分のアルティメットのＵトリガーがガードされたとき、自分はデッキから1枚ドローし、自分のフィールドからコア1個を自分のライフに置く。'}

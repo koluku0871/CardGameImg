@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS05-020', 'PackNo': 'BS05', 'CardName': 'ポルック＆カスター', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '道化', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '［Lv2］『このスピリットのバトル時』BPを比べ相手のスピリットだけを破壊したとき、ボイドからコア1個を自分のリザーブに置く。'}

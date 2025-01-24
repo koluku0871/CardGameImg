@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS18-007', 'PackNo': 'BS18', 'CardName': 'ヤクシャモリ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤', '赤', '赤'], 'CardType': '爬獣', 'Lv': ['LV1 : 4000／1', 'LV2 : 10000／4'], 'Text': '-'}

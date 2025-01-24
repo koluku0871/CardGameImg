@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS37-024', 'PackNo': 'BS37', 'CardName': 'チャトランナー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': ['緑'], 'CardType': '剣獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '-'}

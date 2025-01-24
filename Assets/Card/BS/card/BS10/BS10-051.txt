@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-051', 'PackNo': 'BS10', 'CardName': '戦闘獣ライギャロップ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '戦獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］このスピリットは黄のスピリットとしても扱う。'}

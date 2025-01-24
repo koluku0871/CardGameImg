@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS19-047', 'PackNo': 'BS19', 'CardName': '眠りの花の妖精フィリー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', '黄'], 'CardType': '楽族', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／2', 'LV3 : 5000／3'], 'Text': '-'}

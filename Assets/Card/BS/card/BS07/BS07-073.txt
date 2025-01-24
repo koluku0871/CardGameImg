@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS07-073', 'PackNo': 'BS07', 'CardName': 'ワールウィンド', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]このターンの間、【暴風】の効果で相手が疲労させるスピリットを自分で指定する。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。'}

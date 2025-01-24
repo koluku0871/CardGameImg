@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-021', 'PackNo': 'BS06', 'CardName': '蛇后妃メドゥーサ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫'], 'CardType': '妖蛇・魔神', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3', 'LV3 : 8000／6'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのバトル時』自分はデッキから1枚ドローする。'}

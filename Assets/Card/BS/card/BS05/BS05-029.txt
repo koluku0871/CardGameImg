@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS05-029', 'PackNo': 'BS05', 'CardName': '機人エムブラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 5000／4'], 'Text': '-'}

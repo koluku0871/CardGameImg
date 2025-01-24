@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS31-103', 'PackNo': 'BS31', 'CardName': '瞬身之術', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］系統：「忍風」を持つ自分のスピリット1体を回復させる。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、この効果で回復したスピリットと同じカード名の自分のスピリットすべてを回復させる。'}

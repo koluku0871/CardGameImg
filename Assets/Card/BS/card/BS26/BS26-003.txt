@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS26-003', 'PackNo': 'BS26', 'CardName': 'プテラ戦闘機', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', 'ico_ultimate.png'], 'CardType': '空牙', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2'], 'Text': '手札にあるこのスピリットカードは、自分のＵトリガーがガードされたとき、コストを支払わずに召喚できる。［Lv1-Lv2］『このスピリットの召喚時』相手の合体スピリットのブレイヴ1つを破壊する。'}

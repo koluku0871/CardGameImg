@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS19-102', 'PackNo': 'BS19', 'CardName': 'パープルヘイズ', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '6', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体のコア1個を相手のリザーブに置く。この効果でそのスピリットのコアが0個になったとき、このマジックカードは手札に戻る。'}

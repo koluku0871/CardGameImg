@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS17-038', 'PackNo': 'BS17', 'CardName': 'カルミオン・キャット', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄'], 'CardType': '雄将・戯狩', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 4000／3'], 'Text': '［Lv2-Lv3］自分がマジックカードを使用したとき、その効果発揮後、このターンの間、このスピリットをBP+2000する。'}

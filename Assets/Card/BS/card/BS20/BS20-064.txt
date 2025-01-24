@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS20-064', 'PackNo': 'BS20', 'CardName': 'エンジェルエッグ', 'CardRarity': 'U', 'CardCategory': 'ブレイヴ', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '天霊', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '［Lv1］『このブレイヴの召喚時』自分の手札にある【強化】を持つ黄のスピリットカード1枚を、コストを支払わずに召喚できる。 《合体条件：コスト4以上》'}

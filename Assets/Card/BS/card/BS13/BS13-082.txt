@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS13-082', 'PackNo': 'BS13', 'CardName': 'ペガサスフラップ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]バトル解決時、BPを比べずにバトルを終了させる。その後、自分のスピリット1体を回復させる。'}

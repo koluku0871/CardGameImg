@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-039', 'PackNo': 'BS06', 'CardName': '浮遊魚モラモラー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白'], 'CardType': '空魚', 'Lv': ['LV1 : 1000／1', 'LV2 : 5000／3'], 'Text': '-'}

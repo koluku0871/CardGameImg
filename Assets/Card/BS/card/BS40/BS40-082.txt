@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS40-082', 'PackNo': 'BS40', 'CardName': 'ルーンサモン', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のトラッシュにある系統：「妖蛇」を持つスピリットカード1枚を召喚できる。ただし、『このスピリットの召喚時』効果は発揮されない。'}

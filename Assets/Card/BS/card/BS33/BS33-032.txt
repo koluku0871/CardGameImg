@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS33-032', 'PackNo': 'BS33', 'CardName': 'アシガルガンナー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白', '白'], 'CardType': '機巧・機人', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／2'], 'Text': '-'}

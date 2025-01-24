@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS09-078', 'PackNo': 'BS09', 'CardName': 'ヒーリングサークル', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白', '黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］ボイドからコア1個を自分のライフに置く。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS33-005', 'PackNo': 'BS33', 'CardName': 'ムシャケラトプス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '赤', '赤', '緑', '緑'], 'CardType': '地竜', 'Lv': ['LV1 : 8000／1', 'LV2 : 10000／3', 'LV3 : 13000／5'], 'Text': '-'}

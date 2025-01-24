@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS17-019', 'PackNo': 'BS17', 'CardName': 'テリムック', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '0', 'ReducedCost': [], 'CardType': '歌鳥', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／8'], 'Text': '-'}

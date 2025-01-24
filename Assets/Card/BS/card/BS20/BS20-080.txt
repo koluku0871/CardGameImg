@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS20-080', 'PackNo': 'BS20', 'CardName': 'パーフェクトリペアー', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のスピリット1体を回復させる。その後、このターンの間、この効果で回復した自分のスピリットすべては、相手のスピリットの効果を受けない。'}

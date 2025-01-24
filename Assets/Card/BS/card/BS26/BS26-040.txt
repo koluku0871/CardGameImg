@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS26-040', 'PackNo': 'BS26', 'CardName': '防人ヌビア', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青', 'ico_ultimate.png'], 'CardType': '護将・獣頭', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '［Lv1-Lv2］このスピリットが相手の効果で破壊されたとき、相手のデッキを上から5枚破棄することで、同じ状態でフィールドに残る。 ［Lv2］系統：「次代」を持つ自分のアルティメット1体につき、このスピリットをBP+3000する。'}

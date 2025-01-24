@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS11-022', 'PackNo': 'BS11', 'CardName': 'ウルビー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '剣獣', 'Lv': ['LV1 : 5000／1', 'LV2 : 6000／3', 'LV3 : 8000／4'], 'Text': '-'}

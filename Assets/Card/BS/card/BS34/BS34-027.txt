@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS34-027', 'PackNo': 'BS34', 'CardName': '風魔ホトトギス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '6', 'ReducedCost': ['緑', '緑', '緑', '緑'], 'CardType': '忍風・爪鳥', 'Lv': ['LV1 : 15000／1', 'LV2 : 20000／2'], 'Text': '-'}

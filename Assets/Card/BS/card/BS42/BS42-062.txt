@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS42-062', 'PackNo': 'BS42', 'CardName': '三つ首海賊団ロッド・ワイラー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青', '緑'], 'CardType': '異合・剣獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／3'], 'Text': '［Lv1-Lv2］このスピリットは、相手によってコアを取り除かれない。［Lv1-Lv2］『自分のメインステップ』このスピリットに緑のシンボル1つを追加する。'}

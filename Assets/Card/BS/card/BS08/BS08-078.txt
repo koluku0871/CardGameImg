@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS08-078', 'PackNo': 'BS08', 'CardName': 'デストラクションバリア', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このターンの間、【転召】を持たない相手のスピリットのアタックによって自分のライフが減らされたとき、そのスピリットを破壊する。'}

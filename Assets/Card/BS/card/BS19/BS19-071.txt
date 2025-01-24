@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS19-071', 'PackNo': 'BS19', 'CardName': 'バンブール', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '樹魔', 'Lv': ['LV1 : 2000／1', 'brave : +2000／'], 'Text': '［Lv1］『このブレイヴの召喚時』相手のスピリット1体を疲労させる。 《合体条件：コスト3以上》 《合体時》『このスピリットの合体アタック時』相手のスピリット1体を疲労させる。'}

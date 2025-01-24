@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS32-010', 'PackNo': 'BS32', 'CardName': '魂鬼', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '0', 'ReducedCost': [], 'CardType': '呪鬼', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : 5000／5'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの破壊時』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、自分はデッキから1枚ドローする。'}

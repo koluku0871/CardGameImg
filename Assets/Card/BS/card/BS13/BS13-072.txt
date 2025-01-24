@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS13-072', 'PackNo': 'BS13', 'CardName': '未完成の古代戦艦：羅針盤', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］相手は、トラッシュからカードを手札に戻せない。 ［Lv2］カード名に「古代戦艦」と入っている自分のネクサスすべてをLv2として扱う。'}

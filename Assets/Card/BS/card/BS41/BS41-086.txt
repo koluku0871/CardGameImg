@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS41-086', 'PackNo': 'BS41', 'CardName': 'ブレイヴサクリファイス', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このマジックカードの色を無いものとして扱い、相手のブレイヴ1つを破壊する。そうしたとき、自分はデッキから1枚ドローする。'}

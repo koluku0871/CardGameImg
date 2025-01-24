@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-097', 'PackNo': 'BS10', 'CardName': 'ブレイヴオーラ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このターンの間、アタックしている自分のスピリットすべてをBP+1000する。さらに、アタックしている自分の合体スピリットすべてをBP+3000する。'}

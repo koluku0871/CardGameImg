@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS21-024', 'PackNo': 'BS21', 'CardName': 'クロタネホーク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '爪鳥', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 8000／4'], 'Text': '［Lv1-Lv2-Lv3］【暴風：2】『このスピリットのアタック時』このスピリットがブロックされたとき、相手は、相手のスピリット2体を疲労させる。'}

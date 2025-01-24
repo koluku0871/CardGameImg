@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS18-019', 'PackNo': 'BS18', 'CardName': 'トガリネズミン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': ['緑'], 'CardType': '遊精', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／4'], 'Text': '-'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS08-077', 'PackNo': 'BS08', 'CardName': 'インフィニティシールド', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このターンの間、系統：「機獣」/「武装」を持つ自分のスピリットすべては、相手のスピリットすべてを疲労状態でブロックできる。'}

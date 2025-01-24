@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS25-007', 'PackNo': 'BS25', 'CardName': '爆炎象マキシマス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 6000／1', 'LV2 : 8000／3', 'LV3 : 10000／4'], 'Text': '自分の赤のアルティメットがいる間、手札にあるこのスピリットカードをコスト3にする。'}

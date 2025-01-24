@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS07-038', 'PackNo': 'BS07', 'CardName': '桜の妖精オウカ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄'], 'CardType': '楽族', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2：フラッシュ］このスピリットを疲労させることで、アタックしている【聖命】を持つ自分のスピリット1体をBP+2000する。'}

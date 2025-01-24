@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS26-073', 'PackNo': 'BS26', 'CardName': 'クリムゾンフレア', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤', 'ico_ultimate.png', 'ico_ultimate.png'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］シンボル1つの相手の合体スピリット2体を破壊する。または、シンボル2つの相手のスピリット1体を破壊する。'}

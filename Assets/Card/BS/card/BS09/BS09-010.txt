@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS09-010', 'PackNo': 'BS09', 'CardName': 'キツネービ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': [], 'CardType': '霊獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］このスピリットは赤のスピリットとしても扱う。'}

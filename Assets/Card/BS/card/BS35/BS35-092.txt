@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS35-092', 'PackNo': 'BS35', 'CardName': 'フラップウィング', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体を疲労させる。または、コスト4以下の相手のスピリット3体を疲労させる。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、かわりに、相手のスピリット1体と、コスト4以下の相手のスピリット3体を疲労させる。'}

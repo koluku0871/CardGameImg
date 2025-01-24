@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-114', 'PackNo': 'BS10', 'CardName': 'エリダヌスフラッド', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '6', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]相手の合体スピリット1体を破壊する。 [フラッシュ]このターンの間、スピリット1体をBP+4000する。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-084', 'PackNo': 'BS06', 'CardName': '侵食されゆく尖塔', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': ['LV2 : -／3'], 'Text': '［Lv1-Lv2］『相手のスタートステップ』自分のトラッシュにあるコアすべてを、自分のリザーブに置く。 ［Lv2］『自分のスタートステップ』相手のスピリット1体を手札に戻す。'}

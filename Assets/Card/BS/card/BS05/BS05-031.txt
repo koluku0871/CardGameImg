@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS05-031', 'PackNo': 'BS05', 'CardName': '銃騎士ヘビーバレル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 4000／2', 'LV2 : 5000／3', 'LV3 : 8000／4'], 'Text': '-'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-029', 'PackNo': 'BS14', 'CardName': 'ムシャ・ジオ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '巨獣・遊精', 'Lv': ['LV1 : 5000／1', 'LV2 : 6000／3', 'LV3 : 9000／5'], 'Text': '-'}

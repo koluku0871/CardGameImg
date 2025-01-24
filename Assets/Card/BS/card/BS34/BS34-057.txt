@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS34-057', 'PackNo': 'BS34', 'CardName': '法剣明王', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '7', 'ReducedCost': ['青', '青', '青', '青', '青', '青'], 'CardType': '闘神', 'Lv': ['LV1 : 6000／1', 'LV2 : 10000／3', 'LV3 : 15000／6'], 'Text': '［Lv3］『このスピリットのアタック時』相手のデッキを上から15枚破棄する。'}

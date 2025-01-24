@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS22-005', 'PackNo': 'BS22', 'CardName': 'フォトン・ドラゴン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］『このスピリットのバトル時』BP3000以下の相手のスピリット1体を破壊する。'}

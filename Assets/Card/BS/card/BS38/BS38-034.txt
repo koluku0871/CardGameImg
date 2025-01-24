@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS38-034', 'PackNo': 'BS38', 'CardName': 'ツナワタリーマウス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', '黄'], 'CardType': '道化・漂精', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 4000／3'], 'Text': '［Lv1-Lv2-Lv3］コスト2の自分のスピリット1体につき、このスピリットをBP+2000する。 《封印時》［Lv3］コスト2の自分のスピリットすべてに系統：「十冠」を与える。'}

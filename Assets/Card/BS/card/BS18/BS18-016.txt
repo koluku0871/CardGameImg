@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS18-016', 'PackNo': 'BS18', 'CardName': '闇王妃グネヴィア', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '6', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '雄将・夜族', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／3'], 'Text': '［Lv1-Lv2］『相手のエンドステップ』このターン相手が1回もアタックしていなかったら、自分の紫のバーストを、バースト条件を無視して発動できる。'}

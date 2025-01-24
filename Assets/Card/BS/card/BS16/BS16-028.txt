@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS16-028', 'PackNo': 'BS16', 'CardName': 'フロウ・ザッコ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白', '白'], 'CardType': '空魚', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／3'], 'Text': '-'}

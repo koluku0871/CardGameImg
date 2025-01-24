@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS17-082', 'PackNo': 'BS17', 'CardName': 'リバーシブルスパーク', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このバトルの間、BPを比べるとき、バトルしている自分のスピリットと相手のスピリットのBPを入れ替える。'}

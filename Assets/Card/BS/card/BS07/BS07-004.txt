@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS07-004', 'PackNo': 'BS07', 'CardName': '怒石竜ドラゴロック', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 4000／2', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］【激突】『このスピリットのアタック時』相手は可能ならば必ずブロックする。'}

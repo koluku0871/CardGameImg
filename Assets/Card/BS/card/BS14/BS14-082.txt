@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-082', 'PackNo': 'BS14', 'CardName': '五角形の砦', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］自分の手札は相手のスピリット/ブレイヴ/ネクサス/マジックの効果を受けない。 ［Lv2］『相手のターン』ドローステップ以外で相手がドローしたとき、自分はデッキから1枚ドローできる。'}

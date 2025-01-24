@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-021', 'PackNo': 'BS10', 'CardName': 'モスピード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': ['緑'], 'CardType': '怪虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］このスピリットは紫のスピリットとしても扱う。'}

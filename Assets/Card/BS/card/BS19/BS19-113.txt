@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS19-113', 'PackNo': 'BS19', 'CardName': 'ダブルバイセップス', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青', '青'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、自分のスピリット1体のLvを2つまで上のものとして扱う。'}

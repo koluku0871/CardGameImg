@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-024', 'PackNo': 'BS14', 'CardName': 'ツチピッグ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': [], 'CardType': '遊精', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『自分のエンドステップ』自分のトラッシュにあるカードが緑のカードだけのとき、このスピリットは回復する。'}

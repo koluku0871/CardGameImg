@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS21-056', 'PackNo': 'BS21', 'CardName': 'プテラノストーン', 'CardRarity': 'U', 'CardCategory': 'ブレイヴ', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '緑', '緑'], 'CardType': '機竜', 'Lv': ['LV1 : 4000／1', 'brave : +3000／'], 'Text': '［Lv1］『このブレイヴの召喚時』BP3000以下の相手のスピリット2体を破壊する。 《合体条件：コスト4以上》'}

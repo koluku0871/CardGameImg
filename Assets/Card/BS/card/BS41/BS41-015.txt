@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS41-015', 'PackNo': 'BS41', 'CardName': '勇輝ヘルソーサラー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '輝属・呪鬼', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚/破壊時』系統：「誕晶神」/「輝属」を持つ自分のスピリット1体につき、相手の合体しているブレイヴ1つを破壊する。'}

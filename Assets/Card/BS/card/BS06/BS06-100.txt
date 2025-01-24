@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-100', 'PackNo': 'BS06', 'CardName': 'ソーンプリズン', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手は、相手のスピリット2体を疲労させる。'}

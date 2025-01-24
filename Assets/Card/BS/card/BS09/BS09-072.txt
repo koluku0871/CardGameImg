@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS09-072', 'PackNo': 'BS09', 'CardName': 'シャドウブレイド', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '7', 'ReducedCost': ['紫', '紫', '紫', '赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のフィールドに赤と紫のスピリットがいるとき、【転召】を持たない疲労状態の相手のスピリットすべてを破壊する。'}

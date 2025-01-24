@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS40-084', 'PackNo': 'BS40', 'CardName': 'バインディングベリア', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］【旋風：1】相手のスピリット/アルティメット1体を重疲労させる。（重疲労状態のカードは逆向きにし、1回の回復で疲労状態になる）'}

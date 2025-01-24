@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-013', 'PackNo': 'BS14', 'CardName': 'はぐれシャ・ズー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': [], 'CardType': '霊獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／3'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』相手のスピリット1体を疲労させる。'}

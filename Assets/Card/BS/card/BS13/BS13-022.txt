@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS13-022', 'PackNo': 'BS13', 'CardName': 'ヤン・オーガ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑', '紫', '紫'], 'CardType': '殻人', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの破壊時』ボイドから、このスピリットのLvと同じ個数のコアを自分のリザーブに置く。'}

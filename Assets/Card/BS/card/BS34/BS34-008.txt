@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS34-008', 'PackNo': 'BS34', 'CardName': '聖炎龍', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '古竜', 'Lv': ['LV1 : 6000／1', 'LV2 : 10000／3', 'LV3 : 15000／6'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』BP8000以下の相手のスピリット1体を破壊する。'}

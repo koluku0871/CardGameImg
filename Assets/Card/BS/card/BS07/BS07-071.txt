@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS07-071', 'PackNo': 'BS07', 'CardName': 'ダーティフィスト', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このバトルの間、自分のスピリットのアタックによって相手のライフを減らしたとき、自分はデッキから2枚ドローする。'}

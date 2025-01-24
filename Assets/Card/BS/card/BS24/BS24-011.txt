@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS24-011', 'PackNo': 'BS24', 'CardName': 'ワンアイドデーモン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '0', 'ReducedCost': [], 'CardType': '呪鬼', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／3'], 'Text': '［Lv1-Lv2］【スピリットソウル：紫】自分がアルティメットカードを召喚するとき、このスピリットに<img src="/renewal/images/cardlist/ico_pup.png"/>（紫のシンボル1つ）を追加する。'}

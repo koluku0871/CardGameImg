@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS18-049', 'PackNo': 'BS18', 'CardName': 'グラッディ・スクアーロ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青', '青'], 'CardType': '異合', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 7000／4'], 'Text': '-'}

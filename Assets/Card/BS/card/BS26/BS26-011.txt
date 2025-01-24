@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS26-011', 'PackNo': 'BS26', 'CardName': 'ジーバック・アーマー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', 'ico_ultimate.png'], 'CardType': '護将・魔影', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］自分のアルティメットすべては、相手の効果で疲労したとき、相手のスピリットのコア1個を相手のトラッシュに置くことで、回復する。'}

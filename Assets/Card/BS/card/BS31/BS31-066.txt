@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS31-066', 'PackNo': 'BS31', 'CardName': 'ヤリスキッド', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '異合', 'Lv': ['LV1 : 7000／1', 'LV2 : 14000／4'], 'Text': '-'}

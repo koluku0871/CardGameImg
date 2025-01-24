@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS42-078', 'PackNo': 'BS42', 'CardName': '煌星ラニアケア', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］紫/白/黄の『このスピリット/ブレイヴの召喚時』効果は発揮されない。 ［Lv2］お互いのデッキは、「デッキ破棄効果」では、ターンに3枚までしか破棄されない。'}

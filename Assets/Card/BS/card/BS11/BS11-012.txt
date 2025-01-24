@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS11-012', 'PackNo': 'BS11', 'CardName': '冥鎧士ゼパル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '冥主', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／4', 'LV3 : 8000／7'], 'Text': '-'}

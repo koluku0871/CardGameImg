@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-044', 'PackNo': 'BS10', 'CardName': '森の妖精ペンタン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', '黄'], 'CardType': '歌鳥・漂精', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／3', 'LV3 : 5000／4'], 'Text': '-'}

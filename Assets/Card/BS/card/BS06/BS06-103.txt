@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-103', 'PackNo': 'BS06', 'CardName': 'キャバルリー', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］疲労状態の自分のスピリットすべてを回復させる。このターンの間、この効果で回復した、系統：「戦騎」を持つスピリット以外のスピリットはアタックできない。'}

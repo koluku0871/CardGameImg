@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-058', 'PackNo': 'BS14', 'CardName': '闘犬獣サイドロープ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青', '青'], 'CardType': '戦獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／4'], 'Text': '-'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS15-056', 'PackNo': 'BS15', 'CardName': 'ナイト・アノール', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '魔影', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '［Lv1］『このブレイヴの召喚時』相手のスピリットのコア1個を相手のリザーブに置く。 《合体条件：コスト4以上》'}

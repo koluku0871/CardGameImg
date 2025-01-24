@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS32-076', 'PackNo': 'BS32', 'CardName': '畳返之術', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体を疲労させる。その後、系統：「忍風」を持つ自分のスピリット1体を手札に戻す。'}

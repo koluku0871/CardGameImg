@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS32-019', 'PackNo': 'BS32', 'CardName': 'トゲアント', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': [], 'CardType': '刃虫', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』ボイドからコア1個を自分のリザーブに置く。このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、かわりに、ボイドからコア2個を自分のリザーブに置く。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS12-080', 'PackNo': 'BS12', 'CardName': 'バキュームシンボル', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]色1色を指定する。このターンの間、相手のスピリットすべては指定した色のシンボル1つを失う。この効果は、『自分のターン』で使えない。'}

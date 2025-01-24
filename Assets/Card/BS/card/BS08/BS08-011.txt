@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS08-011', 'PackNo': 'BS08', 'CardName': '冥狼士アーモン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫'], 'CardType': '冥主', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 6000／5'], 'Text': '-'}

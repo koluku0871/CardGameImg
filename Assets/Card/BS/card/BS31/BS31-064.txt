@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS31-064', 'PackNo': 'BS31', 'CardName': '青海童子', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青'], 'CardType': '家臣・闘神', 'Lv': ['LV1 : 5000／1', 'LV2 : 6000／2', 'LV3 : 8000／4'], 'Text': '［Lv1-Lv2-Lv3］【粉砕】『このスピリットのアタック時』相手のデッキを上から、このスピリットのLvと同じ枚数破棄する。'}

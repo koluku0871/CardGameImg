@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS19-038', 'PackNo': 'BS19', 'CardName': '近衛機キュリオシティ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／3'], 'Text': '［Lv1-Lv2］お互いのデッキは破棄されない。［Lv1-Lv2］【強化】自分の「スピリット回復効果」の体数を+1体する。'}

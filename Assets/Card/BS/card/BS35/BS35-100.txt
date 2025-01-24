@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS35-100', 'PackNo': 'BS35', 'CardName': 'オーシャンエナジー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、スピリット1体をBP+3000する。自分の手札が0枚のとき、さらに、自分はデッキから3枚ドローする。その後、自分は手札1枚を破棄する。'}

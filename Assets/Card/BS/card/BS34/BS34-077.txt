@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS34-077', 'PackNo': 'BS34', 'CardName': '忍風ストーム', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体を疲労させることで、系統：「忍風」を持つ自分のスピリット1体を回復させる。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、ボイドからコア1個を自分のリザーブに置く。'}

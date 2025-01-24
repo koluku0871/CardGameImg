@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS44-006', 'PackNo': 'BS44', 'CardName': 'シャーマント・ヒヒ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '神'], 'CardType': '界渡・皇獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のトラッシュにある創界神ネクサスカード1枚を手札に戻す。'}

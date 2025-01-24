@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS07-011', 'PackNo': 'BS07', 'CardName': 'ネクロウ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '［Lv1-Lv2］【呪撃】『このスピリットのアタック時』このスピリットは、ブロックした相手のスピリット1体をバトル終了時に破壊する。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS33-026', 'PackNo': 'BS33', 'CardName': '忠臣ユキノジョウ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑', 'ico_ultimate.png'], 'CardType': '家臣・剣獣', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］系統：「主君」/「家臣」/「剣獣」を持つ自分のスピリット/アルティメットすべてのコアの数は、相手によって3個以下にならない。 ［Lv2］『このスピリットのバトル時』相手のスピリット1体を疲労させる。'}

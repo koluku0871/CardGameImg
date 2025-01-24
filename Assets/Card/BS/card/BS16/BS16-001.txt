@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS16-001', 'PackNo': 'BS16', 'CardName': 'ノデッポ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のバーストをセットしているとき、BP3000以下の相手のスピリット1体を破壊する。'}

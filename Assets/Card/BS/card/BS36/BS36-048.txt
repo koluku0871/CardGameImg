@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS36-048', 'PackNo': 'BS36', 'CardName': 'ウリマジロ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '0', 'ReducedCost': [], 'CardType': '爆蒼', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／4'], 'Text': '-'}

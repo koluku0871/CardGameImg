@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS09-073', 'PackNo': 'BS09', 'CardName': 'オンザエッジ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、スピリットすべては、バトルでBPを比べるときLv2BPを使用する。'}

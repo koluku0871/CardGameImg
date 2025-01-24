@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS31-069', 'PackNo': 'BS31', 'CardName': 'ノーチラス・ゴレム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '5', 'ReducedCost': ['青', '青', '青', '青'], 'CardType': '造兵', 'Lv': ['LV1 : 10000／1', 'LV2 : 18000／4'], 'Text': '-'}

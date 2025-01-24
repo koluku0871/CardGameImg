@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-018', 'PackNo': 'BS14', 'CardName': 'ボース・ハンズ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '幽魔', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv2］『このスピリットの破壊時』自分はデッキから2枚ドローする。'}

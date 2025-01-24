@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS08-010', 'PackNo': 'BS08', 'CardName': 'デモ・ボーン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': [], 'CardType': '無魔', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv2］【呪撃】『このスピリットのアタック時』このスピリットは、ブロックした相手のスピリット1体をバトル終了時に破壊する。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS22-011', 'PackNo': 'BS22', 'CardName': '冥術士シャクス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫', '紫'], 'CardType': '冥主', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』疲労状態のコスト12以下の相手の合体スピリット1体を破壊する。'}

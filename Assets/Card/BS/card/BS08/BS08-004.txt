@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS08-004', 'PackNo': 'BS08', 'CardName': '恐竜人ティラノイド', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '竜人・地竜', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／3', 'LV3 : 6000／6'], 'Text': '［Lv1-Lv2-Lv3］自分のフィールドにスピリットが2体以下しかいない間、このスピリットはLv3として扱う。'}

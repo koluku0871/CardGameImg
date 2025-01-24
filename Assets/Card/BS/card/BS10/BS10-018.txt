@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-018', 'PackNo': 'BS10', 'CardName': 'エル・クラーケン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '夜族', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／4'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』相手のスピリットとネクサス合計3つまでを疲労させる。'}

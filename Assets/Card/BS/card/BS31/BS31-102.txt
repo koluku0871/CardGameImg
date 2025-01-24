@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS31-102', 'PackNo': 'BS31', 'CardName': 'ソウルシュート', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット/アルティメットのコア1個を相手のリザーブに置く。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、相手のスピリット/アルティメットのコア1個を相手のリザーブに置く。'}

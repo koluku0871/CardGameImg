@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS23-078', 'PackNo': 'BS23', 'CardName': 'グラスバインド', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP8000以下の相手のスピリット2体を疲労させる。このターンの間、相手のスピリットすべては回復できない。'}

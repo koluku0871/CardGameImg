@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-069', 'PackNo': 'BS06', 'CardName': 'ツァトゥグァ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青', '青', '青'], 'CardType': '異合', 'Lv': ['LV1 : 5000／2', 'LV2 : 8000／6'], 'Text': '-'}

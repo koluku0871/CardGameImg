@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS17-064', 'PackNo': 'BS17', 'CardName': '死者の湖', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': ['LV2 : -／3'], 'Text': '［Lv1-Lv2］『自分のバースト発動後』相手の合体スピリットのブレイヴ1つを破壊する。 ［Lv2］『お互いのアタックステップ』コスト3の自分のスピリットが疲労したとき、自分はデッキから1枚ドローする。'}

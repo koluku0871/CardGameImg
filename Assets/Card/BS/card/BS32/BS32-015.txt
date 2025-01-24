@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS32-015', 'PackNo': 'BS32', 'CardName': '式鬼神ガラン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫', '紫', '紫'], 'CardType': '呪鬼', 'Lv': ['LV1 : 9000／1', 'LV2 : 15000／3'], 'Text': '-'}

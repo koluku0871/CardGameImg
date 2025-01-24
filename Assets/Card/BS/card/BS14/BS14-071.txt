@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-071', 'PackNo': 'BS14', 'CardName': 'トランプン', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '四道・小玩', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '《合体条件：コスト4以上》 《合体時》相手のスピリットの効果で破壊されたとき、このスピリットは疲労状態で自分のフィールドに残る。'}

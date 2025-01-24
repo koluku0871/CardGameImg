@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-028', 'PackNo': 'BS06', 'CardName': 'ガブノハシ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '樹魔', 'Lv': ['LV1 : 1000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］【暴風：1】『このスピリットのアタック時』このスピリットがブロックされたとき、相手は、相手のスピリットを指定された体数疲労させる。'}

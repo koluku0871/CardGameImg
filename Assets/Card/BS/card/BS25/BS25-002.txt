@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS25-002', 'PackNo': 'BS25', 'CardName': 'ムーンボウ・ドラグーン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 5000／5'], 'Text': '[Lv1-Lv2-Lv3]このスピリットがスピリット/アルティメットの効果で消滅/破壊されたとき、自分はデッキから1枚ドローする。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS35-093', 'PackNo': 'BS35', 'CardName': 'ゲイルロードフィニッシュ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '6', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット/アルティメット2体を疲労させる。《封印時》その後、疲労状態の相手のスピリット/アルティメットすべてを手札に戻す。'}

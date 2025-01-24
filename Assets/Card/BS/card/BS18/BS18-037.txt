@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS18-037', 'PackNo': 'BS18', 'CardName': 'ホムンクー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': ['黄'], 'CardType': '小玩', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 4000／3'], 'Text': '-'}

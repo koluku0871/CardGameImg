@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS36-012', 'PackNo': 'BS36', 'CardName': 'スチームスネーク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫', '紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／3'], 'Text': '[Lv1-Lv2]シンボルを持たないブレイヴと合体している自分の合体スピリットすべては、相手の効果で疲労しない。'}

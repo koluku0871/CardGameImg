@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS40-086', 'PackNo': 'BS40', 'CardName': 'ヒーリングダンス', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］系統：「爪鳥」を持つ自分のスピリット2体を回復させる。'}

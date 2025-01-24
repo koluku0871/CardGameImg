@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS13-001', 'PackNo': 'BS13', 'CardName': 'ヒクイック', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '空牙', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3', 'LV3 : 5000／5'], 'Text': '-'}

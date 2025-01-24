@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS21-040', 'PackNo': 'BS21', 'CardName': 'ガトーブレパス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '想獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［Lv1-Lv2-Lv3］【聖命】『このスピリットのアタック時』このスピリットのアタックによって相手のライフを減らしたとき、ボイドからコア1個を自分のライフに置く。'}

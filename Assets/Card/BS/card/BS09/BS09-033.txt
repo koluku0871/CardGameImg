@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS09-033', 'PackNo': 'BS09', 'CardName': '槍戦騎ガウト', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白', '黄', '黄'], 'CardType': '武装・戦騎', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］『相手のアタックステップ』相手のスピリットによって自分のライフが減らされたとき、自分の黄のスピリット3体を回復させる。'}

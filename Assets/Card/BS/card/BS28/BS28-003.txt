@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS28-003', 'PackNo': 'BS28', 'CardName': 'リューマン・インフィニティ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', 'ico_ultimate.png'], 'CardType': '竜人', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 7000／5'], 'Text': 'トラッシュにあるこのスピリットカードは、系統：「極竜」/「次代」を持つ自分のアルティメットが召喚されたとき、手札に戻る。［Lv1-Lv2-Lv3］『このスピリットのアタック時』自分はデッキから1枚ドローする。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS44-027', 'PackNo': 'BS44', 'CardName': 'タケノコーギー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': ['緑'], 'CardType': '剣獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv2］『相手のターン』相手の効果によって相手の手札が増えたとき、増えたカード1枚につき、自分は、相手の手札1枚を内容を見ないで破棄する。'}

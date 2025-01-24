@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS40-001', 'PackNo': 'BS40', 'CardName': 'ディノラゴン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '翼竜・地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2'], 'Text': '-'}

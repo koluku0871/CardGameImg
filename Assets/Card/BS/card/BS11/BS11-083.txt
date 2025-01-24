@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS11-083', 'PackNo': 'BS11', 'CardName': 'レッドボイス', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]「ブロックされない」効果を持つ相手のスピリットすべてを破壊する。'}

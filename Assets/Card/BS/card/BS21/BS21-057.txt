@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS21-057', 'PackNo': 'BS21', 'CardName': '冥獣騎シトリー', 'CardRarity': 'R', 'CardCategory': 'ブレイヴ', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '冥主', 'Lv': ['LV1 : 2000／1', 'brave : +0／'], 'Text': '《合体条件：コスト3以上》 《合体時》『このスピリットの破壊時』相手のスピリット2体を疲労させる。'}

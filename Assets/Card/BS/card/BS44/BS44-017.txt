@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS44-017', 'PackNo': 'BS44', 'CardName': '風切りヘビ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』相手のスピリットのコア1個を、相手が相手のリザーブに置く。さらに、自分のネクサスがあるとき、自分はデッキから1枚ドローする。'}

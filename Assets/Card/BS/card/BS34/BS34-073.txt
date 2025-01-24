@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS34-073', 'PackNo': 'BS34', 'CardName': '焔大傾奇', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP合計7000まで相手のスピリットを好きなだけ破壊する。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、この効果で破壊した相手のスピリット1体につき、系統：「皇獣」を持つ自分のスピリット/アルティメット1体を回復させる。'}

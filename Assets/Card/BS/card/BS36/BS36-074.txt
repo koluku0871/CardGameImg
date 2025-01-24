@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS36-074', 'PackNo': 'BS36', 'CardName': 'ソニックバインド', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手の合体していないスピリットすべてを疲労させる。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、相手の合体スピリット1体を疲労させる。'}

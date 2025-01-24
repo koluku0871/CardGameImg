@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS08-013', 'PackNo': 'BS08', 'CardName': 'アンドレアルファス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '夜族・冥主', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『自分のエンドステップ』自分のトラッシュにあるカード名に「勇者」と入っているスピリットカード1枚を召喚できる。'}

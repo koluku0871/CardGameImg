@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-017', 'PackNo': 'BS14', 'CardName': '煙狼ノロシ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 4000／1', 'LV2 : 5000／3', 'LV3 : 7000／4'], 'Text': '-'}

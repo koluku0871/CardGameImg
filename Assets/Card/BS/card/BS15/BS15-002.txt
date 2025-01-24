@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS15-002', 'PackNo': 'BS15', 'CardName': 'ピグミゲーター', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '爬獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '-'}

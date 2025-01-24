@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS22-057', 'PackNo': 'BS22', 'CardName': 'スカル・ガルダ', 'CardRarity': 'U', 'CardCategory': 'ブレイヴ', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '白'], 'CardType': '無魔', 'Lv': ['LV1 : 4000／1', 'brave : +4000／'], 'Text': '［Lv1］『このブレイヴの召喚時』自分はデッキから1枚ドローする。 《合体条件：コスト4以上》'}

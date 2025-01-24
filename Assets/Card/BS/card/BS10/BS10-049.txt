@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-049', 'PackNo': 'BS10', 'CardName': '妖精神官アンドロメダ', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '6', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '楽族・星魂', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のトラッシュにあるマジックカード1枚を手札に戻す。［Lv1-Lv2-Lv3］自分の手札1枚につき、このスピリットをBP+1000する。'}

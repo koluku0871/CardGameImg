@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-039', 'PackNo': 'BS10', 'CardName': 'ビアンコ・ティーガー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '6', 'ReducedCost': ['白', '白', '白', '白'], 'CardType': '機獣', 'Lv': ['LV1 : 5000／1', 'LV2 : 9000／2'], 'Text': '-'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS28-071', 'PackNo': 'BS28', 'CardName': '海帝国の秘宝', 'CardRarity': 'R', 'CardCategory': 'ネクサス', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］自分の手札は相手の効果を受けない。 ［Lv2］『自分のアタックステップ』自分の青のスピリット/アルティメットの効果で破棄する自分の手札の枚数を-1枚する。'}

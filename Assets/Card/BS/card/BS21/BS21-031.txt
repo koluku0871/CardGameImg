@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS21-031', 'PackNo': 'BS21', 'CardName': '神機ゲイボルグ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／2'], 'Text': '［Lv2］【強化】自分の「スピリット回復効果」の体数を+1体する。'}

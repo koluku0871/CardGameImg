@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS07-046', 'PackNo': 'BS07', 'CardName': '豹人ベルセルカス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '獣頭', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 6000／6'], 'Text': '-'}

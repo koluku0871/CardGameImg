@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS17-008', 'PackNo': 'BS17', 'CardName': '紅玉の巨龍ボルガンド', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '7', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '翼竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 8000／3', 'LV3 : 10000／4'], 'Text': '［Lv1-Lv2-Lv3：フラッシュ］【覚醒】自分のスピリットのコアを、好きなだけこのスピリットに置くことができる。'}

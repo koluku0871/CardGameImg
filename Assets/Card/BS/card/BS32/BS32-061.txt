@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS32-061', 'PackNo': 'BS32', 'CardName': '護法ゴレム', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '青', 'Cost': '5', 'ReducedCost': ['青', '青', '青'], 'CardType': '造兵', 'Lv': ['LV1 : 4000／1', 'brave : +4000／'], 'Text': '《合体条件：コスト4以上》 《合体時》［フラッシュ］『相手のアタックステップ』自分のネクサス1つを疲労させることで、このスピリットは回復する。'}

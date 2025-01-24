@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS31-009', 'PackNo': 'BS31', 'CardName': 'ヨロイステゴ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 10000／1', 'LV2 : 16000／3'], 'Text': '-'}

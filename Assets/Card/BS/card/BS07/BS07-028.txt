@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS07-028', 'PackNo': 'BS07', 'CardName': '機人ヴェルンド', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': [], 'CardType': '機人', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '［Lv1-Lv2］【装甲：青】このスピリットは、指定された色の相手のスピリット/ネクサス/マジックの効果を受けない。'}

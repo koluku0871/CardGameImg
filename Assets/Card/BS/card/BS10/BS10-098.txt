@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-098', 'PackNo': 'BS10', 'CardName': 'リバイヴドロー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]自分はデッキから2枚ドローする。または、自分のトラッシュにあるスピリットカード1枚を手札に戻す。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。'}

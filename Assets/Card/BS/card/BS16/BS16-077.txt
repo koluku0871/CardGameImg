@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS16-077', 'PackNo': 'BS16', 'CardName': 'タフネスリカバリー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、スピリット1体をBP+2000する。その後、そのスピリットがBP10000以上のとき、そのスピリットを回復させる。'}

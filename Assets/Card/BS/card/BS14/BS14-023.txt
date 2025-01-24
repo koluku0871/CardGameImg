@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-023', 'PackNo': 'BS14', 'CardName': 'カッチュウムシ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '0', 'ReducedCost': [], 'CardType': '殻虫', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '-'}

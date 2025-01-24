@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS35-057', 'PackNo': 'BS35', 'CardName': 'イノツチブタ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青'], 'CardType': '異合', 'Lv': ['LV1 : 1000／1', 'LV2 : 7000／4'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから2枚ドローする。その後、自分は手札2枚を破棄する。［Lv1-Lv2］自分の手札が3枚以下の間、このスピリットをBP+5000する。'}

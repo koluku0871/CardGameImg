@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS44-049', 'PackNo': 'BS44', 'CardName': '不思議王国モクバエ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '0', 'ReducedCost': [], 'CardType': '四道', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '-'}

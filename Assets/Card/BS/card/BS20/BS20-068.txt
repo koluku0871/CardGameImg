@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS20-068', 'PackNo': 'BS20', 'CardName': '腐食する大瀑布', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］自分の紫のスピリットすべてをBP+1000する。 ［Lv2］『相手のアタックステップ』BP6000以下の相手のスピリットがアタックしたとき、相手は、相手のスピリットのコア1個を相手のトラッシュに置く。'}

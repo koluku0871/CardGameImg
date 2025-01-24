@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS33-078', 'PackNo': 'BS33', 'CardName': '光翼之太刀', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、自分のスピリット/アルティメット1体をBP+3000する。その後、そのスピリット/アルティメットは疲労状態でブロックできる。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS17-013', 'PackNo': 'BS17', 'CardName': 'スモックジラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 6000／5'], 'Text': '［Lv1-Lv2-Lv3］コスト3の自分のスピリットが相手によって破壊されたとき、コスト3以下のスピリット1体を破壊できる。'}

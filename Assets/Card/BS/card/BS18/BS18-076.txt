@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS18-076', 'PackNo': 'BS18', 'CardName': 'クリスタルクラック', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体のコアを、1個だけになるように相手のトラッシュに置く。'}

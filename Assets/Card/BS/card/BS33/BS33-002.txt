@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS33-002', 'PackNo': 'BS33', 'CardName': 'ホムラグドール', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '緑'], 'CardType': '皇獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］このスピリットの色とシンボルは緑としても扱う。［Lv1-Lv2］『自分のバースト発動後』発動したバーストが緑のカードだったら、自分の緑のスピリット1体を回復させる。'}

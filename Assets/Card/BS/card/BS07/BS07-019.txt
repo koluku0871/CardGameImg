@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS07-019', 'PackNo': 'BS07', 'CardName': 'スペアミンク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': [], 'CardType': '剣獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／2'], 'Text': '-'}

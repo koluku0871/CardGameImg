@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS09-070', 'PackNo': 'BS09', 'CardName': 'エリミネイション', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のスピリット上のコア1個を自分のトラッシュに置くことで、相手は、相手のスピリット上のコア1個を相手のトラッシュに置く。'}

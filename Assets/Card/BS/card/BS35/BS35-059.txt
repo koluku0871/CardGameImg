@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS35-059', 'PackNo': 'BS35', 'CardName': 'シマクマ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '異合', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］自分の手札が3枚以下の間、このスピリットは相手の効果で破壊されない。［Lv1-Lv2］『お互いのエンドステップ』お互い、手札が3枚以下になるように、相手、自分の順番で破棄する。'}

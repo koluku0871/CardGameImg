@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS14-003', 'PackNo': 'BS14', 'CardName': 'スカートゥース', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '空牙', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』自分のトラッシュにあるカードが赤のカードだけの間、このスピリットをBP+3000する。'}

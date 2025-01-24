@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-089', 'PackNo': 'BS10', 'CardName': '月照す氷結湖', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '[Lv1-Lv2］『自分のスタートステップ』相手のネクサス1つを手札に戻す。 ［Lv2］『相手のターン』ドローステップ以外で相手がドローしたとき、自分はデッキから1枚ドローできる。'}

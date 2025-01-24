@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS31-057', 'PackNo': 'BS31', 'CardName': 'ヌリカベ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄', '黄', '黄'], 'CardType': '家臣・妖戒', 'Lv': ['LV1 : 9000／1', 'LV2 : 11000／2', 'LV3 : 13000／3'], 'Text': '-'}

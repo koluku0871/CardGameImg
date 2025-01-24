@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS10-007', 'PackNo': 'BS10', 'CardName': 'デュアルド', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤', '赤'], 'CardType': '古竜・異合', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／3'], 'Text': '-'}

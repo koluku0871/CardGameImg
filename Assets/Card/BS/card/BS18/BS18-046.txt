@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS18-046', 'PackNo': 'BS18', 'CardName': 'シャッガイ・バグ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': [], 'CardType': '異合', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／3'], 'Text': '［Lv2］『自分のアタックステップ』シンボル2つ以上を持つ自分のスピリットは、BPを比べ相手のスピリットだけを破壊したとき回復する。'}

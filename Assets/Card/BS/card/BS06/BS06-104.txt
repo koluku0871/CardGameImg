@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-104', 'PackNo': 'BS06', 'CardName': 'アバランチオーラ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、ブロックしている自分のスピリットすべてをBP+2000する。さらにブロックしている【装甲】を持つ自分のスピリットすべてをBP+2000する。'}

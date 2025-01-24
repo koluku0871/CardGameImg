@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS11-064', 'PackNo': 'BS11', 'CardName': '闇の聖剣', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］自分のスピリットが破壊されたとき、そのスピリットをコスト3/4のスピリットとしても扱う。 ［Lv2］相手のスピリットが合体したとき、その合体スピリットは疲労する。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS44-054', 'PackNo': 'BS44', 'CardName': 'ペンタン皇帝\u3000～オリン放浪中～', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '界渡・歌鳥・漂精', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』相手の創界神ネクサスのコア1個をボイドに置くことで、自分はデッキから1枚ドローする。'}

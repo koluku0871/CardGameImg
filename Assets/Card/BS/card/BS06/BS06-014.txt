@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-014', 'PackNo': 'BS06', 'CardName': 'スモッグゴート', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': [], 'CardType': '霊獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』相手のスピリット上のコア1個を相手のリザーブに置く。この効果で相手のスピリット上のコアを0個にはできない。'}

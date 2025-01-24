@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS34-082', 'PackNo': 'BS34', 'CardName': '海断一刀斬', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', 'ico_ultimate.png'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］「ブロックされない」効果を持つ相手のスピリット/アルティメットすべてを破壊する。この効果発揮後、系統：「獣頭」を持つ自分のスピリット/アルティメットがいるとき、最もコストの低い相手のスピリット1体を破壊する。'}

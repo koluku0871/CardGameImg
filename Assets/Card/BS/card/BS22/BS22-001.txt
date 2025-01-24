@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS22-001', 'PackNo': 'BS22', 'CardName': 'ピストジャサウルス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '0', 'ReducedCost': [], 'CardType': '地竜・溶魚', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : 4000／4'], 'Text': '-'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS05-006', 'PackNo': 'BS05', 'CardName': '城塞龍メガロン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤', '赤'], 'CardType': '機竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／3'], 'Text': '-'}

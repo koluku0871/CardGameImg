@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS22-038', 'PackNo': 'BS22', 'CardName': 'ロールマイマイ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', '黄'], 'CardType': '菓族', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［Lv1-Lv2-Lv3］自分の緑のスピリットが相手によって破壊されたとき、破壊されたスピリットからコア1個を自分のライフに置くことができる。'}

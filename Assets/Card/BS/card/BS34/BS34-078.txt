@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS34-078', 'PackNo': 'BS34', 'CardName': '氷雪サークル', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット/アルティメット1体を指定する。このターンの間、そのスピリット/アルティメットは自分のライフを減らせない。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)を使用していたら、この効果で指定するスピリット/アルティメットを2体にする。'}

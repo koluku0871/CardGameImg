@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS09-083', 'PackNo': 'BS09', 'CardName': 'ブレシングコア', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］ボイドから、コア1個ずつを自分のネクサス2つの上に置く。 ［フラッシュ］このターンの間、スピリット1体をBP+3000する。'}

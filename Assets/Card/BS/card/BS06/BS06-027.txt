@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-027', 'PackNo': 'BS06', 'CardName': 'ガゼルケイド', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑', '緑'], 'CardType': '遊精', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3'], 'Text': '-'}

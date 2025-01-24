@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS41-RV001', 'PackNo': 'BS41', 'CardName': 'レイニードル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '星竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 4000／3'], 'Text': '［Lv1-Lv2-Lv3］『自分のメインステップ』自分がカード名に「ヴルム」を含むスピリットカードを召喚するとき、このスピリットに赤のシンボル1つを追加する。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS29-036', 'PackNo': 'BS29', 'CardName': '竜人職人ガガ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青'], 'CardType': '創手・竜人', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／4'], 'Text': '［Lv1-Lv2］『お互いのアタックステップ』系統：「剣使」を持つ自分の合体スピリット/合体アルティメットすべてを、そのスピリット/アルティメットが持つ最高Lvとして扱う。'}

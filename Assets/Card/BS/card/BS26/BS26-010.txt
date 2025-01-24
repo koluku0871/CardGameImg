@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS26-010', 'PackNo': 'BS26', 'CardName': 'ホーンバイパー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。 《合体時》［Lv2］『このスピリットのバトル時』自分はデッキから1枚ドローする。'}

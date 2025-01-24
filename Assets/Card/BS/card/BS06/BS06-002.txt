@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS06-002', 'PackNo': 'BS06', 'CardName': 'イグアナイフ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '爬獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2', 'LV3 : 5000／3'], 'Text': '-'}

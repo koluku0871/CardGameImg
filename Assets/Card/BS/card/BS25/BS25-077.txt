@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS25-077', 'PackNo': 'BS25', 'CardName': 'バインディングスケイル', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '7', 'ReducedCost': ['緑', '緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]相手のスピリット/アルティメット1体を疲労させる。または、このターンの間、スピリット/アルティメット1体をBP+10000する。'}

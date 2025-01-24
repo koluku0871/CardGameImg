@@ -1,0 +1,1 @@
+﻿{'CardNo': 'BS31-002', 'PackNo': 'BS31', 'CardName': 'ヤイバード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3', 'LV3 : 4000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの破壊時』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、BP6000以下の相手のスピリット/アルティメット1体を破壊する。'}
