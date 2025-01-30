@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS17-048', 'PackNo': 'BS17', 'CardName': '熊人ラーテシード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '獣頭', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］お互い、ボイドからライフにコアを置けない。 ［Lv2］『相手のアタックステップ』自分のスピリットが3体以下の間、自分のスピリットすべてをBP+2000する。'}
+﻿{
+  "CardNo": "BS17-048",
+  "PackNo": "BS17",
+  "CardName": "熊人ラーテシード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］お互い、ボイドからライフにコアを置けない。 ［Lv2］『相手のアタックステップ』自分のスピリットが3体以下の間、自分のスピリットすべてをBP+2000する。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC42-001', 'PackNo': 'BSC42', 'CardName': 'ゴラドンLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '0', 'ReducedCost': [], 'CardType': '緋炎・爬獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［フラッシュ］【アクセル】コスト1（この効果は手札から使用できる）このターンの間、スピリット1体をBP+3000する。この効果発揮後、このカードはオープンして手元に置く。'}
+﻿{
+  "CardNo": "BSC42-001",
+  "PackNo": "BSC42",
+  "CardName": "ゴラドンLT",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "緋炎・爬獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト1（この効果は手札から使用できる）このターンの間、スピリット1体をBP+3000する。この効果発揮後、このカードはオープンして手元に置く。"
+}

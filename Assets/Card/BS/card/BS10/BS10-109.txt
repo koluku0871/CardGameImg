@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS10-109', 'PackNo': 'BS10', 'CardName': 'シャイニングアロー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]自分のトラッシュにある【聖命】を持つスピリットカード1枚を手札に戻す。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。'}
+﻿{
+  "CardNo": "BS10-109",
+  "PackNo": "BS10",
+  "CardName": "シャイニングアロー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]自分のトラッシュにある【聖命】を持つスピリットカード1枚を手札に戻す。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。"
+}

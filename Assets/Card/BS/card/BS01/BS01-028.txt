@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS01-028', 'PackNo': 'BS01', 'CardName': 'スカルデビル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': ['紫'], 'CardType': '呪鬼', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS01-028",
+  "PackNo": "BS01",
+  "CardName": "スカルデビル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "1",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "呪鬼",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "-"
+}

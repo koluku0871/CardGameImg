@@ -1,1 +1,19 @@
-﻿{'CardNo': 'CB26-021', 'PackNo': 'CB26', 'CardName': 'ネイサン・シーモア', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '白'], 'CardType': 'NEXT', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のデッキを上から3枚オープンできる。その中の「FIRE EMBLEM」/「SKY HIGH」/「ファイヤーエンブレムカー」1枚を手札に加える。残ったカードは破棄する。 ［Lv2］『自分のメインステップ』このスピリットに白シンボル1つを追加する。'}
+﻿{
+  "CardNo": "CB26-021",
+  "PackNo": "CB26",
+  "CardName": "ネイサン・シーモア",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "白"
+  ],
+  "CardType": "NEXT",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分のデッキを上から3枚オープンできる。その中の「FIRE EMBLEM」/「SKY HIGH」/「ファイヤーエンブレムカー」1枚を手札に加える。残ったカードは破棄する。 ［Lv2］『自分のメインステップ』このスピリットに白シンボル1つを追加する。"
+}

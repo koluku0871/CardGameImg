@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS08-020', 'PackNo': 'BS08', 'CardName': 'ディオ・マンティス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '怪虫', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS08-020",
+  "PackNo": "BS08",
+  "CardName": "ディオ・マンティス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "怪虫",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "-"
+}

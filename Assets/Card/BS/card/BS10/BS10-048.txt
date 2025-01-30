@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS10-048', 'PackNo': 'BS10', 'CardName': '天使パワー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄', '黄'], 'CardType': '天霊', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／2', 'LV3 : 8000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS10-048",
+  "PackNo": "BS10",
+  "CardName": "天使パワー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "天霊",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／2",
+    "LV3 : 8000／4"
+  ],
+  "Text": "-"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS34-014', 'PackNo': 'BS34', 'CardName': '鬼道法師アラヤ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '起導者・夜族', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。 ［Lv2］【起導：紫】『このスピリットのアタック時』このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のトラッシュに置くことで、自分の紫のＳバースト1つをただちに発動させる。'}
+﻿{
+  "CardNo": "BS34-014",
+  "PackNo": "BS34",
+  "CardName": "鬼道法師アラヤ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "起導者・夜族",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。 ［Lv2］【起導：紫】『このスピリットのアタック時』このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のトラッシュに置くことで、自分の紫のＳバースト1つをただちに発動させる。"
+}

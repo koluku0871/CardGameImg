@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS22-037', 'PackNo': 'BS22', 'CardName': 'カマウィゼル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': [], 'CardType': '想獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS22-037",
+  "PackNo": "BS22",
+  "CardName": "カマウィゼル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "想獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "-"
+}

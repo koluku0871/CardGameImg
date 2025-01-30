@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS27-080', 'PackNo': 'BS27', 'CardName': 'セブンスフォース', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', 'ico_ultimate.png'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]このターンの間、系統：「次代」を持つ自分のアルティメット1体をコスト7として扱う。 ［フラッシュ］このターンの間、自分のスピリット/アルティメット1体をBP+3000する。'}
+﻿{
+  "CardNo": "BS27-080",
+  "PackNo": "BS27",
+  "CardName": "セブンスフォース",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "ico_ultimate.png"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]このターンの間、系統：「次代」を持つ自分のアルティメット1体をコスト7として扱う。 ［フラッシュ］このターンの間、自分のスピリット/アルティメット1体をBP+3000する。"
+}

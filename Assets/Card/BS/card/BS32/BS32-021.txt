@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS32-021', 'PackNo': 'BS32', 'CardName': '風魔ササクナイ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '忍風・爪鳥', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／3'], 'Text': '［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、ボイドからコア1個を自分のリザーブに置く。［Lv1-Lv2］『このスピリットのバトル時』このスピリットをBP+3000する。'}
+﻿{
+  "CardNo": "BS32-021",
+  "PackNo": "BS32",
+  "CardName": "風魔ササクナイ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "忍風・爪鳥",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／3"
+  ],
+  "Text": "［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、ボイドからコア1個を自分のリザーブに置く。［Lv1-Lv2］『このスピリットのバトル時』このスピリットをBP+3000する。"
+}

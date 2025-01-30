@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS32-059', 'PackNo': 'BS32', 'CardName': '亀甲獣カブトガメ', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白', '白'], 'CardType': '機巧・甲獣', 'Lv': ['LV1 : 10000／1', 'brave : +10000／'], 'Text': '《合体条件：コスト4以上》'}
+﻿{
+  "CardNo": "BS32-059",
+  "PackNo": "BS32",
+  "CardName": "亀甲獣カブトガメ",
+  "CardRarity": "C",
+  "CardCategory": "ブレイヴ",
+  "Element": "白",
+  "Cost": "5",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "機巧・甲獣",
+  "Lv": [
+    "LV1 : 10000／1",
+    "brave : +10000／"
+  ],
+  "Text": "《合体条件：コスト4以上》"
+}

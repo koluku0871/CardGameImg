@@ -1,1 +1,16 @@
-﻿{'CardNo': 'CB13-001', 'PackNo': 'CB13', 'CardName': 'ドラッツェ[袖付き］', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '0', 'ReducedCost': [], 'CardType': 'MS・袖付き', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv2］『お互いのアタックステップ』系統：「袖付き」を持つ自分のスピリットすべてをBP+1000する。'}
+﻿{
+  "CardNo": "CB13-001",
+  "PackNo": "CB13",
+  "CardName": "ドラッツェ[袖付き］",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "MS・袖付き",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［Lv2］『お互いのアタックステップ』系統：「袖付き」を持つ自分のスピリットすべてをBP+1000する。"
+}

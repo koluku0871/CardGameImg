@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS20-077', 'PackNo': 'BS20', 'CardName': 'ウィンドプレッシャー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］このターンの間、系統：「爪鳥」を持つ自分のスピリットすべてをBP+2000する。 ［フラッシュ］相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "BS20-077",
+  "PackNo": "BS20",
+  "CardName": "ウィンドプレッシャー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］このターンの間、系統：「爪鳥」を持つ自分のスピリットすべてをBP+2000する。 ［フラッシュ］相手のスピリット1体を疲労させる。"
+}

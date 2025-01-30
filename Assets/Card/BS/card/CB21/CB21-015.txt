@@ -1,1 +1,19 @@
-﻿{'CardNo': 'CB21-015', 'PackNo': 'CB21', 'CardName': 'EVANGELION Mark.04 コード4B', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫\n青', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '造兵・NERV', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／4'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分の手札1枚を破棄することで、自分はデッキから2枚ドローする。 ［Lv2］『相手によるこのスピリットの破壊時』このスピリットは手札に戻ることができる。'}
+﻿{
+  "CardNo": "CB21-015",
+  "PackNo": "CB21",
+  "CardName": "EVANGELION Mark.04 コード4B",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫\n青",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "造兵・NERV",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／4"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分の手札1枚を破棄することで、自分はデッキから2枚ドローする。 ［Lv2］『相手によるこのスピリットの破壊時』このスピリットは手札に戻ることができる。"
+}

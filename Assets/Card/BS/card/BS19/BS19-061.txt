@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS19-061', 'PackNo': 'BS19', 'CardName': '光の闘士ランダル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '闘神', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］【強化】自分の「相手へのデッキ破棄効果」の枚数を+1枚する。'}
+﻿{
+  "CardNo": "BS19-061",
+  "PackNo": "BS19",
+  "CardName": "光の闘士ランダル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］【強化】自分の「相手へのデッキ破棄効果」の枚数を+1枚する。"
+}

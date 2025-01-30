@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS14-100', 'PackNo': 'BS14', 'CardName': 'ストームアタック', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体を疲労させる。その後、自分のスピリット1体を回復させる。'}
+﻿{
+  "CardNo": "BS14-100",
+  "PackNo": "BS14",
+  "CardName": "ストームアタック",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手のスピリット1体を疲労させる。その後、自分のスピリット1体を回復させる。"
+}

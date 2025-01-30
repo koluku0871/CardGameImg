@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS02-069', 'PackNo': 'BS02', 'CardName': '黒虎クロン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄'], 'CardType': '戯狩', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2', 'LV3 : -／-'], 'Text': '[Lv1-Lv2]『このスピリットの召喚時』自分の手札にある紫のネクサスカード1枚を、コストを支払わずに自分のフィールドに配置できる。'}
+﻿{
+  "CardNo": "BS02-069",
+  "PackNo": "BS02",
+  "CardName": "黒虎クロン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "戯狩",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／2",
+    "LV3 : -／-"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットの召喚時』自分の手札にある紫のネクサスカード1枚を、コストを支払わずに自分のフィールドに配置できる。"
+}

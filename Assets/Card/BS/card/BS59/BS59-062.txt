@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS59-062', 'PackNo': 'BS59', 'CardName': 'クリスタルミラージュ', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '紫\n白', 'Cost': '4', 'ReducedCost': ['紫', '白'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_white.png"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』系統：「占征」を持つ自分の紫/白のスピリットがアタックしたとき、ボイドからコア1個をそのスピリットに置ける。 ［Lv2］系統：「来是」/「占征」を持つ自分の紫/白のスピリットが相手によって破壊されたとき、自分はデッキから1枚ドローできる。'}
+﻿{
+  "CardNo": "BS59-062",
+  "PackNo": "BS59",
+  "CardName": "クリスタルミラージュ",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "紫\n白",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』系統：「占征」を持つ自分の紫/白のスピリットがアタックしたとき、ボイドからコア1個をそのスピリットに置ける。 ［Lv2］系統：「来是」/「占征」を持つ自分の紫/白のスピリットが相手によって破壊されたとき、自分はデッキから1枚ドローできる。"
+}

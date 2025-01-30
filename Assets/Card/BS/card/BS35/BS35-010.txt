@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS35-010', 'PackNo': 'BS35', 'CardName': '暴剣竜ダイナソード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／3', 'LV3 : 10000／4'], 'Text': '［Lv1-Lv2-Lv3］『自分のアタックステップ』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、系統：「地竜」を持つ自分のスピリットがブロックされたとき、相手のライフのコア1個を相手のリザーブに置く。 ［Lv2-Lv3］【真・激突】『このスピリットのアタック時』相手のスピリット/アルティメットは、可能ならブロックする。'}
+﻿{
+  "CardNo": "BS35-010",
+  "PackNo": "BS35",
+  "CardName": "暴剣竜ダイナソード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／3",
+    "LV3 : 10000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『自分のアタックステップ』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、系統：「地竜」を持つ自分のスピリットがブロックされたとき、相手のライフのコア1個を相手のリザーブに置く。 ［Lv2-Lv3］【真・激突】『このスピリットのアタック時』相手のスピリット/アルティメットは、可能ならブロックする。"
+}

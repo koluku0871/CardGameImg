@@ -1,1 +1,20 @@
-﻿{'CardNo': 'P15-14', 'PackNo': 'P15', 'CardName': 'ジンライドラゴン・真', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '家臣・武竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』自分はデッキから1枚ドローする。このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、さらに、このスピリットは“【真・激突】相手は可能ならスピリット/アルティメットでブロックする”を得る。'}
+﻿{
+  "CardNo": "P15-14",
+  "PackNo": "P15",
+  "CardName": "ジンライドラゴン・真",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "家臣・武竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／3",
+    "LV3 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットのアタック時』自分はデッキから1枚ドローする。このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、さらに、このスピリットは“【真・激突】相手は可能ならスピリット/アルティメットでブロックする”を得る。"
+}

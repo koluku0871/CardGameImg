@@ -1,1 +1,20 @@
-﻿{'CardNo': 'SJ13-19', 'PackNo': 'SJ', 'CardName': 'ツウテン・タイガー', 'CardRarity': 'SJ', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "SJ13-19",
+  "PackNo": "SJ",
+  "CardName": "ツウテン・タイガー",
+  "CardRarity": "SJ",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "武装",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2"
+  ],
+  "Text": "-"
+}

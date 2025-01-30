@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS05-013', 'PackNo': 'BS05', 'CardName': 'ガストラス', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』相手のコスト1以下のスピリット2体の上から、コア2個ずつを相手のトラッシュに置く。'}
+﻿{
+  "CardNo": "BS05-013",
+  "PackNo": "BS05",
+  "CardName": "ガストラス",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "霊獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの破壊時』相手のコスト1以下のスピリット2体の上から、コア2個ずつを相手のトラッシュに置く。"
+}

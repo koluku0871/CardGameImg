@@ -1,1 +1,19 @@
-﻿{'CardNo': 'CB26-055', 'PackNo': 'CB26', 'CardName': 'HERO Mr. BLACK', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤\n紫\n緑\n白\n黄\n青', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': 'NEXT', 'Lv': ['LV1 : 3000／1', 'LV2 : 9000／3'], 'Text': 'このカードを召喚するとき、系統：「NEXT」を持つ自分のスピリットすべてのシンボルは白としても扱う。［Lv1-Lv2］『このスピリットの召喚/ブロック時』相手のバースト1つを破棄する。 ［Lv2］系統：「NEXT」を持つ自分のスピリットすべては相手のネクサスの効果を受けない。'}
+﻿{
+  "CardNo": "CB26-055",
+  "PackNo": "CB26",
+  "CardName": "HERO Mr. BLACK",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤\n紫\n緑\n白\n黄\n青",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "NEXT",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 9000／3"
+  ],
+  "Text": "このカードを召喚するとき、系統：「NEXT」を持つ自分のスピリットすべてのシンボルは白としても扱う。［Lv1-Lv2］『このスピリットの召喚/ブロック時』相手のバースト1つを破棄する。 ［Lv2］系統：「NEXT」を持つ自分のスピリットすべては相手のネクサスの効果を受けない。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS64-086', 'PackNo': 'BS64', 'CardName': 'スプリングリバース', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '碧雷', 'Lv': [], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_green.png"/><img src="/renewal/images/cardlist/ico_green.png"/>（このカードは手札からセットできる）］【セット中】お互いのネクサスの「《煌臨》できない」効果は発揮されない。さらに、お互い、魂状態/煌臨元を含む契約スピリットに《契約煌臨》するとき、そのスピリットの『このスピリットの煌臨時』効果は「無効にする」効果を受けない。［メイン］自分の手札すべてを破棄する。この効果で系統：「碧雷」を持つカードを破棄したとき、相手のスピリット/アルティメット/ネクサス1つにつき、自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS64-086",
+  "PackNo": "BS64",
+  "CardName": "スプリングリバース",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "碧雷",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/>（このカードは手札からセットできる）］【セット中】お互いのネクサスの「《煌臨》できない」効果は発揮されない。さらに、お互い、魂状態/煌臨元を含む契約スピリットに《契約煌臨》するとき、そのスピリットの『このスピリットの煌臨時』効果は「無効にする」効果を受けない。［メイン］自分の手札すべてを破棄する。この効果で系統：「碧雷」を持つカードを破棄したとき、相手のスピリット/アルティメット/ネクサス1つにつき、自分はデッキから1枚ドローする。"
+}

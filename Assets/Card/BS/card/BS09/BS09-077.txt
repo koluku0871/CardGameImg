@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS09-077', 'PackNo': 'BS09', 'CardName': 'アイスバーグ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］このターンの間、自分のスピリットすべての【氷壁】の効果は、『自分のターン』に発揮される。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。'}
+﻿{
+  "CardNo": "BS09-077",
+  "PackNo": "BS09",
+  "CardName": "アイスバーグ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］このターンの間、自分のスピリットすべての【氷壁】の効果は、『自分のターン』に発揮される。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。"
+}

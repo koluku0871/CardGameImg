@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS53-048', 'PackNo': 'BS53', 'CardName': '引っ込み思案のドルイド僧リルラ', 'CardRarity': '転醒R', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '起幻・導魔', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／2'], 'Text': '［Lv1-Lv2］《転醒：自分のカウント3以下(転醒は同時に使えない)》自分のライフが減ったか、系統：「起幻」を持つ効果で自分のライフが増えたとき、このスピリットを裏返せる。 ［Lv2］『このスピリットのアタック時』自分のデッキを上から2枚破棄することで、自分のトラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア1個をライフに置く。'}
+﻿{
+  "CardNo": "BS53-048",
+  "PackNo": "BS53",
+  "CardName": "引っ込み思案のドルイド僧リルラ",
+  "CardRarity": "転醒R",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "起幻・導魔",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／2"
+  ],
+  "Text": "［Lv1-Lv2］《転醒：自分のカウント3以下(転醒は同時に使えない)》自分のライフが減ったか、系統：「起幻」を持つ効果で自分のライフが増えたとき、このスピリットを裏返せる。 ［Lv2］『このスピリットのアタック時』自分のデッキを上から2枚破棄することで、自分のトラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア1個をライフに置く。"
+}

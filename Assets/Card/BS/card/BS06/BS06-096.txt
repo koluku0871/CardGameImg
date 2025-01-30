@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS06-096', 'PackNo': 'BS06', 'CardName': 'レベルドレイン', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体の上のコアを、1つ下のLvコストと同じになるように相手のトラッシュに置く。'}
+﻿{
+  "CardNo": "BS06-096",
+  "PackNo": "BS06",
+  "CardName": "レベルドレイン",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手のスピリット1体の上のコアを、1つ下のLvコストと同じになるように相手のトラッシュに置く。"
+}

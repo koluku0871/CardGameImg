@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SD27-001', 'PackNo': 'SD27', 'CardName': 'ピクシスリザード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '爬獣・星魂', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 4000／4'], 'Text': '［Lv1-Lv2-Lv3］【スピリットソウル：赤】自分がアルティメットカードを召喚するとき、このスピリットに<img src="/renewal/images/cardlist/ico_red.png"/>（赤のシンボル1つ）を追加する。 ［Lv2-Lv3］『自分のメインステップ』自分の手札にある/手元に置いてある系統：「光導」を持つスピリットカードすべてをコスト5にする。'}
+﻿{
+  "CardNo": "SD27-001",
+  "PackNo": "SD27",
+  "CardName": "ピクシスリザード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "爬獣・星魂",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2",
+    "LV3 : 4000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］【スピリットソウル：赤】自分がアルティメットカードを召喚するとき、このスピリットに<img src=\"/renewal/images/cardlist/ico_red.png\"/>（赤のシンボル1つ）を追加する。 ［Lv2-Lv3］『自分のメインステップ』自分の手札にある/手元に置いてある系統：「光導」を持つスピリットカードすべてをコスト5にする。"
+}

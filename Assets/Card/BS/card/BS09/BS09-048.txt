@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS09-048', 'PackNo': 'BS09', 'CardName': '爆獣ボナコーン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青', '緑'], 'CardType': '獣頭', 'Lv': ['LV1 : 1000／1', 'LV2 : 5000／4'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のフィールドに緑のスピリットがいるとき、相手のコスト2以下のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "BS09-048",
+  "PackNo": "BS09",
+  "CardName": "爆獣ボナコーン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青",
+    "緑"
+  ],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分のフィールドに緑のスピリットがいるとき、相手のコスト2以下のスピリット1体を破壊する。"
+}

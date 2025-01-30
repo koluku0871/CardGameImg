@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC24-033', 'PackNo': 'BSC24', 'CardName': 'オイル怪獣タッコング', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': [], 'CardType': '異合', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』コスト3以下の相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "BSC24-033",
+  "PackNo": "BSC24",
+  "CardName": "オイル怪獣タッコング",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの破壊時』コスト3以下の相手のスピリット1体を破壊する。"
+}

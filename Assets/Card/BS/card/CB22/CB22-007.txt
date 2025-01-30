@@ -1,1 +1,21 @@
-﻿{'CardNo': 'CB22-007', 'PackNo': 'CB22', 'CardName': 'ウルトラマントリガー パワータイプ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤\n青', 'Cost': '5', 'ReducedCost': ['赤', '赤', '青', '青'], 'CardType': '闘神', 'Lv': ['LV1 : 6000／1', 'LV2 : 10000／3'], 'Text': '［フラッシュ］【チェンジ】コスト5<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_blue.png"/>（この効果は手札から使用できる）最もBPの低い相手のスピリット1体を破壊する。この効果発揮後、このカードを破棄するか、カード名に「ウルトラマン」を含む自分の赤青2色のスピリットと回復状態で入れ替える。 ［Lv2］『このスピリットのアタック時』相手のスピリットは、可能ならブロックする。この効果は【重装甲】/【超装甲】以外では防げない。'}
+﻿{
+  "CardNo": "CB22-007",
+  "PackNo": "CB22",
+  "CardName": "ウルトラマントリガー パワータイプ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤\n青",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "青",
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 10000／3"
+  ],
+  "Text": "［フラッシュ］【チェンジ】コスト5<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（この効果は手札から使用できる）最もBPの低い相手のスピリット1体を破壊する。この効果発揮後、このカードを破棄するか、カード名に「ウルトラマン」を含む自分の赤青2色のスピリットと回復状態で入れ替える。 ［Lv2］『このスピリットのアタック時』相手のスピリットは、可能ならブロックする。この効果は【重装甲】/【超装甲】以外では防げない。"
+}

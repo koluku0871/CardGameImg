@@ -1,1 +1,21 @@
-﻿{'CardNo': 'CB06-008', 'PackNo': 'CB06', 'CardName': '仮面ライダークウガ ライジングペガサス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '仮面', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／2', 'LV3 : 9000／5'], 'Text': '自分のカード名：「仮面ライダークウガ ペガサスフォーム」がいる間、このカードの【チェンジ】を【コスト4<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>】にする。［フラッシュ］【チェンジ】コスト6<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（この効果は手札から使用できる）BP合計10000まで相手のスピリットを好きなだけ破壊する。この効果で破壊したスピリットの効果は発揮されない。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。'}
+﻿{
+  "CardNo": "CB06-008",
+  "PackNo": "CB06",
+  "CardName": "仮面ライダークウガ ライジングペガサス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "仮面",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／2",
+    "LV3 : 9000／5"
+  ],
+  "Text": "自分のカード名：「仮面ライダークウガ ペガサスフォーム」がいる間、このカードの【チェンジ】を【コスト4<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>】にする。［フラッシュ］【チェンジ】コスト6<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（この効果は手札から使用できる）BP合計10000まで相手のスピリットを好きなだけ破壊する。この効果で破壊したスピリットの効果は発揮されない。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。"
+}

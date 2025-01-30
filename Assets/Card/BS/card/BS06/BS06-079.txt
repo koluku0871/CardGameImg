@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS06-079', 'PackNo': 'BS06', 'CardName': '神葉樹の森', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '-', 'Lv': ['LV1 : -／0', 'LV2 : -／2'], 'Text': '［Lv1-Lv2］自分の手札にある【神速】を持つスピリットカードすべてに軽減シンボル緑を与える。 ［Lv2］『お互いのアタックステップ』【神速】を持つLv1の自分のスピリットすべては、バトルでBPを比べるときLv2BPを使用する。'}
+﻿{
+  "CardNo": "BS06-079",
+  "PackNo": "BS06",
+  "CardName": "神葉樹の森",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／0",
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］自分の手札にある【神速】を持つスピリットカードすべてに軽減シンボル緑を与える。 ［Lv2］『お互いのアタックステップ』【神速】を持つLv1の自分のスピリットすべては、バトルでBPを比べるときLv2BPを使用する。"
+}

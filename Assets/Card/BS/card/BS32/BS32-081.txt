@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS32-081', 'PackNo': 'BS32', 'CardName': '聖天霊光破', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット/アルティメット1体を指定する。このターンの間、そのスピリット/アルティメットはアタック/ブロックできない。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、効果の対象を系統：「戦姫」を持つ自分のスピリット1体につき、相手のスピリット/アルティメット1体に変更する。'}
+﻿{
+  "CardNo": "BS32-081",
+  "PackNo": "BS32",
+  "CardName": "聖天霊光破",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手のスピリット/アルティメット1体を指定する。このターンの間、そのスピリット/アルティメットはアタック/ブロックできない。コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、効果の対象を系統：「戦姫」を持つ自分のスピリット1体につき、相手のスピリット/アルティメット1体に変更する。"
+}

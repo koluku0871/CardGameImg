@@ -1,1 +1,20 @@
-﻿{'CardNo': 'SD06-004', 'PackNo': 'SD06', 'CardName': 'ドス・モンキ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '白'], 'CardType': '皇獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』自分のバーストをセットしている間、合体していない自分のスピリットすべてをBP+3000する。'}
+﻿{
+  "CardNo": "SD06-004",
+  "PackNo": "SD06",
+  "CardName": "ドス・モンキ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "白"
+  ],
+  "CardType": "皇獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『自分のアタックステップ』自分のバーストをセットしている間、合体していない自分のスピリットすべてをBP+3000する。"
+}

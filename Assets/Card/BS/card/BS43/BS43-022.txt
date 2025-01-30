@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS43-022', 'PackNo': 'BS43', 'CardName': '風魔カマハシ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑', '赤'], 'CardType': '忍風・爪鳥', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］お互いのデッキは破棄されない。［Lv1-Lv2］『自分のメインステップ』このスピリットに赤のシンボル1つを追加する。'}
+﻿{
+  "CardNo": "BS43-022",
+  "PackNo": "BS43",
+  "CardName": "風魔カマハシ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑",
+    "赤"
+  ],
+  "CardType": "忍風・爪鳥",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］お互いのデッキは破棄されない。［Lv1-Lv2］『自分のメインステップ』このスピリットに赤のシンボル1つを追加する。"
+}

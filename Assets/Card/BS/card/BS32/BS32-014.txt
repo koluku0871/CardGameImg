@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS32-014', 'PackNo': 'BS32', 'CardName': '幻術師シモン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '起導者・家臣・夜族', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』相手のスピリット1体のコア2個を相手のリザーブに置く。［Lv1-Lv2］【起導：全色】『このスピリットのアタック時』このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のトラッシュに置くことで、自分のＳバースト1つをただちに発動させる。'}
+﻿{
+  "CardNo": "BS32-014",
+  "PackNo": "BS32",
+  "CardName": "幻術師シモン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "起導者・家臣・夜族",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』相手のスピリット1体のコア2個を相手のリザーブに置く。［Lv1-Lv2］【起導：全色】『このスピリットのアタック時』このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のトラッシュに置くことで、自分のＳバースト1つをただちに発動させる。"
+}

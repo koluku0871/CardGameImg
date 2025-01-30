@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS03-004', 'PackNo': 'BS03', 'CardName': 'ブロントライデント', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '[Lv1-Lv2]自分のフィールドに【覚醒】を持つスピリットがいる間、このスピリットをBP+2000する。'}
+﻿{
+  "CardNo": "BS03-004",
+  "PackNo": "BS03",
+  "CardName": "ブロントライデント",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "[Lv1-Lv2]自分のフィールドに【覚醒】を持つスピリットがいる間、このスピリットをBP+2000する。"
+}

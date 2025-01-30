@@ -1,1 +1,20 @@
-﻿{'CardNo': 'P15-01', 'PackNo': 'P15', 'CardName': '鎧角獣クアドロン', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 7000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)を使用していたら、相手の合体しているブレイヴ1つを破壊する。 ［Lv2-Lv3］【真・激突】『このスピリットのアタック時』相手は可能ならスピリット/アルティメットでブロックする。'}
+﻿{
+  "CardNo": "P15-01",
+  "PackNo": "P15",
+  "CardName": "鎧角獣クアドロン",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "皇獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2",
+    "LV3 : 7000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>(ソウルコア)を使用していたら、相手の合体しているブレイヴ1つを破壊する。 ［Lv2-Lv3］【真・激突】『このスピリットのアタック時』相手は可能ならスピリット/アルティメットでブロックする。"
+}

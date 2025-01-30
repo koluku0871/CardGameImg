@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS01-038', 'PackNo': 'BS01', 'CardName': 'スケル・バイパー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': '[Lv1-Lv2]『このスピリットの召喚時』自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS01-038",
+  "PackNo": "BS01",
+  "CardName": "スケル・バイパー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットの召喚時』自分はデッキから1枚ドローする。"
+}

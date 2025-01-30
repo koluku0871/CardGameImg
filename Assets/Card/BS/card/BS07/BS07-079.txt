@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS07-079', 'PackNo': 'BS07', 'CardName': 'ブルームフルート', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このバトルの間、【聖命】を持つ自分のスピリットがブロックされたとき、ボイドからコア1個を自分のライフに置く。'}
+﻿{
+  "CardNo": "BS07-079",
+  "PackNo": "BS07",
+  "CardName": "ブルームフルート",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]このバトルの間、【聖命】を持つ自分のスピリットがブロックされたとき、ボイドからコア1個を自分のライフに置く。"
+}

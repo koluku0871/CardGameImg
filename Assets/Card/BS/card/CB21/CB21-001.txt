@@ -1,1 +1,18 @@
-﻿{'CardNo': 'CB21-001', 'PackNo': 'CB21', 'CardName': 'エヴァンゲリオン 正規実用型 改2号機β', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '造兵・WILLE', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '［Lv1-Lv2］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている相手のスピリット以外の相手の効果を受けない。 ［Lv2］『このスピリットのアタック時』自分のデッキを上から1枚オープンできる。それがカード名に「初号機」を含むか系統：「WILLE」を持つカードのとき、BP4000以下の相手のスピリット1体を破壊する。オープンしたカードは手札に加える。'}
+﻿{
+  "CardNo": "CB21-001",
+  "PackNo": "CB21",
+  "CardName": "エヴァンゲリオン 正規実用型 改2号機β",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "造兵・WILLE",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv1-Lv2］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている相手のスピリット以外の相手の効果を受けない。 ［Lv2］『このスピリットのアタック時』自分のデッキを上から1枚オープンできる。それがカード名に「初号機」を含むか系統：「WILLE」を持つカードのとき、BP4000以下の相手のスピリット1体を破壊する。オープンしたカードは手札に加える。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS10-101', 'PackNo': 'BS10', 'CardName': 'ハングドマン', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このターンの間、【不死】を持つ自分のスピリットが破壊されたとき、相手は、相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "BS10-101",
+  "PackNo": "BS10",
+  "CardName": "ハングドマン",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]このターンの間、【不死】を持つ自分のスピリットが破壊されたとき、相手は、相手のスピリット1体を破壊する。"
+}

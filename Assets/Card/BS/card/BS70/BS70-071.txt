@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS70-071', 'PackNo': 'BS70', 'CardName': '封印大地：湖沼', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['全', '全'], 'CardType': '原初', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］『このネクサスの配置/破壊時』ターンに1回、自分の手札にある系統：「原初」を持つカード1枚を破棄することで、自分はデッキから2枚ドローする。［Lv1-Lv2］自分が系統：「原初」を持つスピリットカード/ネクサスカードを召喚/配置するとき、その軽減シンボル<img src="/renewal/images/cardlist/ico_red.png"/>/<img src="/renewal/images/cardlist/ico_pup.png"/>/<img src="/renewal/images/cardlist/ico_yellow.png"/>1つを満たす。 ［Lv2］『自分のアタックステップ』系統：「原初」を持つ自分のスピリットがアタックしたとき、相手のスピリット/アルティメットのコア1個をリザーブに置く。'}
+﻿{
+  "CardNo": "BS70-071",
+  "PackNo": "BS70",
+  "CardName": "封印大地：湖沼",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "全",
+    "全"
+  ],
+  "CardType": "原初",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『このネクサスの配置/破壊時』ターンに1回、自分の手札にある系統：「原初」を持つカード1枚を破棄することで、自分はデッキから2枚ドローする。［Lv1-Lv2］自分が系統：「原初」を持つスピリットカード/ネクサスカードを召喚/配置するとき、その軽減シンボル<img src=\"/renewal/images/cardlist/ico_red.png\"/>/<img src=\"/renewal/images/cardlist/ico_pup.png\"/>/<img src=\"/renewal/images/cardlist/ico_yellow.png\"/>1つを満たす。 ［Lv2］『自分のアタックステップ』系統：「原初」を持つ自分のスピリットがアタックしたとき、相手のスピリット/アルティメットのコア1個をリザーブに置く。"
+}

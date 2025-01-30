@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BSC24-041', 'PackNo': 'BSC24', 'CardName': '破壊された城', 'CardRarity': 'R', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］『このネクサスの破壊時』BP10000以下の相手のスピリット1体を破壊する。 ［Lv2］『自分のドローステップ』ドローの枚数を+1枚する。'}
+﻿{
+  "CardNo": "BSC24-041",
+  "PackNo": "BSC24",
+  "CardName": "破壊された城",
+  "CardRarity": "R",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］『このネクサスの破壊時』BP10000以下の相手のスピリット1体を破壊する。 ［Lv2］『自分のドローステップ』ドローの枚数を+1枚する。"
+}

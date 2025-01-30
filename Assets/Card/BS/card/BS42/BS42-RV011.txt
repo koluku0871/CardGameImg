@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS42-RV011', 'PackNo': 'BS42', 'CardName': '海賊ラッコルセア', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青', '青'], 'CardType': '獣頭', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］自分のネクサスが配置されたとき、ボイドからコア1個をこのスピリットに置く。この効果はターンに1回しか使えない。'}
+﻿{
+  "CardNo": "BS42-RV011",
+  "PackNo": "BS42",
+  "CardName": "海賊ラッコルセア",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］自分のネクサスが配置されたとき、ボイドからコア1個をこのスピリットに置く。この効果はターンに1回しか使えない。"
+}

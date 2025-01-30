@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS03-001', 'PackNo': 'BS03', 'CardName': '火精サラマンダート', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': [], 'CardType': '空牙', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS03-001",
+  "PackNo": "BS03",
+  "CardName": "火精サラマンダート",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "空牙",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "-"
+}

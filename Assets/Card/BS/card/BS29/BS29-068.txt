@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS29-068', 'PackNo': 'BS29', 'CardName': '翡翠の老木', 'CardRarity': 'Ｃ', 'CardCategory': 'ネクサス', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］相手が効果でドローするとき、1枚しかドローできない。 ［Lv2］系統：「殻人」を持つ自分のスピリット/スピリットカードすべては、カード名に「四甲天」が入っているものとして扱う。'}
+﻿{
+  "CardNo": "BS29-068",
+  "PackNo": "BS29",
+  "CardName": "翡翠の老木",
+  "CardRarity": "Ｃ",
+  "CardCategory": "ネクサス",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］相手が効果でドローするとき、1枚しかドローできない。 ［Lv2］系統：「殻人」を持つ自分のスピリット/スピリットカードすべては、カード名に「四甲天」が入っているものとして扱う。"
+}

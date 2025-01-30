@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC22-142', 'PackNo': 'BSC22', 'CardName': 'ディフェンシブオーラ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、ブロックしている自分のスピリットすべてをBP+6000する。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、自分の[要塞皇オーディーン]すべては、疲労状態でブロックできる。'}
+﻿{
+  "CardNo": "BSC22-142",
+  "PackNo": "BSC22",
+  "CardName": "ディフェンシブオーラ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、ブロックしている自分のスピリットすべてをBP+6000する。コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、自分の[要塞皇オーディーン]すべては、疲労状態でブロックできる。"
+}

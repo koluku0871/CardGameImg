@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS65-072', 'PackNo': 'BS65', 'CardName': '聖都アンタッカ', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', 'ico_ultimate.png'], 'CardType': '真聖', 'Lv': ['LV2 : -／2'], 'Text': '［ミラージュ：コスト2<img src="/renewal/images/cardlist/ico_ultimate.png"/>（このカードは手札からセットできる）］【セット中】自分のＵトリガーでトラッシュに置かれた《煌臨》を持つカードすべてのコストを-2する。［Lv1-Lv2］自分の手札が5枚以下の間、自分の手札は相手の効果を受けない。 ［Lv2］『自分のメインステップ』このネクサスに白シンボル1つを追加する。'}
+﻿{
+  "CardNo": "BS65-072",
+  "PackNo": "BS65",
+  "CardName": "聖都アンタッカ",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "ico_ultimate.png"
+  ],
+  "CardType": "真聖",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［ミラージュ：コスト2<img src=\"/renewal/images/cardlist/ico_ultimate.png\"/>（このカードは手札からセットできる）］【セット中】自分のＵトリガーでトラッシュに置かれた《煌臨》を持つカードすべてのコストを-2する。［Lv1-Lv2］自分の手札が5枚以下の間、自分の手札は相手の効果を受けない。 ［Lv2］『自分のメインステップ』このネクサスに白シンボル1つを追加する。"
+}

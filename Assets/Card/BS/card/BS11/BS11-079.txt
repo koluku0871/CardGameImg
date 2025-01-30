@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS11-079', 'PackNo': 'BS11', 'CardName': 'リブートコード', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］疲労状態の自分のスピリットすべてを回復させる。このターンの間、この効果で回復した、合体スピリット以外のスピリットはアタックできない。'}
+﻿{
+  "CardNo": "BS11-079",
+  "PackNo": "BS11",
+  "CardName": "リブートコード",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］疲労状態の自分のスピリットすべてを回復させる。このターンの間、この効果で回復した、合体スピリット以外のスピリットはアタックできない。"
+}

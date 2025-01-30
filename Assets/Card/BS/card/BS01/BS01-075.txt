@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS01-075', 'PackNo': 'BS01', 'CardName': 'アイスメイデン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': ['白'], 'CardType': '動器', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS01-075",
+  "PackNo": "BS01",
+  "CardName": "アイスメイデン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "動器",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "-"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS01-062', 'PackNo': 'BS01', 'CardName': 'ハングリートゥリー', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '樹魔', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／3'], 'Text': '[Lv1-Lv2]『このスピリットの破壊時』相手は手札1枚を選んで破棄する。'}
+﻿{
+  "CardNo": "BS01-062",
+  "PackNo": "BS01",
+  "CardName": "ハングリートゥリー",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "樹魔",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／3"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットの破壊時』相手は手札1枚を選んで破棄する。"
+}

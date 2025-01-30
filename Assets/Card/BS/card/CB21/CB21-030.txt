@@ -1,1 +1,16 @@
-﻿{'CardNo': 'CB21-030', 'PackNo': 'CB21', 'CardName': '第4の使徒', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': [], 'CardType': '使徒', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから2枚ドローした後、手札1枚を破棄する。［Lv1-Lv2］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている相手のスピリット以外の相手の効果を受けない。 ［Lv2］『このスピリットのアタック時』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれているとき、相手のデッキを上から3枚破棄し、コスト4以下の相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "CB21-030",
+  "PackNo": "CB21",
+  "CardName": "第4の使徒",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [],
+  "CardType": "使徒",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから2枚ドローした後、手札1枚を破棄する。［Lv1-Lv2］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている相手のスピリット以外の相手の効果を受けない。 ［Lv2］『このスピリットのアタック時』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれているとき、相手のデッキを上から3枚破棄し、コスト4以下の相手のスピリット1体を破壊する。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS01-136', 'PackNo': 'BS01', 'CardName': 'ギャザーフォース', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[メイン]ボイドからコア1個を自分のリザーブに置く。 [フラッシュ]このターンの間、スピリット1体をBP+1000する。'}
+﻿{
+  "CardNo": "BS01-136",
+  "PackNo": "BS01",
+  "CardName": "ギャザーフォース",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／-",
+    "LV2 : -／-",
+    "LV3 : -／-"
+  ],
+  "Text": "[メイン]ボイドからコア1個を自分のリザーブに置く。 [フラッシュ]このターンの間、スピリット1体をBP+1000する。"
+}

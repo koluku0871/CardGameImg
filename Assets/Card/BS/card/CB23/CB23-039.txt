@@ -1,1 +1,19 @@
-﻿{'CardNo': 'CB23-039', 'PackNo': 'CB23', 'CardName': 'AAA ヴンダー -ヤマト作戦-', 'CardRarity': 'R', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '母艦・WILLE', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］【A.T.フィールド】『自分のターン』このネクサスは、<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている相手のスピリット以外の相手の効果を受けない。［Lv1-Lv2］『自分のアタックステップ開始時』自分のカード名：「葛城ミサト -WILLE-」1つにコア+1できる。 ［Lv2：フラッシュ］『お互いのアタックステップ』ターンに1回、自分の手札1枚を破棄できる。そうしたとき、BP7000以下の相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "CB23-039",
+  "PackNo": "CB23",
+  "CardName": "AAA ヴンダー -ヤマト作戦-",
+  "CardRarity": "R",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "母艦・WILLE",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］【A.T.フィールド】『自分のターン』このネクサスは、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている相手のスピリット以外の相手の効果を受けない。［Lv1-Lv2］『自分のアタックステップ開始時』自分のカード名：「葛城ミサト -WILLE-」1つにコア+1できる。 ［Lv2：フラッシュ］『お互いのアタックステップ』ターンに1回、自分の手札1枚を破棄できる。そうしたとき、BP7000以下の相手のスピリット1体を破壊する。"
+}

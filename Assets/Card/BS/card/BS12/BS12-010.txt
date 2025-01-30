@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS12-010', 'PackNo': 'BS12', 'CardName': 'ガガモス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫', '紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 6000／5'], 'Text': '-'}
+﻿{
+  "CardNo": "BS12-010",
+  "PackNo": "BS12",
+  "CardName": "ガガモス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "2",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "霊獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2",
+    "LV3 : 6000／5"
+  ],
+  "Text": "-"
+}

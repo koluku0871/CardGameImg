@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS09-024', 'PackNo': 'BS09', 'CardName': '巨角城エラスモス', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '白'], 'CardType': '剣獣・巨獣', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／3'], 'Text': '[Lv1-Lv2]『このスピリットの召喚時』ボイドから、系統：「剣獣」/「巨獣」を持つ自分のスピリット1体につき、コア1個をこのスピリット上に置く。'}
+﻿{
+  "CardNo": "BS09-024",
+  "PackNo": "BS09",
+  "CardName": "巨角城エラスモス",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "5",
+  "ReducedCost": [
+    "緑",
+    "白"
+  ],
+  "CardType": "剣獣・巨獣",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／3"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットの召喚時』ボイドから、系統：「剣獣」/「巨獣」を持つ自分のスピリット1体につき、コア1個をこのスピリット上に置く。"
+}

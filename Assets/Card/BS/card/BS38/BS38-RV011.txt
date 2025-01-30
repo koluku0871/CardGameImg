@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS38-RV011', 'PackNo': 'BS38', 'CardName': 'イグア・バギー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': ['白', '赤'], 'CardType': '星魂・機獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '《封印時》このスピリット/スピリットカードは系統：「十冠」を得る。［Lv1-Lv2］このスピリットの色とシンボルは赤としても扱う。'}
+﻿{
+  "CardNo": "BS38-RV011",
+  "PackNo": "BS38",
+  "CardName": "イグア・バギー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [
+    "白",
+    "赤"
+  ],
+  "CardType": "星魂・機獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "《封印時》このスピリット/スピリットカードは系統：「十冠」を得る。［Lv1-Lv2］このスピリットの色とシンボルは赤としても扱う。"
+}

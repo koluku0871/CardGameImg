@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS43-088', 'PackNo': 'BS43', 'CardName': '海賊たちの楽園', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］『このネクサスの配置時』ボイドからコア1個をカード名に「海賊」を含む自分のスピリットに置く。 ［Lv2］お互い、ボイドからライフにコアを増やすことができない。'}
+﻿{
+  "CardNo": "BS43-088",
+  "PackNo": "BS43",
+  "CardName": "海賊たちの楽園",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『このネクサスの配置時』ボイドからコア1個をカード名に「海賊」を含む自分のスピリットに置く。 ［Lv2］お互い、ボイドからライフにコアを増やすことができない。"
+}

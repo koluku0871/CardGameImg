@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS45-020', 'PackNo': 'BS45', 'CardName': 'ユキセミ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '爪鳥', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／3'], 'Text': '［Lv1-Lv2］『相手によるこのスピリットの破壊時』ボイドからコア1個を自分のリザーブに置く。さらに、自分のライフが4以上のとき、このスピリットは手札に戻ることができる。'}
+﻿{
+  "CardNo": "BS45-020",
+  "PackNo": "BS45",
+  "CardName": "ユキセミ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "爪鳥",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／3"
+  ],
+  "Text": "［Lv1-Lv2］『相手によるこのスピリットの破壊時』ボイドからコア1個を自分のリザーブに置く。さらに、自分のライフが4以上のとき、このスピリットは手札に戻ることができる。"
+}

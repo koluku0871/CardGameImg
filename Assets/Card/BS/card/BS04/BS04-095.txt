@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS04-095', 'PackNo': 'BS04', 'CardName': 'ヴェノムショット', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］相手のスピリット1体の上に置いてあるコア1個をボイドに置く。 ［フラッシュ］このターンの間、スピリット1体をBP+1000する。'}
+﻿{
+  "CardNo": "BS04-095",
+  "PackNo": "BS04",
+  "CardName": "ヴェノムショット",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］相手のスピリット1体の上に置いてあるコア1個をボイドに置く。 ［フラッシュ］このターンの間、スピリット1体をBP+1000する。"
+}

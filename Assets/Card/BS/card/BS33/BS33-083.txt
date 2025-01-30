@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS33-083', 'PackNo': 'BS33', 'CardName': '天輪蒼破', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］コスト0/3/5の相手のスピリット1体ずつを破壊する。この効果で破壊したスピリット1体につき、ボイドからコア1個を自分のリザーブに置く。'}
+﻿{
+  "CardNo": "BS33-083",
+  "PackNo": "BS33",
+  "CardName": "天輪蒼破",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］コスト0/3/5の相手のスピリット1体ずつを破壊する。この効果で破壊したスピリット1体につき、ボイドからコア1個を自分のリザーブに置く。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS52-TX02', 'PackNo': 'BS52', 'CardName': '白の世界', 'CardRarity': '転醒X', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '起幻', 'Lv': [], 'Text': '［Lv1］《転醒：自分のカウント5以下(転醒は同時に使えない)》自分の白のスピリットがブロック/効果で回復したか、このネクサスが相手の効果でフィールドを離れるとき、このネクサスに自分の<img src="/renewal/images/cardlist/ico_soulcore.png"/>を置いて裏返せる。［Lv1］『このネクサスの配置時』シンボル2つ以上の相手のスピリット1体をデッキの下に戻す。［Lv1］自分のライフが減ったとき、相手のスピリット1体を手札に戻せる。'}
+﻿{
+  "CardNo": "BS52-TX02",
+  "PackNo": "BS52",
+  "CardName": "白の世界",
+  "CardRarity": "転醒X",
+  "CardCategory": "ネクサス",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "起幻",
+  "Lv": [],
+  "Text": "［Lv1］《転醒：自分のカウント5以下(転醒は同時に使えない)》自分の白のスピリットがブロック/効果で回復したか、このネクサスが相手の効果でフィールドを離れるとき、このネクサスに自分の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>を置いて裏返せる。［Lv1］『このネクサスの配置時』シンボル2つ以上の相手のスピリット1体をデッキの下に戻す。［Lv1］自分のライフが減ったとき、相手のスピリット1体を手札に戻せる。"
+}

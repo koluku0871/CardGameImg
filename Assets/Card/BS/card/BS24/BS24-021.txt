@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS24-021', 'PackNo': 'BS24', 'CardName': 'ヨロイカラス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑', '緑'], 'CardType': '爪鳥', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS24-021",
+  "PackNo": "BS24",
+  "CardName": "ヨロイカラス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "爪鳥",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "-"
+}

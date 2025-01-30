@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS29-065', 'PackNo': 'BS29', 'CardName': '水星神剣マーキュリーブレイド', 'CardRarity': 'M', 'CardCategory': 'ブレイヴ', 'Element': '青', 'Cost': '5', 'ReducedCost': ['青', '青', 'ico_ultimate.png', 'ico_ultimate.png'], 'CardType': '剣刃', 'Lv': ['LV1 : 4000／1', 'brave : +4000／'], 'Text': '《合体条件：コスト5以上のアルティメット》 《合体時》このブレイヴをコスト0として扱う。《合体時》【強襲：1】『このアルティメットの合体アタック時』このアルティメットは、ターンに1回まで、自分のネクサス1つを疲労させることで回復できる。'}
+﻿{
+  "CardNo": "BS29-065",
+  "PackNo": "BS29",
+  "CardName": "水星神剣マーキュリーブレイド",
+  "CardRarity": "M",
+  "CardCategory": "ブレイヴ",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "ico_ultimate.png",
+    "ico_ultimate.png"
+  ],
+  "CardType": "剣刃",
+  "Lv": [
+    "LV1 : 4000／1",
+    "brave : +4000／"
+  ],
+  "Text": "《合体条件：コスト5以上のアルティメット》 《合体時》このブレイヴをコスト0として扱う。《合体時》【強襲：1】『このアルティメットの合体アタック時』このアルティメットは、ターンに1回まで、自分のネクサス1つを疲労させることで回復できる。"
+}

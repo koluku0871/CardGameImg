@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS58-066', 'PackNo': 'BS58', 'CardName': 'ウィングミラージュ', 'CardRarity': 'M', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '紫'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_pup.png"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『自分のターン』4コスト支払うことで、系統：「来是」/「占征」を持つ自分のスピリット1体を回復させる。この効果で回復させるスピリットがカード名に「アーサー」/「ウォーデン」を含むとき、この効果で支払うコストを2にする。［Lv1-Lv2］このネクサスの色とシンボルは紫としても扱う。 ［Lv2］自分の手札が5枚以下の間、自分の手札は相手の効果を受けない。'}
+﻿{
+  "CardNo": "BS58-066",
+  "PackNo": "BS58",
+  "CardName": "ウィングミラージュ",
+  "CardRarity": "M",
+  "CardCategory": "ネクサス",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『自分のターン』4コスト支払うことで、系統：「来是」/「占征」を持つ自分のスピリット1体を回復させる。この効果で回復させるスピリットがカード名に「アーサー」/「ウォーデン」を含むとき、この効果で支払うコストを2にする。［Lv1-Lv2］このネクサスの色とシンボルは紫としても扱う。 ［Lv2］自分の手札が5枚以下の間、自分の手札は相手の効果を受けない。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS32-013', 'PackNo': 'BS32', 'CardName': '式鬼神シュウカイ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '呪鬼', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 6000／4'], 'Text': 'トラッシュにあるこのスピリットカードはコスト2として扱う。［Lv1-Lv2-Lv3］『このスピリットのアタック時』コアが2個以下の相手のスピリット1体を指定してアタックできる。このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、さらに、自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS32-013",
+  "PackNo": "BS32",
+  "CardName": "式鬼神シュウカイ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "呪鬼",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 6000／4"
+  ],
+  "Text": "トラッシュにあるこのスピリットカードはコスト2として扱う。［Lv1-Lv2-Lv3］『このスピリットのアタック時』コアが2個以下の相手のスピリット1体を指定してアタックできる。このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれているとき、さらに、自分はデッキから1枚ドローする。"
+}

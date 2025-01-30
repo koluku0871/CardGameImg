@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS28-020', 'PackNo': 'BS28', 'CardName': '四甲天カメジュウジ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '殻人', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／4'], 'Text': '[四甲天カメジュウジ]はデッキに何枚でも入れることができる。［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個をこのスピリットに置く。'}
+﻿{
+  "CardNo": "BS28-020",
+  "PackNo": "BS28",
+  "CardName": "四甲天カメジュウジ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "殻人",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／4"
+  ],
+  "Text": "[四甲天カメジュウジ]はデッキに何枚でも入れることができる。［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個をこのスピリットに置く。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS41-052', 'PackNo': 'BS41', 'CardName': 'バランスのハネジーマウス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '漂精', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のスピリットが相手のスピリットの体数より少ないとき、相手のスピリット1体を手札に戻す。'}
+﻿{
+  "CardNo": "BS41-052",
+  "PackNo": "BS41",
+  "CardName": "バランスのハネジーマウス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "漂精",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のスピリットが相手のスピリットの体数より少ないとき、相手のスピリット1体を手札に戻す。"
+}

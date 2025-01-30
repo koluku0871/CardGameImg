@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS04-089', 'PackNo': 'BS04', 'CardName': 'グレートリンク', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のトラッシュにあるコアすべてを、【覚醒】を持つ自分のスピリット1体の上に置く。この効果は、メインステップで使えない。'}
+﻿{
+  "CardNo": "BS04-089",
+  "PackNo": "BS04",
+  "CardName": "グレートリンク",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分のトラッシュにあるコアすべてを、【覚醒】を持つ自分のスピリット1体の上に置く。この効果は、メインステップで使えない。"
+}

@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS11-084', 'PackNo': 'BS11', 'CardName': 'ソリッドボディー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '5', 'ReducedCost': ['青', '青', '青'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このターンの間、【粉砕】を持つ自分のスピリットすべては、相手のスピリットすべてを疲労状態でブロックできる。'}
+﻿{
+  "CardNo": "BS11-084",
+  "PackNo": "BS11",
+  "CardName": "ソリッドボディー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]このターンの間、【粉砕】を持つ自分のスピリットすべては、相手のスピリットすべてを疲労状態でブロックできる。"
+}

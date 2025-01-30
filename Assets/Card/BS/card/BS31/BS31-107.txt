@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS31-107', 'PackNo': 'BS31', 'CardName': '鉄壁ウォール', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': 'トラッシュにあるこのマジックカードは、一切の効果を受けない。 ［フラッシュ］このバトルが終了したとき、アタックステップを終了する。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、このバトルで相手によって破壊された自分のスピリットすべては、疲労状態でフィールドに残る。'}
+﻿{
+  "CardNo": "BS31-107",
+  "PackNo": "BS31",
+  "CardName": "鉄壁ウォール",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "トラッシュにあるこのマジックカードは、一切の効果を受けない。 ［フラッシュ］このバトルが終了したとき、アタックステップを終了する。コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、このバトルで相手によって破壊された自分のスピリットすべては、疲労状態でフィールドに残る。"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS21-051', 'PackNo': 'BS21', 'CardName': 'ダーク・スクアーロ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '異合', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／4'], 'Text': '［Lv2］このスピリットは赤のスピリットとしても扱う。'}
+﻿{
+  "CardNo": "BS21-051",
+  "PackNo": "BS21",
+  "CardName": "ダーク・スクアーロ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／4"
+  ],
+  "Text": "［Lv2］このスピリットは赤のスピリットとしても扱う。"
+}

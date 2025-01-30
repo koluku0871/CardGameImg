@@ -1,1 +1,22 @@
-﻿{'CardNo': 'SD60-003', 'PackNo': 'SD60', 'CardName': '竜魔法の隠者騎士レジェリス', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '7', 'ReducedCost': ['紫', '紫', '紫', '白', '白'], 'CardType': '占征・魔影', 'Lv': ['LV1 : 5000／1', 'LV2 : 10000／3'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_white.png"/>（このカードは手札からセットできる）］【セット中】『相手のアタックステップ』自分のライフは、コア1個の相手のスピリット/アルティメットのアタックでは減らない。［Lv1-Lv2］『このスピリットの召喚時』自分の手札にある系統：「魔影」/「武装」を持つスピリットカード/ブレイヴカード1枚を、コストを支払わずに召喚できる。'}
+﻿{
+  "CardNo": "SD60-003",
+  "PackNo": "SD60",
+  "CardName": "竜魔法の隠者騎士レジェリス",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "7",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫",
+    "白",
+    "白"
+  ],
+  "CardType": "占征・魔影",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 10000／3"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（このカードは手札からセットできる）］【セット中】『相手のアタックステップ』自分のライフは、コア1個の相手のスピリット/アルティメットのアタックでは減らない。［Lv1-Lv2］『このスピリットの召喚時』自分の手札にある系統：「魔影」/「武装」を持つスピリットカード/ブレイヴカード1枚を、コストを支払わずに召喚できる。"
+}

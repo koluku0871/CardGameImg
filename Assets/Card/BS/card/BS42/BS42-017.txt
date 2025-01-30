@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS42-017', 'PackNo': 'BS42', 'CardName': '蛇戦士フェウラーガ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 6000／5'], 'Text': '［フラッシュ］【アクセル】コスト5<img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/>（この効果は手札から使用できる）自分のトラッシュにあるソウルコア以外のコア1個を自分のライフに置く。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2-Lv3］『このスピリットの破壊時』自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS42-017",
+  "PackNo": "BS42",
+  "CardName": "蛇戦士フェウラーガ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 6000／5"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト5<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/>（この効果は手札から使用できる）自分のトラッシュにあるソウルコア以外のコア1個を自分のライフに置く。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2-Lv3］『このスピリットの破壊時』自分はデッキから1枚ドローする。"
+}

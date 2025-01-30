@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS05-022', 'PackNo': 'BS05', 'CardName': '水馬ケルピー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '遊精・異合', 'Lv': ['LV1 : 4000／2', 'LV2 : 6000／3'], 'Text': '［Lv2］『このスピリットのアタック時』BPを比べ相手のスピリットだけを破壊したとき、【粉砕】を持つ自分の青のスピリットすべてを回復させる。'}
+﻿{
+  "CardNo": "BS05-022",
+  "PackNo": "BS05",
+  "CardName": "水馬ケルピー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "遊精・異合",
+  "Lv": [
+    "LV1 : 4000／2",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv2］『このスピリットのアタック時』BPを比べ相手のスピリットだけを破壊したとき、【粉砕】を持つ自分の青のスピリットすべてを回復させる。"
+}

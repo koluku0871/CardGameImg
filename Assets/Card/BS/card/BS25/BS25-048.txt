@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS25-048', 'PackNo': 'BS25', 'CardName': '戦鳥パラキート', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青', '青'], 'CardType': '戦獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '[Lv1-Lv2]『お互いのアタックステップ』バトルしている系統：「闘神」を持つ自分のスピリットをBP+2000する。'}
+﻿{
+  "CardNo": "BS25-048",
+  "PackNo": "BS25",
+  "CardName": "戦鳥パラキート",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "戦獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "[Lv1-Lv2]『お互いのアタックステップ』バトルしている系統：「闘神」を持つ自分のスピリットをBP+2000する。"
+}

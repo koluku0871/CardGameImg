@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS57-061', 'PackNo': 'BS57', 'CardName': 'コスモミラージュ', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': ['LV2 : -／-'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』自分の赤の効果で相手のスピリット/アルティメットを破壊したとき、自分はデッキから1枚ドローできる。［Lv1］系統：「機竜」を持つ自分のスピリットすべては、相手の効果でフィールドから手札/デッキに戻らない。'}
+﻿{
+  "CardNo": "BS57-061",
+  "PackNo": "BS57",
+  "CardName": "コスモミラージュ",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／-"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』自分の赤の効果で相手のスピリット/アルティメットを破壊したとき、自分はデッキから1枚ドローできる。［Lv1］系統：「機竜」を持つ自分のスピリットすべては、相手の効果でフィールドから手札/デッキに戻らない。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'SD01-023', 'PackNo': 'SD01', 'CardName': '機人ドロイデン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '機人', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 6000／4'], 'Text': '［Lv2-Ｌｖ3］自分の白のスピリットすべてをBP+1000する。'}
+﻿{
+  "CardNo": "SD01-023",
+  "PackNo": "SD01",
+  "CardName": "機人ドロイデン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "機人",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 6000／4"
+  ],
+  "Text": "［Lv2-Ｌｖ3］自分の白のスピリットすべてをBP+1000する。"
+}

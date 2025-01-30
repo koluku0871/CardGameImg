@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BSC29-018', 'PackNo': 'BSC29', 'CardName': '勝ちへの固執', 'CardRarity': '-', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['ico_ultimate.png', 'ico_ultimate.png', 'ico_ultimate.png'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]系統：「神皇」を持つ相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "BSC29-018",
+  "PackNo": "BSC29",
+  "CardName": "勝ちへの固執",
+  "CardRarity": "-",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "ico_ultimate.png",
+    "ico_ultimate.png",
+    "ico_ultimate.png"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]系統：「神皇」を持つ相手のスピリット1体を破壊する。"
+}

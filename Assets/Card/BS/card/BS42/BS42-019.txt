@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS42-019', 'PackNo': 'BS42', 'CardName': '紫骸旅団デスリブドラゴン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '死竜・無魔', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 6000／4'], 'Text': 'このスピリットカードが手元にある間、相手の効果では、ターンに1個までしかボイドからコアを増やせない。［メイン］【アクセル】コスト4<img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/>（この効果は手札から使用できる）自分の手札にある系統：「死竜」/「無魔」を持つスピリットカード1枚を破棄することで、自分はデッキから2枚ドローする。この効果発揮後、このカードはオープンして手元に置く。'}
+﻿{
+  "CardNo": "BS42-019",
+  "PackNo": "BS42",
+  "CardName": "紫骸旅団デスリブドラゴン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "死竜・無魔",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 6000／4"
+  ],
+  "Text": "このスピリットカードが手元にある間、相手の効果では、ターンに1個までしかボイドからコアを増やせない。［メイン］【アクセル】コスト4<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/>（この効果は手札から使用できる）自分の手札にある系統：「死竜」/「無魔」を持つスピリットカード1枚を破棄することで、自分はデッキから2枚ドローする。この効果発揮後、このカードはオープンして手元に置く。"
+}

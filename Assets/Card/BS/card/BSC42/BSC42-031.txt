@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BSC42-031', 'PackNo': 'BSC42', 'CardName': '水馬ケルピーLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑', '全'], 'CardType': '碧雷・遊精・異合', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』〔ターンに1回：同名〕自分の効果で相手のデッキを破棄したとき、【粉砕】を持つ自分のスピリットすべてを回復できる。'}
+﻿{
+  "CardNo": "BSC42-031",
+  "PackNo": "BSC42",
+  "CardName": "水馬ケルピーLT",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "全"
+  ],
+  "CardType": "碧雷・遊精・異合",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "［Lv1-Lv2］『自分のアタックステップ』〔ターンに1回：同名〕自分の効果で相手のデッキを破棄したとき、【粉砕】を持つ自分のスピリットすべてを回復できる。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS19-016', 'PackNo': 'BS19', 'CardName': 'クリオネード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '幽魔', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS19-016",
+  "PackNo": "BS19",
+  "CardName": "クリオネード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "幽魔",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "-"
+}

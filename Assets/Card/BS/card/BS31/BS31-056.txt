@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS31-056', 'PackNo': 'BS31', 'CardName': 'カシャネコ', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '家臣・妖戒', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 6000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のトラッシュにある[カシャネコ]以外の系統：「妖戒」を持つスピリットカード2枚を手札に戻す。 ［Lv2-Lv3］『このスピリットのアタック時』このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のトラッシュに置くことで、[カシャネコ]以外の系統：「妖戒」を持つ自分のスピリット2体を回復させる。'}
+﻿{
+  "CardNo": "BS31-056",
+  "PackNo": "BS31",
+  "CardName": "カシャネコ",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "家臣・妖戒",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2",
+    "LV3 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のトラッシュにある[カシャネコ]以外の系統：「妖戒」を持つスピリットカード2枚を手札に戻す。 ［Lv2-Lv3］『このスピリットのアタック時』このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のトラッシュに置くことで、[カシャネコ]以外の系統：「妖戒」を持つ自分のスピリット2体を回復させる。"
+}

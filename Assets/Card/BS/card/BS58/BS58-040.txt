@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS58-040', 'PackNo': 'BS58', 'CardName': '睡蓮鳥ガウリー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '0', 'ReducedCost': [], 'CardType': '来是・戯狩', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』系統：「戯狩」を持つ自分のスピリットがアタックしたとき、自分のデッキの上から1枚をトラッシュに置ける。そのカードのコストがアタックしたスピリット以下なら、そのカードを手札に加える。［Lv1-Lv2］このスピリットは、相手の効果で破壊されたとき、手札に戻ることができる。'}
+﻿{
+  "CardNo": "BS58-040",
+  "PackNo": "BS58",
+  "CardName": "睡蓮鳥ガウリー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "来是・戯狩",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』系統：「戯狩」を持つ自分のスピリットがアタックしたとき、自分のデッキの上から1枚をトラッシュに置ける。そのカードのコストがアタックしたスピリット以下なら、そのカードを手札に加える。［Lv1-Lv2］このスピリットは、相手の効果で破壊されたとき、手札に戻ることができる。"
+}

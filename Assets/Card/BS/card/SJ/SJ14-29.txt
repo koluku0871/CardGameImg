@@ -1,1 +1,22 @@
-﻿{'CardNo': 'SJ14-29', 'PackNo': 'SJ', 'CardName': 'ゴジラ[1995]', 'CardRarity': 'SJ', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '8', 'ReducedCost': ['赤', '赤', '赤', '赤'], 'CardType': '古竜', 'Lv': ['LV1 : 10000／1', 'LV2 : 15000／3', 'LV3 : 20000／6'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』BP12000以下の相手のスピリット/アルティメット1体を破壊する。'}
+﻿{
+  "CardNo": "SJ14-29",
+  "PackNo": "SJ",
+  "CardName": "ゴジラ[1995]",
+  "CardRarity": "SJ",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "8",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "古竜",
+  "Lv": [
+    "LV1 : 10000／1",
+    "LV2 : 15000／3",
+    "LV3 : 20000／6"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットのアタック時』BP12000以下の相手のスピリット/アルティメット1体を破壊する。"
+}

@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS31-106', 'PackNo': 'BS31', 'CardName': 'タイムリワインド', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］相手のネクサス1つをデッキの下に戻す。 ［フラッシュ］コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、自分のスピリット1体を回復させる。'}
+﻿{
+  "CardNo": "BS31-106",
+  "PackNo": "BS31",
+  "CardName": "タイムリワインド",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］相手のネクサス1つをデッキの下に戻す。 ［フラッシュ］コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、自分のスピリット1体を回復させる。"
+}

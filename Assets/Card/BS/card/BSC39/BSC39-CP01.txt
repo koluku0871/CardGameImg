@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC39-CP01', 'PackNo': 'BSC39', 'CardName': '[新しき日々]リリカ・レム', 'CardRarity': 'CP', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄'], 'CardType': '詩姫・私服', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／3'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』カード名に「リリカ」/「センリ」を含む自分のスピリットがアタックしたとき、このミラージュを破棄することで、次の自分のスタートステップまで、そのスピリットは相手のスピリット/ネクサスの効果を受けない。さらに、2コスト支払うことで、そのスピリットを回復させる。［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分はデッキから1枚ドローできる。'}
+﻿{
+  "CardNo": "BSC39-CP01",
+  "PackNo": "BSC39",
+  "CardName": "[新しき日々]リリカ・レム",
+  "CardRarity": "CP",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "詩姫・私服",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／3"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』カード名に「リリカ」/「センリ」を含む自分のスピリットがアタックしたとき、このミラージュを破棄することで、次の自分のスタートステップまで、そのスピリットは相手のスピリット/ネクサスの効果を受けない。さらに、2コスト支払うことで、そのスピリットを回復させる。［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分はデッキから1枚ドローできる。"
+}

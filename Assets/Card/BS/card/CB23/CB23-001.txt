@@ -1,1 +1,18 @@
-﻿{'CardNo': 'CB23-001', 'PackNo': 'CB23', 'CardName': 'エヴァンゲリオン 正規実用型 改2号機γ -海中用-', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '造兵・WILLE・水中', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分の手札/トラッシュにある「AAA ヴンダー」1枚を、コストを支払わずに配置できる。［Lv1-Lv2］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている相手のスピリット以外の相手の効果を受けない。'}
+﻿{
+  "CardNo": "CB23-001",
+  "PackNo": "CB23",
+  "CardName": "エヴァンゲリオン 正規実用型 改2号機γ -海中用-",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "造兵・WILLE・水中",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分の手札/トラッシュにある「AAA ヴンダー」1枚を、コストを支払わずに配置できる。［Lv1-Lv2］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている相手のスピリット以外の相手の効果を受けない。"
+}

@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS17-046', 'PackNo': 'BS17', 'CardName': 'オリクス盗賊団', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '獣頭', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS17-046",
+  "PackNo": "BS17",
+  "CardName": "オリクス盗賊団",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "-"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS44-091', 'PackNo': 'BS44', 'CardName': 'ドリームスノー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '神'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］ブレイヴの「BP+」を無視して、BP7000以下の相手のスピリットすべてを手札に戻す。'}
+﻿{
+  "CardNo": "BS44-091",
+  "PackNo": "BS44",
+  "CardName": "ドリームスノー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "神"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］ブレイヴの「BP+」を無視して、BP7000以下の相手のスピリットすべてを手札に戻す。"
+}

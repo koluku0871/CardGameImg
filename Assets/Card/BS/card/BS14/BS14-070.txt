@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS14-070', 'PackNo': 'BS14', 'CardName': 'ダイヤドカリ', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '甲獣・空魚', 'Lv': ['LV1 : 7000／1', 'brave : +3000／'], 'Text': '［Lv1］このブレイヴはスピリット状態のときアタックできない。 《合体条件：コスト4以上》 《合体時》『このスピリットのブロック時』このスピリットをBP+5000する。'}
+﻿{
+  "CardNo": "BS14-070",
+  "PackNo": "BS14",
+  "CardName": "ダイヤドカリ",
+  "CardRarity": "C",
+  "CardCategory": "ブレイヴ",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "甲獣・空魚",
+  "Lv": [
+    "LV1 : 7000／1",
+    "brave : +3000／"
+  ],
+  "Text": "［Lv1］このブレイヴはスピリット状態のときアタックできない。 《合体条件：コスト4以上》 《合体時》『このスピリットのブロック時』このスピリットをBP+5000する。"
+}

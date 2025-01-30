@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS40-071', 'PackNo': 'BS40', 'CardName': '千年樹林', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］『自分のエンドステップ』このターン、自分が《煌臨》していたとき、自分のトラッシュにある<img src="/renewal/images/cardlist/ico_soulcore.png"/>を自分のリザーブに置くことができる。そうしたとき、自分のスピリット1体を回復させる。 ［Lv2］【煌臨中】の自分の緑のスピリットすべては、相手の効果でコアを取り除かれない。'}
+﻿{
+  "CardNo": "BS40-071",
+  "PackNo": "BS40",
+  "CardName": "千年樹林",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『自分のエンドステップ』このターン、自分が《煌臨》していたとき、自分のトラッシュにある<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>を自分のリザーブに置くことができる。そうしたとき、自分のスピリット1体を回復させる。 ［Lv2］【煌臨中】の自分の緑のスピリットすべては、相手の効果でコアを取り除かれない。"
+}

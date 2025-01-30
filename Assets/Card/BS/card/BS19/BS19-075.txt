@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS19-075', 'PackNo': 'BS19', 'CardName': 'コンゴウショウキ', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '想獣', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '［Lv1］『このブレイヴの召喚時』このターンの間、コスト3以下の相手のスピリットすべてはブロックできない。 《合体条件：コスト4以上》'}
+﻿{
+  "CardNo": "BS19-075",
+  "PackNo": "BS19",
+  "CardName": "コンゴウショウキ",
+  "CardRarity": "C",
+  "CardCategory": "ブレイヴ",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "想獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "brave : +3000／"
+  ],
+  "Text": "［Lv1］『このブレイヴの召喚時』このターンの間、コスト3以下の相手のスピリットすべてはブロックできない。 《合体条件：コスト4以上》"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS26-031', 'PackNo': 'BS26', 'CardName': 'プリムッポ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', 'ico_ultimate.png'], 'CardType': '小玩', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『相手によるこのスピリットの破壊時』系統：「詩姫」を持つ自分のスピリットがいるとき、自分はデッキから2枚ドローする。'}
+﻿{
+  "CardNo": "BS26-031",
+  "PackNo": "BS26",
+  "CardName": "プリムッポ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄",
+    "ico_ultimate.png"
+  ],
+  "CardType": "小玩",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］『相手によるこのスピリットの破壊時』系統：「詩姫」を持つ自分のスピリットがいるとき、自分はデッキから2枚ドローする。"
+}

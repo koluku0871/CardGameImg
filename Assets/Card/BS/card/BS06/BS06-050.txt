@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS06-050', 'PackNo': 'BS06', 'CardName': '雪ん子イエティ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': [], 'CardType': '想獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』このスピリットは疲労する。 ［Lv2］『相手のアタックステップ』相手がマジックの効果を使用したとき、このスピリットは回復する。'}
+﻿{
+  "CardNo": "BS06-050",
+  "PackNo": "BS06",
+  "CardName": "雪ん子イエティ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "想獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』このスピリットは疲労する。 ［Lv2］『相手のアタックステップ』相手がマジックの効果を使用したとき、このスピリットは回復する。"
+}

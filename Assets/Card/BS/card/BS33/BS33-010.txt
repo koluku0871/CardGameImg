@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS33-010', 'PackNo': 'BS33', 'CardName': '覚醒龍スメラギ・ドラゴン', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '8', 'ReducedCost': ['赤', '赤', '赤', '赤'], 'CardType': '家臣・武竜', 'Lv': ['LV1 : 7000／1', 'LV2 : 13000／3'], 'Text': '手札にあるこのスピリットカードは、【覚醒】で自分のスピリットが消滅したとき、コストを支払わずに召喚できる。 ［Lv2］『お互いのアタックステップ』【覚醒】で自分のスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれたとき、ターンに1回ずつ、そのスピリットを回復できる。'}
+﻿{
+  "CardNo": "BS33-010",
+  "PackNo": "BS33",
+  "CardName": "覚醒龍スメラギ・ドラゴン",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "8",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "家臣・武竜",
+  "Lv": [
+    "LV1 : 7000／1",
+    "LV2 : 13000／3"
+  ],
+  "Text": "手札にあるこのスピリットカードは、【覚醒】で自分のスピリットが消滅したとき、コストを支払わずに召喚できる。 ［Lv2］『お互いのアタックステップ』【覚醒】で自分のスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれたとき、ターンに1回ずつ、そのスピリットを回復できる。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS53-075', 'PackNo': 'BS53', 'CardName': 'ポムポムポムボム', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': 'このカードは系統：「起幻」を持つ。 ［フラッシュ］系統：「起幻」を持つ自分のスピリット/ネクサス合計2つにつき、相手のアルティメット1体をデッキの下に戻す。'}
+﻿{
+  "CardNo": "BS53-075",
+  "PackNo": "BS53",
+  "CardName": "ポムポムポムボム",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "このカードは系統：「起幻」を持つ。 ［フラッシュ］系統：「起幻」を持つ自分のスピリット/ネクサス合計2つにつき、相手のアルティメット1体をデッキの下に戻す。"
+}

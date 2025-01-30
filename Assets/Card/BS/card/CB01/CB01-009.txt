@@ -1,1 +1,21 @@
-﻿{'CardNo': 'CB01-009', 'PackNo': 'CB01', 'CardName': '土ノ魔王獣マガグランドキング', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '古竜・機獣', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／3', 'LV3 : 10000／6'], 'Text': '［Lv1-Lv2-Lv3］『自分のアタックステップ』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている間、カード名に「魔王獣」を含む自分のスピリットすべてをBP+5000する。 ［Lv2-Lv3］『このスピリットのアタック時』相手のネクサス2つを破壊する。'}
+﻿{
+  "CardNo": "CB01-009",
+  "PackNo": "CB01",
+  "CardName": "土ノ魔王獣マガグランドキング",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "古竜・機獣",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／3",
+    "LV3 : 10000／6"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『自分のアタックステップ』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている間、カード名に「魔王獣」を含む自分のスピリットすべてをBP+5000する。 ［Lv2-Lv3］『このスピリットのアタック時』相手のネクサス2つを破壊する。"
+}

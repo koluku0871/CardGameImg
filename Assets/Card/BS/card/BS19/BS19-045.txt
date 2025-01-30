@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS19-045', 'PackNo': 'BS19', 'CardName': 'チョコロネ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '0', 'ReducedCost': [], 'CardType': '菓族', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS19-045",
+  "PackNo": "BS19",
+  "CardName": "チョコロネ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "菓族",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "-"
+}

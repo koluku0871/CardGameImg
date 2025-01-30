@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS39-RV037', 'PackNo': 'BS39', 'CardName': '未完成の古代戦艦：羅針盤', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］自分が《封印》したとき、コスト5以下の相手のスピリット/アルティメット1体を破壊する。 ［Lv2］カード名に「古代戦艦」と入っている自分のネクサスすべてをLv2として扱う。'}
+﻿{
+  "CardNo": "BS39-RV037",
+  "PackNo": "BS39",
+  "CardName": "未完成の古代戦艦：羅針盤",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］自分が《封印》したとき、コスト5以下の相手のスピリット/アルティメット1体を破壊する。 ［Lv2］カード名に「古代戦艦」と入っている自分のネクサスすべてをLv2として扱う。"
+}

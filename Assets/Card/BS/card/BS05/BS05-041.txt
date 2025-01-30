@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS05-041', 'PackNo': 'BS05', 'CardName': 'アルカナファイター・カトル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '四道', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS05-041",
+  "PackNo": "BS05",
+  "CardName": "アルカナファイター・カトル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "四道",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "-"
+}

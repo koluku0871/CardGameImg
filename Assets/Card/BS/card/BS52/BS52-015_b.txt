@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS52-015_b', 'PackNo': 'BS52', 'CardName': '暗黒騎士デュラザール', 'CardRarity': '転醒R', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '7', 'ReducedCost': [], 'CardType': '起幻・天渡・魔影', 'Lv': ['LV1 : 6000／1', 'LV2 : 9000／3', 'LV3 : 12000／5'], 'Text': 'この面に裏返ったとき、フィールドに残り、カウント+1する(ボイドからコア1個を自分のカウントエリアに置く)［Lv1-Lv2-Lv3］『このスピリットの転醒時』相手のフィールド/リザーブの<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置く。［Lv1-Lv2-Lv3］『相手のリフレッシュステップ』相手は、トラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>をリザーブに戻せない。 ［Lv2-Lv3］『相手によるこのスピリットの破壊時』自分の手札1枚を破棄することで、このスピリットは疲労状態でフィールドに残る。'}
+﻿{
+  "CardNo": "BS52-015_b",
+  "PackNo": "BS52",
+  "CardName": "暗黒騎士デュラザール",
+  "CardRarity": "転醒R",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "7",
+  "ReducedCost": [],
+  "CardType": "起幻・天渡・魔影",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 9000／3",
+    "LV3 : 12000／5"
+  ],
+  "Text": "この面に裏返ったとき、フィールドに残り、カウント+1する(ボイドからコア1個を自分のカウントエリアに置く)［Lv1-Lv2-Lv3］『このスピリットの転醒時』相手のフィールド/リザーブの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置く。［Lv1-Lv2-Lv3］『相手のリフレッシュステップ』相手は、トラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をリザーブに戻せない。 ［Lv2-Lv3］『相手によるこのスピリットの破壊時』自分の手札1枚を破棄することで、このスピリットは疲労状態でフィールドに残る。"
+}

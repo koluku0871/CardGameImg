@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS69-068', 'PackNo': 'BS69', 'CardName': '封印大地：火山', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['全', '全'], 'CardType': '原初', 'Lv': [], 'Text': '［Lv1］『このネクサスの配置/破壊時』自分のデッキを上から2枚オープンできる。その中の「封印大地：火山」以外の系統：「原初」を持つカード1枚を手札に加える。残ったカードはデッキの下に戻す。自分のカウント6以上のとき、この効果でオープンする枚数を+1枚できる。［Lv1］自分が系統：「原初」を持つスピリットカード/ネクサスカードを召喚/配置するとき、その軽減シンボル<img src="/renewal/images/cardlist/ico_red.png"/>/<img src="/renewal/images/cardlist/ico_yellow.png"/>1つを満たす。'}
+﻿{
+  "CardNo": "BS69-068",
+  "PackNo": "BS69",
+  "CardName": "封印大地：火山",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "全",
+    "全"
+  ],
+  "CardType": "原初",
+  "Lv": [],
+  "Text": "［Lv1］『このネクサスの配置/破壊時』自分のデッキを上から2枚オープンできる。その中の「封印大地：火山」以外の系統：「原初」を持つカード1枚を手札に加える。残ったカードはデッキの下に戻す。自分のカウント6以上のとき、この効果でオープンする枚数を+1枚できる。［Lv1］自分が系統：「原初」を持つスピリットカード/ネクサスカードを召喚/配置するとき、その軽減シンボル<img src=\"/renewal/images/cardlist/ico_red.png\"/>/<img src=\"/renewal/images/cardlist/ico_yellow.png\"/>1つを満たす。"
+}

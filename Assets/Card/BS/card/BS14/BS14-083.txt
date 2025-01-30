@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS14-083', 'PackNo': 'BS14', 'CardName': '氷結した瀑布', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］『お互いのアタックステップ』BP3000以下のスピリットのバトルが終了したとき、アタックステップを終了する。 ［Lv2］『自分のスタートステップ』相手のネクサス1つを手札に戻す。'}
+﻿{
+  "CardNo": "BS14-083",
+  "PackNo": "BS14",
+  "CardName": "氷結した瀑布",
+  "CardRarity": "U",
+  "CardCategory": "ネクサス",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『お互いのアタックステップ』BP3000以下のスピリットのバトルが終了したとき、アタックステップを終了する。 ［Lv2］『自分のスタートステップ』相手のネクサス1つを手札に戻す。"
+}

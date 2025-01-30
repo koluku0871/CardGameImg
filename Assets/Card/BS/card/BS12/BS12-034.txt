@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS12-034', 'PackNo': 'BS12', 'CardName': '天文学者ペンタン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄'], 'CardType': '歌鳥・漂精', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '［Lv1-Lv2］『自分のスタートステップ』このターンの間、系統：「歌鳥」を持つ自分のスピリットすべてに、系統：「星魂」を与える。'}
+﻿{
+  "CardNo": "BS12-034",
+  "PackNo": "BS12",
+  "CardName": "天文学者ペンタン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "歌鳥・漂精",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv1-Lv2］『自分のスタートステップ』このターンの間、系統：「歌鳥」を持つ自分のスピリットすべてに、系統：「星魂」を与える。"
+}

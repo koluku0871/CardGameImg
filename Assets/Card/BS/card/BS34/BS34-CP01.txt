@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS34-CP01', 'PackNo': 'BS34', 'CardName': '爆炎の起導士イザナ', 'CardRarity': 'CP', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '起導者・武竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］【起導：赤】『このスピリットの召喚時』召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、自分の赤のＳバースト1つをただちに発動させる。そのバースト発動後、自分はデッキから1枚ドローする。 ［Lv2］『このスピリットのバトル時』自分の手札にあるバースト効果を持つカード1枚をセットできる。'}
+﻿{
+  "CardNo": "BS34-CP01",
+  "PackNo": "BS34",
+  "CardName": "爆炎の起導士イザナ",
+  "CardRarity": "CP",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "起導者・武竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］【起導：赤】『このスピリットの召喚時』召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、自分の赤のＳバースト1つをただちに発動させる。そのバースト発動後、自分はデッキから1枚ドローする。 ［Lv2］『このスピリットのバトル時』自分の手札にあるバースト効果を持つカード1枚をセットできる。"
+}

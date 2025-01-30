@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS62-CP04', 'PackNo': 'BS62', 'CardName': '旅団の摩天楼', 'CardRarity': 'CP', 'CardCategory': 'ネクサス', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '血晶', 'Lv': [], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『自分のアタックステップ』ターンに1回、自分の手札にある紫1色のカード1枚を破棄できる。それが、系統：「血晶」を持つカードのとき、相手のスピリットのコア1個をリザーブに置く。系統：「血晶」を持たないコスト7以上のカードのとき、相手のスピリットのコア2個をリザーブに置く。［Lv1］『このネクサスの配置時』自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS62-CP04",
+  "PackNo": "BS62",
+  "CardName": "旅団の摩天楼",
+  "CardRarity": "CP",
+  "CardCategory": "ネクサス",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "血晶",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『自分のアタックステップ』ターンに1回、自分の手札にある紫1色のカード1枚を破棄できる。それが、系統：「血晶」を持つカードのとき、相手のスピリットのコア1個をリザーブに置く。系統：「血晶」を持たないコスト7以上のカードのとき、相手のスピリットのコア2個をリザーブに置く。［Lv1］『このネクサスの配置時』自分はデッキから1枚ドローする。"
+}

@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BSC05-021', 'PackNo': 'BSC05', 'CardName': 'グリムリーパー', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］コアが1個しか置かれていない疲労状態のスピリット1体を破壊する。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。'}
+﻿{
+  "CardNo": "BSC05-021",
+  "PackNo": "BSC05",
+  "CardName": "グリムリーパー",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］コアが1個しか置かれていない疲労状態のスピリット1体を破壊する。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。"
+}

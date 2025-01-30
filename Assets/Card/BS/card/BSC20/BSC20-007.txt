@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC20-007', 'PackNo': 'BSC20', 'CardName': '風魔アマツバ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '忍風・爪鳥', 'Lv': ['LV1 : 2000／1', 'LV2 : 6000／4'], 'Text': '［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。［Lv1-Lv2］『このスピリットの召喚時』コスト5以下の自分のスピリット1体を回復させる。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)を使用していたら、かわりに、自分のスピリット1体を回復させる。'}
+﻿{
+  "CardNo": "BSC20-007",
+  "PackNo": "BSC20",
+  "CardName": "風魔アマツバ",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "忍風・爪鳥",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 6000／4"
+  ],
+  "Text": "［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。［Lv1-Lv2］『このスピリットの召喚時』コスト5以下の自分のスピリット1体を回復させる。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>(ソウルコア)を使用していたら、かわりに、自分のスピリット1体を回復させる。"
+}

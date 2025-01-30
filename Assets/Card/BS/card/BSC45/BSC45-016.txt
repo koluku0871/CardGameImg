@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BSC45-016', 'PackNo': 'BSC45', 'CardName': 'デモ・ボーンLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': ['紫'], 'CardType': '激覇・血晶・無魔', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv2］【真・呪撃】『自分のターン』このスピリットが相手によってフィールドを離れるとき、相手のスピリット/アルティメット1体を破壊する。'}
+﻿{
+  "CardNo": "BSC45-016",
+  "PackNo": "BSC45",
+  "CardName": "デモ・ボーンLT",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "1",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "激覇・血晶・無魔",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［Lv2］【真・呪撃】『自分のターン』このスピリットが相手によってフィールドを離れるとき、相手のスピリット/アルティメット1体を破壊する。"
+}

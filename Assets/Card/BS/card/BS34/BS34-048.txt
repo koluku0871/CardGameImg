@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS34-048', 'PackNo': 'BS34', 'CardName': '大ダラボッチ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '8', 'ReducedCost': ['黄', '黄', '黄', '黄', '黄', '黄'], 'CardType': '妖戒', 'Lv': ['LV1 : 20000／1'], 'Text': '-'}
+﻿{
+  "CardNo": "BS34-048",
+  "PackNo": "BS34",
+  "CardName": "大ダラボッチ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "8",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "妖戒",
+  "Lv": [
+    "LV1 : 20000／1"
+  ],
+  "Text": "-"
+}

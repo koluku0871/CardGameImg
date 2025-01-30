@@ -1,1 +1,13 @@
-﻿{'CardNo': 'BS33-076', 'PackNo': 'BS33', 'CardName': '口寄之術', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '1', 'ReducedCost': [], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分の分身スピリット1体を表にする。そのカードがスピリットカードのとき、コストを支払わずに召喚する。他のカードのときは破棄する。'}
+﻿{
+  "CardNo": "BS33-076",
+  "PackNo": "BS33",
+  "CardName": "口寄之術",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分の分身スピリット1体を表にする。そのカードがスピリットカードのとき、コストを支払わずに召喚する。他のカードのときは破棄する。"
+}

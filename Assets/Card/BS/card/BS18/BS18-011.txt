@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS18-011', 'PackNo': 'BS18', 'CardName': 'ゾンビ・スネーク', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫', '紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの破壊時』系統：「古竜」を持つ相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "BS18-011",
+  "PackNo": "BS18",
+  "CardName": "ゾンビ・スネーク",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "2",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの破壊時』系統：「古竜」を持つ相手のスピリット1体を破壊する。"
+}

@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS03-039', 'PackNo': 'BS03', 'CardName': '笛吹きのヘイムダル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白'], 'CardType': '道化', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '[Lv2]『このスピリットのブロック時』このバトル終了時まで、相手はフラッシュタイミングで手札のカードを使用できない。'}
+﻿{
+  "CardNo": "BS03-039",
+  "PackNo": "BS03",
+  "CardName": "笛吹きのヘイムダル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "2",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "道化",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "[Lv2]『このスピリットのブロック時』このバトル終了時まで、相手はフラッシュタイミングで手札のカードを使用できない。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS37-019', 'PackNo': 'BS37', 'CardName': 'ミストワイバーン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '霊獣・死竜', 'Lv': ['LV1 : 8000／1', 'LV2 : 12000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS37-019",
+  "PackNo": "BS37",
+  "CardName": "ミストワイバーン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "霊獣・死竜",
+  "Lv": [
+    "LV1 : 8000／1",
+    "LV2 : 12000／3"
+  ],
+  "Text": "-"
+}

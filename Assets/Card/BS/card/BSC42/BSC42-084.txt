@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BSC42-084', 'PackNo': 'BSC42', 'CardName': 'ハンドリバースLT', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', '全'], 'CardType': '碧雷', 'Lv': [], 'Text': '［メイン］自分の手札すべてを破棄する。その後、相手の手札1枚につき、自分はデッキから1枚ドローする。 ［フラッシュ］相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "BSC42-084",
+  "PackNo": "BSC42",
+  "CardName": "ハンドリバースLT",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "5",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "全"
+  ],
+  "CardType": "碧雷",
+  "Lv": [],
+  "Text": "［メイン］自分の手札すべてを破棄する。その後、相手の手札1枚につき、自分はデッキから1枚ドローする。 ［フラッシュ］相手のスピリット1体を疲労させる。"
+}

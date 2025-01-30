@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SD19-004', 'PackNo': 'SD19', 'CardName': 'バズ・リューマン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '竜人', 'Lv': ['LV1 : 1000／1', 'LV2 : 5000／5'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』BP4000以下の相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "SD19-004",
+  "PackNo": "SD19",
+  "CardName": "バズ・リューマン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "竜人",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 5000／5"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの破壊時』BP4000以下の相手のスピリット1体を破壊する。"
+}

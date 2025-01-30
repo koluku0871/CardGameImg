@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS27-002', 'PackNo': 'BS27', 'CardName': 'ホムライタチ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '緑'], 'CardType': '皇獣・剣獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］お互いの効果で、このスピリットのコアは0個にならない。［Lv1-Lv2］『自分のメインステップ』このスピリットに緑のシンボル1つを追加する。'}
+﻿{
+  "CardNo": "BS27-002",
+  "PackNo": "BS27",
+  "CardName": "ホムライタチ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤",
+    "緑"
+  ],
+  "CardType": "皇獣・剣獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］お互いの効果で、このスピリットのコアは0個にならない。［Lv1-Lv2］『自分のメインステップ』このスピリットに緑のシンボル1つを追加する。"
+}

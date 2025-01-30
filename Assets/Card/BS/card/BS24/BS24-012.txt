@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS24-012', 'PackNo': 'BS24', 'CardName': 'ガスウサギ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': ['紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／3', 'LV3 : 3000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のスピリット/アルティメット1体につき、相手の手元に置いてあるカード1枚を破棄する。'}
+﻿{
+  "CardNo": "BS24-012",
+  "PackNo": "BS24",
+  "CardName": "ガスウサギ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "1",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "霊獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／3",
+    "LV3 : 3000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のスピリット/アルティメット1体につき、相手の手元に置いてあるカード1枚を破棄する。"
+}

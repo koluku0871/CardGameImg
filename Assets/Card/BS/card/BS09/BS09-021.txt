@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS09-021', 'PackNo': 'BS09', 'CardName': '武士インパラー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '青', '青'], 'CardType': '遊精・獣頭', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『相手のアタックステップ』系統：「剣獣」/「勇傑」を持つ自分のスピリットが疲労したとき、このスピリットは回復する。'}
+﻿{
+  "CardNo": "BS09-021",
+  "PackNo": "BS09",
+  "CardName": "武士インパラー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "青",
+    "青"
+  ],
+  "CardType": "遊精・獣頭",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『相手のアタックステップ』系統：「剣獣」/「勇傑」を持つ自分のスピリットが疲労したとき、このスピリットは回復する。"
+}

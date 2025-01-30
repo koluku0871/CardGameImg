@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS05-012', 'PackNo': 'BS05', 'CardName': 'メナシヘビ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS05-012",
+  "PackNo": "BS05",
+  "CardName": "メナシヘビ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "-"
+}

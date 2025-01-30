@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS01-058', 'PackNo': 'BS01', 'CardName': 'ヘラクレス・ジオ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '巨獣', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 8000／5'], 'Text': '-'}
+﻿{
+  "CardNo": "BS01-058",
+  "PackNo": "BS01",
+  "CardName": "ヘラクレス・ジオ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "巨獣",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 8000／5"
+  ],
+  "Text": "-"
+}

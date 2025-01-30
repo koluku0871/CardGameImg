@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS40-002', 'PackNo': 'BS40', 'CardName': 'ユーパルランス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '緑'], 'CardType': '地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている間、このスピリットをBP+4000する。'}
+﻿{
+  "CardNo": "BS40-002",
+  "PackNo": "BS40",
+  "CardName": "ユーパルランス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤",
+    "緑"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている間、このスピリットをBP+4000する。"
+}

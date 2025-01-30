@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS19-106', 'PackNo': 'BS19', 'CardName': 'アイスエイジシールド', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体を指定する。このターンの間、指定された相手のスピリットのアタック/効果によって、自分のライフは減らない。'}
+﻿{
+  "CardNo": "BS19-106",
+  "PackNo": "BS19",
+  "CardName": "アイスエイジシールド",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "2",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手のスピリット1体を指定する。このターンの間、指定された相手のスピリットのアタック/効果によって、自分のライフは減らない。"
+}

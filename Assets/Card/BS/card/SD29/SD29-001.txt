@@ -1,1 +1,17 @@
-﻿{'CardNo': 'SD29-001', 'PackNo': 'SD29', 'CardName': 'イクサトカゲ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '0', 'ReducedCost': [], 'CardType': '爬獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : 4000／5'], 'Text': '［Lv3］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)が置かれている間、このスピリットをBP+6000する。'}
+﻿{
+  "CardNo": "SD29-001",
+  "PackNo": "SD29",
+  "CardName": "イクサトカゲ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "爬獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3",
+    "LV3 : 4000／5"
+  ],
+  "Text": "［Lv3］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>(ソウルコア)が置かれている間、このスピリットをBP+6000する。"
+}

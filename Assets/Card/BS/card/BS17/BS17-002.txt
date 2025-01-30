@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS17-002', 'PackNo': 'BS17', 'CardName': 'フェンサー・ドラゴン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '戦竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］このスピリットはブロックできない。［Lv1-Lv2］『このスピリットのアタック時』自分のバーストをセットしている間、このスピリットをBP+2000する。'}
+﻿{
+  "CardNo": "BS17-002",
+  "PackNo": "BS17",
+  "CardName": "フェンサー・ドラゴン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "戦竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］このスピリットはブロックできない。［Lv1-Lv2］『このスピリットのアタック時』自分のバーストをセットしている間、このスピリットをBP+2000する。"
+}

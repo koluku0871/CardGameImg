@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS37-048', 'PackNo': 'BS37', 'CardName': '白猿のシャラバ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '0', 'ReducedCost': [], 'CardType': '想獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS37-048",
+  "PackNo": "BS37",
+  "CardName": "白猿のシャラバ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "想獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "-"
+}

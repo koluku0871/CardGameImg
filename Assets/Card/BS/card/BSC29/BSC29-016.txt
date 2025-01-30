@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC29-016', 'PackNo': 'BSC29', 'CardName': 'ビビッとビクトリー!!', 'CardRarity': '-', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': 'トラッシュにあるこのマジックカードは、自分の赤のスピリットがBPを比べ相手のスピリットだけを破壊したとき、手札に戻る。 [フラッシュ]BP4000以下の相手のスピリット2体を破壊する。'}
+﻿{
+  "CardNo": "BSC29-016",
+  "PackNo": "BSC29",
+  "CardName": "ビビッとビクトリー!!",
+  "CardRarity": "-",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "トラッシュにあるこのマジックカードは、自分の赤のスピリットがBPを比べ相手のスピリットだけを破壊したとき、手札に戻る。 [フラッシュ]BP4000以下の相手のスピリット2体を破壊する。"
+}

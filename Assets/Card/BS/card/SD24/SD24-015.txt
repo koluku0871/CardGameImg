@@ -1,1 +1,17 @@
-﻿{'CardNo': 'SD24-015', 'PackNo': 'SD24', 'CardName': 'マッスルウォール', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青', '青'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、回復状態の相手のスピリットのアタックでは自分のライフは減らない。または、コスト3以下の相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "SD24-015",
+  "PackNo": "SD24",
+  "CardName": "マッスルウォール",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、回復状態の相手のスピリットのアタックでは自分のライフは減らない。または、コスト3以下の相手のスピリット1体を破壊する。"
+}

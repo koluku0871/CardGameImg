@@ -1,1 +1,19 @@
-﻿{'CardNo': 'CB13-041', 'PackNo': 'CB13', 'CardName': 'ガンダムキュリオス[飛行形態］', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': 'MS・CB', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／3'], 'Text': '［フラッシュ］【武力介入：コスト4<img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/>】『相手のアタックステップ』手札にあるこのカードは4<img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/>支払って召喚できる。［Lv1-Lv2］『このスピリットの召喚時』コスト3以下の相手のスピリット1体を破壊する。さらに、【武力介入】で召喚していたとき、コスト5以下の相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "CB13-041",
+  "PackNo": "CB13",
+  "CardName": "ガンダムキュリオス[飛行形態］",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "MS・CB",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［フラッシュ］【武力介入：コスト4<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>】『相手のアタックステップ』手札にあるこのカードは4<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>支払って召喚できる。［Lv1-Lv2］『このスピリットの召喚時』コスト3以下の相手のスピリット1体を破壊する。さらに、【武力介入】で召喚していたとき、コスト5以下の相手のスピリット1体を破壊する。"
+}

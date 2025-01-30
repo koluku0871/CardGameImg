@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS16-035', 'PackNo': 'BS16', 'CardName': '樹氷竜シルバー・ライム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '6', 'ReducedCost': ['白', '白'], 'CardType': '甲竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS16-035",
+  "PackNo": "BS16",
+  "CardName": "樹氷竜シルバー・ライム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "6",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "甲竜",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／2"
+  ],
+  "Text": "-"
+}

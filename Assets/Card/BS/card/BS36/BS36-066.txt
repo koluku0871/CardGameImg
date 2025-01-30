@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS36-066', 'PackNo': 'BS36', 'CardName': 'No.31 バードハンティング', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』自分の合体スピリットすべてをBP+5000する。このネクサスに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、かわりに、自分のスピリットすべてをBP+5000する。 ［Lv2］相手によって自分のライフが減ったとき、BP7000以下の相手のスピリット1体か、BP10000以下の系統：「爪鳥」/「歌鳥」を持つ相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "BS36-066",
+  "PackNo": "BS36",
+  "CardName": "No.31 バードハンティング",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］『自分のアタックステップ』自分の合体スピリットすべてをBP+5000する。このネクサスに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、かわりに、自分のスピリットすべてをBP+5000する。 ［Lv2］相手によって自分のライフが減ったとき、BP7000以下の相手のスピリット1体か、BP10000以下の系統：「爪鳥」/「歌鳥」を持つ相手のスピリット1体を破壊する。"
+}

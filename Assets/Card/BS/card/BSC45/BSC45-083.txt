@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC45-083', 'PackNo': 'BSC45', 'CardName': '異神獣クトゥルムLT', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '7', 'ReducedCost': ['青', '青', '全'], 'CardType': '眷属・異合', 'Lv': ['LV1 : 3000／1', 'LV2 : 7000／2', 'LV3 : 9000／5'], 'Text': '［フラッシュ］《煌臨：青＆コスト4以上》『お互いのアタックステップ』自分の<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。 ［Lv2-Lv3］『このスピリットの召喚/煌臨時』このスピリット以外の【転召】を持たないスピリット/アルティメットすべてを破壊する。'}
+﻿{
+  "CardNo": "BSC45-083",
+  "PackNo": "BSC45",
+  "CardName": "異神獣クトゥルムLT",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "7",
+  "ReducedCost": [
+    "青",
+    "青",
+    "全"
+  ],
+  "CardType": "眷属・異合",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 7000／2",
+    "LV3 : 9000／5"
+  ],
+  "Text": "［フラッシュ］《煌臨：青＆コスト4以上》『お互いのアタックステップ』自分の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。 ［Lv2-Lv3］『このスピリットの召喚/煌臨時』このスピリット以外の【転召】を持たないスピリット/アルティメットすべてを破壊する。"
+}

@@ -1,1 +1,17 @@
-﻿{'CardNo': 'CB25-079', 'PackNo': 'CB25', 'CardName': 'その魔女は、ガンダムを駆る。', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '学園', 'Lv': [], 'Text': '［ミラージュ：コスト2<img src="/renewal/images/cardlist/ico_yellow.png"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』自分の手札にある系統：「学園」を持つカードすべては、“［フラッシュ］このターンの間、相手のスピリット1体をBP-5000でき、BP0になったとき破壊する”を持つコスト3<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>のマジックカードとして使用できる。 ［フラッシュ］Lv1/Lv3の相手のスピリット1体をデッキの下に戻す。魂状態を含む自分の「エアリアル」がいるとき、この効果は効果名に「装甲」を含む効果では防げない。'}
+﻿{
+  "CardNo": "CB25-079",
+  "PackNo": "CB25",
+  "CardName": "その魔女は、ガンダムを駆る。",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "学園",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト2<img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』自分の手札にある系統：「学園」を持つカードすべては、“［フラッシュ］このターンの間、相手のスピリット1体をBP-5000でき、BP0になったとき破壊する”を持つコスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>のマジックカードとして使用できる。 ［フラッシュ］Lv1/Lv3の相手のスピリット1体をデッキの下に戻す。魂状態を含む自分の「エアリアル」がいるとき、この効果は効果名に「装甲」を含む効果では防げない。"
+}

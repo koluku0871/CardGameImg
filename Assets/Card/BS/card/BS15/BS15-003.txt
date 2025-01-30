@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS15-003', 'PackNo': 'BS15', 'CardName': 'ファイアファンサウル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『自分のメインステップ』自分の手札1枚を破棄し、このスピリットを疲労させることで、相手のネクサス1つを破壊する。'}
+﻿{
+  "CardNo": "BS15-003",
+  "PackNo": "BS15",
+  "CardName": "ファイアファンサウル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『自分のメインステップ』自分の手札1枚を破棄し、このスピリットを疲労させることで、相手のネクサス1つを破壊する。"
+}

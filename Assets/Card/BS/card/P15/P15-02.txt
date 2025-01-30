@@ -1,1 +1,20 @@
-﻿{'CardNo': 'P15-02', 'PackNo': 'P15', 'CardName': '水拳童子', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '闘神', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '［Lv1-Lv2-Lv3］【粉砕】『このスピリットのアタック時』相手のデッキを上から、このスピリットのLvと同じ枚数破棄する。［Lv1-Lv2-Lv3］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、系統：「闘神」を持つ自分のスピリットすべてをBP+3000する。'}
+﻿{
+  "CardNo": "P15-02",
+  "PackNo": "P15",
+  "CardName": "水拳童子",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］【粉砕】『このスピリットのアタック時』相手のデッキを上から、このスピリットのLvと同じ枚数破棄する。［Lv1-Lv2-Lv3］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、系統：「闘神」を持つ自分のスピリットすべてをBP+3000する。"
+}

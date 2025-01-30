@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS13-033', 'PackNo': 'BS13', 'CardName': 'ノックンモール', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': ['黄'], 'CardType': '小玩', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS13-033",
+  "PackNo": "BS13",
+  "CardName": "ノックンモール",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "小玩",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "-"
+}

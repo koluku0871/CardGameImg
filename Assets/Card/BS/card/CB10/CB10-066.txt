@@ -1,1 +1,20 @@
-﻿{'CardNo': 'CB10-066', 'PackNo': 'CB10', 'CardName': 'カブトクナイガン', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '剣刃', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': 'カード名に「カブト」を含む自分のスピリットの効果でデッキからオープンされたこのカードは、手札に加えられる。 合体条件：仮面 【合体中】『このスピリットのアタック時』自分のリザーブの<img src="/renewal/images/cardlist/ico_soulcore.png"/>か、自分のトラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア2個を自分のスピリットに置ける。さらに、カード名に「カブト」を含むスピリットとの合体中、このスピリットに赤のシンボル1つを追加する。'}
+﻿{
+  "CardNo": "CB10-066",
+  "PackNo": "CB10",
+  "CardName": "カブトクナイガン",
+  "CardRarity": "C",
+  "CardCategory": "ブレイヴ",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "剣刃",
+  "Lv": [
+    "LV1 : 3000／1",
+    "brave : +3000／"
+  ],
+  "Text": "カード名に「カブト」を含む自分のスピリットの効果でデッキからオープンされたこのカードは、手札に加えられる。 合体条件：仮面 【合体中】『このスピリットのアタック時』自分のリザーブの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>か、自分のトラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア2個を自分のスピリットに置ける。さらに、カード名に「カブト」を含むスピリットとの合体中、このスピリットに赤のシンボル1つを追加する。"
+}

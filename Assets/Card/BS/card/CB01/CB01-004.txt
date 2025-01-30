@@ -1,1 +1,20 @@
-﻿{'CardNo': 'CB01-004', 'PackNo': 'CB01', 'CardName': '宇宙怪獣ベムラー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 6000／1', 'LV2 : 10000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "CB01-004",
+  "PackNo": "CB01",
+  "CardName": "宇宙怪獣ベムラー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "星竜",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 10000／3"
+  ],
+  "Text": "-"
+}

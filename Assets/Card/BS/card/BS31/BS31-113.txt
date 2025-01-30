@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS31-113', 'PackNo': 'BS31', 'CardName': '蒼激ブレイズ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］コスト4以下の相手のスピリット/アルティメット2体を破壊する。この効果で破壊したスピリットのコスト1につき、相手のデッキを上から1枚破棄する。'}
+﻿{
+  "CardNo": "BS31-113",
+  "PackNo": "BS31",
+  "CardName": "蒼激ブレイズ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］コスト4以下の相手のスピリット/アルティメット2体を破壊する。この効果で破壊したスピリットのコスト1につき、相手のデッキを上から1枚破棄する。"
+}

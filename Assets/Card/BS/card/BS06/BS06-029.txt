@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS06-029', 'PackNo': 'BS06', 'CardName': 'メイパロット', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '歌鳥', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 5000／5'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』ボイドからコア1個を自分のスピリット1体の上に置く。'}
+﻿{
+  "CardNo": "BS06-029",
+  "PackNo": "BS06",
+  "CardName": "メイパロット",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "歌鳥",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2",
+    "LV3 : 5000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』ボイドからコア1個を自分のスピリット1体の上に置く。"
+}

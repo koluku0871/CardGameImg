@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS17-077', 'PackNo': 'BS17', 'CardName': 'ワイルドウィング', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のスピリットの体数が相手のスピリットの体数以上のとき、このターンの間、自分のスピリットすべてをBP+3000する。'}
+﻿{
+  "CardNo": "BS17-077",
+  "PackNo": "BS17",
+  "CardName": "ワイルドウィング",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分のスピリットの体数が相手のスピリットの体数以上のとき、このターンの間、自分のスピリットすべてをBP+3000する。"
+}

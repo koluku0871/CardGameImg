@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS22-013', 'PackNo': 'BS22', 'CardName': 'セグロースネーク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3', 'LV3 : 8000／5'], 'Text': '-'}
+﻿{
+  "CardNo": "BS22-013",
+  "PackNo": "BS22",
+  "CardName": "セグロースネーク",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3",
+    "LV3 : 8000／5"
+  ],
+  "Text": "-"
+}

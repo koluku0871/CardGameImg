@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS33-051', 'PackNo': 'BS33', 'CardName': '水師オット', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '獣頭', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／4'], 'Text': '［Lv1-Lv2］系統：「獣頭」を持つ自分のスピリット/アルティメットすべてのコアの数は、相手によって1個以下にならない。'}
+﻿{
+  "CardNo": "BS33-051",
+  "PackNo": "BS33",
+  "CardName": "水師オット",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／4"
+  ],
+  "Text": "［Lv1-Lv2］系統：「獣頭」を持つ自分のスピリット/アルティメットすべてのコアの数は、相手によって1個以下にならない。"
+}

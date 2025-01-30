@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS31-031', 'PackNo': 'BS31', 'CardName': '甲蛾忍シュリカブト', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '忍風・殻人', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 8000／5'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のリザーブに置くことで、自分のデッキを上から1枚オープンする。そのカードが系統：「忍風」を持つスピリットカードのとき、コストを支払わずに召喚できる。召喚しない、または、他のカードのときはデッキの下に戻す。'}
+﻿{
+  "CardNo": "BS31-031",
+  "PackNo": "BS31",
+  "CardName": "甲蛾忍シュリカブト",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "忍風・殻人",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 8000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のリザーブに置くことで、自分のデッキを上から1枚オープンする。そのカードが系統：「忍風」を持つスピリットカードのとき、コストを支払わずに召喚できる。召喚しない、または、他のカードのときはデッキの下に戻す。"
+}

@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS03-019', 'PackNo': 'BS03', 'CardName': '魔界軍師ヘルミア', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '魔神', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 7000／6'], 'Text': '[Lv1-Lv2-Lv3]『このスピリットの召喚時』自分は手札1枚を選んで破棄する。 [Lv2-Lv3]『このスピリットのアタック時』自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS03-019",
+  "PackNo": "BS03",
+  "CardName": "魔界軍師ヘルミア",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "魔神",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 7000／6"
+  ],
+  "Text": "[Lv1-Lv2-Lv3]『このスピリットの召喚時』自分は手札1枚を選んで破棄する。 [Lv2-Lv3]『このスピリットのアタック時』自分はデッキから1枚ドローする。"
+}

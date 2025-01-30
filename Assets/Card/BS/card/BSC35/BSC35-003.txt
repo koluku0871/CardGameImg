@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BSC35-003', 'PackNo': 'BSC35', 'CardName': '[スターフェス]フォンニーナ', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '星麗・詩姫・衣装', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 6000／3'], 'Text': '【チーム：アブソリューツ】［Lv1-Lv2-Lv3］【ソロパート】このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている間、自分の「フォンニーナ」すべては、相手の効果で破壊されない。 ［Lv2-Lv3］『このスピリットのアタック時』ターンに1回、相手の創界神ネクサスのコア1個をボイドに置くことで、このスピリットは回復する。'}
+﻿{
+  "CardNo": "BSC35-003",
+  "PackNo": "BSC35",
+  "CardName": "[スターフェス]フォンニーナ",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "星麗・詩姫・衣装",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2",
+    "LV3 : 6000／3"
+  ],
+  "Text": "【チーム：アブソリューツ】［Lv1-Lv2-Lv3］【ソロパート】このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている間、自分の「フォンニーナ」すべては、相手の効果で破壊されない。 ［Lv2-Lv3］『このスピリットのアタック時』ターンに1回、相手の創界神ネクサスのコア1個をボイドに置くことで、このスピリットは回復する。"
+}

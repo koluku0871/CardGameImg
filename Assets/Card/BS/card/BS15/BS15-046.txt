@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS15-046', 'PackNo': 'BS15', 'CardName': 'ランマー・ゴレム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '0', 'ReducedCost': [], 'CardType': '造兵', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS15-046",
+  "PackNo": "BS15",
+  "CardName": "ランマー・ゴレム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "造兵",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "-"
+}

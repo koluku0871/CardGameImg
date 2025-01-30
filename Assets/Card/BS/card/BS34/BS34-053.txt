@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS34-053', 'PackNo': 'BS34', 'CardName': 'ワニアラシ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青', '青'], 'CardType': '異合', 'Lv': ['LV1 : 6000／1', 'LV2 : 10000／3', 'LV3 : 14000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS34-053",
+  "PackNo": "BS34",
+  "CardName": "ワニアラシ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 10000／3",
+    "LV3 : 14000／4"
+  ],
+  "Text": "-"
+}

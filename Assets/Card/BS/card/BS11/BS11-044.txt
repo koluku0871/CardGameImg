@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS11-044', 'PackNo': 'BS11', 'CardName': 'シェル・ゴレム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青', '青'], 'CardType': '造兵', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／4', 'LV3 : 8000／5'], 'Text': '-'}
+﻿{
+  "CardNo": "BS11-044",
+  "PackNo": "BS11",
+  "CardName": "シェル・ゴレム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "造兵",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／4",
+    "LV3 : 8000／5"
+  ],
+  "Text": "-"
+}

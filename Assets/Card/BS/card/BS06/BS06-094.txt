@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS06-094', 'PackNo': 'BS06', 'CardName': 'トライデントフレア', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP3000以下の相手のスピリット3体を破壊する。'}
+﻿{
+  "CardNo": "BS06-094",
+  "PackNo": "BS06",
+  "CardName": "トライデントフレア",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］BP3000以下の相手のスピリット3体を破壊する。"
+}

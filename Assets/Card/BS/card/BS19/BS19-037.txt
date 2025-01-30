@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS19-037', 'PackNo': 'BS19', 'CardName': 'アーマー・フィッシュ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白', '白'], 'CardType': '空魚・機獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS19-037",
+  "PackNo": "BS19",
+  "CardName": "アーマー・フィッシュ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "空魚・機獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "-"
+}

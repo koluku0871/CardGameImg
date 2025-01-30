@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS36-006', 'PackNo': 'BS36', 'CardName': '溶岩獣ヴォルラス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤', '赤', '赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 13000／1', 'LV2 : 15000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS36-006",
+  "PackNo": "BS36",
+  "CardName": "溶岩獣ヴォルラス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "皇獣",
+  "Lv": [
+    "LV1 : 13000／1",
+    "LV2 : 15000／3"
+  ],
+  "Text": "-"
+}

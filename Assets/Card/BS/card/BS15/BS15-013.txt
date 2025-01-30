@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS15-013', 'PackNo': 'BS15', 'CardName': 'エレフォッグ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』相手のフィールドのスピリット/ネクサスの色1色につき、相手のスピリットのコア1個を相手のリザーブに置く。'}
+﻿{
+  "CardNo": "BS15-013",
+  "PackNo": "BS15",
+  "CardName": "エレフォッグ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "霊獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの破壊時』相手のフィールドのスピリット/ネクサスの色1色につき、相手のスピリットのコア1個を相手のリザーブに置く。"
+}

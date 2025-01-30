@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS22-021', 'PackNo': 'BS22', 'CardName': 'チューニン・ツバメ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '爪鳥', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］相手は、このスピリットのコアを取り除くことができない。 ［Lv2］【強化】自分の「相手への疲労効果」の体数を+1体する。'}
+﻿{
+  "CardNo": "BS22-021",
+  "PackNo": "BS22",
+  "CardName": "チューニン・ツバメ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "爪鳥",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］相手は、このスピリットのコアを取り除くことができない。 ［Lv2］【強化】自分の「相手への疲労効果」の体数を+1体する。"
+}

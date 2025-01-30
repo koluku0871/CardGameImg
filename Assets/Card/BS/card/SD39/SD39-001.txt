@@ -1,1 +1,16 @@
-﻿{'CardNo': 'SD39-001', 'PackNo': 'SD39', 'CardName': 'SD0-L9', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': [], 'CardType': '武装', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '［Lv1-Lv2］このスピリットは相手の効果で破壊されない。 ［Lv2］『お互いのアタックステップ』自分が《煌臨》でカードを重ねるとき、ボイドからコア1個を自分のスピリットに置く。'}
+﻿{
+  "CardNo": "SD39-001",
+  "PackNo": "SD39",
+  "CardName": "SD0-L9",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "武装",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv1-Lv2］このスピリットは相手の効果で破壊されない。 ［Lv2］『お互いのアタックステップ』自分が《煌臨》でカードを重ねるとき、ボイドからコア1個を自分のスピリットに置く。"
+}

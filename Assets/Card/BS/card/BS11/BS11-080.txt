@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS11-080', 'PackNo': 'BS11', 'CardName': 'デルタバリア', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このターンの間、相手のスピリット/マジックの効果と、相手のコスト4以上のスピリットのアタックでは、自分のライフは0にならない。'}
+﻿{
+  "CardNo": "BS11-080",
+  "PackNo": "BS11",
+  "CardName": "デルタバリア",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]このターンの間、相手のスピリット/マジックの効果と、相手のコスト4以上のスピリットのアタックでは、自分のライフは0にならない。"
+}

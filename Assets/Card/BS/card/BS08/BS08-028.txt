@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS08-028', 'PackNo': 'BS08', 'CardName': 'ランプスキッド', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': [], 'CardType': '空魚', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS08-028",
+  "PackNo": "BS08",
+  "CardName": "ランプスキッド",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "空魚",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "-"
+}

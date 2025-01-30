@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS66-040', 'PackNo': 'BS66', 'CardName': '幻魂呼びの天使ヴィジュエル', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '金雲・天霊', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2', 'LV3 : 6000／3'], 'Text': '［ミラージュ：コスト2<img src="/renewal/images/cardlist/ico_yellow.png"/>（このカードは手札からセットできる）］【セット中】自分が系統：「金雲」を持つカードを召喚/配置するとき、自分のトラッシュにある【幻魂】を持つマジックカード1枚につき、その軽減シンボル<img src="/renewal/images/cardlist/ico_yellow.png"/>1つを満たす。［Lv1-Lv2-Lv3］『このスピリットの召喚時』〔ターンに1回：同名〕自分の手札にある【幻魂】を持つマジックカード1枚をフィールドに置ける。そうしたとき、自分はデッキの下から2枚ドローする。'}
+﻿{
+  "CardNo": "BS66-040",
+  "PackNo": "BS66",
+  "CardName": "幻魂呼びの天使ヴィジュエル",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "金雲・天霊",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／3"
+  ],
+  "Text": "［ミラージュ：コスト2<img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】自分が系統：「金雲」を持つカードを召喚/配置するとき、自分のトラッシュにある【幻魂】を持つマジックカード1枚につき、その軽減シンボル<img src=\"/renewal/images/cardlist/ico_yellow.png\"/>1つを満たす。［Lv1-Lv2-Lv3］『このスピリットの召喚時』〔ターンに1回：同名〕自分の手札にある【幻魂】を持つマジックカード1枚をフィールドに置ける。そうしたとき、自分はデッキの下から2枚ドローする。"
+}

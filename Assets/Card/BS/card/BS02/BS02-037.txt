@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS02-037', 'PackNo': 'BS02', 'CardName': 'スフィアロイド', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': ['白'], 'CardType': '動器', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : -／-'], 'Text': '[Lv2]『このスピリットのブロック時』このスピリットをBP+2000する。'}
+﻿{
+  "CardNo": "BS02-037",
+  "PackNo": "BS02",
+  "CardName": "スフィアロイド",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "動器",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : -／-"
+  ],
+  "Text": "[Lv2]『このスピリットのブロック時』このスピリットをBP+2000する。"
+}

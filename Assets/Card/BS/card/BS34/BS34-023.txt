@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS34-023', 'PackNo': 'BS34', 'CardName': '見張りキンカ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', 'ico_ultimate.png'], 'CardType': '剣獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』コスト3以下の相手のスピリット1体を疲労させる。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、かわりに、相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "BS34-023",
+  "PackNo": "BS34",
+  "CardName": "見張りキンカ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "ico_ultimate.png"
+  ],
+  "CardType": "剣獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』コスト3以下の相手のスピリット1体を疲労させる。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、かわりに、相手のスピリット1体を疲労させる。"
+}

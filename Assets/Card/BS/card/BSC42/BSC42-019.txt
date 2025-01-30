@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BSC42-019', 'PackNo': 'BSC42', 'CardName': 'スケル・バイパーLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '全'], 'CardType': '血晶・妖蛇', 'Lv': ['LV1 : 3000／1', 'LV2 : 7000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚/破壊時』自分はデッキから1枚ドローできる。'}
+﻿{
+  "CardNo": "BSC42-019",
+  "PackNo": "BSC42",
+  "CardName": "スケル・バイパーLT",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "全"
+  ],
+  "CardType": "血晶・妖蛇",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 7000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚/破壊時』自分はデッキから1枚ドローできる。"
+}

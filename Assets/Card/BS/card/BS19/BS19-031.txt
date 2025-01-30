@@ -1,1 +1,23 @@
-﻿{'CardNo': 'BS19-031', 'PackNo': 'BS19', 'CardName': 'トキイロシダレ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', '緑', '緑', '緑'], 'CardType': '爪鳥', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／3', 'LV3 : 9000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS19-031",
+  "PackNo": "BS19",
+  "CardName": "トキイロシダレ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "5",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "爪鳥",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／3",
+    "LV3 : 9000／4"
+  ],
+  "Text": "-"
+}

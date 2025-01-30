@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS59-066', 'PackNo': 'BS59', 'CardName': 'タイムミラージュ', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '時冠', 'Lv': ['LV2 : -／2'], 'Text': '［ミラージュ：コスト4<img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/>（このカードは手札からセットできる）］【セット中】ターンに1回、系統：「時冠」を持つ自分の効果で自分のトラッシュにあるカードをデッキに戻したとき、ボイドからコア1個を自分のスピリット/ネクサスに置ける。 ［Lv2］『お互いのアタックステップ』系統：「時冠」を持つ自分のスピリットすべてのLvを1つ上のものとして扱う。'}
+﻿{
+  "CardNo": "BS59-066",
+  "PackNo": "BS59",
+  "CardName": "タイムミラージュ",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "時冠",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［ミラージュ：コスト4<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（このカードは手札からセットできる）］【セット中】ターンに1回、系統：「時冠」を持つ自分の効果で自分のトラッシュにあるカードをデッキに戻したとき、ボイドからコア1個を自分のスピリット/ネクサスに置ける。 ［Lv2］『お互いのアタックステップ』系統：「時冠」を持つ自分のスピリットすべてのLvを1つ上のものとして扱う。"
+}

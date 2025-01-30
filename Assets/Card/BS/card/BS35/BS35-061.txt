@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS35-061', 'PackNo': 'BS35', 'CardName': 'イノヒョウゾウ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青', '青', '青'], 'CardType': '異合', 'Lv': ['LV1 : 9000／1', 'LV2 : 15000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS35-061",
+  "PackNo": "BS35",
+  "CardName": "イノヒョウゾウ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 9000／1",
+    "LV2 : 15000／4"
+  ],
+  "Text": "-"
+}

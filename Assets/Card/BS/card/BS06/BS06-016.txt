@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS06-016', 'PackNo': 'BS06', 'CardName': 'ブロンズメイデン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫'], 'CardType': '無魔', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 4000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS06-016",
+  "PackNo": "BS06",
+  "CardName": "ブロンズメイデン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "無魔",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2",
+    "LV3 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分はデッキから1枚ドローする。"
+}

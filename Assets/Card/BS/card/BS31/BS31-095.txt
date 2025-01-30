@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS31-095', 'PackNo': 'BS31', 'CardName': 'No.34 ラージアイランド', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』このネクサスに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、自分の青のスピリットがアタックしたとき、相手のデッキを上から1枚破棄し、そのバトルの間、そのスピリットをBP+5000する。 ［Lv2］『自分のメインステップ』自分の手札にあるカード名に「明王」と入っているスピリットカードすべてを、コスト6として扱う。'}
+﻿{
+  "CardNo": "BS31-095",
+  "PackNo": "BS31",
+  "CardName": "No.34 ラージアイランド",
+  "CardRarity": "U",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『自分のアタックステップ』このネクサスに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、自分の青のスピリットがアタックしたとき、相手のデッキを上から1枚破棄し、そのバトルの間、そのスピリットをBP+5000する。 ［Lv2］『自分のメインステップ』自分の手札にあるカード名に「明王」と入っているスピリットカードすべてを、コスト6として扱う。"
+}

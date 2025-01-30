@@ -1,1 +1,21 @@
-﻿{'CardNo': 'PB29-002', 'PackNo': 'PB', 'CardName': '[ライムスターコーデ]北大路さくら', 'CardRarity': 'PB', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '星麗・詩姫・衣装', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／2', 'LV3 : 9000／3'], 'Text': '【チーム：スターアニス】［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（このカードは手札からセットできる）］【セット中】『自分のメインステップ』自分が【スターアニス】を持つスピリットカードを召喚するとき、その軽減シンボル1つを満たす。［Lv1-Lv2-Lv3］ターンに1回、【スターアニス】を持つ自分のスピリットすべては、相手の効果でフィールドを離れるとき、疲労状態でフィールドに残ることができる。'}
+﻿{
+  "CardNo": "PB29-002",
+  "PackNo": "PB",
+  "CardName": "[ライムスターコーデ]北大路さくら",
+  "CardRarity": "PB",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "星麗・詩姫・衣装",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／2",
+    "LV3 : 9000／3"
+  ],
+  "Text": "【チーム：スターアニス】［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】『自分のメインステップ』自分が【スターアニス】を持つスピリットカードを召喚するとき、その軽減シンボル1つを満たす。［Lv1-Lv2-Lv3］ターンに1回、【スターアニス】を持つ自分のスピリットすべては、相手の効果でフィールドを離れるとき、疲労状態でフィールドに残ることができる。"
+}

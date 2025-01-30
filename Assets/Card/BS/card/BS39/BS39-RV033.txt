@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS39-RV033', 'PackNo': 'BS39', 'CardName': '月光集める塔', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］自分の手札は相手の効果を受けない。 《封印時》［Lv2］効果名に「装甲」と入っている効果を持つ自分のスピリットすべては、その効果で指定された色の相手のブレイヴの効果を受けない。'}
+﻿{
+  "CardNo": "BS39-RV033",
+  "PackNo": "BS39",
+  "CardName": "月光集める塔",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］自分の手札は相手の効果を受けない。 《封印時》［Lv2］効果名に「装甲」と入っている効果を持つ自分のスピリットすべては、その効果で指定された色の相手のブレイヴの効果を受けない。"
+}

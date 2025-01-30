@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS10-099', 'PackNo': 'BS10', 'CardName': 'サザンクロスフレイム', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '7', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]BP4000以下のスピリットすべてを破壊する。'}
+﻿{
+  "CardNo": "BS10-099",
+  "PackNo": "BS10",
+  "CardName": "サザンクロスフレイム",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "7",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]BP4000以下のスピリットすべてを破壊する。"
+}

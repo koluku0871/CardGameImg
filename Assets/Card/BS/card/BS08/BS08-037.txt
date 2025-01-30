@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS08-037', 'PackNo': 'BS08', 'CardName': 'キキーモラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': [], 'CardType': '小玩', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 4000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS08-037",
+  "PackNo": "BS08",
+  "CardName": "キキーモラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "小玩",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 4000／4"
+  ],
+  "Text": "-"
+}

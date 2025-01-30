@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS29-058', 'PackNo': 'BS29', 'CardName': '撃爪アダーラ', 'CardRarity': 'Ｃ', 'CardCategory': 'ブレイヴ', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '剣刃', 'Lv': ['LV1 : 1000／1', 'brave : +1000／'], 'Text': '［Lv1］【スピリットソウル：緑】自分がアルティメットカードを召喚するとき、このスピリットに<img src="/renewal/images/cardlist/ico_green.png"/>（緑のシンボル1つ）を追加する。 《合体条件：コスト3以上のアルティメット》 《合体時》『このアルティメットの合体アタック時』BPを比べ相手のスピリット/アルティメットだけを破壊したとき、相手のライフのコア1個を相手のリザーブに置く。'}
+﻿{
+  "CardNo": "BS29-058",
+  "PackNo": "BS29",
+  "CardName": "撃爪アダーラ",
+  "CardRarity": "Ｃ",
+  "CardCategory": "ブレイヴ",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "剣刃",
+  "Lv": [
+    "LV1 : 1000／1",
+    "brave : +1000／"
+  ],
+  "Text": "［Lv1］【スピリットソウル：緑】自分がアルティメットカードを召喚するとき、このスピリットに<img src=\"/renewal/images/cardlist/ico_green.png\"/>（緑のシンボル1つ）を追加する。 《合体条件：コスト3以上のアルティメット》 《合体時》『このアルティメットの合体アタック時』BPを比べ相手のスピリット/アルティメットだけを破壊したとき、相手のライフのコア1個を相手のリザーブに置く。"
+}

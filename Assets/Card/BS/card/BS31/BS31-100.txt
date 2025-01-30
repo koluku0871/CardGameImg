@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS31-100', 'PackNo': 'BS31', 'CardName': '式鬼神オブザデッド', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のトラッシュにある系統：「呪鬼」/「霊獣」を持つスピリットカードかブレイヴカード1枚を召喚する。'}
+﻿{
+  "CardNo": "BS31-100",
+  "PackNo": "BS31",
+  "CardName": "式鬼神オブザデッド",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分のトラッシュにある系統：「呪鬼」/「霊獣」を持つスピリットカードかブレイヴカード1枚を召喚する。"
+}

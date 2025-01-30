@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS44-014', 'PackNo': 'BS44', 'CardName': 'マミーヘディレス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '0', 'ReducedCost': [], 'CardType': '無魔', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『相手によるこのスピリットの破壊時』ボイドからコア1個を系統：「エジット」を持つ自分の創界神ネクサスに置く。'}
+﻿{
+  "CardNo": "BS44-014",
+  "PackNo": "BS44",
+  "CardName": "マミーヘディレス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "無魔",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『相手によるこのスピリットの破壊時』ボイドからコア1個を系統：「エジット」を持つ自分の創界神ネクサスに置く。"
+}

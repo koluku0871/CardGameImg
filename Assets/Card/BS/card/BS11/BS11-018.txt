@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS11-018', 'PackNo': 'BS11', 'CardName': 'ヤクヤナギ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '遊精', 'Lv': ['LV1 : 1000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『お互いのアタックステップ』自分の手札にある【神速】を持つスピリットカードと、【神速】を持つブレイヴカードすべてに、軽減シンボル緑緑を与える。'}
+﻿{
+  "CardNo": "BS11-018",
+  "PackNo": "BS11",
+  "CardName": "ヤクヤナギ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "遊精",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『お互いのアタックステップ』自分の手札にある【神速】を持つスピリットカードと、【神速】を持つブレイヴカードすべてに、軽減シンボル緑緑を与える。"
+}

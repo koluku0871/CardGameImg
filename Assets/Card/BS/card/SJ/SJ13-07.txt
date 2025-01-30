@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SJ13-07', 'PackNo': 'SJ', 'CardName': '絶海鎚グレイテスト・オーシャン', 'CardRarity': 'SJ', 'CardCategory': 'ブレイヴ', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '剣刃', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '《合体条件：コスト4以上》 《合体時》『このスピリットの合体アタック時』相手の合体スピリットにブロックされたとき、このスピリットをBP+5000する。'}
+﻿{
+  "CardNo": "SJ13-07",
+  "PackNo": "SJ",
+  "CardName": "絶海鎚グレイテスト・オーシャン",
+  "CardRarity": "SJ",
+  "CardCategory": "ブレイヴ",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "剣刃",
+  "Lv": [
+    "LV1 : 3000／1",
+    "brave : +3000／"
+  ],
+  "Text": "《合体条件：コスト4以上》 《合体時》『このスピリットの合体アタック時』相手の合体スピリットにブロックされたとき、このスピリットをBP+5000する。"
+}

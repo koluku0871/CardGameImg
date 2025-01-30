@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS14-045', 'PackNo': 'BS14', 'CardName': 'ゴリスタル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': [], 'CardType': '漂精', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのバトル時』BPを比べ相手のスピリットだけを破壊したとき、このスピリットを破壊する。 ［Lv3］『このスピリットの破壊時』自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS14-045",
+  "PackNo": "BS14",
+  "CardName": "ゴリスタル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "漂精",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットのバトル時』BPを比べ相手のスピリットだけを破壊したとき、このスピリットを破壊する。 ［Lv3］『このスピリットの破壊時』自分はデッキから1枚ドローする。"
+}

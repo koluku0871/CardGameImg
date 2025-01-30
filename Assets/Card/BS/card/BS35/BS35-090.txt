@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS35-090', 'PackNo': 'BS35', 'CardName': 'アメジストライディーン', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '7', 'ReducedCost': ['紫', '紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］疲労状態の相手のスピリット/アルティメットすべてのコア3個ずつを、相手のトラッシュに置く。'}
+﻿{
+  "CardNo": "BS35-090",
+  "PackNo": "BS35",
+  "CardName": "アメジストライディーン",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "7",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］疲労状態の相手のスピリット/アルティメットすべてのコア3個ずつを、相手のトラッシュに置く。"
+}

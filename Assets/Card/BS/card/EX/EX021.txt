@@ -1,1 +1,18 @@
-﻿{'CardNo': 'EX021', 'PackNo': 'EX', 'CardName': '冥車輪ブェール', 'CardRarity': 'EX', 'CardCategory': 'ブレイヴ', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫'], 'CardType': '冥主', 'Lv': ['LV1 : 2000／1', 'brave : +2000／'], 'Text': '《合体条件：コスト4以上》 《合体時》『このスピリットの合体アタック時』自分はデッキから1枚ドローし、コスト4以下の相手のスピリットのコア1個を相手のリザーブに置く。'}
+﻿{
+  "CardNo": "EX021",
+  "PackNo": "EX",
+  "CardName": "冥車輪ブェール",
+  "CardRarity": "EX",
+  "CardCategory": "ブレイヴ",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "冥主",
+  "Lv": [
+    "LV1 : 2000／1",
+    "brave : +2000／"
+  ],
+  "Text": "《合体条件：コスト4以上》 《合体時》『このスピリットの合体アタック時』自分はデッキから1枚ドローし、コスト4以下の相手のスピリットのコア1個を相手のリザーブに置く。"
+}

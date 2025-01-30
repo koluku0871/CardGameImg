@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS58-044', 'PackNo': 'BS58', 'CardName': '睡蓮鳥ウマー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '来是・戯狩', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv2］『このスピリットのアタック時』自分はデッキの下から1枚ドローする。'}
+﻿{
+  "CardNo": "BS58-044",
+  "PackNo": "BS58",
+  "CardName": "睡蓮鳥ウマー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "来是・戯狩",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［Lv2］『このスピリットのアタック時』自分はデッキの下から1枚ドローする。"
+}

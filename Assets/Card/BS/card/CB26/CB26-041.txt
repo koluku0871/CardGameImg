@@ -1,1 +1,19 @@
-﻿{'CardNo': 'CB26-041', 'PackNo': 'CB26', 'CardName': 'ホァン・パオリン', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': 'NEXT', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のデッキを上から3枚オープンできる。その中の「DRAGON KID」/「MAGICAL CAT」/「キッドのお守り」1枚を手札に加える。残ったカードはデッキの上か下だけに戻す。［Lv1-Lv2］BP0の相手のスピリットがいる間、自分の「ラーラ」/「MAGICAL CAT」すべては、相手の効果でフィールドから手札/デッキに戻らない。'}
+﻿{
+  "CardNo": "CB26-041",
+  "PackNo": "CB26",
+  "CardName": "ホァン・パオリン",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "NEXT",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分のデッキを上から3枚オープンできる。その中の「DRAGON KID」/「MAGICAL CAT」/「キッドのお守り」1枚を手札に加える。残ったカードはデッキの上か下だけに戻す。［Lv1-Lv2］BP0の相手のスピリットがいる間、自分の「ラーラ」/「MAGICAL CAT」すべては、相手の効果でフィールドから手札/デッキに戻らない。"
+}

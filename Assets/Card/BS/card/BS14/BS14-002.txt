@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS14-002', 'PackNo': 'BS14', 'CardName': 'カキューソ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS14-002",
+  "PackNo": "BS14",
+  "CardName": "カキューソ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "皇獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "-"
+}

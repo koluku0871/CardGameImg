@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC20-013', 'PackNo': 'BSC20', 'CardName': '機巧獣ヨロイファント', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '紫'], 'CardType': '機巧・機獣', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／2', 'LV3 : 9000／5'], 'Text': '[Lv1-Lv2-Lv3]このスピリットの色とシンボルは紫としても扱う。 ［Lv2-Lv3］『このスピリットのアタック時』相手のネクサス1つをデッキの下に戻す。このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)が置かれているとき、さらに、このスピリットのコスト以下の相手のスピリット/アルティメット1体を手札に戻す。'}
+﻿{
+  "CardNo": "BSC20-013",
+  "PackNo": "BSC20",
+  "CardName": "機巧獣ヨロイファント",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "5",
+  "ReducedCost": [
+    "白",
+    "白",
+    "紫"
+  ],
+  "CardType": "機巧・機獣",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／2",
+    "LV3 : 9000／5"
+  ],
+  "Text": "[Lv1-Lv2-Lv3]このスピリットの色とシンボルは紫としても扱う。 ［Lv2-Lv3］『このスピリットのアタック時』相手のネクサス1つをデッキの下に戻す。このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>(ソウルコア)が置かれているとき、さらに、このスピリットのコスト以下の相手のスピリット/アルティメット1体を手札に戻す。"
+}

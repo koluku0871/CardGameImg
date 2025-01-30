@@ -1,1 +1,18 @@
-﻿{'CardNo': 'CB19-081', 'PackNo': 'CB19', 'CardName': '50th 仮面ライダーブレイズ ライオン戦記', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '仮面・剣使', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': 'このカードを召喚するとき、カード名に「50th」を含む自分のスピリットすべてのシンボルは赤としても扱う。［フラッシュ］【アクセル】コスト5<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（この効果は手札から使用できる）BP10000以下の相手のスピリット1体を破壊し、破壊したとき、自分はデッキから1枚ドローする。この効果発揮後、このカードはオープンして手元に置く。その後、カード名に「50th」を含む自分のスピリットがいれば1コスト支払って召喚できる。 ［Lv2］『このスピリットのアタック時』相手のスピリット1体を指定してアタックできる。そうしたとき、自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "CB19-081",
+  "PackNo": "CB19",
+  "CardName": "50th 仮面ライダーブレイズ ライオン戦記",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "仮面・剣使",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "このカードを召喚するとき、カード名に「50th」を含む自分のスピリットすべてのシンボルは赤としても扱う。［フラッシュ］【アクセル】コスト5<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（この効果は手札から使用できる）BP10000以下の相手のスピリット1体を破壊し、破壊したとき、自分はデッキから1枚ドローする。この効果発揮後、このカードはオープンして手元に置く。その後、カード名に「50th」を含む自分のスピリットがいれば1コスト支払って召喚できる。 ［Lv2］『このスピリットのアタック時』相手のスピリット1体を指定してアタックできる。そうしたとき、自分はデッキから1枚ドローする。"
+}

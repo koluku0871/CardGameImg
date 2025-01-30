@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS06-093', 'PackNo': 'BS06', 'CardName': 'ライトニングオーラ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、アタックしている自分のスピリットすべてをBP+1000する。さらにアタックしている【激突】を持つ自分のスピリットすべてをBP+2000する。'}
+﻿{
+  "CardNo": "BS06-093",
+  "PackNo": "BS06",
+  "CardName": "ライトニングオーラ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、アタックしている自分のスピリットすべてをBP+1000する。さらにアタックしている【激突】を持つ自分のスピリットすべてをBP+2000する。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS24-104', 'PackNo': 'BS24', 'CardName': 'バインディングクリーパー', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット1体を疲労させる。自分のアルティメットがいるとき、さらに、相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "BS24-104",
+  "PackNo": "BS24",
+  "CardName": "バインディングクリーパー",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手のスピリット1体を疲労させる。自分のアルティメットがいるとき、さらに、相手のスピリット1体を疲労させる。"
+}

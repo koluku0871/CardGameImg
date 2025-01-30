@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS02-104', 'PackNo': 'BS02', 'CardName': 'アディショナルカラー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]このターンの間、スピリット1体に、本来持っている色とは別に、もう1色、好きな色を与える。'}
+﻿{
+  "CardNo": "BS02-104",
+  "PackNo": "BS02",
+  "CardName": "アディショナルカラー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／-",
+    "LV2 : -／-",
+    "LV3 : -／-"
+  ],
+  "Text": "[フラッシュ]このターンの間、スピリット1体に、本来持っている色とは別に、もう1色、好きな色を与える。"
+}

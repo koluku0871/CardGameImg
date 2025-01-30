@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS71-078', 'PackNo': 'BS71', 'CardName': 'ケペシュバインド', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑', '神'], 'CardType': '兵虫', 'Lv': [], 'Text': '自分の「契約神ラー・ホルアクティ」の効果でデッキからトラッシュに置かれたこのカードは手札に加えられる。［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_green.png"/><img src="/renewal/images/cardlist/ico_green.png"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『お互いのアタックステップ』このミラージュを破棄することで、相手のスピリット/アルティメット1体を重疲労させる。 ［フラッシュ］相手のスピリット/アルティメット1体を重疲労させる。'}
+﻿{
+  "CardNo": "BS71-078",
+  "PackNo": "BS71",
+  "CardName": "ケペシュバインド",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "神"
+  ],
+  "CardType": "兵虫",
+  "Lv": [],
+  "Text": "自分の「契約神ラー・ホルアクティ」の効果でデッキからトラッシュに置かれたこのカードは手札に加えられる。［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『お互いのアタックステップ』このミラージュを破棄することで、相手のスピリット/アルティメット1体を重疲労させる。 ［フラッシュ］相手のスピリット/アルティメット1体を重疲労させる。"
+}

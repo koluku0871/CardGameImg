@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS65-011', 'PackNo': 'BS65', 'CardName': 'ボーン・ジラフ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫', '紫'], 'CardType': '血晶・無魔', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 7000／5'], 'Text': '［Lv1-Lv2-Lv3］自分が系統：「血晶」を持つスピリットカード/ブレイヴカードを召喚するとき、その軽減シンボル<img src="/renewal/images/cardlist/ico_pup.png"/>1つを満たす。 ［Lv3］『このスピリットのアタック時』このスピリットのアタックによって相手のライフを減らしたとき、自分のカウント+3する。さらに、相手は、相手の手札1枚を破棄する。'}
+﻿{
+  "CardNo": "BS65-011",
+  "PackNo": "BS65",
+  "CardName": "ボーン・ジラフ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "2",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "血晶・無魔",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 7000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］自分が系統：「血晶」を持つスピリットカード/ブレイヴカードを召喚するとき、その軽減シンボル<img src=\"/renewal/images/cardlist/ico_pup.png\"/>1つを満たす。 ［Lv3］『このスピリットのアタック時』このスピリットのアタックによって相手のライフを減らしたとき、自分のカウント+3する。さらに、相手は、相手の手札1枚を破棄する。"
+}

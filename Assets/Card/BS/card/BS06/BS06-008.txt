@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS06-008', 'PackNo': 'BS06', 'CardName': '刀剣魚エスパーダ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '溶魚', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS06-008",
+  "PackNo": "BS06",
+  "CardName": "刀剣魚エスパーダ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "溶魚",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／3"
+  ],
+  "Text": "-"
+}

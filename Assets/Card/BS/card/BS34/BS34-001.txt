@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS34-001', 'PackNo': 'BS34', 'CardName': '角ペンギン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': [], 'CardType': '皇獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 7000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS34-001",
+  "PackNo": "BS34",
+  "CardName": "角ペンギン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "皇獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 7000／3"
+  ],
+  "Text": "-"
+}

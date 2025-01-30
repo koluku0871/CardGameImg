@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS37-033', 'PackNo': 'BS37', 'CardName': '蒼き蜂皇オオセイボゥ・Ａ', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '7', 'ReducedCost': ['緑', '緑', '緑', '緑'], 'CardType': '殻人', 'Lv': ['LV1 : 5000／1', 'LV2 : 10000／3'], 'Text': '［フラッシュ］【アクセル】コスト4<img src="/renewal/images/cardlist/ico_green.png"/><img src="/renewal/images/cardlist/ico_green.png"/>（この効果は手札から使用できる）相手のスピリット2体を疲労させる。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア3個を自分のスピリットに置く。または、疲労状態の相手のスピリット3体を手札に戻す。 ［Lv2］『このスピリットのアタック時』ターンに1回、このスピリットは回復する。'}
+﻿{
+  "CardNo": "BS37-033",
+  "PackNo": "BS37",
+  "CardName": "蒼き蜂皇オオセイボゥ・Ａ",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "7",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "殻人",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 10000／3"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト4<img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/>（この効果は手札から使用できる）相手のスピリット2体を疲労させる。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア3個を自分のスピリットに置く。または、疲労状態の相手のスピリット3体を手札に戻す。 ［Lv2］『このスピリットのアタック時』ターンに1回、このスピリットは回復する。"
+}

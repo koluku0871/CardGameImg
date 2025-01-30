@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS66-070', 'PackNo': 'BS66', 'CardName': '風の古代神殿', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '碧雷', 'Lv': [], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_green.png"/><img src="/renewal/images/cardlist/ico_green.png"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『相手のアタックステップ』ターンに1回、魂状態/煌臨元を含む自分の「プチランポ」がいるとき、1コスト支払うことで、相手のスピリット/アルティメット1体を疲労させる。［Lv1］『このネクサスの配置時』魂状態の自分の「プチランポ」1枚を、召喚できる。そうしたとき、ボイドからコア1個をこのネクサスに置く。'}
+﻿{
+  "CardNo": "BS66-070",
+  "PackNo": "BS66",
+  "CardName": "風の古代神殿",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "碧雷",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『相手のアタックステップ』ターンに1回、魂状態/煌臨元を含む自分の「プチランポ」がいるとき、1コスト支払うことで、相手のスピリット/アルティメット1体を疲労させる。［Lv1］『このネクサスの配置時』魂状態の自分の「プチランポ」1枚を、召喚できる。そうしたとき、ボイドからコア1個をこのネクサスに置く。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS29-074', 'PackNo': 'BS29', 'CardName': 'ソードブレイカー', 'CardRarity': 'Ｃ', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手の合体アルティメットのブレイヴ1つを破壊し、自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS29-074",
+  "PackNo": "BS29",
+  "CardName": "ソードブレイカー",
+  "CardRarity": "Ｃ",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手の合体アルティメットのブレイヴ1つを破壊し、自分はデッキから1枚ドローする。"
+}

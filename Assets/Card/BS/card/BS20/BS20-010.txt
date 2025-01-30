@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS20-010', 'PackNo': 'BS20', 'CardName': 'キーリザード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': ['紫'], 'CardType': '無魔', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS20-010",
+  "PackNo": "BS20",
+  "CardName": "キーリザード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "1",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "無魔",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "-"
+}

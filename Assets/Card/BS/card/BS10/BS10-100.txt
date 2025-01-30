@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS10-100', 'PackNo': 'BS10', 'CardName': 'ブレイヴセメタリー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]自分のトラッシュにあるブレイヴカード1枚を手札に戻す。 [フラッシュ]このターンの間、スピリット1体をBP+1000する。'}
+﻿{
+  "CardNo": "BS10-100",
+  "PackNo": "BS10",
+  "CardName": "ブレイヴセメタリー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "2",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]自分のトラッシュにあるブレイヴカード1枚を手札に戻す。 [フラッシュ]このターンの間、スピリット1体をBP+1000する。"
+}

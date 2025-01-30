@@ -1,1 +1,17 @@
-﻿{'CardNo': 'CB23-029', 'PackNo': 'CB23', 'CardName': '第10の使徒 -ジオフロント戦-', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '8', 'ReducedCost': [], 'CardType': '使徒', 'Lv': ['LV1 : 9000／1', 'LV2 : 11000／2', 'LV3 : 15000／6'], 'Text': '〔重複不可〕手札にあるこのカードは、自分の「第9の使徒」が相手によってフィールドを離れたとき、コストを支払わずに召喚できる。［Lv1-Lv2-Lv3］『このスピリットの召喚/アタック時』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれているとき、コスト10以下の相手のスピリット1体を破壊できる。この効果は相手の効果では防げない。その後、相手のデッキを上から5枚破棄できる。［Lv1-Lv2-Lv3］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている相手のスピリット以外の相手の効果を受けない。'}
+﻿{
+  "CardNo": "CB23-029",
+  "PackNo": "CB23",
+  "CardName": "第10の使徒 -ジオフロント戦-",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "8",
+  "ReducedCost": [],
+  "CardType": "使徒",
+  "Lv": [
+    "LV1 : 9000／1",
+    "LV2 : 11000／2",
+    "LV3 : 15000／6"
+  ],
+  "Text": "〔重複不可〕手札にあるこのカードは、自分の「第9の使徒」が相手によってフィールドを離れたとき、コストを支払わずに召喚できる。［Lv1-Lv2-Lv3］『このスピリットの召喚/アタック時』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれているとき、コスト10以下の相手のスピリット1体を破壊できる。この効果は相手の効果では防げない。その後、相手のデッキを上から5枚破棄できる。［Lv1-Lv2-Lv3］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている相手のスピリット以外の相手の効果を受けない。"
+}

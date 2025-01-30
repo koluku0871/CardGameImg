@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS57-017', 'PackNo': 'BS57', 'CardName': 'バル・マスケ 子爵 シュターデン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '6', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '占征・夜族', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 10000／6'], 'Text': '手札にあるこのカードは、系統：「夜族」を持つ自分のスピリットが破壊されたとき、1コスト支払って召喚できる。この効果はターンに1回しか使えない。［Lv1-Lv2-Lv3］相手は、手札にあるネクサスカードを配置するとき、コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>を使用しなければ配置できない。 ［Lv2-Lv3］『このスピリットのアタック時』相手の<img src="/renewal/images/cardlist/ico_soulcore.png"/>をリザーブに置くことで、自分はデッキから2枚ドローする。'}
+﻿{
+  "CardNo": "BS57-017",
+  "PackNo": "BS57",
+  "CardName": "バル・マスケ 子爵 シュターデン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "6",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "占征・夜族",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 10000／6"
+  ],
+  "Text": "手札にあるこのカードは、系統：「夜族」を持つ自分のスピリットが破壊されたとき、1コスト支払って召喚できる。この効果はターンに1回しか使えない。［Lv1-Lv2-Lv3］相手は、手札にあるネクサスカードを配置するとき、コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>を使用しなければ配置できない。 ［Lv2-Lv3］『このスピリットのアタック時』相手の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をリザーブに置くことで、自分はデッキから2枚ドローする。"
+}

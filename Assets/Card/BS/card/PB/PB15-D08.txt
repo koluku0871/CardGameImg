@@ -1,1 +1,20 @@
-﻿{'CardNo': 'PB15-D08', 'PackNo': 'PB', 'CardName': '[ハロウィン・ミイラ]セイクレア・メトゥーム', 'CardRarity': 'PB', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '詩姫・衣装', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／3'], 'Text': 'このカード/スピリットはすべてのチームを持つ。［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（このカードは手札からセットできる）］【セット中】ステップに1回、系統：「衣装」/「神衣装」を持つ自分のスピリットを召喚/《煌臨》したとき、ボイドからコア1個をカード名に「プロデューサー」を含む自分の創界神ネクサスに置く。［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のトラッシュにある系統：「詩姫」を持つスピリットカード1枚をデッキの上に戻す。'}
+﻿{
+  "CardNo": "PB15-D08",
+  "PackNo": "PB",
+  "CardName": "[ハロウィン・ミイラ]セイクレア・メトゥーム",
+  "CardRarity": "PB",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "詩姫・衣装",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／3"
+  ],
+  "Text": "このカード/スピリットはすべてのチームを持つ。［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】ステップに1回、系統：「衣装」/「神衣装」を持つ自分のスピリットを召喚/《煌臨》したとき、ボイドからコア1個をカード名に「プロデューサー」を含む自分の創界神ネクサスに置く。［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のトラッシュにある系統：「詩姫」を持つスピリットカード1枚をデッキの上に戻す。"
+}

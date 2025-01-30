@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS03-122', 'PackNo': 'BS03', 'CardName': 'フォールダウン', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]ネクサスすべての上に置いてあるコアすべてを持ち主のトラッシュに置く。 [フラッシュ]このターンの間、スピリット1体をBP+1000する。'}
+﻿{
+  "CardNo": "BS03-122",
+  "PackNo": "BS03",
+  "CardName": "フォールダウン",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]ネクサスすべての上に置いてあるコアすべてを持ち主のトラッシュに置く。 [フラッシュ]このターンの間、スピリット1体をBP+1000する。"
+}

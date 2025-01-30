@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS08-070', 'PackNo': 'BS08', 'CardName': 'ターンインフェルノ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]自分のトラッシュにある【転召】を持つスピリットカード1枚を手札に戻す。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。'}
+﻿{
+  "CardNo": "BS08-070",
+  "PackNo": "BS08",
+  "CardName": "ターンインフェルノ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]自分のトラッシュにある【転召】を持つスピリットカード1枚を手札に戻す。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。"
+}

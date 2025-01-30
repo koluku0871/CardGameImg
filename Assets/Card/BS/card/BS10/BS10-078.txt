@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS10-078', 'PackNo': 'BS10', 'CardName': '聖鎧獣アメミード', 'CardRarity': 'R', 'CardCategory': 'ブレイヴ', 'Element': '青', 'Cost': '5', 'ReducedCost': ['青', '青', '黄', '黄'], 'CardType': '異合', 'Lv': ['LV1 : 4000／1', 'brave : +4000／'], 'Text': '《合体条件：コスト5以上》 《合体時》『自分のアタックステップ』このスピリットは最高Lvとして扱う。'}
+﻿{
+  "CardNo": "BS10-078",
+  "PackNo": "BS10",
+  "CardName": "聖鎧獣アメミード",
+  "CardRarity": "R",
+  "CardCategory": "ブレイヴ",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "黄",
+    "黄"
+  ],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 4000／1",
+    "brave : +4000／"
+  ],
+  "Text": "《合体条件：コスト5以上》 《合体時》『自分のアタックステップ』このスピリットは最高Lvとして扱う。"
+}

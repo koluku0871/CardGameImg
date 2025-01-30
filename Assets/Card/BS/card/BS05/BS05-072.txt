@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS05-072', 'PackNo': 'BS05', 'CardName': 'アブソーブシンボル', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、相手のスピリットすべては、スピリット/ネクサス/マジックの効果で、コアを置く、または取り除くと疲労する。'}
+﻿{
+  "CardNo": "BS05-072",
+  "PackNo": "BS05",
+  "CardName": "アブソーブシンボル",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、相手のスピリットすべては、スピリット/ネクサス/マジックの効果で、コアを置く、または取り除くと疲労する。"
+}

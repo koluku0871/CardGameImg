@@ -1,1 +1,20 @@
-﻿{'CardNo': 'PB15-01', 'PackNo': 'PB', 'CardName': '蟻王アント・レス', 'CardRarity': 'PB', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '7', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '怪虫・殻人', 'Lv': ['LV1 : 6000／1', 'LV2 : 10000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個をこのスピリットに置く。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、ボイドからコア3個をこのスピリットに置く。 ［Lv2］『このスピリットのアタック時』自分のリザーブにある<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のトラッシュに置くことができる。そうしたとき、相手のスピリット1体を疲労させる。その後、このスピリットは回復する。'}
+﻿{
+  "CardNo": "PB15-01",
+  "PackNo": "PB",
+  "CardName": "蟻王アント・レス",
+  "CardRarity": "PB",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "7",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "怪虫・殻人",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 10000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個をこのスピリットに置く。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、ボイドからコア3個をこのスピリットに置く。 ［Lv2］『このスピリットのアタック時』自分のリザーブにある<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のトラッシュに置くことができる。そうしたとき、相手のスピリット1体を疲労させる。その後、このスピリットは回復する。"
+}

@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BSC35-X01', 'PackNo': 'BSC35', 'CardName': '[スターフェス]レイ・オーバ', 'CardRarity': 'X', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '7', 'ReducedCost': ['黄', '黄', '黄', '黄'], 'CardType': '星麗・詩姫・衣装', 'Lv': ['LV1 : 7000／1', 'LV2 : 11000／2', 'LV3 : 13000／3'], 'Text': '【チーム：シャイニーハーツ】［Lv1-Lv2-Lv3］【ソロステージ】このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている間、自分の「レイ・オーバ」すべては、相手の効果で、破壊されず、フィールドから手札/デッキに戻らない。 ［Lv2-Lv3］『このスピリットのアタック時』相手は効果でアタックステップを終了できない。バトル終了時、このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置くことで、相手のライフのコア2個までを相手のトラッシュに置く。'}
+﻿{
+  "CardNo": "BSC35-X01",
+  "PackNo": "BSC35",
+  "CardName": "[スターフェス]レイ・オーバ",
+  "CardRarity": "X",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "7",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "星麗・詩姫・衣装",
+  "Lv": [
+    "LV1 : 7000／1",
+    "LV2 : 11000／2",
+    "LV3 : 13000／3"
+  ],
+  "Text": "【チーム：シャイニーハーツ】［Lv1-Lv2-Lv3］【ソロステージ】このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている間、自分の「レイ・オーバ」すべては、相手の効果で、破壊されず、フィールドから手札/デッキに戻らない。 ［Lv2-Lv3］『このスピリットのアタック時』相手は効果でアタックステップを終了できない。バトル終了時、このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、相手のライフのコア2個までを相手のトラッシュに置く。"
+}

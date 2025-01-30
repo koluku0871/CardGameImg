@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS06-051', 'PackNo': 'BS06', 'CardName': 'グレムリー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄'], 'CardType': '楽族', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［Lv2-Lv3］『このスピリットの破壊時』【光芒】を持つ自分のスピリット1体を回復させる。'}
+﻿{
+  "CardNo": "BS06-051",
+  "PackNo": "BS06",
+  "CardName": "グレムリー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "楽族",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 3000／3"
+  ],
+  "Text": "［Lv2-Lv3］『このスピリットの破壊時』【光芒】を持つ自分のスピリット1体を回復させる。"
+}

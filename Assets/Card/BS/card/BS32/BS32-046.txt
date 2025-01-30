@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS32-046', 'PackNo': 'BS32', 'CardName': '黄蛇童子', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '闘神', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2'], 'Text': '［Lv1-Lv2］自分のネクサスが相手によって消滅/破壊されたとき、消滅/破壊されたネクサス1つにつき、ボイドからコア2個をこのスピリットに置く。'}
+﻿{
+  "CardNo": "BS32-046",
+  "PackNo": "BS32",
+  "CardName": "黄蛇童子",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "［Lv1-Lv2］自分のネクサスが相手によって消滅/破壊されたとき、消滅/破壊されたネクサス1つにつき、ボイドからコア2個をこのスピリットに置く。"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS57-011', 'PackNo': 'BS57', 'CardName': 'ヴァンピーアヴォルク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '2', 'ReducedCost': ['紫', '紫'], 'CardType': '来是・夜族', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］相手の<img src="/renewal/images/cardlist/ico_soulcore.png"/>は相手の効果を受けない。さらに、相手の<img src="/renewal/images/cardlist/ico_soulcore.png"/>がリザーブにない間、このスピリットは相手の効果で破壊されない。［Lv1-Lv2］『自分のアタックステップ開始時』相手の<img src="/renewal/images/cardlist/ico_soulcore.png"/>がリザーブにないとき、自分はデッキから1枚ドローできる。'}
+﻿{
+  "CardNo": "BS57-011",
+  "PackNo": "BS57",
+  "CardName": "ヴァンピーアヴォルク",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "2",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "来是・夜族",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］相手の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>は相手の効果を受けない。さらに、相手の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>がリザーブにない間、このスピリットは相手の効果で破壊されない。［Lv1-Lv2］『自分のアタックステップ開始時』相手の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>がリザーブにないとき、自分はデッキから1枚ドローできる。"
+}

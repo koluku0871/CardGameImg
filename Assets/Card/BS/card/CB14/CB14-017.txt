@@ -1,1 +1,19 @@
-﻿{'CardNo': 'CB14-017', 'PackNo': 'CB14', 'CardName': '[シルキーラブデビルコーデ]大地のの', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄'], 'CardType': '星麗・詩姫・衣装', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 4000／3'], 'Text': '手札にあるこのカードは、自分の「白樺リサ」が召喚されたとき、コストを支払わずに召喚できる。そうしたとき、自分はデッキから1枚ドローする。この効果はターンに1回しか使えない。 ［Lv2-Lv3］【フィーバーアピール】『このスピリットのアタック時』このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置くことで、ボイドからコア1個を自分のスピリットに置く。そうしたとき、自分のトラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>を自分の「白樺リサ」に置く。'}
+﻿{
+  "CardNo": "CB14-017",
+  "PackNo": "CB14",
+  "CardName": "[シルキーラブデビルコーデ]大地のの",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "星麗・詩姫・衣装",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2",
+    "LV3 : 4000／3"
+  ],
+  "Text": "手札にあるこのカードは、自分の「白樺リサ」が召喚されたとき、コストを支払わずに召喚できる。そうしたとき、自分はデッキから1枚ドローする。この効果はターンに1回しか使えない。 ［Lv2-Lv3］【フィーバーアピール】『このスピリットのアタック時』このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、ボイドからコア1個を自分のスピリットに置く。そうしたとき、自分のトラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>を自分の「白樺リサ」に置く。"
+}

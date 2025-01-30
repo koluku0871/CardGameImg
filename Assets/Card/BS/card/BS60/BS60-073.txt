@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS60-073', 'PackNo': 'BS60', 'CardName': '夕暮れのジェネバーク森林', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '緋炎', 'Lv': [], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』系統：「緋炎」を持つ自分の効果で自分のカウントが増えたとき、自分はデッキから1枚ドローできる。［Lv1］『お互いのアタックステップ』煌臨元を含む自分の「相棒竜グロウ」がいる間、自分の「BP破壊効果」の上限を+5000する。'}
+﻿{
+  "CardNo": "BS60-073",
+  "PackNo": "BS60",
+  "CardName": "夕暮れのジェネバーク森林",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "緋炎",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』系統：「緋炎」を持つ自分の効果で自分のカウントが増えたとき、自分はデッキから1枚ドローできる。［Lv1］『お互いのアタックステップ』煌臨元を含む自分の「相棒竜グロウ」がいる間、自分の「BP破壊効果」の上限を+5000する。"
+}

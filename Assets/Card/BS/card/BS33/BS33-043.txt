@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS33-043', 'PackNo': 'BS33', 'CardName': '戦国姫 撫子', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄'], 'CardType': '戦姫・楽族', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／3'], 'Text': '［Lv1-Lv2-Lv3］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、系統：「戦姫」を持つ自分のスピリットすべては、相手の効果で消滅/破壊されたとき手札に戻る。'}
+﻿{
+  "CardNo": "BS33-043",
+  "PackNo": "BS33",
+  "CardName": "戦国姫 撫子",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "戦姫・楽族",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、系統：「戦姫」を持つ自分のスピリットすべては、相手の効果で消滅/破壊されたとき手札に戻る。"
+}

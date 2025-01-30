@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS32-004', 'PackNo': 'BS32', 'CardName': '虎の子タイガ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '起導者・家臣・皇獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3', 'LV3 : 7000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』自分はデッキから1枚ドローする。 ［Lv2-Lv3］【起導：赤】『このスピリットのアタック時』このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のトラッシュに置くことで、自分の赤のＳバースト1つをただちに発動させる。'}
+﻿{
+  "CardNo": "BS32-004",
+  "PackNo": "BS32",
+  "CardName": "虎の子タイガ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "起導者・家臣・皇獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3",
+    "LV3 : 7000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットのアタック時』自分はデッキから1枚ドローする。 ［Lv2-Lv3］【起導：赤】『このスピリットのアタック時』このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のトラッシュに置くことで、自分の赤のＳバースト1つをただちに発動させる。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS04-100', 'PackNo': 'BS04', 'CardName': 'ジャングルロウ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '6', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］Lv1スピリットすべてを疲労させる。 ［フラッシュ］このターンの間、スピリット1体をBP+4000する。'}
+﻿{
+  "CardNo": "BS04-100",
+  "PackNo": "BS04",
+  "CardName": "ジャングルロウ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "6",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］Lv1スピリットすべてを疲労させる。 ［フラッシュ］このターンの間、スピリット1体をBP+4000する。"
+}

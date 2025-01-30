@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS03-015', 'PackNo': 'BS03', 'CardName': '魔草マインドラゴラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫'], 'CardType': '樹魔', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '[Lv2]『このスピリットの破壊時』相手のスピリット1体の上に置かれたコア1個を相手のリザーブに置く。'}
+﻿{
+  "CardNo": "BS03-015",
+  "PackNo": "BS03",
+  "CardName": "魔草マインドラゴラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "樹魔",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "[Lv2]『このスピリットの破壊時』相手のスピリット1体の上に置かれたコア1個を相手のリザーブに置く。"
+}

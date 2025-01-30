@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS09-020', 'PackNo': 'BS09', 'CardName': 'ヤミヤンマ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑', '白'], 'CardType': '怪虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個を自分の白のスピリット1体の上に置く。'}
+﻿{
+  "CardNo": "BS09-020",
+  "PackNo": "BS09",
+  "CardName": "ヤミヤンマ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑",
+    "白"
+  ],
+  "CardType": "怪虫",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個を自分の白のスピリット1体の上に置く。"
+}

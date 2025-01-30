@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS57-083', 'PackNo': 'BS57', 'CardName': 'セクシーバズーカ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': [], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/>（このカードは手札からセットできる）］【セット中】自分のライフが3以上の間、『このスピリット/アルティメットの召喚時』効果と、本来のコストが3以下の創界神ネクサスすべての《神託》は発揮されない。 ［フラッシュ］このターンの間、自分のスピリット1体を、そのスピリットが持つ最高Lvとして扱う。それが系統：「占征」を持つ紫/青のスピリットのとき、自分はデッキから1枚ドローできる。'}
+﻿{
+  "CardNo": "BS57-083",
+  "PackNo": "BS57",
+  "CardName": "セクシーバズーカ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（このカードは手札からセットできる）］【セット中】自分のライフが3以上の間、『このスピリット/アルティメットの召喚時』効果と、本来のコストが3以下の創界神ネクサスすべての《神託》は発揮されない。 ［フラッシュ］このターンの間、自分のスピリット1体を、そのスピリットが持つ最高Lvとして扱う。それが系統：「占征」を持つ紫/青のスピリットのとき、自分はデッキから1枚ドローできる。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS17-035', 'PackNo': 'BS17', 'CardName': '金剛戦艦ドレッドノーグ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '7', 'ReducedCost': ['白', '白', '白'], 'CardType': '空魚・機獣', 'Lv': ['LV1 : 4000／1', 'LV2 : 8000／3'], 'Text': '［Lv1-Lv2］【重装甲：赤/紫】このスピリットは、相手の赤/紫のスピリット/ブレイヴ/ネクサス/マジックの効果を受けない。'}
+﻿{
+  "CardNo": "BS17-035",
+  "PackNo": "BS17",
+  "CardName": "金剛戦艦ドレッドノーグ",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "7",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "空魚・機獣",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 8000／3"
+  ],
+  "Text": "［Lv1-Lv2］【重装甲：赤/紫】このスピリットは、相手の赤/紫のスピリット/ブレイヴ/ネクサス/マジックの効果を受けない。"
+}

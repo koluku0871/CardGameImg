@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS05-074', 'PackNo': 'BS05', 'CardName': 'ブランチロック', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のフィールドにシンボルが2色以上あるとき、相手のスピリット2体を疲労させる。'}
+﻿{
+  "CardNo": "BS05-074",
+  "PackNo": "BS05",
+  "CardName": "ブランチロック",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "5",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分のフィールドにシンボルが2色以上あるとき、相手のスピリット2体を疲労させる。"
+}

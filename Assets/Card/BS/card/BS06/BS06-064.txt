@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS06-064', 'PackNo': 'BS06', 'CardName': 'マンティゴア', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青', '青'], 'CardType': '異合', 'Lv': ['LV1 : 4000／2', 'LV2 : 6000／4'], 'Text': '［Lv1-Lv2］『相手のアタックステップ』カードに効果の記述を持たない自分のLv1/Lv2スピリットすべてはLv2として扱う。'}
+﻿{
+  "CardNo": "BS06-064",
+  "PackNo": "BS06",
+  "CardName": "マンティゴア",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 4000／2",
+    "LV2 : 6000／4"
+  ],
+  "Text": "［Lv1-Lv2］『相手のアタックステップ』カードに効果の記述を持たない自分のLv1/Lv2スピリットすべてはLv2として扱う。"
+}

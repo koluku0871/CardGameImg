@@ -1,1 +1,17 @@
-﻿{'CardNo': 'SD28-015', 'PackNo': 'SD28', 'CardName': 'アルティメットゲイン', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', 'ico_ultimate.png'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分の合体アルティメットすべてを回復させる。このターンの間、この効果で回復したアルティメットすべてのＵトリガーは発揮しない。'}
+﻿{
+  "CardNo": "SD28-015",
+  "PackNo": "SD28",
+  "CardName": "アルティメットゲイン",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "5",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "ico_ultimate.png"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分の合体アルティメットすべてを回復させる。このターンの間、この効果で回復したアルティメットすべてのＵトリガーは発揮しない。"
+}

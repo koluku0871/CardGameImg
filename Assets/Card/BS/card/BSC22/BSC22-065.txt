@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BSC22-065', 'PackNo': 'BSC22', 'CardName': 'キリカブト', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '怪虫', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／3', 'LV3 : 6000／5'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』ボイドからコア1個を自分のスピリットに置く。 ［Lv2-Lv3］『このスピリットのアタック時』相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "BSC22-065",
+  "PackNo": "BSC22",
+  "CardName": "キリカブト",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "怪虫",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 4000／3",
+    "LV3 : 6000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』ボイドからコア1個を自分のスピリットに置く。 ［Lv2-Lv3］『このスピリットのアタック時』相手のスピリット1体を疲労させる。"
+}

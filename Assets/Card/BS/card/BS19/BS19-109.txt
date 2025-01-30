@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS19-109', 'PackNo': 'BS19', 'CardName': 'エンジェリックプレッシャー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、相手のスピリット1体をBP-3000する。'}
+﻿{
+  "CardNo": "BS19-109",
+  "PackNo": "BS19",
+  "CardName": "エンジェリックプレッシャー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、相手のスピリット1体をBP-3000する。"
+}

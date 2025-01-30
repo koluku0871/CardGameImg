@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS50-050', 'PackNo': 'BS50', 'CardName': 'ちょうちんゴースト', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '0', 'ReducedCost': [], 'CardType': '天渡・妖戒', 'Lv': ['LV1 : 1000／1', 'LV2 : 5000／2', 'LV3 : 6000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS50-050",
+  "PackNo": "BS50",
+  "CardName": "ちょうちんゴースト",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "天渡・妖戒",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 5000／2",
+    "LV3 : 6000／3"
+  ],
+  "Text": "-"
+}

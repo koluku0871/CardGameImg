@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS11-033', 'PackNo': 'BS11', 'CardName': 'ニジノコ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': [], 'CardType': '戯狩', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［Lv1］このスピリットは赤のスピリットとしても扱う。 ［Lv2］このスピリットは紫のスピリットとしても扱う。 ［Lv3］このスピリットは白のスピリットとしても扱う。'}
+﻿{
+  "CardNo": "BS11-033",
+  "PackNo": "BS11",
+  "CardName": "ニジノコ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "戯狩",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 3000／3"
+  ],
+  "Text": "［Lv1］このスピリットは赤のスピリットとしても扱う。 ［Lv2］このスピリットは紫のスピリットとしても扱う。 ［Lv3］このスピリットは白のスピリットとしても扱う。"
+}

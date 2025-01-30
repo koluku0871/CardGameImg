@@ -1,1 +1,24 @@
-﻿{'CardNo': 'BS05-045', 'PackNo': 'BS05', 'CardName': 'ドワッフー・セブン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '7', 'ReducedCost': ['黄', '黄', '黄', '黄', '黄', '黄'], 'CardType': '楽族', 'Lv': ['LV1 : 5000／1', 'LV2 : 6000／2', 'LV3 : 7000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS05-045",
+  "PackNo": "BS05",
+  "CardName": "ドワッフー・セブン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "7",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "楽族",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 6000／2",
+    "LV3 : 7000／3"
+  ],
+  "Text": "-"
+}

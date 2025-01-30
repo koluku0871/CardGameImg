@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS19-041', 'PackNo': 'BS19', 'CardName': 'アザラ・バーグ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白', '白'], 'CardType': '巨獣', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／2', 'LV3 : 9000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS19-041",
+  "PackNo": "BS19",
+  "CardName": "アザラ・バーグ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "5",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "巨獣",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／2",
+    "LV3 : 9000／4"
+  ],
+  "Text": "-"
+}

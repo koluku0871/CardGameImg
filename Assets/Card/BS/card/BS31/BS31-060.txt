@@ -1,1 +1,24 @@
-﻿{'CardNo': 'BS31-060', 'PackNo': 'BS31', 'CardName': '泥ターボ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '8', 'ReducedCost': ['黄', '黄', '黄', '黄', '黄', '黄'], 'CardType': '妖戒', 'Lv': ['LV1 : 6000／1', 'LV2 : 8000／2', 'LV3 : 10000／3'], 'Text': '［Lv1-Lv2-Lv3］『自分のアタックステップ』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、系統：「妖戒」を持つ自分のスピリットがアタックしているとき、相手は、アタックしている自分のスピリットと同じコストのスピリット/アルティメットでしかブロックできない。'}
+﻿{
+  "CardNo": "BS31-060",
+  "PackNo": "BS31",
+  "CardName": "泥ターボ",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "8",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "妖戒",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 8000／2",
+    "LV3 : 10000／3"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『自分のアタックステップ』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、系統：「妖戒」を持つ自分のスピリットがアタックしているとき、相手は、アタックしている自分のスピリットと同じコストのスピリット/アルティメットでしかブロックできない。"
+}

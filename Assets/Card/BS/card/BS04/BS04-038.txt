@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS04-038', 'PackNo': 'BS04', 'CardName': '偵察機マグニ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 6000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS04-038",
+  "PackNo": "BS04",
+  "CardName": "偵察機マグニ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "武装",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "-"
+}

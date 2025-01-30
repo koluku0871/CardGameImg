@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS12-084', 'PackNo': 'BS12', 'CardName': 'マーキュリーゴブレット', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '5', 'ReducedCost': ['青', '青', '青'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]相手のフィールドで最もコストが低いスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "BS12-084",
+  "PackNo": "BS12",
+  "CardName": "マーキュリーゴブレット",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]相手のフィールドで最もコストが低いスピリット1体を破壊する。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS05-080', 'PackNo': 'BS05', 'CardName': 'コーラスバード', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］自分のトラッシュにある系統：「歌鳥」を持つスピリットカード3枚を選んで手札に戻す。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。'}
+﻿{
+  "CardNo": "BS05-080",
+  "PackNo": "BS05",
+  "CardName": "コーラスバード",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］自分のトラッシュにある系統：「歌鳥」を持つスピリットカード3枚を選んで手札に戻す。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。"
+}

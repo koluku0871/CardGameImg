@@ -1,1 +1,24 @@
-﻿{'CardNo': 'CB07-XX01', 'PackNo': 'CB07', 'CardName': 'デュークモン クリムゾンモード', 'CardRarity': 'XX', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '11', 'ReducedCost': ['赤', '赤', '赤', '赤', '赤', '神'], 'CardType': '究極体・滅龍・戦騎', 'Lv': ['LV1 : 11000／1', 'LV2 : 18000／3', 'LV3 : 21000／4'], 'Text': '［フラッシュ］【チェンジ】コスト7<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_god.png"/>（この効果は手札から使用できる）シンボル合計3つまで相手のスピリット/アルティメットを好きなだけ破壊する。この効果発揮後、このカードを破棄するか、コスト7以上の自分の赤1色のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。 ［Lv2-Lv3］『このスピリットのアタック時』バトル終了時、相手のトラッシュにあるスピリットカード/アルティメットカード3枚につき、相手のライフのコア1個を相手のリザーブに置く。'}
+﻿{
+  "CardNo": "CB07-XX01",
+  "PackNo": "CB07",
+  "CardName": "デュークモン クリムゾンモード",
+  "CardRarity": "XX",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "11",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤",
+    "赤",
+    "神"
+  ],
+  "CardType": "究極体・滅龍・戦騎",
+  "Lv": [
+    "LV1 : 11000／1",
+    "LV2 : 18000／3",
+    "LV3 : 21000／4"
+  ],
+  "Text": "［フラッシュ］【チェンジ】コスト7<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_god.png\"/>（この効果は手札から使用できる）シンボル合計3つまで相手のスピリット/アルティメットを好きなだけ破壊する。この効果発揮後、このカードを破棄するか、コスト7以上の自分の赤1色のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。 ［Lv2-Lv3］『このスピリットのアタック時』バトル終了時、相手のトラッシュにあるスピリットカード/アルティメットカード3枚につき、相手のライフのコア1個を相手のリザーブに置く。"
+}

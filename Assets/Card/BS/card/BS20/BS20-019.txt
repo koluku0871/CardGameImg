@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS20-019', 'PackNo': 'BS20', 'CardName': 'ソマリン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': [], 'CardType': '遊精', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS20-019",
+  "PackNo": "BS20",
+  "CardName": "ソマリン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "遊精",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "-"
+}

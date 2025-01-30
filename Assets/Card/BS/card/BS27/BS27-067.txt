@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS27-067', 'PackNo': 'BS27', 'CardName': '天星鎧ブラン・ペガス', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄'], 'CardType': '想獣・星魂', 'Lv': ['LV1 : 1000／1', 'brave : +1000／'], 'Text': '《合体条件：コスト3以上》 《合体時》『このスピリットの合体アタック時』このバトルの間、相手のスピリット/アルティメット1体をBP-5000する。'}
+﻿{
+  "CardNo": "BS27-067",
+  "PackNo": "BS27",
+  "CardName": "天星鎧ブラン・ペガス",
+  "CardRarity": "C",
+  "CardCategory": "ブレイヴ",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "想獣・星魂",
+  "Lv": [
+    "LV1 : 1000／1",
+    "brave : +1000／"
+  ],
+  "Text": "《合体条件：コスト3以上》 《合体時》『このスピリットの合体アタック時』このバトルの間、相手のスピリット/アルティメット1体をBP-5000する。"
+}

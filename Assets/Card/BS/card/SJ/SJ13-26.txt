@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SJ13-26', 'PackNo': 'SJ', 'CardName': 'ファラオン', 'CardRarity': 'SJ', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '剣獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個をこのスピリットに置く。'}
+﻿{
+  "CardNo": "SJ13-26",
+  "PackNo": "SJ",
+  "CardName": "ファラオン",
+  "CardRarity": "SJ",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "剣獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個をこのスピリットに置く。"
+}

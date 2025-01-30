@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS16-046', 'PackNo': 'BS16', 'CardName': 'サケビバード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '戦獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS16-046",
+  "PackNo": "BS16",
+  "CardName": "サケビバード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "戦獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／4"
+  ],
+  "Text": "-"
+}

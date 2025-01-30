@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BSC24-030', 'PackNo': 'BSC24', 'CardName': 'ダークロプスゼロ', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '青', '青'], 'CardType': '機人・闘神', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／3', 'LV3 : 9000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、このターンの間、このスピリットは相手のスピリットからブロックされない。 [Lv2-Lv3]『このスピリットのアタック時』相手は、相手のスピリット1体を手札に戻すことができる。戻さなかったとき、ボイドからコア1個をこのスピリットに置く。'}
+﻿{
+  "CardNo": "BSC24-030",
+  "PackNo": "BSC24",
+  "CardName": "ダークロプスゼロ",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "5",
+  "ReducedCost": [
+    "白",
+    "白",
+    "青",
+    "青"
+  ],
+  "CardType": "機人・闘神",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／3",
+    "LV3 : 9000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、このターンの間、このスピリットは相手のスピリットからブロックされない。 [Lv2-Lv3]『このスピリットのアタック時』相手は、相手のスピリット1体を手札に戻すことができる。戻さなかったとき、ボイドからコア1個をこのスピリットに置く。"
+}

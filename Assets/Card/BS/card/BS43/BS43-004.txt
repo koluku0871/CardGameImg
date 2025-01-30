@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS43-004', 'PackNo': 'BS43', 'CardName': '龍皇の楯 光のフェガロ・フォス', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '古竜', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 6000／5'], 'Text': '［フラッシュ］【アクセル】コスト5<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（この効果は手札から使用できる）BP10000以下の相手のスピリット/アルティメット1体を破壊する。この効果で破壊したスピリット/アルティメットの効果は発揮されない。この効果発揮後、このカードはオープンして手元に置く。 ［Lv2-Lv3］このスピリットは、カード名に「ジークフリード」を含むコスト9以下のカードの煌臨元になるとき、条件を無視できる。'}
+﻿{
+  "CardNo": "BS43-004",
+  "PackNo": "BS43",
+  "CardName": "龍皇の楯 光のフェガロ・フォス",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "古竜",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 6000／5"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト5<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（この効果は手札から使用できる）BP10000以下の相手のスピリット/アルティメット1体を破壊する。この効果で破壊したスピリット/アルティメットの効果は発揮されない。この効果発揮後、このカードはオープンして手元に置く。 ［Lv2-Lv3］このスピリットは、カード名に「ジークフリード」を含むコスト9以下のカードの煌臨元になるとき、条件を無視できる。"
+}

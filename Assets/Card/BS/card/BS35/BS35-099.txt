@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS35-099', 'PackNo': 'BS35', 'CardName': 'イエローサン', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '7', 'ReducedCost': ['黄', '黄', '黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、相手のスピリット/アルティメットすべてをBP-7000する。この効果でBP0になったスピリット/アルティメットすべてを破壊する。'}
+﻿{
+  "CardNo": "BS35-099",
+  "PackNo": "BS35",
+  "CardName": "イエローサン",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "7",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、相手のスピリット/アルティメットすべてをBP-7000する。この効果でBP0になったスピリット/アルティメットすべてを破壊する。"
+}

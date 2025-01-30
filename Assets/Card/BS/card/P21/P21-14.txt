@@ -1,1 +1,16 @@
-﻿{'CardNo': 'P21-14', 'PackNo': 'P21', 'CardName': 'バトルスピリッツミラージュ', 'CardRarity': 'P', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［ミラージュ：コスト4<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_white.png"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』系統：「来是」/「占征」を持つシンボル1つの自分のスピリットが、ターンの最初にアタックしている間、そのスピリットはブロックされない。 ［フラッシュ］相手のスピリット1体を手札に戻す。'}
+﻿{
+  "CardNo": "P21-14",
+  "PackNo": "P21",
+  "CardName": "バトルスピリッツミラージュ",
+  "CardRarity": "P",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト4<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』系統：「来是」/「占征」を持つシンボル1つの自分のスピリットが、ターンの最初にアタックしている間、そのスピリットはブロックされない。 ［フラッシュ］相手のスピリット1体を手札に戻す。"
+}

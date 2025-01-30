@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BSC05-025', 'PackNo': 'BSC05', 'CardName': 'マジックブースト', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分の合体スピリット1体を回復させ、このターンの間、そのスピリットをBP+2000する。'}
+﻿{
+  "CardNo": "BSC05-025",
+  "PackNo": "BSC05",
+  "CardName": "マジックブースト",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分の合体スピリット1体を回復させ、このターンの間、そのスピリットをBP+2000する。"
+}

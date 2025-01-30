@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BSC29-026', 'PackNo': 'BSC29', 'CardName': '減点', 'CardRarity': '-', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このターンの間、相手のスピリット/アルティメット1体をBP-2000する。この効果でBP0になったスピリット/アルティメットを手札に戻す。'}
+﻿{
+  "CardNo": "BSC29-026",
+  "PackNo": "BSC29",
+  "CardName": "減点",
+  "CardRarity": "-",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]このターンの間、相手のスピリット/アルティメット1体をBP-2000する。この効果でBP0になったスピリット/アルティメットを手札に戻す。"
+}

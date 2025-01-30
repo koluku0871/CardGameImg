@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS10-052', 'PackNo': 'BS10', 'CardName': '木こりのゴブリ・ゴブリ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青', '青'], 'CardType': '創手', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS10-052",
+  "PackNo": "BS10",
+  "CardName": "木こりのゴブリ・ゴブリ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "創手",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "-"
+}

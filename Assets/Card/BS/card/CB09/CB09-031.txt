@@ -1,1 +1,21 @@
-﻿{'CardNo': 'CB09-031', 'PackNo': 'CB09', 'CardName': 'ディケイドビルド', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤\n青', 'Cost': '5', 'ReducedCost': ['赤', '赤', '青', '青'], 'CardType': '仮面・異合', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／3'], 'Text': '［フラッシュ］【チェンジ】コスト6<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_blue.png"/>（この効果は手札から使用できる）コスト6以下の相手のスピリット1体と相手のネクサス1つを破壊する。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。 ［Lv2］カード名に「ディケイド」/「ディエンド」を含む自分のスピリットすべてを、そのスピリットが持つ最高Lvとして扱う。'}
+﻿{
+  "CardNo": "CB09-031",
+  "PackNo": "CB09",
+  "CardName": "ディケイドビルド",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "赤\n青",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "青",
+    "青"
+  ],
+  "CardType": "仮面・異合",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／3"
+  ],
+  "Text": "［フラッシュ］【チェンジ】コスト6<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（この効果は手札から使用できる）コスト6以下の相手のスピリット1体と相手のネクサス1つを破壊する。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。 ［Lv2］カード名に「ディケイド」/「ディエンド」を含む自分のスピリットすべてを、そのスピリットが持つ最高Lvとして扱う。"
+}

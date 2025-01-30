@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS59-060', 'PackNo': 'BS59', 'CardName': '時喰いハイドラ', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '7', 'ReducedCost': ['青', '青', '青', '青'], 'CardType': '時冠', 'Lv': ['LV1 : 6000／1', 'LV2 : 10000／3'], 'Text': '［ミラージュ：コスト4<img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/>（このカードは手札からセットできる）］【セット中】ターンに1回、系統：「時冠」を持つ自分の効果で自分のトラッシュにあるカードをデッキに戻したとき、ボイドからコア1個を自分のスピリット/ネクサスに置ける。 ［Lv2］『自分のアタックステップ』系統：「時冠」を持つ自分のスピリットのバトル終了時、自分のトラッシュにあるカード3枚をデッキの下に戻すことで、相手のライフのコア1個をリザーブに置く。'}
+﻿{
+  "CardNo": "BS59-060",
+  "PackNo": "BS59",
+  "CardName": "時喰いハイドラ",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "7",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "時冠",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 10000／3"
+  ],
+  "Text": "［ミラージュ：コスト4<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（このカードは手札からセットできる）］【セット中】ターンに1回、系統：「時冠」を持つ自分の効果で自分のトラッシュにあるカードをデッキに戻したとき、ボイドからコア1個を自分のスピリット/ネクサスに置ける。 ［Lv2］『自分のアタックステップ』系統：「時冠」を持つ自分のスピリットのバトル終了時、自分のトラッシュにあるカード3枚をデッキの下に戻すことで、相手のライフのコア1個をリザーブに置く。"
+}

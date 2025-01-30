@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS46-060', 'PackNo': 'BS46', 'CardName': 'ポーン・フォーン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', '黄'], 'CardType': '四道', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '［フラッシュ］【アクセル】コスト3<img src="/renewal/images/cardlist/ico_yellow.png"/>（この効果は手札から使用できる）このバトルの間、【アクセル】以外の効果を持たない自分のスピリット1体はブロックされない。この効果発揮後、このカードはオープンして手元に置く。'}
+﻿{
+  "CardNo": "BS46-060",
+  "PackNo": "BS46",
+  "CardName": "ポーン・フォーン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "四道",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（この効果は手札から使用できる）このバトルの間、【アクセル】以外の効果を持たない自分のスピリット1体はブロックされない。この効果発揮後、このカードはオープンして手元に置く。"
+}

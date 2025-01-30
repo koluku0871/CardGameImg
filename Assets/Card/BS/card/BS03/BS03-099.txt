@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS03-099', 'PackNo': 'BS03', 'CardName': '虎拳士タイガ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '7', 'ReducedCost': ['青', '青', '青', '青'], 'CardType': '獣頭・勇傑', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／4', 'LV3 : 10000／7'], 'Text': '-'}
+﻿{
+  "CardNo": "BS03-099",
+  "PackNo": "BS03",
+  "CardName": "虎拳士タイガ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "7",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "獣頭・勇傑",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／4",
+    "LV3 : 10000／7"
+  ],
+  "Text": "-"
+}

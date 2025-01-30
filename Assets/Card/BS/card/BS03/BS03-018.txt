@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS03-018', 'PackNo': 'BS03', 'CardName': 'ダークレイス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '呪鬼', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 6000／6'], 'Text': '-'}
+﻿{
+  "CardNo": "BS03-018",
+  "PackNo": "BS03",
+  "CardName": "ダークレイス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "呪鬼",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 6000／6"
+  ],
+  "Text": "-"
+}

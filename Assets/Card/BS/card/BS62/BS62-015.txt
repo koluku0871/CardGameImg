@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS62-015', 'PackNo': 'BS62', 'CardName': '豊穣の蛇チコメコアトル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のカウントエリアに<img src="/renewal/images/cardlist/ico_soulcore.png"/>があるとき、自分はデッキから2枚ドローする。［Lv1-Lv2］『自分のメインステップ』自分のリザーブ/トラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>をカウントエリアに置ける。そうしたとき、ボイドからコア2個を自分のトラッシュに置ける。'}
+﻿{
+  "CardNo": "BS62-015",
+  "PackNo": "BS62",
+  "CardName": "豊穣の蛇チコメコアトル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分のカウントエリアに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>があるとき、自分はデッキから2枚ドローする。［Lv1-Lv2］『自分のメインステップ』自分のリザーブ/トラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をカウントエリアに置ける。そうしたとき、ボイドからコア2個を自分のトラッシュに置ける。"
+}

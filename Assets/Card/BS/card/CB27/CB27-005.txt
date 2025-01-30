@@ -1,1 +1,20 @@
-﻿{'CardNo': 'CB27-005', 'PackNo': 'CB27', 'CardName': 'ガンダム・ルブリス', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '学園', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／3'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（このカードは手札からセットできる）］【セット中】『自分のメインステップ』〔ターンに1回：同名〕自分の手札にある系統：「学園」を持つカード1枚を、軽減シンボル3つまでを満たして召喚できる。そうしたとき、このターンの間、相手のスピリット1体をBP-4000でき、BP0になったとき破壊する。 ［Lv3］『このスピリットのアタック/ブロック時』自分のカウント+1する。その後、このターンの間、相手のスピリット3体をBP-3000でき、BP0になったとき破壊する。'}
+﻿{
+  "CardNo": "CB27-005",
+  "PackNo": "CB27",
+  "CardName": "ガンダム・ルブリス",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "学園",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／3"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】『自分のメインステップ』〔ターンに1回：同名〕自分の手札にある系統：「学園」を持つカード1枚を、軽減シンボル3つまでを満たして召喚できる。そうしたとき、このターンの間、相手のスピリット1体をBP-4000でき、BP0になったとき破壊する。 ［Lv3］『このスピリットのアタック/ブロック時』自分のカウント+1する。その後、このターンの間、相手のスピリット3体をBP-3000でき、BP0になったとき破壊する。"
+}

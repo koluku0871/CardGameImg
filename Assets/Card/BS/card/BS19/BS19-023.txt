@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS19-023', 'PackNo': 'BS19', 'CardName': 'グラス・アウル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': ['緑'], 'CardType': '爪鳥', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS19-023",
+  "PackNo": "BS19",
+  "CardName": "グラス・アウル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "1",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "爪鳥",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "-"
+}

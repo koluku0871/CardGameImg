@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS03-126', 'PackNo': 'BS03', 'CardName': 'ポーションベリー', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]ボイドからコア1個をスピリット1体の上に置く。'}
+﻿{
+  "CardNo": "BS03-126",
+  "PackNo": "BS03",
+  "CardName": "ポーションベリー",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]ボイドからコア1個をスピリット1体の上に置く。"
+}

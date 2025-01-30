@@ -1,1 +1,20 @@
-﻿{'CardNo': 'SJ15-04', 'PackNo': 'SJ', 'CardName': '三臣竜 槍撃のショウゲン', 'CardRarity': 'SJ', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '戦極・武竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 4000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの破壊時』BP5000以下の相手のスピリット1体を破壊する。このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)が置かれているとき、さらに、自分はデッキから2枚ドローする。'}
+﻿{
+  "CardNo": "SJ15-04",
+  "PackNo": "SJ",
+  "CardName": "三臣竜 槍撃のショウゲン",
+  "CardRarity": "SJ",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "戦極・武竜",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2",
+    "LV3 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの破壊時』BP5000以下の相手のスピリット1体を破壊する。このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>(ソウルコア)が置かれているとき、さらに、自分はデッキから2枚ドローする。"
+}

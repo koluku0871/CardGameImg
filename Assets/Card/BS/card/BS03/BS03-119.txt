@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS03-119', 'PackNo': 'BS03', 'CardName': 'バスターランス', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]Lv1ネクサスすべてを破壊する。 [フラッシュ]このターンの間、スピリット1体をBP+3000する。'}
+﻿{
+  "CardNo": "BS03-119",
+  "PackNo": "BS03",
+  "CardName": "バスターランス",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]Lv1ネクサスすべてを破壊する。 [フラッシュ]このターンの間、スピリット1体をBP+3000する。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'CB20-010', 'PackNo': 'CB20', 'CardName': '仮面ライダーキバ ドッガフォーム [2]', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '仮面・夜族', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 10000／6'], 'Text': '［フラッシュ］【チェンジ】コスト5<img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/>（この効果は手札から使用できる)コア4個以上の相手のスピリット1体を破壊する。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。 ［Lv2-Lv3］カード名に「キバ」/「イクサ」を含む自分のスピリットすべては、相手の効果でフィールドを離れるとき、自分の手札1枚を破棄することで、疲労状態でフィールドに残る。'}
+﻿{
+  "CardNo": "CB20-010",
+  "PackNo": "CB20",
+  "CardName": "仮面ライダーキバ ドッガフォーム [2]",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "仮面・夜族",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2",
+    "LV3 : 10000／6"
+  ],
+  "Text": "［フラッシュ］【チェンジ】コスト5<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/>（この効果は手札から使用できる)コア4個以上の相手のスピリット1体を破壊する。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。 ［Lv2-Lv3］カード名に「キバ」/「イクサ」を含む自分のスピリットすべては、相手の効果でフィールドを離れるとき、自分の手札1枚を破棄することで、疲労状態でフィールドに残る。"
+}

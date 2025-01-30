@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS14-035', 'PackNo': 'BS14', 'CardName': 'ラクーンガード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': ['白'], 'CardType': '機獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '［Lv2］【重装甲：白】このスピリットは、相手の白のスピリット/ブレイヴ/ネクサス/マジックの効果を受けない。'}
+﻿{
+  "CardNo": "BS14-035",
+  "PackNo": "BS14",
+  "CardName": "ラクーンガード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "機獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv2］【重装甲：白】このスピリットは、相手の白のスピリット/ブレイヴ/ネクサス/マジックの効果を受けない。"
+}

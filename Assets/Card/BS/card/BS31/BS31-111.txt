@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS31-111', 'PackNo': 'BS31', 'CardName': '火球アタック', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、相手のスピリット/アルティメット1体をBP-6000する。この効果でBP0になったスピリット/アルティメットを破壊する。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、効果の対象を系統：「妖戒」を持つ自分のスピリット1体につき、相手のスピリット/アルティメット1体に変更する。'}
+﻿{
+  "CardNo": "BS31-111",
+  "PackNo": "BS31",
+  "CardName": "火球アタック",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、相手のスピリット/アルティメット1体をBP-6000する。この効果でBP0になったスピリット/アルティメットを破壊する。コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、効果の対象を系統：「妖戒」を持つ自分のスピリット1体につき、相手のスピリット/アルティメット1体に変更する。"
+}

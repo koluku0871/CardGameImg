@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS03-009', 'PackNo': 'BS03', 'CardName': '火吹きメルト', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '道化', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 8000／5'], 'Text': '-'}
+﻿{
+  "CardNo": "BS03-009",
+  "PackNo": "BS03",
+  "CardName": "火吹きメルト",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "道化",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 8000／5"
+  ],
+  "Text": "-"
+}

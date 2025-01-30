@@ -1,1 +1,16 @@
-﻿{'CardNo': 'P14-11', 'PackNo': 'P14', 'CardName': 'ヒートアンドクール', 'CardRarity': 'P', 'CardCategory': 'マジック', 'Element': '赤\n白', 'Cost': '5', 'ReducedCost': ['赤', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP4000以下の相手のスピリット1体を破壊する。または、相手のスピリット1体を手札に戻す。'}
+﻿{
+  "CardNo": "P14-11",
+  "PackNo": "P14",
+  "CardName": "ヒートアンドクール",
+  "CardRarity": "P",
+  "CardCategory": "マジック",
+  "Element": "赤\n白",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］BP4000以下の相手のスピリット1体を破壊する。または、相手のスピリット1体を手札に戻す。"
+}

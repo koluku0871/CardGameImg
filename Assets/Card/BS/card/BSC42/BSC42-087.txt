@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC42-087', 'PackNo': 'BSC42', 'CardName': 'エンジェルボイスLT', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '全'], 'CardType': '金雲', 'Lv': [], 'Text': '［フラッシュ］自分はデッキから1枚ドローする。または、このバトル解決時、BPのかわりにLvを比べ、Lvが同じか低いスピリットが破壊される。'}
+﻿{
+  "CardNo": "BSC42-087",
+  "PackNo": "BSC42",
+  "CardName": "エンジェルボイスLT",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "全"
+  ],
+  "CardType": "金雲",
+  "Lv": [],
+  "Text": "［フラッシュ］自分はデッキから1枚ドローする。または、このバトル解決時、BPのかわりにLvを比べ、Lvが同じか低いスピリットが破壊される。"
+}

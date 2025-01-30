@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS16-041', 'PackNo': 'BS16', 'CardName': 'グリムの天使赤ずきん', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '雄将・天霊', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '［Lv1-Lv2-Lv3］『お互いのアタックステップ』Lv1の相手のネクサスすべての効果は発揮されない。'}
+﻿{
+  "CardNo": "BS16-041",
+  "PackNo": "BS16",
+  "CardName": "グリムの天使赤ずきん",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "雄将・天霊",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『お互いのアタックステップ』Lv1の相手のネクサスすべての効果は発揮されない。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC22-131', 'PackNo': 'BSC22', 'CardName': 'ワイルドパワー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、スピリット1体をBP+2000する。自分のリザーブにソウルコアがあるとき、さらに、このターンの間、スピリット1体をBP+3000する。'}
+﻿{
+  "CardNo": "BSC22-131",
+  "PackNo": "BSC22",
+  "CardName": "ワイルドパワー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、スピリット1体をBP+2000する。自分のリザーブにソウルコアがあるとき、さらに、このターンの間、スピリット1体をBP+3000する。"
+}

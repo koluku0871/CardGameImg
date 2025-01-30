@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS31-063', 'PackNo': 'BS31', 'CardName': 'カニコング', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青', '緑'], 'CardType': '異合・遊精', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］このスピリットの色とシンボルは緑としても扱う。 ［Lv2-Lv3］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、自分の手札は相手の効果を受けず、相手は、系統：「殻人」/「異合」を持つ自分のスピリットすべてのコアを取り除くことができない。'}
+﻿{
+  "CardNo": "BS31-063",
+  "PackNo": "BS31",
+  "CardName": "カニコング",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青",
+    "緑"
+  ],
+  "CardType": "異合・遊精",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］このスピリットの色とシンボルは緑としても扱う。 ［Lv2-Lv3］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、自分の手札は相手の効果を受けず、相手は、系統：「殻人」/「異合」を持つ自分のスピリットすべてのコアを取り除くことができない。"
+}

@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS17-037', 'PackNo': 'BS17', 'CardName': 'カピッパ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': ['黄'], 'CardType': '戯狩', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』【光芒】/【魔光芒】を持つ自分のスピリット1体を回復させる。'}
+﻿{
+  "CardNo": "BS17-037",
+  "PackNo": "BS17",
+  "CardName": "カピッパ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "戯狩",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの破壊時』【光芒】/【魔光芒】を持つ自分のスピリット1体を回復させる。"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS01-063', 'PackNo': 'BS01', 'CardName': 'エメラルドシーザー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '怪虫', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '[Lv1-Lv2]『このスピリットの召喚時』相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "BS01-063",
+  "PackNo": "BS01",
+  "CardName": "エメラルドシーザー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "怪虫",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットの召喚時』相手のスピリット1体を疲労させる。"
+}

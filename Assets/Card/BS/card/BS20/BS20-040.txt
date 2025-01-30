@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS20-040', 'PackNo': 'BS20', 'CardName': 'バニラップ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '想獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS20-040",
+  "PackNo": "BS20",
+  "CardName": "バニラップ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "想獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "-"
+}

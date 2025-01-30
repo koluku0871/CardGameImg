@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS14-048', 'PackNo': 'BS14', 'CardName': 'アゲハ妖精ナミ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', '黄'], 'CardType': '楽族', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 6000／7'], 'Text': '-'}
+﻿{
+  "CardNo": "BS14-048",
+  "PackNo": "BS14",
+  "CardName": "アゲハ妖精ナミ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "楽族",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 6000／7"
+  ],
+  "Text": "-"
+}

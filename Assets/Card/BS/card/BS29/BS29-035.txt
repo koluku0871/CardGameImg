@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS29-035', 'PackNo': 'BS29', 'CardName': '獣士スカイラーク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青'], 'CardType': '剣使・獣頭', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : 4000／4'], 'Text': '［Lv1-Lv2-Lv3］系統：「剣使」を持つ自分のスピリット/アルティメットがアタックしたとき、ボイドからコア1個を自分のネクサスに置く。'}
+﻿{
+  "CardNo": "BS29-035",
+  "PackNo": "BS29",
+  "CardName": "獣士スカイラーク",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "剣使・獣頭",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3",
+    "LV3 : 4000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］系統：「剣使」を持つ自分のスピリット/アルティメットがアタックしたとき、ボイドからコア1個を自分のネクサスに置く。"
+}

@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS25-008', 'PackNo': 'BS25', 'CardName': '恐竜空母アパト', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', 'ico_ultimate.png', 'ico_ultimate.png'], 'CardType': '地竜', 'Lv': ['LV1 : 6000／1', 'LV2 : 7000／2', 'LV3 : 8000／3'], 'Text': '[Lv1-Lv2]『自分のアタックステップ』系統：「新生」を持つ自分のアルティメットすべてをコスト6として扱う。 [Lv3]『自分のアタックステップ』系統：「新生」を持つ自分のアルティメットすべてをコスト7として扱う。'}
+﻿{
+  "CardNo": "BS25-008",
+  "PackNo": "BS25",
+  "CardName": "恐竜空母アパト",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "ico_ultimate.png",
+    "ico_ultimate.png"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 7000／2",
+    "LV3 : 8000／3"
+  ],
+  "Text": "[Lv1-Lv2]『自分のアタックステップ』系統：「新生」を持つ自分のアルティメットすべてをコスト6として扱う。 [Lv3]『自分のアタックステップ』系統：「新生」を持つ自分のアルティメットすべてをコスト7として扱う。"
+}

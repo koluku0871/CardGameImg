@@ -1,1 +1,16 @@
-﻿{'CardNo': 'SD14-001', 'PackNo': 'SD14', 'CardName': '槍兵アントマン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': [], 'CardType': '怪虫・殻人', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '［Lv2］『このスピリットのアタック時』自分のリザーブのコア1個につき、このスピリットをBP+1000する。'}
+﻿{
+  "CardNo": "SD14-001",
+  "PackNo": "SD14",
+  "CardName": "槍兵アントマン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "怪虫・殻人",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv2］『このスピリットのアタック時』自分のリザーブのコア1個につき、このスピリットをBP+1000する。"
+}

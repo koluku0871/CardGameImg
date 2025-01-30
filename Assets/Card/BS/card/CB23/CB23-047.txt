@@ -1,1 +1,20 @@
-﻿{'CardNo': 'CB23-047', 'PackNo': 'CB23', 'CardName': '渚カヲル -人類のはざまを紡ぐ-', 'CardRarity': 'M', 'CardCategory': 'ネクサス', 'Element': '紫\n赤', 'Cost': '5', 'ReducedCost': ['紫', '紫', '赤', '赤'], 'CardType': 'NERV', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］『お互いのアタックステップ開始時』自分の手札1枚を破棄できる。そうしたとき、自分のトラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア3個を「エヴァンゲリオン」に置く。 ［Lv2］『相手のターン』ターンに1回、バトルしていない系統：「NERV」を持つ自分のスピリットが相手の効果でフィールドを離れるとき、自分のトラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア1個ずつを、それらのスピリットに置ける。この効果でコアを置いたスピリットは同じ状態でフィールドに残る。'}
+﻿{
+  "CardNo": "CB23-047",
+  "PackNo": "CB23",
+  "CardName": "渚カヲル -人類のはざまを紡ぐ-",
+  "CardRarity": "M",
+  "CardCategory": "ネクサス",
+  "Element": "紫\n赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "赤",
+    "赤"
+  ],
+  "CardType": "NERV",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『お互いのアタックステップ開始時』自分の手札1枚を破棄できる。そうしたとき、自分のトラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア3個を「エヴァンゲリオン」に置く。 ［Lv2］『相手のターン』ターンに1回、バトルしていない系統：「NERV」を持つ自分のスピリットが相手の効果でフィールドを離れるとき、自分のトラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア1個ずつを、それらのスピリットに置ける。この効果でコアを置いたスピリットは同じ状態でフィールドに残る。"
+}

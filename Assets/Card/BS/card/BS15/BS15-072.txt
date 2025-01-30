@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS15-072', 'PackNo': 'BS15', 'CardName': '渦巻く大海峡', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］疲労状態のスピリットすべては、リフレッシュステップ以外で回復できない。 ［Lv2］自分のバーストをセットしている間、『このスピリットの破壊時』効果は発揮されない。'}
+﻿{
+  "CardNo": "BS15-072",
+  "PackNo": "BS15",
+  "CardName": "渦巻く大海峡",
+  "CardRarity": "U",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］疲労状態のスピリットすべては、リフレッシュステップ以外で回復できない。 ［Lv2］自分のバーストをセットしている間、『このスピリットの破壊時』効果は発揮されない。"
+}

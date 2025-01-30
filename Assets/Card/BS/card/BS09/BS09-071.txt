@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS09-071', 'PackNo': 'BS09', 'CardName': 'イモータルドロー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］このターンの間、【不死】を持つ自分のスピリットが召喚されたとき、自分はデッキから2枚ドローする。 ［フラッシュ］このターンの間、スピリット1体をBP+1000する。'}
+﻿{
+  "CardNo": "BS09-071",
+  "PackNo": "BS09",
+  "CardName": "イモータルドロー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］このターンの間、【不死】を持つ自分のスピリットが召喚されたとき、自分はデッキから2枚ドローする。 ［フラッシュ］このターンの間、スピリット1体をBP+1000する。"
+}

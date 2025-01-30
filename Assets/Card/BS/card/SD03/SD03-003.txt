@@ -1,1 +1,20 @@
-﻿{'CardNo': 'SD03-003', 'PackNo': 'SD03', 'CardName': 'モルゲザウルス', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 6000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットをBP+2000する。'}
+﻿{
+  "CardNo": "SD03-003",
+  "PackNo": "SD03",
+  "CardName": "モルゲザウルス",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットをBP+2000する。"
+}

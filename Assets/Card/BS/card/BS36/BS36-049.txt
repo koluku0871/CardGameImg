@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS36-049', 'PackNo': 'BS36', 'CardName': 'カモノゲンナイ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青', '青'], 'CardType': '創手', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '[Lv1-Lv2]『お互いのアタックステップ』相手のデッキが破棄されたとき、自分はデッキから1枚ドローする。その後、自分は手札1枚を破棄する。'}
+﻿{
+  "CardNo": "BS36-049",
+  "PackNo": "BS36",
+  "CardName": "カモノゲンナイ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "創手",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "[Lv1-Lv2]『お互いのアタックステップ』相手のデッキが破棄されたとき、自分はデッキから1枚ドローする。その後、自分は手札1枚を破棄する。"
+}

@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS19-034', 'PackNo': 'BS19', 'CardName': 'リヴァードフィン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': ['白'], 'CardType': '空魚', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS19-034",
+  "PackNo": "BS19",
+  "CardName": "リヴァードフィン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "空魚",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "-"
+}

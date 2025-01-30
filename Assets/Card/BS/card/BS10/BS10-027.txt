@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS10-027', 'PackNo': 'BS10', 'CardName': '若武者ウンピョル', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '剣獣・星魂', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』バトル終了時、自分の合体スピリット1体からブレイヴを分離させ、自分のスピリット1体に合体できる。'}
+﻿{
+  "CardNo": "BS10-027",
+  "PackNo": "BS10",
+  "CardName": "若武者ウンピョル",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "剣獣・星魂",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック時』バトル終了時、自分の合体スピリット1体からブレイヴを分離させ、自分のスピリット1体に合体できる。"
+}

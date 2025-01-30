@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS31-101', 'PackNo': 'BS31', 'CardName': '呪葬流転掌', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］相手のネクサスすべてのコアすべてを相手のトラッシュに置く。 ［フラッシュ］コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、疲労状態のコスト6以下の相手のスピリット/アルティメット1体を破壊する。'}
+﻿{
+  "CardNo": "BS31-101",
+  "PackNo": "BS31",
+  "CardName": "呪葬流転掌",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］相手のネクサスすべてのコアすべてを相手のトラッシュに置く。 ［フラッシュ］コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、疲労状態のコスト6以下の相手のスピリット/アルティメット1体を破壊する。"
+}

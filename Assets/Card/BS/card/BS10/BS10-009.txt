@@ -1,1 +1,23 @@
-﻿{'CardNo': 'BS10-009', 'PackNo': 'BS10', 'CardName': 'トルネードラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤', '赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 9000／3', 'LV3 : 10000／5'], 'Text': '-'}
+﻿{
+  "CardNo": "BS10-009",
+  "PackNo": "BS10",
+  "CardName": "トルネードラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "星竜",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 9000／3",
+    "LV3 : 10000／5"
+  ],
+  "Text": "-"
+}

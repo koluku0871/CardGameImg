@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS32-050', 'PackNo': 'BS32', 'CardName': 'ブル庵和尚', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青', '青'], 'CardType': '獣頭', 'Lv': ['LV1 : 8000／1', 'LV2 : 12000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS32-050",
+  "PackNo": "BS32",
+  "CardName": "ブル庵和尚",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 8000／1",
+    "LV2 : 12000／3"
+  ],
+  "Text": "-"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS01-050', 'PackNo': 'BS01', 'CardName': 'ビートビートル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '0', 'ReducedCost': [], 'CardType': '殻虫', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS01-050",
+  "PackNo": "BS01",
+  "CardName": "ビートビートル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "殻虫",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "-"
+}

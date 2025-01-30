@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS34-020', 'PackNo': 'BS34', 'CardName': '風魔ヤブサメ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': [], 'CardType': '忍風・爪鳥', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 5000／4'], 'Text': '［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。［Lv1-Lv2-Lv3］『このスピリットのバトル時』バトル終了時、このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のトラッシュに置くことで、このスピリットは手札に戻る。'}
+﻿{
+  "CardNo": "BS34-020",
+  "PackNo": "BS34",
+  "CardName": "風魔ヤブサメ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "忍風・爪鳥",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。［Lv1-Lv2-Lv3］『このスピリットのバトル時』バトル終了時、このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のトラッシュに置くことで、このスピリットは手札に戻る。"
+}

@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS09-075', 'PackNo': 'BS09', 'CardName': 'ウィンドシアー', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '6', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］【暴風】を持つ自分のスピリットすべてを回復させる。'}
+﻿{
+  "CardNo": "BS09-075",
+  "PackNo": "BS09",
+  "CardName": "ウィンドシアー",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "6",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］【暴風】を持つ自分のスピリットすべてを回復させる。"
+}

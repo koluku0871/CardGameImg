@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS38-RV032', 'PackNo': 'BS38', 'CardName': '時刻む花時計', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］《星座封印》『このネクサスの配置時』系統：「光導」/「星魂」を持つ自分のスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のライフに置ける。 《封印時》［Lv2］『自分のアタックステップ』異魔神ブレイヴと合体している自分のスピリットすべては、コスト7以下の相手のスピリット/アルティメットからブロックされない。'}
+﻿{
+  "CardNo": "BS38-RV032",
+  "PackNo": "BS38",
+  "CardName": "時刻む花時計",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］《星座封印》『このネクサスの配置時』系統：「光導」/「星魂」を持つ自分のスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のライフに置ける。 《封印時》［Lv2］『自分のアタックステップ』異魔神ブレイヴと合体している自分のスピリットすべては、コスト7以下の相手のスピリット/アルティメットからブロックされない。"
+}

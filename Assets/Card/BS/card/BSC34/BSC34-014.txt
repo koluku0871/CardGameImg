@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BSC34-014', 'PackNo': 'BSC34', 'CardName': '天秤ロボRe-BuLa', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤\n紫\n緑\n白\n黄\n青', 'Cost': '1', 'ReducedCost': ['神'], 'CardType': '光導・造兵', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『自分のターン』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている間、系統：「光導」を持つ自分のスピリット/アルティメットすべてをBP+3000する。'}
+﻿{
+  "CardNo": "BSC34-014",
+  "PackNo": "BSC34",
+  "CardName": "天秤ロボRe-BuLa",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤\n紫\n緑\n白\n黄\n青",
+  "Cost": "1",
+  "ReducedCost": [
+    "神"
+  ],
+  "CardType": "光導・造兵",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『自分のターン』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている間、系統：「光導」を持つ自分のスピリット/アルティメットすべてをBP+3000する。"
+}

@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS48-RV009', 'PackNo': 'BS48', 'CardName': 'サンダーストーム', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手の手札1枚につき、相手のスピリット/アルティメット1体を疲労させる。さらに、相手の手札が6枚以上のとき、このバトルの間、相手は手札のカードを使用できない。'}
+﻿{
+  "CardNo": "BS48-RV009",
+  "PackNo": "BS48",
+  "CardName": "サンダーストーム",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手の手札1枚につき、相手のスピリット/アルティメット1体を疲労させる。さらに、相手の手札が6枚以上のとき、このバトルの間、相手は手札のカードを使用できない。"
+}

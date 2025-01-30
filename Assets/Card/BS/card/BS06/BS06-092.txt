@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS06-092', 'PackNo': 'BS06', 'CardName': 'エクスキャベーション', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］自分のトラッシュにある系統：「地竜」を持つスピリットカード3枚を選んで手札に戻す。 ［フラッシュ］このターンの間、スピリット1体をBP+3000する。'}
+﻿{
+  "CardNo": "BS06-092",
+  "PackNo": "BS06",
+  "CardName": "エクスキャベーション",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］自分のトラッシュにある系統：「地竜」を持つスピリットカード3枚を選んで手札に戻す。 ［フラッシュ］このターンの間、スピリット1体をBP+3000する。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'P002', 'PackNo': 'P', 'CardName': 'ドラグノ大隊長', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '竜人', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '［Lv2］『自分のアタックステップ』自分のフィールドの系統：「竜人」/「翼竜」を持つスピリットすべてをＢＰ+1000する。'}
+﻿{
+  "CardNo": "P002",
+  "PackNo": "P",
+  "CardName": "ドラグノ大隊長",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "竜人",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv2］『自分のアタックステップ』自分のフィールドの系統：「竜人」/「翼竜」を持つスピリットすべてをＢＰ+1000する。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS38-066', 'PackNo': 'BS38', 'CardName': 'リボルドロー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］自分はデッキから2枚ドローする。または、自分はデッキの下から2枚ドローする。 ［フラッシュ］このターンの間、スピリット1体をBP+3000する。'}
+﻿{
+  "CardNo": "BS38-066",
+  "PackNo": "BS38",
+  "CardName": "リボルドロー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］自分はデッキから2枚ドローする。または、自分はデッキの下から2枚ドローする。 ［フラッシュ］このターンの間、スピリット1体をBP+3000する。"
+}

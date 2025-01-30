@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS33-022', 'PackNo': 'BS33', 'CardName': 'ガガン坊', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑'], 'CardType': '刃虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、自分の赤のスピリット1体を回復させる。'}
+﻿{
+  "CardNo": "BS33-022",
+  "PackNo": "BS33",
+  "CardName": "ガガン坊",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "刃虫",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、自分の赤のスピリット1体を回復させる。"
+}

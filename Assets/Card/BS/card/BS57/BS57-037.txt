@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS57-037', 'PackNo': 'BS57', 'CardName': '天使リミエル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '0', 'ReducedCost': [], 'CardType': '来是・天霊', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］自分の効果でマジックカードのミラージュをセットしたとき、自分はデッキから1枚ドローする。この効果はターンに1回しか使えない。'}
+﻿{
+  "CardNo": "BS57-037",
+  "PackNo": "BS57",
+  "CardName": "天使リミエル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "来是・天霊",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［Lv1-Lv2］自分の効果でマジックカードのミラージュをセットしたとき、自分はデッキから1枚ドローする。この効果はターンに1回しか使えない。"
+}

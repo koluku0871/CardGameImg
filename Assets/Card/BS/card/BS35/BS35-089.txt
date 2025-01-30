@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS35-089', 'PackNo': 'BS35', 'CardName': 'クリスタルブレイク', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］コアが1個の相手のスピリット/アルティメットすべてを破壊する。'}
+﻿{
+  "CardNo": "BS35-089",
+  "PackNo": "BS35",
+  "CardName": "クリスタルブレイク",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］コアが1個の相手のスピリット/アルティメットすべてを破壊する。"
+}

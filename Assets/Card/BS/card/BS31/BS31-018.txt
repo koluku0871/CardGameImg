@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS31-018', 'PackNo': 'BS31', 'CardName': 'ヘッドレスリッター', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '魔影', 'Lv': ['LV1 : 8000／1', 'LV2 : 13000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS31-018",
+  "PackNo": "BS31",
+  "CardName": "ヘッドレスリッター",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "魔影",
+  "Lv": [
+    "LV1 : 8000／1",
+    "LV2 : 13000／3"
+  ],
+  "Text": "-"
+}

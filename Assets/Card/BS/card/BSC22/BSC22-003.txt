@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC22-003', 'PackNo': 'BSC22', 'CardName': 'テラノセイバー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': [], 'CardType': '空牙', 'Lv': ['LV1 : 8000／1', 'LV2 : 11000／3'], 'Text': '［Lv1］『相手のアタックステップ』このスピリットは、相手のスピリットをブロックできない。'}
+﻿{
+  "CardNo": "BSC22-003",
+  "PackNo": "BSC22",
+  "CardName": "テラノセイバー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [],
+  "CardType": "空牙",
+  "Lv": [
+    "LV1 : 8000／1",
+    "LV2 : 11000／3"
+  ],
+  "Text": "［Lv1］『相手のアタックステップ』このスピリットは、相手のスピリットをブロックできない。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'SD30-001', 'PackNo': 'SD30', 'CardName': '鋼刃竜カリヴォロス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '古竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 7000／5'], 'Text': '[Lv2-Lv3]『このスピリットのアタック時』相手のネクサス1つを破壊する。このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)が置かれているとき、さらに、自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "SD30-001",
+  "PackNo": "SD30",
+  "CardName": "鋼刃竜カリヴォロス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "古竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 7000／5"
+  ],
+  "Text": "[Lv2-Lv3]『このスピリットのアタック時』相手のネクサス1つを破壊する。このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>(ソウルコア)が置かれているとき、さらに、自分はデッキから1枚ドローする。"
+}

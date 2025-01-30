@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS19-056', 'PackNo': 'BS19', 'CardName': '戦獣ワオー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '戦獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 6000／6'], 'Text': '-'}
+﻿{
+  "CardNo": "BS19-056",
+  "PackNo": "BS19",
+  "CardName": "戦獣ワオー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "戦獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 6000／6"
+  ],
+  "Text": "-"
+}

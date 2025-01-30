@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS07-064', 'PackNo': 'BS07', 'CardName': '聖なる命の泉', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': ['LV2 : -／3'], 'Text': '［Lv1-Lv2］【聖命】を持つ自分のスピリットすべてをBP+1000する。 ［Lv2］『自分のアタックステップ』【聖命】を持つ自分のスピリットすべては、相手のコスト3以下のスピリットからブロックされない。'}
+﻿{
+  "CardNo": "BS07-064",
+  "PackNo": "BS07",
+  "CardName": "聖なる命の泉",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／3"
+  ],
+  "Text": "［Lv1-Lv2］【聖命】を持つ自分のスピリットすべてをBP+1000する。 ［Lv2］『自分のアタックステップ』【聖命】を持つ自分のスピリットすべては、相手のコスト3以下のスピリットからブロックされない。"
+}

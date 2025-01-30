@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC42-025', 'PackNo': 'BSC42', 'CardName': 'シープルLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '0', 'ReducedCost': [], 'CardType': '碧雷・遊精', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［フラッシュ］【アクセル】コスト1（この効果は手札から使用できる）このターンの間、スピリット1体をBP+3000する。この効果発揮後、このカードはオープンして手元に置く。'}
+﻿{
+  "CardNo": "BSC42-025",
+  "PackNo": "BSC42",
+  "CardName": "シープルLT",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "碧雷・遊精",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト1（この効果は手札から使用できる）このターンの間、スピリット1体をBP+3000する。この効果発揮後、このカードはオープンして手元に置く。"
+}

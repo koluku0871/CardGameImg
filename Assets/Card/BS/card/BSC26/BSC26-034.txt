@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC26-034', 'PackNo': 'BSC26', 'CardName': 'サイボーグ怪獣メカゴジラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白'], 'CardType': '機獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 7000／5'], 'Text': '［Lv1-Lv2-Lv3］『相手のアタックステップ開始時』相手のスピリット1体を指定できる。そのスピリットは、このステップの最初に可能ならアタックする。 ［Lv2-Lv3］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、カード名に「メカゴジラ」か「3式機龍」と入っている自分のスピリットすべてをBP+5000する。'}
+﻿{
+  "CardNo": "BSC26-034",
+  "PackNo": "BSC26",
+  "CardName": "サイボーグ怪獣メカゴジラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "機獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 7000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『相手のアタックステップ開始時』相手のスピリット1体を指定できる。そのスピリットは、このステップの最初に可能ならアタックする。 ［Lv2-Lv3］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、カード名に「メカゴジラ」か「3式機龍」と入っている自分のスピリットすべてをBP+5000する。"
+}

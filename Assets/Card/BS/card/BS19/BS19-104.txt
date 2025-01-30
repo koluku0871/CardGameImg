@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS19-104', 'PackNo': 'BS19', 'CardName': 'タービュランス', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]このターンの間、コスト4以下の自分のスピリットがアタックするとき、相手はバーストを発動できない。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。'}
+﻿{
+  "CardNo": "BS19-104",
+  "PackNo": "BS19",
+  "CardName": "タービュランス",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]このターンの間、コスト4以下の自分のスピリットがアタックするとき、相手はバーストを発動できない。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。"
+}

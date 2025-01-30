@@ -1,1 +1,19 @@
-﻿{'CardNo': 'CB09-018', 'PackNo': 'CB09', 'CardName': '仮面ライダーキックホッパー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤'], 'CardType': '仮面', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／3'], 'Text': '［フラッシュ］【チェンジ】コスト5<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（この効果は手札から使用できる）BP6000以下の相手のスピリット1体を破壊する。カード名に「ザビー」/「パンチ」を含む自分のスピリットがいたら、この効果を5回発揮する。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。'}
+﻿{
+  "CardNo": "CB09-018",
+  "PackNo": "CB09",
+  "CardName": "仮面ライダーキックホッパー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "仮面",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／3"
+  ],
+  "Text": "［フラッシュ］【チェンジ】コスト5<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（この効果は手札から使用できる）BP6000以下の相手のスピリット1体を破壊する。カード名に「ザビー」/「パンチ」を含む自分のスピリットがいたら、この効果を5回発揮する。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。"
+}

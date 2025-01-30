@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SD47-002', 'PackNo': 'SD47', 'CardName': 'メジェフクロウ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '神'], 'CardType': '界渡', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': 'このカード/スピリットは系統：「十冠」/「爪鳥」を得る。［Lv1-Lv2］《謎封印》『このスピリットの召喚時』自分のリザーブの<img src="/renewal/images/cardlist/ico_soulcore.png"/>と自分のライフのコア1個を入れ替えられる。《封印中》［Lv1-Lv2］系統：「爪鳥」を持つ自分のスピリット/アルティメットすべては、相手の効果でコア0個にならない。'}
+﻿{
+  "CardNo": "SD47-002",
+  "PackNo": "SD47",
+  "CardName": "メジェフクロウ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "神"
+  ],
+  "CardType": "界渡",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "このカード/スピリットは系統：「十冠」/「爪鳥」を得る。［Lv1-Lv2］《謎封印》『このスピリットの召喚時』自分のリザーブの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>と自分のライフのコア1個を入れ替えられる。《封印中》［Lv1-Lv2］系統：「爪鳥」を持つ自分のスピリット/アルティメットすべては、相手の効果でコア0個にならない。"
+}

@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS11-072', 'PackNo': 'BS11', 'CardName': '未完成の古代戦艦：船尾', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': ['LV2 : -／3'], 'Text': '［Lv1-Lv2］お互い、ボイドからライフにコアを置けない。 ［Lv2］『相手のメインステップ』『このスピリットの召喚時』効果と『このブレイヴの召喚時』効果は発揮されない。'}
+﻿{
+  "CardNo": "BS11-072",
+  "PackNo": "BS11",
+  "CardName": "未完成の古代戦艦：船尾",
+  "CardRarity": "U",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／3"
+  ],
+  "Text": "［Lv1-Lv2］お互い、ボイドからライフにコアを置けない。 ［Lv2］『相手のメインステップ』『このスピリットの召喚時』効果と『このブレイヴの召喚時』効果は発揮されない。"
+}

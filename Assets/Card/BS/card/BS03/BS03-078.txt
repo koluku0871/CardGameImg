@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS03-078', 'PackNo': 'BS03', 'CardName': '暴れトロル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青', '青'], 'CardType': '創手', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS03-078",
+  "PackNo": "BS03",
+  "CardName": "暴れトロル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "創手",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／4"
+  ],
+  "Text": "-"
+}

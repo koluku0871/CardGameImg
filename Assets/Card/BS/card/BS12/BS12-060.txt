@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS12-060', 'PackNo': 'BS12', 'CardName': 'バルカン・アームズ', 'CardRarity': 'R', 'CardCategory': 'ブレイヴ', 'Element': '青', 'Cost': '5', 'ReducedCost': ['青', '青', '緑', '緑'], 'CardType': '造兵', 'Lv': ['LV1 : 5000／1', 'brave : +5000／'], 'Text': '［Lv1］『このブレイヴの召喚時』自分はデッキから3枚ドローする。その後、自分の手札2枚を破棄する。 《合体条件：神星/光導/星魂》'}
+﻿{
+  "CardNo": "BS12-060",
+  "PackNo": "BS12",
+  "CardName": "バルカン・アームズ",
+  "CardRarity": "R",
+  "CardCategory": "ブレイヴ",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "緑",
+    "緑"
+  ],
+  "CardType": "造兵",
+  "Lv": [
+    "LV1 : 5000／1",
+    "brave : +5000／"
+  ],
+  "Text": "［Lv1］『このブレイヴの召喚時』自分はデッキから3枚ドローする。その後、自分の手札2枚を破棄する。 《合体条件：神星/光導/星魂》"
+}

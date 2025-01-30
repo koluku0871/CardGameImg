@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS03-058', 'PackNo': 'BS03', 'CardName': '妖精ティングリー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '楽族', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '[Lv1-Lv2]『このスピリットの召喚時』このターンの間、自分のスピリットすべては黄のスピリットとしても扱う。'}
+﻿{
+  "CardNo": "BS03-058",
+  "PackNo": "BS03",
+  "CardName": "妖精ティングリー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "楽族",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットの召喚時』このターンの間、自分のスピリットすべては黄のスピリットとしても扱う。"
+}

@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS41-080', 'PackNo': 'BS41', 'CardName': '華麗なるマウチュー城', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］系統：「漂精」を持つ自分のスピリットすべてをBP+2000する。 ［Lv2］相手の「デッキ破棄効果」で、自分のデッキが1度に10枚以上破棄されるとき、破棄枚数を3枚にする。'}
+﻿{
+  "CardNo": "BS41-080",
+  "PackNo": "BS41",
+  "CardName": "華麗なるマウチュー城",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］系統：「漂精」を持つ自分のスピリットすべてをBP+2000する。 ［Lv2］相手の「デッキ破棄効果」で、自分のデッキが1度に10枚以上破棄されるとき、破棄枚数を3枚にする。"
+}

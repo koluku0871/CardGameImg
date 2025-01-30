@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS13-017', 'PackNo': 'BS13', 'CardName': 'アナグマ・コスケ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '0', 'ReducedCost': [], 'CardType': '遊精', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／3'], 'Text': '［Lv2］『このスピリットのアタック時』系統：「遊精」を持つ自分のスピリット1体につき、このスピリットをBP+1000する。'}
+﻿{
+  "CardNo": "BS13-017",
+  "PackNo": "BS13",
+  "CardName": "アナグマ・コスケ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "遊精",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／3"
+  ],
+  "Text": "［Lv2］『このスピリットのアタック時』系統：「遊精」を持つ自分のスピリット1体につき、このスピリットをBP+1000する。"
+}

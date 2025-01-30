@@ -1,1 +1,17 @@
-﻿{'CardNo': 'SD34-014', 'PackNo': 'SD34', 'CardName': 'デスシュート', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリット/アルティメットのコア1個を相手のリザーブに置く。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、かわりに、疲労状態のコスト5以下の相手のスピリット/アルティメット1体を破壊する。'}
+﻿{
+  "CardNo": "SD34-014",
+  "PackNo": "SD34",
+  "CardName": "デスシュート",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手のスピリット/アルティメットのコア1個を相手のリザーブに置く。コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、かわりに、疲労状態のコスト5以下の相手のスピリット/アルティメット1体を破壊する。"
+}

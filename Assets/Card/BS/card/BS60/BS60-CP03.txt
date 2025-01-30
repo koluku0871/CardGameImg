@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS60-CP03', 'PackNo': 'BS60', 'CardName': 'ブリザードウォール', 'CardRarity': 'CP', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_white.png"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『自分のアタックステップ』このミラージュをゲームから除外することで、このバトルの間、本来のコストが7以上の自分のスピリット1体はブロックされない。 ［フラッシュ］このターンの間、自分のライフは、ブロックされなかった相手のスピリットのアタックでは、1しか減らない。'}
+﻿{
+  "CardNo": "BS60-CP03",
+  "PackNo": "BS60",
+  "CardName": "ブリザードウォール",
+  "CardRarity": "CP",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『自分のアタックステップ』このミラージュをゲームから除外することで、このバトルの間、本来のコストが7以上の自分のスピリット1体はブロックされない。 ［フラッシュ］このターンの間、自分のライフは、ブロックされなかった相手のスピリットのアタックでは、1しか減らない。"
+}

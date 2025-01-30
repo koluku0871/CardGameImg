@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS16-049', 'PackNo': 'BS16', 'CardName': 'フンババー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '雄将・異合', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／4'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』相手の手札1枚につき、このスピリットをBP+1000する。'}
+﻿{
+  "CardNo": "BS16-049",
+  "PackNo": "BS16",
+  "CardName": "フンババー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "雄将・異合",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック時』相手の手札1枚につき、このスピリットをBP+1000する。"
+}

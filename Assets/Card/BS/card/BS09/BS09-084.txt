@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS09-084', 'PackNo': 'BS09', 'CardName': 'ドラゴニックハウル', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '6', 'ReducedCost': ['青', '青', '青'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のデッキを上から1枚破棄する。破棄されたカードと同じコストの相手のスピリットすべてを破壊する。'}
+﻿{
+  "CardNo": "BS09-084",
+  "PackNo": "BS09",
+  "CardName": "ドラゴニックハウル",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "6",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分のデッキを上から1枚破棄する。破棄されたカードと同じコストの相手のスピリットすべてを破壊する。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS52-031', 'PackNo': 'BS52', 'CardName': '盾甲機レイド・キャバリアー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '起幻・武装', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている間か、自分のカウント2以上の間、系統：「起幻」を持つ自分の白のスピリットすべては、相手の効果で破壊されたとき、同じ状態でフィールドに残ることができる。 ［Lv2-Lv3］自分の効果でボイドからコアが増えるとき、コアを増やすかわりに、自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS52-031",
+  "PackNo": "BS52",
+  "CardName": "盾甲機レイド・キャバリアー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "起幻・武装",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている間か、自分のカウント2以上の間、系統：「起幻」を持つ自分の白のスピリットすべては、相手の効果で破壊されたとき、同じ状態でフィールドに残ることができる。 ［Lv2-Lv3］自分の効果でボイドからコアが増えるとき、コアを増やすかわりに、自分はデッキから1枚ドローする。"
+}

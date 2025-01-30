@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS37-010', 'PackNo': 'BS37', 'CardName': '庚獣ゴールデン・アクセル・タイガー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤', '白', '白'], 'CardType': '十冠・皇獣・機獣', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／3'], 'Text': '［フラッシュ］【アクセル】コスト4<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_white.png"/>（この効果は手札から使用できる）BP5000以下の相手のスピリット1体を破壊できる。そうしたとき、系統：「神皇」/「十冠」を持つ自分のスピリット1体を回復させる。この効果発揮後、このカードはオープンして手元に置く。 【合体時】［Lv2］『このスピリットのアタック/ブロック時』BP10000以下の相手のスピリット1体を破壊することで、ターンに1回、このスピリットは回復する。'}
+﻿{
+  "CardNo": "BS37-010",
+  "PackNo": "BS37",
+  "CardName": "庚獣ゴールデン・アクセル・タイガー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "白",
+    "白"
+  ],
+  "CardType": "十冠・皇獣・機獣",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／3"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト4<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（この効果は手札から使用できる）BP5000以下の相手のスピリット1体を破壊できる。そうしたとき、系統：「神皇」/「十冠」を持つ自分のスピリット1体を回復させる。この効果発揮後、このカードはオープンして手元に置く。 【合体時】［Lv2］『このスピリットのアタック/ブロック時』BP10000以下の相手のスピリット1体を破壊することで、ターンに1回、このスピリットは回復する。"
+}

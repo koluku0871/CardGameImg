@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS07-068', 'PackNo': 'BS07', 'CardName': 'フェラールスラッシュ', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]BP2000以下の相手のスピリットすべてを破壊する。 [フラッシュ]このターンの間、カード名に「勇者」と入っている自分のスピリット1体をBP+5000する。'}
+﻿{
+  "CardNo": "BS07-068",
+  "PackNo": "BS07",
+  "CardName": "フェラールスラッシュ",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]BP2000以下の相手のスピリットすべてを破壊する。 [フラッシュ]このターンの間、カード名に「勇者」と入っている自分のスピリット1体をBP+5000する。"
+}

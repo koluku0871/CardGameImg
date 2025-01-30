@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS31-098', 'PackNo': 'BS31', 'CardName': '火炎烈破斬', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手の合体しているブレイヴ1つを破壊する。この効果発揮後、コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、BP7000以下の相手のスピリット/アルティメット1体を破壊する。'}
+﻿{
+  "CardNo": "BS31-098",
+  "PackNo": "BS31",
+  "CardName": "火炎烈破斬",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手の合体しているブレイヴ1つを破壊する。この効果発揮後、コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、BP7000以下の相手のスピリット/アルティメット1体を破壊する。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS30-078', 'PackNo': 'BS30', 'CardName': 'フュージブラスト', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のネクサス1つをデッキの上に戻す。または、相手の合体スピリット/合体アルティメットのブレイヴ1つをデッキの上に戻す。'}
+﻿{
+  "CardNo": "BS30-078",
+  "PackNo": "BS30",
+  "CardName": "フュージブラスト",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手のネクサス1つをデッキの上に戻す。または、相手の合体スピリット/合体アルティメットのブレイヴ1つをデッキの上に戻す。"
+}

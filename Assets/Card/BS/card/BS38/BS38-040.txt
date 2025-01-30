@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS38-040', 'PackNo': 'BS38', 'CardName': 'ツチブタギア', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '爆蒼', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 8000／6'], 'Text': '［Lv1-Lv2-Lv3］『自分のアタックステップ』自分の「相手へのデッキ破棄効果」の枚数を+1枚する。'}
+﻿{
+  "CardNo": "BS38-040",
+  "PackNo": "BS38",
+  "CardName": "ツチブタギア",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "爆蒼",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 8000／6"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『自分のアタックステップ』自分の「相手へのデッキ破棄効果」の枚数を+1枚する。"
+}

@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS27-017', 'PackNo': 'BS27', 'CardName': 'マングースソード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': ['緑'], 'CardType': '剣獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』自分のＵトリガーがガードされたとき、相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "BS27-017",
+  "PackNo": "BS27",
+  "CardName": "マングースソード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "1",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "剣獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］『自分のアタックステップ』自分のＵトリガーがガードされたとき、相手のスピリット1体を疲労させる。"
+}

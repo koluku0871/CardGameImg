@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC23-035', 'PackNo': 'BSC23', 'CardName': '戦国姫 謡', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '詩姫・戦姫・楽族', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '【チーム：百華繚乱】［Lv1-Lv2］『このスピリットのアタック時』系統：「戦姫」を持つ自分のスピリット2体につき、自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BSC23-035",
+  "PackNo": "BSC23",
+  "CardName": "戦国姫 謡",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "詩姫・戦姫・楽族",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "【チーム：百華繚乱】［Lv1-Lv2］『このスピリットのアタック時』系統：「戦姫」を持つ自分のスピリット2体につき、自分はデッキから1枚ドローする。"
+}

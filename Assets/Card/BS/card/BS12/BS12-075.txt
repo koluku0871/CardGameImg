@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS12-075', 'PackNo': 'BS12', 'CardName': 'ボオーテスコール', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]召喚コストの支払いと上に置くコアをリザーブから使用することで、自分のトラッシュにある【不死】を持つスピリットカード1枚を召喚する。'}
+﻿{
+  "CardNo": "BS12-075",
+  "PackNo": "BS12",
+  "CardName": "ボオーテスコール",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]召喚コストの支払いと上に置くコアをリザーブから使用することで、自分のトラッシュにある【不死】を持つスピリットカード1枚を召喚する。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS25-029', 'PackNo': 'BS25', 'CardName': 'スタードライアン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '青'], 'CardType': '新生', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／3'], 'Text': '[Lv1]このスピリットの色とシンボルは青としても扱う。 [Lv2-Lv3]このスピリットの色とシンボルは赤としても扱う。'}
+﻿{
+  "CardNo": "BS25-029",
+  "PackNo": "BS25",
+  "CardName": "スタードライアン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "青"
+  ],
+  "CardType": "新生",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／3"
+  ],
+  "Text": "[Lv1]このスピリットの色とシンボルは青としても扱う。 [Lv2-Lv3]このスピリットの色とシンボルは赤としても扱う。"
+}

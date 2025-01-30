@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS13-078', 'PackNo': 'BS13', 'CardName': 'ネバーギブアップ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]このターンの間、自分のスピリット1体に“自分のスピリットが、BPを比べ相手のスピリットだけを破壊したとき、このスピリットは回復する”という効果を与える。'}
+﻿{
+  "CardNo": "BS13-078",
+  "PackNo": "BS13",
+  "CardName": "ネバーギブアップ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]このターンの間、自分のスピリット1体に“自分のスピリットが、BPを比べ相手のスピリットだけを破壊したとき、このスピリットは回復する”という効果を与える。"
+}

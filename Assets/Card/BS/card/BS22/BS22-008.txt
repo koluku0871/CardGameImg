@@ -1,1 +1,23 @@
-﻿{'CardNo': 'BS22-008', 'PackNo': 'BS22', 'CardName': 'グレートアトラクター・ドラゴン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '8', 'ReducedCost': ['赤', '赤', '赤', '赤', '赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 6000／1', 'LV2 : 9000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』BP5000以下の相手のスピリット3体を破壊する。'}
+﻿{
+  "CardNo": "BS22-008",
+  "PackNo": "BS22",
+  "CardName": "グレートアトラクター・ドラゴン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "8",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "星竜",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 9000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』BP5000以下の相手のスピリット3体を破壊する。"
+}

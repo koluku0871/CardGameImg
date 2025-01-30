@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS34-CP05', 'PackNo': 'BS34', 'CardName': '月下の起導士ミオ', 'CardRarity': 'CP', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '起導者・戦姫', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 7000／4'], 'Text': '［Lv1-Lv2-Lv3］【起導：黄】『このスピリットの召喚時』召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、自分の黄のＳバースト1つをただちに発動させる。そのバースト発動後、自分はデッキから1枚ドローする。 ［Lv2-Lv3］『このスピリットのバトル時』自分の手札にあるバースト効果を持つカード1枚をセットできる。'}
+﻿{
+  "CardNo": "BS34-CP05",
+  "PackNo": "BS34",
+  "CardName": "月下の起導士ミオ",
+  "CardRarity": "CP",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "起導者・戦姫",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 7000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］【起導：黄】『このスピリットの召喚時』召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、自分の黄のＳバースト1つをただちに発動させる。そのバースト発動後、自分はデッキから1枚ドローする。 ［Lv2-Lv3］『このスピリットのバトル時』自分の手札にあるバースト効果を持つカード1枚をセットできる。"
+}

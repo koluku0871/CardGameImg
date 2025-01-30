@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS36-072', 'PackNo': 'BS36', 'CardName': 'フレイムバリケード', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP3000以下の相手のスピリットすべてを破壊する。《封印時》さらに、このバトルの間、系統：「神皇」/「十冠」を持つ自分のスピリット1体はBP比べでは破壊されない。'}
+﻿{
+  "CardNo": "BS36-072",
+  "PackNo": "BS36",
+  "CardName": "フレイムバリケード",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］BP3000以下の相手のスピリットすべてを破壊する。《封印時》さらに、このバトルの間、系統：「神皇」/「十冠」を持つ自分のスピリット1体はBP比べでは破壊されない。"
+}

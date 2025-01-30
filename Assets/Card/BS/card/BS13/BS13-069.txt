@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS13-069', 'PackNo': 'BS13', 'CardName': '星空のコンサートホール', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］『相手のメインステップ』相手がネクサスを配置するとき、軽減シンボルによるコストの軽減はできない。 ［Lv2］自分の合体スピリットすべてはコスト2としても扱う。'}
+﻿{
+  "CardNo": "BS13-069",
+  "PackNo": "BS13",
+  "CardName": "星空のコンサートホール",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『相手のメインステップ』相手がネクサスを配置するとき、軽減シンボルによるコストの軽減はできない。 ［Lv2］自分の合体スピリットすべてはコスト2としても扱う。"
+}

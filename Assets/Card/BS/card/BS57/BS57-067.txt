@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS57-067', 'PackNo': 'BS57', 'CardName': 'マシンミラージュ', 'CardRarity': 'R', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': ['LV2 : -／-'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_white.png"/>（このカードは手札からセットできる）］【セット中】『自分のエンドステップ』自分のデッキを上から2枚オープンできる。このミラージュを手札に戻すことで、その中のミラージュ効果を持つ白のカード1枚を、コストを支払わずにセットする。残ったカードはデッキの下に戻す。［Lv1］『相手のアタックステップ開始時』自分の手札にあるミラージュ効果を持つスピリットカード1枚を、コストを支払わずにセットできる。この効果はターンに1回しか使えない。'}
+﻿{
+  "CardNo": "BS57-067",
+  "PackNo": "BS57",
+  "CardName": "マシンミラージュ",
+  "CardRarity": "R",
+  "CardCategory": "ネクサス",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／-"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（このカードは手札からセットできる）］【セット中】『自分のエンドステップ』自分のデッキを上から2枚オープンできる。このミラージュを手札に戻すことで、その中のミラージュ効果を持つ白のカード1枚を、コストを支払わずにセットする。残ったカードはデッキの下に戻す。［Lv1］『相手のアタックステップ開始時』自分の手札にあるミラージュ効果を持つスピリットカード1枚を、コストを支払わずにセットできる。この効果はターンに1回しか使えない。"
+}

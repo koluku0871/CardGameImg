@@ -1,1 +1,22 @@
-﻿{'CardNo': 'CB17-042', 'PackNo': 'CB17', 'CardName': '仮面ライダーオルトロスバルカン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑\n紫', 'Cost': '8', 'ReducedCost': ['緑', '緑', '緑', '緑'], 'CardType': '仮面', 'Lv': ['LV1 : 8000／1', 'LV2 : 12000／3', 'LV3 : 14000／5'], 'Text': '［フラッシュ］《煌臨：仮面＆「バルカン」/「亡」》『お互いのアタックステップ』自分の<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。［Lv1-Lv2-Lv3］『このスピリットの煌臨時』相手のスピリットすべてを疲労させる。その後、疲労状態の相手のスピリットのコア3個をリザーブに置く。 ［Lv2-Lv3］『このスピリットのアタック時』このスピリットをBP+10000する。バトル終了時、相手のライフの<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア1個をボイドに置き、このスピリットを破壊する。'}
+﻿{
+  "CardNo": "CB17-042",
+  "PackNo": "CB17",
+  "CardName": "仮面ライダーオルトロスバルカン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑\n紫",
+  "Cost": "8",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "仮面",
+  "Lv": [
+    "LV1 : 8000／1",
+    "LV2 : 12000／3",
+    "LV3 : 14000／5"
+  ],
+  "Text": "［フラッシュ］《煌臨：仮面＆「バルカン」/「亡」》『お互いのアタックステップ』自分の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。［Lv1-Lv2-Lv3］『このスピリットの煌臨時』相手のスピリットすべてを疲労させる。その後、疲労状態の相手のスピリットのコア3個をリザーブに置く。 ［Lv2-Lv3］『このスピリットのアタック時』このスピリットをBP+10000する。バトル終了時、相手のライフの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア1個をボイドに置き、このスピリットを破壊する。"
+}

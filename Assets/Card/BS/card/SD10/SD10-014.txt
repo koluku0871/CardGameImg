@@ -1,1 +1,15 @@
-﻿{'CardNo': 'SD10-014', 'PackNo': 'SD10', 'CardName': 'ツインフレイム', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP2000以下の相手のスピリット2体を破壊する。'}
+﻿{
+  "CardNo": "SD10-014",
+  "PackNo": "SD10",
+  "CardName": "ツインフレイム",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］BP2000以下の相手のスピリット2体を破壊する。"
+}

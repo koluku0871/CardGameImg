@@ -1,1 +1,23 @@
-﻿{'CardNo': 'BS31-035', 'PackNo': 'BS31', 'CardName': 'エルダームース', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '6', 'ReducedCost': ['緑', '緑', '緑', '緑', '緑', '緑'], 'CardType': '遊精', 'Lv': ['LV1 : 13000／1', 'LV2 : 20000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS31-035",
+  "PackNo": "BS31",
+  "CardName": "エルダームース",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "6",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑",
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "遊精",
+  "Lv": [
+    "LV1 : 13000／1",
+    "LV2 : 20000／3"
+  ],
+  "Text": "-"
+}

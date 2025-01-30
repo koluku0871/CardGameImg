@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS06-073', 'PackNo': 'BS06', 'CardName': '灼熱の谷', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］『自分のドローステップ』ドローの枚数を+1枚する。ドロー後、手札1枚を破棄する。 ［Lv2］『自分のアタックステップ』自分のスピリットすべてをBP+1000する。'}
+﻿{
+  "CardNo": "BS06-073",
+  "PackNo": "BS06",
+  "CardName": "灼熱の谷",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『自分のドローステップ』ドローの枚数を+1枚する。ドロー後、手札1枚を破棄する。 ［Lv2］『自分のアタックステップ』自分のスピリットすべてをBP+1000する。"
+}

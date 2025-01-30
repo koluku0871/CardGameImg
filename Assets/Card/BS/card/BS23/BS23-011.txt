@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS23-011', 'PackNo': 'BS23', 'CardName': 'アメジスネーク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／4'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。 ［Lv2］【強化】自分の「コア除去効果」でリザーブに置くコアを+1個する。'}
+﻿{
+  "CardNo": "BS23-011",
+  "PackNo": "BS23",
+  "CardName": "アメジスネーク",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／4"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。 ［Lv2］【強化】自分の「コア除去効果」でリザーブに置くコアを+1個する。"
+}

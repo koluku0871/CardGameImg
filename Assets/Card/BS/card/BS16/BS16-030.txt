@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS16-030', 'PackNo': 'BS16', 'CardName': 'セリザワンド・ダック', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '雄将・機獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '［Lv1-Lv2］『このスピリットの破壊時』相手のスピリット1体を手札に戻す。'}
+﻿{
+  "CardNo": "BS16-030",
+  "PackNo": "BS16",
+  "CardName": "セリザワンド・ダック",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "雄将・機獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの破壊時』相手のスピリット1体を手札に戻す。"
+}

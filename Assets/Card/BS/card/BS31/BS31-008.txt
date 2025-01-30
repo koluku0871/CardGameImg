@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS31-008', 'PackNo': 'BS31', 'CardName': 'サムライ・ドラゴン', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '武竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／2', 'LV3 : 8000／4'], 'Text': '［Lv1-Lv2-Lv3：フラッシュ］【覚醒】自分のスピリットのコアを、好きなだけこのスピリットに置くことができる。 ［Lv2-Lv3］『お互いのアタックステップ』【覚醒】でこのスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれたとき、ターンに1回、このスピリットは回復し、このターンの間、このスピリットをBP+5000する。'}
+﻿{
+  "CardNo": "BS31-008",
+  "PackNo": "BS31",
+  "CardName": "サムライ・ドラゴン",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "武竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／2",
+    "LV3 : 8000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3：フラッシュ］【覚醒】自分のスピリットのコアを、好きなだけこのスピリットに置くことができる。 ［Lv2-Lv3］『お互いのアタックステップ』【覚醒】でこのスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれたとき、ターンに1回、このスピリットは回復し、このターンの間、このスピリットをBP+5000する。"
+}

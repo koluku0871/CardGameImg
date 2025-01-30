@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS35-025', 'PackNo': 'BS35', 'CardName': '丁騎士シュバリエ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '十冠・爪鳥', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』BP5000以下の相手のスピリット1体を疲労させる。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、かわりに、ボイドからコア1個をこのスピリットに置く。'}
+﻿{
+  "CardNo": "BS35-025",
+  "PackNo": "BS35",
+  "CardName": "丁騎士シュバリエ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "十冠・爪鳥",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』BP5000以下の相手のスピリット1体を疲労させる。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、かわりに、ボイドからコア1個をこのスピリットに置く。"
+}

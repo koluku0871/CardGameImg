@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS10-068', 'PackNo': 'BS10', 'CardName': 'ビーム・ビートル', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '紫'], 'CardType': '殻虫', 'Lv': ['LV1 : 2000／1', 'brave : +2000／'], 'Text': '《合体条件：コスト4以上》 《合体時》『このスピリットの合体アタック時』相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "BS10-068",
+  "PackNo": "BS10",
+  "CardName": "ビーム・ビートル",
+  "CardRarity": "C",
+  "CardCategory": "ブレイヴ",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "紫"
+  ],
+  "CardType": "殻虫",
+  "Lv": [
+    "LV1 : 2000／1",
+    "brave : +2000／"
+  ],
+  "Text": "《合体条件：コスト4以上》 《合体時》『このスピリットの合体アタック時』相手のスピリット1体を疲労させる。"
+}

@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS70-054', 'PackNo': 'BS70', 'CardName': 'ハイエボ・オルトロス', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '原初・眷属・空創', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／2', 'LV3 : 10000／4'], 'Text': '［フラッシュ］《顕現：「契約神ウラノス」＆C3以上》『お互いのアタックステップ』自分の<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置くことで、対象から1コスト支払って手札から召喚する。［Lv1-Lv2-Lv3］『このスピリットの顕現/アタック時』このターンの間、相手のスピリット/アルティメット1体はアタック/ブロックできない。その後、自分の手札にあるバーストカード1枚をセットできる。 ［Lv2-Lv3］『自分のバースト発動後』〔重複不可〕自分のライフが3以下のとき、自分のトラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア1個をライフに置ける。'}
+﻿{
+  "CardNo": "BS70-054",
+  "PackNo": "BS70",
+  "CardName": "ハイエボ・オルトロス",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "原初・眷属・空創",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／2",
+    "LV3 : 10000／4"
+  ],
+  "Text": "［フラッシュ］《顕現：「契約神ウラノス」＆C3以上》『お互いのアタックステップ』自分の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、対象から1コスト支払って手札から召喚する。［Lv1-Lv2-Lv3］『このスピリットの顕現/アタック時』このターンの間、相手のスピリット/アルティメット1体はアタック/ブロックできない。その後、自分の手札にあるバーストカード1枚をセットできる。 ［Lv2-Lv3］『自分のバースト発動後』〔重複不可〕自分のライフが3以下のとき、自分のトラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア1個をライフに置ける。"
+}

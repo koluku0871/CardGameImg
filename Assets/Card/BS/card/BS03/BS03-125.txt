@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS03-125', 'PackNo': 'BS03', 'CardName': 'ウィークネス', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]スピリット1体の上に置いてあるコア1個だけを残し、それ以外を持ち主のリザーブに置く。 [フラッシュ]このターンの間、スピリット1体をBP+3000する'}
+﻿{
+  "CardNo": "BS03-125",
+  "PackNo": "BS03",
+  "CardName": "ウィークネス",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]スピリット1体の上に置いてあるコア1個だけを残し、それ以外を持ち主のリザーブに置く。 [フラッシュ]このターンの間、スピリット1体をBP+3000する"
+}

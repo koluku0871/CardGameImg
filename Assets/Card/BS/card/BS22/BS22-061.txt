@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS22-061', 'PackNo': 'BS22', 'CardName': '近衛機ホルノート1号', 'CardRarity': 'C', 'CardCategory': 'ブレイヴ', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 4000／1', 'brave : +4000／'], 'Text': '《合体条件：コスト4以上》 《合体時》自分の手札は相手の効果を受けない。'}
+﻿{
+  "CardNo": "BS22-061",
+  "PackNo": "BS22",
+  "CardName": "近衛機ホルノート1号",
+  "CardRarity": "C",
+  "CardCategory": "ブレイヴ",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "武装",
+  "Lv": [
+    "LV1 : 4000／1",
+    "brave : +4000／"
+  ],
+  "Text": "《合体条件：コスト4以上》 《合体時》自分の手札は相手の効果を受けない。"
+}

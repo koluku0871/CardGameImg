@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS04-094', 'PackNo': 'BS04', 'CardName': 'ダンスマカブル', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分の手札を好きなだけ破棄する。相手のスピリット1体の上から、その破棄したカード1枚につき、コア1個を相手のトラッシュに置く。'}
+﻿{
+  "CardNo": "BS04-094",
+  "PackNo": "BS04",
+  "CardName": "ダンスマカブル",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分の手札を好きなだけ破棄する。相手のスピリット1体の上から、その破棄したカード1枚につき、コア1個を相手のトラッシュに置く。"
+}

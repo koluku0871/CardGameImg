@@ -1,1 +1,17 @@
-﻿{'CardNo': 'SD66-RV005', 'PackNo': 'SD66', 'CardName': 'セブンスクリムゾン', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '7', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '緋炎', 'Lv': [], 'Text': '自分のライフが3以下の間、手札にあるこのカードをコスト4にする。 ［フラッシュ］BP17000以下の相手のスピリット/アルティメット1体を破壊する。その後、BP7000以上の自分のスピリット1体の<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコアすべて（最低1個以上）をボイドに置ける。そうしたとき、相手のスピリット/アルティメットのコア7個までをリザーブに置く。'}
+﻿{
+  "CardNo": "SD66-RV005",
+  "PackNo": "SD66",
+  "CardName": "セブンスクリムゾン",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "7",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "緋炎",
+  "Lv": [],
+  "Text": "自分のライフが3以下の間、手札にあるこのカードをコスト4にする。 ［フラッシュ］BP17000以下の相手のスピリット/アルティメット1体を破壊する。その後、BP7000以上の自分のスピリット1体の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコアすべて（最低1個以上）をボイドに置ける。そうしたとき、相手のスピリット/アルティメットのコア7個までをリザーブに置く。"
+}

@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS25-074', 'PackNo': 'BS25', 'CardName': 'ブレイヴクリメイション', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]疲労状態の相手の合体スピリット1体を破壊する。その後、相手がその合体スピリットのブレイヴをフィールドに残したとき、自分はデッキから2枚ドローする。'}
+﻿{
+  "CardNo": "BS25-074",
+  "PackNo": "BS25",
+  "CardName": "ブレイヴクリメイション",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]疲労状態の相手の合体スピリット1体を破壊する。その後、相手がその合体スピリットのブレイヴをフィールドに残したとき、自分はデッキから2枚ドローする。"
+}

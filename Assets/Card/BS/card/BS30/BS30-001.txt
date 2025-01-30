@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS30-001', 'PackNo': 'BS30', 'CardName': '生還者リューマン・ファルコ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', 'ico_ultimate.png'], 'CardType': '護将・竜人', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '［Lv1-Lv2］お互いのデッキは破棄されず、このスピリットは相手の効果で破壊されない。 ［Lv2］【スピリットソウル：赤】自分がアルティメットカードを召喚するとき、このスピリットに<img src="/renewal/images/cardlist/ico_red.png"/>（赤のシンボル1つ）を追加する。'}
+﻿{
+  "CardNo": "BS30-001",
+  "PackNo": "BS30",
+  "CardName": "生還者リューマン・ファルコ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "ico_ultimate.png"
+  ],
+  "CardType": "護将・竜人",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "［Lv1-Lv2］お互いのデッキは破棄されず、このスピリットは相手の効果で破壊されない。 ［Lv2］【スピリットソウル：赤】自分がアルティメットカードを召喚するとき、このスピリットに<img src=\"/renewal/images/cardlist/ico_red.png\"/>（赤のシンボル1つ）を追加する。"
+}

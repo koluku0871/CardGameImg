@@ -1,1 +1,20 @@
-﻿{'CardNo': 'CB29-022', 'PackNo': 'CB29', 'CardName': 'ガンダム・エアリアル[ビットオンフォーム]', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '学園', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／2', 'OC : 4000／1＋'], 'Text': '［フラッシュ］《契約煌臨：学園》『お互いのアタックステップ』自分の<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。［Lv1-Lv2］『このスピリットのアタック時』このスピリットはLv1の相手のスピリットからブロックされない。 《OC条件：カウント1以上》【OC中＆煌臨中】［Lv1-Lv2］自分の手札にある系統：「学園」を持つカードすべては、“［フラッシュ］自分はデッキの下から1枚ドローする”を持つコスト3<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>のマジックカードとして使用できる。'}
+﻿{
+  "CardNo": "CB29-022",
+  "PackNo": "CB29",
+  "CardName": "ガンダム・エアリアル[ビットオンフォーム]",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "学園",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／2",
+    "OC : 4000／1＋"
+  ],
+  "Text": "［フラッシュ］《契約煌臨：学園》『お互いのアタックステップ』自分の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。［Lv1-Lv2］『このスピリットのアタック時』このスピリットはLv1の相手のスピリットからブロックされない。 《OC条件：カウント1以上》【OC中＆煌臨中】［Lv1-Lv2］自分の手札にある系統：「学園」を持つカードすべては、“［フラッシュ］自分はデッキの下から1枚ドローする”を持つコスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>のマジックカードとして使用できる。"
+}

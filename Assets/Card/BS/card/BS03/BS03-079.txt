@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS03-079', 'PackNo': 'BS03', 'CardName': '作戦参謀フォクシン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '獣頭', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／4'], 'Text': '[Lv1-Lv2]お互い、ターンに1回しかマジックの効果を使用できない。'}
+﻿{
+  "CardNo": "BS03-079",
+  "PackNo": "BS03",
+  "CardName": "作戦参謀フォクシン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／4"
+  ],
+  "Text": "[Lv1-Lv2]お互い、ターンに1回しかマジックの効果を使用できない。"
+}

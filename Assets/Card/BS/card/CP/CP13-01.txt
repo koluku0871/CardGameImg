@@ -1,1 +1,17 @@
-﻿{'CardNo': 'CP13-01', 'PackNo': 'CP', 'CardName': 'ミニーズ特攻隊', 'CardRarity': 'CP', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '爬獣・星竜・翼竜', 'Lv': ['LV1 : 1000／1'], 'Text': '[ミニーズ特攻隊]はデッキに何枚でも入れることができる。［Lv1］【強化】自分の「BP破壊効果」の上限を+1000する。［Lv1］自分の[ミニーズ特攻隊]1体につき、このスピリットをBP+1000する。'}
+﻿{
+  "CardNo": "CP13-01",
+  "PackNo": "CP",
+  "CardName": "ミニーズ特攻隊",
+  "CardRarity": "CP",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "爬獣・星竜・翼竜",
+  "Lv": [
+    "LV1 : 1000／1"
+  ],
+  "Text": "[ミニーズ特攻隊]はデッキに何枚でも入れることができる。［Lv1］【強化】自分の「BP破壊効果」の上限を+1000する。［Lv1］自分の[ミニーズ特攻隊]1体につき、このスピリットをBP+1000する。"
+}

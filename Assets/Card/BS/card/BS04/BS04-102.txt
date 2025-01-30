@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS04-102', 'PackNo': 'BS04', 'CardName': 'ドリームハンド', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］コスト1以下のスピリットすべてを持ち主の手札に戻す。'}
+﻿{
+  "CardNo": "BS04-102",
+  "PackNo": "BS04",
+  "CardName": "ドリームハンド",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］コスト1以下のスピリットすべてを持ち主の手札に戻す。"
+}

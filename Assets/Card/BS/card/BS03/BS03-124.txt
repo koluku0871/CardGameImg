@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS03-124', 'PackNo': 'BS03', 'CardName': 'ポイズンミスト', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]自分のリザーブにあるコアを好きなだけ自分のトラッシュに置くことで、同じ数だけ相手のリザーブにあるコアを、相手のトラッシュに置く。'}
+﻿{
+  "CardNo": "BS03-124",
+  "PackNo": "BS03",
+  "CardName": "ポイズンミスト",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]自分のリザーブにあるコアを好きなだけ自分のトラッシュに置くことで、同じ数だけ相手のリザーブにあるコアを、相手のトラッシュに置く。"
+}

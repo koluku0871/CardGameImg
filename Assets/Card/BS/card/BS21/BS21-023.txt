@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS21-023', 'PackNo': 'BS21', 'CardName': 'マンドラホラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '樹魔', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／4'], 'Text': '［Lv2］『自分のアタックステップ』系統：「想獣」を持つ自分のスピリットがアタックしたとき、ボイドからコア1個をそのスピリットに置く。'}
+﻿{
+  "CardNo": "BS21-023",
+  "PackNo": "BS21",
+  "CardName": "マンドラホラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "樹魔",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／4"
+  ],
+  "Text": "［Lv2］『自分のアタックステップ』系統：「想獣」を持つ自分のスピリットがアタックしたとき、ボイドからコア1個をそのスピリットに置く。"
+}

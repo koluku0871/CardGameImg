@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS15-081', 'PackNo': 'BS15', 'CardName': 'ローヤルバイブル', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］コスト2の自分のスピリットすべてを回復させる。'}
+﻿{
+  "CardNo": "BS15-081",
+  "PackNo": "BS15",
+  "CardName": "ローヤルバイブル",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］コスト2の自分のスピリットすべてを回復させる。"
+}

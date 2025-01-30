@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS10-031', 'PackNo': 'BS10', 'CardName': 'ジャンガリー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '1', 'ReducedCost': [], 'CardType': '機獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 5000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS10-031",
+  "PackNo": "BS10",
+  "CardName": "ジャンガリー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "機獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "-"
+}

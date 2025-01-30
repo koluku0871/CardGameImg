@@ -1,1 +1,24 @@
-﻿{'CardNo': 'CB09-XX01', 'PackNo': 'CB09', 'CardName': '仮面ライダー鎧武 極アームズ', 'CardRarity': 'XX', 'CardCategory': 'スピリット', 'Element': '赤\n紫\n緑\n白\n黄\n青', 'Cost': '10', 'ReducedCost': ['黄', '黄', '黄', '黄', '黄', '黄'], 'CardType': '仮面・主君', 'Lv': ['LV1 : 12000／1', 'LV2 : 15000／3', 'LV3 : 20000／5'], 'Text': 'このカードの【チェンジ】の軽減シンボルは赤/紫/緑/白/青としても扱う。［フラッシュ］【チェンジ】コスト7<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（この効果は手札から使用できる）Lv1/Lv2/Lv3の相手のスピリット1体ずつをデッキの下に戻す。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以上の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。本来のコストが7のスピリットと入れ替わっていたとき、自分のアタックステップなら、相手のライフのコア1個を相手のリザーブに置く。 ［Lv2-Lv3］『このスピリットのアタック/ブロック時』2コスト支払うことで、このスピリットは回復する。'}
+﻿{
+  "CardNo": "CB09-XX01",
+  "PackNo": "CB09",
+  "CardName": "仮面ライダー鎧武 極アームズ",
+  "CardRarity": "XX",
+  "CardCategory": "スピリット",
+  "Element": "赤\n紫\n緑\n白\n黄\n青",
+  "Cost": "10",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "仮面・主君",
+  "Lv": [
+    "LV1 : 12000／1",
+    "LV2 : 15000／3",
+    "LV3 : 20000／5"
+  ],
+  "Text": "このカードの【チェンジ】の軽減シンボルは赤/紫/緑/白/青としても扱う。［フラッシュ］【チェンジ】コスト7<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（この効果は手札から使用できる）Lv1/Lv2/Lv3の相手のスピリット1体ずつをデッキの下に戻す。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以上の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。本来のコストが7のスピリットと入れ替わっていたとき、自分のアタックステップなら、相手のライフのコア1個を相手のリザーブに置く。 ［Lv2-Lv3］『このスピリットのアタック/ブロック時』2コスト支払うことで、このスピリットは回復する。"
+}

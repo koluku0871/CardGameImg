@@ -1,1 +1,17 @@
-﻿{'CardNo': 'SD01-035', 'PackNo': 'SD01', 'CardName': 'サドンデスドロー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分はデッキから1枚ドローする。このターンの間、スピリット1体をBP+1000する。'}
+﻿{
+  "CardNo": "SD01-035",
+  "PackNo": "SD01",
+  "CardName": "サドンデスドロー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分はデッキから1枚ドローする。このターンの間、スピリット1体をBP+1000する。"
+}

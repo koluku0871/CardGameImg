@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS14-046', 'PackNo': 'BS14', 'CardName': 'パム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': ['黄'], 'CardType': '小玩', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS14-046",
+  "PackNo": "BS14",
+  "CardName": "パム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "小玩",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "-"
+}

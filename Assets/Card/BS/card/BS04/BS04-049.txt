@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS04-049', 'PackNo': 'BS04', 'CardName': '黒の妖精ティ・ターニャ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '楽族', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］自分のフィールドに黄のスピリットが3体以上いる間、自分のマジックカードすべてに軽減シンボル黄を与える。'}
+﻿{
+  "CardNo": "BS04-049",
+  "PackNo": "BS04",
+  "CardName": "黒の妖精ティ・ターニャ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "楽族",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］自分のフィールドに黄のスピリットが3体以上いる間、自分のマジックカードすべてに軽減シンボル黄を与える。"
+}

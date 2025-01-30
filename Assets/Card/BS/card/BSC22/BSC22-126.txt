@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC22-126', 'PackNo': 'BSC22', 'CardName': 'キラーテレスコープ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］このターンの間、自分のスピリットすべては疲労状態の相手のスピリット1体を指定してアタックできる。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、自分のスピリットすべてをBP+3000する。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。'}
+﻿{
+  "CardNo": "BSC22-126",
+  "PackNo": "BSC22",
+  "CardName": "キラーテレスコープ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］このターンの間、自分のスピリットすべては疲労状態の相手のスピリット1体を指定してアタックできる。コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、自分のスピリットすべてをBP+3000する。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。"
+}

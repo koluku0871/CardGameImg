@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC45-007', 'PackNo': 'BSC45', 'CardName': '恐竜人ティラノイドLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤', '全'], 'CardType': '緋炎・竜人・地竜', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／3', 'LV3 : 8000／6'], 'Text': '［フラッシュ］【アクセル】コスト5<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_all.png"/>（この効果は手札から使用できる）BP3000以下の相手のスピリット3体を破壊する。この効果発揮後、このカードは手元に置く。［Lv1-Lv2-Lv3］自分のスピリットが2体以下の間、このスピリットをLv3として扱う。 ［Lv2-Lv3］疲労状態のこのスピリットは、相手のスピリット/ブレイヴの効果を受けない。'}
+﻿{
+  "CardNo": "BSC45-007",
+  "PackNo": "BSC45",
+  "CardName": "恐竜人ティラノイドLT",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "全"
+  ],
+  "CardType": "緋炎・竜人・地竜",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／3",
+    "LV3 : 8000／6"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト5<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_all.png\"/>（この効果は手札から使用できる）BP3000以下の相手のスピリット3体を破壊する。この効果発揮後、このカードは手元に置く。［Lv1-Lv2-Lv3］自分のスピリットが2体以下の間、このスピリットをLv3として扱う。 ［Lv2-Lv3］疲労状態のこのスピリットは、相手のスピリット/ブレイヴの効果を受けない。"
+}

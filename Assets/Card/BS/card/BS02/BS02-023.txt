@@ -1,1 +1,23 @@
-﻿{'CardNo': 'BS02-023', 'PackNo': 'BS02', 'CardName': '双蛇ヒュドラム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '6', 'ReducedCost': ['紫', '紫', '紫', '紫', '紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 4000／1', 'LV2 : 5000／3', 'LV3 : 10000／6'], 'Text': '-'}
+﻿{
+  "CardNo": "BS02-023",
+  "PackNo": "BS02",
+  "CardName": "双蛇ヒュドラム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "6",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 5000／3",
+    "LV3 : 10000／6"
+  ],
+  "Text": "-"
+}

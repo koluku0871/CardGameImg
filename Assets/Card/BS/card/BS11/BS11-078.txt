@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS11-078', 'PackNo': 'BS11', 'CardName': 'ブレイヴフラッシュ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]自分のスピリット状態のブレイヴ1体を、自分のスピリット1体に合体させる。この効果は、ブロック宣言後のフラッシュタイミングで使えない。'}
+﻿{
+  "CardNo": "BS11-078",
+  "PackNo": "BS11",
+  "CardName": "ブレイヴフラッシュ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]自分のスピリット状態のブレイヴ1体を、自分のスピリット1体に合体させる。この効果は、ブロック宣言後のフラッシュタイミングで使えない。"
+}

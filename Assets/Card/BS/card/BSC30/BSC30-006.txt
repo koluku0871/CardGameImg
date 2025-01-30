@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC30-006', 'PackNo': 'BSC30', 'CardName': '魔界拳鬼ナム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '家臣・呪鬼', 'Lv': ['LV1 : 4000／1', 'LV2 : 5000／2', 'LV3 : 6000／4'], 'Text': '［フラッシュ］《煌臨：コスト2以上》『お互いのアタックステップ』自分の<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。［Lv1-Lv2-Lv3］『このスピリットの煌臨時』相手のスピリットのコア1個を相手のリザーブに置く。この効果発揮後、自分の手札にある紫のカード1枚を、<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置いたものとして、このスピリットに《煌臨》で重ねられる。'}
+﻿{
+  "CardNo": "BSC30-006",
+  "PackNo": "BSC30",
+  "CardName": "魔界拳鬼ナム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "家臣・呪鬼",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 5000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "［フラッシュ］《煌臨：コスト2以上》『お互いのアタックステップ』自分の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。［Lv1-Lv2-Lv3］『このスピリットの煌臨時』相手のスピリットのコア1個を相手のリザーブに置く。この効果発揮後、自分の手札にある紫のカード1枚を、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置いたものとして、このスピリットに《煌臨》で重ねられる。"
+}

@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS35-006', 'PackNo': 'BS35', 'CardName': '魂騎竜セイガ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '武竜・皇獣', 'Lv': ['LV1 : 9000／1', 'LV2 : 13000／3', 'LV3 : 15000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS35-006",
+  "PackNo": "BS35",
+  "CardName": "魂騎竜セイガ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "武竜・皇獣",
+  "Lv": [
+    "LV1 : 9000／1",
+    "LV2 : 13000／3",
+    "LV3 : 15000／4"
+  ],
+  "Text": "-"
+}

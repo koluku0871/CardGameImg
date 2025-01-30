@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS13-076', 'PackNo': 'BS13', 'CardName': 'アサシネイト', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]疲労状態の相手の合体スピリット1体を破壊する。または、疲労状態の相手のコスト3以下のスピリット2体を破壊する。'}
+﻿{
+  "CardNo": "BS13-076",
+  "PackNo": "BS13",
+  "CardName": "アサシネイト",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]疲労状態の相手の合体スピリット1体を破壊する。または、疲労状態の相手のコスト3以下のスピリット2体を破壊する。"
+}

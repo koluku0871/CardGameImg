@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS19-097', 'PackNo': 'BS19', 'CardName': 'チャージオーラ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、アタックしている自分のスピリットすべてをBP+1000する。さらに、アタックしている【強化】を持つ自分のスピリットすべてをBP+3000する。'}
+﻿{
+  "CardNo": "BS19-097",
+  "PackNo": "BS19",
+  "CardName": "チャージオーラ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、アタックしている自分のスピリットすべてをBP+1000する。さらに、アタックしている【強化】を持つ自分のスピリットすべてをBP+3000する。"
+}

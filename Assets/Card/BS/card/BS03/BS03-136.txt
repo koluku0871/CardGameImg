@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS03-136', 'PackNo': 'BS03', 'CardName': 'フォーカスライト', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]【光芒】を持つ自分のスピリット1体につき、自分はデッキから1枚ドローする。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。'}
+﻿{
+  "CardNo": "BS03-136",
+  "PackNo": "BS03",
+  "CardName": "フォーカスライト",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]【光芒】を持つ自分のスピリット1体につき、自分はデッキから1枚ドローする。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。"
+}

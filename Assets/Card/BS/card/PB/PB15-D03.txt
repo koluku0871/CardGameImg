@@ -1,1 +1,20 @@
-﻿{'CardNo': 'PB15-D03', 'PackNo': 'PB', 'CardName': '[ハロウィン・ヴァンパイア]ノア・フルール', 'CardRarity': 'PB', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄'], 'CardType': '詩姫・衣装', 'Lv': ['LV1 : 4000／1', 'LV2 : 5000／3', 'LV3 : 7000／4'], 'Text': '【チーム：シャイニーハーツ/トワイライトゴシック】［ミラージュ：コスト5<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』カード名に「フル－ル」を含むコスト6以上の自分のスピリットすべてはブロックされない。［Lv1-Lv2-Lv3］『このスピリットのアタック時』相手のスピリットのコア1個をリザーブに置く。自分のミラージュをセットしているとき、この効果でリザーブに置くコアを+1個する。'}
+﻿{
+  "CardNo": "PB15-D03",
+  "PackNo": "PB",
+  "CardName": "[ハロウィン・ヴァンパイア]ノア・フルール",
+  "CardRarity": "PB",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "詩姫・衣装",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 5000／3",
+    "LV3 : 7000／4"
+  ],
+  "Text": "【チーム：シャイニーハーツ/トワイライトゴシック】［ミラージュ：コスト5<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』カード名に「フル－ル」を含むコスト6以上の自分のスピリットすべてはブロックされない。［Lv1-Lv2-Lv3］『このスピリットのアタック時』相手のスピリットのコア1個をリザーブに置く。自分のミラージュをセットしているとき、この効果でリザーブに置くコアを+1個する。"
+}

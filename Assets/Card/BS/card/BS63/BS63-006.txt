@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS63-006', 'PackNo': 'BS63', 'CardName': 'マザーブレイドラ', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '緋炎・翼竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『お互いのアタックステップ』ターンに1回、自分のトラッシュにある系統：「緋炎」を持つカード1枚をゲームから除外することで、自分の手札にある系統：「緋炎」を持つコスト3以下のスピリットカード1枚を召喚する。［Lv1-Lv2］『このスピリットの召喚時』自分のトラッシュにある系統：「刃契約」を持つスピリットカード1枚を手札に戻す。'}
+﻿{
+  "CardNo": "BS63-006",
+  "PackNo": "BS63",
+  "CardName": "マザーブレイドラ",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "緋炎・翼竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『お互いのアタックステップ』ターンに1回、自分のトラッシュにある系統：「緋炎」を持つカード1枚をゲームから除外することで、自分の手札にある系統：「緋炎」を持つコスト3以下のスピリットカード1枚を召喚する。［Lv1-Lv2］『このスピリットの召喚時』自分のトラッシュにある系統：「刃契約」を持つスピリットカード1枚を手札に戻す。"
+}

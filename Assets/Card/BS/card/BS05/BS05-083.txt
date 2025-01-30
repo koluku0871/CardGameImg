@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS05-083', 'PackNo': 'BS05', 'CardName': 'マジックスパナ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］系統：「造兵」を持つ自分のスピリット1体のコアすべてをボイドに置く。相手のデッキを上から、そのスピリットのコストと同じ枚数破棄する。'}
+﻿{
+  "CardNo": "BS05-083",
+  "PackNo": "BS05",
+  "CardName": "マジックスパナ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］系統：「造兵」を持つ自分のスピリット1体のコアすべてをボイドに置く。相手のデッキを上から、そのスピリットのコストと同じ枚数破棄する。"
+}

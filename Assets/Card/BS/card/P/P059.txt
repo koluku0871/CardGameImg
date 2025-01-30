@@ -1,1 +1,21 @@
-﻿{'CardNo': 'P059', 'PackNo': 'P', 'CardName': '最強竜ゴールド・ジェイクス', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '古竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／3', 'LV3 : 8000／6'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットをBP+3000する。 ［Lv2-Lv3］『このスピリットのアタック時』BP3000以下の相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "P059",
+  "PackNo": "P",
+  "CardName": "最強竜ゴールド・ジェイクス",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "古竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／3",
+    "LV3 : 8000／6"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットをBP+3000する。 ［Lv2-Lv3］『このスピリットのアタック時』BP3000以下の相手のスピリット1体を破壊する。"
+}

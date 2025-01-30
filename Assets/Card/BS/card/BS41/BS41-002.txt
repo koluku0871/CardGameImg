@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS41-002', 'PackNo': 'BS41', 'CardName': '恐龍同盟 剣翼のプテロダーク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '空牙・地竜', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』このスピリットをBP+4000する。 ［Lv2］疲労状態のこのスピリットは、相手のスピリット/ブレイヴの効果を受けない。'}
+﻿{
+  "CardNo": "BS41-002",
+  "PackNo": "BS41",
+  "CardName": "恐龍同盟 剣翼のプテロダーク",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "空牙・地竜",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック時』このスピリットをBP+4000する。 ［Lv2］疲労状態のこのスピリットは、相手のスピリット/ブレイヴの効果を受けない。"
+}

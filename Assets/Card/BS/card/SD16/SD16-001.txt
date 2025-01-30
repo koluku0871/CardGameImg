@@ -1,1 +1,18 @@
-﻿{'CardNo': 'SD16-001', 'PackNo': 'SD16', 'CardName': '巨人小隊', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青'], 'CardType': '闘神', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／4'], 'Text': '[Lv1-Lv2］系統：「闘神」を持つ自分のスピリットが相手によって破壊されたとき、相手のデッキを上から2枚破棄する。'}
+﻿{
+  "CardNo": "SD16-001",
+  "PackNo": "SD16",
+  "CardName": "巨人小隊",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 4000／4"
+  ],
+  "Text": "[Lv1-Lv2］系統：「闘神」を持つ自分のスピリットが相手によって破壊されたとき、相手のデッキを上から2枚破棄する。"
+}

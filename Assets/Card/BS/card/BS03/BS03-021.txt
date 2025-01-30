@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS03-021', 'PackNo': 'BS03', 'CardName': '魔界伯爵ヴィール', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '6', 'ReducedCost': ['紫', '紫'], 'CardType': '呪鬼', 'Lv': ['LV1 : 4000／1', 'LV2 : 5000／3', 'LV3 : 8000／6'], 'Text': '[Lv3]『このスピリットのアタック時』BPを比べ相手のスピリットだけを破壊したとき、その破壊したスピリットと同じLvのスピリットすべてを疲労させる。'}
+﻿{
+  "CardNo": "BS03-021",
+  "PackNo": "BS03",
+  "CardName": "魔界伯爵ヴィール",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "6",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "呪鬼",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 5000／3",
+    "LV3 : 8000／6"
+  ],
+  "Text": "[Lv3]『このスピリットのアタック時』BPを比べ相手のスピリットだけを破壊したとき、その破壊したスピリットと同じLvのスピリットすべてを疲労させる。"
+}

@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BSC22-115', 'PackNo': 'BSC22', 'CardName': 'アウェイクン', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のリザーブのコア3個までを自分のスピリット1体に置き、デッキから1枚ドローする。この効果で自分のスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれたとき、このターンの間、そのスピリットをBP+5000する。'}
+﻿{
+  "CardNo": "BSC22-115",
+  "PackNo": "BSC22",
+  "CardName": "アウェイクン",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分のリザーブのコア3個までを自分のスピリット1体に置き、デッキから1枚ドローする。この効果で自分のスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれたとき、このターンの間、そのスピリットをBP+5000する。"
+}

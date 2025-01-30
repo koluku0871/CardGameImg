@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS01-057', 'PackNo': 'BS01', 'CardName': 'グラーバ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '怪虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '[Lv1-Lv2]このスピリット上に、スピリット/ネクサス/マジックの効果によってコアが置かれるとき、その数を+1個する'}
+﻿{
+  "CardNo": "BS01-057",
+  "PackNo": "BS01",
+  "CardName": "グラーバ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "怪虫",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "[Lv1-Lv2]このスピリット上に、スピリット/ネクサス/マジックの効果によってコアが置かれるとき、その数を+1個する"
+}

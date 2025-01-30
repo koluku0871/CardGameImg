@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC22-039', 'PackNo': 'BSC22', 'CardName': '怪人ディオネマン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '無魔', 'Lv': ['LV1 : 9000／1', 'LV2 : 13000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BSC22-039",
+  "PackNo": "BSC22",
+  "CardName": "怪人ディオネマン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "無魔",
+  "Lv": [
+    "LV1 : 9000／1",
+    "LV2 : 13000／2"
+  ],
+  "Text": "-"
+}

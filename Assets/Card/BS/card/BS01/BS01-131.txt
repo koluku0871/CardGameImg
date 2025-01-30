@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS01-131', 'PackNo': 'BS01', 'CardName': 'ダークコフィン', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '7', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[メイン]疲労状態のスピリット1体を破壊する。 [フラッシュ]このターンの間、スピリット1体をBP+4000する。'}
+﻿{
+  "CardNo": "BS01-131",
+  "PackNo": "BS01",
+  "CardName": "ダークコフィン",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "7",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／-",
+    "LV2 : -／-",
+    "LV3 : -／-"
+  ],
+  "Text": "[メイン]疲労状態のスピリット1体を破壊する。 [フラッシュ]このターンの間、スピリット1体をBP+4000する。"
+}

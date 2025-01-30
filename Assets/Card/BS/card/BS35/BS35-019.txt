@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS35-019', 'PackNo': 'BS35', 'CardName': '聖蛇アズーリア', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '妖蛇', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、相手のスピリット/アルティメットのコア2個を相手のリザーブに置く。'}
+﻿{
+  "CardNo": "BS35-019",
+  "PackNo": "BS35",
+  "CardName": "聖蛇アズーリア",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、相手のスピリット/アルティメットのコア2個を相手のリザーブに置く。"
+}

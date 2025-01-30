@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS14-036', 'PackNo': 'BS14', 'CardName': 'アイスメイデンMｋ-ＩＩ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白', '白'], 'CardType': '動器・機人', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS14-036",
+  "PackNo": "BS14",
+  "CardName": "アイスメイデンMｋ-ＩＩ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "2",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "動器・機人",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "-"
+}

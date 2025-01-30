@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS37-041', 'PackNo': 'BS37', 'CardName': '己械人シェパードール', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', '赤'], 'CardType': '十冠・機人', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／2', 'LV3 : 7000／4'], 'Text': '［フラッシュ］【アクセル】コスト5<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（この効果は手札から使用できる）このターンの間、コスト4以上の相手のスピリット/アルティメットのアタックでは、自分のライフは減らない。この効果発揮後、このカードはオープンして手元に置く。'}
+﻿{
+  "CardNo": "BS37-041",
+  "PackNo": "BS37",
+  "CardName": "己械人シェパードール",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白",
+    "赤"
+  ],
+  "CardType": "十冠・機人",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／2",
+    "LV3 : 7000／4"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト5<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（この効果は手札から使用できる）このターンの間、コスト4以上の相手のスピリット/アルティメットのアタックでは、自分のライフは減らない。この効果発揮後、このカードはオープンして手元に置く。"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS09-047', 'PackNo': 'BS09', 'CardName': '鮫人サンゴジョー', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青'], 'CardType': '獣頭・創手', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 6000／6'], 'Text': '［Lv1-Lv2-Lv3］スピリットすべては、ネクサス/マジックの効果で回復しない。'}
+﻿{
+  "CardNo": "BS09-047",
+  "PackNo": "BS09",
+  "CardName": "鮫人サンゴジョー",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "獣頭・創手",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 6000／6"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］スピリットすべては、ネクサス/マジックの効果で回復しない。"
+}

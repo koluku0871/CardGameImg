@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS20-081', 'PackNo': 'BS20', 'CardName': 'スティールハート', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、相手のスピリット1体のシンボルを0にする。この効果は、メインステップで使えない。'}
+﻿{
+  "CardNo": "BS20-081",
+  "PackNo": "BS20",
+  "CardName": "スティールハート",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、相手のスピリット1体のシンボルを0にする。この効果は、メインステップで使えない。"
+}

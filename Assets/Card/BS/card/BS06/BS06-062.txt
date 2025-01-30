@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS06-062', 'PackNo': 'BS06', 'CardName': '戦闘獣ゾウウチ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': [], 'CardType': '戦獣・異合', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／6'], 'Text': '［Lv1-Lv2］自分のフィールドに系統：「獣頭」を持つスピリットがいる間、このスピリットをLv2として扱う。'}
+﻿{
+  "CardNo": "BS06-062",
+  "PackNo": "BS06",
+  "CardName": "戦闘獣ゾウウチ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "戦獣・異合",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／6"
+  ],
+  "Text": "［Lv1-Lv2］自分のフィールドに系統：「獣頭」を持つスピリットがいる間、このスピリットをLv2として扱う。"
+}

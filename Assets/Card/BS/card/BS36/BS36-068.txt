@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS36-068', 'PackNo': 'BS36', 'CardName': 'No.8 ソーンキャッスル', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］『自分のエンドステップ』コスト7以下の自分の合体スピリットすべてを回復させる。このネクサスに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、さらに、コスト3以下の自分のスピリットすべてを回復させる。 ［Lv2］『相手のアタックステップ』相手の合体していないスピリットがアタックしたとき、相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "BS36-068",
+  "PackNo": "BS36",
+  "CardName": "No.8 ソーンキャッスル",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『自分のエンドステップ』コスト7以下の自分の合体スピリットすべてを回復させる。このネクサスに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれているとき、さらに、コスト3以下の自分のスピリットすべてを回復させる。 ［Lv2］『相手のアタックステップ』相手の合体していないスピリットがアタックしたとき、相手のスピリット1体を疲労させる。"
+}

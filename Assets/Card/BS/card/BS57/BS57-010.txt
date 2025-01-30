@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS57-010', 'PackNo': 'BS57', 'CardName': 'ガーゴイルバット', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '0', 'ReducedCost': [], 'CardType': '来是・夜族', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［ミラージュ：コスト2<img src="/renewal/images/cardlist/ico_pup.png"/>（このカードは手札からセットできる）］【セット中】相手のスピリットがアタックしたとき、相手の<img src="/renewal/images/cardlist/ico_soulcore.png"/>がリザーブになければ、相手のライフのコア1個をトラッシュに置ける。この効果で、相手は、バースト効果/《転醒》を発揮できない。［Lv1-Lv2］相手のライフが増えたとき4以上なら、増えたコア1個につき、相手のライフのコア1個をボイドに置ける。'}
+﻿{
+  "CardNo": "BS57-010",
+  "PackNo": "BS57",
+  "CardName": "ガーゴイルバット",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "来是・夜族",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［ミラージュ：コスト2<img src=\"/renewal/images/cardlist/ico_pup.png\"/>（このカードは手札からセットできる）］【セット中】相手のスピリットがアタックしたとき、相手の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>がリザーブになければ、相手のライフのコア1個をトラッシュに置ける。この効果で、相手は、バースト効果/《転醒》を発揮できない。［Lv1-Lv2］相手のライフが増えたとき4以上なら、増えたコア1個につき、相手のライフのコア1個をボイドに置ける。"
+}

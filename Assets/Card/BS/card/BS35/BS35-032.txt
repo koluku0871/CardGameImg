@@ -1,1 +1,24 @@
-﻿{'CardNo': 'BS35-032', 'PackNo': 'BS35', 'CardName': 'フォロフォロー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '6', 'ReducedCost': ['緑', '緑', '緑', '緑', '緑', '緑'], 'CardType': '爪鳥', 'Lv': ['LV1 : 12000／1', 'LV2 : 16000／3', 'LV3 : 21000／5'], 'Text': '-'}
+﻿{
+  "CardNo": "BS35-032",
+  "PackNo": "BS35",
+  "CardName": "フォロフォロー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "6",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑",
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "爪鳥",
+  "Lv": [
+    "LV1 : 12000／1",
+    "LV2 : 16000／3",
+    "LV3 : 21000／5"
+  ],
+  "Text": "-"
+}

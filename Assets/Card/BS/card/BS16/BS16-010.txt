@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS16-010', 'PackNo': 'BS16', 'CardName': '骨鹿', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': ['紫'], 'CardType': '無魔', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 5000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS16-010",
+  "PackNo": "BS16",
+  "CardName": "骨鹿",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "1",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "無魔",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "-"
+}

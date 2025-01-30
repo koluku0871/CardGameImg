@@ -1,1 +1,24 @@
-﻿{'CardNo': 'BS31-046', 'PackNo': 'BS31', 'CardName': 'モロクリザード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '6', 'ReducedCost': ['白', '白', '白', '白', '白', '白'], 'CardType': '甲竜', 'Lv': ['LV1 : 11000／1', 'LV2 : 16000／2', 'LV3 : 21000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS31-046",
+  "PackNo": "BS31",
+  "CardName": "モロクリザード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "6",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白",
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "甲竜",
+  "Lv": [
+    "LV1 : 11000／1",
+    "LV2 : 16000／2",
+    "LV3 : 21000／4"
+  ],
+  "Text": "-"
+}
