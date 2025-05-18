@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS72-026",
+  "PackNo": "BS72",
+  "CardName": "バタフライ・ドリラー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "神"
+  ],
+  "CardType": "兵虫",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/>（このカードは手札からセットできる）］【セット中】『このミラージュのセット時』〔ターンに1回：同名〕自分の手札にある系統：「兵虫」を持つミラージュカード1枚を、コストを支払わずにセットできる。［Lv1-Lv2］『このスピリットの召喚時』自分のデッキを上から5枚オープンできる。その中の「契約神ラー・ホルアクティ」1枚を手札に加える。残ったカードはデッキの下に戻す。"
+}
