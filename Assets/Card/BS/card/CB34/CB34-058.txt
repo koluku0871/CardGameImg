@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "CB34-058",
+  "PackNo": "CB34",
+  "CardName": "ゴウラム [2]",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "動器",
+  "Lv": [
+    "LV1 : -／0",
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］〔重複不可〕自分が【超変身】を使用したとき、コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>を使用していたら、自分はデッキから1枚ドローできる。 ［Lv2］『自分のアタックステップ開始時』〔重複不可〕自分のトラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア2個までを「クウガ」/「トライチェイサー」に置ける。この効果で「トライチェイサー」にコアを置いたとき、自分の手札にある「クウガ」1枚の【超変身】をコストを支払わずに使用できる。"
+}
