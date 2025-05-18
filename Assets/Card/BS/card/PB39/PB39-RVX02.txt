@@ -1,0 +1,23 @@
+﻿{
+  "CardNo": "PB39-RVX02",
+  "PackNo": "PB",
+  "CardName": "天魔王ペンタン　-ゴッド・ゼクスノ型-",
+  "CardRarity": "X",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "8",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "天魔王・歌鳥",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 8000／2",
+    "LV3 : 12000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］このスピリットは、相手のスピリット/マジックの効果を受けない。【六ペン連鎖：条件《ペンタン6体》】自分のスピリットの「ペンタン」が6体以上いる間、このスピリットのシンボルを<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>(黄6つ)に固定する。 ［Lv2-Lv3］『このスピリットのアタック時』このバトルの間、このスピリットは、最高Lvのスピリット以外からブロックされない。【六ペン連鎖：条件《ペンタン3体》】自分のスピリットの「ペンタン」が3体以上いるとき、自分はデッキの下から2枚ドローする。"
+}
