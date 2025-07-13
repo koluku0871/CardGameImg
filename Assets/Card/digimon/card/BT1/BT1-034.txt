@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-034",
+  "PackNo": "BT1",
+  "CardName": "イッカクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "海獣型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンは、進化元を持たない相手のデジモンにはブロックされない。\n"
+}

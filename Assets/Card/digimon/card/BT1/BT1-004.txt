@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT1-004",
+  "PackNo": "BT1",
+  "CardName": "ワニャモン",
+  "CardLevel": "LV.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】進化元を持たない相手のデジモンが2体以上いる間、このデジモンのDPを+2000する。\n"
+}

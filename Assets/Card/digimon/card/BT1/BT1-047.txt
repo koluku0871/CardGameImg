@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT1-047",
+  "PackNo": "BT1",
+  "CardName": "ティンカーモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "妖精型"
+}

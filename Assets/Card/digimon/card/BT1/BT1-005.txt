@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT1-005",
+  "PackNo": "BT1",
+  "CardName": "キャロモン",
+  "CardLevel": "LV.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黄",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】自分のセキュリティが6枚以上ある間、このデジモンのDPを+2000する。\n"
+}

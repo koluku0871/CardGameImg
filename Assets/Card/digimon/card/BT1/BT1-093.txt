@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT1-093",
+  "PackNo": "BT1",
+  "CardName": "ブレイブトルネード",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "3",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

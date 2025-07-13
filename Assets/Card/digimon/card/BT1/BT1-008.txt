@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT1-008",
+  "PackNo": "BT1",
+  "CardName": "フリモン",
+  "CardLevel": "LV.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】レスト状態の相手のデジモンが2体以上いる間、このデジモンのDPを+2000する。\n"
+}

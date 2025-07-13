@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-029",
+  "PackNo": "BT1",
+  "CardName": "ガブモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "爬虫類型",
+  "Text": "[効果]\n【登場時】≪1ドロー≫（自分のデッキからカードを1枚引く）\n"
+}

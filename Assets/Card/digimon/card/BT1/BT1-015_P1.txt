@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-015_P1",
+  "PackNo": "BT1",
+  "CardName": "グレイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンのDPを+2000する。\n"
+}

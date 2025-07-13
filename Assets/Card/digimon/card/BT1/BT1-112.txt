@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT1-112",
+  "PackNo": "BT1",
+  "CardName": "ディメンションシザー",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "3",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

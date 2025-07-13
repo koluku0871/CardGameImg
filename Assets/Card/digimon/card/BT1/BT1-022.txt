@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-022",
+  "PackNo": "BT1",
+  "CardName": "ガルダモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥人型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがブロックされたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

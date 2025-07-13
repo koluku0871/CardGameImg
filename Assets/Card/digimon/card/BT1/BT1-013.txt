@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT1-013",
+  "PackNo": "BT1",
+  "CardName": "ムーチョモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／1"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "鳥型"
+}

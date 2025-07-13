@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-030",
+  "PackNo": "BT1",
+  "CardName": "ゴマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "海獣型",
+  "Text": "[進化元効果]\n【消滅時】メモリーを+1する。\n"
+}

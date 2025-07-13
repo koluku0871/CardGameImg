@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-035",
+  "PackNo": "BT1",
+  "CardName": "レオモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[効果]\n【消滅時】メモリーを+2する。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-067_P1",
+  "PackNo": "BT1",
+  "CardName": "パルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から3枚オープンする。その中のLv.4のデジモンカード1枚を手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

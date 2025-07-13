@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-010_P1",
+  "PackNo": "BT1",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "爬虫類型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から5枚オープンする。その中のテイマーカード1枚を手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

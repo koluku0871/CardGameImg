@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT1-003_P3",
+  "PackNo": "BT1",
+  "CardName": "ウパモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "両生類型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］進化元を持たない相手のデジモンがいるなら、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

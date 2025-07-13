@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT1-009_P1",
+  "PackNo": "BT1",
+  "CardName": "モノドラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "小竜型"
+}

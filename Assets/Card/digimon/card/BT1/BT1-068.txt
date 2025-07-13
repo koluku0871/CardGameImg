@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-068",
+  "PackNo": "BT1",
+  "CardName": "コクワモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／1"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "マシーン型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがLv.6以上の間、≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）を得る。\n"
+}

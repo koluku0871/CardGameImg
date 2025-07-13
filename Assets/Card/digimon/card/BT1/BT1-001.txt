@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT1-001",
+  "PackNo": "BT1",
+  "CardName": "ピョコモン",
+  "CardLevel": "LV.2",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "球根型",
+  "Text": "[進化元効果]\n【アタック時】相手のデジモンにアタックしたとき、このターンの間、このデジモンのDPを+1000する。\n"
+}
