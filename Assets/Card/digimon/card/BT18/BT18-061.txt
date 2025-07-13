@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-061",
+  "PackNo": "BT18",
+  "CardName": "トレイルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "マシーン型",
+  "Text": "[進化元効果]\n【自分のターン】特徴に「マシーン型」を持つこのデジモンは≪衝突≫を得る。\n"
+}

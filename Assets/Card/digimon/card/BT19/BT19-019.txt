@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-019",
+  "PackNo": "BT19",
+  "CardName": "シェルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "軟体型/リベレイター",
+  "Text": "[進化元効果]\n【アタック終了時】[ターンに1回]メモリー+1。\n"
+}

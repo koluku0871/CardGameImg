@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-064",
+  "PackNo": "BT18",
+  "CardName": "メルキューレモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンをDP+2000。\n"
+}

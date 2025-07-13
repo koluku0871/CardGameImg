@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-086",
+  "PackNo": "BT4",
+  "CardName": "ケルベロモン：人狼モード",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "9",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "魔人型",
+  "Text": "[効果]\n≪速攻≫（このデジモンは登場したターンでもアタックできる）【登場時】自分の「ケルベロモン」1体を消滅させることで、メモリーを+9する。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT16-004_P1",
+  "PackNo": "BT16",
+  "CardName": "ミノモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "幼虫型",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンがバトルで相手のデジモンを消滅させたとき、このデジモンが2色以上なら、メモリー+1。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-074",
+  "PackNo": "BT20",
+  "CardName": "ディノビーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫赤／4"
+  ],
+  "Element": "紫赤",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがチェックしたオプションカードの【セキュリティ】効果は発揮しない。\n"
+}

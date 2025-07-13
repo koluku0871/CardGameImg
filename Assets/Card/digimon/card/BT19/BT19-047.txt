@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-047",
+  "PackNo": "BT19",
+  "CardName": "バリスタモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑黒／3"
+  ],
+  "Element": "緑黒",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "マシーン型/クロスハート",
+  "Text": "[進化元効果]\n【相手のターン】特徴に「クロスハート」を持つこのデジモンは≪ブロッカー≫を得る。\n"
+}

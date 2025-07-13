@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-069",
+  "PackNo": "BT18",
+  "CardName": "ナイトモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "戦士型",
+  "Text": "[進化元効果]\n【お互いのターン】「ナイトモン」の記述がある自分のデジモン全てをDP+2000。\n"
+}

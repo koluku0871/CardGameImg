@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT3-097_P1",
+  "PackNo": "BT3",
+  "CardName": "緻密な戦術",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "1",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

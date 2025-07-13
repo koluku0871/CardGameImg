@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT11-026",
+  "PackNo": "BT11",
+  "CardName": "ヒョーガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／1"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "氷雪型"
+}

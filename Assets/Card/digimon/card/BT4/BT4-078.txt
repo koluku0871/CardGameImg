@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-078",
+  "PackNo": "BT4",
+  "CardName": "サウンドバードモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "鳥型",
+  "Text": "[効果]\n【アタック時】自分の手札から、オプションカード1枚を破棄することで、メモリーを+1する。\n"
+}

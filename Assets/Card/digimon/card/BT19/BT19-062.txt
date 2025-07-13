@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-062",
+  "PackNo": "BT19",
+  "CardName": "サイバードラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒／4"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n≪衝突≫（このデジモンのアタック中、相手のデジモン全てに≪ブロッカー≫を与え、相手は可能ならブロックする）\n"
+}

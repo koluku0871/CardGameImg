@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-076",
+  "PackNo": "BT8",
+  "CardName": "ファングモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "魔獣型",
+  "Text": "[効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

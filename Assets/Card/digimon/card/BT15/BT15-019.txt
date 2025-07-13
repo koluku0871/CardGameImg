@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-019",
+  "PackNo": "BT15",
+  "CardName": "ガニモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "甲殻類型",
+  "Text": "[効果]\n【登場時】相手のデジモン1体の進化元を下から1枚破棄する。その後、進化元を持つ相手のデジモンがいないなら、≪1ドロー≫。\n"
+}

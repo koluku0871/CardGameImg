@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-058",
+  "PackNo": "BT15",
+  "CardName": "ギンリュウモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒緑／3"
+  ],
+  "Element": "黒緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣竜型/X抗体/デジ対",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］このデジモンがレストしたとき、このデジモンの登場コスト以下の相手のデジモン/テイマー1体をレストさせる。\n"
+}

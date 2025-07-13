@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-044",
+  "PackNo": "BT7",
+  "CardName": "べタモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から3枚オープンする。その中の緑のLv.4のデジモンカードか緑のテイマーカード1枚を手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

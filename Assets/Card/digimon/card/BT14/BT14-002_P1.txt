@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT14-002_P1",
+  "PackNo": "BT14",
+  "CardName": "プカモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】進化元の枚数がこのデジモン以上の相手のデジモンがいない間、このデジモンは≪ジャミング≫を得る。\n"
+}

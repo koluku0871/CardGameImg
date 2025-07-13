@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-024",
+  "PackNo": "BT14",
+  "CardName": "ゲコモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型",
+  "Text": "[進化元効果]\n【相手のターン】［ターンに1回］相手のデジモンがアタックしたとき、そのデジモンの進化元を下から2枚破棄する。\n"
+}

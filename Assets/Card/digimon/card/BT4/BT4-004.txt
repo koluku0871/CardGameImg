@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT4-004",
+  "PackNo": "BT4",
+  "CardName": "バドモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが≪デジバースト≫を持つ間、このデジモンのDPを+1000する。\n"
+}

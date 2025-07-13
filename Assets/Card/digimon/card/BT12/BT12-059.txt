@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-059",
+  "PackNo": "BT12",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／1"
+  ],
+  "Element": "黒赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンが名称に「グレイモン」か「オメガモン」を含む間、このデジモンをDP＋1000。\n"
+}

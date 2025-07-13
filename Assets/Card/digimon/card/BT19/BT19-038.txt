@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-038",
+  "PackNo": "BT19",
+  "CardName": "イェーガードルルモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黄緑／4"
+  ],
+  "Element": "黄緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣人型/クロスハート",
+  "Text": "[進化元効果]\n【自分のターン】特徴に「クロスハート」を持つこのデジモンは≪貫通≫を得る。\n"
+}

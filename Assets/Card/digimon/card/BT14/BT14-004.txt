@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT14-004",
+  "PackNo": "BT14",
+  "CardName": "タネモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "球根型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分の効果でテイマーがレストしたとき、ターン終了まで、このデジモンをDP+2000。\n"
+}

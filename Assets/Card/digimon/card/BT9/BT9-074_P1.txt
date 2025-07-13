@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-074_P1",
+  "PackNo": "BT9",
+  "CardName": "メイクーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 紫黄／3"
+  ],
+  "Element": "紫黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "不明",
+  "CardSubType": "不明",
+  "Text": "[進化元効果]\n【消滅時】このデジモンが2色以上だったとき、メモリー+2。\n"
+}

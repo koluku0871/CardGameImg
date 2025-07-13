@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-021_P1",
+  "PackNo": "BT7",
+  "CardName": "チャックモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "獣人型",
+  "Text": "[効果]\n手札のこのカードは、青の自分のテイマーを青のLv.3のデジモンとして扱い進化できる。【進化時】相手のデジモン1体の進化元を、下から1枚破棄する。\n"
+}

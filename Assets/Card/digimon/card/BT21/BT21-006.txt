@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT21-006",
+  "PackNo": "BT21",
+  "CardName": "ツメモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "種族不明/リベレイター",
+  "Text": "[進化元効果]\n【お互いのターン】進化元に「ベムモン」が4枚以上あるこのデジモンをDP+3000。\n"
+}

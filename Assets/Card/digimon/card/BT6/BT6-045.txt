@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-045",
+  "PackNo": "BT6",
+  "CardName": "バコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【アタック時】レスト状態の相手のデジモンが2体以上いるとき、メモリーを+1する。\n"
+}

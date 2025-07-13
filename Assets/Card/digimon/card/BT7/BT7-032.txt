@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-032",
+  "PackNo": "BT7",
+  "CardName": "パルスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］自分のセキュリティが3枚のとき、メモリーを+2する。\n"
+}

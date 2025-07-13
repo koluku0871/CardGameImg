@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-068",
+  "PackNo": "BT21",
+  "CardName": "グラウモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫赤／3"
+  ],
+  "Element": "紫赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔竜型",
+  "Text": "[進化元効果]\n【消滅時】メモリー+1。\n"
+}

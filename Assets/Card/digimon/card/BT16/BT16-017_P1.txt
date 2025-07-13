@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-017_P1",
+  "PackNo": "BT16",
+  "CardName": "ブイモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 緑紫／1"
+  ],
+  "Element": "青赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "小竜型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

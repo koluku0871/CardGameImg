@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-082",
+  "PackNo": "BT13",
+  "CardName": "ペックモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥型",
+  "Text": "[進化元効果]\n【消滅時】バトル以外で消滅していたなら、相手は相手の手札を1枚破棄する。\n"
+}

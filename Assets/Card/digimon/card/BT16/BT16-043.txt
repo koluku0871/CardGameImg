@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-043",
+  "PackNo": "BT16",
+  "CardName": "ランナモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンに「パルスモン」の記述がある間、このデジモンをDP+1000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-042_P1",
+  "PackNo": "BT11",
+  "CardName": "エンジェウーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黄紫／3"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "大天使型",
+  "Text": "[進化元効果]\n【相手のターン】紫の自分のデジモンがいる間、特徴に「天使型」か「大天使型」か「堕天使型」を持つ自分のデジモン全ては≪ブロッカー≫を得る。\n"
+}

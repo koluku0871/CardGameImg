@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-072",
+  "PackNo": "BT13",
+  "CardName": "ドルグレモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "獣竜型/X抗体",
+  "Text": "[進化元効果]\n【自分のターン終了時】［ターンに1回］自分の手札から、特徴に「X抗体」を持つデジモンカード1枚をこのデジモンの進化元の下に置ける。\n"
+}

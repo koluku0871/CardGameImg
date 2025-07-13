@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-071",
+  "PackNo": "BT20",
+  "CardName": "ソルガルモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤黄／4"
+  ],
+  "Element": "紫赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型/X抗体/SoC/シーカーズ",
+  "Text": "[進化元効果]\n【自分のターン】特徴に「SoC」/「シーカーズ」を持つこのデジモンがチェックしたオプションカードの【セキュリティ】効果は発揮しない。\n"
+}

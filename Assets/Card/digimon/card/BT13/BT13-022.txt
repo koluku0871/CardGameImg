@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-022",
+  "PackNo": "BT13",
+  "CardName": "カメモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンをレストさせることでアタックの対象をこのデジモンにする）\n"
+}

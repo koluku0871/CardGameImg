@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-015_P1",
+  "PackNo": "BT8",
+  "CardName": "シルフィーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 赤黄／4"
+  ],
+  "Element": "赤黄",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【アタック時】DP5000以下の相手のデジモン1体を消滅させる。\n"
+}

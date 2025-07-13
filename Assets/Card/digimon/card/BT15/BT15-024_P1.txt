@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-024_P1",
+  "PackNo": "BT15",
+  "CardName": "ガルルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]≪1ドロー≫（自分のデッキからカードを1枚引く）\n"
+}

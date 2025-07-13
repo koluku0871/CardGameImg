@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT5-094",
+  "PackNo": "BT5",
+  "CardName": "ラウディロッカー",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

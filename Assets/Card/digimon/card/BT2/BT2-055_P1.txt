@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-055_P1",
+  "PackNo": "BT2",
+  "CardName": "トイアグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n≪再起動≫（相手のアクティブフェイズに、このデジモンをアクティブにする）\n"
+}

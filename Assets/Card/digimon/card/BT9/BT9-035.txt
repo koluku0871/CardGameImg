@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT9-035",
+  "PackNo": "BT9",
+  "CardName": "スターモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "突然変異型"
+}

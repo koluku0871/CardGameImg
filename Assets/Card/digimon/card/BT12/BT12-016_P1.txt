@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-016_P1",
+  "PackNo": "BT12",
+  "CardName": "メガログラウモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【アタック終了時】[ターンに1回]このデジモンが名称に「グラウモン」/「デュークモン」を含み、相手のデジモンがいないなら、メモリー+2。\n"
+}

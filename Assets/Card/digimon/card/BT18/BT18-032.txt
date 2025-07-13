@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-032",
+  "PackNo": "BT18",
+  "CardName": "ルクスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "天使型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

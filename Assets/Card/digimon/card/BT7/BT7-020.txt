@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT7-020",
+  "PackNo": "BT7",
+  "CardName": "シェルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "軟体型"
+}

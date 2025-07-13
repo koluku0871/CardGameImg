@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-066",
+  "PackNo": "BT18",
+  "CardName": "セフィロトモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンをDP+2000。\n"
+}

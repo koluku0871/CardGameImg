@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-082",
+  "PackNo": "BT4",
+  "CardName": "ドーベルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "魔獣型"
+}

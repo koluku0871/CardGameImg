@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-022",
+  "PackNo": "BT17",
+  "CardName": "ヴォルフモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青黄／3"
+  ],
+  "Element": "青黄",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "戦士型",
+  "Text": "[進化元効果]\n【アタック時】自分の手札が7枚以下なら、≪1ドロー≫。\n"
+}

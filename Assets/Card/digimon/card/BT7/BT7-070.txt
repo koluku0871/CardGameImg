@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-070",
+  "PackNo": "BT7",
+  "CardName": "ウェンディモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分のテイマーが登場したとき、≪1ドロー≫(自分のデッキからカードを1枚引く)。\n"
+}

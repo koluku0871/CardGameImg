@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BT2-047_P2",
+  "PackNo": "BT2",
+  "CardName": "アルゴモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑／3",
+    "LV5 : 青／2"
+  ],
+  "Element": "緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【アタック時】自分の手札から、緑のLv.3のデジモンカード1枚をコストを支払わずにレスト状態で登場できる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-082",
+  "PackNo": "BT11",
+  "CardName": "ツワーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 紫黒／3"
+  ],
+  "Element": "紫黒",
+  "Cost": "7",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "突然変異型/バグラ軍/トワイライト",
+  "Text": "[進化元効果]\n【相手のターン】このカードが効果で進化元から破棄されたとき、メモリー+1。\n"
+}

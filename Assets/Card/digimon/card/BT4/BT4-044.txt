@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-044",
+  "PackNo": "BT4",
+  "CardName": "ヒポグリフォモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "幻獣型",
+  "Text": "[効果]\n【アタック時】自分のセキュリティが3枚以下のとき、このターンの間、相手のデジモン1体のDPを-3000する。\n"
+}

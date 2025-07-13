@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-008_P1",
+  "PackNo": "BT13",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤黄／1"
+  ],
+  "Element": "赤黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]赤/黄の自分のテイマーがレストしたとき、DP3000以下の相手のデジモン1体を消滅できる。\n"
+}

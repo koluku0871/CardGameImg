@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-032",
+  "PackNo": "BT10",
+  "CardName": "レナモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分が使用コスト2以上のオプションカードを使用したとき、このターンの間、相手のデジモン1体をDP-2000。\n"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT2-052",
+  "PackNo": "BT2",
+  "CardName": "ハグルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "マシーン型"
+}

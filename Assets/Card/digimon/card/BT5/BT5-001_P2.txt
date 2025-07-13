@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT5-001_P2",
+  "PackNo": "BT5",
+  "CardName": "コロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが名称に「グレイモン」か「オメガモン」を含むなら、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

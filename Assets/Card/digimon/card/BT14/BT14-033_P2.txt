@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-033_P2",
+  "PackNo": "BT14",
+  "CardName": "パタモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "哺乳類型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分のセキュリティが増えたとき、メモリー+1。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-055",
+  "PackNo": "BT8",
+  "CardName": "クライモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "昆虫型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがアクティブフェイズでアクティブになったとき、相手のデジモン1体をレストさせる。\n"
+}

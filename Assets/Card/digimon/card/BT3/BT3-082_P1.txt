@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-082_P1",
+  "PackNo": "BT3",
+  "CardName": "ブラックテイルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。\n"
+}

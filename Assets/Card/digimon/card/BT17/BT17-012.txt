@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-012",
+  "PackNo": "BT17",
+  "CardName": "ヴリトラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤紫／3"
+  ],
+  "Element": "赤紫",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "魔竜型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

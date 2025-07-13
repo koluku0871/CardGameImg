@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-013",
+  "PackNo": "BT20",
+  "CardName": "バオハックモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン】自分のデジモン全てをDP+1000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-069",
+  "PackNo": "BT15",
+  "CardName": "キャンドモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "火炎型",
+  "Text": "[効果]\n【消滅時】メモリーが相手側の1以下なら、≪1ドロー≫。メモリーが相手側の1以上なら、メモリー+1。\n"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT5-110",
+  "PackNo": "BT5",
+  "CardName": "オールデリート",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "10",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

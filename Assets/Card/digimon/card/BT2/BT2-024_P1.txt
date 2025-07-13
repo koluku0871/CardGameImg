@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT2-024_P1",
+  "PackNo": "BT2",
+  "CardName": "シードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "水棲型"
+}

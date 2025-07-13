@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-064",
+  "PackNo": "BT21",
+  "CardName": "ギルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 紫赤／1"
+  ],
+  "Element": "紫赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型/ヒーロー",
+  "Text": "[進化元効果]\n【消滅時】メモリー+1。\n"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "BT12-086",
+  "PackNo": "BT12",
+  "CardName": "クロックモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "マシーン型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンに≪セーブ≫の記述がある間、このデジモンは≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）を得る。\n"
+}

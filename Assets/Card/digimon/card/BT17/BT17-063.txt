@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-063",
+  "PackNo": "BT17",
+  "CardName": "ダルクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫黄／3"
+  ],
+  "Element": "紫黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "天使型",
+  "Text": "[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

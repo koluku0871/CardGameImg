@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-076",
+  "PackNo": "BT4",
+  "CardName": "ガブモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型"
+}

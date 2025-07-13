@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-012_P2",
+  "PackNo": "BT8",
+  "CardName": "フレイドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 赤／3"
+  ],
+  "Element": "赤青",
+  "Cost": "5",
+  "CardCategory": "アーマー体",
+  "CardType": "フリー",
+  "CardSubType": "竜人型",
+  "Text": "[効果]\n≪アーマー解除≫【アタック時】ターン終了まで、このデジモンをDP+3000。\n"
+}

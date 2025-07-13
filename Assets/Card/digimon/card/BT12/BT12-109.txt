@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT12-109",
+  "PackNo": "BT12",
+  "CardName": "滾る力",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "0",
+  "CardSubType": "ハンター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

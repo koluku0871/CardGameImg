@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT15-098",
+  "PackNo": "BT15",
+  "CardName": "霧の結界",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "4",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

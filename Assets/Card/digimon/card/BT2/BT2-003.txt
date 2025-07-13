@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT2-003",
+  "PackNo": "BT2",
+  "CardName": "ニャロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黄",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンがレスト状態の間、自分のセキュリティデジモン全てのDPを+1000する。\n"
+}

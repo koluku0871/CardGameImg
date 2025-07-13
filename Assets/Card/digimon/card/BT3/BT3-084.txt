@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-084",
+  "PackNo": "BT3",
+  "CardName": "レアモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から3枚オープンする。その中のオプションカード1枚を手札に加える。残ったカードは破棄する。\n"
+}

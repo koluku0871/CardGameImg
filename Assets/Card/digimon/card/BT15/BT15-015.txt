@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-015",
+  "PackNo": "BT15",
+  "CardName": "デスメラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "火炎型",
+  "Text": "[効果]\n【メイン】［ターンに1回］2コスト支払うことで、ターン終了まで、このデジモンは≪Sアタック+1≫を得る。その後、このデジモンでアタックできる。\n"
+}

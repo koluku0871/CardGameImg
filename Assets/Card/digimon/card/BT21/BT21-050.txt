@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-050",
+  "PackNo": "BT21",
+  "CardName": "ジュレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "植物型/WG",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]特徴に「WG」を持つ自分のデジモンが登場したとき、相手のデジモン1体をレストできる。\n"
+}

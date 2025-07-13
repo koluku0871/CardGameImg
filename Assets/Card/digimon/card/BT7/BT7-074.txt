@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-074",
+  "PackNo": "BT7",
+  "CardName": "アンティラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "聖獣型",
+  "Text": "[効果]\n【進化時】自分のトラッシュから、紫の登場コスト3以下のテイマーカード1枚をコストを支払わずに登場できる。\n"
+}

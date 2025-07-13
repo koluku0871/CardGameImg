@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT8-006",
+  "PackNo": "BT8",
+  "CardName": "プチメラモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分のデッキが破棄されたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

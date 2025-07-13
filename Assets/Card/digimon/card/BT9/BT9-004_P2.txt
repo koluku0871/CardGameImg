@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT9-004_P2",
+  "PackNo": "BT9",
+  "CardName": "モチモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが特徴に「昆虫型」を持つ間、このデジモンをDP+1000。\n"
+}

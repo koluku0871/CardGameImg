@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-051",
+  "PackNo": "BT18",
+  "CardName": "エントモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "植物型",
+  "Text": "[効果]\n【自分のターン】レスト状態のこのデジモンが特徴に「植物型」を含むLv.6のデジモンカードに進化するとき、支払う進化コスト-2。\n"
+}

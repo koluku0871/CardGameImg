@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-035",
+  "PackNo": "BT13",
+  "CardName": "ポーンチェスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黄黒／1"
+  ],
+  "Element": "黄黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n≪再起動≫（相手のアクティブフェイズに、このデジモンをアクティブにする）\n"
+}

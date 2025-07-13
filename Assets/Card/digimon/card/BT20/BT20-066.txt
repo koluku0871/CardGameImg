@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-066",
+  "PackNo": "BT20",
+  "CardName": "スティングモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫赤／2"
+  ],
+  "Element": "紫",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "フリー",
+  "CardSubType": "昆虫型",
+  "Text": "[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

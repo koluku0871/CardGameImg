@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-019",
+  "PackNo": "BT14",
+  "CardName": "オタマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型",
+  "Text": "[進化元効果]\n【相手のターン】［ターンに1回］相手のデジモンがアタックしたとき、そのデジモンの進化元を下から2枚破棄する。\n"
+}

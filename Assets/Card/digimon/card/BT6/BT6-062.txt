@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-062",
+  "PackNo": "BT6",
+  "CardName": "ボルケーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】アクティブ状態の相手のデジモンがいる間、このデジモンは≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）を得る。\n"
+}

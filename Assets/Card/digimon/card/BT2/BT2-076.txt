@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-076",
+  "PackNo": "BT2",
+  "CardName": "パンプモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【消滅時】≪2ドロー≫（自分のデッキからカードを2枚引く）。その後、自分の手札を1枚破棄する。\n"
+}

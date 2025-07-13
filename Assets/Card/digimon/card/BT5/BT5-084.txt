@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-084",
+  "PackNo": "BT5",
+  "CardName": "ディアボロモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 黒／3"
+  ],
+  "Element": "白",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "不明",
+  "CardSubType": "種族不明",
+  "Text": "[効果]\n【進化時】「ディアボロモン」（デジモン・14コスト・Lv.6・白・究極体・不明・種族不明・DP3000）のトークン1体をコストを支払わずに登場できる。\n"
+}

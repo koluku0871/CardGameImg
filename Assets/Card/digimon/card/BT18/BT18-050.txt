@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-050",
+  "PackNo": "BT18",
+  "CardName": "ペタルドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]相手のデジモン1体をレストさせる。\n"
+}

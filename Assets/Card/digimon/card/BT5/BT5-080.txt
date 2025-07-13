@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-080",
+  "PackNo": "BT5",
+  "CardName": "ザンバモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "U",
+  "Lv": [
+    "LV5 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "10",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔人型",
+  "Text": "[効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

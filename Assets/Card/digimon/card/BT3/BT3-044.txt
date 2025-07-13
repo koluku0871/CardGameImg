@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-044",
+  "PackNo": "BT3",
+  "CardName": "アルラウモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型"
+}

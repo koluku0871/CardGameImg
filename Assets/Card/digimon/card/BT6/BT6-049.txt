@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-049",
+  "PackNo": "BT6",
+  "CardName": "アルボルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[効果]\n手札のこのカードは、緑の自分のテイマーを緑のLv.3のデジモンとして扱い進化できる。\n"
+}

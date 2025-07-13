@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-048",
+  "PackNo": "BT17",
+  "CardName": "アルゴモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑紫／5"
+  ],
+  "Element": "緑紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]自分の「リズム」1体をレストさせることで、このデジモンをアクティブにする。\n"
+}

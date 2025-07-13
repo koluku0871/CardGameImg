@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-063",
+  "PackNo": "BT19",
+  "CardName": "ダークナイトモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒紫／4"
+  ],
+  "Element": "黒紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "暗黒騎士型/トワイライト",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、「ナイトモン」の記述があるLv.4以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

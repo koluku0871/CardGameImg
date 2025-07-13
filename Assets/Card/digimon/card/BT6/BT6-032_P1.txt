@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-032_P1",
+  "PackNo": "BT6",
+  "CardName": "バクモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分のセキュリティが減ったとき、≪1ドロー≫。\n"
+}

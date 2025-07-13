@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-038_P3",
+  "PackNo": "BT2",
+  "CardName": "ライズグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】黄の自分のテイマーが3体以上いる間、このデジモンは≪セキュリティアタック+1≫（このデジモンがチェックする枚数+1）を得る。\n"
+}

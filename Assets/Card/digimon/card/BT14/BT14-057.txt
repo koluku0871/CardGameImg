@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-057",
+  "PackNo": "BT14",
+  "CardName": "チューチューモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒紫／1"
+  ],
+  "Element": "黒紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣型/バグラ軍/トワイライト",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

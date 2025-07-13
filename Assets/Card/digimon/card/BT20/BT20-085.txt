@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT20-085",
+  "PackNo": "BT20",
+  "CardName": "風真照人",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "3",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

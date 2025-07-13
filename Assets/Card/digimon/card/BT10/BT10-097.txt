@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT10-097",
+  "PackNo": "BT10",
+  "CardName": "ブレイジング・メモリーブースト！！",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "5",
+  "CardSubType": "ブルーフレア",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

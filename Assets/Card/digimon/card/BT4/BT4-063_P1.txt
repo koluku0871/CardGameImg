@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-063_P1",
+  "PackNo": "BT4",
+  "CardName": "コマンドラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/D-ブリガード",
+  "Text": "[効果]\n【消滅時】自分のデッキの上から3枚オープンする。その中の「コマンドラモン」1枚をコストを支払わずに登場できる。残りは好きな順番でデッキの下に戻す。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-020",
+  "PackNo": "BT21",
+  "CardName": "アルダモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 赤／4"
+  ],
+  "Element": "赤",
+  "Cost": "8",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【消滅時】自分の手札/トラッシュから、進化元効果を持つ赤のテイマーカード1枚をコストを支払わずに登場できる。\n"
+}

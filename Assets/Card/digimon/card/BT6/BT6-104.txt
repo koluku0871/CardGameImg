@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT6-104",
+  "PackNo": "BT6",
+  "CardName": "パラボリックジャンク",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "0",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

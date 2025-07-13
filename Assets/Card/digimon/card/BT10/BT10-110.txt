@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT10-110",
+  "PackNo": "BT10",
+  "CardName": "聖拳滅破",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "3",
+  "CardSubType": "ロイヤルナイツ",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

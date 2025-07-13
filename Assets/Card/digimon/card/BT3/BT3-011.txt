@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-011",
+  "PackNo": "BT3",
+  "CardName": "グレイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "恐竜型",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。\n"
+}

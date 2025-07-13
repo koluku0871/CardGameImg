@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-029",
+  "PackNo": "BT13",
+  "CardName": "マッハガオガモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］効果で相手の手札が増えたとき、このデジモンをアクティブにする。\n"
+}

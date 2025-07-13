@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT6-023",
+  "PackNo": "BT6",
+  "CardName": "オクタモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "軟体型"
+}

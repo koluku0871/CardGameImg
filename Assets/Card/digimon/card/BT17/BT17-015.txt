@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-015",
+  "PackNo": "BT17",
+  "CardName": "ウォーグレイモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが名称に「オメガモン」を含むなら、相手のセキュリティを上から1枚破棄する。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-033_P1",
+  "PackNo": "BT5",
+  "CardName": "キュートモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "妖精型",
+  "Text": "[効果]\n【相手のターン】相手は支払う進化コストをマイナスできない。\n"
+}

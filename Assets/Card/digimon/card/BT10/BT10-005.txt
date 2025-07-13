@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT10-005",
+  "PackNo": "BT10",
+  "CardName": "モニモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "ブラウン型/トワイライト/クロスハート",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンが特徴に「トワイライト」を持つ間、このデジモンをDP+1000。\n"
+}

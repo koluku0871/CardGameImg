@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-079",
+  "PackNo": "BT18",
+  "CardName": "ベルグモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 紫／4"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "巨鳥型",
+  "Text": "[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

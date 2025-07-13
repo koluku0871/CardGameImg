@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT7-006",
+  "PackNo": "BT7",
+  "CardName": "チョコモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】自分のデッキの上から3枚オープンできる。その中のテイマーカード1枚を破棄する。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

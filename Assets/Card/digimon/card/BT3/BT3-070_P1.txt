@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-070_P1",
+  "PackNo": "BT3",
+  "CardName": "エテモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[効果]\n≪ブロッカー≫【消滅時】自分のデッキの上から5枚オープンする。その中の名称に「エテモン」を含むLv.6のデジモンカード1枚をコストを支払わずに登場できる。残りはデッキの下に戻す。\n"
+}

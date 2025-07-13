@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-072",
+  "PackNo": "BT9",
+  "CardName": "プロットモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫黄／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "哺乳類型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から4枚オープンする。その中の紫を含む2色のカード1枚を手札に加える。残りは好きな順番でデッキの下に戻す。\n"
+}

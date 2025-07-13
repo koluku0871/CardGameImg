@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-059",
+  "PackNo": "BT14",
+  "CardName": "ダメモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒紫／2"
+  ],
+  "Element": "黒紫",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "突然変異型/バグラ軍/トワイライト",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

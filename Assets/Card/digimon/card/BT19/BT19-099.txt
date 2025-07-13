@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT19-099",
+  "PackNo": "BT19",
+  "CardName": "邪・神・降・臨！！",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "4",
+  "CardSubType": "邪神型",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

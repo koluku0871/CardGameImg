@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-079",
+  "PackNo": "BT14",
+  "CardName": "ソルガルモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型/X抗体/SoC",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］特徴に「魔獣型」/「SoC」を持つ自分のカードが登場したとき、このデジモンをアクティブにできる。\n"
+}

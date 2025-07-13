@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-061",
+  "PackNo": "BT2",
+  "CardName": "アンドロモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンがアクティブ状態ならレストさせることでアタックの対象をこのデジモンにする）\n"
+}

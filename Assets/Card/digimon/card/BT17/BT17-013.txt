@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-013",
+  "PackNo": "BT17",
+  "CardName": "メガログラウモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]効果で相手のデジモンが消滅したとき、名称に「デュークモン」を含むこのデジモンをアクティブにできる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-058",
+  "PackNo": "BT6",
+  "CardName": "ナニモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "インベイド型",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。\n"
+}

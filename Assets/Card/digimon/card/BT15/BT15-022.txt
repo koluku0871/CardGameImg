@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-022",
+  "PackNo": "BT15",
+  "CardName": "ベタモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型",
+  "Text": "[進化元効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n"
+}

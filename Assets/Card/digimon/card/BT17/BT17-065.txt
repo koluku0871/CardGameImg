@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-065",
+  "PackNo": "BT17",
+  "CardName": "デクスドルガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫黒／3"
+  ],
+  "Element": "紫黒",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型/X抗体/SoC",
+  "Text": "[進化元効果]\n≪再起動≫（このデジモンは相手のアクティブフェイズでもアクティブになる）\n"
+}

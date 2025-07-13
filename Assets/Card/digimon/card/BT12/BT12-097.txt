@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT12-097",
+  "PackNo": "BT12",
+  "CardName": "最上リョウマ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "3",
+  "CardSubType": "ハンター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT5-002",
+  "PackNo": "BT5",
+  "CardName": "ツノモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「ガルルモン」か「オメガモン」を含む間、このデジモンのDPを+1000する。\n"
+}

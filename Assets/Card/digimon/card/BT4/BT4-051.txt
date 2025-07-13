@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-051",
+  "PackNo": "BT4",
+  "CardName": "ドクネモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "幼虫型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から3枚オープンする。その中の≪デジバースト≫を持つデジモンカード1枚を手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

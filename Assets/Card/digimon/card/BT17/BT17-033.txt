@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-033",
+  "PackNo": "BT17",
+  "CardName": "ジオグレイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン】相手のセキュリティデジモン全てをDP-3000。\n"
+}

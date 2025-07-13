@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-063",
+  "PackNo": "BT5",
+  "CardName": "クリサリモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "不明",
+  "CardSubType": "種族不明",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンと同じ名称の他の自分のデジモン全ては≪速攻≫（このデジモンは登場したターンでもアタックできる）を得る。\n"
+}

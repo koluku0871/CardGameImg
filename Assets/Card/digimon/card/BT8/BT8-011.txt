@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-011",
+  "PackNo": "BT8",
+  "CardName": "サイクロモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤黒／2"
+  ],
+  "Element": "赤黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【アタック時】DP2000以下の相手のデジモン1体を消滅させる。\n"
+}

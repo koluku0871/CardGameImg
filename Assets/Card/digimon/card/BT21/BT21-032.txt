@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-032",
+  "PackNo": "BT21",
+  "CardName": "ブイモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青赤／1"
+  ],
+  "Element": "青赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "小竜型/ヒーロー",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

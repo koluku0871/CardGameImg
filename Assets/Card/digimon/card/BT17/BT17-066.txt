@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-066",
+  "PackNo": "BT17",
+  "CardName": "ヒポグリフォモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫黄／4"
+  ],
+  "Element": "紫黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "幻獣型",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

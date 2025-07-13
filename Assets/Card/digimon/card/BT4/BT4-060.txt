@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-060",
+  "PackNo": "BT4",
+  "CardName": "ロトスモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "U",
+  "Lv": [
+    "LV5 : 緑／4"
+  ],
+  "Element": "緑",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "データ種",
+  "CardSubType": "妖精型",
+  "Text": "[効果]\n【お互いのターン】Lv.4以下の、自分のデジモンか相手のデジモンが登場したとき、そのデジモンをレストさせる。\n"
+}

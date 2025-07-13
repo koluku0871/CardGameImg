@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-055",
+  "PackNo": "BT16",
+  "CardName": "ナマケモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンに「パルスモン」の記述がある間、このデジモンをDP+1000。\n"
+}

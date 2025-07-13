@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-050",
+  "PackNo": "BT5",
+  "CardName": "ザッソーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／1"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが発揮した≪デジバースト≫でこのカードが破棄されたとき、メモリーを+1する。\n"
+}

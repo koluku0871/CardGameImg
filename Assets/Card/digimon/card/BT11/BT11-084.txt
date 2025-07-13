@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-084",
+  "PackNo": "BT11",
+  "CardName": "ブルーメラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "火炎型",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］効果で自分のデジモンが登場したとき、メモリー+1。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-038",
+  "PackNo": "BT11",
+  "CardName": "エンジェモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黄紫／2"
+  ],
+  "Element": "黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "天使型",
+  "Text": "[効果]\n【消滅時】紫の自分のデジモンかテイマーがいるとき、自分のトラッシュから、「デビモン」1枚をコストを支払わずに登場できる。\n"
+}

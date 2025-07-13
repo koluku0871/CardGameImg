@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-057",
+  "PackNo": "BT15",
+  "CardName": "ヌメモンX抗体",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "軟体型/X抗体",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、名称に「ヌメモン」を含むデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

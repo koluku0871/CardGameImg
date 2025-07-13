@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT2-008",
+  "PackNo": "BT2",
+  "CardName": "ヤーモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】自分のトラッシュが5枚以上の間、このデジモンのDPを+1000する。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-029",
+  "PackNo": "BT16",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型/ライトファング",
+  "Text": "[進化元効果]\n【自分のターン】相手のセキュリティデジモン全てをDP-3000。\n"
+}

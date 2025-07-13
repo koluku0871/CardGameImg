@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-038",
+  "PackNo": "BT21",
+  "CardName": "デラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "鳥型/WG",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンのアタックの対象は変更されない。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-045",
+  "PackNo": "BT14",
+  "CardName": "クワガーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "昆虫型",
+  "Text": "[効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n"
+}

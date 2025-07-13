@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-081",
+  "PackNo": "BT18",
+  "CardName": "ライヒモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫黄／4"
+  ],
+  "Element": "紫黄",
+  "Cost": "8",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "戦士型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]ターン終了まで、相手のデジモン1体をDP-4000。\n"
+}

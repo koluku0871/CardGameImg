@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-012",
+  "PackNo": "BT2",
+  "CardName": "バードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "巨鳥型",
+  "Text": "[効果]\n【アタック時】プレイヤーにアタックしたとき、このターンの間、このデジモンのDPを＋4000する。\n"
+}

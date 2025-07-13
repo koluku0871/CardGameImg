@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT7-099",
+  "PackNo": "BT7",
+  "CardName": "エレキラッシュ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

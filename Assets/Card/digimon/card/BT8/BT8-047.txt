@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-047",
+  "PackNo": "BT8",
+  "CardName": "パルスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【お互いのターン】他のレスト状態の自分のデジモン1体ごとに、このデジモンをDP+1000。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT10-095",
+  "PackNo": "BT10",
+  "CardName": "空舞う勇者！",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "2",
+  "CardSubType": "クロスハート",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-043",
+  "PackNo": "BT18",
+  "CardName": "ティンカーモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑赤／1"
+  ],
+  "Element": "緑赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "妖精型",
+  "Text": "[進化元効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンを消滅させたとき、アタック終了前にチェックする）\n"
+}

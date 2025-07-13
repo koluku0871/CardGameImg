@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-009",
+  "PackNo": "BT18",
+  "CardName": "シャーマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "鬼人型",
+  "Text": "[効果]\n【お互いのターン】相手はテイマーの効果以外でメモリーをプラスできない。\n"
+}

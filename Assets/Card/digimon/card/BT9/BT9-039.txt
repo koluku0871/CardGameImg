@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT9-039",
+  "PackNo": "BT9",
+  "CardName": "ダークスーパースターモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黄黒／3"
+  ],
+  "Element": "黄黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "突然変異型"
+}

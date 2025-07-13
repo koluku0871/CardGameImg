@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-046",
+  "PackNo": "BT17",
+  "CardName": "ガルゴモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンがレスト状態の間、このデジモンをDP+1000。\n"
+}

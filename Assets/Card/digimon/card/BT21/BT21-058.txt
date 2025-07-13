@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-058",
+  "PackNo": "BT21",
+  "CardName": "スナッチモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "不明",
+  "CardSubType": "不明/リベレイター",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンの進化元から、「ベムモン」がデッキの下に戻ったとき、登場コスト4以下の相手のデジモン1体を消滅させる。\n"
+}

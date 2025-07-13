@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-050",
+  "PackNo": "BT19",
+  "CardName": "ラピッドモンACE",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+4000。\n"
+}

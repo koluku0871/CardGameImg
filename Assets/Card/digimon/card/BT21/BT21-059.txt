@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-059",
+  "PackNo": "BT21",
+  "CardName": "タイムモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "超/アプモン",
+  "CardType": "ツール",
+  "CardSubType": "タイムスリップ",
+  "Text": "[効果]\n≪ブロッカー≫【自分のターン】[ターンに1回]このデジモンがリンクしたとき、相手のデジモン1体を≪退化1≫。\n"
+}

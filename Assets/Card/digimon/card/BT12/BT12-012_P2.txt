@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-012_P2",
+  "PackNo": "BT12",
+  "CardName": "アグニモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【消滅時】自分の手札から、「神原拓也」1枚をコストを支払わずに登場できる。\n"
+}

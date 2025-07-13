@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-020",
+  "PackNo": "BT17",
+  "CardName": "ストラビモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青黄／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]自分の手札から、進化元効果を持つテイマーカード1枚を支払う登場コスト-2で登場できる。\n"
+}

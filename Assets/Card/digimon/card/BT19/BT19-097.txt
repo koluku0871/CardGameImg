@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT19-097",
+  "PackNo": "BT19",
+  "CardName": "真愛の絆",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "3",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

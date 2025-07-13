@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT21-003",
+  "PackNo": "BT21",
+  "CardName": "ピョコモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "球根型/WG",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]特徴に「WG」を持つ自分のデジモンが登場したとき、≪1ドロー≫。\n"
+}

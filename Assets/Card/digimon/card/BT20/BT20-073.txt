@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-073",
+  "PackNo": "BT20",
+  "CardName": "メタルファントモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫黒／4"
+  ],
+  "Element": "紫黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型/X抗体",
+  "Text": "[進化元効果]\n【消滅時】相手のデジモン1体を≪退化1≫。\n"
+}

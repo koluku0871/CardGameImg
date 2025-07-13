@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-036",
+  "PackNo": "BT12",
+  "CardName": "ミケモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄緑／2"
+  ],
+  "Element": "黄緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］このデジモンがバトルで相手のデジモンを消滅させたとき、メモリー＋1。\n"
+}

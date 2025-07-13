@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-021_P1",
+  "PackNo": "BT3",
+  "CardName": "ブイモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "小竜型",
+  "Text": "[効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n"
+}

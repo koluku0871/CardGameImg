@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-051",
+  "PackNo": "BT6",
+  "CardName": "トロピアモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【アタック時】DP5000以下の相手のデジモン1体をレストさせる。\n"
+}

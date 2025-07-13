@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT21-102_P2",
+  "PackNo": "BT21",
+  "CardName": "八神太一",
+  "CardRarity": "SEC",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "4",
+  "CardSubType": "アドベンチャー/ヒーロー",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

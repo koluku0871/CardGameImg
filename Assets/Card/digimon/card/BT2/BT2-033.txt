@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-033",
+  "PackNo": "BT2",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【アタック時】黄の自分のテイマーが3体以上いるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

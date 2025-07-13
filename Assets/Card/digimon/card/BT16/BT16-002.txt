@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT16-002",
+  "PackNo": "BT16",
+  "CardName": "チビモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "幼竜型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンが2色以上の間、このデジモンをDP+1000。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT6-006_P1",
+  "PackNo": "BT6",
+  "CardName": "ツノモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分の効果で自分の手札を破棄したとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-064_P1",
+  "PackNo": "BT9",
+  "CardName": "グレイドモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "戦士型/X抗体",
+  "Text": "[進化元効果]\n【アタック終了時】このデジモンが名称に「アルファモン」を含むとき、登場コスト5以下の相手のデジモン1体を消滅させる。\n"
+}

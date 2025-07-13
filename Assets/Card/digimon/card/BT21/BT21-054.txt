@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-054",
+  "PackNo": "BT21",
+  "CardName": "ショットモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "並/アプモン",
+  "CardType": "ゲーム",
+  "CardSubType": "シューティング",
+  "Text": "[効果]\n【登場時】自分のデジモンの進化元から、特徴に「アプモン」/「三銃士」を持つカード1枚を破棄することで、相手のデジモン1体を≪退化1≫。\n"
+}

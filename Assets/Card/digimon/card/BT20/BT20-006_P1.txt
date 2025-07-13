@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT20-006_P1",
+  "PackNo": "BT20",
+  "CardName": "プチメラモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "火炎型/リベレイター",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、特徴に「ゴースト型」を持つデジモンカード1枚を手札に戻せる。\n"
+}

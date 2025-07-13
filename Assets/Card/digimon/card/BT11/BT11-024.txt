@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-024",
+  "PackNo": "BT11",
+  "CardName": "ペンモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥型",
+  "Text": "[効果]\n【登場時】自分の手札から、青のLv.3のデジモンカードか特徴に「水棲」を含むデジモンカード1枚をこのデジモンの進化元の下に置くことで、≪1ドロー≫。\n"
+}

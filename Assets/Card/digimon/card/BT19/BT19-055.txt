@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-055",
+  "PackNo": "BT19",
+  "CardName": "モニタモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "ブラウン型/トワイライト/クロスハート",
+  "Text": "[進化元効果]\n≪再起動≫（このデジモンは相手のアクティブフェイズでもアクティブになる）\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-076",
+  "PackNo": "BT9",
+  "CardName": "メイクラックモン：ヴィシャスモード",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫黄／4"
+  ],
+  "Element": "紫黄",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "不明",
+  "CardSubType": "不明",
+  "Text": "[進化元効果]\n【消滅時】このデジモンが2色以上だったとき、メモリー+2。\n"
+}

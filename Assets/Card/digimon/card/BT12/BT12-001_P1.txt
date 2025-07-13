@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT12-001_P1",
+  "PackNo": "BT12",
+  "CardName": "ギギモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】自分の発揮するDP消滅効果の上限+1000。\n"
+}

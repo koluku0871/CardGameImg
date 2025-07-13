@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-028",
+  "PackNo": "BT14",
+  "CardName": "トノサマゲコモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型",
+  "Text": "[効果]\n≪ブロッカー≫【お互いのターン】［ターンに1回］相手のデジモンの進化元が破棄されたとき、相手のターン終了まで、このデジモンはバトルでは消滅しない。\n"
+}

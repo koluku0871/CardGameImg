@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-048",
+  "PackNo": "BT10",
+  "CardName": "サンフラウモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分のデジモンが効果でレストしたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

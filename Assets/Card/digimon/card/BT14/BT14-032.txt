@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-032",
+  "PackNo": "BT14",
+  "CardName": "チューモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄黒／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【消滅時】ターン終了まで、相手のデジモン1体をDP-3000。\n"
+}

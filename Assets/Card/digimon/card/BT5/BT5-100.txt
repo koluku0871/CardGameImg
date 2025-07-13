@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT5-100",
+  "PackNo": "BT5",
+  "CardName": "ロイヤルナッツ",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "1",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

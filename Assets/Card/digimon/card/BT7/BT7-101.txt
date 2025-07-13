@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT7-101",
+  "PackNo": "BT7",
+  "CardName": "サンダーレーザー",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "1",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

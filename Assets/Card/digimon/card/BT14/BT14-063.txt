@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-063",
+  "PackNo": "BT14",
+  "CardName": "ブラックキングヌメモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "軟体型",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

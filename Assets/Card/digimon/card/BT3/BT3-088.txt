@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-088",
+  "PackNo": "BT3",
+  "CardName": "レディーデビモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分がオプションカードを使用したとき、Lv.3の相手のデジモン1体を消滅させる。\n"
+}

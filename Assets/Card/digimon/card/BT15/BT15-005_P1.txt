@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT15-005_P1",
+  "PackNo": "BT15",
+  "CardName": "キョキョモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/X抗体",
+  "Text": "[進化元効果]\n【相手のターン】［ターンに1回］デジモンがアクティブになったとき、≪1ドロー≫。\n"
+}

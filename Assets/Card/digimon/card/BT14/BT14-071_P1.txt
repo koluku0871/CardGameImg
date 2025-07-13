@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-071_P1",
+  "PackNo": "BT14",
+  "CardName": "ルガモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型/X抗体/SoC",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］特徴に「魔獣型」/「SoC」を持つ自分のカードが登場したとき、メモリー+1。\n"
+}

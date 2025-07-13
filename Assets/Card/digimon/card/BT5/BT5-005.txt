@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT5-005",
+  "PackNo": "BT5",
+  "CardName": "ツメモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "種族不明",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが特徴に「種族不明」を持つとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

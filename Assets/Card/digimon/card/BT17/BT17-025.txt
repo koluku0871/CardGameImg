@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-025",
+  "PackNo": "BT17",
+  "CardName": "ケルベロモン：人狼モード",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 青紫／4"
+  ],
+  "Element": "青紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]効果で自分のデジモンが登場したとき、Lv.3の相手のデジモン1体を手札に戻す。\n"
+}

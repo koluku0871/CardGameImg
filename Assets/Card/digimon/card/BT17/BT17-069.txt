@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-069",
+  "PackNo": "BT17",
+  "CardName": "フェンリルガモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 紫赤／3"
+  ],
+  "Element": "紫赤",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型/X抗体/SoC",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「フェンリルガモン」を含む間、ターン終了条件が、メモリーが相手側の3以上に移動したときになる。\n"
+}

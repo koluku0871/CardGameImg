@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT18-092",
+  "PackNo": "BT18",
+  "CardName": "ゼニス",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "4",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

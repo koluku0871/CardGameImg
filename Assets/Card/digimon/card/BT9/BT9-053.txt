@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT9-053",
+  "PackNo": "BT9",
+  "CardName": "ザミエールモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "魔人型/ビッグデスターズ"
+}

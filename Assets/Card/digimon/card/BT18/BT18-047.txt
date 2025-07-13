@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-047",
+  "PackNo": "BT18",
+  "CardName": "アルボルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]相手のデジモン1体をレストさせる。\n"
+}

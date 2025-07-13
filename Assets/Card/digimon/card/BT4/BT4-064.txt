@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-064",
+  "PackNo": "BT4",
+  "CardName": "スナリザモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが発揮した≪デジバースト≫でこのカードが破棄されたとき、このカードを手札に戻す。\n"
+}

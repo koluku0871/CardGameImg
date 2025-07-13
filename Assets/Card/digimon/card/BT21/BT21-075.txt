@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-075",
+  "PackNo": "BT21",
+  "CardName": "スカルグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫赤／4"
+  ],
+  "Element": "紫赤",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型/アドベンチャー",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、特徴に「アドベンチャー」を持つ登場コスト4以下のカード1枚をコストを支払わずに登場できる。\n"
+}

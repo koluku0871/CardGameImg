@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-077_P1",
+  "PackNo": "BT12",
+  "CardName": "アレスタードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンに≪セーブ≫の記述があるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

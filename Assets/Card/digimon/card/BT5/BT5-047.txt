@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-047",
+  "PackNo": "BT5",
+  "CardName": "パルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型",
+  "Text": "[効果]\n【消滅時】自分のトラッシュから、「パルモン」1枚を緑の自分のデジモン1体の進化元の1番下に置く。\n"
+}

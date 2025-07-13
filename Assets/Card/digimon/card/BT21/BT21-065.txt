@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-065",
+  "PackNo": "BT21",
+  "CardName": "ゴースモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "ゴースト型/リベレイター",
+  "Text": "[進化元効果]\n【消滅時】メモリー+1。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-045",
+  "PackNo": "BT12",
+  "CardName": "エビバーガモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "食物型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から1枚オープンする。そのカードが緑のデジモンカードなら手札に加える。残りはデッキの下に戻す。\n"
+}

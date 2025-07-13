@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT19-081_P1",
+  "PackNo": "BT19",
+  "CardName": "蒼沼キリハ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "3",
+  "CardSubType": "ジェネラル/ブルーフレア",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

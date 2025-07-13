@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT10-004",
+  "PackNo": "BT10",
+  "CardName": "ボサモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］デジモンが効果でレストしたとき、このターンの間、このデジモンをDP+1000。\n"
+}

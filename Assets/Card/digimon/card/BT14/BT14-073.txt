@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-073",
+  "PackNo": "BT14",
+  "CardName": "オーガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "鬼人型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分の効果で自分の手札が破棄されたとき、メモリー+1。\n"
+}

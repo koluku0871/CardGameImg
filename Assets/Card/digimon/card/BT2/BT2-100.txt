@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT2-100",
+  "PackNo": "BT2",
+  "CardName": "ブリットハンマー",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "3",
+  "Text": "[セキュリティ効果]\n-\n"
+}

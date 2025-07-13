@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-047",
+  "PackNo": "BT20",
+  "CardName": "ソーラーモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "マシーン型",
+  "Text": "[進化元効果]\n≪再起動≫（このデジモンは相手のアクティブフェイズでもアクティブになる）\n"
+}

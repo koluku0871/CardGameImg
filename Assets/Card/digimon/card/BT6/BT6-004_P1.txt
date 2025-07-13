@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT6-004_P1",
+  "PackNo": "BT6",
+  "CardName": "ピナモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "ヒナ鳥型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］相手のデジモンにアタックしたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

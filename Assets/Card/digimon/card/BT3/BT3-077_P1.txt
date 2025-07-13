@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-077_P1",
+  "PackNo": "BT3",
+  "CardName": "ガジモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "哺乳類型",
+  "Text": "[効果]\n【お互いのターン】相手はテイマーの効果以外でメモリーをプラスできない。\n"
+}

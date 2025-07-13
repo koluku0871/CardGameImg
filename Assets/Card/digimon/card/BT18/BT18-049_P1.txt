@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-049_P1",
+  "PackNo": "BT18",
+  "CardName": "シューツモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 緑赤／4"
+  ],
+  "Element": "緑赤",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "鳥人型",
+  "Text": "[進化元効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンを消滅させたとき、アタック終了前にチェックする）\n"
+}

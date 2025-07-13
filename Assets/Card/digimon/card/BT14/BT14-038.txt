@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-038",
+  "PackNo": "BT14",
+  "CardName": "エテモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黄／4"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、「エテモン」1枚を自分のセキュリティの下に置く。\n"
+}

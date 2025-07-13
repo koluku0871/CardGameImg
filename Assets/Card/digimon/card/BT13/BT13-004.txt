@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT13-004",
+  "PackNo": "BT13",
+  "CardName": "バドモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【自分のターン】レスト状態の相手のデジモンがいる間、このデジモンをDP+1000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-019",
+  "PackNo": "BT10",
+  "CardName": "グレイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "恐竜型/ブルーフレア",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが特徴に「ブルーフレア」を持ち、相手のデジモンが2体以上いるとき、このデジモンをアクティブにする。\n"
+}

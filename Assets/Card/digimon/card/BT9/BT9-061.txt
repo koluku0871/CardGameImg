@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-061",
+  "PackNo": "BT9",
+  "CardName": "モノクロモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒赤／2"
+  ],
+  "Element": "黒赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "鎧竜型",
+  "Text": "[効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンをレストさせることでアタックの対象をこのデジモンにする）【アタック時】メモリー-3。\n"
+}

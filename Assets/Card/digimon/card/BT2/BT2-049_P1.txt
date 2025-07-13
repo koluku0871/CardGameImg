@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-049_P1",
+  "PackNo": "BT2",
+  "CardName": "ピノッキモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[効果]\n【登場時】相手のデジモン1体をレストさせる。次の相手のアクティブフェイズでは、相手のデジモン全てはアクティブにならない。【アタック時】メモリーを+1する。\n"
+}

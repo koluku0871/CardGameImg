@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-062",
+  "PackNo": "BT15",
+  "CardName": "ギガドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n≪再起動≫（このデジモンは相手のアクティブフェイズでもアクティブになる）\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-042",
+  "PackNo": "BT17",
+  "CardName": "アルゴモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑紫／1"
+  ],
+  "Element": "緑紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【消滅時】メモリー+1。\n"
+}

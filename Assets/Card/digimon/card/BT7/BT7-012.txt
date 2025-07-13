@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT7-012",
+  "PackNo": "BT7",
+  "CardName": "ブラキモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "首長竜型"
+}

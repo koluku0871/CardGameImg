@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-020",
+  "PackNo": "BT18",
+  "CardName": "シャコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "甲殻類型",
+  "Text": "[効果]\n〈ルール〉特徴:タイプ「水棲型」を持つ。\n"
+}

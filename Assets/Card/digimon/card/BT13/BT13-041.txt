@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-041",
+  "PackNo": "BT13",
+  "CardName": "チィリンモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[進化元効果]\n【消滅時】自分の手札かトラッシュから、「クダモン」1枚をコストを支払わずにレスト状態で登場できる。\n"
+}

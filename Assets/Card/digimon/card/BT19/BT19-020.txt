@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-020",
+  "PackNo": "BT19",
+  "CardName": "グレイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青黒／3"
+  ],
+  "Element": "青黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "恐竜型/ブルーフレア",
+  "Text": "[進化元効果]\n≪再起動≫（このデジモンは相手のアクティブフェイズでもアクティブになる）\n"
+}

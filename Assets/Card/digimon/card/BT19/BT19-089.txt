@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT19-089",
+  "PackNo": "BT19",
+  "CardName": "レッドカード",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

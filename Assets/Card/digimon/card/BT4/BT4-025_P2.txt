@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-025_P2",
+  "PackNo": "BT4",
+  "CardName": "ヴォルフモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "戦士型",
+  "Text": "[効果]\n手札のこのカードは、青の自分のテイマーを青のLv.3のデジモンとして扱い進化できる。\n"
+}

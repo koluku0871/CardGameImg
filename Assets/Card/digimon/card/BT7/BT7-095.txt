@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT7-095",
+  "PackNo": "BT7",
+  "CardName": "ブルーハワイデス",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

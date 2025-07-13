@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-044",
+  "PackNo": "BT16",
+  "CardName": "ピストモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 緑黄／3"
+  ],
+  "Element": "緑",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【アタック終了時】[ターンに1回]このデジモンに「パルスモン」の記述があるなら、自分のセキュリティを上から1枚破棄することで、このデジモンをアクティブにする。\n"
+}

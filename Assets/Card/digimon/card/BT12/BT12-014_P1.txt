@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-014_P1",
+  "PackNo": "BT12",
+  "CardName": "オメガシャウトモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "竜人型/クロスハート",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンに≪セーブ≫の記述があるとき、DP4000以下の相手のデジモン1体を消滅させる。\n"
+}

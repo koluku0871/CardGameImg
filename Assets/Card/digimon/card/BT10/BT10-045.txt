@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-045",
+  "PackNo": "BT10",
+  "CardName": "コクワモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "マシーン型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］このデジモンがバトルで相手のデジモンを消滅させたとき、メモリー+1。\n"
+}

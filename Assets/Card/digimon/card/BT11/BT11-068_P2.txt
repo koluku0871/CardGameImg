@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-068_P2",
+  "PackNo": "BT11",
+  "CardName": "マメモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒緑／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]効果で他の自分のデジモンが登場したとき、相手のターン終了まで、自分のデジモン1体は≪ブロッカー≫を得る。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT21-085_P1",
+  "PackNo": "BT21",
+  "CardName": "本宮大輔",
+  "CardRarity": "SR",
+  "Lv": [],
+  "Element": "青赤",
+  "Cost": "4",
+  "CardSubType": "ヒーロー",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

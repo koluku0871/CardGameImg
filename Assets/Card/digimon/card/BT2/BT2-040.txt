@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-040",
+  "PackNo": "BT2",
+  "CardName": "オファニモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "12",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "座天使型/三大天使",
+  "Text": "[効果]\n【消滅時】このカードを自分のセキュリティの上に裏向きで置く。\n"
+}

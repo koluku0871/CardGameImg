@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-072",
+  "PackNo": "BT6",
+  "CardName": "オーガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "鬼人型",
+  "Text": "[効果]\n【登場時】自分の手札を1枚破棄することで、Lv.4以下の相手のデジモン1体を消滅させる。\n"
+}

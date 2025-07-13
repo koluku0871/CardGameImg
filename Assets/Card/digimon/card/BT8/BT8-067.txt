@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-067",
+  "PackNo": "BT8",
+  "CardName": "メタルグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒赤／4"
+  ],
+  "Element": "黒赤",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが特徴に「竜人型」か「マシーン型」を持つ間、このデジモンはアクティブ状態の相手のデジモンにもアタックできる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-017",
+  "PackNo": "BT19",
+  "CardName": "サンゴモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "軟体型/リベレイター",
+  "Text": "[進化元効果]\n【アタック終了時】[ターンに1回]メモリー+1。\n"
+}

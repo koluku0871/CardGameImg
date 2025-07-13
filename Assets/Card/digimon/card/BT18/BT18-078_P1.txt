@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-078_P1",
+  "PackNo": "BT18",
+  "CardName": "ダスクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV3 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、登場コスト4以下のテイマーカード1枚をコストを支払わずに登場できる。\n"
+}

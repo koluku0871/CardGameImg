@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-031",
+  "PackNo": "BT19",
+  "CardName": "スターモンズ",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄赤／1"
+  ],
+  "Element": "黄赤",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "メジャー型/クロスハート",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが特徴に「クロスハート」を持つなら、ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

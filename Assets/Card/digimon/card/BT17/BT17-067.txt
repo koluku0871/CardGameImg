@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-067",
+  "PackNo": "BT17",
+  "CardName": "デクスドルグレモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫黒／4"
+  ],
+  "Element": "紫黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型/X抗体/SoC",
+  "Text": "[進化元効果]\n【アタック終了時】[ターンに1回]自分のデジモン1体を選べる。選んだ自分のデジモン1体とそのデジモンのLv.以下の相手のデジモン1体を消滅させる。\n"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT5-107",
+  "PackNo": "BT5",
+  "CardName": "ヤミよりの復活！！",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "4",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

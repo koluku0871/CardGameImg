@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT19-005",
+  "PackNo": "BT19",
+  "CardName": "ホップモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "幼竜型",
+  "Text": "[進化元効果]\n【相手のターン】相手のデジモンがいる間、このデジモンは≪再起動≫を得る。\n"
+}

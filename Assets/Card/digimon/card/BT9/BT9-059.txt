@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-059",
+  "PackNo": "BT9",
+  "CardName": "バクモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒赤／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンが2色以上の間、このデジモンをDP+1000。\n"
+}

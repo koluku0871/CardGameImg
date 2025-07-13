@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-029",
+  "PackNo": "BT8",
+  "CardName": "フロゾモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "マシーン型",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]相手のデジモンの進化元が破棄されたとき、Lv.3の相手のデジモン1体を手札に戻す。\n"
+}

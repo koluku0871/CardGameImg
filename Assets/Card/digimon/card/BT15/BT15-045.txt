@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-045",
+  "PackNo": "BT15",
+  "CardName": "パルモンX抗体",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型/X抗体",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］緑の自分のテイマーが登場したとき、メモリー+1。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-066",
+  "PackNo": "BT19",
+  "CardName": "ギザモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 紫黒／1"
+  ],
+  "Element": "紫黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "水棲哺乳類型",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

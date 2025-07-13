@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-037",
+  "PackNo": "BT21",
+  "CardName": "ライドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青緑／3"
+  ],
+  "Element": "青緑",
+  "Cost": "6",
+  "CardCategory": "アーマー体",
+  "CardType": "フリー",
+  "CardSubType": "獣型",
+  "Text": "[効果]\n≪貫通≫≪アーマー解除≫【進化時】相手のデジモン1体をレストさせる。その後、相手のターン終了まで、このデジモンをDP+2000。\n"
+}

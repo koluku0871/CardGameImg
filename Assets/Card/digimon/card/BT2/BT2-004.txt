@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT2-004",
+  "PackNo": "BT2",
+  "CardName": "アルゴモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがアクティブフェイズでアクティブになったとき、メモリーを+1する。\n"
+}

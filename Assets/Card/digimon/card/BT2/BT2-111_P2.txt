@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-111_P2",
+  "PackNo": "BT2",
+  "CardName": "ベルゼブモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "SEC",
+  "Lv": [
+    "LV5 : 紫／4"
+  ],
+  "Element": "紫",
+  "Cost": "12",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔王型/七大魔王",
+  "Text": "[効果]\n自分のトラッシュが10枚以上の間、自分の「インプモン」は手札のこのカードに進化条件を無視して進化コスト4で進化できる。【進化時】Lv.4以下の相手のデジモン1体を消滅させる。\n"
+}

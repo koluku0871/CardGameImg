@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT2-075",
+  "PackNo": "BT2",
+  "CardName": "ヴァンデモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型"
+}

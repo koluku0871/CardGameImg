@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-031",
+  "PackNo": "BT7",
+  "CardName": "エリスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "哺乳類型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが発揮した≪デジバースト≫でこのカードが破棄されたとき、このカードを手札に戻す。\n"
+}

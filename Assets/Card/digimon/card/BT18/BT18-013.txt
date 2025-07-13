@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-013",
+  "PackNo": "BT18",
+  "CardName": "デルタモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤紫／3"
+  ],
+  "Element": "赤紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "合成型",
+  "Text": "[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

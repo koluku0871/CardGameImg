@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-050",
+  "PackNo": "BT12",
+  "CardName": "スティングモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 緑青／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "フリー",
+  "CardSubType": "昆虫型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「インペリアルドラモン」を含むか特徴に「フリー」を持つ間、このデジモンは≪貫通≫を得る。\n"
+}

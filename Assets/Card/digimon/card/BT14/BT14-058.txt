@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-058",
+  "PackNo": "BT14",
+  "CardName": "ヌメモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "軟体型/デジ対",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

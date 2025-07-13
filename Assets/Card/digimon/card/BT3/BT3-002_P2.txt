@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT3-002_P2",
+  "PackNo": "BT3",
+  "CardName": "チビモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "幼竜型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが≪ジャミング≫を持つなら、≪1ドロー≫。\n"
+}

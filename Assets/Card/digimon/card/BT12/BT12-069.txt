@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT12-069",
+  "PackNo": "BT12",
+  "CardName": "フットモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型"
+}

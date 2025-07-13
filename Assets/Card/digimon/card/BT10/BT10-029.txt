@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-029",
+  "PackNo": "BT10",
+  "CardName": "スターモンズ",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "メジャー型/クロスハート",
+  "Text": "[進化元効果]\n【アタック時】このデジモンが名称に「シャウトモン」を含むとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

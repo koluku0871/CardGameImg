@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-028",
+  "PackNo": "BT12",
+  "CardName": "パイルドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 青緑／4"
+  ],
+  "Element": "青緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【アタック終了時】このデジモンが名称に「インペリアルドラモン」を含むか特徴に「フリー」を持つとき、メモリー＋1。\n"
+}

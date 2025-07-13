@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-061_P2",
+  "PackNo": "BT11",
+  "CardName": "ベムモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "不明",
+  "CardSubType": "不明",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]このデジモンが「デストロモン」/「ラグナモン」に進化するとき、支払う進化コスト-1。\n"
+}

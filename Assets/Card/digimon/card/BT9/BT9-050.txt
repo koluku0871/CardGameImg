@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-050",
+  "PackNo": "BT9",
+  "CardName": "レオモンX抗体",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑青／2"
+  ],
+  "Element": "緑青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型/X抗体",
+  "Text": "[効果]\n【お互いのターン】このデジモンがバトルで消滅するとき、このデジモンの進化元から、「レオモン」1枚をコストを支払わずに登場できる。\n"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-085",
+  "PackNo": "BT4",
+  "CardName": "ファントモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "ゴースト型"
+}

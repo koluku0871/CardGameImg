@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-062",
+  "PackNo": "BT3",
+  "CardName": "ルドモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "防具型/Legend-Arms",
+  "Text": "[効果]\n【登場時】自分のデッキの上から5枚オープンする。その中の「ラグナロードモン」と特徴に「Legend-Arms」を持つデジモンカード1枚ずつを手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

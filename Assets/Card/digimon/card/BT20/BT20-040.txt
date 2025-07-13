@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-040",
+  "PackNo": "BT20",
+  "CardName": "コアドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑赤／3"
+  ],
+  "Element": "緑赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "竜型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT15-001",
+  "PackNo": "BT15",
+  "CardName": "ピョコモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "球根型",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、特徴に「鳥」/「獣」を含むデジモンカード1枚を手札に戻す。\n"
+}

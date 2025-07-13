@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-039",
+  "PackNo": "BT12",
+  "CardName": "ゴクウモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］次の相手のターン終了まで、相手のデジモン1体に≪セキュリティアタック-1≫（このデジモンがチェックする枚数-1）を与える。\n"
+}

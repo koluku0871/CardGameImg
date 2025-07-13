@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT16-001_P1",
+  "PackNo": "BT16",
+  "CardName": "ポロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "小鳥型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが2色以上なら、DP2000以下の相手のデジモン1体を消滅させる。\n"
+}

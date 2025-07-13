@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-024",
+  "PackNo": "BT4",
+  "CardName": "トビウモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／1"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "水棲型"
+}

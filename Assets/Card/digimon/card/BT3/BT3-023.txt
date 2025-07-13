@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-023",
+  "PackNo": "BT3",
+  "CardName": "エンジェモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "天使型",
+  "Text": "[進化元効果]\n【アタック時】相手のデジモン1体の進化元を、下から1枚破棄する。\n"
+}

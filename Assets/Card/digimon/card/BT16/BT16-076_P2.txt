@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-076_P2",
+  "PackNo": "BT16",
+  "CardName": "ソルガルモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫赤／4"
+  ],
+  "Element": "紫赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型/X抗体/SoC",
+  "Text": "[進化元効果]\n【アタック終了時】[ターンに1回]メモリーが相手側の1以上なら、このデジモンをアクティブにする。\n"
+}

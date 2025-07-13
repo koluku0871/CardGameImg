@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT10-055",
+  "PackNo": "BT10",
+  "CardName": "グリフォモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "U",
+  "Lv": [
+    "LV5 : 緑黄／3"
+  ],
+  "Element": "緑黄",
+  "Cost": "10",
+  "CardCategory": "究極体",
+  "CardType": "データ種",
+  "CardSubType": "幻獣型"
+}

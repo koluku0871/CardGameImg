@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT18-001",
+  "PackNo": "BT18",
+  "CardName": "プチメラモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "火炎型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]赤の自分のテイマーがいるなら、DP3000以下の相手のデジモン1体を消滅させる。\n"
+}

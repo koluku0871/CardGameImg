@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-015",
+  "PackNo": "BT21",
+  "CardName": "サイクロモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

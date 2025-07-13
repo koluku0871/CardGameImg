@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-022",
+  "PackNo": "BT11",
+  "CardName": "ドラコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "竜型/ブルーフレア",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］名称に「ドラモン」を含むか特徴に「ブルーフレア」を持つ他の自分のデジモンが登場したとき、メモリー+1。\n"
+}

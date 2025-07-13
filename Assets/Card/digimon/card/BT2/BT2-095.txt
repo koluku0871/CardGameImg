@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT2-095",
+  "PackNo": "BT2",
+  "CardName": "アルティメットストリーム",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "3",
+  "Text": "[セキュリティ効果]\n-\n"
+}

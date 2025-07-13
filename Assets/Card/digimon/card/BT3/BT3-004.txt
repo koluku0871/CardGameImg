@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT3-004",
+  "PackNo": "BT3",
+  "CardName": "ミノモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "幼虫型",
+  "Text": "[進化元効果]\n【アタック時】相手のデジモンにアタックしたとき、このターンの間、このデジモンのDPを+1000する。\n"
+}

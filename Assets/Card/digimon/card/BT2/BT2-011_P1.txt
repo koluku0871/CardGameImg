@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT2-011_P1",
+  "PackNo": "BT2",
+  "CardName": "ヴォーボモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "岩竜型"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT11-053",
+  "PackNo": "BT11",
+  "CardName": "デジタマモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "パーフェクト型"
+}

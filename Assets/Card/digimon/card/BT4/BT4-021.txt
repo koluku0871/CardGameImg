@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-021",
+  "PackNo": "BT4",
+  "CardName": "ガオモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが発揮した≪デジバースト≫でこのカードが破棄されたとき、このカードを手札に戻す。\n"
+}

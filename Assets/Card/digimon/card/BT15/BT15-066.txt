@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-066",
+  "PackNo": "BT15",
+  "CardName": "ムゲンドラモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "マシーン型/ダークマスターズ",
+  "Text": "[進化元効果]\n≪再起動≫（このデジモンは相手のアクティブフェイズでもアクティブになる）\n"
+}

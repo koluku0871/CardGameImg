@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT4-001",
+  "PackNo": "BT4",
+  "CardName": "サクットモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "武器型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンがLv.7のとき、メモリーを+1する。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-018_P2",
+  "PackNo": "BT7",
+  "CardName": "ゴマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "海獣型",
+  "Text": "[効果]\n【登場時】進化元から登場していたなら、≪2ドロー≫（自分のデッキからカードを2枚引く）。\n"
+}

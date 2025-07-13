@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT2-007",
+  "PackNo": "BT2",
+  "CardName": "パグモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】自分のデッキの上から1枚破棄する。\n"
+}

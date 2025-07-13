@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-079_P1",
+  "PackNo": "BT8",
+  "CardName": "スカルサタモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分のデッキが破棄されたとき、メモリー+1。\n"
+}

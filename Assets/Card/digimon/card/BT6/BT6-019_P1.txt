@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-019_P1",
+  "PackNo": "BT6",
+  "CardName": "ガブモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが「ガブモン-友情の絆-」のとき、このデジモンをアクティブにできる。\n"
+}

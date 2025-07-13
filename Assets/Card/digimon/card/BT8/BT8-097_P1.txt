@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT8-097_P1",
+  "PackNo": "BT8",
+  "CardName": "紅焔",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "6",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードの【メイン】効果を発揮する。\n"
+}

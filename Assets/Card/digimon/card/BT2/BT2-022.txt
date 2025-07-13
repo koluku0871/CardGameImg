@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT2-022",
+  "PackNo": "BT2",
+  "CardName": "ベタモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／1"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型"
+}

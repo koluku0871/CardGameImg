@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-033",
+  "PackNo": "BT9",
+  "CardName": "ピロモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "哺乳類型",
+  "Text": "[効果]\n【お互いのターン】お互いは効果でデジモンを登場できない。\n"
+}

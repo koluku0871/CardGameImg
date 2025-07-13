@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT9-007",
+  "PackNo": "BT9",
+  "CardName": "ミニデカチモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "小竜型"
+}

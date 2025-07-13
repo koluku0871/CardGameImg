@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT3-099",
+  "PackNo": "BT3",
+  "CardName": "争いはやめましょう",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

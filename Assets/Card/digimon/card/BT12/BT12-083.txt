@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-083",
+  "PackNo": "BT12",
+  "CardName": "アレスタードラモン:スペリオルモード",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 紫／4"
+  ],
+  "Element": "紫",
+  "Cost": "9",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンに≪セーブ≫の記述があるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

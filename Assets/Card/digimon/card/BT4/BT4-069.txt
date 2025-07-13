@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-069",
+  "PackNo": "BT4",
+  "CardName": "ブリンプモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "マシーン型"
+}

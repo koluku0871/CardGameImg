@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-071_P1",
+  "PackNo": "BT5",
+  "CardName": "ギルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型",
+  "Text": "[効果]\n【消滅時】効果で消滅していたなら、メモリー+1。\n"
+}

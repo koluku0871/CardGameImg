@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-082_P1",
+  "PackNo": "BT10",
+  "CardName": "ベルゼブモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "U",
+  "Lv": [
+    "LV5 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔王型/クロスハート",
+  "Text": "[進化元効果]\n【アタック終了時】［ターンに1回］自分のトラッシュ10枚ごとに、メモリー+1。\n"
+}

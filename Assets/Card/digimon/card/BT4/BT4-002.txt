@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT4-002",
+  "PackNo": "BT4",
+  "CardName": "プカモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】Lv.4以下の相手のデジモン1体の進化元を、下から1枚破棄する。\n"
+}

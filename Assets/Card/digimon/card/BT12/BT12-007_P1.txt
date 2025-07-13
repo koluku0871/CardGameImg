@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-007_P1",
+  "PackNo": "BT12",
+  "CardName": "ギルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【自分のターン】名称に「グラウモン」/「デュークモン」を含むこのデジモンをDP+2000。\n"
+}

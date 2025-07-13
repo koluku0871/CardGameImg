@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-019",
+  "PackNo": "BT2",
+  "CardName": "ホウオウモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[効果]\n【アタック時】プレイヤーにアタックしたとき、メモリーを+1する。\n"
+}

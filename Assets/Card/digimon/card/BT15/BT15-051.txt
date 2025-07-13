@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-051",
+  "PackNo": "BT15",
+  "CardName": "リリモンX抗体",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "妖精型/X抗体",
+  "Text": "[進化元効果]\n【自分のターン】レスト状態の相手のデジモン1体ごとに、このデジモンをDP+1000。\n"
+}

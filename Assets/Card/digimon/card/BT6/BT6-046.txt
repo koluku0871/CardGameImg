@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT6-046",
+  "PackNo": "BT6",
+  "CardName": "ポームモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 緑／1"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型"
+}

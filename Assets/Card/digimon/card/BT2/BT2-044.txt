@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-044",
+  "PackNo": "BT2",
+  "CardName": "ティラノモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "恐竜型",
+  "Text": "[効果]\n【進化時】自分のデッキの上から3枚オープンする。その中のLv.5のデジモンカードと緑のテイマーカード1枚ずつを手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-083",
+  "PackNo": "BT3",
+  "CardName": "メラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／1"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "火炎型"
+}

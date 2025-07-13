@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-051",
+  "PackNo": "BT19",
+  "CardName": "アトラーバリスタモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 緑黒／4"
+  ],
+  "Element": "緑黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "マシーン型/クロスハート",
+  "Text": "[進化元効果]\n【相手のターン】特徴に「クロスハート」を持つこのデジモンは≪ブロッカー≫を得る。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-063_P1",
+  "PackNo": "BT3",
+  "CardName": "スカモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "ミュータント型",
+  "Text": "[効果]\n【消滅時】自分のデッキの上から3枚オープンする。その中の「チューモン」1枚をコストを支払わずに登場できる。残りはデッキの下に戻す。\n"
+}

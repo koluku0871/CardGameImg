@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-060",
+  "PackNo": "BT3",
+  "CardName": "サイケモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／1"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "爬虫類型"
+}

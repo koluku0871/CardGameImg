@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-014",
+  "PackNo": "BT4",
+  "CardName": "ヴァーミリモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "鎧竜型"
+}

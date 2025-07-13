@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT5-051",
+  "PackNo": "BT5",
+  "CardName": "モリシェルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "軟体型"
+}

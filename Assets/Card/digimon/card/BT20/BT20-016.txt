@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-016",
+  "PackNo": "BT20",
+  "CardName": "パイルドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 赤紫／4"
+  ],
+  "Element": "赤紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n≪Sアタック+1≫（このデジモンがチェックする枚数+1）\n"
+}

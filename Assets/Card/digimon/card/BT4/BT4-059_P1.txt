@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-059_P1",
+  "PackNo": "BT4",
+  "CardName": "ライラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "妖精型",
+  "Text": "[進化元効果]\n【アタック時】自分のテイマーがいるとき、相手のデジモン1体をレストさせる。\n"
+}

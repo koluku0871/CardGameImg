@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-007",
+  "PackNo": "BT18",
+  "CardName": "ガジモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤紫／1"
+  ],
+  "Element": "赤紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "哺乳類型",
+  "Text": "[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

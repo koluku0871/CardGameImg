@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-068",
+  "PackNo": "BT12",
+  "CardName": "メタルグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒／4"
+  ],
+  "Element": "黒赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「グレイモン」か「オメガモン」を含む間、このデジモンは≪貫通≫を得る。\n"
+}

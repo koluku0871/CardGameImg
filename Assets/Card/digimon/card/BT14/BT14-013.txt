@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-013",
+  "PackNo": "BT14",
+  "CardName": "ティラノモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤緑／3"
+  ],
+  "Element": "赤緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン終了時】［ターンに1回］このデジモンが名称に「ティラノモン」を含むか特徴に「恐竜型」/「角竜型」を持つなら、このデジモンでアタックできる。\n"
+}

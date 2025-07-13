@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-061",
+  "PackNo": "BT6",
+  "CardName": "ギガドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒赤／3"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンのDPを+2000する。\n"
+}

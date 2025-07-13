@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-032_P1",
+  "PackNo": "BT20",
+  "CardName": "バルクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫緑／3"
+  ],
+  "Element": "黄緑",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜人型/AE社/シーカーズ",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンがバトルで相手のデジモンを消滅させたとき、メモリー+1。\n"
+}

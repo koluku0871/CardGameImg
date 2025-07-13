@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-060",
+  "PackNo": "BT19",
+  "CardName": "ストライクドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンをDP+1000。\n"
+}

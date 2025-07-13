@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT7-104",
+  "PackNo": "BT7",
+  "CardName": "メタルキャノン",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

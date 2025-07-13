@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT2-092",
+  "PackNo": "BT2",
+  "CardName": "ダブルエッジ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "3",
+  "Text": "[セキュリティ効果]\n-\n"
+}

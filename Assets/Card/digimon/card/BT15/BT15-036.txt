@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-036",
+  "PackNo": "BT15",
+  "CardName": "ウィザーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄紫／3"
+  ],
+  "Element": "黄紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "魔人型",
+  "Text": "[効果]\n≪ブロッカー≫【登場時】【消滅時】自分のセキュリティを上か下から1枚破棄することで、相手のターン終了まで、相手のデジモン1体をDP-6000。\n"
+}

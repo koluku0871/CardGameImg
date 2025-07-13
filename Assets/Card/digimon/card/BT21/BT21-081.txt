@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT21-081",
+  "PackNo": "BT21",
+  "CardName": "オーウェン・ドレッドノート",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "3",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

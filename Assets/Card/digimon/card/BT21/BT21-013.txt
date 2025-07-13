@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-013",
+  "PackNo": "BT21",
+  "CardName": "アグニモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "魔人型/ヒーロー",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

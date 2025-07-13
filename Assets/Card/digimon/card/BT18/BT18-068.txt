@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-068",
+  "PackNo": "BT18",
+  "CardName": "ワイズモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔人型",
+  "Text": "[効果]\n≪ブロッカー≫【登場時】【進化時】自分/相手のデッキの上から5枚オープンする。オープンしたカードをデッキの上か下だけに戻す。\n"
+}

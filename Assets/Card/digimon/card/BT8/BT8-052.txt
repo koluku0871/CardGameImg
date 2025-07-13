@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT8-052",
+  "PackNo": "BT8",
+  "CardName": "ドリモゲモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／1"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "獣型"
+}

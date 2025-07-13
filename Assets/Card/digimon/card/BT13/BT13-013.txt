@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-013",
+  "PackNo": "BT13",
+  "CardName": "バオハックモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］名称に「シスタモン」を含む自分のデジモンが登場したとき、メモリー+1。\n"
+}

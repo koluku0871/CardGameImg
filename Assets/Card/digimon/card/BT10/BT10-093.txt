@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT10-093",
+  "PackNo": "BT10",
+  "CardName": "天野ユウ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "3",
+  "CardSubType": "ジェネラル/バグラ軍",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

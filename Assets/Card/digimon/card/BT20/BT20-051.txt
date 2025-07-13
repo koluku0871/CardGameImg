@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-051",
+  "PackNo": "BT20",
+  "CardName": "ラプタードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒黄／3"
+  ],
+  "Element": "黒黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型/X抗体/クロニクル",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンをDP+2000。\n"
+}

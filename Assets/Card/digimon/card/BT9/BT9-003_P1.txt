@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT9-003_P1",
+  "PackNo": "BT9",
+  "CardName": "トコモンX抗体",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黄",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/X抗体",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分のセキュリティが増えたとき、このターンの間、相手のデジモン1体をDP-1000。\n"
+}

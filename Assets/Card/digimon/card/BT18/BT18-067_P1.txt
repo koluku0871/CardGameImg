@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-067_P1",
+  "PackNo": "BT18",
+  "CardName": "ボルグモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 黒黄／4"
+  ],
+  "Element": "黒黄",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

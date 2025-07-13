@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-111_P1",
+  "PackNo": "BT10",
+  "CardName": "シャウトモンキングVer.",
+  "CardLevel": "Lv.4",
+  "CardRarity": "SEC",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "小竜型/クロスハート",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「シャウトモン」を含む間、このデジモンをDP+2000。\n"
+}

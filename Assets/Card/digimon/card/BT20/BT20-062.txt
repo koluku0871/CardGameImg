@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-062",
+  "PackNo": "BT20",
+  "CardName": "キャンドモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "火炎型",
+  "Text": "[進化元効果]\n【消滅時】自分の手札1枚を破棄することで、Lv.4以下の相手のデジモン1体を消滅させる。\n"
+}

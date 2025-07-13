@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-021",
+  "PackNo": "BT18",
+  "CardName": "ペンモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青赤／1"
+  ],
+  "Element": "青赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥型",
+  "Text": "[進化元効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n"
+}
