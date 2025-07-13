@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX2-014",
+  "PackNo": "EX2",
+  "CardName": "アイスデビモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型",
+  "Text": "[効果]\n【アタック時】進化元を持たないLv.4以下の相手のデジモン1体を手札に戻す。\n"
+}

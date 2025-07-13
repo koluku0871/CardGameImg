@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX8-070",
+  "PackNo": "EX8",
+  "CardName": "ゾフルカーブース",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "2",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】最も登場コストの低い相手のデジモン1体を消滅させる。\n"
+}

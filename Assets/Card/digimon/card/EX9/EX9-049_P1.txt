@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-049_P1",
+  "PackNo": "EX9",
+  "CardName": "スカモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "ミュータント型/DM/Ver.3",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

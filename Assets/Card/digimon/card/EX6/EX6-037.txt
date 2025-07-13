@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX6-037",
+  "PackNo": "EX6",
+  "CardName": "スパーダモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黒赤／1"
+  ],
+  "Element": "黒赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "武器型/Legend-Arms",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]DP3000以下の相手のデジモン1体を消滅させる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-048",
+  "PackNo": "EX8",
+  "CardName": "ランドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "鉱物型/リベレイター",
+  "Text": "[進化元効果]\nこのカードが特徴に「鉱物型」/「鉱石型」を持つデジモンの進化元から効果で破棄されたとき、登場コスト4以下の相手のデジモン1体を消滅させる。\n"
+}

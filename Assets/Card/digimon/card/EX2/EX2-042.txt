@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX2-042",
+  "PackNo": "EX2",
+  "CardName": "メフィスモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］自分の手札を1枚破棄することで、メモリー+1。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-059_P1",
+  "PackNo": "EX1",
+  "CardName": "オーガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "鬼人型",
+  "Text": "[進化元効果]\n【アタック時】自分の手札を1枚破棄することで、このターンの間、このデジモンのDPを+2000する。\n"
+}

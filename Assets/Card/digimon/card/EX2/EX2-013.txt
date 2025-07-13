@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX2-013",
+  "PackNo": "EX2",
+  "CardName": "ラブラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが≪ジャミング≫を持つとき、メモリー+1。\n"
+}

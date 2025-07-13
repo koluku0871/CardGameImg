@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX5-005",
+  "PackNo": "EX5",
+  "CardName": "トコモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【消滅時】相手のターンなら、≪1ドロー≫。\n"
+}

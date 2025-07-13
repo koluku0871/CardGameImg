@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-022",
+  "PackNo": "EX8",
+  "CardName": "ユキダルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 青黄／3"
+  ],
+  "Element": "青黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "氷雪型/リベレイター",
+  "Text": "[進化元効果]\n【アタック時】相手のターン終了まで、相手のデジモン1体に≪Sアタック-1≫を与える。\n"
+}

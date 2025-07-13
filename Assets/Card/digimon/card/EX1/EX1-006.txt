@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-006",
+  "PackNo": "EX1",
+  "CardName": "ガルダモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥人型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］プレイヤーにアタックしたとき、メモリーを+1する。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-063",
+  "PackNo": "EX9",
+  "CardName": "デジタマモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫／4"
+  ],
+  "Element": "紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "パーフェクト型/DM/Ver.4",
+  "Text": "[進化元効果]\n≪連携≫（このデジモンがアタックしたとき、他の自分のデジモン1体をレストさせることで、このアタックの間、このデジモンにレストさせたデジモンのDPをプラスし、≪Sアタック+1≫を得る）\n"
+}

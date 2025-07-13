@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-052",
+  "PackNo": "EX9",
+  "CardName": "レアモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型/DM/Ver.5",
+  "Text": "[進化元効果]\n【消滅時】相手のデジモン1体を≪退化1≫。\n"
+}

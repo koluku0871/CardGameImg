@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-039",
+  "PackNo": "EX7",
+  "CardName": "ジャザモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黒赤／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "鳥竜型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンをDP+2000。\n"
+}

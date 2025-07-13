@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX5-046",
+  "PackNo": "EX5",
+  "CardName": "ターゲットモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黒黄／3"
+  ],
+  "Element": "黒黄",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンが消滅するとき、名称に「スカモン」を含む他のデジモン1体を消滅させることで、消滅しない。\n"
+}

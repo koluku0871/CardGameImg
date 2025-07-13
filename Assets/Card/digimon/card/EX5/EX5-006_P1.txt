@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX5-006_P1",
+  "PackNo": "EX5",
+  "CardName": "シャオモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］効果で自分のデジモンが登場したとき、≪1ドロー≫。\n"
+}

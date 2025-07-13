@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-016",
+  "PackNo": "EX1",
+  "CardName": "イッカクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "海獣型",
+  "Text": "[効果]\n【自分のターン】このデジモンは進化元を持たないアクティブ状態の相手のデジモンにもアタックできる。\n"
+}

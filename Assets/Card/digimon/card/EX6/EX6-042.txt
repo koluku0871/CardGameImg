@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX6-042",
+  "PackNo": "EX6",
+  "CardName": "ライジルドモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "防具型/Legend-Arms",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンが自分の効果以外で消滅するとき、このデジモンの進化元から、特徴に「Legend-Arms」を持つカード1枚を破棄することで、消滅しない。\n"
+}

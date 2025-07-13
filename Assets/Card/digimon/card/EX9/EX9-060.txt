@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-060",
+  "PackNo": "EX9",
+  "CardName": "デビドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "邪竜型/DM/Ver.5",
+  "Text": "[進化元効果]\n【消滅時】Lv.4以下の相手のデジモン1体を消滅させる。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX6-004",
+  "PackNo": "EX6",
+  "CardName": "チョコモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]効果で自分のデジモンがレストしたとき、ターン終了まで、自分のデジモン1体をDP+2000。\n"
+}

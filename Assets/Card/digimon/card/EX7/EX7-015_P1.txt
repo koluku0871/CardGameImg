@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-015_P1",
+  "PackNo": "EX7",
+  "CardName": "オタマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青緑／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型/NSp",
+  "Text": "[効果]\n【お互いのターン】お互いは支払う登場コストをマイナスできない。\n"
+}

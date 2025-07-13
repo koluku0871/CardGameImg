@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-002_P1",
+  "PackNo": "EX1",
+  "CardName": "ピヨモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "ヒナ鳥型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］プレイヤーにアタックしたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

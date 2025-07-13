@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX8-065_P1",
+  "PackNo": "EX8",
+  "CardName": "リュウタロー・ウィリアムズ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "3",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

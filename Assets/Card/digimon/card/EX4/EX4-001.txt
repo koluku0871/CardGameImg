@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX4-001",
+  "PackNo": "EX4",
+  "CardName": "ミサイモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "マシーン型/ブルーフレア",
+  "Text": "[進化元効果]\n【消滅時】自分のデジモンがいるなら、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX6-033",
+  "PackNo": "EX6",
+  "CardName": "トゥルイエモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 緑黄／3"
+  ],
+  "Element": "緑黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-024_P1",
+  "PackNo": "EX7",
+  "CardName": "シューモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】相手のセキュリティデジモン全てをDP-3000。\n"
+}

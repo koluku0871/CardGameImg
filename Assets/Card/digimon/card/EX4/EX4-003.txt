@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX4-003",
+  "PackNo": "EX4",
+  "CardName": "ツノモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］他の自分のデジモンが進化したとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

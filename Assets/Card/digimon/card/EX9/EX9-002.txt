@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX9-002",
+  "PackNo": "EX9",
+  "CardName": "ツノモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/DM/Ver.2",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]このデジモンの進化元に裏向きのカードが置かれたとき、このデジモンを手札の特徴に「Ver.2」を持つデジモンカードに支払う進化コスト-1で進化できる。\n"
+}

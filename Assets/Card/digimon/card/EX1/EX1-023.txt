@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-023",
+  "PackNo": "EX1",
+  "CardName": "エレキモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "哺乳類型",
+  "Text": "[進化元効果]\n【消滅時】このターンの間、相手のデジモン1体に≪セキュリティアタック-1≫（このデジモンがチェックするセキュリティの枚数-1）を与える。\n"
+}

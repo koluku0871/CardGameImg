@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX9-070",
+  "PackNo": "EX9",
+  "CardName": "肉",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "2",
+  "CardSubType": "DM",
+  "Text": "[セキュリティ効果]\n【セキュリティ】≪1ドロー≫。その後、このカードをバトルエリアに置く。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-004",
+  "PackNo": "EX3",
+  "CardName": "ブイモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 赤紫／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "小竜型",
+  "Text": "[進化元効果]\n【自分のターン】紫の自分のデジモンがいる間、このデジモンをDP+2000。\n"
+}

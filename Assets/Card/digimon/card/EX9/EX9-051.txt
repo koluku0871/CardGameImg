@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-051",
+  "PackNo": "EX9",
+  "CardName": "モノクロモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "鎧竜型/DM/Ver.4",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

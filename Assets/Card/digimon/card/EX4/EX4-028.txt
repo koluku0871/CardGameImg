@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-028",
+  "PackNo": "EX4",
+  "CardName": "ドウモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黄青／4"
+  ],
+  "Element": "黄青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分が使用コスト2以上のオプションカードを使用したとき、このターンの間、相手のデジモン1体をDP-2000。\n"
+}

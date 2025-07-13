@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX7-065",
+  "PackNo": "EX7",
+  "CardName": "ユウキ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "3",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX9-068_P1",
+  "PackNo": "EX9",
+  "CardName": "アナログマン",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "4",
+  "CardSubType": "DM",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

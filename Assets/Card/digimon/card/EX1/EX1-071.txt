@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "EX1-071",
+  "PackNo": "EX1",
+  "CardName": "しょうりつ60％！",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

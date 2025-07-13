@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-050",
+  "PackNo": "EX1",
+  "CardName": "メタルマメモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【アタック時】このデジモンが特徴に「マシーン型」を持つとき、登場コスト5以下の相手のデジモン1体を消滅させる。\n"
+}

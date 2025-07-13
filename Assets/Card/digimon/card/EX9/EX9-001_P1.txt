@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX9-001_P1",
+  "PackNo": "EX9",
+  "CardName": "コロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/DM/Ver.1",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]裏向きの進化元を持つこのデジモンを手札の特徴に「Ver.1」を持つデジモンカードに支払う進化コスト-1で進化できる。\n"
+}

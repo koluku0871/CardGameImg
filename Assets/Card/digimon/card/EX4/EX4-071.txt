@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "EX4-071",
+  "PackNo": "EX4",
+  "CardName": "天之尾羽張",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "4",
+  "Text": "[セキュリティ効果]\n【セキュリティ】最もLv.の低い相手のデジモン1体を消滅させる。\n"
+}

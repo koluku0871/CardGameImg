@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-061",
+  "PackNo": "EX1",
+  "CardName": "ヴァンデモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「ヴァンデモン」を含む間、≪道連れ≫を持つ自分のデジモン全ては、Lv.4以下のアクティブ状態の相手のデジモンにもアタックできる。\n"
+}

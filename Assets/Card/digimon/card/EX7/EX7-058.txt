@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-058",
+  "PackNo": "EX7",
+  "CardName": "レディーデビモンX抗体",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型/X抗体",
+  "Text": "[進化元効果]\n【相手のターン】[ターンに1回]相手のデジモンが消滅したとき、自分のトラッシュから、紫のLv.4以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

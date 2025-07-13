@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-008_P1",
+  "PackNo": "EX8",
+  "CardName": "キャンドモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "火炎型/NSo",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

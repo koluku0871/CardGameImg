@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-028_P1",
+  "PackNo": "EX7",
+  "CardName": "ピッコロモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "妖精型/NSp",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]ターン終了まで、相手のデジモン1体をDP-4000。\n"
+}

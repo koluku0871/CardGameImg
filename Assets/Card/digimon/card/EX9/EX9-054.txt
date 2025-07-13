@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-054",
+  "PackNo": "EX9",
+  "CardName": "レアレアモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]アタックの対象が変更されたとき、このデジモンが名称に「アバドモン」を含むなら、このデジモンをアクティブにする。\n"
+}

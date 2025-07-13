@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX8-004_P1",
+  "PackNo": "EX8",
+  "CardName": "モチモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/NSp",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]特徴に「NSp」を持つ他の自分のデジモンが登場したとき、このデジモンが特徴に「NSp」を持つなら、このデジモンでアタックできる。\n"
+}

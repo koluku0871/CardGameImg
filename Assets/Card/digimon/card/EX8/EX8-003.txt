@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX8-003",
+  "PackNo": "EX8",
+  "CardName": "チョコモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黄",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]他の自分のデジモンがいるなら、ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

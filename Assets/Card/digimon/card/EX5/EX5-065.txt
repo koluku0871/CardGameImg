@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX5-065",
+  "PackNo": "EX5",
+  "CardName": "サヨ＆コウ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "3",
+  "CardSubType": "ナイトクロウ",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

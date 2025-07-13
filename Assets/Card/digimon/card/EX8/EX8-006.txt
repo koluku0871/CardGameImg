@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX8-006",
+  "PackNo": "EX8",
+  "CardName": "プチメラモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "火炎型/NSo",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが特徴に「NSo」を持つなら、自分の手札1枚を破棄することで、Lv.3の相手のデジモン1体を消滅させる。\n"
+}

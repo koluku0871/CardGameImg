@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "EX1-068",
+  "PackNo": "EX1",
+  "CardName": "アイスウォール！！",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "1",
+  "Text": "[セキュリティ効果]\n【セキュリティ】メモリーを+2する。\n"
+}

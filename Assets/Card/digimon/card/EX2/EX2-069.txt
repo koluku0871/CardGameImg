@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "EX2-069",
+  "PackNo": "EX2",
+  "CardName": "獣王拳",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードの【メイン】効果を発揮する。\n"
+}

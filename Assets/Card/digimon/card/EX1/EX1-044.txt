@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-044",
+  "PackNo": "EX1",
+  "CardName": "ケラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "不明",
+  "CardSubType": "種族不明",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンと同じ名称の他の自分のデジモン1体ごとに、このデジモンのDPを+1000する。\n"
+}

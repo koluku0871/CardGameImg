@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX7-063",
+  "PackNo": "EX7",
+  "CardName": "城之崎有紗",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "3",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

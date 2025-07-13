@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX9-071",
+  "PackNo": "EX9",
+  "CardName": "プロテイン",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "2",
+  "CardSubType": "DM",
+  "Text": "[セキュリティ効果]\n【セキュリティ】メモリー+1。その後、このカードをバトルエリアに置く。\n"
+}

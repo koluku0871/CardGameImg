@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-029",
+  "PackNo": "EX4",
+  "CardName": "アンティラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黄緑／4"
+  ],
+  "Element": "黄緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "聖獣型/デーヴァ",
+  "Text": "[進化元効果]\n【アタック終了時】［ターンに1回］他のレスト状態の自分のデジモンがいるなら、このターンの間、相手のデジモン1体をDP-2000。\n"
+}

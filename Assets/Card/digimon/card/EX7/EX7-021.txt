@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-021",
+  "PackNo": "EX7",
+  "CardName": "クリスペイルドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【自分のターン】進化元を持つ相手のデジモンがいない間、特徴に「氷雪型」を持つこのデジモンは≪貫通≫と≪Sアタック+1≫を得る。\n"
+}

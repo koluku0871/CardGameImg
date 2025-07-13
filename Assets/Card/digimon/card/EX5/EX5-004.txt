@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX5-004",
+  "PackNo": "EX5",
+  "CardName": "フリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが名称に「レオモン」を含むなら、≪1ドロー≫。\n"
+}

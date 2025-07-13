@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-028",
+  "PackNo": "EX1",
+  "CardName": "エンジェモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "天使型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］自分のセキュリティが3枚以上のとき、次の相手のターン終了時まで、このデジモンのDPを+1000する。\n"
+}

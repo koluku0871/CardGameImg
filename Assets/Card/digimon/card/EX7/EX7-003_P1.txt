@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX7-003_P1",
+  "PackNo": "EX7",
+  "CardName": "キャロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黄",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】相手のセキュリティデジモン全てをDP-2000。\n"
+}

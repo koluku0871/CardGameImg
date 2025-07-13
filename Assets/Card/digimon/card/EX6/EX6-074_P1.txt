@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "EX6-074_P1",
+  "PackNo": "EX6",
+  "CardName": "御神楽ミレイ",
+  "CardRarity": "SEC",
+  "Lv": [],
+  "Element": "紫黄",
+  "Cost": "4",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

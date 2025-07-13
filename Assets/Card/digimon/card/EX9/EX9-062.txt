@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-062",
+  "PackNo": "EX9",
+  "CardName": "スカルグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型/DM/Ver.2",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、特徴に「DM」を持つLv.4以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

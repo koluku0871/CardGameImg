@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "EX6-066",
+  "PackNo": "EX6",
+  "CardName": "天星壊海",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "6",
+  "Text": "[セキュリティ効果]\n【セキュリティ】最もLv.の低い相手のデジモン全てを手札に戻す。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-040",
+  "PackNo": "EX8",
+  "CardName": "カブテリモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "昆虫型/NSp",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

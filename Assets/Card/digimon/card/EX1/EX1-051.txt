@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-051",
+  "PackNo": "EX1",
+  "CardName": "インフェルモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "不明",
+  "CardSubType": "種族不明",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンと同じ名称の他の自分のデジモン全てのDPを+2000する。\n"
+}

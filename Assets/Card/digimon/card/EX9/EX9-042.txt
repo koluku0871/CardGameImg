@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-042",
+  "PackNo": "EX9",
+  "CardName": "トロピアモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑紫／4"
+  ],
+  "Element": "緑紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "植物型/WG",
+  "Text": "[進化元効果]\n【自分のターン終了時】[ターンに1回]特徴に「WG」を持つ自分のデジモン1体をアクティブにできる。\n"
+}

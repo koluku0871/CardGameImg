@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-015_P1",
+  "PackNo": "EX9",
+  "CardName": "ギザモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "水棲哺乳類型/DM/Ver.5",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]相手のデジモン1体の進化元を下から1枚破棄する。\n"
+}

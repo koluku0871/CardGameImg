@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-005_P1",
+  "PackNo": "EX1",
+  "CardName": "ティラノモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 赤緑／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「ティラノモン」を含む間、このデジモンのDPを+2000する。\n"
+}

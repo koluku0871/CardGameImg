@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-057",
+  "PackNo": "EX4",
+  "CardName": "アンティラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫緑／4"
+  ],
+  "Element": "紫緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "聖獣型",
+  "Text": "[進化元効果]\n【アタック終了時】［ターンに1回］他のレスト状態の自分のデジモンがいるなら、自分のトラッシュから緑のデジモンカード1枚を手札に戻す。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-028",
+  "PackNo": "EX9",
+  "CardName": "ナニモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "インベイド型/DM/Ver.4",
+  "Text": "[進化元効果]\n【自分のターン】相手のセキュリティデジモン全てをDP-3000。\n"
+}

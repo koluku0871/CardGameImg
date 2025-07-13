@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-055",
+  "PackNo": "EX3",
+  "CardName": "ワームモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 紫赤／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "幼虫型",
+  "Text": "[進化元効果]\n【お互いのターン】赤の自分のデジモンがいる間、このデジモンは≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）を得る。\n"
+}

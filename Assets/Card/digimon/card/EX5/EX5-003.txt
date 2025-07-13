@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX5-003",
+  "PackNo": "EX5",
+  "CardName": "ニャロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンがレスト状態の間、このデジモンをDP+1000。\n"
+}

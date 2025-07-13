@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX8-068_P1",
+  "PackNo": "EX8",
+  "CardName": "ディープセイバーズ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "2",
+  "CardSubType": "DS",
+  "Text": "[セキュリティ効果]\n【セキュリティ】自分の手札から、特徴に「DS」を持つLv.5以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

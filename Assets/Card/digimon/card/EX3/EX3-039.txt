@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-039",
+  "PackNo": "EX3",
+  "CardName": "コアドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 緑青／3"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "竜型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンが名称に「ドラモン」か「エグザモン」を含む間、このデジモンは≪ブロッカー≫を得る。\n"
+}

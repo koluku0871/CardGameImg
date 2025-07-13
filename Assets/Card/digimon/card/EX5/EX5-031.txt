@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX5-031",
+  "PackNo": "EX5",
+  "CardName": "チィリンモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］お互いのセキュリティ合計が6枚以下なら、自分の手札から、黄のカード1枚を自分のセキュリティの上に置ける。\n"
+}

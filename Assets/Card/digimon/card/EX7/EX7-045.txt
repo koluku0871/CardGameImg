@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-045",
+  "PackNo": "EX7",
+  "CardName": "ジャガモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "植物型/NSp",
+  "Text": "[効果]\n【登場時】相手のデジモン1体を≪退化1≫。【相手のターン】特徴に「NSp」を持つ自分のデジモン全ては≪ブロッカー≫を得る。\n"
+}

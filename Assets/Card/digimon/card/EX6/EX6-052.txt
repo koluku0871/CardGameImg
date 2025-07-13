@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX6-052",
+  "PackNo": "EX6",
+  "CardName": "バステモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【相手のターン】[ターンに1回]相手のデジモンが消滅したとき、自分のトラッシュから、紫のLv.4以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

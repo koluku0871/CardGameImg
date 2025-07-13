@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX2-032",
+  "PackNo": "EX2",
+  "CardName": "ストライクドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］黒の自分のテイマーが2体以上いるとき、メモリー+1。\n"
+}

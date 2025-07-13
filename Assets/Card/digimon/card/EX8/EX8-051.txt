@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-051",
+  "PackNo": "EX8",
+  "CardName": "プロガノモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "鉱物型/リベレイター",
+  "Text": "[進化元効果]\nこのカードが特徴に「鉱物型」/「鉱石型」を持つデジモンの進化元から効果で破棄されたとき、相手のデジモン1体を≪退化1≫。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-033",
+  "PackNo": "EX1",
+  "CardName": "テントモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "昆虫型",
+  "Text": "[進化元効果]\n【アタック時】このターンの間、次に自分のデジモンが特徴に「昆虫型」か「古代昆虫型」を持つデジモンカードに進化するときに支払う進化コストを-1する。\n"
+}

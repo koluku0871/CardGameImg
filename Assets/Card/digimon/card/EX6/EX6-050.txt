@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX6-050",
+  "PackNo": "EX6",
+  "CardName": "フェレスモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]相手は相手の手札を1枚破棄できる。破棄しなかったなら、自分のトラッシュから、紫のLv.3のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

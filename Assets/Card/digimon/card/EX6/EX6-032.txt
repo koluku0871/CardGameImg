@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX6-032",
+  "PackNo": "EX6",
+  "CardName": "ロップモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑黄／1"
+  ],
+  "Element": "緑黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

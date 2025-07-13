@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX8-005",
+  "PackNo": "EX8",
+  "CardName": "ゴロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "鉱石型/リベレイター",
+  "Text": "[進化元効果]\nこのカードが特徴に「鉱物型」/「鉱石型」を持つデジモンの進化元から効果で破棄されたとき、メモリー+1。\n"
+}

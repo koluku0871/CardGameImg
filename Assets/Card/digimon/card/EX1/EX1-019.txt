@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-019",
+  "PackNo": "EX1",
+  "CardName": "パイルドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 青緑／3"
+  ],
+  "Element": "青",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「インペリアルドラモン」を含む間、このデジモンはブロックされない。\n"
+}

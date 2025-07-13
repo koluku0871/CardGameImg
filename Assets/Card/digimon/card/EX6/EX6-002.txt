@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX6-002",
+  "PackNo": "EX6",
+  "CardName": "ピョコモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "球根型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]自分の手札から、青のLv.3のデジモンカード1枚をこのデジモンの進化元の下に置ける。\n"
+}

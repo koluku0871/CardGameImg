@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX2-026",
+  "PackNo": "EX2",
+  "CardName": "ガルゴモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］相手のデジモンがレストしたとき、このターンの間、このデジモンをDP+2000。\n"
+}

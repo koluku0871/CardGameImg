@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-017",
+  "PackNo": "EX3",
+  "CardName": "エビドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "水棲型",
+  "Text": "[効果]\n【登場時】次の相手のターン終了まで、青の自分のデジモン1体は≪ブロッカー≫を得る。進化元から登場していたとき、そのデジモンをアクティブにする。\n"
+}

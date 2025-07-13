@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX9-005",
+  "PackNo": "EX9",
+  "CardName": "ネガーモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "不明",
+  "Text": "[進化元効果]\n【相手のターン】[ターンに1回]相手のデジモンがアタックしたとき、アタックの対象を「ネガーモン」の記述がある自分のデジモン1体に変更できる。\n"
+}

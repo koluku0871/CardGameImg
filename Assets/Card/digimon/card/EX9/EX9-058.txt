@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-058",
+  "PackNo": "EX9",
+  "CardName": "ガジモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "哺乳類型/DM/Ver.5",
+  "Text": "[進化元効果]\n≪道連れ≫（このデジモンだけがバトルで消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

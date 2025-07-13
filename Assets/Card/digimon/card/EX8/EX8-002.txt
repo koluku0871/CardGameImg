@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX8-002",
+  "PackNo": "EX8",
+  "CardName": "プカモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/DS",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]メモリーが0なら、メモリー+1。\n"
+}

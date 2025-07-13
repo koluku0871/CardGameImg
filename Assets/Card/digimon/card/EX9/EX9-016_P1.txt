@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-016_P1",
+  "PackNo": "EX9",
+  "CardName": "ベタモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型/DM/Ver.1",
+  "Text": "[進化元効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルで消滅しない）\n"
+}

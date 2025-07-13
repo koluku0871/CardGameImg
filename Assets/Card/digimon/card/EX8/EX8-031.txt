@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-031",
+  "PackNo": "EX8",
+  "CardName": "レナモンX抗体",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "獣人型/X抗体",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分が使用コスト2以上のオプションカードを使用したとき、ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

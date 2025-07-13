@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-013",
+  "PackNo": "EX9",
+  "CardName": "ブリッツグレイモンACE",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 赤黒／4"
+  ],
+  "Element": "赤黒",
+  "Cost": "7",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/DM/Ver.1",
+  "Text": "[進化元効果]\n≪Sアタック+1≫（このデジモンがチェックする枚数+1）\n"
+}

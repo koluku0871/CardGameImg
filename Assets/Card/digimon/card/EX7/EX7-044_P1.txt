@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-044_P1",
+  "PackNo": "EX7",
+  "CardName": "ギガドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n≪衝突≫（このデジモンのアタック中、相手のデジモン全てに≪ブロッカー≫を与え、相手は可能ならブロックする）\n"
+}
