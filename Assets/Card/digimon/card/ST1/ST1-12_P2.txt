@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "ST1-12_P2",
+  "PackNo": "ST1",
+  "CardName": "八神太一",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

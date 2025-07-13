@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "ST6-15",
+  "PackNo": "ST6",
+  "CardName": "デスクロウ",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "1",
+  "Text": "[セキュリティ効果]\n【セキュリティ】Lv.4以下の相手のデジモン1体を消滅させる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "RB1-015",
+  "PackNo": "RB1",
+  "CardName": "フウマモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンは、このデジモンの進化元にある名称に「ガンマモン」を含むカードの効果全てを得る。\n"
+}

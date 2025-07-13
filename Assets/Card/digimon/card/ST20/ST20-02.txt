@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST20-02",
+  "PackNo": "ST20",
+  "CardName": "ピヨモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤／"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "ヒナ鳥型/アドベンチャー",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

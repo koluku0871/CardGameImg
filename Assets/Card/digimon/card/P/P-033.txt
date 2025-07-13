@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-033",
+  "PackNo": "P",
+  "CardName": "スナリザモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが黒のDP13000以上の間、このデジモンは≪セキュリティアタック+1≫（このデジモンがチェックする枚数+1）を得る。\n"
+}

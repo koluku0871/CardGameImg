@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-121_P1",
+  "PackNo": "P",
+  "CardName": "アルマジモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 黒黄／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "哺乳類型",
+  "Text": "[進化元効果]\n【自分のターン終了時】このデジモンと他の自分のデジモンで、手札のデジモンカードにジョグレス進化できる。\n"
+}

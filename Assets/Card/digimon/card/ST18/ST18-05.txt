@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST18-05",
+  "PackNo": "ST18",
+  "CardName": "ムーチョモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "鳥型",
+  "Text": "[進化元効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンを消滅させたとき、アタック終了前にチェックする）\n"
+}

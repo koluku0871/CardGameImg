@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "RB1-011",
+  "PackNo": "RB1",
+  "CardName": "ジェリーモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "軟体型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分の手札が自分の効果で破棄されたとき、メモリー+1。\n"
+}

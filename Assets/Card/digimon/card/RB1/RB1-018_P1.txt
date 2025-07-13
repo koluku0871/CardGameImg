@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "RB1-018_P1",
+  "PackNo": "RB1",
+  "CardName": "もんざえモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黄／4"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【自分のターン】名称に「もんざえモン」/「ヌメモン」を含むこのデジモンは≪Sアタック+1≫を得る。\n"
+}

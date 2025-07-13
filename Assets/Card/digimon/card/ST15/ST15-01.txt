@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST15-01",
+  "PackNo": "ST15",
+  "CardName": "コロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］アタックの対象が変更されたとき、ターン終了まで、このデジモンをDP+1000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-160",
+  "PackNo": "P",
+  "CardName": "ティラノモンX抗体",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 赤緑／3"
+  ],
+  "Element": "赤緑",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "恐竜型/X抗体",
+  "Text": "[進化元効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンを消滅させたとき、アタック終了前にチェックする）\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST10-11",
+  "PackNo": "ST10",
+  "CardName": "バステモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣人型",
+  "Text": "[効果]\n【登場時】Lv.3の相手のデジモン1体を消滅させる。\n"
+}

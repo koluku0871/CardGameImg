@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST21-07",
+  "PackNo": "ST21",
+  "CardName": "パルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 緑／"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型/アドベンチャー",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンをDP+1000。\n"
+}

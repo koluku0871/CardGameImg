@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST3-02",
+  "PackNo": "ST3",
+  "CardName": "プロットモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "哺乳類型"
+}

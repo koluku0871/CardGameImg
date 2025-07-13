@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST17-06",
+  "PackNo": "ST17",
+  "CardName": "ラピッドモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV3 : 緑黄／4"
+  ],
+  "Element": "緑黄",
+  "Cost": "7",
+  "CardCategory": "アーマー体",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖騎士型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンがレスト状態の間、このデジモンをDP+1000。\n"
+}

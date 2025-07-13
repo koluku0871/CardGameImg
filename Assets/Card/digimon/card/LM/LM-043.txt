@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "LM-043",
+  "PackNo": "LM",
+  "CardName": "ダークドラモンACE",
+  "CardLevel": "Lv.6",
+  "CardRarity": "P",
+  "Lv": [
+    "LV5 : 黒紫／4"
+  ],
+  "Element": "黒紫",
+  "Cost": "7",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/D-ブリガード/アクセル",
+  "Text": "[進化元効果]\n≪衝突≫（このデジモンのアタック中、相手のデジモン全てに≪ブロッカー≫を与え、相手は可能ならブロックする）\n"
+}

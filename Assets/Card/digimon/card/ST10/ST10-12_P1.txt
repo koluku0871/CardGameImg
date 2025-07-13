@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST10-12_P1",
+  "PackNo": "ST10",
+  "CardName": "レディーデビモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫黄／3"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型",
+  "Text": "[進化元効果]\n【自分のターン】黄の自分のデジモン全ては≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）を得る。\n"
+}

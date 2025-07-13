@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-139",
+  "PackNo": "P",
+  "CardName": "レオモンX抗体",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 黄緑／3"
+  ],
+  "Element": "黄緑",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型/X抗体",
+  "Text": "[進化元効果]\n【消滅時】≪リカバリー+1《デッキ》≫（自分のデッキの上から1枚をセキュリティの上に置く）\n"
+}

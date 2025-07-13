@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-081",
+  "PackNo": "P",
+  "CardName": "ファルコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥型",
+  "Text": "[効果]\n【登場時】黄の自分のテイマーがいるとき、次の相手のターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

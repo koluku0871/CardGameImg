@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "P-180_P1",
+  "PackNo": "P",
+  "CardName": "バインドレッドトリッガー",
+  "CardRarity": "P",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "6",
+  "CardSubType": "三銃士",
+  "Text": "[セキュリティ効果]\n【セキュリティ】最もDPの高い相手のデジモン1体を消滅させる。\n"
+}

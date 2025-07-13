@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST9-11",
+  "PackNo": "ST9",
+  "CardName": "ディノビーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 緑青／4"
+  ],
+  "Element": "緑青",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンの色1色ごとに、このデジモンのDPを+1000する。\n"
+}

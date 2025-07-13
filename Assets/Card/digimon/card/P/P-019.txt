@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-019",
+  "PackNo": "P",
+  "CardName": "ヴァンデモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "P",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型",
+  "Text": "[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

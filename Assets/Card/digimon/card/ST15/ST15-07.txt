@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST15-07",
+  "PackNo": "ST15",
+  "CardName": "タンクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "ST21-14",
+  "PackNo": "ST21",
+  "CardName": "友情を信じて",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "3",
+  "CardSubType": "アドベンチャー",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

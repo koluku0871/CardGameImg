@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-028_P2",
+  "PackNo": "P",
+  "CardName": "パルスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[効果]\n【登場時】自分のセキュリティが3枚以上なら、≪1ドロー≫（自分のデッキからカードを1枚引く）。自分のセキュリティが3枚以下なら、メモリー+1。\n"
+}

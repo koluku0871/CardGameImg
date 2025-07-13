@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST15-04",
+  "PackNo": "ST15",
+  "CardName": "ソーラーモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "マシーン型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から1枚オープンする。そのカードが黒のカードなら手札に加える。残りは破棄する。\n"
+}

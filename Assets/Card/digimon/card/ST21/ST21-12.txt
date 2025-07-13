@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "ST21-12",
+  "PackNo": "ST21",
+  "CardName": "城戸丈＆太刀川ミミ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青緑",
+  "Cost": "3",
+  "CardSubType": "アドベンチャー",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

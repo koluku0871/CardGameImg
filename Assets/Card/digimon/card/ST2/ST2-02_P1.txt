@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST2-02_P1",
+  "PackNo": "ST2",
+  "CardName": "ゴマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "海獣型"
+}

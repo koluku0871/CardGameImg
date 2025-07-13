@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST18-10",
+  "PackNo": "ST18",
+  "CardName": "グランゲイルモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "鳥竜型/ヴォルテクスウォリアー/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]このデジモンが相手のデジモンにアタックしたとき、このデジモンをアクティブにできる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-111",
+  "PackNo": "P",
+  "CardName": "ナイトモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "P",
+  "Lv": [
+    "LV4 : 黄黒／4"
+  ],
+  "Element": "黄黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "戦士型",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］他のデジモンがアタックしたとき、自分の手札から、黄/黒のLv.3のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

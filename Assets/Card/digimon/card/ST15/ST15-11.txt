@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST15-11",
+  "PackNo": "ST15",
+  "CardName": "メタルグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n≪Sアタック+1≫(このデジモンがチェックする枚数+1)\n"
+}

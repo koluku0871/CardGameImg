@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-091_P1",
+  "PackNo": "P",
+  "CardName": "セーバードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 赤紫／3"
+  ],
+  "Element": "赤紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "巨鳥型",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、赤/紫のデジモンカード1枚を手札に戻す。\n"
+}

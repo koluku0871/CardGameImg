@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST4-10",
+  "PackNo": "ST4",
+  "CardName": "リリモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "妖精型",
+  "Text": "[効果]\n【進化時】自分のデッキの上から5枚オープンする。その中のLv.6以上のデジモンカード1枚を手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

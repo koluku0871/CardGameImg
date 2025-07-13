@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "RB1-030",
+  "PackNo": "RB1",
+  "CardName": "レグルスモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫／4"
+  ],
+  "Element": "紫",
+  "Cost": "9",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "邪竜型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンは、このデジモンの進化元にある名称に「ガンマモン」を含むカードの効果全てを得る。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST17-04_P1",
+  "PackNo": "ST17",
+  "CardName": "ウェンディモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 緑紫／3"
+  ],
+  "Element": "緑紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンがレスト状態の間、このデジモンをDP+1000。\n"
+}

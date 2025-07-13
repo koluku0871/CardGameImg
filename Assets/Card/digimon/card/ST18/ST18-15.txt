@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "ST18-15",
+  "PackNo": "ST18",
+  "CardName": "アネモイエンブレイス",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "5",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】レスト状態の相手のデジモン1体をデッキの下に戻す。\n"
+}

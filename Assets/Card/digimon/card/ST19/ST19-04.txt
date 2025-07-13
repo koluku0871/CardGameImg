@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST19-04",
+  "PackNo": "ST19",
+  "CardName": "ポーンチェスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄黒／1"
+  ],
+  "Element": "黄黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n≪再起動≫（このデジモンは相手のアクティブフェイズでもアクティブになる）\n"
+}

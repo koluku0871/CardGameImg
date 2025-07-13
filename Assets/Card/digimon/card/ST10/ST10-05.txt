@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST10-05",
+  "PackNo": "ST10",
+  "CardName": "エンジェウーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黄紫／3"
+  ],
+  "Element": "黄",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "大天使型",
+  "Text": "[進化元効果]\n【自分のターン】紫の自分のデジモンがいる間、このデジモンは≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）を得る。\n"
+}

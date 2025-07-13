@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-093",
+  "PackNo": "P",
+  "CardName": "バステモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "P",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］このデジモンが進化するとき、支払う進化コスト-1。\n"
+}

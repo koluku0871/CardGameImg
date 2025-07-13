@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "ST20-14",
+  "PackNo": "ST20",
+  "CardName": "勇気をひとつに",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "3",
+  "CardSubType": "アドベンチャー",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

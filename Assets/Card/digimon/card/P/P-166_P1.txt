@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-166_P1",
+  "PackNo": "P",
+  "CardName": "ゲイルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "鳥竜型/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

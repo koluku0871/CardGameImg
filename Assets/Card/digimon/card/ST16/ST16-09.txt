@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST16-09",
+  "PackNo": "ST16",
+  "CardName": "パンプモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "パペット型",
+  "Text": "[効果]\n【登場時】自分のトラッシュから、紫のLv.3のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

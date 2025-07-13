@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-076_P1",
+  "PackNo": "P",
+  "CardName": "デルタモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 黒赤／3"
+  ],
+  "Element": "黒赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "合成型",
+  "Text": "[進化元効果]\n【アタック時】このデジモンの色1色ごとに、DP3000以下の相手のデジモン1体を消滅させる。\n"
+}

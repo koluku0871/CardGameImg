@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-013_P1",
+  "PackNo": "P",
+  "CardName": "ケラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "不明",
+  "CardSubType": "種族不明",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンをDP+1000。\n"
+}

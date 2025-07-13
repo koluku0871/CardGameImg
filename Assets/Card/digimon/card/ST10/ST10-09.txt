@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST10-09",
+  "PackNo": "ST10",
+  "CardName": "ウィッチモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "魔人型",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】自分のトラッシュから、紫のLv.5以下のデジモンカード1枚を手札に戻す。\n"
+}

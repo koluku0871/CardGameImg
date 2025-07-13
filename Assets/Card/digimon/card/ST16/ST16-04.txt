@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST16-04",
+  "PackNo": "ST16",
+  "CardName": "バクモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

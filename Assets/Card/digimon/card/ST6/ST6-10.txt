@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST6-10",
+  "PackNo": "ST6",
+  "CardName": "スカルサタモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型",
+  "Text": "[効果]\n【進化時】自分のトラッシュから、紫のデジモンカード1枚を手札に戻せる。\n"
+}

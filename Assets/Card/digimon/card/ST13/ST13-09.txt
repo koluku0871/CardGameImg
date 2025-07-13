@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST13-09",
+  "PackNo": "ST13",
+  "CardName": "ルドモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黒赤／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "防具型/Legend-Arms",
+  "Text": "[進化元効果]\n【相手のターン】特徴に「Legend-Arms」を持つか赤の自分のデジモンがいる間、このデジモンは≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンをレストさせることでアタックの対象をこのデジモンにする）を得る。\n"
+}

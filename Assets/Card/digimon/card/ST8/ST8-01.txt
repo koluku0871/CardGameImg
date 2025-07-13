@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST8-01",
+  "PackNo": "ST8",
+  "CardName": "チビモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "幼竜型",
+  "Text": "[進化元効果]\n【自分のターン】自分の手札が8枚以上の間、このデジモンのDPを+1000する。\n"
+}

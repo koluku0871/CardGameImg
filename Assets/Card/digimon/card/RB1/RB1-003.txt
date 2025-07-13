@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "RB1-003",
+  "PackNo": "RB1",
+  "CardName": "ボサモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】アクティブ状態の相手のデジモンがいない間、このデジモンをDP+1000。\n"
+}

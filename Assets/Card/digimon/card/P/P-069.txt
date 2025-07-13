@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-069",
+  "PackNo": "P",
+  "CardName": "パルスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、相手のデジモン1体をレストさせる。その後、このカードを手札に加える。\n"
+}

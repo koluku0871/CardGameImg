@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST4-07",
+  "PackNo": "ST4",
+  "CardName": "クワガーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "昆虫型"
+}

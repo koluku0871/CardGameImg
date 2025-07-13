@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "LM-014",
+  "PackNo": "LM",
+  "CardName": "エスピモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【相手のターン】［ターンに1回］アタックの対象が変更されたとき、≪1ドロー≫。\n"
+}

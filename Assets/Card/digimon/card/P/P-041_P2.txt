@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-041_P2",
+  "PackNo": "P",
+  "CardName": "ギルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型",
+  "Text": "[効果]\n【アタック時】≪1ドロー≫（自分のデッキからカードを1枚引く）\n"
+}

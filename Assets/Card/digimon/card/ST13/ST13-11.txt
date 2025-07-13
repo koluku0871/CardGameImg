@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST13-11",
+  "PackNo": "ST13",
+  "CardName": "ティアルドモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黒赤／2"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "防具型/Legend-Arms",
+  "Text": "[進化元効果]\n【相手のターン】特徴に「Legend-Arms」を持つか赤の自分のデジモンがいる間、このデジモンは≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンをレストさせることでアタックの対象をこのデジモンにする）を得る。\n"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST5-07",
+  "PackNo": "ST5",
+  "CardName": "ジャザードモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "機竜型"
+}

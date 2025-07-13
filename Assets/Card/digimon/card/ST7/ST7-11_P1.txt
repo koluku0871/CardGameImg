@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "ST7-11_P1",
+  "PackNo": "ST7",
+  "CardName": "ロイヤルセーバー",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "1",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

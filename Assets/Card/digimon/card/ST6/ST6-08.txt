@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST6-08",
+  "PackNo": "ST6",
+  "CardName": "デビモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／1"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型",
+  "Text": "[効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンがアクティブ状態ならレストさせることでアタックの対象をこのデジモンにする）【アタック時】メモリーを-2する。\n"
+}

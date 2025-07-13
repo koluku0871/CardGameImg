@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "RB1-013",
+  "PackNo": "RB1",
+  "CardName": "テスラジェリーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "軟体型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分の手札が自分の効果で破棄されたとき、メモリー+1。\n"
+}

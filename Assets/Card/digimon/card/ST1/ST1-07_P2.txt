@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST1-07_P2",
+  "PackNo": "ST1",
+  "CardName": "グレイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）\n"
+}

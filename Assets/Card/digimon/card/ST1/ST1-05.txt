@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST1-05",
+  "PackNo": "ST1",
+  "CardName": "バードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "巨鳥型"
+}

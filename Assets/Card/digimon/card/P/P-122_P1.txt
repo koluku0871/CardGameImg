@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-122_P1",
+  "PackNo": "P",
+  "CardName": "パタモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 黄黒／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "哺乳類型",
+  "Text": "[進化元効果]\n【自分のターン】相手のセキュリティデジモン全てをDP-2000。\n"
+}

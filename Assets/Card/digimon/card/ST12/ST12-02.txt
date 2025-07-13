@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST12-02",
+  "PackNo": "ST12",
+  "CardName": "キャンドモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "火炎型"
+}

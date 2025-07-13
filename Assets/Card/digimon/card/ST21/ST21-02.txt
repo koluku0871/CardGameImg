@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST21-02",
+  "PackNo": "ST21",
+  "CardName": "ゴマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青／"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "海獣型/アドベンチャー",
+  "Text": "[効果]\n【お互いのターン】相手はテイマーの効果以外でメモリーをプラスできない。\n"
+}

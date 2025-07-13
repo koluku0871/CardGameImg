@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "ST3-14",
+  "PackNo": "ST3",
+  "CardName": "ヘブンズチャーム",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

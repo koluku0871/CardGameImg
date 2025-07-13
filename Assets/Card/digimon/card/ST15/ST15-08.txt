@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST15-08",
+  "PackNo": "ST15",
+  "CardName": "グレイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］アタックの対象が変更されたとき、メモリー+1。\n"
+}

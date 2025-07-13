@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "ST8-11",
+  "PackNo": "ST8",
+  "CardName": "アルフォースセイバー",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "3",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

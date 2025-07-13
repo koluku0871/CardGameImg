@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST15-02",
+  "PackNo": "ST15",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］アタックの対象が変更されたとき、メモリー+1。\n"
+}

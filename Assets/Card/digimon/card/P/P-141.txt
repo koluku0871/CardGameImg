@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-141",
+  "PackNo": "P",
+  "CardName": "マメティラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "P",
+  "Lv": [
+    "LV4 : 黒緑／4"
+  ],
+  "Element": "黒緑",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "突然変異型/X抗体",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]相手のデジモンがレストしたとき、このデジモンをアクティブにできる。\n"
+}

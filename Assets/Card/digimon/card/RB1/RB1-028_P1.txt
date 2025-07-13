@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "RB1-028_P1",
+  "PackNo": "RB1",
+  "CardName": "ブラックテイルモンUver.",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】相手のトラッシュから、デジモンカード1枚をデッキの下に戻すことで、≪1ドロー≫。\n"
+}

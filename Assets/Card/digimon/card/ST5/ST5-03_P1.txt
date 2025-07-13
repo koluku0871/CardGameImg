@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST5-03_P1",
+  "PackNo": "ST5",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "爬虫類型",
+  "Text": "[効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンがアクティブ状態ならレストさせることでアタックの対象をこのデジモンにする）\n"
+}

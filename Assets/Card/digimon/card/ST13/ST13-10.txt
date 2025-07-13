@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST13-10",
+  "PackNo": "ST13",
+  "CardName": "グラディモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／1"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "戦士型"
+}

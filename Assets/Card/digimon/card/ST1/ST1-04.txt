@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST1-04",
+  "PackNo": "ST1",
+  "CardName": "ドラコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "竜型"
+}
