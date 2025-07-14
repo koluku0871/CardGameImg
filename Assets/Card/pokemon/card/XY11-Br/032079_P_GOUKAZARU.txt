@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "032079_P_GOUKAZARU",
+  "PackNo": "XY11-Br",
+  "CardName": "ゴウカザル",
+  "CardCategory": "ワザ",
+  "CardType": "2 進化",
+  "Cost": "130",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span>フレアドライブ<span class=\"f_right Text-fjalla\">120</span></h4>\n<p>このポケモンについている<span class=\"icon-fire icon\"></span>エネルギーをすべてトラッシュする。</p>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span>だいえんじょう<span class=\"f_right Text-fjalla\">200</span></h4>\n<p>自分のトラッシュに<span class=\"icon-fire icon\"></span>エネルギーが10枚以上ないなら、このワザは失敗。自分のトラッシュから<span class=\"icon-fire icon\"></span>エネルギーを10枚選び、相手に見せてから、山札にもどす。そして山札を切る。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B4%E3%82%A6%E3%82%AB%E3%82%B6%E3%83%AB\">ゴウカザル</a></div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A2%E3%82%A6%E3%82%AB%E3%82%B6%E3%83%AB\">モウカザル</a><div class=\"arrow_off\"></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%92%E3%82%B3%E3%82%B6%E3%83%AB\">ヒコザル</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

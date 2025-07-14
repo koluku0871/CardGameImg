@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "033807_T_PAWAMEMORI",
+  "PackNo": "XY",
+  "CardName": "パワーメモリ",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p>\n<p>このカードをつけている「ジガルデEX」は、このカードに書かれているワザを使える。［ワザを使うためのエネルギーは必要。］</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span>オールセルバーン<span class=\"f_right Text-fjalla\">200</span></h4>\n<p>このポケモンについているエネルギーを3個選び、トラッシュする。</p>\n</div>"
+}

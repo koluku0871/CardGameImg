@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030562_P_DOTAKUN",
+  "PackNo": "XYB",
+  "CardName": "ドータクン",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "90",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>メタルチェーン</h4>\n<p>自分のトラッシュから<span class=\"icon-steel icon\"></span>エネルギーを1枚選び、ベンチポケモンにつける。この特性は、自分の番に1回使える。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span>ぶちかます<span class=\"f_right Text-fjalla\">60</span></h4>\n<p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%89%E3%83%BC%E3%82%BF%E3%82%AF%E3%83%B3BREAK\">ドータクンBREAK</a></div>\n<div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%89%E3%83%BC%E3%82%BF%E3%82%AF%E3%83%B3\">ドータクン</a>\n<div class=\"arrow_on\"></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%89%E3%83%BC%E3%83%9F%E3%83%A9%E3%83%BC\">ドーミラー</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-psychic icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

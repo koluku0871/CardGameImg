@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030463_T_KIAINOTASUKI",
+  "PackNo": "XY3",
+  "CardName": "きあいのタスキ",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p>\n<p>このカードをつけている<span class=\"icon-fighting icon\"></span>ポケモンのHPがまんたんの状態で、相手のワザのダメージを受けてきぜつする場合、そのポケモンはきぜつせず、残りHPが「10」の状態で場に残る。その後、このカードをトラッシュする。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

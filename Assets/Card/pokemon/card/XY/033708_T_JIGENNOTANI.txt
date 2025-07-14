@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "033708_T_JIGENNOTANI",
+  "PackNo": "XY",
+  "CardName": "次元の谷",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいの場の<span class=\"icon-psychic icon\"></span>ポケモンが使うワザに必要なエネルギーは、それぞれ<span class=\"icon-none icon\"></span>エネルギー1個ぶん少なくなる。</p>\n<p>スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。</p>\n</div>"
+}

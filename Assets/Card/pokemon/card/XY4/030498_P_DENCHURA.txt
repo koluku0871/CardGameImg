@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030498_P_DENCHURA",
+  "PackNo": "XY4",
+  "CardName": "デンチュラ",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "80",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-electric icon\"></span>スパイダートリップ </h4>\n<p>相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、新しく出てきたポケモンをこんらんにする。</p>\n<h4><span class=\"icon-electric icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>エレキネット<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>次の相手の番、このワザを受けたポケモンは、にげられない。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%87%E3%83%B3%E3%83%81%E3%83%A5%E3%83%A9\">デンチュラ</a></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%87%E3%83%B3%E3%83%81%E3%83%A5%E3%83%A9ex&amp;sc_pm_ex3=1\">デンチュラex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%90%E3%83%81%E3%83%A5%E3%83%AB\">バチュル</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-steel icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

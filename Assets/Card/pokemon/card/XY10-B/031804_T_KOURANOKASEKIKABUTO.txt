@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "031804_T_KOURANOKASEKIKABUTO",
+  "PackNo": "XY10-B",
+  "CardName": "こうらの化石 カブト",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の山札を下から7枚見る。その中から「カブト」を1枚選び、ベンチに出してよい。残りのカードは山札にもどし、山札を切る。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

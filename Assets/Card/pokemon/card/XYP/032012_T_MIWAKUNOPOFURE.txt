@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "032012_T_MIWAKUNOPOFURE",
+  "PackNo": "XYP",
+  "CardName": "魅惑のポフレ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>相手の手札を見て、その中のたねポケモンを好きなだけ選び、相手のベンチに出す。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

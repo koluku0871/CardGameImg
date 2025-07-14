@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030587_T_POKEMONKADOJIMUMEDARU",
+  "PackNo": "XYP",
+  "CardName": "ポケモンカードジムメダル",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>ウラになっている自分のサイドを1枚選び、そのサイドのオモテを見て、もとにもどす。のぞむなら、そのサイドを、自分の山札の一番上のカードと入れ替えてよい。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

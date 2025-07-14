@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035782_T_AZ",
+  "PackNo": "XY4",
+  "CardName": "AZ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分のポケモンを1匹選び、手札にもどす。（ポケモン以外のカードは、すべてトラッシュする。）</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

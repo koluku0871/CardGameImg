@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "031346_P_ZOROAKUBREAK",
+  "PackNo": "XY8-Bb",
+  "CardName": "ゾロアークBREAK",
+  "CardCategory": "ワザ",
+  "CardType": "BREAK進化",
+  "Cost": "140",
+  "Element": "<span class=\"icon-dark icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-dark icon\"></span>イカサマ </h4>\n<p>相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>BREAK進化する前のゾロアークの「ワザ・特性・弱点・抵抗力・にげる」を引きつぐ。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%BE%E3%83%AD%E3%82%A2%E3%83%BC%E3%82%AFBREAK\">ゾロアークBREAK</a>\n</div>\n<div class=\"in-box ev_\">\n</div>\n</div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%BE%E3%83%AD%E3%82%A2%E3%83%BC%E3%82%AF\">ゾロアーク</a>\n<div class=\"arrow_off\"></div>\n</div>\n<div class=\"in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%BE%E3%83%AD%E3%82%A2%E3%83%BC%E3%82%AFGX\">ゾロアークGX</a>\n</div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%BE%E3%83%AD%E3%82%A2\">ゾロア</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

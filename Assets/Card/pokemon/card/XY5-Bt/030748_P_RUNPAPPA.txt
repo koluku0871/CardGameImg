@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030748_P_RUNPAPPA",
+  "PackNo": "XY5-Bt",
+  "CardName": "ルンパッパ",
+  "CardCategory": "古代能力",
+  "CardType": "古代能力",
+  "Cost": "130",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">古代能力</h2>\n<h4>α（アルファ）回復</h4>\n<p>このポケモンのHPが回復するとき、その回復する量は2倍になる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>おどろかす<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>相手の手札からオモテを見ないで1枚選ぶ。その後、そのカードを見てから相手の山札にもどし、山札を切る。</p>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>スプラッシュダンス<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>次の自分の番、このポケモンが使う「スプラッシュダンス」のダメージは「+60」される。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AB%E3%83%B3%E3%83%91%E3%83%83%E3%83%91\">ルンパッパ</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%8F%E3%82%B9%E3%83%96%E3%83%AC%E3%83%AD\">ハスブレロ</a><div class=\"arrow_off\"></div></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%8F%E3%82%B9%E3%83%9C%E3%83%BC\">ハスボー</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

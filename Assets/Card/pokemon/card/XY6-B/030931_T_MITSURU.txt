@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030931_T_MITSURU",
+  "PackNo": "XY6-B",
+  "CardName": "ミツル",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の場のポケモン1匹（「ポケモンEX」をのぞく）から進化するカードを、自分の山札から1枚選び、そのポケモンにのせて進化させる。そして山札を切る。（最初の自分の番や、出したばかりのポケモンにも使える。）</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

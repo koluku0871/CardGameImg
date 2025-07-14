@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030105_E_REINBOENERUGI",
+  "PackNo": "XY1-Bx",
+  "CardName": "レインボーエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードを手札からポケモンにつけたとき、そのポケモンにダメカンを1個のせる。このカードは、ポケモンについているかぎり、すべてのタイプのエネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nポケモンについていないなら、<span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。</p>\n</div>"
+}

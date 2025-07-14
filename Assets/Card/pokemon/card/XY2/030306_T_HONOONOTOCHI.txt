@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030306_T_HONOONOTOCHI",
+  "PackNo": "XY2",
+  "CardName": "炎のトーチ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の手札から<span class=\"icon-fire icon\"></span>エネルギーを1枚選び、トラッシュする。その後、自分の山札を2枚引く。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

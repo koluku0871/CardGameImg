@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030303_T_ITAZURASUKOPPU",
+  "PackNo": "XY2",
+  "CardName": "いたずらスコップ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分または相手の山札を上から1枚見て、もとにもどす。のぞむなら、そのカードをトラッシュしてよい。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "032310_P_PONCHOWOKITAPIKACHUU",
+  "PackNo": "XYP",
+  "CardName": "ポンチョを着たピカチュウ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "80",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>メガごっこ </h4>\n<p>コインを1回投げオモテなら、自分の山札からM進化ポケモンを1枚選び、相手に見せてから、手札に加える。そして山札を切る。</p>\n<h4><span class=\"icon-electric icon\"></span><span class=\"icon-electric icon\"></span><span class=\"icon-electric icon\"></span>スパークラッシュ<span class=\"f_right Text-fjalla\">60×</span></h4>\n<p>ウラが出るまでコインを投げ、オモテの数×60ダメージ。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-steel icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

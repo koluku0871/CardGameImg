@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030611_P_MEGAYANMA",
+  "PackNo": "XY4",
+  "CardName": "メガヤンマ",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "110",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>ふきながし </h4>\n<p>自分の手札をすべて山札にもどし、山札を切る。その後、山札を6枚引く。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>きしゅうこうげき<span class=\"f_right Text-fjalla\">50＋</span></h4>\n<p>この番、このポケモンがベンチからバトル場に出ていたなら、50ダメージを追加。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A1%E3%82%AC%E3%83%A4%E3%83%B3%E3%83%9EBREAK\">メガヤンマBREAK</a></div><div class=\"evolution evbox\">\n<div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A1%E3%82%AC%E3%83%A4%E3%83%B3%E3%83%9E\">メガヤンマ</a><div class=\"arrow_on\"></div></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A1%E3%82%AC%E3%83%A4%E3%83%B3%E3%83%9Eex&amp;sc_pm_ex3=1\">メガヤンマex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A4%E3%83%B3%E3%83%A4%E3%83%B3%E3%83%9E\">ヤンヤンマ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "047005_E_DABURUDORAGONENERUGI",
+  "PackNo": "XY",
+  "CardName": "ダブルドラゴンエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは<span class=\"icon-dragon icon\"></span>ポケモンにしかつけられず、ついているかぎりすべてのタイプのエネルギー2個ぶんとしてはたらく。<br/>\n<br/>\n（このカードが<span class=\"icon-dragon icon\"></span>ポケモン以外についているなら、トラッシュする。）</p>\n</div>"
+}

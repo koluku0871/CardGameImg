@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "033832_T_POKEMONRENJA",
+  "PackNo": "XY",
+  "CardName": "ポケモンレンジャー",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>おたがいのプレイヤーと、おたがいのポケモンにかかっているワザの効果は、すべてなくなる。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

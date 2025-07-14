@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "047004_T_SAIRENTORABO",
+  "PackNo": "XY",
+  "CardName": "サイレントラボ",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいの場・手札・トラッシュにあるたねポケモンの特性は、すべてなくなる。</p>\n<p>スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。</p>\n</div>"
+}

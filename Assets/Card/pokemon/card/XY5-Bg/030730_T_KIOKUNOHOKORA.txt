@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030730_T_KIOKUNOHOKORA",
+  "PackNo": "XY5-Bg",
+  "CardName": "記憶のほこら",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいの場の進化しているポケモンは、進化前に持っていたすべてのワザを使える。（ワザを使うためのエネルギーは必要。）</p>\n<p>スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "033580_P_GEKKOUGABREAK",
+  "PackNo": "XY",
+  "CardName": "ゲッコウガBREAK",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "170",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>きょだいみずしゅりけん</h4>\n<p>自分の手札から<span class=\"icon-water icon\"></span>エネルギーを1枚選び、トラッシュする。その後、相手のポケモンを1匹選び、ダメカンを6個のせる。この特性は、このポケモンがバトル場にいるなら、自分の番に1回使える。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>BREAK進化する前のゲッコウガの「ワザ・特性・弱点・抵抗力・にげる」を引きつぐ。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B2%E3%83%83%E3%82%B3%E3%82%A6%E3%82%ACBREAK\">ゲッコウガBREAK</a>\n</div>\n<div class=\"in-box ev_\">\n</div>\n</div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B2%E3%83%83%E3%82%B3%E3%82%A6%E3%82%AC\">ゲッコウガ</a>\n<div class=\"arrow_off\"></div>\n</div>\n<div class=\"in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B2%E3%83%83%E3%82%B3%E3%82%A6%E3%82%ACGX\">ゲッコウガGX</a>\n</div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B2%E3%82%B3%E3%82%AC%E3%82%B7%E3%83%A9\">ゲコガシラ</a>\n<div class=\"arrow_off\"></div></div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B1%E3%83%AD%E3%83%9E%E3%83%84\">ケロマツ</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

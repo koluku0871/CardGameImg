@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "031795_P_DOGOMU",
+  "PackNo": "XY10-B",
+  "CardName": "ドゴーム",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "90",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>けとばす<span class=\"f_right Text-fjalla\">10</span></h4>\n<p></p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ふみつけ<span class=\"f_right Text-fjalla\">40＋</span></h4>\n<p>コインを1回投げオモテなら、40ダメージを追加。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%90%E3%82%AF%E3%82%AA%E3%83%B3%E3%82%B0\">バクオング</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%89%E3%82%B4%E3%83%BC%E3%83%A0\">ドゴーム</a><div class=\"arrow_on\"></div></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B4%E3%83%8B%E3%83%A7%E3%83%8B%E3%83%A7\">ゴニョニョ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

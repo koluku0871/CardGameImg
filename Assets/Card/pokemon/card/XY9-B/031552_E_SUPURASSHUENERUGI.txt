@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "031552_E_SUPURASSHUENERUGI",
+  "PackNo": "XY9-B",
+  "CardName": "スプラッシュエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは<span class=\"icon-water icon\"></span>ポケモンにしかつけられず、ついているかぎり<span class=\"icon-water icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードをつけている<span class=\"icon-water icon\"></span>ポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、トラッシュせずに手札にもどす。（ポケモン以外のカードは、すべてトラッシュする。）<br/>\n<br/>\n（このカードが<span class=\"icon-water icon\"></span>ポケモン以外についているなら、トラッシュする。）</p>\n</div>"
+}

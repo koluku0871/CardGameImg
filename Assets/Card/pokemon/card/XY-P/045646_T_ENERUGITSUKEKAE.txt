@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "045646_T_ENERUGITSUKEKAE",
+  "PackNo": "XY-P",
+  "CardName": "エネルギーつけかえ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の場のポケモンについている基本エネルギーを1個選び、自分の別のポケモンにつけ替える。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

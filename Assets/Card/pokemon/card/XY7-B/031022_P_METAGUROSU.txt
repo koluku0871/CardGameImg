@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "031022_P_METAGUROSU",
+  "PackNo": "XY7-B",
+  "CardName": "メタグロス",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "150",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>マグネットワープ</h4>\n<p>自分のバトルポケモンをベンチポケモンと入れ替える。その後、相手は相手自身のバトルポケモンをベンチポケモンと入れ替える。この特性は、自分の番に1回使える。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>アイアンキャノン<span class=\"f_right Text-fjalla\">80＋</span></h4>\n<p>のぞむなら、このポケモンについている<span class=\"icon-steel icon\"></span>エネルギーをすべてトラッシュしてよい。その場合、80ダメージを追加。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A1%E3%82%BF%E3%82%B0%E3%83%AD%E3%82%B9GX\">メタグロスGX</a></div>\n<div class=\"in-box ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A1%E3%82%BF%E3%82%B0%E3%83%AD%E3%82%B9\">メタグロス</a></div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A1%E3%82%BF%E3%83%B3%E3%82%B0\">メタング</a>\n<div class=\"arrow_off\"></div></div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%80%E3%83%B3%E3%83%90%E3%83%AB\">ダンバル</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-psychic icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

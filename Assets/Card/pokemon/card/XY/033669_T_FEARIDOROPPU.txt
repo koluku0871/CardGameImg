@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "033669_T_FEARIDOROPPU",
+  "PackNo": "XY",
+  "CardName": "フェアリードロップ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p><span class=\"icon-fairy icon\"></span>エネルギーがついている自分のポケモンを1匹選び、HPを「50」回復する。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "033848_E_BADDOENERUGI",
+  "PackNo": "XY",
+  "CardName": "バッドエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは<span class=\"icon-dark icon\"></span>ポケモンにしかつけられず、ついているかぎり<span class=\"icon-dark icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードをつけている<span class=\"icon-dark icon\"></span>ポケモンが、バトル場で相手の「ポケモンEX」からワザのダメージを受けるたび、ワザを使った「ポケモンEX」にダメカンを2個のせる。<br/>\n<br/>\n（このカードが<span class=\"icon-dark icon\"></span>ポケモン以外についているなら、トラッシュする。）</p>\n</div>"
+}

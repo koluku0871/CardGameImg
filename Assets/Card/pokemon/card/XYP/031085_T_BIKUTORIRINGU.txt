@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "031085_T_BIKUTORIRINGU",
+  "PackNo": "XYP",
+  "CardName": "ビクトリーリング",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の山札を上から7枚見る。その中からポケモンを1枚選び、相手に見せてから、手札に加えてよい。残りのカードは山札にもどし、山札を切る。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}
