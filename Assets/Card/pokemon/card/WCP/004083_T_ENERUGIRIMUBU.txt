@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "004083_T_ENERUGIRIMUBU",
+  "PackNo": "WCP",
+  "CardName": "エネルギーリムーブ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>コインを1回投げオモテなら、相手のポケモンのエネルギーを1個選び、トラッシュする。</p>\n</div>"
+}

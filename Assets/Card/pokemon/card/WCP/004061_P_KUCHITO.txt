@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "004061_P_KUCHITO",
+  "PackNo": "WCP",
+  "CardName": "クチート",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "60",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>なかまをよぶ </h4>\n<p>自分の山札から、「たねポケモン」を1枚選び出し、自分のベンチに出す。その後、その山札を切る。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ひきちぎる<span class=\"f_right Text-fjalla\">20</span></h4>\n<p>相手の手札が5枚以上なら、相手プレイヤーは、その手札が4枚になるまでカードを選び、トラッシュする。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-grass icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

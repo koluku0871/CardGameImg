@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "004092_T_BATORUFURONTEIA",
+  "PackNo": "WCP",
+  "CardName": "バトルフロンティア",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいの場の、<span class=\"icon-none icon\"></span>の「進化ポケモン」、<span class=\"icon-dark icon\"></span>の「進化ポケモン」、<span class=\"icon-steel icon\"></span>の「進化ポケモン」全員のポケパワーは使うことができず、ポケボディーもはたらかない。</p>\n<p>スタジアムは、自分の番に1回だけ、バトル場の横に出すことができる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。</p>\n</div>"
+}

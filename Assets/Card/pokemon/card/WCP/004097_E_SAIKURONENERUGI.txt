@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "004097_E_SAIKURONENERUGI",
+  "PackNo": "WCP",
+  "CardName": "サイクロンエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>このカードは<span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\nこのカードを手札から出して、自分のバトルポケモンにつけたとき、相手のバトルポケモンを1匹選び、相手のベンチポケモンと入れ替える。入れ替えるベンチポケモンは相手プレイヤーが選ぶ。</p><p></p>\n</div>"
+}

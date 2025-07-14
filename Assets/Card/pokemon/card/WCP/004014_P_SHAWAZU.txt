@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "004014_P_SHAWAZU",
+  "PackNo": "WCP",
+  "CardName": "シャワーズ☆",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "70",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>ブルーレイ</h4>\n<p>このパワーは、自分の番に、このカードを手札からベンチに出したとき、1回使うことができる。おたがいのバトルポケモン全員のダメージカウンターを、それぞれ3個ずつとりのぞき、特殊状態をすべて回復させる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span>うずしお<span class=\"f_right Text-fjalla\">40</span></h4>\n<p>コインを1回投げオモテなら、相手のエネルギーを1個トラッシュする。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモン☆は、デッキに1枚しか入れることができません。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

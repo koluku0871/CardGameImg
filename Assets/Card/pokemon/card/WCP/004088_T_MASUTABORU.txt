@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "004088_T_MASUTABORU",
+  "PackNo": "WCP",
+  "CardName": "マスターボール",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の山札の上からカードを7枚見て、「ポケモンのカード」を1枚選び出し、相手プレイヤーに見せてから、手札に加える。その後、その山札を切る。</p>\n<p>※このカードは、ACE SPEC（エーススペック）の同名のカードで代用できませんのでご注意ください。</p>\n</div>"
+}

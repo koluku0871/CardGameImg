@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "004096_T_PURIMUNOSUTAJIAMU",
+  "PackNo": "WCP",
+  "CardName": "プリムのスタジアム",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいの「<span class=\"icon-water icon\"></span>ポケモン全員（ポケモンexはのぞく）」の弱点は、すべてなくなる。</p>\n<p>スタジアムは、自分の番に1回だけ、バトル場の横に出すことができる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。</p>\n</div>"
+}
