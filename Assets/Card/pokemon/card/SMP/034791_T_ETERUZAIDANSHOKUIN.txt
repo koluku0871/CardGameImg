@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "034791_T_ETERUZAIDANSHOKUIN",
+  "PackNo": "SMP",
+  "CardName": "エーテル財団職員",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分のトラッシュにある、名前に「アローラ」とつくポケモンを3枚、相手に見せてから、手札に加える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

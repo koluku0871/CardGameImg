@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042223_P_REJIDORAGOV",
+  "PackNo": "S-P",
+  "CardName": "レジドラゴV",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "220",
+  "Element": "<span class=\"icon-dragon icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>てんのさけび </h4>\n<p>自分の山札を上から3枚トラッシュし、その中にあるエネルギーをすべて、このポケモンにつける。</p>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-grass icon\"></span><span class=\"icon-fire icon\"></span>ドラゴンレーザー<span class=\"f_right Text-fjalla\">130</span></h4>\n<p>相手のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AC%E3%82%B8%E3%83%89%E3%83%A9%E3%82%B4VSTAR\">レジドラゴVSTAR</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AC%E3%82%B8%E3%83%89%E3%83%A9%E3%82%B4V\">レジドラゴV</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "023249_T_CHANPIONZURUMU",
+  "PackNo": "DPt3-B",
+  "CardName": "チャンピオンズルーム",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいのSPポケモン全員のにげるエネルギーは、それぞれ1個ぶんずつ少なくなる。</p>\n<p>スタジアムは、自分の番に1回だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュ。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043463_P_PUTERA",
+  "PackNo": "SV2a",
+  "CardName": "プテラ",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "130",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>かっくう<span class=\"f_right Text-fjalla\">30</span></h4>\n<p></p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>たいかこうせん<span class=\"f_right Text-fjalla\">100</span></h4>\n<p>相手の進化しているバトルポケモンから、「進化カード」を1枚はがして退化させる。はがしたカードは、相手の手札にもどす。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%97%E3%83%86%E3%83%A9\">プテラ</a>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E5%8F%A4%E3%81%B3%E3%81%9F%E3%81%93%E3%81%86%E3%82%89%E3%81%AE%E5%8C%96%E7%9F%B3\">古びたひみつのコハク</a>\n<div class=\"arrow_off\"></div>\n</div>\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

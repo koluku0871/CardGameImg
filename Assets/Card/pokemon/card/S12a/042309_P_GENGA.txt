@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042309_P_GENGA",
+  "PackNo": "S12a",
+  "CardName": "ゲンガー",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "120",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ならくのうらもん</h4>\n<p>このカードがトラッシュにあるなら、自分の番に1回使える。このカードをベンチに出す。その後、このポケモンにダメカンを3個のせる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>スクリームサークル </h4>\n<p>相手のベンチポケモンの数×2個ぶんのダメカンを、相手のバトルポケモンにのせる。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"evolution in-box ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BC\">ゲンガー</a>\n</div>\n<div class=\"evolution in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BCex&amp;sc_pm_ex3=1\">ゲンガーex</a>\n</div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88\">ゴースト</a>\n<div class=\"arrow_off\"></div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B4%E3%83%BC%E3%82%B9\">ゴース</a>\n<div class=\"arrow_off\"></div>\n</div>\n</div><s><th>弱点</th><v><td><span class=\"icon-dark icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

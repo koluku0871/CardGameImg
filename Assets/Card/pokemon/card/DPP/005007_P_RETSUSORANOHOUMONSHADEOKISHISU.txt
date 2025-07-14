@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "005007_P_RETSUSORANOHOUMONSHADEOKISHISU",
+  "PackNo": "DPP",
+  "CardName": "裂空の訪問者デオキシス　",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "80",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>じこさいせい </h4>\n<p>自分の<span class=\"icon-psychic icon\"></span>エネルギーを1個トラッシュし、自分のダメージカウンターを4個とる。</p>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>サイコブースト<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>次の自分の番、このワザのダメージは「30」になる。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

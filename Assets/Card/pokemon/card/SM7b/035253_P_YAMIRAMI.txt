@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035253_P_YAMIRAMI",
+  "PackNo": "SM7b",
+  "CardName": "ヤミラミ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "80",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>ファストハント </h4>\n<p>このワザは、先攻プレイヤーの最初の番でも使える。自分の山札にある好きなカードを１枚、手札に加える。そして山札を切る。</p>\n<h4><span class=\"icon-psychic icon\"></span>のろいのしずく </h4>\n<p>ダメカン3個を、相手のポケモンに好きなようにのせる。</p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

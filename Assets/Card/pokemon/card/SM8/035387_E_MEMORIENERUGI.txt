@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035387_E_MEMORIENERUGI",
+  "PackNo": "SM8",
+  "CardName": "メモリーエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、<span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードをつけているポケモンは、進化前に持っていたワザを、すべて使える。［ワザを使うためのエネルギーは必要。］</p>\n</div>"
+}

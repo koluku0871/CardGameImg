@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "025151_P_REDEIAN",
+  "PackNo": "L1-Bss",
+  "CardName": "レディアン",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "80",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>クイックドロー<span class=\"f_right Text-fjalla\">10</span></h4>\n<p>自分の山札からカードを3枚引く。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>スピードスター<span class=\"f_right Text-fjalla\">40</span></h4>\n<p>このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果の計算をしない。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3\">レディアン</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AC%E3%83%87%E3%82%A3%E3%83%90\">レディバ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

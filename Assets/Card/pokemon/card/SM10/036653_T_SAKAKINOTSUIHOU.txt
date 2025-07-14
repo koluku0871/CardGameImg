@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036653_T_SAKAKINOTSUIHOU",
+  "PackNo": "SM10",
+  "CardName": "サカキの追放",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>ダメカンがのっていない自分のベンチポケモンを2匹まで選び、選んだポケモンと、ついているすべてのカードを、トラッシュする。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

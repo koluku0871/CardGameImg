@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040184_P_POWARUNAMAMIZUNOSUGATA",
+  "PackNo": "S8b",
+  "CardName": "ポワルン あまみずのすがた",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "70",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>てんきよみ</h4>\n<p>自分のトラッシュに「スタジアム」が8枚以上あるなら、このポケモンがワザを使うためのエネルギーは、すべてなくなる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span>レインシャワー </h4>\n<p>相手のポケモン全員に、それぞれ20ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

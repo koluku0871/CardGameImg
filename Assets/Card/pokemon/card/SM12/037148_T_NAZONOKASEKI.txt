@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037148_T_NAZONOKASEKI",
+  "PackNo": "SM12",
+  "CardName": "なぞの化石",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "60",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、HP60の<span class=\"icon-none icon\"></span>タイプのたねポケモンとして、場に出すことができる。<br/>\n自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。<br/>\n<br/>\nこのカードは、にげられない。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

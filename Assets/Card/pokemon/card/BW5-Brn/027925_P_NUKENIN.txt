@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "027925_P_NUKENIN",
+  "PackNo": "BW5-Brn",
+  "CardName": "ヌケニン",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "60",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ぬけがら</h4>\n<p>このポケモンがきぜつしても、相手はサイドをとれない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>のろいのしずく </h4>\n<p>ダメカン3個を、相手のポケモンに好きなようにのせる。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%86%E3%83%83%E3%82%AB%E3%83%8B%E3%83%B3\">テッカニン</a></div><div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%8C%E3%82%B1%E3%83%8B%E3%83%B3\">ヌケニン</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%84%E3%83%81%E3%83%8B%E3%83%B3\">ツチニン</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

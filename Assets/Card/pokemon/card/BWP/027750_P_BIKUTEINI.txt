@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "027750_P_BIKUTEINI",
+  "PackNo": "BWP",
+  "CardName": "ビクティニ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "60",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>しょうりのほし</h4>\n<p>自分のポケモンのワザでコインを投げたとき使える。そのコインの結果をすべてなくし、はじめからコインを投げなおす。ビクティニが何匹いても、「しょうりのほし」は自分の番に1回しか使えない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-none icon\"></span>アシストパワー<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>このポケモンについているエネルギーをすべて、ベンチポケモン1匹につけ替える。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

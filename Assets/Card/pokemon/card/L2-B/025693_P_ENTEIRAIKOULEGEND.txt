@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "025693_P_ENTEIRAIKOULEGEND",
+  "PackNo": "L2-B",
+  "CardName": "エンテイ&ライコウLEGEND",
+  "CardCategory": "ワザ",
+  "CardType": "伝説",
+  "Cost": "140",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-none icon\"></span>ばくごうのうず<span class=\"f_right Text-fjalla\">90</span></h4>\n<p>このポケモンについている<span class=\"icon-fire icon\"></span>エネルギーを1個トラッシュ。</p>\n<h4><span class=\"icon-electric icon\"></span><span class=\"icon-none icon\"></span>サンダーフォール </h4>\n<p>このポケモンについているエネルギーをすべてトラッシュし、ポケパワーを持つおたがいのポケモン全員に、それぞれ80ダメージ。このワザのダメージは弱点・抵抗力の計算をしない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>手札にある2枚のエンテイ&amp;ライコウLEGENDを組み合わせて、ベンチに出す。</p><br/>\n<p>このポケモンがきぜつしたら、相手はサイドを2枚とる。</p><p></p>\n<div class=\"Text-annotation\">「伝説ポケモンのカード」は、「上」と「下」を組み合わせて使います。</div>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

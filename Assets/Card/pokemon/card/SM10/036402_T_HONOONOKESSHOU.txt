@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036402_T_HONOONOKESSHOU",
+  "PackNo": "SM10",
+  "CardName": "炎の結晶",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のトラッシュにある<span class=\"icon-fire icon\"></span>エネルギーを3枚、相手に見せてから、手札に加える。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "026172_P_REKKUUZADEOKISHISULEGEND",
+  "PackNo": "L3-B",
+  "CardName": "レックウザ&デオキシスLEGEND",
+  "CardCategory": "ワザ",
+  "CardType": "伝説",
+  "Cost": "140",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span><span class=\"icon-electric icon\"></span><span class=\"icon-none icon\"></span>オゾンクライマックス<span class=\"f_right Text-fjalla\">150</span></h4>\n<p>このポケモンについている<span class=\"icon-fire icon\"></span>エネルギーをすべてトラッシュ。</p>\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>うちゅうウイルス</h4>\n<p>このポケモンがワザのダメージで、相手のポケモンをきぜつさせたなら、自分がサイドをとるとき、さらにサイドを1枚とる。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>手札にある2枚のレックウザ&amp;デオキシスLEGENDを組み合わせて、ベンチに出す。</p><br/>\n<p>このポケモンがきぜつしたら、相手はサイドを2枚とる。</p><p></p>\n<div class=\"Text-annotation\">「伝説ポケモンのカード」は、「上」と「下」を組み合わせて使います。</div>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-none icon\"></span><span class=\"icon-psychic icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

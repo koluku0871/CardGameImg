@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046846_E_JIETTOENERUGI",
+  "PackNo": "SV8a",
+  "CardName": "ジェットエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、ポケモンについているかぎり、<span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードを手札からベンチポケモンにつけたとき、このカードをつけたポケモンを、バトルポケモンと入れ替える。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035423_P_MIKARUGE",
+  "PackNo": "SM8a",
+  "CardName": "ミカルゲ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "70",
+  "Element": "<span class=\"icon-dark icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>ソウルコンプレッサー </h4>\n<p>自分の山札にあるポケモンを4枚まで、トラッシュする。そして山札を切る。</p>\n<h4><span class=\"icon-none icon\"></span>ホロウショット<span class=\"f_right Text-fjalla\">20</span></h4>\n<p></p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "002041_P_TODOGURA",
+  "PackNo": "DP2",
+  "CardName": "トドグラー",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "80",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span>アイスライダー </h4>\n<p>相手のポケモン1匹に、30ダメージ。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%88%E3%83%89%E3%82%BC%E3%83%AB%E3%82%AC\">トドゼルガ</a></div>\n<div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%88%E3%83%89%E3%82%B0%E3%83%A9%E3%83%BC\">トドグラー</a>\n<div class=\"arrow_on\"></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%BF%E3%83%9E%E3%82%B6%E3%83%A9%E3%82%B7\">タマザラシ</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-steel icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

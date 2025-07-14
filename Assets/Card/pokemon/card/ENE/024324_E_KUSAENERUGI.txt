@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "024324_E_KUSAENERUGI",
+  "PackNo": "ENE",
+  "CardName": "基本草エネルギー",
+  "CardCategory": "基本エネルギー",
+  "CardType": "基本エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">基本エネルギー</h2>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035745_P_ZUGADONGX",
+  "PackNo": "SM8",
+  "CardName": "ズガドーンGX",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "180",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span>さくれつバーナー </h4>\n<p>相手のバトルポケモンをやけどとこんらんにする。</p>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span>ビックリヘッド<span class=\"f_right Text-fjalla\">50×</span></h4>\n<p>自分の場のポケモンについている<span class=\"icon-fire icon\"></span>エネルギーを好きなだけロストゾーンに置き、その枚数×50ダメージ。</p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-fire icon\"></span>バーストGX </h4>\n<p>自分のサイドを1枚トラッシュし、そのカードがエネルギーなら、自分のポケモンにつける。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンGXがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

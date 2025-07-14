@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "020508_P_GURAION",
+  "PackNo": "DPP",
+  "CardName": "グライオン",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "90",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>バインドアイ</h4>\n<p>このポケモンがバトル場にいるかぎり、特殊状態になっている相手のポケモンが進化・退化・レベルアップしても、その特殊状態は回復しない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>きりこみターン </h4>\n<p>コインを1回投げオモテなら、相手の残りHPが「10」になるように、相手にダメージカウンターをのせる。のせた場合、自分と自分についているすべてのカードを、自分の山札にもどし、山札を切る。</p>\n<h4><span class=\"icon-fighting icon\"></span>まさつねつ<span class=\"f_right Text-fjalla\">20</span></h4>\n<p>相手をやけどにする。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B0%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3\">グライオン</a></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B0%E3%83%A9%E3%82%A4%E3%82%AC%E3%83%BC\">グライガー</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

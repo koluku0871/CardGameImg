@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "045048_P_MANENE",
+  "PackNo": "SV4a",
+  "CardName": "マネネ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "30",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-void icon\"></span>マネマネごっこ </h4>\n<p>相手は相手自身の場のポケモンが持っているワザを1つ選ぶ。選ばれたワザをこのワザとして使う。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-dark icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

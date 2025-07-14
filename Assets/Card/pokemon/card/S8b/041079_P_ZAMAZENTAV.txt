@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041079_P_ZAMAZENTAV",
+  "PackNo": "S8b",
+  "CardName": "ザマゼンタV",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "230",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ふくつのたて</h4>\n<p>このポケモンは、相手の「ポケモンVMAX」からワザのダメージを受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span>アサルトタックル<span class=\"f_right Text-fjalla\">130</span></h4>\n<p>相手のバトルポケモンについている特殊エネルギーを1個選び、トラッシュする。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B6%E3%83%9E%E3%82%BC%E3%83%B3%E3%82%BFVSTAR\">ザマゼンタVSTAR</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B6%E3%83%9E%E3%82%BC%E3%83%B3%E3%82%BFV\">ザマゼンタV</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-grass icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

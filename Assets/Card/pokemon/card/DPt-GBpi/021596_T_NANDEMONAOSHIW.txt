@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "021596_T_NANDEMONAOSHIW",
+  "PackNo": "DPt-GBpi",
+  "CardName": "なんでもなおしW",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のバトルポケモン全員の特殊状態を、すべて回復させる。</p>\n</div>"
+}

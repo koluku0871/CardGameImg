@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039359_T_TOUKI",
+  "PackNo": "S5a",
+  "CardName": "トウキ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札から「れんげき」のたねポケモンを3枚まで選び、ベンチに出す。そして山札を切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

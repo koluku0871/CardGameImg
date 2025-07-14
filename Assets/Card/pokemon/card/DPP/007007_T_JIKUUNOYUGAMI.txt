@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "007007_T_JIKUUNOYUGAMI",
+  "PackNo": "DPP",
+  "CardName": "時空のゆがみ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>コインを3回投げる。<br/>\nオモテの数ぶんのポケモンを、自分のトラッシュから選び、相手プレイヤーに見せてから、手札に加える。</p>\n</div>"
+}

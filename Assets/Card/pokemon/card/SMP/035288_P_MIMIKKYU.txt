@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035288_P_MIMIKKYU",
+  "PackNo": "SMP",
+  "CardName": "ミミッキュ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "70",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>くすねる </h4>\n<p>自分の山札を2枚引く。</p>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>まねっこ </h4>\n<p>前の相手の番に、相手のポケモンがワザ(GXワザをのぞく)を使っていたなら、そのワザをこのワザとして使う。</p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

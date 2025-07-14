@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "027828_T_BADDOCHIMUNOJIMUTOSABU",
+  "PackNo": "BW4-B",
+  "CardName": "バッドチームのジムとサブ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>コインを1回投げオモテなら、相手の手札からオモテを見ないで3枚選ぶ。その後、そのカードを見てから相手の山札にもどし、山札を切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

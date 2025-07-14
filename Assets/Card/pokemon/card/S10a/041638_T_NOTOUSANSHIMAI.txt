@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041638_T_NOTOUSANSHIMAI",
+  "PackNo": "S10a",
+  "CardName": "野盗三姉妹",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>相手の山札を上から5枚見て、その中からグッズを好きなだけ選び、トラッシュする。残りのカードは山札にもどして切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

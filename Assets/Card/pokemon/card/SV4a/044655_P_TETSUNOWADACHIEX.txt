@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044655_P_TETSUNOWADACHIEX",
+  "PackNo": "SV4a",
+  "CardName": "テツノワダチex",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "220",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span>クラッドローリング<span class=\"f_right Text-fjalla\">150</span></h4>\n<p>のぞむなら、ダメージを与えたあとに、このポケモンについている「ブーストエナジー 未来」をトラッシュする。その場合、次の相手の番、このポケモンが受けるワザのダメージは「-150」される。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-grass icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

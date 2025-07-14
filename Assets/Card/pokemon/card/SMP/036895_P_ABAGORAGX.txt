@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036895_P_ABAGORAGX",
+  "PackNo": "SMP",
+  "CardName": "アバゴーラGX",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "250",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>こうみつどアーマー</h4>\n<p>このポケモンのHPがまんたんの状態なら、このポケモンが相手のポケモンから受けるワザのダメージは「-90」される。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>だいちをくだく<span class=\"f_right Text-fjalla\">160</span></h4>\n<p>次の相手の番、このワザを受けたポケモンは、にげられない。</p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-none icon\"></span>ストーンエイジGX </h4>\n<p>自分のトラッシュにある「なぞの化石」から進化するポケモンを好きなだけ、ベンチに出す。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンGXがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<a class=\"in-box ev_off\" href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=アバゴーラ\">アバゴーラ</a>\n<a class=\"in-box ev_oん\" href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=アバゴーラGX\">アバゴーラGX</a>\n</div>\n<div class=\"evolution ev_off\">\n<a class=\"in-box ev_off\" href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=プロトーガ\">プロトーガ</a>\n<div class=\"arrow_off\"></div></div>\n<div class=\"evolution ev_off\">\n<a class=\"in-box ev_off\" href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=なぞの化石\">なぞの化石</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046216_T_SUGOITSURIZAO",
+  "PackNo": "SVLN",
+  "CardName": "すごいつりざお",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のトラッシュからポケモンと基本エネルギーを合計3枚まで選び、相手に見せて、山札にもどして切る。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

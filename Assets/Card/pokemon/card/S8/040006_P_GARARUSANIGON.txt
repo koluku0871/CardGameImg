@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040006_P_GARARUSANIGON",
+  "PackNo": "S8",
+  "CardName": "ガラル サニゴーン",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "100",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>おしつけさいせい </h4>\n<p>相手のトラッシュからたねポケモンの「ポケモンV」を1枚選び、相手のベンチに出す。その後、そのポケモンの残りHPが「30」になるように、ダメカンをのせる。</p>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ホロウショット<span class=\"f_right Text-fjalla\">80</span></h4>\n<p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AC%E3%83%A9%E3%83%AB%20%E3%82%B5%E3%83%8B%E3%82%B4%E3%83%BC%E3%83%B3\">ガラル サニゴーン</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AC%E3%83%A9%E3%83%AB%20%E3%82%B5%E3%83%8B%E3%83%BC%E3%82%B4\">ガラル サニーゴ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-dark icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

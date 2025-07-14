@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "045943_P_YUREIDORU",
+  "PackNo": "SV7",
+  "CardName": "ユレイドル",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "150",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>よりどりねんえき</h4>\n<p>自分の番に1回使える。コインを1回投げオモテなら、どく・やけど・こんらんの中から1つ選び、相手のバトルポケモンをその状態にする。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>しょうきのかぜ<span class=\"f_right Text-fjalla\">100×</span></h4>\n<p>相手のバトルポケモンが受けている特殊状態の数×100ダメージ。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A6%E3%83%AC%E3%82%A4%E3%83%89%E3%83%AB\">ユレイドル</a>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AA%E3%83%AA%E3%83%BC%E3%83%A9\">リリーラ</a>\n<div class=\"arrow_off\"></div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E5%8F%A4%E3%81%B3%E3%81%9F%E3%81%AD%E3%81%A3%E3%81%93%E3%81%AE%E5%8C%96%E7%9F%B3\">古びたねっこの化石</a>\n<div class=\"arrow_off\"></div>\n</div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

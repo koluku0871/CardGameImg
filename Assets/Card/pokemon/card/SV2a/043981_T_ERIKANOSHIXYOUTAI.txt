@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043981_T_ERIKANOSHIXYOUTAI",
+  "PackNo": "SV2a",
+  "CardName": "エリカの招待",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>相手の手札を見て、その中からたねポケモンを1枚選び、相手のベンチに出す。その後、そのポケモンをバトルポケモンと入れ替える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046036_T_AKAMATSU",
+  "PackNo": "SV7",
+  "CardName": "アカマツ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札から、それぞれちがうタイプの基本エネルギーを2枚まで選び、相手に見せて、どちらか1枚を手札に加え、残りのエネルギーを自分のポケモンにつける。そして山札を切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

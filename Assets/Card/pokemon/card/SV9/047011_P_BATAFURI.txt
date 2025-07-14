@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "047011_P_BATAFURI",
+  "PackNo": "SV9",
+  "CardName": "バタフリー",
+  "CardCategory": "ワザ",
+  "CardType": "2 進化",
+  "Cost": "120",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>りんぷんハリケーン<span class=\"f_right Text-fjalla\">60×</span></h4>\n<p>コインを4回投げ、オモテの数×60ダメージ。オモテが2回以上なら、相手のバトルポケモンをマヒにする。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%90%E3%82%BF%E3%83%95%E3%83%AA%E3%83%BC\">バタフリー</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%88%E3%83%A9%E3%83%B3%E3%82%BB%E3%83%AB\">トランセル</a><div class=\"arrow_off\"></div></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AD%E3%83%A3%E3%82%BF%E3%83%94%E3%83%BC\">キャタピー</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

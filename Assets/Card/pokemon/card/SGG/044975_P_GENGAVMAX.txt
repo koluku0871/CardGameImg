@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044975_P_GENGAVMAX",
+  "PackNo": "SGG",
+  "CardName": "ゲンガーVMAX",
+  "CardCategory": "ワザ",
+  "CardType": "V進化",
+  "Cost": "320",
+  "Element": "<span class=\"icon-dark icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-dark icon\"></span><span class=\"icon-dark icon\"></span>パニックフィアー<span class=\"f_right Text-fjalla\">60×</span></h4>\n<p>相手の場の「ポケモンV・GX」の数×60ダメージ。</p>\n<h4><span class=\"icon-dark icon\"></span><span class=\"icon-dark icon\"></span><span class=\"icon-dark icon\"></span>キョダイマルノミ<span class=\"f_right Text-fjalla\">250</span></h4>\n<p>次の自分の番、このポケモンはワザが使えない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVMAXがきぜつしたとき、相手はサイドを3枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BCVMAX\">ゲンガーVMAX</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BCV\">ゲンガーV</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

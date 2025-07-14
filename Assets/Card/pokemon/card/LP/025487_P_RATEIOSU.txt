@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "025487_P_RATEIOSU",
+  "PackNo": "LP",
+  "CardName": "ラティオス",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "90",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>ラスターフロート</h4>\n<p>自分の場に「ラティアス」がいるなら、このポケモンの「にげるエネルギー」は、すべてなくなる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>むげんのつばさ<span class=\"f_right Text-fjalla\">80</span></h4>\n<p>このポケモンについているエネルギーを2個トラッシュ。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-none icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

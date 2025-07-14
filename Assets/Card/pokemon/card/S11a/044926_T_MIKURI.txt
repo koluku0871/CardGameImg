@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044926_T_MIKURI",
+  "PackNo": "S11a",
+  "CardName": "ミクリ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を3枚引く。相手は、のぞむなら、山札を1枚引く。その場合、自分は、さらに山札を1枚引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

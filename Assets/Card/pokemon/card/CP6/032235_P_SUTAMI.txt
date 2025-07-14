@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "032235_P_SUTAMI",
+  "PackNo": "CP6",
+  "CardName": "スターミー",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "90",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>うちゅうビーコン</h4>\n<p>自分の手札を1枚選び、トラッシュする。その後、自分のトラッシュから基本エネルギーを2枚選び、相手に見せてから、手札に加える。（このカードの効果でトラッシュしたエネルギーは選べない。）この特性は、自分の番に1回使える。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span>スターフリーズ<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%BCBREAK\">スターミーBREAK</a>\n</div>\n<div class=\"in-box ev_\">\n</div>\n</div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%BC\">スターミー</a>\n<div class=\"arrow_on\"></div>\n</div>\n<div class=\"in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%BCGX\">スターミーGX</a>\n</div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%92%E3%83%88%E3%83%87%E3%83%9E%E3%83%B3\">ヒトデマン</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

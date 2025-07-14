@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "017139_P_REKKUUZA",
+  "PackNo": "DP5",
+  "CardName": "レックウザ",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "100",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>アクセルグロウ</h4>\n<p>自分の番に1回使える。ウラが出るまでコインを投げ続ける。オモテが出るたび、自分のトラッシュの<span class=\"icon-fire icon\"></span>の基本エネルギーまたは<span class=\"icon-electric icon\"></span>の基本エネルギーを1枚、このポケモンにつける。このポケモンが特殊状態なら、または、自分の場に別の「レックウザ」がいるなら、このパワーは使えない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span><span class=\"icon-electric icon\"></span><span class=\"icon-electric icon\"></span>てんくうのさばき<span class=\"f_right Text-fjalla\">150</span></h4>\n<p>自分のエネルギーをすべてトラッシュ。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-none icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

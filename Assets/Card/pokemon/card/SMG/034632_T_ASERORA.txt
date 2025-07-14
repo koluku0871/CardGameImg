@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "034632_T_ASERORA",
+  "PackNo": "SMG",
+  "CardName": "アセロラ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>ダメカンがのっている自分のポケモン1匹と、ついているすべてのカードを、手札にもどす。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

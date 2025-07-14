@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038632_T_NATSUMEHACHIKU",
+  "PackNo": "S-P",
+  "CardName": "ナツメ＆ハチク",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札から基本エネルギーを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。<br/>\n<br/>\n追加で、このカードを使うときに、自分の手札を5枚トラッシュしてよい。その場合、それぞれちがうタイプのポケモンも3枚まで選び、手札に加えられる。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "023131_P_PURASURU",
+  "PackNo": "DPt3-B",
+  "CardName": "プラスル",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "60",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-void icon\"></span>よくばりドロー </h4>\n<p>自分の手札の枚数が、相手の手札の枚数より1枚ぶん多くなるように、自分の山札からカードを引く。（カードを引く前に、自分の手札の枚数が相手より多いなら、このワザは失敗。）</p>\n<h4><span class=\"icon-electric icon\"></span>ハンドチャージ<span class=\"f_right Text-fjalla\">10</span></h4>\n<p>自分の手札の<span class=\"icon-electric icon\"></span>エネルギーを1枚、自分のポケモンにつける。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>＋10</td><$$$><th>抵抗力</th><v><td><span class=\"icon-steel icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

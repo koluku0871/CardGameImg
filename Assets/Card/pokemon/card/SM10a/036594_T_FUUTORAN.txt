@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036594_T_FUUTORAN",
+  "PackNo": "SM10a",
+  "CardName": "フウとラン",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードは、2つの効果から1つを選んで使う。<br/>\n<br/>\n◆自分の手札をすべて山札にもどして切る。その後、山札を5枚引く。<br/>\n<br/>\n◆自分のバトルポケモンをベンチポケモンと入れ替える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

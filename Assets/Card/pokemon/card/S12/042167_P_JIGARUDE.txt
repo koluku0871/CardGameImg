@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042167_P_JIGARUDE",
+  "PackNo": "S12",
+  "CardName": "ジガルデ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "90",
+  "Element": "<span class=\"icon-dragon icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>ちからのさけび<span class=\"f_right Text-fjalla\">20</span></h4>\n<p>自分のトラッシュから基本エネルギーを1枚選び、ベンチポケモンにつける。</p>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-fighting icon\"></span>スピードアタック<span class=\"f_right Text-fjalla\">70</span></h4>\n<p></p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

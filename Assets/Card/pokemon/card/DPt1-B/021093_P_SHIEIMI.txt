@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "021093_P_SHIEIMI",
+  "PackNo": "DPt1-B",
+  "CardName": "シェイミ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "80",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-void icon\"></span>せいちょう </h4>\n<p>自分の手札の<span class=\"icon-grass icon\"></span>エネルギーを1枚、自分につける。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>エアスラッシュ<span class=\"f_right Text-fjalla\">40</span></h4>\n<p>コインを1回投げウラなら、自分のエネルギーを1個トラッシュ。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

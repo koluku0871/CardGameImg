@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044159_P_KOORIPPOEX",
+  "PackNo": "SV3",
+  "CardName": "コオリッポex",
+  "CardCategory": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+  "CardType": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+  "Cost": "210",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<p class=\"mt20\">このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span>アツアツブロック<span class=\"f_right Text-fjalla\">160</span></h4>\n<p>このポケモンについているエネルギーを1個選び、トラッシュする。次の相手の番、このワザを受けたポケモンは、ワザが使えない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

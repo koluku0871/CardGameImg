@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044925_T_FURISODE",
+  "PackNo": "S11a",
+  "CardName": "ふりそで",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札からたねポケモンを1枚選び、ベンチに出す。そして山札を切る。のぞむなら、出したポケモンとバトルポケモンを入れ替える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

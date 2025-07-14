@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "047049_P_RIRIENOABURI",
+  "PackNo": "SV9",
+  "CardName": "リーリエのアブリー",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "30",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>じっとする </h4>\n<p>このポケモンのHPを「10」回復する。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AA%E3%83%BC%E3%83%AA%E3%82%A8%E3%81%AE%E3%82%A2%E3%83%96%E3%83%AA%E3%83%9C%E3%83%B3\">リーリエのアブリボン</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AA%E3%83%BC%E3%83%AA%E3%82%A8%E3%81%AE%E3%82%A2%E3%83%96%E3%83%AA%E3%83%BC\">リーリエのアブリー</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-steel icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

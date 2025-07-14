@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "026015_P_JIRANSU",
+  "PackNo": "LL",
+  "CardName": "ジーランス",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "80",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>たいこのちえ </h4>\n<p>自分の手札を1枚、ロストゾーンにおく。その後、自分の山札からカードを3枚引く。</p>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>いしあたま<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>次の相手の番、このポケモンが受けるワザのダメージは「-30」される。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

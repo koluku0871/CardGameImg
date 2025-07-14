@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038966_P_KOORIPPO",
+  "PackNo": "S4a",
+  "CardName": "コオリッポ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "120",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>アイスフェイス</h4>\n<p>このポケモンのHPがまんたんの状態なら、このポケモンが相手のポケモンから受けるワザのダメージは「-60」される。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ふぶき<span class=\"f_right Text-fjalla\">70</span></h4>\n<p>相手のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-steel icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

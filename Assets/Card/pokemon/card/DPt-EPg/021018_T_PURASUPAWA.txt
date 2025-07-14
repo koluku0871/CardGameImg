@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "021018_T_PURASUPAWA",
+  "PackNo": "DPt-EPg",
+  "CardName": "プラスパワー",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、自分のポケモンにつけて使い、つけた番の終わりにトラッシュする。<br/>\nこのカードをつけているポケモンの、バトルポケモンに与えるワザのダメージは、すべて「+10」される。</p>\n</div>"
+}

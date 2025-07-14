@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043637_T_NANAMINOTEDASUKE",
+  "PackNo": "SV2a",
+  "CardName": "ナナミの手助け",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を2枚引く。ウラになっている自分のサイドのオモテをすべて見てから、もとにもどす。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

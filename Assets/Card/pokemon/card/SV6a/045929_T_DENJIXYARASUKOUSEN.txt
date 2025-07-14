@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "045929_T_DENJIXYARASUKOUSEN",
+  "PackNo": "SV6a",
+  "CardName": "デンジャラス光線",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>相手のバトルポケモンをやけどとこんらんにする。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ACE SPECのカードは、デッキに1枚しか入れられない。</p><p></p>\n</div>"
+}

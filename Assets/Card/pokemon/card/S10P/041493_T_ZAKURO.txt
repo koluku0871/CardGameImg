@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041493_T_ZAKURO",
+  "PackNo": "S10P",
+  "CardName": "ザクロ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>この番、自分の<span class=\"icon-fighting icon\"></span>ポケモンが使うワザの、相手のバトルポケモンへのダメージは「+30」される。<br/>\n<br/>\n自分の番に、自分の手札（「ザクロ」をのぞく）を2枚トラッシュするなら、この「ザクロ」を自分のトラッシュから、相手に見せて、手札に加える。（この効果は、自分の番に使えるサポートの枚数にふくまない。）</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

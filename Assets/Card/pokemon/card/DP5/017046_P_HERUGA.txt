@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "017046_P_HERUGA",
+  "PackNo": "DP5",
+  "CardName": "ヘルガー",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "80",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>ふくしゅうのキバ</h4>\n<p>自分のベンチポケモンの数が、相手のベンチポケモンの数より少ないなら、このポケモンが使うワザの、バトルポケモンに与えるダメージは、すべて「+40」される。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>きずをこがす<span class=\"f_right Text-fjalla\">20</span></h4>\n<p>ダメージを与えるとき、すでに相手にダメージカウンターがのっているなら、相手をやけどにする。</p>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span>ぐれんのほのお<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>コインを1回投げウラなら、自分の<span class=\"icon-fire icon\"></span>エネルギーを2個トラッシュ。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_on\">\n<a href=\"/card-search/index.php?keyword=ヘルガー&amp;se_ta=&amp;regulation_sidebar_form=all&amp;pg=&amp;illust=&amp;sm_and_keyword=true\">ヘルガー</a>\n</div>\n<div class=\"in-box ev_off\">\n<a href=\"/card-search/index.php?keyword=ヘルガーex&amp;se_ta=&amp;regulation_sidebar_form=all&amp;pg=&amp;illust=&amp;sm_and_keyword=true\">ヘルガーex</a>\n</div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?keyword=デルビル&amp;se_ta=&amp;regulation_sidebar_form=all&amp;pg=&amp;illust=&amp;sm_and_keyword=true\">デルビル</a>\n<div class=\"arrow_off\"></div>\n</div>\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

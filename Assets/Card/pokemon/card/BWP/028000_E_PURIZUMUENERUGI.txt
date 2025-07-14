@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "028000_E_PURIZUMUENERUGI",
+  "PackNo": "BWP",
+  "CardName": "プリズムエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>このカードは、<span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\nたねポケモンについているかぎり、すべてのタイプのエネルギー1個ぶんとしてはたらく。</p><p></p>\n</div>"
+}

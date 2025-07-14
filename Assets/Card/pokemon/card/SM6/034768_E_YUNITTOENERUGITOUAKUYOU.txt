@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "034768_E_YUNITTOENERUGITOUAKUYOU",
+  "PackNo": "SM6",
+  "CardName": "ユニットエネルギー闘悪フェアリー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、ポケモンについているかぎり、<span class=\"icon-fighting icon\"></span><span class=\"icon-dark icon\"></span><span class=\"icon-fairy icon\"></span>の3つのタイプのエネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nポケモンについていないなら、<span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。</p>\n</div>"
+}

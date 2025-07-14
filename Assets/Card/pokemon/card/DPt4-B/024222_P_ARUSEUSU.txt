@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "024222_P_ARUSEUSU",
+  "PackNo": "DPt4-B",
+  "CardName": "アルセウス",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "120",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>マルチタイプ</h4>\n<p>このポケモンのタイプは、レベルアップ前のタイプと同じになる。</p>\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>しんらばんしょう</h4>\n<p>このポケモンは、自分の場の「アルセウス」に書いてあるワザをすべて、このポケモンのワザとして使える（ワザエネルギーが、このポケモンについていないなら、使えない）。</p><h2 class=\"mt20\">特別なルール</h2>\n<p>このカードは、デッキに何枚でも入れられる。<br/>\n</p><p>このカードは、バトル場のアルセウスに重ねてレベルアップさせる。<br/>\nレベルアップ前のワザ・ポケパワーも使うことができ、ポケボディーもはたらく。</p><p></p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

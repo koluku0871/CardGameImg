@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035146_T_KARUNE",
+  "PackNo": "SMH",
+  "CardName": "カルネ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードは、前の相手の番に、自分の<span class=\"icon-fairy icon\"></span>ポケモンがきぜつしていなければ使えない。<br/>\n<br/>\n自分のトラッシュにある好きなカードを2枚、相手に見せてから、手札に加える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

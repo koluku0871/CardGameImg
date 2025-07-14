@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "028157_P_SEREBIIEX",
+  "PackNo": "BW6-Bc",
+  "CardName": "セレビィEX",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "110",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>タイムリコール</h4>\n<p>このポケモンがいるかぎり、進化している自分のポケモン全員は、進化前に持っていたワザをすべて使える。[ワザを使うためのエネルギーは必要。]</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>かぜわたり<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>このポケモンをベンチポケモンと入れ替える。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンEXがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-water icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037188_T_HAPUU",
+  "PackNo": "SMP",
+  "CardName": "ハプウ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を上から6枚見て、その中にあるカードを2枚、手札に加える。残りのカードはトラッシュする。</p>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>サポートは、自分の番に1枚しか使えない。</p><p></p>\n</div>"
+}

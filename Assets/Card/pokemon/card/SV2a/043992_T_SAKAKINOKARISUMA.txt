@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043992_T_SAKAKINOKARISUMA",
+  "PackNo": "SV2a",
+  "CardName": "サカキのカリスマ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>相手のバトルポケモンについているエネルギーを1個選び、相手の手札にもどす。その後、自分の手札からエネルギーを1枚選び、バトルポケモンにつける。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

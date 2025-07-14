@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "031444_T_RIZABUCHIKETTO",
+  "PackNo": "SNPo",
+  "CardName": "リザーブチケット",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>コインを1回投げオモテなら、自分の山札から好きなカードを1枚選ぶ。残りの山札を切り、選んだカードを山札の上にもどす。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

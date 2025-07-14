@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037460_T_KANKOUKYAKU",
+  "PackNo": "SM12a",
+  "CardName": "かんこうきゃく",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の手札が5枚になるように、山札を引く。のぞむなら、山札を引く前に、自分の手札を好きなだけトラッシュする。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

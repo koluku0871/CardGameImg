@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037448_P_JIRACHIGX",
+  "PackNo": "SM12a",
+  "CardName": "ジラーチGX",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "160",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>サイキックゾーン</h4>\n<p>このポケモンがいるかぎり、おたがいの場の<span class=\"icon-psychic icon\"></span>タイプの弱点を持つポケモンが、ワザのダメージを受けるとき、弱点を計算しない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>ほしさがし </h4>\n<p>自分の山札にあるエネルギーを1枚、自分の<span class=\"icon-psychic icon\"></span>ポケモンにつける。そして山札を切る。</p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span>スターシールドGX<span class=\"f_right Text-fjalla\">100</span></h4>\n<p>次の相手の番、このポケモンはワザのダメージや効果を受けない。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンGXがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

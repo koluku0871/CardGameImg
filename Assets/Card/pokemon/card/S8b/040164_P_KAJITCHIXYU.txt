@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040164_P_KAJITCHIXYU",
+  "PackNo": "S8b",
+  "CardName": "カジッチュ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "40",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>からにこもる </h4>\n<p>コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%83%9F%E3%83%84%E3%82%AA%E3%83%AD%E3%83%81ex&amp;sc_pm_ex3=1\">カミツオロチex</a></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%83%9F%E3%83%84%E3%82%AA%E3%83%AD%E3%83%81\">カミツオロチ</a></div></div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%BF%E3%83%AB%E3%83%83%E3%83%97%E3%83%AB\">タルップル</a></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AA%E3%83%A5%E3%83%BC\">アップリュー</a></div></div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%83%9F%E3%83%83%E3%83%81%E3%83%A5\">カミッチュ</a><div class=\"arrow_off\"></div></div></div>\n<div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%82%B8%E3%83%83%E3%83%81%E3%83%A5\">カジッチュ</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

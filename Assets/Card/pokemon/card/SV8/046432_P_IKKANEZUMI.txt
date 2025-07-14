@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046432_P_IKKANEZUMI",
+  "PackNo": "SV8",
+  "CardName": "イッカネズミ",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "80",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>ファミリーマーチ </h4>\n<p>自分の山札から「イッカネズミ（『ポケモンex』をふくむ）」を2枚まで選び、ベンチに出す。そして山札を切る。</p>\n<h4><span class=\"icon-none icon\"></span>れんぞくまえば<span class=\"f_right Text-fjalla\">30×</span></h4>\n<p>コインを4回投げ、オモテの数×30ダメージ。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A4%E3%83%83%E3%82%AB%E3%83%8D%E3%82%BA%E3%83%9F\">イッカネズミ</a></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A4%E3%83%83%E3%82%AB%E3%83%8D%E3%82%BA%E3%83%9Fex&amp;sc_pm_ex3=1\">イッカネズミex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AF%E3%83%83%E3%82%AB%E3%83%8D%E3%82%BA%E3%83%9F\">ワッカネズミ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

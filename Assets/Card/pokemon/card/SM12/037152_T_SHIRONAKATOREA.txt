@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037152_T_SHIRONAKATOREA",
+  "PackNo": "SM12",
+  "CardName": "シロナ&カトレア",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分のトラッシュにあるサポート（「シロナ&amp;カトレア」とこのカードの効果でトラッシュされたカードをのぞく）を1枚、相手に見せてから、手札に加える。<br/>\n<br/>\n追加で、このカードを使うときに、自分の手札を1枚トラッシュしてよい。その場合、自分の山札を3枚引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "027786_P_PURASURU",
+  "PackNo": "BW4-B",
+  "CardName": "プラスル",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "60",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>タッグドロー </h4>\n<p>自分の手札をすべて山札にもどし、山札を切る。その後、山札を4枚引く。自分のベンチに「マイナン」がいるなら、さらに4枚引く。</p>\n<h4><span class=\"icon-electric icon\"></span>プラスイオン<span class=\"f_right Text-fjalla\">20＋</span></h4>\n<p>コインを1回投げオモテなら、10ダメージを追加。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

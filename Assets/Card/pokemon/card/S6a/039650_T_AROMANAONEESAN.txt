@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039650_T_AROMANAONEESAN",
+  "PackNo": "S6a",
+  "CardName": "アロマなおねえさん",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を2枚引く。その後、自分のバトルポケモンの特殊状態をすべて回復する。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

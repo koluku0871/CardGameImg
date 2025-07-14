@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046176_P_DENCHIXYURAEX",
+  "PackNo": "SV7",
+  "CardName": "デンチュラex",
+  "CardCategory": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+  "CardType": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+  "Cost": "260",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<p class=\"mt20\">このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-electric icon\"></span><span class=\"icon-none icon\"></span>アッパースレッド<span class=\"f_right Text-fjalla\">110＋</span></h4>\n<p>相手のバトルポケモンが「ポケモンex・V」なら、110ダメージ追加。</p>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-electric icon\"></span><span class=\"icon-fighting icon\"></span>フルグライト<span class=\"f_right Text-fjalla\">180</span></h4>\n<p>このポケモンについているエネルギーを、すべてトラッシュする。次の相手の番、相手は手札からグッズを出して使えない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%87%E3%83%B3%E3%83%81%E3%83%A5%E3%83%A9\">デンチュラ</a></div><div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%87%E3%83%B3%E3%83%81%E3%83%A5%E3%83%A9ex&amp;sc_pm_ex3=1\">デンチュラex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%90%E3%83%81%E3%83%A5%E3%83%AB\">バチュル</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

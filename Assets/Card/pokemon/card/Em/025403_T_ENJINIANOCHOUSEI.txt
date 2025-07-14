@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "025403_T_ENJINIANOCHOUSEI",
+  "PackNo": "Em",
+  "CardName": "エンジニアの調整",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の手札のエネルギーを1枚トラッシュ。その後、自分の山札からカードを4枚引く。</p>\n<p>サポーターは、自分の番に1枚だけ使える。使ったら、自分のバトル場の横におき、自分の番の終わりにトラッシュ。</p>\n</div>"
+}

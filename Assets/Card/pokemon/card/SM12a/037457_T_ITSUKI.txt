@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037457_T_ITSUKI",
+  "PackNo": "SM12a",
+  "CardName": "イツキ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>この番、このカードを使ったあとに、ワザ・特性・トレーナーズの効果で自分が次に投げるコインは、最初の1回だけ、オモテかウラか選べる。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

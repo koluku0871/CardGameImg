@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046029_T_FURUBITANEKKONOKASEKI",
+  "PackNo": "SV7",
+  "CardName": "古びたねっこの化石",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "60",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、HP60の<span class=\"icon-none icon\"></span>タイプのたねポケモンとして、場に出せる。このカードは、特殊状態にならず、にげられない。<br/>\n自分の番の中でなら、場に出ているこのカードをトラッシュできる。</p>\n<h2 class=\"mt20\">特性</h2>\n<h4>げんしのねっこ</h4>\n<p>このポケモンがバトル場にいるかぎり、相手のたねポケモンは、ワザを使うためのエネルギーが、<span class=\"icon-none icon\"></span>エネルギー1個ぶん多くなる。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "027659_T_BERU",
+  "PackNo": "BWP",
+  "CardName": "ベル",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の手札が6枚になるように、山札を引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

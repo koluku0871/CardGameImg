@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040939_P_KORINKU",
+  "PackNo": "S9",
+  "CardName": "コリンク",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "40",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-electric icon\"></span>かじる<span class=\"f_right Text-fjalla\">10</span></h4>\n<p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AC%E3%83%B3%E3%83%88%E3%83%A9%E3%83%BCBREAK\">レントラーBREAK</a></div><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AC%E3%83%B3%E3%83%88%E3%83%A9%E3%83%BC\">レントラー</a><div class=\"arrow_off\"></div></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AC%E3%83%B3%E3%83%88%E3%83%A9%E3%83%BCex&amp;sc_pm_ex3=1\">レントラーex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AB%E3%82%AF%E3%82%B7%E3%82%AA\">ルクシオ</a><div class=\"arrow_off\"></div></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B3%E3%83%AA%E3%83%B3%E3%82%AF\">コリンク</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

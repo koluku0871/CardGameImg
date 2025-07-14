@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "022241_P_KAKUREON",
+  "PackNo": "DPt2-B",
+  "CardName": "カクレオン",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "70",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>カラフルボディー</h4>\n<p>このポケモンは、<span class=\"icon-grass icon\"></span><span class=\"icon-fire icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-electric icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-dark icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span>の9つのタイプを持つ。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>トリプルスマッシュ<span class=\"f_right Text-fjalla\">10＋</span></h4>\n<p>コインを3回投げ、オモテ×20ダメージを追加。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

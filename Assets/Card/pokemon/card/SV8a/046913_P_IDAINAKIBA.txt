@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046913_P_IDAINAKIBA",
+  "PackNo": "SV8a",
+  "CardName": "イダイナキバ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "140",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>じばんほうかい </h4>\n<p>相手の山札を上から1枚トラッシュする。この番、手札から「古代」のサポートを出して使っていたなら、さらに3枚トラッシュする。</p>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>きょだいなキバ<span class=\"f_right Text-fjalla\">160</span></h4>\n<p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

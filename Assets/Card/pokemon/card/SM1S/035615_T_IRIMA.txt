@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035615_T_IRIMA",
+  "PackNo": "SM1S",
+  "CardName": "イリマ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>おたがいのプレイヤーは、それぞれ手札をすべて山札にもどして切る。その後、おたがいのプレイヤーは、それぞれコインを1回投げ、オモテなら6枚、ウラなら3枚、山札を引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

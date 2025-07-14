@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "028681_P_BIRIJIONEX",
+  "PackNo": "BW9-B",
+  "CardName": "ビリジオンEX",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "170",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>わかくさのかぜ</h4>\n<p>このポケモンがいるかぎり、<span class=\"icon-grass icon\"></span>エネルギーがついている自分のポケモン全員は、特殊状態にならない。（受けている特殊状態は、すべて回復する。）</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span>エメラルドスラッシュ<span class=\"f_right Text-fjalla\">50</span></h4>\n<p>のぞむなら、自分の山札から<span class=\"icon-grass icon\"></span>エネルギーを2枚選び、ベンチポケモン1匹につけてよい。そして山札を切る。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンEXがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-water icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

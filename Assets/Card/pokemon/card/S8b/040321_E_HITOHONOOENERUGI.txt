@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040321_E_HITOHONOOENERUGI",
+  "PackNo": "S8b",
+  "CardName": "ヒート炎エネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、ポケモンについているかぎり、<span class=\"icon-fire icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードをつけている<span class=\"icon-fire icon\"></span>ポケモンの最大HPは「20」大きくなる。</p>\n</div>"
+}

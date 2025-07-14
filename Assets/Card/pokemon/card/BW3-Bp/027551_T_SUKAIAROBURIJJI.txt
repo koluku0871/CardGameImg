@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "027551_T_SUKAIAROBURIJJI",
+  "PackNo": "BW3-Bp",
+  "CardName": "スカイアローブリッジ",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいのたねポケモン全員のにげるために必要なエネルギーは、それぞれ1個ぶん少なくなる。</p>\n<p>スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。</p>\n</div>"
+}

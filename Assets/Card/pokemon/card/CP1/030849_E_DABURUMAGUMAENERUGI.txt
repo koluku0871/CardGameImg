@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "030849_E_DABURUMAGUMAENERUGI",
+  "PackNo": "CP1",
+  "CardName": "ダブルマグマエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは「マグマ団」のポケモンにしかつけられず、つけた番の終わりにトラッシュする。<br/>\n<br/>\nこのカードはポケモンについているかぎり、<span class=\"icon-fighting icon\"></span>エネルギー2個ぶんとしてはたらく。<br/>\n<br/>\n（このカードが「マグマ団」のポケモン以外についているなら、トラッシュする。）</p>\n</div>"
+}

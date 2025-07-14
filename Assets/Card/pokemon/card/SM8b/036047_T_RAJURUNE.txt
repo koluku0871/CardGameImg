@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036047_T_RAJURUNE",
+  "PackNo": "SM8b",
+  "CardName": "ラジュルネ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードは、相手のバトル場に2進化ポケモンがいなければ使えない。<br/>\n<br/>\n自分の山札にある好きなカードを2枚まで、手札に加える。そして山札を切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

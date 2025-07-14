@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038594_T_RURINA",
+  "PackNo": "S4",
+  "CardName": "ルリナ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分のトラッシュから<span class=\"icon-water icon\"></span>ポケモンと<span class=\"icon-water icon\"></span>エネルギーを合計4枚まで選び、相手に見せて、手札に加える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

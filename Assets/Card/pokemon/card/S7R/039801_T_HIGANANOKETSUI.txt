@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039801_T_HIGANANOKETSUI",
+  "PackNo": "S7R",
+  "CardName": "ヒガナの決意",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードは、自分の手札を2枚トラッシュしなければ使えない。<br/>\n<br/>\n相手の場のポケモンの数ぶん、自分の山札を引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037241_P_BORUKENION",
+  "PackNo": "SM12a",
+  "CardName": "ボルケニオン",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "160",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ジェットほうすい</h4>\n<p>自分の番に1回使える。自分の手札にある<span class=\"icon-water icon\"></span>エネルギーを、1枚トラッシュする。その後、相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span>サウナボム<span class=\"f_right Text-fjalla\">100</span></h4>\n<p>相手のベンチポケモン全員にも、それぞれ20ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>同じ名前の<span class=\"pcg pcg-prismstar\"></span>（プリズムスター）のカードは、デッキに1枚しか入れられない。トラッシュには行かず、ロストゾーンに置く。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

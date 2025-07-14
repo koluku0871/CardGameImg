@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "026107_P_SEREBII",
+  "PackNo": "L3-B",
+  "CardName": "セレビィ",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "60",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>もりのいぶき</h4>\n<p>このポケモンがバトル場にいるなら、自分の番に1回使える。自分の手札の<span class=\"icon-grass icon\"></span>エネルギーを1枚、自分のポケモンにつける。このパワーは、このポケモンが特殊状態なら使えない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>タイムサークル<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>次の相手の番、このポケモンは、相手の<img alt=\"1進化\" class=\"icon\" src=\"/shared/images/card/icon_1shinka.gif\"/>または<img alt=\"2進化\" class=\"icon\" src=\"/shared/images/card/icon_2shinka.gif\"/>ポケモンから、ワザのダメージを受けない。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

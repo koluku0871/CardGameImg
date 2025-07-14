@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035447_T_DENJARASUDORIRU",
+  "PackNo": "SM8a",
+  "CardName": "デンジャラスドリル",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、自分の手札にある<span class=\"icon-dark icon\"></span>ポケモンを1枚トラッシュしなければ使えない。<br/>\n<br/>\n相手の場のポケモンについている「ポケモンのどうぐ」「特殊エネルギー」と場に出ている「スタジアム」の中から、1枚トラッシュする。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

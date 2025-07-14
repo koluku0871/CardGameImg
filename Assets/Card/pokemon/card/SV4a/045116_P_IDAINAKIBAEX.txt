@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "045116_P_IDAINAKIBAEX",
+  "PackNo": "SV4a",
+  "CardName": "イダイナキバex",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "250",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ゆさぶりくずす</h4>\n<p>自分の番の終わりに、このポケモンがバトル場にいるなら、必ず1回使う。自分の山札を上から5枚トラッシュする。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>グレートバッシュ<span class=\"f_right Text-fjalla\">260</span></h4>\n<p>このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

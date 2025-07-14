@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "022248_T_CHITEITANKENTAI",
+  "PackNo": "DPt2-B",
+  "CardName": "地底探険隊",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札のカードを下から4枚見て、好きなカードを2枚選び、手札に加える。その後、残りのカードを好きな順番にして、山札の下にもどす。</p>\n<p>サポーターは、自分の番に1回だけ使える。使ったら、自分のバトル場の横におき、自分の番の終わりにトラッシュ。</p>\n</div>"
+}

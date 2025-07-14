@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036399_T_ZAKUZAKUPIKKERU",
+  "PackNo": "SM10",
+  "CardName": "ザクザクピッケル",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>相手の山札を上から3枚見て、その中から好きなカードを1枚選ぶ。残りのカードを山札にもどして切り、選んだカードを山札の上にもどす。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

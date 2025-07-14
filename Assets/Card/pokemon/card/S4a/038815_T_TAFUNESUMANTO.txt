@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038815_T_TAFUNESUMANTO",
+  "PackNo": "S4a",
+  "CardName": "タフネスマント",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p>\n<p>このカードをつけているたねポケモン（「ポケモンGX」をのぞく）の最大HPは「50」大きくなる。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

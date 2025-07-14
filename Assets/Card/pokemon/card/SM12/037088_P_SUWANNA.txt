@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037088_P_SUWANNA",
+  "PackNo": "SM12",
+  "CardName": "スワンナ",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "110",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>おいかぜ </h4>\n<p>自分の手札にあるエネルギーを1枚、自分のポケモンにつける。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>エアスラッシュ<span class=\"f_right Text-fjalla\">70</span></h4>\n<p>このポケモンについているエネルギーを、1個トラッシュする。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B9%E3%83%AF%E3%83%B3%E3%83%8A\">スワンナ</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B3%E3%82%A2%E3%83%AB%E3%83%92%E3%83%BC\">コアルヒー</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

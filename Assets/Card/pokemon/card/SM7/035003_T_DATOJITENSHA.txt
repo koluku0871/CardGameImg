@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035003_T_DATOJITENSHA",
+  "PackNo": "SM7",
+  "CardName": "ダートじてんしゃ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の山札を上から2枚見て、どちらか1枚を手札に加える。残りのカードはトラッシュする。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

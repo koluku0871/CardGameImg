@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035945_P_SEREBIIFUSHIGIBANAGX",
+  "PackNo": "SM9",
+  "CardName": "セレビィ&フシギバナGX",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "270",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>きけんなかふん<span class=\"f_right Text-fjalla\">50</span></h4>\n<p>相手のバトルポケモンをどくとやけどとこんらんにする。</p>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ソーラービーム<span class=\"f_right Text-fjalla\">150</span></h4>\n<p></p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-plus icon\"></span>エバーグリーンGX<span class=\"f_right Text-fjalla\">180</span></h4>\n<p>このポケモンのHPを、すべて回復する。追加で<span class=\"icon-grass icon\"></span>エネルギーが1個ついているなら、自分のトラッシュにあるカードをすべて山札にもどして切る。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>TAG TEAMがきぜつしたとき、相手はサイドを3枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

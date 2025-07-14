@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "003017_P_MINOMADAMUKUSAKINOMINO",
+  "PackNo": "DP3",
+  "CardName": "ミノマダム くさきのミノ",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "80",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>くさきのミノ</h4>\n<p>このポケモンに<span class=\"icon-grass icon\"></span>エネルギーが2個以上ついているなら、このポケモンの最大HPは「40」大きくなる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>リーフハリケーン<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>相手の残りHPが、自分の残りHPより少ないなら、相手をこんらんにする。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9F%E3%83%8E%E3%83%9E%E3%83%80%E3%83%A0%20%E3%81%8F%E3%81%95%E3%81%8D%E3%81%AE%E3%83%9F%E3%83%8E\">ミノマダム くさきのミノ</a></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AC%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%AB\">ガーメイル</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9F%E3%83%8E%E3%83%A0%E3%83%83%E3%83%81%20%E3%81%8F%E3%81%95%E3%81%8D%E3%81%AE%E3%83%9F%E3%83%8E\">ミノムッチ くさきのミノ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

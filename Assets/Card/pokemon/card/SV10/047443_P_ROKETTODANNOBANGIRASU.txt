@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "047443_P_ROKETTODANNOBANGIRASU",
+  "PackNo": "SV10",
+  "CardName": "ロケット団のバンギラス",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "180",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>すなおこし</h4>\n<p>このポケモンがバトル場にいるかぎり、ポケモンチェックのたび、相手のたねポケモン全員に、それぞれダメカンを2個のせる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ぶちぬきタックル<span class=\"f_right Text-fjalla\">180</span></h4>\n<p>相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E5%9B%A3%E3%81%AE%E3%83%90%E3%83%B3%E3%82%AE%E3%83%A9%E3%82%B9\">ロケット団のバンギラス</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E5%9B%A3%E3%81%AE%E3%82%B5%E3%83%8A%E3%82%AE%E3%83%A9%E3%82%B9\">ロケット団のサナギラス</a><div class=\"arrow_off\"></div></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E5%9B%A3%E3%81%AE%E3%83%A8%E3%83%BC%E3%82%AE%E3%83%A9%E3%82%B9\">ロケット団のヨーギラス</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

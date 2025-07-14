@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035518_P_DEIANSHI",
+  "PackNo": "SM8b",
+  "CardName": "ディアンシー",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "120",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>プリンセスエール</h4>\n<p>このポケモンがベンチにいるかぎり、自分の<span class=\"icon-fighting icon\"></span>ポケモンが使うワザの、相手のバトルポケモンへのダメージは「+20」される。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span>ダイヤレイン<span class=\"f_right Text-fjalla\">90</span></h4>\n<p>自分のベンチポケモン全員のHPを、それぞれ「30」回復する。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>同じ名前の<span class=\"pcg pcg-prismstar\"></span>（プリズムスター）のカードは、デッキに1枚しか入れられない。トラッシュには行かず、ロストゾーンに置く。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

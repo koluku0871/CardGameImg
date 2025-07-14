@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037461_T_GURINNOSENRYAKU",
+  "PackNo": "SM12a",
+  "CardName": "グリーンの戦略",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードを使った番の終わりに、自分の手札が8枚になるように、山札を引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035216_T_KAHIRI",
+  "PackNo": "SM7a",
+  "CardName": "カヒリ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を2枚引く。その後、コインを1回投げオモテなら、この「カヒリ」はトラッシュせずに、手札にもどす。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

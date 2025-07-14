@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039579_T_MIZUNOTOU",
+  "PackNo": "SGI",
+  "CardName": "みずの塔",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいの「れんげき」のポケモン全員のにげるためのエネルギーは、それぞれ2個ぶん少なくなる。</p>\n<p>スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。</p>\n</div>"
+}

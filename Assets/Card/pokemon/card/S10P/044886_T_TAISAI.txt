@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044886_T_TAISAI",
+  "PackNo": "S10P",
+  "CardName": "タイサイ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>おたがいのプレイヤーは、それぞれ、自分の手札をオモテにして、おたがいに見せ合う。自分の山札を3枚引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

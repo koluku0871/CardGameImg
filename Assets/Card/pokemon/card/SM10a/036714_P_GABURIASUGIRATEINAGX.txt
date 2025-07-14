@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036714_P_GABURIASUGIRATEINAGX",
+  "PackNo": "SM10a",
+  "CardName": "ガブリアス&ギラティナGX",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "270",
+  "Element": "<span class=\"icon-dragon icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>ちょくげきだん </h4>\n<p>相手のポケモン1匹に、40ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span>カラミティエッジ<span class=\"f_right Text-fjalla\">160＋</span></h4>\n<p>相手のバトルポケモンにダメカンがのっているなら、80ダメージ追加。</p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-plus icon\"></span>ジージーエンドGX </h4>\n<p>相手のポケモン1匹と、ついているすべてのカードを、トラッシュする。追加で<span class=\"icon-fighting icon\"></span>エネルギーが3個ついているなら、トラッシュするポケモンの数は2匹になる。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>TAG TEAMがきぜつしたとき、相手はサイドを3枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fairy icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "034292_P_DAKURAIGX",
+  "PackNo": "SM4p",
+  "CardName": "ダークライGX",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "180",
+  "Element": "<span class=\"icon-dark icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>リザレクション</h4>\n<p>このカードがトラッシュにあるなら、自分の番に1回使える。このカードをベンチに出す。その後、自分のトラッシュにある<span class=\"icon-dark icon\"></span>エネルギーを1枚、このカードにつける。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-dark icon\"></span><span class=\"icon-dark icon\"></span><span class=\"icon-none icon\"></span>やみのさけめ<span class=\"f_right Text-fjalla\">130</span></h4>\n<p>このワザのダメージは抵抗力を計算しない。</p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-dark icon\"></span><span class=\"icon-dark icon\"></span><span class=\"icon-none icon\"></span>デッドエンドGX </h4>\n<p>相手のバトルポケモンが特殊状態なら、そのポケモンをきぜつさせる。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンGXがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-psychic icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

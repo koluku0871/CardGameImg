@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037715_P_KABIGONV",
+  "PackNo": "S1H",
+  "CardName": "カビゴンV",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "220",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>のみこむ<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>フォーリングダウン<span class=\"f_right Text-fjalla\">170</span></h4>\n<p>このポケモンをねむりにする。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%83%93%E3%82%B4%E3%83%B3VMAX\">カビゴンVMAX</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%83%93%E3%82%B4%E3%83%B3V\">カビゴンV</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

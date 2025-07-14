@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035012_T_TSURIBITO",
+  "PackNo": "SM7",
+  "CardName": "釣り人",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分のトラッシュにある基本エネルギーを4枚、相手に見せてから、手札に加える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036898_T_DORAGONZDORAGONKURO",
+  "PackNo": "SMP",
+  "CardName": "ドラゴンZ ドラゴンクロー",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。<br/>\nこのカードをつけている、ワザ「ドラゴンクロー」を持つポケモンは、このカードに書かれているGXワザを使える。［ワザを使うためのエネルギーは必要。］</p>\n<p>［対戦中、自分はGXワザを1回しか使えない。］</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ドラゴンバーンGX<span class=\"f_right Text-fjalla\">80×</span></h4>\n<p>このポケモンについている基本エネルギーをすべてトラッシュし、その枚数×80ダメージ。</p>\n</div>"
+}

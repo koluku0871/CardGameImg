@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039240_E_SUTONTOUENERUGI",
+  "PackNo": "SF",
+  "CardName": "ストーン闘エネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、ポケモンについているかぎり、<span class=\"icon-fighting icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードをつけている<span class=\"icon-fighting icon\"></span>ポケモンが、相手のポケモンから受けるワザのダメージは「-20」される。</p>\n</div>"
+}

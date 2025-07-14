@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041231_P_HISUIJIXYUNAIPAVSTAR",
+  "PackNo": "S9a",
+  "CardName": "ヒスイ ジュナイパーVSTAR",
+  "CardCategory": "ワザ",
+  "CardType": "V進化",
+  "Cost": "270",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>サマーソルトフェザー<span class=\"f_right Text-fjalla\">160＋</span></h4>\n<p>のぞむなら、自分の手札からエネルギーを3枚までトラッシュし、その枚数×30ダメージ追加。</p><h2 class=\"mt20\">VSTARパワー</h2>\n<h4>特性</h4>\n<h4>フウウンスター</h4>\n<p>自分の番に使える。自分の手札が8枚になるように、山札を引く。［対戦中、自分はVSTARパワーを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVSTARがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%92%E3%82%B9%E3%82%A4%20%E3%82%B8%E3%83%A5%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BCVSTAR\">ヒスイ ジュナイパーVSTAR</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%92%E3%82%B9%E3%82%A4%20%E3%82%B8%E3%83%A5%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BCV\">ヒスイ ジュナイパーV</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

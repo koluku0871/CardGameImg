@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "019194_P_GOUKAZARU",
+  "PackNo": "DPs-B",
+  "CardName": "ゴウカザル",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "120",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>かえんのまい</h4>\n<p>自分の番に、このカードを手札から出してポケモンを進化させたとき、1回使える。コインを1回投げオモテなら、自分の山札の<span class=\"icon-fire icon\"></span>エネルギーを4枚まで選び、自分のポケモンに好きなようにつける。その後、山札を切る。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>インファイト<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>次の相手の番、自分が受けるワザのダメージは、「+30」される。</p>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>えんしょう<span class=\"f_right Text-fjalla\">80</span></h4>\n<p>自分の<span class=\"icon-fire icon\"></span>エネルギーを2個トラッシュし、相手のベンチポケモン全員にも、それぞれ20ダメージ。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B4%E3%82%A6%E3%82%AB%E3%82%B6%E3%83%AB\">ゴウカザル</a></div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A2%E3%82%A6%E3%82%AB%E3%82%B6%E3%83%AB\">モウカザル</a><div class=\"arrow_off\"></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%92%E3%82%B3%E3%82%B6%E3%83%AB\">ヒコザル</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>＋30</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

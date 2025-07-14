@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "023079_P_AMEMOSU",
+  "PackNo": "DPt3-B",
+  "CardName": "アメモース",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "80",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>いかくのもよう</h4>\n<p>相手のワザのダメージは、このポケモンがバトル場にいるかぎり、すべて「-20」される。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>すいすいアタック<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>自分の山札からカードを2枚引く。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A2%E3%83%A1%E3%83%A2%E3%83%BC%E3%82%B9\">アメモース</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%9E\">アメタマ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036394_P_PORIGONZ",
+  "PackNo": "SM10",
+  "CardName": "ポリゴンZ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "130",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>クレイジーコード</h4>\n<p>自分の番に何回でも使える。自分の手札にある特殊エネルギーを1枚、自分のポケモンにつける。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>あばれまわる<span class=\"f_right Text-fjalla\">120</span></h4>\n<p>このポケモンをこんらんにする。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"evolution in-box ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3Z\">ポリゴンZ</a>\n</div>\n<div class=\"evolution in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3ZGX\">ポリゴンZGX</a>\n</div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B32\">ポリゴン2</a>\n<div class=\"arrow_off\"></div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3\">ポリゴン</a>\n<div class=\"arrow_off\"></div>\n</div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

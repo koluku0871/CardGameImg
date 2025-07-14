@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035158_T_SESERAGINOOKA",
+  "PackNo": "SMH",
+  "CardName": "せせらぎの丘",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいのプレイヤーは、自分の番ごとに1回、自分の山札にある<span class=\"icon-water icon\"></span>または<span class=\"icon-fighting icon\"></span>タイプのたねポケモンを1枚、ベンチに出してよい。その場合、山札を切る。</p>\n<p>スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。</p>\n</div>"
+}

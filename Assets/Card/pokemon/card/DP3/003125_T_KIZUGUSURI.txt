@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "003125_T_KIZUGUSURI",
+  "PackNo": "DP3",
+  "CardName": "きずぐすり",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のポケモン1匹から、ダメージカウンターを2個とる。</p>\n</div>"
+}

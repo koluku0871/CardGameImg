@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035126_P_RAKKI",
+  "PackNo": "SMH",
+  "CardName": "ラッキー",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "110",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>きずをなおす </h4>\n<p>コインを1回投げオモテなら、自分のポケモン1匹のHPを「30」回復する。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ぶちかます<span class=\"f_right Text-fjalla\">80</span></h4>\n<p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"evolution in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%8F%E3%83%94%E3%83%8A%E3%82%B9\">ハピナス</a>\n</div>\n<div class=\"evolution in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%8F%E3%83%94%E3%83%8A%E3%82%B9ex\">ハピナスex</a>\n</div>\n</div>\n<div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC\">ラッキー</a>\n<div class=\"arrow_on\"></div>\n</div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

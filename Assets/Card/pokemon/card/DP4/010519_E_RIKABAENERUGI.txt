@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "010519_E_RIKABAENERUGI",
+  "PackNo": "DP4",
+  "CardName": "リカバー・エネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p><span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\nこのカードを手札から出して、自分のポケモンにつけたとき、そのポケモンの特殊状態をすべて回復させる。</p><p></p>\n</div>"
+}

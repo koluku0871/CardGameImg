@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046728_P_PEROPPAFU",
+  "PackNo": "SV8a",
+  "CardName": "ペロッパフ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "50",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>おまつりおんど</h4>\n<p>場に「お祭り会場」が出ているなら、このポケモンは、持っているワザを2回連続で使える。（1回目のワザで相手のバトルポケモンがきぜつしたなら、次のバトルポケモンが出たあと、2回目のワザを使う。）</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>そっとのせる </h4>\n<p>相手のポケモン1匹に、ダメカンを2個のせる。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9A%E3%83%AD%E3%83%AA%E3%83%BC%E3%83%A0\">ペロリーム</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9A%E3%83%AD%E3%83%83%E3%83%91%E3%83%95\">ペロッパフ</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-steel icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

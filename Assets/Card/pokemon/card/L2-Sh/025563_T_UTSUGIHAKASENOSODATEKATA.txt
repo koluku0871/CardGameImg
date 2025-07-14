@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "025563_T_UTSUGIHAKASENOSODATEKATA",
+  "PackNo": "L2-Sh",
+  "CardName": "ウツギはかせの育てかた",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札の<img alt=\"1進化\" class=\"icon\" src=\"/shared/images/card/icon_1shinka.gif\"/>または<img alt=\"2進化\" class=\"icon\" src=\"/shared/images/card/icon_2shinka.gif\"/>ポケモンを1枚、相手に見せてから、手札に加える。そして山札を切る。</p>\n<p>サポーターは、自分の番に1枚だけ使える。使ったら、自分のバトル場の横におき、自分の番の終わりにトラッシュ。</p>\n</div>"
+}

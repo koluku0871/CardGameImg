@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037121_P_RURIRI",
+  "PackNo": "SM12",
+  "CardName": "ルリリ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "60",
+  "Element": "<span class=\"icon-fairy icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ぐんぐんチャージ</h4>\n<p>自分の番に1回使えて、使ったなら、自分の番は終わる。コインを1回投げオモテなら、自分のトラッシュにある基本エネルギーを1枚、バトルポケモンにつける。</p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

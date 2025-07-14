@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "045213_T_TANKENKANOSENDOU",
+  "PackNo": "SV5K",
+  "CardName": "探検家の先導",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を上から6枚見て、その中からカードを2枚選び、手札に加える。残りのカードはトラッシュする。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

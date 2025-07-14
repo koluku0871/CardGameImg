@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "017137_P_ENEKORORO",
+  "PackNo": "DP5",
+  "CardName": "エネコロロ",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "80",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>メロメロボディー</h4>\n<p>このポケモンが、バトル場で相手のワザのダメージを受けたとき（このポケモンのHPがなくなっても）、このポケモンの持ち主はコインを1回投げる。オモテなら、そのワザを使ったポケモンをこんらんにする。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>エネアシスト<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>自分のトラッシュの基本エネルギーを1枚、自分のベンチポケモンにつける。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A8%E3%83%8D%E3%82%B3%E3%83%AD%E3%83%AD\">エネコロロ</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A8%E3%83%8D%E3%82%B3\">エネコ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

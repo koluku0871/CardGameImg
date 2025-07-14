@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040173_P_POWARUNTAIYOUNOSUGATA",
+  "PackNo": "S8b",
+  "CardName": "ポワルン たいようのすがた",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "70",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>てんきよみ</h4>\n<p>自分のトラッシュに「スタジアム」が8枚以上あるなら、このポケモンがワザを使うためのエネルギーは、すべてなくなる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span><span class=\"icon-none icon\"></span>こうきあつブラスト<span class=\"f_right Text-fjalla\">150</span></h4>\n<p>場に出ている「スタジアム」をトラッシュする。トラッシュできないなら、このワザは失敗。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

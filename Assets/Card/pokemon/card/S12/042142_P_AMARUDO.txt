@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042142_P_AMARUDO",
+  "PackNo": "S12",
+  "CardName": "アーマルド",
+  "CardCategory": "ワザ",
+  "CardType": "2 進化",
+  "Cost": "150",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>かりとるかぎづめ </h4>\n<p>相手のバトルポケモンの残りHPが「100」以下なら、そのポケモンをきぜつさせる。</p>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span>ロックスマッシュ<span class=\"f_right Text-fjalla\">160</span></h4>\n<p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%89\">アーマルド</a>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A2%E3%83%8E%E3%83%97%E3%82%B9\">アノプス</a>\n<div class=\"arrow_off\"></div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%81%AA%E3%81%9E%E3%81%AE%E5%8C%96%E7%9F%B3\">なぞの化石</a>\n<div class=\"arrow_off\"></div>\n</div>\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

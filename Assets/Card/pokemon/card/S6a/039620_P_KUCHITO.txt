@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039620_P_KUCHITO",
+  "PackNo": "S6a",
+  "CardName": "クチート",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "90",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>ガブガブホールド<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>次の相手の番、このワザを受けたポケモンは、ワザを使うためのエネルギーとにげるためのエネルギーが、それぞれ<span class=\"icon-none icon\"></span>エネルギー1個ぶん多くなる。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-steel icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

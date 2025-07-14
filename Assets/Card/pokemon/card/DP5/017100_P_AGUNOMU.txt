@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "017100_P_AGUNOMU",
+  "PackNo": "DP5",
+  "CardName": "アグノム",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "90",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>サイキックオーラ</h4>\n<p>自分の場の<span class=\"icon-psychic icon\"></span>ポケモン全員の弱点は、すべてなくなる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>ディープバランス </h4>\n<p>相手の場にあるエネルギーの数ぶんのダメージカウンターを、相手のポケモン1匹にのせる。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>このカードは、バトル場のアグノムに重ねてレベルアップさせる。<br/>\nレベルアップ前のワザ・ポケパワーも使うことができ、ポケボディーもはたらく。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

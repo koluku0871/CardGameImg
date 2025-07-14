@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039501_E_RAKKIENERUGI",
+  "PackNo": "S6K",
+  "CardName": "ラッキーエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、ポケモンについているかぎり、<span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードをつけているポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、自分の山札を1枚引く。</p>\n</div>"
+}

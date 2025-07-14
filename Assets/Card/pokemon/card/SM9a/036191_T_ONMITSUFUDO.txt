@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036191_T_ONMITSUFUDO",
+  "PackNo": "SM9a",
+  "CardName": "隠密フード",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p>\n<p>このカードをつけているポケモンは、相手のポケモンから特性の効果を受けない。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

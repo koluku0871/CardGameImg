@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "034470_P_ROTOMU",
+  "PackNo": "SM5M",
+  "CardName": "ロトム",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "70",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ロトモーター</h4>\n<p>自分のトラッシュに「ポケモンのどうぐ」が9枚以上あるなら、このポケモンが使うワザに必要なエネルギーは、すべてなくなる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-electric icon\"></span><span class=\"icon-electric icon\"></span><span class=\"icon-electric icon\"></span>プラズマスラッシュ<span class=\"f_right Text-fjalla\">120</span></h4>\n<p>次の自分の番、このポケモンはワザが使えない。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-steel icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

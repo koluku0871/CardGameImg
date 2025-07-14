@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "021267_T_HANSAMUNOSOUSA",
+  "PackNo": "DPt1-B",
+  "CardName": "ハンサムの捜査",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>相手の手札を見る。<br/>\n<br/>\n自分または相手のどちらかを選び、選ばれたプレイヤーは、手札をすべて山札にもどし、山札を切る。その後、選ばれたプレイヤーは、山札からカードを5枚まで引く。</p>\n<p>サポーターは、自分の番に1回だけ使える。使ったら、自分のバトル場の横におき、自分の番の終わりにトラッシュ。</p>\n</div>"
+}

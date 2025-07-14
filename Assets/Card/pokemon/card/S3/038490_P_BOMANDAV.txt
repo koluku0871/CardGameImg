@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038490_P_BOMANDAV",
+  "PackNo": "S3",
+  "CardName": "ボーマンダV",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "220",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>おうだんひこう </h4>\n<p>相手のポケモン全員に、それぞれ30ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ヘビーストーム<span class=\"f_right Text-fjalla\">160</span></h4>\n<p></p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9C%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%80VMAX\">ボーマンダVMAX</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9C%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%80V\">ボーマンダV</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

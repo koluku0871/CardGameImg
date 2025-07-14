@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038472_T_POKEMONKYACCHA",
+  "PackNo": "S3a",
+  "CardName": "ポケモンキャッチャー",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

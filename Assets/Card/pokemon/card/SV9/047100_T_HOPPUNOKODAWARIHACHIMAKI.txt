@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "047100_T_HOPPUNOKODAWARIHACHIMAKI",
+  "PackNo": "SV9",
+  "CardName": "ホップのこだわりハチマキ",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>このカードをつけている「ホップのポケモン」は、ワザを使うためのエネルギーが<span class=\"icon-none icon\"></span>エネルギー1個ぶん少なくなり、そのポケモンが使うワザの、相手のバトルポケモンへのダメージは「+30」される。</p>\n<p>ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044463_P_IKKANEZUMIEX",
+  "PackNo": "SV4M",
+  "CardName": "イッカネズミex",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "230",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>いっちだんけつ</h4>\n<p>このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、自分の場の「ワッカネズミ」と「イッカネズミ（『ポケモンex』をふくむ）」の数×3個ぶんのダメカンを、ワザを使ったポケモンにのせる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>がっつくまえば<span class=\"f_right Text-fjalla\">120</span></h4>\n<p>自分の山札を2枚引く。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A4%E3%83%83%E3%82%AB%E3%83%8D%E3%82%BA%E3%83%9F\">イッカネズミ</a></div><div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A4%E3%83%83%E3%82%AB%E3%83%8D%E3%82%BA%E3%83%9Fex&amp;sc_pm_ex3=1\">イッカネズミex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AF%E3%83%83%E3%82%AB%E3%83%8D%E3%82%BA%E3%83%9F\">ワッカネズミ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

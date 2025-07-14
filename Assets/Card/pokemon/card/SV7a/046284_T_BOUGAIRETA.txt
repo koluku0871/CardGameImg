@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046284_T_BOUGAIRETA",
+  "PackNo": "SV7a",
+  "CardName": "ぼうがいレター",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>相手は相手自身の手札を数えたあと、すべてウラにして切り、山札の下にもどす。その後、相手はもどした枚数ぶん、山札を引く。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "031216_T_TEIERUNO",
+  "PackNo": "MMB-P",
+  "CardName": "ティエルノ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を3枚引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046675_P_BERAKASU",
+  "PackNo": "SV8a",
+  "CardName": "ベラカス",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "70",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>スフィアシールド</h4>\n<p>このポケモンがいるかぎり、自分のベンチポケモン全員は、相手のポケモンからワザのダメージや効果を受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>サイコキネシス<span class=\"f_right Text-fjalla\">10＋</span></h4>\n<p>相手のバトルポケモンについているエネルギーの数×30ダメージ追加。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%99%E3%83%A9%E3%82%AB%E3%82%B9\">ベラカス</a></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%99%E3%83%A9%E3%82%AB%E3%82%B9ex&amp;sc_pm_ex3=1\">ベラカスex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B7%E3%82%AC%E3%83%AD%E3%82%B3\">シガロコ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

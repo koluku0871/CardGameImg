@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "021182_P_GIRATEINA",
+  "PackNo": "DPt1-B",
+  "CardName": "ギラティナ",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "130",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>みえざるしょくしゅ</h4>\n<p>相手のポケモンは、ワザを使うときに相手プレイヤーが手札を1枚トラッシュしないかぎり、ワザを使えない。自分の場で、すでに別の「みえざるしょくしゅ」がはたらいているなら、このボディーははたらかない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ダークロスト </h4>\n<p>相手のポケモン全員に、それぞれ30ダメージ。このワザのダメージで相手のポケモンをきぜつさせたなら、そのポケモンとそのポケモンについているすべてのカードはトラッシュにおかず、相手のロストゾーンにおく。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>このカードは、バトル場のギラティナに重ねてレベルアップさせる。<br/>\nレベルアップ前のワザ・ポケパワーも使うことができ、ポケボディーもはたらく。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-dark icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-none icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

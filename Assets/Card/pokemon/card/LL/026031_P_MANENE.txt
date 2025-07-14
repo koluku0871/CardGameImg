@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "026031_P_MANENE",
+  "PackNo": "LL",
+  "CardName": "マネネ",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "30",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>てんしのねがお</h4>\n<p>このポケモンは、ねむりならワザのダメージを受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-void icon\"></span>ねぼけロスト </h4>\n<p>相手の山札を上から1枚、ロストゾーンにおく。このポケモンをねむりにする。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%90%E3%83%AA%E3%83%A4%E3%83%BC%E3%83%89\">バリヤード</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9E%E3%83%8D%E3%83%8D\">マネネ</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

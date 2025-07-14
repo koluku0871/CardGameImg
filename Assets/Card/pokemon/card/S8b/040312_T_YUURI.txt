@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040312_T_YUURI",
+  "PackNo": "S8b",
+  "CardName": "ユウリ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札からたねポケモン（「ルールを持つポケモン」をのぞく）を3枚まで選び、ベンチに出す。そして山札を切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

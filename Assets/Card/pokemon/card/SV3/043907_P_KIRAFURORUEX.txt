@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043907_P_KIRAFURORUEX",
+  "PackNo": "SV3",
+  "CardName": "キラフロルex",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "270",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ダストフィールド</h4>\n<p>このポケモンがバトル場にいるかぎり、相手がベンチに出せるポケモンの数は3匹になる。相手のベンチに4匹以上いるなら、相手はベンチが3匹になるまでポケモンをトラッシュする。［ベンチの数を変更する効果は、少ない数が優先される。］</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span>ポイズンジェム<span class=\"f_right Text-fjalla\">140</span></h4>\n<p>相手のバトルポケモンをどくにする。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AD%E3%83%A9%E3%83%95%E3%83%AD%E3%83%AB\">キラフロル</a></div><div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AD%E3%83%A9%E3%83%95%E3%83%AD%E3%83%ABex&amp;sc_pm_ex3=1\">キラフロルex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AD%E3%83%A9%E3%83%BC%E3%83%A1\">キラーメ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

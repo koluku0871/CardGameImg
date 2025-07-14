@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036556_P_GIRATEINA",
+  "PackNo": "SM10a",
+  "CardName": "ギラティナ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "130",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>じげんのかぎづめ</h4>\n<p>自分の番に、このカードを手札からベンチに出したとき、1回使える。相手のバトルポケモンについている特殊エネルギーを、1個トラッシュする。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>あんこく<span class=\"f_right Text-fjalla\">70</span></h4>\n<p>相手のバトルポケモンをこんらんにする。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-dark icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

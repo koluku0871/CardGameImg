@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "025567_T_BOUZUNOSHUGYOU",
+  "PackNo": "L2-Sh",
+  "CardName": "ぼうずの修行",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を上から5枚見て、その中の2枚を手札に加える。残りのカードはトラッシュ。</p>\n<p>サポーターは、自分の番に1枚だけ使える。使ったら、自分のバトル場の横におき、自分の番の終わりにトラッシュ。</p>\n</div>"
+}

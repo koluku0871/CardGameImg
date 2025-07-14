@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046641_P_KAKUREON",
+  "PackNo": "SV8",
+  "CardName": "カクレオン",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "70",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>かくれじょうず</h4>\n<p>このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ベロウィップ </h4>\n<p>相手のポケモン1匹に、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

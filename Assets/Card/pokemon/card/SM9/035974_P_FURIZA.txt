@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035974_P_FURIZA",
+  "PackNo": "SM9",
+  "CardName": "フリーザー",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "110",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ブリザードヴェール</h4>\n<p>このポケモンがバトル場にいるかぎり、自分のベンチの<span class=\"icon-water icon\"></span>ポケモン全員は、相手が手札からサポートを出して使ったとき、その効果を受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span>コールドサイクロン<span class=\"f_right Text-fjalla\">70</span></h4>\n<p>このポケモンについている<span class=\"icon-water icon\"></span>エネルギーを2個、ベンチポケモン1匹につけ替える。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

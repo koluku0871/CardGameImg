@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041098_T_MAKUWA",
+  "PackNo": "S8b",
+  "CardName": "マクワ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を上から7枚見る。その中からエネルギーを好きなだけ選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

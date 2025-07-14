@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039601_P_MARIRURI",
+  "PackNo": "S6a",
+  "CardName": "マリルリ",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "120",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span>もぐってたすける </h4>\n<p>自分のトラッシュからポケモンとサポートを合計3枚まで選び、相手に見せて、手札に加える。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>なみのり<span class=\"f_right Text-fjalla\">90</span></h4>\n<p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9E%E3%83%AA%E3%83%AB%E3%83%AA\">マリルリ</a></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9E%E3%83%AA%E3%83%AB\">マリル</a>\n<div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

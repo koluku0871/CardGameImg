@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036704_T_BURIZADOTAUN",
+  "PackNo": "SM10b",
+  "CardName": "ブリザードタウン",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいの場の残りHPが「40」以下のポケモンは、ワザが使えない。</p>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。</p><p></p>\n</div>"
+}

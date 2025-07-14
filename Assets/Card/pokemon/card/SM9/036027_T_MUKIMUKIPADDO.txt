@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036027_T_MUKIMUKIPADDO",
+  "PackNo": "SM9",
+  "CardName": "ムキムキパッド",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p>\n<p>このカードをつけているにげるためのエネルギーが4個のポケモンの最大HPは「50」大きくなる。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

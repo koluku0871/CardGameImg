@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "047146_P_GACHIGUMAAKATSUKIEX",
+  "PackNo": "SV8a",
+  "CardName": "ガチグマ アカツキex",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "260",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ろうれんのわざ</h4>\n<p>相手がすでにとったサイドの枚数ぶん、このポケモンが「ブラッドムーン」を使うための<span class=\"icon-none icon\"></span>エネルギーは少なくなる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ブラッドムーン<span class=\"f_right Text-fjalla\">240</span></h4>\n<p>次の自分の番、このポケモンはワザが使えない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

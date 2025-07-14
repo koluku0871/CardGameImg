@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044332_P_TETSUNOTSUTSUMI",
+  "PackNo": "SV4M",
+  "CardName": "テツノツツミ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "100",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ハイパーブロアー</h4>\n<p>このポケモンがベンチにいるなら、自分の番に1回使える。相手のバトルポケモンをベンチポケモンと入れ替える（バトル場に出すポケモンは相手が選ぶ）。その後、このポケモンと、ついているすべてのカードを、トラッシュする。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>れいきゃくジェット<span class=\"f_right Text-fjalla\">80</span></h4>\n<p>次の相手の番、このワザを受けた進化ポケモンは、ワザが使えない。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

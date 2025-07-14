@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038832_E_ORORAENERUGI",
+  "PackNo": "S4a",
+  "CardName": "オーロラエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、手札からポケモンにつけるとき、自分の手札を1枚トラッシュしなければつけられない。<br/>\n<br/>\nこのカードは、ポケモンについているかぎり、すべてのタイプのエネルギー1個ぶんとしてはたらく。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "007000_T_BATORURODOSUTAJIAMU",
+  "PackNo": "DPP",
+  "CardName": "バトルロードスタジアム",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>プレイヤーは、それぞれ、自分の番の終わりに、自分の手札が8枚以上なら、7枚になるまで手札のカードをトラッシュ。</p>\n<p>スタジアムは、自分の番に1回だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュ。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "028244_P_MANAFI",
+  "PackNo": "BW7-B",
+  "CardName": "マナフィ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "70",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>さいごのねがい</h4>\n<p>このポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、自分の山札から好きなカードを1枚選び、手札に加える。そして山札を切る。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span>かいゆう </h4>\n<p>コインを3回投げ、オモテの数ぶん、自分のトラッシュから<span class=\"icon-water icon\"></span>エネルギーを選び、ベンチポケモンに好きなようにつける。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

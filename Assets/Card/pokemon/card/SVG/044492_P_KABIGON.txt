@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044492_P_KABIGON",
+  "PackNo": "SVG",
+  "CardName": "カビゴン",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "150",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>へいきなしぼう</h4>\n<p>このポケモンは、相手のポケモンが使うワザの効果を受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>どっすんグースカ<span class=\"f_right Text-fjalla\">180</span></h4>\n<p>このポケモンをねむりにする。このねむりで投げるコインは2回になり、すべてオモテが出ないと回復しない。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

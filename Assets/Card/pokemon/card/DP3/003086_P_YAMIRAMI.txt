@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "003086_P_YAMIRAMI",
+  "PackNo": "DP3",
+  "CardName": "ヤミラミ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "60",
+  "Element": "<span class=\"icon-dark icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>あさる </h4>\n<p>自分の山札のカードを上から5枚見て、その中の「トレーナー」を好きなだけ選び、相手プレイヤーに見せてから、手札に加える。その後、残りのカードを山札にもどし、山札を切る。</p>\n<h4><span class=\"icon-dark icon\"></span><span class=\"icon-none icon\"></span>かげうち<span class=\"f_right Text-fjalla\">20＋</span></h4>\n<p>自分と相手のサイドの枚数がちがうなら、20ダメージを追加。</p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td><span class=\"icon-none icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

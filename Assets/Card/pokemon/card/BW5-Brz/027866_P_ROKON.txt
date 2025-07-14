@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "027866_P_ROKON",
+  "PackNo": "BW5-Brz",
+  "CardName": "ロコン",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "60",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span>こがす </h4>\n<p>相手のバトルポケモンをやけどにする。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%B3%E3%83%B3BREAK\">キュウコンBREAK</a></div><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%B3%E3%83%B3\">キュウコン</a><div class=\"arrow_off\"></div></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%B3%E3%83%B3ex&amp;sc_pm_ex3=1\">キュウコンex</a></div></div>\n<div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AD%E3%82%B3%E3%83%B3\">ロコン</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "023179_P_JIRANSU",
+  "PackNo": "DPt3-B",
+  "CardName": "ジーランス",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "80",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span>グランドスウェル </h4>\n<p>場にある相手の「ポケモンのどうぐ」「スタジアム」の合計×30ダメージを、相手のポケモン1匹に与える。</p>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span>ドわすれ<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>相手のワザを1つ選ぶ。次の相手の番、その相手は、そのワザを使えない。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

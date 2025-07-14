@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043036_T_RESSUNSUTAJIO",
+  "PackNo": "SV1a",
+  "CardName": "レッスンスタジオ",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいの1進化ポケモンが使うワザの、相手のバトルポケモンへのダメージは「+10」される。</p>\n<p>スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。</p>\n</div>"
+}

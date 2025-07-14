@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039130_E_ICHIGEKIENERUGI",
+  "PackNo": "S5I",
+  "CardName": "いちげきエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは「いちげき」のポケモンにしかつけられず、「いちげき」のポケモン以外についているなら、トラッシュする。<br/>\n<br/>\nこのカードは、ポケモンについているかぎり、<span class=\"icon-fighting icon\"></span><span class=\"icon-dark icon\"></span>の2つのタイプのエネルギー1個ぶんとしてはたらき、このカードをつけているポケモンが使うワザの、相手のバトルポケモンへのダメージは「+20」される。</p>\n</div>"
+}

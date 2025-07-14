@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037971_T_KINNOTAMA",
+  "PackNo": "S2",
+  "CardName": "きんのたま",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、自分の番のはじめに、山札からこのカードを引いたとき、手札に加える前に使う。<br/>\n<br/>\n自分の山札を3枚引く。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

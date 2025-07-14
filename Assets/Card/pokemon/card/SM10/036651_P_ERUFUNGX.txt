@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036651_P_ERUFUNGX",
+  "PackNo": "SM10",
+  "CardName": "エルフーンGX",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "190",
+  "Element": "<span class=\"icon-fairy icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ふわふわコットン</h4>\n<p>このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fairy icon\"></span>エナジーブロー<span class=\"f_right Text-fjalla\">10＋</span></h4>\n<p>このポケモンについているエネルギーの数×30ダメージ追加。</p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-fairy icon\"></span>トイボックスGX </h4>\n<p>自分の山札にある好きなカードを5枚まで、手札に加える。そして山札を切る。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンGXがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A8%E3%83%AB%E3%83%95%E3%83%BC%E3%83%B3\">エルフーン</a></div><div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A8%E3%83%AB%E3%83%95%E3%83%BC%E3%83%B3GX\">エルフーンGX</a></div></div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A8%E3%83%AB%E3%83%95%E3%83%BC%E3%83%B3ex&amp;sc_pm_ex3=1\">エルフーンex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A2%E3%83%B3%E3%83%A1%E3%83%B3\">モンメン</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-steel icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-dark icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

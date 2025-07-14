@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "022030_T_KIKUNONOYASASHISA",
+  "PackNo": "DPt2-Sg",
+  "CardName": "キクノの優しさ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分のSPポケモン1匹から、ダメージカウンターを5個とる。</p>\n<p>サポーターは、自分の番に1回だけ使える。使ったら、自分のバトル場の横におき、自分の番の終わりにトラッシュ。</p>\n</div>"
+}

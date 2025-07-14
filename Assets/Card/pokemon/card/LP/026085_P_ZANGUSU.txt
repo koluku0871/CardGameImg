@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "026085_P_ZANGUSU",
+  "PackNo": "LP",
+  "CardName": "ザングース",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "80",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>つるぎのまい </h4>\n<p>次の自分の番、このポケモンが使う「ロストクロー」のダメージは「60」になる。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ロストクロー<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>相手の手札から、オモテを見ないでカードを1枚選び、ロストゾーンにおく。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

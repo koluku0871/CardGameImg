@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044310_T_ORIMUHAKASENOKIHAKU",
+  "PackNo": "SV4K",
+  "CardName": "オーリム博士の気迫",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の「古代」のポケモンを2匹まで選び、トラッシュから基本エネルギーを1枚ずつつける。その後、自分の山札を3枚引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

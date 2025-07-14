@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043966_P_KABIGON",
+  "PackNo": "SV2a",
+  "CardName": "カビゴン",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "150",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>くいいじ</h4>\n<p>自分の番に1回使える。自分のトラッシュから「たべのこし」を2枚まで選び、相手に見せて、手札に加える。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>バッタンプレス<span class=\"f_right Text-fjalla\">130</span></h4>\n<p>このポケモンにも30ダメージ。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

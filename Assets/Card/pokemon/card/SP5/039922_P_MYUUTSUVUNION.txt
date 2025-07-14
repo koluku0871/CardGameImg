@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039922_P_MYUUTSUVUNION",
+  "PackNo": "SP5",
+  "CardName": "ミュウツーV-UNION",
+  "CardCategory": "ワザ",
+  "CardType": "V-UNION",
+  "Cost": "310",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>ユニオンゲイン </h4>\n<p>自分のトラッシュから<span class=\"icon-psychic icon\"></span>エネルギーを2枚まで選び、このポケモンにつける。</p>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>ちょうさいせい </h4>\n<p>このポケモンのHPを「200」回復する。</p>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>サイコプロージョン </h4>\n<p>ダメカン16個を、相手のポケモンに好きなようにのせる。</p>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>ファイナルバーン<span class=\"f_right Text-fjalla\">300</span></h4>\n<p></p>\n<h2 class=\"mt20\">特性</h2>\n<h4>フォトンバリア</h4>\n<p>このポケモンは、相手のポケモンが使うワザの効果を受けない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>対戦中に1回、自分の番に、自分のトラッシュにある4種類のミュウツーV-UNIONを組み合わせて、ベンチに出す。</p><br/>\n<p>ポケモンV-UNIONがきぜつしたとき、相手はサイドを3枚とる。</p><p></p>\n<div class=\"Text-annotation\">「ポケモンV-UNIONのカード」は、「左上」と「右上」と「左下」と「右下」を組み合わせて使います。</div>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-dark icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

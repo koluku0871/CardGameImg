@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "026170_P_KAIOGAGURADONLEGEND",
+  "PackNo": "L3-B",
+  "CardName": "カイオーガ&グラードンLEGEND",
+  "CardCategory": "ワザ",
+  "CardType": "伝説",
+  "Cost": "150",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ジャイアントウェーブ </h4>\n<p>相手の山札を上から5枚トラッシュし、その中のエネルギーの枚数×30ダメージを、相手のベンチポケモン全員に与える。［ベンチへのダメージは弱点・抵抗力の計算をしない。］</p>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>だいふんか<span class=\"f_right Text-fjalla\">100×</span></h4>\n<p>自分の山札を上から5枚トラッシュし、その中のエネルギーの枚数×100ダメージ。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>手札にある2枚のカイオーガ&amp;グラードンLEGENDを組み合わせて、ベンチに出す。</p><br/>\n<p>このポケモンがきぜつしたら、相手はサイドを2枚とる。</p><p></p>\n<div class=\"Text-annotation\">「伝説ポケモンのカード」は、「上」と「下」を組み合わせて使います。</div>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

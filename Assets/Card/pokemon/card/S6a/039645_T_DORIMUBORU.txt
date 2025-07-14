@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039645_T_DORIMUBORU",
+  "PackNo": "S6a",
+  "CardName": "ドリームボール",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、ウラになっている自分のサイドからこのカードをとったとき、手札に加える前に使う。<br/>\n<br/>\n自分の山札からポケモンを1枚選び、ベンチに出す。そして山札を切る。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044305_T_KABIGONDORU",
+  "PackNo": "SV4K",
+  "CardName": "カビゴンドール",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "120",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>対戦準備でポケモンを場に出すとき、このカードが手札にあるなら、このカードをHP120の<span class=\"icon-none icon\"></span>タイプのたねポケモンとして、ウラにして場に出してよい。（このカードは、対戦準備以外では場に出せない。）<br/>\n自分の番の中でなら、場に出ているこのカードをトラッシュできる。<br/>\n<br/>\nこのカードは、特殊状態にならず、にげられない。このカードがきぜつしても、相手はサイドをとれない。</p>\n</div>"
+}

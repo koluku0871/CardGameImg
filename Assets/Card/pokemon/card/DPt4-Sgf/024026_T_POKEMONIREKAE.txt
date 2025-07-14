@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "024026_T_POKEMONIREKAE",
+  "PackNo": "DPt4-Sgf",
+  "CardName": "ポケモンいれかえ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のバトルポケモン1匹を、自分のベンチポケモンと入れ替える。</p>\n</div>"
+}

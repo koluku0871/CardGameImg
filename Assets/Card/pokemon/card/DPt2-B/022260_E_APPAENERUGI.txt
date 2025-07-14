@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "022260_E_APPAENERUGI",
+  "PackNo": "DPt2-B",
+  "CardName": "アッパーエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p><span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n自分のサイドの枚数が、相手のサイドの枚数より多いなら、このカードは、ポケモンについているかぎり、<span class=\"icon-none icon\"></span>エネルギー2個ぶんとしてはたらく。「ポケモンLV.X」についているなら、2個ぶんとしてはたらく効果はない。</p><p></p>\n</div>"
+}

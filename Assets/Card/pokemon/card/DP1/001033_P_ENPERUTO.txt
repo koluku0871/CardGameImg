@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "001033_P_ENPERUTO",
+  "PackNo": "DP1",
+  "CardName": "エンペルト",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "140",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>しじょうめいれい</h4>\n<p>自分の番に1回使える。相手の手札を、オモテを見ないで2枚まで選ぶ。選んだカードは、ウラのまま相手のバトル場の横におき、手札としてあつかわれない。次の相手の番の終わりに、それらのカードを相手の手札にもどす。このパワーは、このポケモンが特殊状態なら使えない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span>ハイドロインパクト </h4>\n<p>相手のポケモン1匹に、80ダメージ。次の自分の番、自分はワザを使えない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>このカードは、バトル場のエンペルトに重ねてレベルアップさせる。<br/>\nレベルアップ前のワザ・ポケパワーも使うことができ、ポケボディーもはたらく。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A8%E3%83%B3%E3%83%9A%E3%83%AB%E3%83%88BREAK\">エンペルトBREAK</a></div>\n<div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A8%E3%83%B3%E3%83%9A%E3%83%AB%E3%83%88\">エンペルト</a><div class=\"arrow_on\"></div></div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9D%E3%83%83%E3%82%BF%E3%82%A4%E3%82%B7\">ポッタイシ</a><div class=\"arrow_off\"></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9D%E3%83%83%E3%83%81%E3%83%A3%E3%83%9E\">ポッチャマ</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>＋30</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

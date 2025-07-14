@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "033887_P_PENDORA",
+  "PackNo": "SM3H",
+  "CardName": "ペンドラー",
+  "CardCategory": "ワザ",
+  "CardType": "2 進化",
+  "Cost": "160",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>どくのつの<span class=\"f_right Text-fjalla\">80</span></h4>\n<p>相手のバトルポケモンをどくにする。</p>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>ハードローラー<span class=\"f_right Text-fjalla\">140</span></h4>\n<p>このワザのダメージは抵抗力を計算しない。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9A%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BC\">ペンドラー</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9B%E3%82%A4%E3%83%BC%E3%82%AC\">ホイーガ</a><div class=\"arrow_off\"></div></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%95%E3%82%B7%E3%83%87\">フシデ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

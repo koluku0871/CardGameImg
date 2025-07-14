@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "021017_T_FUKKATSUSOU",
+  "PackNo": "DPt-EPg",
+  "CardName": "ふっかつそう",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>コインを1回投げオモテなら、自分のポケモン1匹から、ダメージカウンターを6個とり、特殊状態をすべて回復させる。</p>\n</div>"
+}

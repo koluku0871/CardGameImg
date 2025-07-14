@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "002119_T_MIZUUMINOKEKKAI",
+  "PackNo": "DP2",
+  "CardName": "湖の結界",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいのポケモンの弱点は、すべて「×2」としてダメージ計算をおこなう。</p>\n<p>スタジアムは、自分の番に1回だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュ。</p>\n</div>"
+}

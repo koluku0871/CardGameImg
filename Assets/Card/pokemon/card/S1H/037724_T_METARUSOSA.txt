@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037724_T_METARUSOSA",
+  "PackNo": "S1H",
+  "CardName": "メタルソーサー",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のトラッシュから<span class=\"icon-steel icon\"></span>エネルギーを1枚選び、ベンチの<span class=\"icon-steel icon\"></span>ポケモンにつける。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

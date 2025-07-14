@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036244_T_KASUMINOMIZUSABAKI",
+  "PackNo": "SMK",
+  "CardName": "カスミの水さばき",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の場のポケモンについている<span class=\"icon-water icon\"></span>エネルギーを好きなだけ選び、自分の「コダック」「タッツー」「ヒトデマン」「スターミーGX」「コイキング」「ギャラドス」「ラプラス」に好きなようにつけ替える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

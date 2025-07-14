@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041588_T_HINATSU",
+  "PackNo": "S10a",
+  "CardName": "ヒナツ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札から進化ポケモン（「ルールを持つポケモン」をのぞく）を3枚まで選び、相手に見せて、手札に加える。そして山札を切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

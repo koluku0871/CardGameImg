@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "003117_E_AKUENERUGI",
+  "PackNo": "DP3",
+  "CardName": "特殊悪エネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p><span class=\"icon-dark icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\nこのカードをつけている<span class=\"icon-dark icon\"></span>ポケモンの、バトルポケモンに与えるワザのダメージは、すべて「+10」される。<br/>\n<span class=\"icon-dark icon\"></span>ポケモンについていないなら、この効果はない。</p><p></p>\n</div>"
+}

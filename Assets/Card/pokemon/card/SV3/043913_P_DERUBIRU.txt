@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043913_P_DERUBIRU",
+  "PackNo": "SV3",
+  "CardName": "デルビル",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "50",
+  "Element": "<span class=\"icon-dark icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-dark icon\"></span>むれのれんけい </h4>\n<p>自分のベンチの「デルビル」全員に、山札から「基本<span class=\"icon-dark icon\"></span>エネルギー」を1枚ずつつける。そして山札を切る。</p>\n<h4><span class=\"icon-dark icon\"></span><span class=\"icon-none icon\"></span>きあいのキバ<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>コインを1回投げウラなら、このワザは失敗。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"evolution in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%98%E3%83%AB%E3%82%AC%E3%83%BC\">ヘルガー</a>\n</div>\n<div class=\"evolution in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;keyword=ヘルガーex&amp;se_ta=®ulation_sidebar_form=all&amp;pg=&amp;illust=&amp;sm_and_keyword=true\">ヘルガーex</a>\n</div>\n</div>\n<div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%87%E3%83%AB%E3%83%93%E3%83%AB\">デルビル</a>\n<div class=\"arrow_on\"></div>\n</div>\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

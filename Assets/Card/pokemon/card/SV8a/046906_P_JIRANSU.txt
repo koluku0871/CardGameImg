@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046906_P_JIRANSU",
+  "PackNo": "SV8a",
+  "CardName": "ジーランス",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "100",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>きおくにもぐる</h4>\n<p>このポケモンがいるかぎり、自分の進化しているポケモン全員は、進化前に持っていたワザを、すべて使える。［ワザを使うためのエネルギーは必要。］</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span>ひれカッター<span class=\"f_right Text-fjalla\">30</span></h4>\n<p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

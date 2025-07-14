@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "002061_P_BARIYADO",
+  "PackNo": "DP2",
+  "CardName": "バリヤード",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "70",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>くうきのかべ</h4>\n<p>このボディーは、このポケモンが、ついているエネルギーが2枚以下の相手のポケモンからワザを受けるとき、はたらく。このポケモンは、そのダメージを受けない。このポケモンの進化前に「マネネ」のカードがあるなら、さらにその効果も受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>トリックプレイ </h4>\n<p>コインを1枚、相手プレイヤーに見せないように、バトル場の横におき、手でかくす。その後、相手プレイヤーは、そのコインがオモテかウラか答える。不正解なら、相手に50ダメージ。正解なら、自分に弱点・抵抗力に関係なく、20ダメージ。</p>\n\n<h2 class=\"mt20\">進化</h2> n/a\n                    </div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

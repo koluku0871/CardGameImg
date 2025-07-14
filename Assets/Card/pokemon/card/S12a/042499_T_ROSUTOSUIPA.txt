@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042499_T_ROSUTOSUIPA",
+  "PackNo": "S12a",
+  "CardName": "ロストスイーパー",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、自分の手札を1枚、ロストゾーンに置かなければ使えない。<br/>\n<br/>\nおたがいの場のポケモンについている「ポケモンのどうぐ」と場に出ている「スタジアム」の中から1枚選び、ロストゾーンに置く。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

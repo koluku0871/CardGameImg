@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "047662_P_GOCHIRUZERU",
+  "PackNo": "SV11W",
+  "CardName": "ゴチルゼル",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "150",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ねじれたみらい</h4>\n<p>このポケモンがバトル場にいるなら、自分の番に1回使える。相手は相手自身の手札をすべて山札にもどして切る。その後、相手は山札を3枚引く。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>シンクロショット<span class=\"f_right Text-fjalla\">90＋</span></h4>\n<p>自分の手札と相手の手札が同じ枚数なら、90ダメージ追加。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B4%E3%83%81%E3%83%AB%E3%82%BC%E3%83%AB\">ゴチルゼル</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B4%E3%83%81%E3%83%9F%E3%83%AB\">ゴチミル</a><div class=\"arrow_off\"></div></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B4%E3%83%81%E3%83%A0\">ゴチム</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-dark icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

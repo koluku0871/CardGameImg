@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035599_T_RUSUWARU",
+  "PackNo": "SM8b",
+  "CardName": "ルスワール",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードは、相手のバトル場に1進化ポケモンがいなければ使えない。<br/>\n<br/>\n自分の山札を4枚引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

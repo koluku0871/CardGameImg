@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037205_P_FEROCHIEMASSHIBUNGX",
+  "PackNo": "SM12a",
+  "CardName": "フェローチェ&マッシブーンGX",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "260",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>ジェットパンチ<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>相手のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span>エレガントソール<span class=\"f_right Text-fjalla\">190</span></h4>\n<p>次の自分の番、このポケモンの「エレガントソール」のダメージは「60」になる。</p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-plus icon\"></span>ビーストゲームGX<span class=\"f_right Text-fjalla\">50</span></h4>\n<p>このワザのダメージで、相手のポケモンがきぜつしたなら、サイドを1枚多くとる。追加でエネルギーが7個ついているなら、多くとる枚数は3枚になる。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>TAG TEAMがきぜつしたとき、相手はサイドを3枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

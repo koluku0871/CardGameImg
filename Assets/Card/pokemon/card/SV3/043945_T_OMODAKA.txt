@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043945_T_OMODAKA",
+  "PackNo": "SV3",
+  "CardName": "オモダカ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードを使った番の終わりまで、自分のポケモン全員は、ワザが使えない。（新しく場に出したポケモンもふくむ。）<br/>\n<br/>\n自分の山札から基本エネルギーを2枚まで選び、自分のポケモン1匹につける。そして山札を切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "019200_P_YAMIRAMI",
+  "PackNo": "DPs-B",
+  "CardName": "ヤミラミ",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "60",
+  "Element": "<span class=\"icon-dark icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>いさみあし</h4>\n<p>対戦のスタートのとき、オモテにしたバトルポケモンがこのポケモンなら、ジャンケンで負けていても、このポケモンの持ち主が先攻になる。（相手のバトルポケモンも「いさみあし」を持っているなら、このボディーははたらかない。）</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-void icon\"></span>ひとまね </h4>\n<p>自分の山札の「サポーター」を1枚トラッシュし、山札を切る。その後、トラッシュしたカードの効果を、このワザの効果として使う。</p>\n<h4><span class=\"icon-dark icon\"></span>ずにのる<span class=\"f_right Text-fjalla\">10</span></h4>\n<p>相手の残りHPが、自分の残りHPより少ないなら、このワザのダメージは「40」になる。</p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td><span class=\"icon-none icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

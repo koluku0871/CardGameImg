@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "019084_P_HIDORAN",
+  "PackNo": "DPs-B",
+  "CardName": "ヒードラン",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "120",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>ヒートメタル</h4>\n<p>相手のやけどのポケモンが進化・退化・レベルアップしても、やけどは回復しない。ポケモンチェックのとき、相手プレイヤーがやけどで投げるコインは、すべてウラとしてあつかう。</p>\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>ねっぷう</h4>\n<p>このポケモンがベンチにいるなら、自分の番の終わりに1回使える。その番に、自分の<span class=\"icon-fire icon\"></span>または<span class=\"icon-steel icon\"></span>のバトルポケモンのワザで、そのポケモンからトラッシュした基本エネルギーのうち2枚までを選び、そのポケモンにつけなおす。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>このカードは、バトル場のヒードランに重ねてレベルアップさせる。<br/>\nレベルアップ前のワザ・ポケパワーも使うことができ、ポケボディーもはたらく。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

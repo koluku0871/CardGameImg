@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036634_T_TOMODACHITECHOU",
+  "PackNo": "SMP",
+  "CardName": "ともだちてちょう",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のトラッシュにあるサポートを2枚、相手に見せてから、山札にもどして切る。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

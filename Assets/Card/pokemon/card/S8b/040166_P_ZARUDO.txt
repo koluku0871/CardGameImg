@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040166_P_ZARUDO",
+  "PackNo": "S8b",
+  "CardName": "ザルード",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "130",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>むれよびのうた </h4>\n<p>自分の山札から<span class=\"icon-grass icon\"></span>ポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。後攻プレイヤーの最初の番なら、手札に加えられる<span class=\"icon-grass icon\"></span>ポケモンの枚数は3枚までになる。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>さみだれのムチ<span class=\"f_right Text-fjalla\">60＋</span></h4>\n<p>このポケモンについている<span class=\"icon-grass icon\"></span>エネルギーの数×20ダメージ追加。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

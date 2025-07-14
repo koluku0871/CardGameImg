@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042282_P_BAOKKIVSTAR",
+  "PackNo": "S12a",
+  "CardName": "バオッキーVSTAR",
+  "CardCategory": "ワザ",
+  "CardType": "V進化",
+  "Cost": "260",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ひのたまフィーバー<span class=\"f_right Text-fjalla\">40＋</span></h4>\n<p>のぞむなら、自分の山札を上から5枚までトラッシュする。その後、トラッシュした枚数×40ダメージ追加。</p><h2 class=\"mt20\">VSTARパワー</h2>\n<h4>ワザ</h4>\n<h4><span class=\"icon-fire icon\"></span>エンバースター<span class=\"f_right Text-fjalla\">30×</span></h4>\n<p>自分のトラッシュにあるエネルギーの枚数×30ダメージ。［対戦中、自分はVSTARパワーを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVSTARがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%90%E3%82%AA%E3%83%83%E3%82%AD%E3%83%BCVSTAR\">バオッキーVSTAR</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%90%E3%82%AA%E3%83%83%E3%82%AD%E3%83%BCV\">バオッキーV</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

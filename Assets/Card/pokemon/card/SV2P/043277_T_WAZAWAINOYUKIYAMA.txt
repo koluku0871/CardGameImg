@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043277_T_WAZAWAINOYUKIYAMA",
+  "PackNo": "SV2P",
+  "CardName": "災いの雪山",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいのプレイヤーは、それぞれ、自分の手札からエネルギーをたねポケモン（<span class=\"icon-water icon\"></span>ポケモンをのぞく）につけるたび、そのポケモンにダメカンを2個のせる。</p>\n<p>スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。</p>\n</div>"
+}

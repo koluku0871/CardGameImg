@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "033059_T_MUSHIYOKESUPURE",
+  "PackNo": "SM1S",
+  "CardName": "むしよけスプレー",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

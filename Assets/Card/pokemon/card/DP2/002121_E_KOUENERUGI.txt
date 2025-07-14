@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "002121_E_KOUENERUGI",
+  "PackNo": "DP2",
+  "CardName": "特殊鋼エネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p><span class=\"icon-steel icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\nこのカードをつけている<span class=\"icon-steel icon\"></span>ポケモンが受けるワザのダメージは、「-10」される。<br/>\n<span class=\"icon-steel icon\"></span>ポケモンについていないなら、この効果はない。</p><p></p>\n</div>"
+}

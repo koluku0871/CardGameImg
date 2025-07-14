@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035027_T_RITANRABERU",
+  "PackNo": "SMP",
+  "CardName": "リターンラベル",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>相手のトラッシュにある好きなカードを1枚、相手に見せてから、相手の山札の下にもどす。</p>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>グッズは、自分の番に何枚でも使える。</p><p></p>\n</div>"
+}

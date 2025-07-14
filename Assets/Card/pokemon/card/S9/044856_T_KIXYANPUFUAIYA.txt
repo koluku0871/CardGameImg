@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044856_T_KIXYANPUFUAIYA",
+  "PackNo": "S9",
+  "CardName": "キャンプファイヤー",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードは、自分の手札から<span class=\"icon-fire icon\"></span>エネルギーを1枚トラッシュしなければ使えない。<br/>\n<br/>\n自分の山札を上から7枚見て、その中からカードを2枚まで選び、手札に加える。残りのカードは山札にもどして切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "002021_P_BUBAN",
+  "PackNo": "DP2",
+  "CardName": "ブーバーン",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "100",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-none icon\"></span>えんばく<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>次の相手の番、このワザを受けた相手は、ワザを使うときコインを1回投げ、ウラならそのワザは失敗。</p>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span><span class=\"icon-none icon\"></span>かえんだいこ<span class=\"f_right Text-fjalla\">80</span></h4>\n<p>自分の進化前に「ブビィ」のカードがないなら、自分の手札のエネルギーを2枚トラッシュ。（トラッシュできないなら、このワザは失敗。）</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%96%E3%83%BC%E3%83%90%E3%83%BC%E3%83%B3\">ブーバーン</a></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%96%E3%83%BC%E3%83%90%E3%83%BC\">ブーバー</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>＋30</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

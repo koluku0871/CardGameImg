@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042496_T_MIRAJIXYUGETO",
+  "PackNo": "S12a",
+  "CardName": "ミラージュゲート",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、自分のロストゾーンにカードが7枚以上あるときにしか使えない。<br/>\n<br/>\n自分の山札から、それぞれちがうタイプの基本エネルギーを2枚まで選び、自分のポケモンに好きなようにつける。そして山札を切る。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

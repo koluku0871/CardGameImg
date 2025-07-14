@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "022282_T_GINGADANNOHATSUMEIGSPREDA",
+  "PackNo": "DPtP",
+  "CardName": "ギンガ団の発明G-109 SPレーダー",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の手札を1枚、山札にもどす。<br/>\n自分の山札のSPポケモンを1枚、相手プレイヤーに見せてから、手札に加える。その後、山札を切る。<br/>\n（自分の手札がこのカード1枚だけなら、このカードは使えない。）</p>\n</div>"
+}

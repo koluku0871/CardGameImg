@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035662_P_MYUUTSUGX",
+  "PackNo": "SM3p",
+  "CardName": "ミュウツーGX",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "190",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>フルバースト<span class=\"f_right Text-fjalla\">30×</span></h4>\n<p>このポケモンについているエネルギーの数×30ダメージ。</p>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>ちょうきゅうしゅう<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>このポケモンのHPを「30」回復する。</p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-psychic icon\"></span>サイコブレイクGX<span class=\"f_right Text-fjalla\">200</span></h4>\n<p>このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンGXがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

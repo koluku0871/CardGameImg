@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041508_T_SHIMABOSHI",
+  "PackNo": "S9a",
+  "CardName": "シマボシ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>コインを2回投げ、オモテの数ぶんまで、自分のトラッシュから好きなカードを選び、相手に見せて、好きな順番に入れ替えて、山札の上にもどす。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

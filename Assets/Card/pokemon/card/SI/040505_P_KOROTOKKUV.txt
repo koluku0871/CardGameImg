@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040505_P_KOROTOKKUV",
+  "PackNo": "SI",
+  "CardName": "コロトックV",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "180",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>エキサイトステージ</h4>\n<p>自分の番に1回使える。自分の手札が3枚になるように、山札を引く。このポケモンがバトル場にいるなら、4枚になるように引く。この番、すでに別の「エキサイトステージ」を使っていたなら、この特性は使えない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>シザークロス<span class=\"f_right Text-fjalla\">80＋</span></h4>\n<p>コインを1回投げオモテなら、80ダメージ追加。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

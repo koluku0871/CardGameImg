@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "010518_P_PERAPPU",
+  "PackNo": "DP4",
+  "CardName": "ペラップ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "60",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-void icon\"></span>ものまね </h4>\n<p>自分の手札をすべて山札にもどし、山札を切る。その後、山札から、相手の手札の枚数ぶん、カードを引く。</p>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>おしゃべり<span class=\"f_right Text-fjalla\">20</span></h4>\n<p>次の相手の番、このワザを受けた相手はにげるができない。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

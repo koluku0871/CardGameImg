@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "045922_P_KIXYUREMU",
+  "PackNo": "SV6a",
+  "CardName": "キュレム",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "130",
+  "Element": "<span class=\"icon-dragon icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>アンチプラズマ</h4>\n<p>相手のトラッシュに、名前に「アクロマ」とつくカードがあるなら、このポケモンが「トライフロスト」を使うためのエネルギーは、<span class=\"icon-none icon\"></span>エネルギー1個になる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span>トライフロスト </h4>\n<p>このポケモンについているエネルギーをすべてトラッシュし、相手のポケモン3匹に、それぞれ110ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

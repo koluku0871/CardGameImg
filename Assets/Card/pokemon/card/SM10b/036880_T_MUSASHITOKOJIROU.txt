@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036880_T_MUSASHITOKOJIROU",
+  "PackNo": "SM10b",
+  "CardName": "ムサシとコジロウ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>おたがいのプレイヤーは、それぞれ自分の手札を、2枚トラッシュする。（トラッシュは相手から行う。手札がないプレイヤーはトラッシュしない。）</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

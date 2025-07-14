@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038591_T_SAITOU",
+  "PackNo": "S4",
+  "CardName": "サイトウ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を上から5枚トラッシュし、その中にあるエネルギーをすべて、ベンチの<span class=\"icon-fighting icon\"></span>ポケモンに好きなようにつける。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "019019_T_MONSUTABORU",
+  "PackNo": "DPs-S",
+  "CardName": "モンスターボール",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>コインを1回投げオモテなら、自分の山札のポケモンを1枚、相手プレイヤーに見せてから、手札に加える。その後、山札を切る。</p>\n</div>"
+}

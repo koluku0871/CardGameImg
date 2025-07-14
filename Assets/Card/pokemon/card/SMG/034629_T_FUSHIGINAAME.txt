@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "034629_T_FUSHIGINAAME",
+  "PackNo": "SMG",
+  "CardName": "ふしぎなアメ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の手札にある2進化ポケモンを1枚、そのポケモンへと進化する自分の場のたねポケモンにのせて進化させる。（最初の自分の番と、この番出したばかりのたねポケモンには使えない。）</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

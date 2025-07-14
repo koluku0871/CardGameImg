@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043033_T_HAYATO",
+  "PackNo": "SV1a",
+  "CardName": "ハヤト",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を2枚引く。場に自分のスタジアムが出ているなら、さらに2枚引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

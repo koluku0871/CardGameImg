@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "023242_T_YORUNOTENSOUSOUCHI",
+  "PackNo": "DPt3-B",
+  "CardName": "夜の転送装置",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>コインを1回投げオモテなら、自分の手札をすべて山札にもどし、自分の山札の好きなカードを1枚、手札に加える。その後、山札を切る。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "025066_P_MUCHURU",
+  "PackNo": "L1-Bhg",
+  "CardName": "ムチュール",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "30",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>てんしのねがお</h4>\n<p>このポケモンは、ねむりならワザのダメージを受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-void icon\"></span>おふざけ </h4>\n<p>相手のポケモンについているエネルギーを1個、相手の別のポケモンにつけ替える。このポケモンをねむりにする。</p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

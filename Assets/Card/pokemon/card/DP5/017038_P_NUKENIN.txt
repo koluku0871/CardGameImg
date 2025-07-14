@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "017038_P_NUKENIN",
+  "PackNo": "DP5",
+  "CardName": "ヌケニン",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "60",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>うらむ</h4>\n<p>相手の番に、ワザのダメージで、このポケモンの残りHPがなくなったとき、1回使える。そのワザを使ったポケモンと、そのポケモンと同じ名前の相手のポケモン全員に、ダメージカウンターを、それぞれ4個ずつのせる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>のろいまどわす </h4>\n<p>相手にダメージカウンターを3個のせる。自分にダメージカウンターがのっているなら、相手をこんらんにする。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%86%E3%83%83%E3%82%AB%E3%83%8B%E3%83%B3\">テッカニン</a></div><div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%8C%E3%82%B1%E3%83%8B%E3%83%B3\">ヌケニン</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%84%E3%83%81%E3%83%8B%E3%83%B3\">ツチニン</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

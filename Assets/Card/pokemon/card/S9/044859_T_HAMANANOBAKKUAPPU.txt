@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044859_T_HAMANANOBAKKUAPPU",
+  "PackNo": "S9",
+  "CardName": "ハマナのバックアップ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分のトラッシュから「ポケモン」と「ポケモンのどうぐ」と「スタジアム」と「エネルギー」を、それぞれ1枚まで選び、相手に見せて、山札にもどして切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

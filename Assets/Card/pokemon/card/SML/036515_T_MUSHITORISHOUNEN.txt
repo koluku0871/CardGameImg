@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036515_T_MUSHITORISHOUNEN",
+  "PackNo": "SML",
+  "CardName": "むしとりしょうねん",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を2枚引く。コインを1回投げオモテなら、さらに2枚引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

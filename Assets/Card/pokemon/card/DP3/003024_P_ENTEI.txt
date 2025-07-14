@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "003024_P_ENTEI",
+  "PackNo": "DP3",
+  "CardName": "エンテイ",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "80",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>もえるけなみ</h4>\n<p>このポケモンのワザによるダメージで、相手のポケモンを1匹きぜつさせるたび、相手の山札のカードを上から3枚トラッシュ。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span><span class=\"icon-fire icon\"></span>ほのおのおたけび<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>相手のベンチポケモン1匹にも、20ダメージ。コインを1回投げウラなら、自分の<span class=\"icon-fire icon\"></span>エネルギーを2枚トラッシュ。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035244_P_KARASARISU",
+  "PackNo": "SM7b",
+  "CardName": "カラサリス",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "80",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>まゆがあつまる </h4>\n<p>自分の山札にある「カラサリス」または「マユルド」を合計4枚まで、ベンチに出す。そして山札を切る。</p>\n<h4><span class=\"icon-grass icon\"></span>ころがりタックル<span class=\"f_right Text-fjalla\">20</span></h4>\n<p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A2%E3%82%B2%E3%83%8F%E3%83%B3%E3%83%88\">アゲハント</a></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%89%E3%82%AF%E3%82%B1%E3%82%A4%E3%83%AB\">ドクケイル</a></div></div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%83%A9%E3%82%B5%E3%83%AA%E3%82%B9\">カラサリス</a><div class=\"arrow_on\"></div></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9E%E3%83%A6%E3%83%AB%E3%83%89\">マユルド</a><div class=\"arrow_off\"></div></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B1%E3%83%A0%E3%83%83%E3%82%BD\">ケムッソ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

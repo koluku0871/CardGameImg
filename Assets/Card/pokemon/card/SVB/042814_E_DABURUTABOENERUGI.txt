@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042814_E_DABURUTABOENERUGI",
+  "PackNo": "SVB",
+  "CardName": "ダブルターボエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、ポケモンについているかぎり、<span class=\"icon-none icon\"></span>エネルギー2個ぶんとしてはたらく。<br/>\n<br/>\nこのカードをつけているポケモンが使うワザの、相手のポケモンへのダメージは「-20」される。</p>\n</div>"
+}

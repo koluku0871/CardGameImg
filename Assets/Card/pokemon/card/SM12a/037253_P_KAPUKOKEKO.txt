@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037253_P_KAPUKOKEKO",
+  "PackNo": "SM12a",
+  "CardName": "カプ・コケコ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "130",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>せんじんのまい</h4>\n<p>このポケモンがベンチにいるなら、自分の番に1回使える。自分のベンチポケモン2匹に、トラッシュにある<span class=\"icon-electric icon\"></span>エネルギーを1枚ずつつける。その後、このカードをロストゾーンに置く。（ついているカードは、すべてトラッシュする。）</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-electric icon\"></span><span class=\"icon-electric icon\"></span><span class=\"icon-none icon\"></span>マッハボルト<span class=\"f_right Text-fjalla\">120</span></h4>\n<p></p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>同じ名前の<span class=\"pcg pcg-prismstar\"></span>（プリズムスター）のカードは、デッキに1枚しか入れられない。トラッシュには行かず、ロストゾーンに置く。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-steel icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

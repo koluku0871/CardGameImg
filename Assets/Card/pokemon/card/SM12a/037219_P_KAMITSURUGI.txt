@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037219_P_KAMITSURUGI",
+  "PackNo": "SM12a",
+  "CardName": "カミツルギ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "70",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>ダイキリ<span class=\"f_right Text-fjalla\">10＋</span></h4>\n<p>自分のサイドの残り枚数が4枚なら、120ダメージ追加。</p>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>みねうち </h4>\n<p>コインを1回投げオモテなら、相手のバトルポケモンの残りHPが「10」になるように、ダメカンをのせる。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

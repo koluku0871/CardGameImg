@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "025448_P_KAMEKKUSU",
+  "PackNo": "Bk",
+  "CardName": "カメックス",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "130",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>おしながす</h4>\n<p>自分の番に何回でも使える。自分のベンチポケモンについている<span class=\"icon-water icon\"></span>エネルギーを1個、バトルポケモンにつけ替える。このパワーは、このポケモンが特殊状態なら使えない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ハイドロランチャー </h4>\n<p>このポケモンについている<span class=\"icon-water icon\"></span>エネルギーを2個手札にもどし、相手のポケモン1匹に、100ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%83%A1%E3%83%83%E3%82%AF%E3%82%B9\">カメックス</a>\n</div>\n<div class=\"in-box ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%83%A1%E3%83%83%E3%82%AF%E3%82%B9GX\">カメックスGX</a>\n</div>\n</div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_off\">\n<a href=\"/card-search/index.php?keyword=カメックスex&amp;se_ta=®ulation_sidebar_form=XY&amp;pg=&amp;illust=&amp;sm_and_keyword=true\">カメックスex</a>\n</div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%83%A1%E3%83%BC%E3%83%AB\">カメール</a>\n<div class=\"arrow_off\"></div>\n</div>\n<div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%BC%E3%83%8B%E3%82%AC%E3%83%A1\">ゼニガメ</a>\n<div class=\"arrow_off\"></div>\n</div>\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

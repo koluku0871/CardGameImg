@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "001115_T_POKEMONZUKANHANDYIS",
+  "PackNo": "DP1",
+  "CardName": "ポケモン図鑑HANDY910is",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の山札のカードを上から2枚見て、どちらか1枚を手札に加える。その後、残りの1枚を、山札の一番下にもどす。</p>\n</div>"
+}

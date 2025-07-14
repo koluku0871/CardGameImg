@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042083_P_GARARUNIXYAIKINGUV",
+  "PackNo": "S11",
+  "CardName": "ガラル ニャイキングV",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "200",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>じょうきげん </h4>\n<p>自分の山札を3枚引く。</p>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span>おたからラッシュ<span class=\"f_right Text-fjalla\">20×</span></h4>\n<p>自分の手札の枚数×20ダメージ。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-grass icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

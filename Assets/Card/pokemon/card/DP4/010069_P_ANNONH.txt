@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "010069_P_ANNONH",
+  "PackNo": "DP4",
+  "CardName": "アンノーン[H]",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "60",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>HEAL[ヒール]</h4>\n<p>自分のベンチに、このポケモンとアンノーン「E」「A」「L」がいるなら、自分の番に1回使える。自分のバトルポケモン1匹の特殊状態を、すべて回復させる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>めざめるパワー<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>自分の手札を1枚トラッシュ。（トラッシュできないなら、このワザは失敗。）</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>＋10</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

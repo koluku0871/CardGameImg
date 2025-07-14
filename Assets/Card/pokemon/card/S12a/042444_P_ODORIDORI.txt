@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042444_P_ODORIDORI",
+  "PackNo": "S12a",
+  "CardName": "オドリドリ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "90",
+  "Element": "<span class=\"icon-fire icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ねっけつレッスン</h4>\n<p>このポケモンがいるかぎり、自分の「フュージョン」のポケモン全員が、相手のポケモンから受けるワザのダメージは「-20」される。この効果は、この特性を持つポケモンが何匹いても、重ならない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fire icon\"></span><span class=\"icon-none icon\"></span>じょうねつのしずく </h4>\n<p>ダメカン5個を、相手のポケモンに好きなようにのせる。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

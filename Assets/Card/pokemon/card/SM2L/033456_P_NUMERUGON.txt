@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "033456_P_NUMERUGON",
+  "PackNo": "SM2L",
+  "CardName": "ヌメルゴン",
+  "CardCategory": "ワザ",
+  "CardType": "2 進化",
+  "Cost": "160",
+  "Element": "<span class=\"icon-dragon icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>パワーウィップ </h4>\n<p>相手のポケモン1匹に、このポケモンについているエネルギーの数×20ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-fairy icon\"></span><span class=\"icon-none icon\"></span>ビートスライダー<span class=\"f_right Text-fjalla\">130</span></h4>\n<p>相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%8C%E3%83%A1%E3%83%AB%E3%82%B4%E3%83%B3\">ヌメルゴン</a></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%92%E3%82%B9%E3%82%A4%20%E3%83%8C%E3%83%A1%E3%83%AB%E3%82%B4%E3%83%B3\">ヒスイ ヌメルゴン</a></div></div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%8C%E3%83%A1%E3%82%A4%E3%83%AB\">ヌメイル</a><div class=\"arrow_off\"></div></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%92%E3%82%B9%E3%82%A4%20%E3%83%8C%E3%83%A1%E3%82%A4%E3%83%AB\">ヒスイ ヌメイル</a><div class=\"arrow_off\"></div></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%8C%E3%83%A1%E3%83%A9\">ヌメラ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fairy icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

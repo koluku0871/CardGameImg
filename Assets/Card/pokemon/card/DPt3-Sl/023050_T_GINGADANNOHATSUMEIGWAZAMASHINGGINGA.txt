@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "023050_T_GINGADANNOHATSUMEIGWAZAMASHINGGINGA",
+  "PackNo": "DPt3-Sl",
+  "CardName": "ギンガ団の発明G-107 ワザマシンG[ギンガ]",
+  "CardCategory": "ワザマシン",
+  "CardType": "ワザマシン",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザマシン</h2>\n<p>ワザマシンは、自分のポケモンにつけて使う。このカードをつけているポケモンは、このカードのワザを使える。<br/>\nこのカードは、SPポケモンにしかつけられない。SPポケモンについていないなら、このカードをトラッシュ。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ダメージポーター </h4>\n<p>相手のポケモン1匹に、自分のダメージカウンター×10ダメージ。</p>\n</div>"
+}

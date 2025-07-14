@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "003143_P_DEIARUGA",
+  "PackNo": "DP3",
+  "CardName": "ディアルガ",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "110",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>タイムスキップ</h4>\n<p>自分の番に1回使える。相手プレイヤーは、コインを2回投げる。すべてオモテなら、この番は終わる。すべてウラなら、次の相手の番の最初に、相手プレイヤーが山札からカードを1枚引いた後、すぐにその番は終わる。このパワーは、このポケモンが特殊状態なら使えない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>メタルフラッシュ<span class=\"f_right Text-fjalla\">80</span></h4>\n<p>次の自分の番、自分は「メタルフラッシュ」を使えない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>このカードは、バトル場のディアルガに重ねてレベルアップさせる。<br/>\nレベルアップ前のワザ・ポケパワーも使うことができ、ポケボディーもはたらく。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-psychic icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

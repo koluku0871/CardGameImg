@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046168_P_CHIXYAREMUEX",
+  "PackNo": "SV7",
+  "CardName": "チャーレムex",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "260",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>きこうあつ </h4>\n<p>相手のバトルポケモンの残りHPが「50」になるように、ダメカンをのせる。</p>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ヨガキック<span class=\"f_right Text-fjalla\">190</span></h4>\n<p>このワザのダメージは弱点・抵抗力を計算しない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AC%E3%83%A0\">チャーレム</a></div><div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AC%E3%83%A0ex&amp;sc_pm_ex3=1\">チャーレムex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A2%E3%82%B5%E3%83%8A%E3%83%B3\">アサナン</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

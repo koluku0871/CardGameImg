@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041293_T_AMAIMITSU_m",
+  "PackNo": "S9a",
+  "CardName": "あまいミツ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のポケモンを1匹選ぶ。ウラが出るまでコインを投げ、オモテの数×40ダメージぶん、そのポケモンのHPを回復する。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

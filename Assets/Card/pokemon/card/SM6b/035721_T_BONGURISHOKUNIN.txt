@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035721_T_BONGURISHOKUNIN",
+  "PackNo": "SM6b",
+  "CardName": "ぼんぐり職人",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札にある、名前に「ボール」とつくグッズを2枚まで、相手に見せてから、手札に加える。そして山札を切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

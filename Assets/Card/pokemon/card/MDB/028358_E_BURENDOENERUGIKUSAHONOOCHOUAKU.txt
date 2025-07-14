@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "028358_E_BURENDOENERUGIKUSAHONOOCHOUAKU",
+  "PackNo": "MDB",
+  "CardName": "ブレンドエネルギー 草炎超悪",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、<span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。<br/><br/>ポケモンについているかぎり、<span class=\"icon-grass icon\"></span><span class=\"icon-fire icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-dark icon\"></span>の4つのタイプのエネルギー1個ぶんとしてはたらく。</p>\n</div>"
+}

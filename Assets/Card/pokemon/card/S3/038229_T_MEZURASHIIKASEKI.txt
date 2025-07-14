@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038229_T_MEZURASHIIKASEKI",
+  "PackNo": "S3",
+  "CardName": "めずらしい化石",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "70",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、HP70の<span class=\"icon-none icon\"></span>タイプのたねポケモンとして、場に出すことができる。<br/>\n自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。<br/>\n<br/>\nこのカードは、特殊状態にならず、にげられない。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

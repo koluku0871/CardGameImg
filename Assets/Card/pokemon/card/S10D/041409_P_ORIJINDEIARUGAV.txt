@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041409_P_ORIJINDEIARUGAV",
+  "PackNo": "S10D",
+  "CardName": "オリジンディアルガV",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "220",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>メタルコーティング </h4>\n<p>自分のトラッシュから<span class=\"icon-steel icon\"></span>エネルギーを2枚まで選び、このポケモンにつける。</p>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span>じかんだんぜつ<span class=\"f_right Text-fjalla\">180</span></h4>\n<p></p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AB%E3%82%ACVSTAR\">オリジンディアルガVSTAR</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AB%E3%82%ACV\">オリジンディアルガV</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-grass icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

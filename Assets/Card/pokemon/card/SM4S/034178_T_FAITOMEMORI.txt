@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "034178_T_FAITOMEMORI",
+  "PackNo": "SM4S",
+  "CardName": "ファイトメモリ",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p>\n<p>このカードをつけている「シルヴァディGX」は、<span class=\"icon-fighting icon\"></span>ポケモンになる。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

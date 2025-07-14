@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044436_P_SUNANOKEGAWAEX",
+  "PackNo": "SV4K",
+  "CardName": "スナノケガワex",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "220",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>じりょくきゅうしゅう</h4>\n<p>相手のサイドの残り枚数が4枚以下なら、自分の番に1回使える。自分のトラッシュから「基本<span class=\"icon-fighting icon\"></span>エネルギー」を1枚選び、このポケモンにつける。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span>グラウンドスパイク<span class=\"f_right Text-fjalla\">200</span></h4>\n<p>次の自分の番、このポケモンはワザが使えない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "028693_P_PUROTOGA",
+  "PackNo": "BW9-B",
+  "CardName": "プロトーガ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "90",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>たいこのよびごえ</h4>\n<p>この特性は、このカードがトラッシュにあるなら、自分の番に1回使える。このカードを、自分の山札の下にもどす。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>たたきつける<span class=\"f_right Text-fjalla\">30×</span></h4>\n<p>コインを2回投げ、オモテの数×30ダメージ。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A2%E3%83%90%E3%82%B4%E3%83%BC%E3%83%A9\">アバゴーラ</a></div>\n<div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%97%E3%83%AD%E3%83%88%E3%83%BC%E3%82%AC\">プロトーガ</a>\n<div class=\"arrow_on\"></div></div>\n<div class=\"evolution ev_off\"><p>復元</p>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

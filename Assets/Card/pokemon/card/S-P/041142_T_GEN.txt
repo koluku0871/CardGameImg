@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041142_T_GEN",
+  "PackNo": "S-P",
+  "CardName": "ゲン",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の山札を上から5枚オモテにして、相手にその中からカードを2枚選んでもらう。自分は選ばれたカードをトラッシュし、残りのカードは手札に加える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

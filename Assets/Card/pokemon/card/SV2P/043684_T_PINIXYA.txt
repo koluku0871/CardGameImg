@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043684_T_PINIXYA",
+  "PackNo": "SV2P",
+  "CardName": "ピーニャ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>相手のポケモン全員についている特殊エネルギーをそれぞれ1個ずつ選び、トラッシュする。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

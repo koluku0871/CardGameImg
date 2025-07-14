@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "035590_T_GUZUMA",
+  "PackNo": "SM8b",
+  "CardName": "グズマ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、自分のバトルポケモンをベンチポケモンと入れ替える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

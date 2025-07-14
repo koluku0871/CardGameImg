@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "041183_P_RIFUIAVSTAR",
+  "PackNo": "S-P",
+  "CardName": "リーフィアVSTAR",
+  "CardCategory": "ワザ",
+  "CardType": "V進化",
+  "Cost": "260",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span>リーフガード<span class=\"f_right Text-fjalla\">180</span></h4>\n<p>次の相手の番、このポケモンが受けるワザのダメージは「-30」される。</p><h2 class=\"mt20\">VSTARパワー</h2>\n<h4>特性</h4>\n<h4>アイビースター</h4>\n<p>自分の番に使える。相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。［対戦中、自分はVSTARパワーを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVSTARがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%82%A2VMAX\">リーフィアVMAX</a></div><div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%82%A2VSTAR\">リーフィアVSTAR</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%82%A2V\">リーフィアV</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

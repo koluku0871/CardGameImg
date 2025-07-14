@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "025437_T_DEYUARUBORU",
+  "PackNo": "Bb",
+  "CardName": "デュアルボール",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>コインを2回投げ、オモテの数ぶんの<img alt=\"たね\" class=\"icon\" src=\"/shared/images/card/icon_tane.gif\"/>ポケモンを、自分の山札から選び、相手に見せてから、手札に加える。そして山札を切る。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

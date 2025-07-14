@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "022197_P_KABARUDON",
+  "PackNo": "DPt2-B",
+  "CardName": "カバルドン",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "130",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>サンドリセット</h4>\n<p>対戦中に1回だけ、自分の番に使える。おたがいのプレイヤーは、それぞれ、自分の場のポケモン以外のカードをすべて山札にもどす（場に出ている「サポーター」はのぞく）。その後、山札を切る。この対戦中に、すでに自分のポケモンの「サンドリセット」を使っていたなら、このパワーは使えない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ダブルシュート </h4>\n<p>自分の<span class=\"icon-fighting icon\"></span>エネルギーを2個トラッシュし、相手のベンチポケモン2匹に、それぞれ40ダメージ。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>このカードは、バトル場のカバルドンに重ねてレベルアップさせる。<br/>\nレベルアップ前のワザ・ポケパワーも使うことができ、ポケボディーもはたらく。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\">\n<a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%83%90%E3%83%AB%E3%83%89%E3%83%B3\">カバルドン</a></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%92%E3%83%9D%E3%83%9D%E3%82%BF%E3%82%B9\">ヒポポタス</a>\n<div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-electric icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

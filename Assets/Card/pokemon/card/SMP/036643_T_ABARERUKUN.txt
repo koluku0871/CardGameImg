@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036643_T_ABARERUKUN",
+  "PackNo": "SMP",
+  "CardName": "あばれる君",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>ギャグを言って相手が笑ったなら、自分の山札を3枚引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

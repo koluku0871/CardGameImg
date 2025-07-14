@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046659_P_PIKACHIXYUUEX",
+  "PackNo": "SV8",
+  "CardName": "ピカチュウex",
+  "CardCategory": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+  "CardType": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+  "Cost": "200",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<p class=\"mt20\">このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。</p>\n<h2 class=\"mt20\">特性</h2>\n<h4>がんばりハート</h4>\n<p>このポケモンのHPがまんたんの状態で、このポケモンがワザのダメージを受けてきぜつするとき、きぜつせず、残りHPが「10」の状態で場に残る。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-electric icon\"></span><span class=\"icon-steel icon\"></span>トパーズボルト<span class=\"f_right Text-fjalla\">300</span></h4>\n<p>このポケモンについているエネルギーを3個選び、トラッシュする。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

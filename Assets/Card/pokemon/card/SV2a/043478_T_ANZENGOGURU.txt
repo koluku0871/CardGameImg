@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "043478_T_ANZENGOGURU",
+  "PackNo": "SV2a",
+  "CardName": "安全ゴーグル",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>このカードをつけているたねポケモンの弱点は、すべてなくなる。</p>\n<h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p><p></p>\n</div>"
+}

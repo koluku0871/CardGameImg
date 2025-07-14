@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042086_P_GIRATEINAV",
+  "PackNo": "S11",
+  "CardName": "ギラティナV",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "220",
+  "Element": "<span class=\"icon-dragon icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>アビスシーク </h4>\n<p>自分の山札を上から4枚見て、その中からカードを2枚選び、手札に加える。残りのカードはロストゾーンに置く。</p>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>ひきさく<span class=\"f_right Text-fjalla\">160</span></h4>\n<p>このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AE%E3%83%A9%E3%83%86%E3%82%A3%E3%83%8AVSTAR\">ギラティナVSTAR</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AE%E3%83%A9%E3%83%86%E3%82%A3%E3%83%8AV\">ギラティナV</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

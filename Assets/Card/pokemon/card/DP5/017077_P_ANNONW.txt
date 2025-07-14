@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "017077_P_ANNONW",
+  "PackNo": "DP5",
+  "CardName": "アンノーン［W］",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "90",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>WALL[ウォール]</h4>\n<p>このポケモンがバトル場にいるかぎり、自分のポケモン全員が受ける、相手のワザのダメージは、すべて「-10」される。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>めざめるパワー<span class=\"f_right Text-fjalla\">50</span></h4>\n<p>自分の山札からカードを1枚引く。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>＋30</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

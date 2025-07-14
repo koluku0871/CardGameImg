@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038384_T_NATSUMENOANJI",
+  "PackNo": "SD",
+  "CardName": "ナツメの暗示",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>相手の手札を見る。のぞむなら、その中からサポートを1枚選び、そのサポートの効果を、このカードの効果として使う。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040458_T_ENERUGIKAISHIXYUU",
+  "PackNo": "SI",
+  "CardName": "エネルギー回収",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のトラッシュから基本エネルギーを2枚まで選び、相手に見せて、手札に加える。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

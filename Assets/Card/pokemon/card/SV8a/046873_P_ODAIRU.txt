@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046873_P_ODAIRU",
+  "PackNo": "SV8a",
+  "CardName": "オーダイル",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "180",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>トレントハート</h4>\n<p>自分の番に1回使える。このポケモンにダメカンを5個のせる。その場合、この番、このポケモンが使うワザの、相手のバトルポケモンへのダメージは「+120」される。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span>おおなみ<span class=\"f_right Text-fjalla\">160</span></h4>\n<p>次の自分の番、このポケモンは「おおなみ」が使えない。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AA%E3%83%BC%E3%83%80%E3%82%A4%E3%83%AB\">オーダイル</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%A2%E3%83%AA%E3%82%B2%E3%82%A4%E3%83%84\">アリゲイツ</a><div class=\"arrow_off\"></div></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%AF%E3%83%8B%E3%83%8E%E3%82%B3\">ワニノコ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

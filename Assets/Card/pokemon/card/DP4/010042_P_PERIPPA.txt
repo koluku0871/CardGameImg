@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "010042_P_PERIPPA",
+  "PackNo": "DP4",
+  "CardName": "ペリッパー",
+  "CardCategory": "ワザ",
+  "CardType": "1 進化",
+  "Cost": "80",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-void icon\"></span>がぶのみ </h4>\n<p>自分の手札から、<span class=\"icon-water icon\"></span>の基本エネルギーを2枚まで選び、自分につける。その後、つけたエネルギーの枚数×2個ぶんのダメージカウンターを、自分からとる。</p>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ジェットリターン<span class=\"f_right Text-fjalla\">30×</span></h4>\n<p>自分のエネルギーの枚数×30ダメージ。その後、自分のエネルギーをすべて山札にもどし、山札を切る。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%9A%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC\">ペリッパー</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AD%E3%83%A3%E3%83%A2%E3%83%A1\">キャモメ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

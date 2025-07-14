@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "028307_T_DOKUSAIMINKOUSEN",
+  "PackNo": "PPD",
+  "CardName": "どくさいみん光線",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>相手のバトルポケモンをどくにする。コインを1回投げオモテなら、さらにそのポケモンをねむりにする。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

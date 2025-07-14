@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039538_P_GENGAV",
+  "PackNo": "SGG",
+  "CardName": "ゲンガーV",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "210",
+  "Element": "<span class=\"icon-dark icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-dark icon\"></span><span class=\"icon-dark icon\"></span>くろいまどろみ<span class=\"f_right Text-fjalla\">40</span></h4>\n<p>相手のバトルポケモンをねむりにする。</p>\n<h4><span class=\"icon-dark icon\"></span><span class=\"icon-dark icon\"></span><span class=\"icon-dark icon\"></span>ペインバースト<span class=\"f_right Text-fjalla\">190</span></h4>\n<p>このポケモンに、ダメカンを3個のせる。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BCVMAX\">ゲンガーVMAX</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BCV\">ゲンガーV</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "008004_P_DEIARUGA",
+  "PackNo": "PPP",
+  "CardName": "ディアルガ",
+  "CardCategory": "どうぐ",
+  "CardType": "どうぐ",
+  "Cost": "100",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">どうぐ</h2>\n<h4>金剛だま</h4>\n<p><span class=\"icon-steel icon\"></span>弱点を持つバトルポケモンに、このポケモンが与えるダメージは「+20」。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-steel icon\"></span>タイムシフト </h4>\n<p>自分の山札から、自分の手札が6枚になるようにカードを引く。</p>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ダイヤブラスト<span class=\"f_right Text-fjalla\">60＋</span></h4>\n<p>コインを1回投げオモテなら、20ダメージを追加。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>＋20</td><$$$><th>抵抗力</th><v><td><span class=\"icon-psychic icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

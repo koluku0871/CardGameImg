@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "024264_P_PICHU",
+  "PackNo": "DPtP",
+  "CardName": "ピチュー",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "50",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>ベイビィしんか</h4>\n<p>自分の番に1回使える。自分の手札の「ピカチュウ」を1枚、このポケモンの上にのせ、進化させる。そのとき、このポケモンのダメージカウンターをすべてとる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-void icon\"></span>おさんぽ </h4>\n<p>自分の山札のカードを上から5枚見て、その中のカードを1枚、手札に加える。その後、残りのカードを山札にもどし、山札を切る。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>＋10</td><$$$><th>抵抗力</th><v><td><span class=\"icon-steel icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

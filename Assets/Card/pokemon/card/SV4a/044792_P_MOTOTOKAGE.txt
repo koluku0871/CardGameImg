@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044792_P_MOTOTOKAGE",
+  "PackNo": "SV4a",
+  "CardName": "モトトカゲ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "120",
+  "Element": "<span class=\"icon-dragon icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-dark icon\"></span><span class=\"icon-none icon\"></span>こうそくドライブ<span class=\"f_right Text-fjalla\">100</span></h4>\n<p>コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。</p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

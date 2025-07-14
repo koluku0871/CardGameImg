@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "034880_P_BARIYADOGX",
+  "PackNo": "SM6b",
+  "CardName": "バリヤードGX",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "150",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>パールバリア</h4>\n<p>このポケモンは、相手のポケモンから「20・40・60・80・100・120・140・160・180・200・220・240・260」のワザのダメージを受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span><span class=\"icon-none icon\"></span>ブレイクダウン </h4>\n<p>相手の手札の枚数ぶんのダメカンを、相手のバトルポケモンにのせる。</p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-none icon\"></span>ライフトリックGX </h4>\n<p>このポケモンのHPを、すべて回復する。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンGXがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

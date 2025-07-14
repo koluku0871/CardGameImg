@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "027151_T_MANTANNOKUSURI",
+  "PackNo": "BW1-Bb",
+  "CardName": "まんたんのくすり",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のポケモンを1匹選び、HPをすべて回復する。その後、そのポケモンについているエネルギーをすべてトラッシュする。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

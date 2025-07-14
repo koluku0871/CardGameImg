@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "038427_P_ZERAORA",
+  "PackNo": "S3a",
+  "CardName": "ゼラオラ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "100",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-electric icon\"></span><span class=\"icon-none icon\"></span>とうしのいかずち<span class=\"f_right Text-fjalla\">30＋</span></h4>\n<p>相手のバトルポケモンが「ポケモンV・GX」なら、80ダメージ追加。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

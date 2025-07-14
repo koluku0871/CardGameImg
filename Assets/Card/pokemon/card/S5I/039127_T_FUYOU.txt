@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "039127_T_FUYOU",
+  "PackNo": "S5I",
+  "CardName": "フヨウ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>この番、自分の「ポケモンVMAX」が使うワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

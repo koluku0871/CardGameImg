@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "040282_T_KAISHIXYUUNETTO",
+  "PackNo": "S8b",
+  "CardName": "回収ネット",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のポケモン（「ポケモンV・GX」をのぞく）を1匹選び、手札にもどす。（ポケモン以外のカードは、すべてトラッシュする。）</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

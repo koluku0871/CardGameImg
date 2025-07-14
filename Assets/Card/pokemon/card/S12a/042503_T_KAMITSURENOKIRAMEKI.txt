@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042503_T_KAMITSURENOKIRAMEKI",
+  "PackNo": "S12a",
+  "CardName": "カミツレのきらめき",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の「フュージョン」のポケモンを2匹まで選び、山札から「フュージョンエネルギー」を1枚ずつつける。そして山札を切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

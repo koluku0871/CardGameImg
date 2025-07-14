@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "036213_T_TAKESHINOGATTSU",
+  "PackNo": "SM9",
+  "CardName": "タケシのガッツ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分のトラッシュにあるポケモンと基本エネルギーを合計6枚、相手に見せてから、山札にもどして切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

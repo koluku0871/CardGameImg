@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037375_E_TORIPURUKASOKUENERUGI",
+  "PackNo": "SM12a",
+  "CardName": "トリプル加速エネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、進化ポケモンにしかつけられず、つけた番の終わりにトラッシュする。<br/>\n<br/>\nこのカードはポケモンについているかぎり<span class=\"icon-none icon\"></span>エネルギー3個ぶんとしてはたらく。<br/>\n<br/>\n（このカードが進化ポケモン以外についているなら、トラッシュする。）</p>\n</div>"
+}

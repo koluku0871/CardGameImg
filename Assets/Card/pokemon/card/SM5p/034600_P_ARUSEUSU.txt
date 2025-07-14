@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "034600_P_ARUSEUSU",
+  "PackNo": "SM5p",
+  "CardName": "アルセウス",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "160",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>はじまりのおきて</h4>\n<p>このポケモンは、相手のポケモンが使うワザの効果を受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>トリニティスター<span class=\"f_right Text-fjalla\">30</span></h4>\n<p>このワザは、自分のベンチに<span class=\"icon-grass icon\"></span>と<span class=\"icon-water icon\"></span>と<span class=\"icon-electric icon\"></span>ポケモンがいるときにしか使えない。自分の山札にある基本エネルギーを3枚まで、自分のポケモンに好きなようにつける。そして山札を切る。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>同じ名前の<span class=\"pcg pcg-prismstar\"></span>（プリズムスター）のカードは、デッキに1枚しか入れられない。トラッシュには行かず、ロストゾーンに置く。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

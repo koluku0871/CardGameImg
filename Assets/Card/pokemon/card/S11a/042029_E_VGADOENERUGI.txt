@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042029_E_VGADOENERUGI",
+  "PackNo": "S11a",
+  "CardName": "Vガードエネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、ポケモンについているかぎり、<span class=\"icon-none icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードをつけているポケモンが、相手の「ポケモンV」から受けるワザのダメージは「-30」される。この効果は、「Vガードエネルギー」が何枚ついていても、重ならない。</p>\n</div>"
+}

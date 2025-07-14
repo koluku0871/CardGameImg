@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046716_P_TETSUNOIBARA",
+  "PackNo": "SV8a",
+  "CardName": "テツノイバラ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "140",
+  "Element": "<span class=\"icon-electric icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-electric icon\"></span><span class=\"icon-none icon\"></span>デスタプレッサー<span class=\"f_right Text-fjalla\">70×</span></h4>\n<p>自分の山札を上から5枚オモテにして、その中にある「未来」のカードの枚数×70ダメージ。オモテにした「未来」のカードはトラッシュし、残りのカードは山札にもどして切る。</p>\n<h4><span class=\"icon-electric icon\"></span><span class=\"icon-electric icon\"></span><span class=\"icon-electric icon\"></span><span class=\"icon-none icon\"></span>メガトンラリアット<span class=\"f_right Text-fjalla\">140</span></h4>\n<p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "025395_T_FUSHIGINAAME",
+  "PackNo": "Em",
+  "CardName": "ふしぎなアメ",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の<img alt=\"たね\" class=\"icon\" src=\"/shared/images/card/icon_tane.gif\"/>ポケモン1匹から進化する<img alt=\"1進化\" class=\"icon\" src=\"/shared/images/card/icon_1shinka.gif\"/>ポケモン、またはその上の<img alt=\"2進化\" class=\"icon\" src=\"/shared/images/card/icon_2shinka.gif\"/>ポケモンを、手札から1枚選び、そのポケモンにのせて進化させる。[<img alt=\"2進化\" class=\"icon\" src=\"/shared/images/card/icon_2shinka.gif\"/>ポケモンを選んだ場合、<img alt=\"1進化\" class=\"icon\" src=\"/shared/images/card/icon_1shinka.gif\"/>ポケモンをとばして進化させる。］</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "010095_P_KUCHITO",
+  "PackNo": "DP4",
+  "CardName": "クチート",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "70",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-void icon\"></span>えらびだす </h4>\n<p>自分または相手の、ウラになっているサイドを1枚、オモテにする。そのカードが「サポーター」なら、そのカードの効果を、このワザの効果として使う。（オモテにしたサイドは、そのカードをとるまでオモテのまま。）</p>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span>アゴでかみつく<span class=\"f_right Text-fjalla\">20</span></h4>\n<p>次の自分の番、このワザを受けた相手が受けるワザのダメージは、「+20」される。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>＋10</td><$$$><th>抵抗力</th><v><td><span class=\"icon-psychic icon\"></span>－20</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

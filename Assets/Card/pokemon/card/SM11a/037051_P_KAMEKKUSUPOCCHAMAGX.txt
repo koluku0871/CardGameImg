@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "037051_P_KAMEKKUSUPOCCHAMAGX",
+  "PackNo": "SM11a",
+  "CardName": "カメックス&ポッチャマGX",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "270",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span>スプラッシュメーカー<span class=\"f_right Text-fjalla\">150</span></h4>\n<p>のぞむなら、自分の手札にある<span class=\"icon-water icon\"></span>エネルギーを3枚まで、自分のポケモンに好きなようにつける。その後、つけたポケモンのHPを、それぞれつけた枚数×50ダメージぶん回復する。</p>\n<h2 class=\"mt20\">GXワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-plus icon\"></span>バブルランチャーGX<span class=\"f_right Text-fjalla\">100＋</span></h4>\n<p>相手のバトルポケモンをマヒにする。追加で<span class=\"icon-water icon\"></span>エネルギーが3個ついているなら、150ダメージ追加。［対戦中、自分はGXワザを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>TAG TEAMがきぜつしたとき、相手はサイドを3枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044630_P_KOJIO",
+  "PackNo": "SV4a",
+  "CardName": "コジオ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "70",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span>しおぬり </h4>\n<p>自分のポケモン1匹のHPを「20」回復する。</p>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span>たいあたり<span class=\"f_right Text-fjalla\">30</span></h4>\n<p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AD%E3%83%A7%E3%82%B8%E3%82%AA%E3%83%BC%E3%83%B3\">キョジオーン</a></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AD%E3%83%A7%E3%82%B8%E3%82%AA%E3%83%BC%E3%83%B3ex&amp;sc_pm_ex3=1\">キョジオーンex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B8%E3%82%AA%E3%83%85%E3%83%A0\">ジオヅム</a><div class=\"arrow_off\"></div></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B3%E3%82%B8%E3%82%AA\">コジオ</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

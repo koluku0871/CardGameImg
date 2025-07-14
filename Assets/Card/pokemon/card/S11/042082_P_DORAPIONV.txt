@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042082_P_DORAPIONV",
+  "PackNo": "S11",
+  "CardName": "ドラピオンV",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "210",
+  "Element": "<span class=\"icon-dark icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ワイルドスタイル</h4>\n<p>相手の場の「いちげき」「れんげき」「フュージョン」のポケモンの数ぶん、このポケモンがワザを使うための<span class=\"icon-none icon\"></span>エネルギーは少なくなる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ダイナミックテール<span class=\"f_right Text-fjalla\">190</span></h4>\n<p>自分のポケモン1匹にも、60ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%89%E3%83%A9%E3%83%94%E3%82%AA%E3%83%B3VSTAR\">ドラピオンVSTAR</a></div><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%89%E3%83%A9%E3%83%94%E3%82%AA%E3%83%B3V\">ドラピオンV</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fighting icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

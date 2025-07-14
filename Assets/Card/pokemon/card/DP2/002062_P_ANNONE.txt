@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "002062_P_ANNONE",
+  "PackNo": "DP2",
+  "CardName": "アンノーン[E]",
+  "CardCategory": "ポケパワー",
+  "CardType": "ポケパワー",
+  "Cost": "50",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケパワー</h2>\n<h4>EQUIP[イクイップ]</h4>\n<p>このポケモンがベンチにいるなら、自分の番に1回使える。このポケモンについているすべてのカードをトラッシュし、このポケモンを「ポケモンのどうぐ」として、自分のポケモンにつける。このカードをつけているポケモンの最大HPは「10」大きくなる。（ポケモンについているかぎり、このカードは「ポケモンのどうぐ」としてあつかわれる。）</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>めざめるパワー </h4>\n<p>次の相手の番、相手プレイヤーの投げるコインは、すべてウラとしてあつかう。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>＋10</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "044883_P_BASAGIRIVSTAR",
+  "PackNo": "S10P",
+  "CardName": "バサギリVSTAR",
+  "CardCategory": "ワザ",
+  "CardType": "V進化",
+  "Cost": "270",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-none icon\"></span>ブレイクアックス<span class=\"f_right Text-fjalla\">120</span></h4>\n<p>相手のベンチの「ポケモンV」1匹にも、60ダメージ。［ベンチは弱点・抵抗力を計算しない。］</p><h2 class=\"mt20\">VSTARパワー</h2>\n<h4>ワザ</h4>\n<h4><span class=\"icon-fighting icon\"></span>ランページスター<span class=\"f_right Text-fjalla\">30×</span></h4>\n<p>自分のトラッシュにあるポケモンの枚数×30ダメージ。［対戦中、自分はVSTARパワーを1回しか使えない。］</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンVSTARがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%90%E3%82%B5%E3%82%AE%E3%83%AAVSTAR\">バサギリVSTAR</a></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%90%E3%82%B5%E3%82%AE%E3%83%AAV\">バサギリV</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-grass icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

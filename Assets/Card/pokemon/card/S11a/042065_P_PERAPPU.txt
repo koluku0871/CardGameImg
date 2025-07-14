@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "042065_P_PERAPPU",
+  "PackNo": "S11a",
+  "CardName": "ペラップ",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "70",
+  "Element": "<span class=\"icon-none icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>サイクルドロー </h4>\n<p>自分の手札を1枚トラッシュする。その後、自分の山札を2枚引く。</p>\n<h4><span class=\"icon-none icon\"></span>はばたく<span class=\"f_right Text-fjalla\">10</span></h4>\n<p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"></td><$$$></s>"
+}

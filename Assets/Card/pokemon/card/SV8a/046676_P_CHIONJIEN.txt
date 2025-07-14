@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "046676_P_CHIONJIEN",
+  "PackNo": "SV8a",
+  "CardName": "チオンジェン",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "130",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>リーフブリング </h4>\n<p>自分のトラッシュから「基本<span class=\"icon-grass icon\"></span>エネルギー」を2枚まで選び、自分のポケモン1匹につける。</p>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-grass icon\"></span><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span>どんよくバインド<span class=\"f_right Text-fjalla\">140</span></h4>\n<p>次の相手の番、このワザを受けたポケモンは、ワザを使うためのエネルギーが、<span class=\"icon-none icon\"></span>エネルギー2個ぶん多くなる。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

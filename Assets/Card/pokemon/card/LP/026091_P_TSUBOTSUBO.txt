@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "026091_P_TSUBOTSUBO",
+  "PackNo": "LP",
+  "CardName": "ツボツボ",
+  "CardCategory": "ポケボディー",
+  "CardType": "ポケボディー",
+  "Cost": "60",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケボディー</h2>\n<h4>はっこうえき</h4>\n<p>手札のエネルギーをこのポケモンに1枚つけるたび、自分の山札からカードを1枚引く。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span><span class=\"icon-none icon\"></span>ツボあたり<span class=\"f_right Text-fjalla\">20</span></h4>\n<p>コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-water icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

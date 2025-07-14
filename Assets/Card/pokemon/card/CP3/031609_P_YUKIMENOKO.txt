@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "031609_P_YUKIMENOKO",
+  "PackNo": "CP3",
+  "CardName": "ユキメノコ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "90",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>つれだつ</h4>\n<p>このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、コインを1回投げる。オモテなら、ワザを使ったポケモンをきぜつさせる。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ゆきのしずく </h4>\n<p>ダメカン4個を、相手のポケモンに好きなようにのせる。</p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AA%E3%83%8B%E3%82%B4%E3%83%BC%E3%83%AA\">オニゴーリ</a></div><div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A6%E3%82%AD%E3%83%A1%E3%83%8E%E3%82%B3\">ユキメノコ</a></div></div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A6%E3%82%AD%E3%83%A1%E3%83%8E%E3%82%B3ex&amp;sc_pm_ex3=1\">ユキメノコex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%A6%E3%82%AD%E3%83%AF%E3%83%A9%E3%82%B7\">ユキワラシ</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-steel icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

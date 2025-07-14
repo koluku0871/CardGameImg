@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "021269_T_GINGADANNOAJITO",
+  "PackNo": "DPt1-B",
+  "CardName": "ギンガ団のアジト",
+  "CardCategory": "スタジアム",
+  "CardType": "スタジアム",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">スタジアム</h2>\n<p>おたがいのプレイヤーが、手札から「ポケモンのカード」を出してポケモンを進化させるたび、そのポケモンにダメージカウンターを2個のせる。</p>\n<p>スタジアムは、自分の番に1回だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュ。</p>\n</div>"
+}
