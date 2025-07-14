@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD02-020', 'PackNo': 'SD02', 'CardName': '虹翼のジュエルグ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '殻人', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］このスピリットが【転召】の対象になったとき、ボイドからコア2個を自分のリザーブに置く。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SJ13-04', 'PackNo': 'SJ', 'CardName': '大旋斧ゲイル・アックス', 'CardRarity': 'SJ', 'CardCategory': 'ブレイヴ', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '剣刃', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '《合体条件：コスト4以上》 《合体時》『このスピリットの合体アタック時』Lv1の相手のスピリット2体を疲労させる。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD03-017', 'PackNo': 'SD03', 'CardName': 'ブルースプラッシュ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のコスト3以下のスピリット1体を破壊する。または、自分のトラッシュにあるネクサスカード1枚を手札に戻す。'}

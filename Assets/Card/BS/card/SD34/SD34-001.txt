@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD34-001', 'PackNo': 'SD34', 'CardName': 'クリスタニードル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '0', 'ReducedCost': [], 'CardType': '妖蛇・死竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 6000／5'], 'Text': '［Lv1-Lv2-Lv3］『相手によるこのスピリットの消滅/破壊時』相手のネクサス1つを破壊する。'}

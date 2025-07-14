@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD03-007', 'PackNo': 'SD03', 'CardName': '戦竜エルギニアス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': ['青', '赤'], 'CardType': '戦獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］このスピリットは赤のスピリットとしても扱う。'}

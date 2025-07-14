@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD01-039', 'PackNo': 'SD01', 'CardName': 'ブリザードウォール', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、ブロックされなかった相手のスピリットのアタックでは、自分のライフは2以上減らされない。'}

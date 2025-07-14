@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD11-006', 'PackNo': 'SD11', 'CardName': 'ブラン・ファルコン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '機獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 6000／3'], 'Text': '［Lv1-Lv2-Lv3］『相手のアタックステップ』自分の白のスピリットすべてをBP+2000する。'}

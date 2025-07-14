@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD20-006', 'PackNo': 'SD20', 'CardName': 'ウィングソルジャー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』BP5000以下の相手のスピリット1体を手札に戻す。自分のライフが3以下のとき、さらに、BP5000以下の相手のスピリット1体を手札に戻す。'}

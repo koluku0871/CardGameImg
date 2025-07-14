@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD15-002', 'PackNo': 'SD15', 'CardName': '天使マカエル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄', '黄'], 'CardType': '天霊', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '［Lv1-Lv2］【強化】自分の「BP-効果」を-1000する。 ［Lv2］相手のスピリットがBP0になったとき、BP0になったスピリットすべてを疲労させる。'}

@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD22-001', 'PackNo': 'SD22', 'CardName': 'スピアント', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '0', 'ReducedCost': [], 'CardType': '刃虫', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '-'}

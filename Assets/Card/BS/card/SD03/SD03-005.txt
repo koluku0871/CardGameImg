@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD03-005', 'PackNo': 'SD03', 'CardName': 'ビッグ・ホーン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤', '青', '青'], 'CardType': '皇獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／2', 'LV3 : 8000／5'], 'Text': '-'}

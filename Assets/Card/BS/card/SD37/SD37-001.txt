@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD37-001', 'PackNo': 'SD37', 'CardName': 'ドロージェネット', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '十冠・皇獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 6000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』自分はデッキから1枚ドローする。'}

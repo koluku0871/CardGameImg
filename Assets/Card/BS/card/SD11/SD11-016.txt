@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD11-016', 'PackNo': 'SD11', 'CardName': 'バーストブレイク', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP合計5000まで相手のスピリットを好きなだけ手札に戻す。または、相手のバースト1つを破棄する。この効果は、メインステップで使えない。'}

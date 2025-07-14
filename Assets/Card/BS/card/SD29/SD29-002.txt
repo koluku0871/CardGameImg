@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD29-002', 'PackNo': 'SD29', 'CardName': 'ムシャダリュー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3', 'LV3 : 8000／5'], 'Text': '-'}

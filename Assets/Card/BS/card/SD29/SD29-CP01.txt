@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD29-CP01', 'PackNo': 'SD29', 'CardName': 'アシガルラプター', 'CardRarity': 'CP', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)が置かれているとき、自分はデッキから1枚ドローする。'}

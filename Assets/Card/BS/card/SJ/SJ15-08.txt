@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SJ15-08', 'PackNo': 'SJ', 'CardName': '烈火槍神撃', 'CardRarity': 'SJ', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、自分のスピリット1体をBP+4000する。そのスピリットがBPを比べ相手のスピリット/アルティメットだけを破壊したとき、自分はデッキから2枚ドローする。'}

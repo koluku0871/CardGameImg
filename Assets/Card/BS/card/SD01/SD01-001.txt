@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD01-001', 'PackNo': 'SD01', 'CardName': 'エリマキリザード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '0', 'ReducedCost': [], 'CardType': '爬獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '-'}

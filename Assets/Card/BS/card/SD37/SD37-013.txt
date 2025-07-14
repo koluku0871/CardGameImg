@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD37-013', 'PackNo': 'SD37', 'CardName': 'レッドライトニング', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手の合体しているブレイヴ1つを破壊する。この効果発揮後、BP6000以下の相手のスピリット/アルティメット1体を破壊する。'}

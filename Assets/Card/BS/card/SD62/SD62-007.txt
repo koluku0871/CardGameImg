@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD62-007', 'PackNo': 'SD62', 'CardName': 'エヴァンゲリオン 試作零号機 -凍結中-', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄\n紫', 'Cost': '0', 'ReducedCost': [], 'CardType': '造兵・NERV', 'Lv': ['LV1 : 1000／1'], 'Text': '［Lv1］このスピリットはアタック/ブロックできない。［Lv1］自分が系統：「NERV」を持つカードを召喚/配置するとき、このスピリットのシンボルは赤/緑としても扱う。'}

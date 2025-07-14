@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SJ14-11', 'PackNo': 'SJ', 'CardName': 'セイクリッド・ブラスター', 'CardRarity': 'SJ', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのバトル時』このスピリットをBP+2000する。 ［Lv2-Lv3］『このスピリットのブロック時』相手のスピリット1体を疲労させる。'}

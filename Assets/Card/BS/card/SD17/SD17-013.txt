@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD17-013', 'PackNo': 'SD17', 'CardName': '黄昏の暗黒銀河', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '赤\n緑', 'Cost': '5', 'ReducedCost': ['赤', '赤', '緑'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』系統：「地竜」を持つ自分のスピリットすべてをBP+3000する。 ［Lv2］『自分のエンドステップ』系統：「地竜」を持つ自分のスピリット3体を回復させる。'}

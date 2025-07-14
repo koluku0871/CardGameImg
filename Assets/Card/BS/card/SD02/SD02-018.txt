@@ -1,0 +1,1 @@
+﻿{'CardNo': 'SD02-018', 'PackNo': 'SD02', 'CardName': '猛将ドラグロン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '竜人', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］このスピリットが【転召】の対象になったとき、【転召】を持たないBP4000以下の相手のスピリット2体を破壊する。'}
