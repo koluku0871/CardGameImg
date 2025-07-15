@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-039",
+  "PackNo": "BT16",
+  "CardName": "パルスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型/AE社",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンに「パルスモン」の記述がある間、このデジモンをDP+1000。\n"
+}

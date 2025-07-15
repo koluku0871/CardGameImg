@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT3-108",
+  "PackNo": "BT3",
+  "CardName": "ダークディスパイア",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

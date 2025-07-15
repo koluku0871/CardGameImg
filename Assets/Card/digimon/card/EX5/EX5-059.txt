@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX5-059",
+  "PackNo": "EX5",
+  "CardName": "ドーベルモンX抗体",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型/X抗体",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］効果で自分のデジモンが登場したとき、メモリー+1。\n"
+}

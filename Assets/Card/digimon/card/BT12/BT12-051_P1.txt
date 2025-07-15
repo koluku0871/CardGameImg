@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-051_P1",
+  "PackNo": "BT12",
+  "CardName": "ヤシャモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "アーマー体",
+  "CardType": "フリー",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンに≪セーブ≫の記述がある間、このデジモンをDP+2000。\n"
+}

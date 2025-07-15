@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-014_P1",
+  "PackNo": "EX8",
+  "CardName": "マスターティラノモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 赤緑／4"
+  ],
+  "Element": "赤緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型/リベレイター",
+  "Text": "[進化元効果]\n≪Sアタック+1≫（このデジモンがチェックする枚数+1）\n"
+}

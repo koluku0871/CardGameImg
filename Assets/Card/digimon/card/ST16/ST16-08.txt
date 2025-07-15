@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST16-08",
+  "PackNo": "ST16",
+  "CardName": "ガルルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］≪1ドロー≫（自分のデッキからカードを1枚引く）。その後、自分の手札を1枚破棄する。\n"
+}

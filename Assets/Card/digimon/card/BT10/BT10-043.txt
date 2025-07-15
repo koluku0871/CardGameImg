@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT10-043",
+  "PackNo": "BT10",
+  "CardName": "マッシュモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "植物型"
+}

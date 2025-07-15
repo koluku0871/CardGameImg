@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-056_P1",
+  "PackNo": "EX8",
+  "CardName": "シャコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "甲殻類型/DS",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]Lv.3の相手のデジモン1体を消滅させる。\n"
+}

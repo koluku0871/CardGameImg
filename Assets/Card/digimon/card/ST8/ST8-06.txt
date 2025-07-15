@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST8-06",
+  "PackNo": "ST8",
+  "CardName": "コアドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜型",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】≪2ドロー≫（自分のデッキからカードを2枚引く）\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST18-01",
+  "PackNo": "ST18",
+  "CardName": "フラフィモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "小鳥型/リベレイター",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンのDP以下の他のデジモン1体をレストできる。\n"
+}

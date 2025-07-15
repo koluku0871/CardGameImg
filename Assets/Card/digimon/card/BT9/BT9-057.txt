@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT9-057",
+  "PackNo": "BT9",
+  "CardName": "ベアモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型"
+}

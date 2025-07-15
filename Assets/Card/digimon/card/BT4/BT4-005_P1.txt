@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT4-005_P1",
+  "PackNo": "BT4",
+  "CardName": "ミサイモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "マシーン型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが特徴に「D-ブリガード」を持つ間、このデジモンのDPを+1000する。\n"
+}

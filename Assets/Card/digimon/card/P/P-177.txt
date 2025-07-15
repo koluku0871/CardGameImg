@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "P-177",
+  "PackNo": "P",
+  "CardName": "ギギモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "P",
+  "Lv": [],
+  "Element": "",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、名称に「グラウモン」/「デュークモン」を含むカード1枚を手札に戻せる。\n"
+}

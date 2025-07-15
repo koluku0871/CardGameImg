@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX2-005",
+  "PackNo": "EX2",
+  "CardName": "ホップモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "幼竜型",
+  "Text": "[進化元効果]\n【自分のターン】黒の自分のテイマーがいる間、このデジモンをDP+1000。\n"
+}

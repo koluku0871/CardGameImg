@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT7-107",
+  "PackNo": "BT7",
+  "CardName": "ヤミからの呼び声",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "1",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

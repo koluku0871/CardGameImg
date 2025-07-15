@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT3-006_P1",
+  "PackNo": "BT3",
+  "CardName": "プチメラモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "火炎型",
+  "Text": "[進化元効果]\n【消滅時】≪1ドロー≫（自分のデッキからカードを1枚引く）。その後、自分の手札を1枚破棄する。\n"
+}

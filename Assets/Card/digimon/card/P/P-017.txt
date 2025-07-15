@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-017",
+  "PackNo": "P",
+  "CardName": "ピコデビモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "小悪魔型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から2枚破棄する。\n"
+}

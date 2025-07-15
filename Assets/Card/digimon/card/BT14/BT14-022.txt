@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-022",
+  "PackNo": "BT14",
+  "CardName": "ゲソモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "軟体型",
+  "Text": "[効果]\n【アタック時】相手のデジモン1体の進化元を選んで1枚破棄する。その後、進化元を持たないLv.5以下の相手のデジモン1体を手札に戻す。\n"
+}

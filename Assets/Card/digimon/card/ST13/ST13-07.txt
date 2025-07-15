@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST13-07",
+  "PackNo": "ST13",
+  "CardName": "コテモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "爬虫類型"
+}

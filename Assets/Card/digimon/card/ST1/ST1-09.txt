@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST1-09",
+  "PackNo": "ST1",
+  "CardName": "メタルグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがブロックされたとき、メモリーを+3する。\n"
+}

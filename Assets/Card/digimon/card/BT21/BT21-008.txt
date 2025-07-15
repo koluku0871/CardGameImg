@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-008",
+  "PackNo": "BT21",
+  "CardName": "エリザモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]相手のセキュリティが減ったとき、メモリー+1。\n"
+}

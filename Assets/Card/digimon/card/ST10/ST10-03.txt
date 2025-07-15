@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST10-03",
+  "PackNo": "ST10",
+  "CardName": "ロップモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄紫／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "獣型"
+}

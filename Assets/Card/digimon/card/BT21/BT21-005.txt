@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "BT21-005",
+  "PackNo": "BT21",
+  "CardName": "スワイプモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "アプモン",
+  "CardType": "ソーシャル",
+  "CardSubType": "スワイプ",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]このデジモンがリンクしたとき、≪1ドロー≫。\n"
+}

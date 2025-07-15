@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "RB1-005",
+  "PackNo": "RB1",
+  "CardName": "ガンマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "角竜型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンに「ガンマモン」の記述がある間、このデジモンをDP+2000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-008",
+  "PackNo": "EX7",
+  "CardName": "トイアグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

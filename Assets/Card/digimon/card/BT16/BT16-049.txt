@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-049",
+  "PackNo": "BT16",
+  "CardName": "アルマジモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄青／1"
+  ],
+  "Element": "黒黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "哺乳類型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンをDP+1000。\n"
+}

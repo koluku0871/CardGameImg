@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-056_P1",
+  "PackNo": "BT6",
+  "CardName": "チクリモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "機雷型",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、相手のデジモン1体を≪退化1≫（重ねられているカードを上から1枚破棄する。Lv.3のカード以降は破棄できない）。\n"
+}

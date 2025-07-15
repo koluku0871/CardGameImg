@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT18-003",
+  "PackNo": "BT18",
+  "CardName": "ワニャモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黄",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]黄の自分のテイマーがいるなら、ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

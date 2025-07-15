@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-013",
+  "PackNo": "BT6",
+  "CardName": "メガドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤黒／3"
+  ],
+  "Element": "赤",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンのDPを+2000する。\n"
+}

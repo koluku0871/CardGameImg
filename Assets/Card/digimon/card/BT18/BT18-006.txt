@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT18-006",
+  "PackNo": "BT18",
+  "CardName": "フリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【消滅時】相手のデジモン/テイマーの色1色ごとに、自分のデッキの上から1枚破棄する。\n"
+}

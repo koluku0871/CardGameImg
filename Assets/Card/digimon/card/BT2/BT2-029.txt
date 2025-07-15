@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-029",
+  "PackNo": "BT2",
+  "CardName": "メガシードラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "水棲型",
+  "Text": "[効果]\n【自分のターン】このデジモンは、進化元を持たない相手のデジモンにはブロックされない。\n"
+}

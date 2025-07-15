@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-020",
+  "PackNo": "EX4",
+  "CardName": "メタルグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 青黒／4"
+  ],
+  "Element": "青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/ブルーフレア",
+  "Text": "[進化元効果]\n【アタック時】このデジモンが「グレイナイツモン」なら、進化元が3枚以下の相手のデジモン1体は次の相手のターン終了までアタックできない。\n"
+}

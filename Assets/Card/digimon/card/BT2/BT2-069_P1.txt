@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-069_P1",
+  "PackNo": "BT2",
+  "CardName": "ガブモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【消滅時】≪2ドロー≫（自分のデッキからカードを2枚引く）。その後、自分の手札を1枚破棄する。\n"
+}

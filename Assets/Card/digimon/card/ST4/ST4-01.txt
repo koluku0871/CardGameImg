@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST4-01",
+  "PackNo": "ST4",
+  "CardName": "モチモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがLv.6以上の間、このデジモンのDPを+1000する。\n"
+}

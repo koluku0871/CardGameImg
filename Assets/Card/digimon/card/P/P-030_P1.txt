@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-030_P1",
+  "PackNo": "P",
+  "CardName": "ヴォルフモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "戦士型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが手札の「エンシェントガルルモン」に進化するとき、支払う進化コスト-2。\n"
+}

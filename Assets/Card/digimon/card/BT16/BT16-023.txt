@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-023",
+  "PackNo": "BT16",
+  "CardName": "ダイブモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 青黄／3"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "水棲型",
+  "Text": "[進化元効果]\n【アタック終了時】[ターンに1回]このデジモンに「パルスモン」の記述があるなら、自分のセキュリティを上から1枚破棄することで、このデジモンをアクティブにする。\n"
+}

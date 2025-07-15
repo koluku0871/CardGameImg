@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX8-071",
+  "PackNo": "EX8",
+  "CardName": "ナイトメアソルジャーズ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "2",
+  "CardSubType": "NSo",
+  "Text": "[セキュリティ効果]\n【セキュリティ】自分の手札から、特徴に「NSo」を持つLv.5以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

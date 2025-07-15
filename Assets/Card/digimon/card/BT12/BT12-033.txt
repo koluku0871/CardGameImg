@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT12-033",
+  "PackNo": "BT12",
+  "CardName": "ピロモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／1"
+  ],
+  "Element": "黄",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "哺乳類型"
+}

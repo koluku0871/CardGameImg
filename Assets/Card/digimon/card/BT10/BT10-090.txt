@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT10-090",
+  "PackNo": "BT10",
+  "CardName": "剣ゼンジロウ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "3",
+  "CardSubType": "クロスハート",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT20-087",
+  "PackNo": "BT20",
+  "CardName": "堂本コータ＆武者ユージ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒赤",
+  "Cost": "5",
+  "CardSubType": "クロニクル",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

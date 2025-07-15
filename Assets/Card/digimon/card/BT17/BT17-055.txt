@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-055",
+  "PackNo": "BT17",
+  "CardName": "インフェルモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "不明",
+  "CardSubType": "種族不明",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]名称に「ディアボロモン」を含む他の自分のデジモンが登場したとき、相手のデジモン1体を≪退化1≫。\n"
+}

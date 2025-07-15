@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST6-09",
+  "PackNo": "ST6",
+  "CardName": "キュウキモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "妖獣型"
+}

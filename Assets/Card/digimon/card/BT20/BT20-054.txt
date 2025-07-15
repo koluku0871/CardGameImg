@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-054",
+  "PackNo": "BT20",
+  "CardName": "バルブモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "マシーン型",
+  "Text": "[進化元効果]\n【相手のターン】[ターンに1回]相手のデジモンがアタックしたとき、アタックの対象をこのデジモンに変更できる。\n"
+}

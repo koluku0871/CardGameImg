@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-026",
+  "PackNo": "BT18",
+  "CardName": "ダイペンモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 青赤／4"
+  ],
+  "Element": "青赤",
+  "Cost": "8",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンをDP+2000。\n"
+}

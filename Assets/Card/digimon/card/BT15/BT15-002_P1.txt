@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT15-002_P1",
+  "PackNo": "BT15",
+  "CardName": "ツノモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分のデジモンの効果で自分の手札が増えたとき、相手のターン終了まで、このデジモンをDP+1000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-046_P1",
+  "PackNo": "EX7",
+  "CardName": "ジャザリッヒモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒赤／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "機竜型",
+  "Text": "[進化元効果]\n【相手のターン】[ターンに1回]相手のデジモンがアタックしたとき、アタックの対象をこのデジモンに変更できる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST16-06",
+  "PackNo": "ST16",
+  "CardName": "バケモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "ゴースト型",
+  "Text": "[効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

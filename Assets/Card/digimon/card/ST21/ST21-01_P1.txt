@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST21-01_P1",
+  "PackNo": "ST21",
+  "CardName": "ツノモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/アドベンチャー",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、特徴に「アドベンチャー」を持つデジモンカード1枚を手札に戻せる。\n"
+}

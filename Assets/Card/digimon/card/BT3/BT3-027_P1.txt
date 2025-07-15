@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-027_P1",
+  "PackNo": "BT3",
+  "CardName": "パイルドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 青緑／3"
+  ],
+  "Element": "青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが名称に「インペリアルドラモン」を含むなら、このデジモンをアクティブにする。\n"
+}

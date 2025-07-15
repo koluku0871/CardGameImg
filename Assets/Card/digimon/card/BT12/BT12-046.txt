@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT12-046",
+  "PackNo": "BT12",
+  "CardName": "バーガモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "食物型"
+}

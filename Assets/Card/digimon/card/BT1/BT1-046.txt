@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-046",
+  "PackNo": "BT1",
+  "CardName": "クダモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[効果]\n【アタック時】自分の手札が4枚以下のとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX5-017",
+  "PackNo": "EX5",
+  "CardName": "レキスモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 青赤／2"
+  ],
+  "Element": "青",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "獣人型/ナイトクロウ",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンをDP+2000。\n"
+}

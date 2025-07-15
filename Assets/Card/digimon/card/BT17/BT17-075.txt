@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "BT17-075",
+  "PackNo": "BT17",
+  "CardName": "エオスモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "不明",
+  "CardSubType": "不明",
+  "Text": "[進化元効果]\n【相手のターン】[ターンに1回]相手のデジモンがアタックしたとき、アタックの対象を自分の「エオスモン」1体に変更できる。\n"
+}

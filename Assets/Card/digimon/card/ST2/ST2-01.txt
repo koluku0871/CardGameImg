@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST2-01",
+  "PackNo": "ST2",
+  "CardName": "ツノモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】進化元を持たない相手のデジモンとバトルしている間、このデジモンのDPを＋1000する。\n"
+}

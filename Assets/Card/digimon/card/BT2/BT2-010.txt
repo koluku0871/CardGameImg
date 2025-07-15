@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-010",
+  "PackNo": "BT2",
+  "CardName": "ピヨモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "ヒナ鳥型",
+  "Text": "[効果]\n【消滅時】自分のターンのとき、メモリーを+1する。\n"
+}

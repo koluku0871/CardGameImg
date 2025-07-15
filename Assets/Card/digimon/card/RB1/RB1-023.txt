@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "RB1-023",
+  "PackNo": "RB1",
+  "CardName": "ギリードゥモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "妖精型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンは、このデジモンの進化元にある名称に「ガンマモン」を含むカードの効果全てを得る。\n"
+}

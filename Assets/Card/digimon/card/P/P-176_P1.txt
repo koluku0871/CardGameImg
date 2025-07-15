@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "P-176_P1",
+  "PackNo": "P",
+  "CardName": "ドリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "P",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/X抗体/クロニクル",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンを手札の特徴に「クロニクル」を持つデジモンカードに進化できる。\n"
+}

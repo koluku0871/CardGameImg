@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-047",
+  "PackNo": "BT17",
+  "CardName": "パロットモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "巨鳥型",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンがバトルで相手のデジモンを消滅させたとき、このデジモンをアクティブにできる。\n"
+}

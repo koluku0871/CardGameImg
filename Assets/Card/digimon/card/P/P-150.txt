@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-150",
+  "PackNo": "P",
+  "CardName": "エキサモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "昆虫型",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンがレストしたとき、このデジモンのDP以下の相手のデジモン1体をレストさせる。\n"
+}

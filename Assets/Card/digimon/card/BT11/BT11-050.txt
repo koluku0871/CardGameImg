@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-050",
+  "PackNo": "BT11",
+  "CardName": "イガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分のテイマーが登場したとき、相手のデジモン1体をレストさせる。\n"
+}

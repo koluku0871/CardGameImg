@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-021_P1",
+  "PackNo": "EX8",
+  "CardName": "シードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "水棲型/DS",
+  "Text": "[進化元効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-059",
+  "PackNo": "BT10",
+  "CardName": "スパーダモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黒赤／1"
+  ],
+  "Element": "黒赤",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "武器型/Legend-Arms/クロスハート",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］自分のデッキの上から3枚オープンする。その中の特徴に「Legend-Arms」か「クロスハート」を持つカード1枚を手札に加える。残りは好きな順番でデッキの下に戻す。\n"
+}

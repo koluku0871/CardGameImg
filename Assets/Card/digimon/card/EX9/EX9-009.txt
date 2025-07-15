@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-009",
+  "PackNo": "EX9",
+  "CardName": "グレイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型/DM/Ver.1",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

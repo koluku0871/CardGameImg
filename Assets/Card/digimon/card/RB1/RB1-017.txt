@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "RB1-017",
+  "PackNo": "RB1",
+  "CardName": "ヌメモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄黒／2"
+  ],
+  "Element": "黄黒",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "軟体型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンが名称に「もんざえモン」か「ヌメモン」を含む間、このデジモンは≪ブロッカー≫を得る。\n"
+}

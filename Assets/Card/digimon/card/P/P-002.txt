@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-002",
+  "PackNo": "P",
+  "CardName": "ピヨモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "ヒナ鳥型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがバトルで相手のデジモンだけを消滅させたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

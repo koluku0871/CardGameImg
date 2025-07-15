@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT10-092_P2",
+  "PackNo": "BT10",
+  "CardName": "天野ネネ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "3",
+  "CardSubType": "ジェネラル/トワイライト",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-020",
+  "PackNo": "P",
+  "CardName": "ヴェノムヴァンデモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "P",
+  "Lv": [
+    "LV5 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型",
+  "Text": "[効果]\n【消滅時】自分のトラッシュから、紫のLv.4以下のデジモンカード1枚をコストを支払わずに登場できる。この効果で登場したデジモンの【登場時】効果は発揮しない。\n"
+}

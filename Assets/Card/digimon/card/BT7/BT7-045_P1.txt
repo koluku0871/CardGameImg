@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-045_P1",
+  "PackNo": "BT7",
+  "CardName": "トータモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【アタック時】自分の手札から、緑のデジモンカード1枚をオープンしてデッキの上に戻すことで、このターンの間、このデジモンをDP+3000。\n"
+}

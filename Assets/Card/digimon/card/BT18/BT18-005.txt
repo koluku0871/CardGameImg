@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT18-005",
+  "PackNo": "BT18",
+  "CardName": "コゼニモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンがバトルで相手のデジモンを消滅させたとき、≪1ドロー≫。\n"
+}

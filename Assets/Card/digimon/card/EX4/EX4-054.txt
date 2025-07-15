@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-054",
+  "PackNo": "EX4",
+  "CardName": "ウェンディモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫緑／3"
+  ],
+  "Element": "紫緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【アタック終了時】［ターンに1回］他のレスト状態の自分のデジモンがいるなら、自分のトラッシュから緑のデジモンカード1枚を手札に戻す。\n"
+}

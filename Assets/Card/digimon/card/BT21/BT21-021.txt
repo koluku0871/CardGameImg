@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-021",
+  "PackNo": "BT21",
+  "CardName": "オメガシャウトモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 赤黄／4"
+  ],
+  "Element": "赤黄",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "竜人型/クロスハート/ヒーロー",
+  "Text": "[進化元効果]\n【自分のターン】特徴に「クロスハート」を持つこのデジモンは≪速攻≫を得る。\n"
+}

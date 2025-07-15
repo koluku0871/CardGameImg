@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-068",
+  "PackNo": "BT5",
+  "CardName": "ブラックマッハガオガモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが≪再起動≫を持つ間、このデジモンのDPを+2000する。\n"
+}

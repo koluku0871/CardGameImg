@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT20-096",
+  "PackNo": "BT20",
+  "CardName": "ブラックサバス",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "2",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】Lv.6以下の相手のデジモン1体を消滅させる。\n"
+}

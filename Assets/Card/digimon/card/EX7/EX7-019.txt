@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-019",
+  "PackNo": "EX7",
+  "CardName": "ソーサリモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "魔人型/ウィッチェルニー",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]相手のデジモン1体の進化元を上から1枚破棄する。\n"
+}

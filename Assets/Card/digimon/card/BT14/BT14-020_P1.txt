@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-020_P1",
+  "PackNo": "BT14",
+  "CardName": "ゴマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "海獣型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンが消滅するとき、このデジモンの進化元から、「ゴマモン」1枚をコストを支払わずに登場できる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-057",
+  "PackNo": "BT18",
+  "CardName": "コカブテリモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒黄／1"
+  ],
+  "Element": "黒黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "昆虫型",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

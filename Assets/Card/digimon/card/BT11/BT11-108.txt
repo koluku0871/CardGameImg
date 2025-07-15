@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT11-108",
+  "PackNo": "BT11",
+  "CardName": "DGディメンジョン",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "8",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードの【メイン】効果を発揮する。\n"
+}

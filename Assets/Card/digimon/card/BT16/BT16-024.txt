@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-024",
+  "PackNo": "BT16",
+  "CardName": "ホーリーエンジェモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 青黄／4"
+  ],
+  "Element": "青黄",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "大天使型",
+  "Text": "[進化元効果]\n【相手のターン】特徴に「天使型」/「大天使型」/「三大天使」を持つ自分のデジモン全ては、≪ブロッカー≫を得る。\n"
+}

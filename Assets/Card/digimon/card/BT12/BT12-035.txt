@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-035",
+  "PackNo": "BT12",
+  "CardName": "エカキモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンに≪セーブ≫の記述があるとき、このターンの間、相手のデジモン1体をDP-2000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST17-09_P1",
+  "PackNo": "ST17",
+  "CardName": "ケルビモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 緑紫／4"
+  ],
+  "Element": "緑紫",
+  "Cost": "12",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "智天使型",
+  "Text": "[効果]\n≪連携≫【進化時】Lv.4以下のデジモン1体を消滅できる。その後、自分の手札/トラッシュから、緑/紫のLv.4以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

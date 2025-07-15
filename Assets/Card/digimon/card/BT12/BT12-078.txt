@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-078",
+  "PackNo": "BT12",
+  "CardName": "ウィザーモンX抗体",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "魔人型/X抗体",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］自分のデッキの上から2枚破棄する。\n"
+}

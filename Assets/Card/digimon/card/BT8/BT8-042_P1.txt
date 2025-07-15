@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-042_P1",
+  "PackNo": "BT8",
+  "CardName": "シャッコウモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黄青／4"
+  ],
+  "Element": "黄青",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【アタック時】このターンの間、相手のデジモン1体をDP-3000。\n"
+}

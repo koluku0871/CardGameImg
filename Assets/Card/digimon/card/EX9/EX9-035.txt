@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-035",
+  "PackNo": "EX9",
+  "CardName": "パルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型/DM/Ver.4",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]相手のデジモン1体をレストさせる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-010",
+  "PackNo": "EX3",
+  "CardName": "パイルドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 赤紫／4"
+  ],
+  "Element": "赤紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「インペリアルドラモン」を含む間、このデジモンは≪セキュリティアタック+1≫を得る。\n"
+}

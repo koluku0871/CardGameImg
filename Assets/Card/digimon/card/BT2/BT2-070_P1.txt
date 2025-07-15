@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-070_P1",
+  "PackNo": "BT2",
+  "CardName": "バクモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[効果]\n【消滅時】≪1ドロー≫（自分のデッキからカードを1枚引く）\n"
+}

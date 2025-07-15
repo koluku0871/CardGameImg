@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-009",
+  "PackNo": "BT17",
+  "CardName": "フレイモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤紫／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【消滅時】自分の手札から、進化元効果を持つテイマーカード1枚をコストを支払わずに登場できる。\n"
+}

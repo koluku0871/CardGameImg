@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST4-04_P1",
+  "PackNo": "ST4",
+  "CardName": "パルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【アタック時】相手のデジモンにアタックしたとき、このターンの間、このデジモンのDPを+2000する。\n"
+}

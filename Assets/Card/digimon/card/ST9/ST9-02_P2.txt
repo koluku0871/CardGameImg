@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST9-02_P2",
+  "PackNo": "ST9",
+  "CardName": "ブイモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青緑／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "小竜型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から3枚オープンする。その中の特徴に「フリー」を持つカード1枚を手札に加える。残りはデッキの下に戻す。\n"
+}

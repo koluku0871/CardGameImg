@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-054",
+  "PackNo": "BT12",
+  "CardName": "ジャガモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "植物型",
+  "Text": "[効果]\n【消滅時】自分の手札から、「ヤキイモン」か「ポテモン」2枚までをコストを支払わずに登場できる。\n"
+}

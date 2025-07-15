@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-040",
+  "PackNo": "BT4",
+  "CardName": "ディアトリモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "古代鳥型"
+}

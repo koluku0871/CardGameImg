@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT1-037",
+  "PackNo": "BT1",
+  "CardName": "ゴリモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／1"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "獣人型"
+}

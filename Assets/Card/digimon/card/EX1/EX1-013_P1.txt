@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-013_P1",
+  "PackNo": "EX1",
+  "CardName": "ブイモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "小竜型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］このデジモンがメインフェイズでアクティブになったとき、メモリーを+1する。\n"
+}

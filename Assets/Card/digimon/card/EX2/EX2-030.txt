@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX2-030",
+  "PackNo": "EX2",
+  "CardName": "モノドラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "小竜型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から4枚オープンする。その中の黒のテイマーカード全てを手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

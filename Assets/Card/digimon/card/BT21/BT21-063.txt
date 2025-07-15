@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-063",
+  "PackNo": "BT21",
+  "CardName": "ガムドラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 紫赤／1"
+  ],
+  "Element": "紫赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "小竜型/ヒーロー",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

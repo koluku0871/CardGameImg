@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT8-030",
+  "PackNo": "BT8",
+  "CardName": "サーフィモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "C",
+  "Lv": [
+    "LV5 : 青黒／3"
+  ],
+  "Element": "青黒",
+  "Cost": "10",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型"
+}

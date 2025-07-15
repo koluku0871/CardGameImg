@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT8-034",
+  "PackNo": "BT8",
+  "CardName": "エレキモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "哺乳類型"
+}

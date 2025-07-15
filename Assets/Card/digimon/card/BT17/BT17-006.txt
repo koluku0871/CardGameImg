@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT17-006",
+  "PackNo": "BT17",
+  "CardName": "バウモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/X抗体/SoC",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]効果でこのデジモンの進化元にテイマーカードが置かれたとき、このデジモンを自分のトラッシュの特徴に「SoC」を持つデジモンカードに進化できる。\n"
+}

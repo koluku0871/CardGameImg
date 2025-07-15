@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-052",
+  "PackNo": "BT16",
+  "CardName": "ハグルモンX抗体",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "マシーン型/X抗体",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

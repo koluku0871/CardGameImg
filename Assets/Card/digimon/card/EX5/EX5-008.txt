@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX5-008",
+  "PackNo": "EX5",
+  "CardName": "ファイラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 赤青／2"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型/ライトファング",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

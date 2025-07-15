@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX7-066_P1",
+  "PackNo": "EX7",
+  "CardName": "ケイオストライアングラー",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "6",
+  "CardSubType": "三銃士",
+  "Text": "[セキュリティ効果]\n【セキュリティ】DP12000以下の相手のデジモン1体を消滅させる。\n"
+}

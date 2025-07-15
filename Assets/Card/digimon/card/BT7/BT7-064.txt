@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-064",
+  "PackNo": "BT7",
+  "CardName": "ドルグレモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "獣竜型/X抗体",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが特徴に「X抗体」を持つ間、このデジモンは≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）を得る。\n"
+}

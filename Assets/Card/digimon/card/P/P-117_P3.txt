@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-117_P3",
+  "PackNo": "P",
+  "CardName": "ブイモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 青緑／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "小竜型",
+  "Text": "[進化元効果]\n【アタック時】このデジモンが2色以上なら、≪1ドロー≫。\n"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT5-073",
+  "PackNo": "BT5",
+  "CardName": "ピロモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "哺乳類型"
+}

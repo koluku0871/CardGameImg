@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT14-006_P1",
+  "PackNo": "BT14",
+  "CardName": "バウモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/X抗体/SoC",
+  "Text": "[進化元効果]\n【自分のターン】自分の手札から、特徴に「魔獣型」/「SoC」を持つデジモンカードが破棄されたとき、このデジモンをそのカードに進化できる。\n"
+}

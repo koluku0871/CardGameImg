@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX7-072",
+  "PackNo": "EX7",
+  "CardName": "セブンス・ファシネイト",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "7",
+  "CardSubType": "七大魔王",
+  "Text": "[セキュリティ効果]\n【セキュリティ】アクティブ状態の相手のデジモン1体を消滅させる。\n"
+}

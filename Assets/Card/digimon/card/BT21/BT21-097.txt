@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT21-097",
+  "PackNo": "BT21",
+  "CardName": "アプリンク",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "3",
+  "CardSubType": "アプモン",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

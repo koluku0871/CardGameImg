@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-043",
+  "PackNo": "EX9",
+  "CardName": "メタルティラノモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 緑黒／4"
+  ],
+  "Element": "緑黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/DM/Ver.5",
+  "Text": "[進化元効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンを消滅させたとき、アタック終了前にチェックする）\n"
+}

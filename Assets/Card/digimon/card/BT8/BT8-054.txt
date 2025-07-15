@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-054",
+  "PackNo": "BT8",
+  "CardName": "ピストモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【お互いのターン】他のレスト状態の自分のデジモン1体ごとに、このデジモンをDP+1000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-068",
+  "PackNo": "BT6",
+  "CardName": "インプモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "小悪魔型",
+  "Text": "[効果]\n【登場時】自分の手札を1枚破棄できる。そうしたとき、自分のトラッシュから、特徴に「七大魔王」か「三銃士」を持つデジモンカード1枚を手札に戻す。\n"
+}

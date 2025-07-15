@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-050",
+  "PackNo": "EX7",
+  "CardName": "インプモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 紫赤／1"
+  ],
+  "Element": "紫赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "小悪魔型/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT17-004",
+  "PackNo": "BT17",
+  "CardName": "アルゴモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンが「アルゴモン」の間、このデジモンは≪ブロッカー≫を得る。\n"
+}

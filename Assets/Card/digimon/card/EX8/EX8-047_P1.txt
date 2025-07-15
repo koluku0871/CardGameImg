@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-047_P1",
+  "PackNo": "EX8",
+  "CardName": "スナリザモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型/リベレイター",
+  "Text": "[進化元効果]\nこのカードが特徴に「鉱物型」/「鉱石型」を持つデジモンの進化元から効果で破棄されたとき、登場コスト4以下の相手のデジモン1体を消滅させる。\n"
+}

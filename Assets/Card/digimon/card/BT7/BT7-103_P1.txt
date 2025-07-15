@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT7-103_P1",
+  "PackNo": "BT7",
+  "CardName": "霧幻",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "4",
+  "Text": "[セキュリティ効果]\n【セキュリティ】相手のデジモン1体をレストさせる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-057",
+  "PackNo": "BT6",
+  "CardName": "トイアグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンが≪ブロッカー≫を持つ間、このデジモンのDPを+1000する。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-011",
+  "PackNo": "BT21",
+  "CardName": "シャウトモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤黄／1"
+  ],
+  "Element": "赤黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "小竜型/クロスハート/ヒーロー",
+  "Text": "[進化元効果]\n【自分のターン】特徴に「クロスハート」を持つこのデジモンは≪速攻≫を得る。\n"
+}

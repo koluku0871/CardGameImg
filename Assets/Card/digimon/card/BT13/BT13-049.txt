@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-049",
+  "PackNo": "BT13",
+  "CardName": "ララモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］このデジモンが進化するとき、緑の自分のテイマーがいるなら、支払う進化コスト-1。\n"
+}

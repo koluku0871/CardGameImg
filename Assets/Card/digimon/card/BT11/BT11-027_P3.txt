@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-027_P3",
+  "PackNo": "BT11",
+  "CardName": "ブイドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "幻竜型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]青の自分のテイマーが登場したとき、メモリー+1。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-011_P2",
+  "PackNo": "EX9",
+  "CardName": "メタルグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 赤黒／4"
+  ],
+  "Element": "赤黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/DM/Ver.1",
+  "Text": "[進化元効果]\n≪Sアタック+1≫（このデジモンがチェックする枚数+1）\n"
+}

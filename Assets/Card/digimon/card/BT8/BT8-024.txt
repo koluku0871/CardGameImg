@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-024",
+  "PackNo": "BT8",
+  "CardName": "エンジェモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青黄／3"
+  ],
+  "Element": "青黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "天使型",
+  "Text": "[進化元効果]\n【アタック時】自分のセキュリティが3枚以上のとき、Lv.3の相手のデジモン1体を手札に戻す。\n"
+}

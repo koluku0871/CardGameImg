@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-041",
+  "PackNo": "BT21",
+  "CardName": "カレンダモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "並/アプモン",
+  "CardType": "ツール",
+  "CardSubType": "カレンダー",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。\n"
+}

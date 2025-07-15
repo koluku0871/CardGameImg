@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-077",
+  "PackNo": "BT1",
+  "CardName": "オオクワモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "昆虫型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがバトルで相手のデジモンだけを消滅させたとき、メモリーを+1する。\n"
+}

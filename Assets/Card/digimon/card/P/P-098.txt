@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-098",
+  "PackNo": "P",
+  "CardName": "シードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "水棲型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］他の自分のデジモンが効果で登場したとき、このターンの間、青の自分のデジモン1体は≪速攻≫を得る。\n"
+}

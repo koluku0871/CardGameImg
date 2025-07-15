@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-008",
+  "PackNo": "EX9",
+  "CardName": "ピヨモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "ヒナ鳥型/DM/Ver.4",
+  "Text": "[進化元効果]\n≪突進≫（このデジモンがアタックしたとき、アタックの対象を最もDPの高いアクティブ状態の相手のデジモン1体に変更できる）\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-099",
+  "PackNo": "P",
+  "CardName": "エテモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "P",
+  "Lv": [
+    "LV4 : 黄黒／4"
+  ],
+  "Element": "黄黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【消滅時】自分の手札から、黄か黒の登場コスト3以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

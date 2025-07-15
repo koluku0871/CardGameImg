@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-005",
+  "PackNo": "EX3",
+  "CardName": "ヴォーボモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤黒／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "岩竜型",
+  "Text": "[進化元効果]\n【アタック時】このデジモンが【登場時】効果を持つとき、DP3000以下の相手のデジモン1体を消滅させる。\n"
+}

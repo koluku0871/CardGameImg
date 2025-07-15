@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX5-035",
+  "PackNo": "EX5",
+  "CardName": "ホークモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "鳥型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンがレスト状態の間、このデジモンをDP+1000。\n"
+}

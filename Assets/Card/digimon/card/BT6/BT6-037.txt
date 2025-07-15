@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-037",
+  "PackNo": "BT6",
+  "CardName": "バルクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜人型",
+  "Text": "[効果]\n【自分のターン】自分のセキュリティが3枚以上の間、このデジモンは、≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）を得る。\n"
+}

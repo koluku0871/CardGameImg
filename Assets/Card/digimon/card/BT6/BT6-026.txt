@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-026",
+  "PackNo": "BT6",
+  "CardName": "ダゴモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "水棲獣人型",
+  "Text": "[効果]\n【進化時】進化元を持たないLv.4以下の相手のデジモン1体を手札に戻す。\n"
+}

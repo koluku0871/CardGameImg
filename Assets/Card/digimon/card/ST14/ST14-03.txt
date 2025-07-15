@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST14-03",
+  "PackNo": "ST14",
+  "CardName": "キャンドモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "火炎型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から2枚破棄する。【消滅時】自分のトラッシュが10枚以上のとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

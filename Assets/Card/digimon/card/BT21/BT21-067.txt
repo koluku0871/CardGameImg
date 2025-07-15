@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-067",
+  "PackNo": "BT21",
+  "CardName": "ガルルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型/アドベンチャー",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]≪1ドロー≫し、自分の手札1枚を破棄する。\n"
+}

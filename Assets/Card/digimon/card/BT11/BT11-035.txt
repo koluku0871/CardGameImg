@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT11-035",
+  "PackNo": "BT11",
+  "CardName": "クリアアグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "パペット型"
+}

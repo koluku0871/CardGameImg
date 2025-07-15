@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-050",
+  "PackNo": "BT10",
+  "CardName": "ウェズンガンマモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "角竜型",
+  "Text": "[効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンを消滅させたとき、アタック終了前にチェックする）\n"
+}

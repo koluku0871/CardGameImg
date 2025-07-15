@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-058",
+  "PackNo": "BT16",
+  "CardName": "ドルガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒紫／3"
+  ],
+  "Element": "黒紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "獣竜型/X抗体/SoC",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンをDP+1000。\n"
+}

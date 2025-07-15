@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-013",
+  "PackNo": "BT8",
+  "CardName": "ベテルガンマモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜人型",
+  "Text": "[効果]\n【進化時】≪進撃≫（メモリーが相手側の1以上のとき、このデジモンはアタックできる）\n"
+}

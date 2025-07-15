@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT18-087",
+  "PackNo": "BT18",
+  "CardName": "オーウェン・ドレッドノート",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "4",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

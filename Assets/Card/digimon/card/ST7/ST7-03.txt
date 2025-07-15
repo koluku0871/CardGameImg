@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST7-03",
+  "PackNo": "ST7",
+  "CardName": "ギルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに１回］相手のデジモンが消滅したとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

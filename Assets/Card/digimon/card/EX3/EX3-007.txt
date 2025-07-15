@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-007",
+  "PackNo": "EX3",
+  "CardName": "ラヴォーボモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤黒／2"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "岩竜型",
+  "Text": "[進化元効果]\n【アタック時】このデジモンが【登場時】効果を持つとき、DP3000以下の相手のデジモン1体を消滅させる。\n"
+}

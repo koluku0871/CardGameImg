@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST19-02",
+  "PackNo": "ST19",
+  "CardName": "ジャンクモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n≪防壁≫（このデジモンがバトルで消滅するとき、自分のセキュリティを上から1枚破棄することで、消滅しない）\n"
+}

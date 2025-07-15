@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "ST9-15",
+  "PackNo": "ST9",
+  "CardName": "ヘルマスカレード",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "1",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT19-082_P1",
+  "PackNo": "BT19",
+  "CardName": "姚青嵐",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "4",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

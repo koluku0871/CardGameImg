@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT21-089",
+  "PackNo": "BT21",
+  "CardName": "松田啓人",
+  "CardRarity": "SR",
+  "Lv": [],
+  "Element": "紫赤",
+  "Cost": "3",
+  "CardSubType": "ヒーロー",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-026",
+  "PackNo": "BT20",
+  "CardName": "メガシードラモンX抗体",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "水棲型/X抗体",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンのアタックの対象は変更されない。\n"
+}

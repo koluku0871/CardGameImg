@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX5-061",
+  "PackNo": "EX5",
+  "CardName": "ケルベロモンX抗体",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "魔獣型/X抗体",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］他の自分のデジモン1体を消滅させることで、このデジモンをアクティブにする。\n"
+}

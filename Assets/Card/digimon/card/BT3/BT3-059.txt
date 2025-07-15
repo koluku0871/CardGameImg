@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-059",
+  "PackNo": "BT3",
+  "CardName": "コマンドラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/D-ブリガード"
+}

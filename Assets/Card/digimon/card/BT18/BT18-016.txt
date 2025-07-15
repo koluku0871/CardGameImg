@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-016",
+  "PackNo": "BT18",
+  "CardName": "ボルケーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "9",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[効果]\n【進化時】≪進撃≫【アタック時】相手のターン終了まで、このデジモンをDP+2000。\n"
+}

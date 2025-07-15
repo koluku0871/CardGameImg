@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-030",
+  "PackNo": "EX8",
+  "CardName": "バクモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型/NSo",
+  "Text": "[効果]\n【お互いのターン】相手はテイマーの効果以外でメモリーをプラスできない。\n"
+}

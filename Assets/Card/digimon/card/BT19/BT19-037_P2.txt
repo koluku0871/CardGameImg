@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-037_P2",
+  "PackNo": "BT19",
+  "CardName": "タオモンACE",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "5",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【アタック時】ターン終了まで、相手のデジモン1体をDP-4000。\n"
+}

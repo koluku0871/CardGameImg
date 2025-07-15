@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-047",
+  "PackNo": "BT3",
+  "CardName": "ワームモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "幼虫型",
+  "Text": "[効果]\n【消滅時】自分のデッキの上から3枚オープンする。その中のLv.4かLv.5のデジモンカード1枚を手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

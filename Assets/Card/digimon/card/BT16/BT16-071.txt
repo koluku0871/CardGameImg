@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-071",
+  "PackNo": "BT16",
+  "CardName": "マッドレオモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫緑／3"
+  ],
+  "Element": "紫緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型/バグラ軍",
+  "Text": "[進化元効果]\n【アタック終了時】このデジモンを消滅させることで、自分のトラッシュから、Lv.4以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

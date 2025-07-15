@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-031_P1",
+  "PackNo": "BT17",
+  "CardName": "レナモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分が使用コスト2以上のオプションカードを使用したとき、相手のターン終了まで、相手のデジモン1体に≪Sアタック-1≫を与える。\n"
+}

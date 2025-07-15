@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-079",
+  "PackNo": "BT1",
+  "CardName": "リリモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "妖精型",
+  "Text": "[進化元効果]\n【アタック時】≪ブロッカー≫を持たない相手のデジモン1体をレストさせる。\n"
+}

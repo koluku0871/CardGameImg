@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-034",
+  "PackNo": "BT17",
+  "CardName": "バルクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄緑／3"
+  ],
+  "Element": "黄緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜人型/AE社",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンに「パルスモン」の記述がある間、このデジモンをDP+1000。\n"
+}

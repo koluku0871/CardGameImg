@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "LM-025",
+  "PackNo": "LM",
+  "CardName": "サイバードラモンACE",
+  "CardLevel": "Lv.5",
+  "CardRarity": "P",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]相手のデジモン1体を≪退化1≫。\n"
+}

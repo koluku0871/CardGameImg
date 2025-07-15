@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT1-014",
+  "PackNo": "BT1",
+  "CardName": "コカトリモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "巨鳥型"
+}

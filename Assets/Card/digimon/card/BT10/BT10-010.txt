@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT10-010",
+  "PackNo": "BT10",
+  "CardName": "アシュラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "魔人型"
+}

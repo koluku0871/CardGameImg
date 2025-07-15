@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-068",
+  "PackNo": "BT3",
+  "CardName": "ギロモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "機雷型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンのDPを+1000する。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-020",
+  "PackNo": "BT10",
+  "CardName": "デッカードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/ブルーフレア",
+  "Text": "[進化元効果]\n【お互いのターン】相手のデジモンが2体以上いる間、このデジモンをDP+1000。\n"
+}

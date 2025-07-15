@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-102_P3",
+  "PackNo": "BT17",
+  "CardName": "グレイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "SEC",
+  "Lv": [
+    "LV3 : 赤青黄緑／3"
+  ],
+  "Element": "白",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【消滅時】自分の手札から、名称に「八神太一」/「八神ヒカリ」を含むテイマーカード1枚をコストを支払わずに登場するか、自分の育成エリアに孵化できる。\n"
+}

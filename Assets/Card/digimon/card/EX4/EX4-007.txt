@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-007",
+  "PackNo": "EX4",
+  "CardName": "ジオグレイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤黄／3"
+  ],
+  "Element": "赤黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］赤か黄の自分のテイマーがレストしたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

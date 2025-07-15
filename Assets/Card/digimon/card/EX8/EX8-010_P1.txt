@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-010_P1",
+  "PackNo": "EX8",
+  "CardName": "メラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "火炎型/NSo",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

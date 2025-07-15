@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-068",
+  "PackNo": "BT15",
+  "CardName": "ギザモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "水棲哺乳類型",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］効果で相手のデジモンが登場したとき、メモリー+1。\n"
+}

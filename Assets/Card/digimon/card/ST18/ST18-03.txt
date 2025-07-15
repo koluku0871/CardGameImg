@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST18-03",
+  "PackNo": "ST18",
+  "CardName": "ファルコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥型",
+  "Text": "[効果]\n【アタック時】相手のデジモン1体をレストさせる。\n"
+}

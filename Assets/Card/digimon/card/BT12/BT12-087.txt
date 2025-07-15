@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT12-087",
+  "PackNo": "BT12",
+  "CardName": "工藤タイキ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "3",
+  "CardSubType": "ハンター/クロスハート",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

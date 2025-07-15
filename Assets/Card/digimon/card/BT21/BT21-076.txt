@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-076",
+  "PackNo": "BT21",
+  "CardName": "メガログラウモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫赤／4"
+  ],
+  "Element": "紫赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【消滅時】相手のセキュリティを上から1枚破棄する。\n"
+}

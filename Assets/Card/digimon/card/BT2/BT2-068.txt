@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-068",
+  "PackNo": "BT2",
+  "CardName": "インプモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "小悪魔型",
+  "Text": "[効果]\n【消滅時】自分のデッキの上から3枚破棄する。\n"
+}

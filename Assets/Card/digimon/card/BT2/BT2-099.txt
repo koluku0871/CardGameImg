@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT2-099",
+  "PackNo": "BT2",
+  "CardName": "グロリアスバースト",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "9",
+  "Text": "[セキュリティ効果]\n-\n"
+}

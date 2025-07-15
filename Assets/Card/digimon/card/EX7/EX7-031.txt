@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-031",
+  "PackNo": "EX7",
+  "CardName": "プテロモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "鳥竜型/リベレイター",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンがバトルで相手のデジモンを消滅させたとき、メモリー+1。\n"
+}

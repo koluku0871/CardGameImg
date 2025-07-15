@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT21-086",
+  "PackNo": "BT21",
+  "CardName": "大門大",
+  "CardRarity": "SR",
+  "Lv": [],
+  "Element": "黄赤",
+  "Cost": "4",
+  "CardSubType": "ヒーロー",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

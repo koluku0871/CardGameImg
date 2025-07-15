@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "EX2-051",
+  "PackNo": "EX2",
+  "CardName": "ADR-07=パラティスヘッド",
+  "CardLevel": "Lv.-",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "6",
+  "CardCategory": "デ・リーパー",
+  "CardSubType": "威力偵察タイプ",
+  "Text": "[効果]\n【メイン】自分の「マザーデ・リーパー」がいるとき、このデジモンをレストさせることで、このデジモンのDP以下の相手のデジモン1体を消滅させる。\n"
+}

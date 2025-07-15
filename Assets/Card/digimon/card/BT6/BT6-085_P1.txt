@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-085_P1",
+  "PackNo": "BT6",
+  "CardName": "エオスモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 白緑／3"
+  ],
+  "Element": "白",
+  "Cost": "5",
+  "CardCategory": "完全体",
+  "CardType": "不明",
+  "CardSubType": "不明",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+1000。\n"
+}

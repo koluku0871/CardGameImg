@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX7-070",
+  "PackNo": "EX7",
+  "CardName": "デルブリッツ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "6",
+  "CardSubType": "三銃士",
+  "Text": "[セキュリティ効果]\n【セキュリティ】最も登場コストの低い相手のデジモン1体を消滅させる。\n"
+}

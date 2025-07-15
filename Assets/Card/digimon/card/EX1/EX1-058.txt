@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-058",
+  "PackNo": "EX1",
+  "CardName": "デビモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、紫のLv.4以下のデジモンカード1枚を手札に戻す。\n"
+}

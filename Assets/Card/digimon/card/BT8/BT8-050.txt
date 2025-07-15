@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-050",
+  "PackNo": "BT8",
+  "CardName": "エキサモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "昆虫型",
+  "Text": "[進化元効果]\n【お互いのターン】他のレスト状態の自分のデジモン1体ごとに、このデジモンをDP+1000。\n"
+}

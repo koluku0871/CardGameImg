@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-017",
+  "PackNo": "EX4",
+  "CardName": "ガオガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］相手の手札が効果で増えたとき、メモリー+1。\n"
+}

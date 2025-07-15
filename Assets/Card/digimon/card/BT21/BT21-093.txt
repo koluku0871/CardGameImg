@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT21-093",
+  "PackNo": "BT21",
+  "CardName": "レイジングサーペンタイン",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "8",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】最もDPの高い相手のデジモン1体を消滅させる。\n"
+}

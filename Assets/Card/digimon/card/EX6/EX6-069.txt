@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX6-069",
+  "PackNo": "EX6",
+  "CardName": "七大魔王降臨",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "4",
+  "CardSubType": "七大魔王",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

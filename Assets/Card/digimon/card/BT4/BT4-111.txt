@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT4-111",
+  "PackNo": "BT4",
+  "CardName": "ジャックレイド",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "0",
+  "Text": "[セキュリティ効果]\n【セキュリティ】メモリーを+2する。\n"
+}

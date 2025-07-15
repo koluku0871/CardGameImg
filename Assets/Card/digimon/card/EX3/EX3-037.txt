@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-037",
+  "PackNo": "EX3",
+  "CardName": "ドラコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 緑青／1"
+  ],
+  "Element": "緑青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "竜型",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］名称に「ドラモン」か「エグザモン」を含む自分のデジモンがレストしたとき、このターンの間、このデジモンをDP+1000。\n"
+}

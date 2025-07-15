@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-018",
+  "PackNo": "BT19",
+  "CardName": "スイムモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "熱帯魚型",
+  "Text": "[進化元効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n"
+}

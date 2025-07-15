@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-052",
+  "PackNo": "EX1",
+  "CardName": "エテモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「エテモン」を含む間、このデジモンは≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）を得る。\n"
+}

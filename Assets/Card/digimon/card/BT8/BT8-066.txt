@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-066",
+  "PackNo": "BT8",
+  "CardName": "ヒシャリュウモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣竜型/X抗体",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンが特徴に「X抗体」を持つ間、このデジモンは≪再起動≫（相手のアクティブフェイズに、このデジモンをアクティブにする）を得る。\n"
+}

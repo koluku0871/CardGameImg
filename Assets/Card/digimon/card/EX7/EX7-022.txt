@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-022",
+  "PackNo": "EX7",
+  "CardName": "トノサマゲコモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型/NSp",
+  "Text": "[効果]\n【登場時】相手のターン終了まで、相手のデジモン/テイマー1体はレストできない。【自分のターン】特徴に「NSp」を持つ自分のデジモン全てはアタックの対象を変更されない。\n"
+}

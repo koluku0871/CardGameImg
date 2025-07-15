@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-057",
+  "PackNo": "EX1",
+  "CardName": "ウィザーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【自分のターン】≪道連れ≫を持つ自分のデジモン全ては≪速攻≫（このデジモンは登場したターンでもアタックできる）を得る。\n"
+}

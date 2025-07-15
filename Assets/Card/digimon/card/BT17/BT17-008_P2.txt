@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-008_P2",
+  "PackNo": "BT17",
+  "CardName": "ギルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【お互いのターン】メモリーが0以下の間、このデジモンのDP消滅効果の上限+2000。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT21-087_P1",
+  "PackNo": "BT21",
+  "CardName": "ゼニス",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "4",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

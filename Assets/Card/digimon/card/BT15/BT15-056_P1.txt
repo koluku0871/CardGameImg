@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-056_P1",
+  "PackNo": "BT15",
+  "CardName": "リュウダモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV2 : 黒緑／1"
+  ],
+  "Element": "黒緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型/X抗体/デジ対",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］このデジモンがレストしたとき、このデジモンの登場コスト以下の相手のデジモン/テイマー1体をレストさせる。\n"
+}

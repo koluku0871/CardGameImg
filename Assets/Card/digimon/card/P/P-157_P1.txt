@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "P-157_P1",
+  "PackNo": "P",
+  "CardName": "モニモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "P",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "ブラウン型/トワイライト/クロスハート",
+  "Text": "[進化元効果]\n【消滅時】黒の自分のテイマーがいるなら、≪1ドロー≫。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT9-005",
+  "PackNo": "BT9",
+  "CardName": "ゴロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "鉱石型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンが≪ブロッカー≫を持つ間、このデジモンをDP+1000。\n"
+}

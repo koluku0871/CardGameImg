@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST18-04",
+  "PackNo": "ST18",
+  "CardName": "プテロモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "鳥竜型/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

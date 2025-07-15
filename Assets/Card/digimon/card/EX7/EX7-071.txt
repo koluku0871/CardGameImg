@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX7-071",
+  "PackNo": "EX7",
+  "CardName": "ハリケーンビスショット",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "6",
+  "CardSubType": "三銃士",
+  "Text": "[セキュリティ効果]\n【セキュリティ】Lv.3とLv.4とLv.5の相手のデジモン1体ずつを消滅させる。\n"
+}

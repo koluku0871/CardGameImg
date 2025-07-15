@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT12-107",
+  "PackNo": "BT12",
+  "CardName": "ラプラスの魔",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "1",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

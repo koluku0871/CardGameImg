@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-053",
+  "PackNo": "BT4",
+  "CardName": "ゴキモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 緑／1"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "昆虫型"
+}

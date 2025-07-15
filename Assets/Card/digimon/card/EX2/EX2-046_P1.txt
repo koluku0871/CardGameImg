@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX2-046_P1",
+  "PackNo": "EX2",
+  "CardName": "ADR-02=サーチャー",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "3",
+  "CardCategory": "デ・リーパー",
+  "CardSubType": "情報収集タイプ",
+  "Text": "[進化元効果]\n【自分のターン】特徴に「デ・リーパー」を持つ自分のデジモン全てをDP+1000。\n"
+}

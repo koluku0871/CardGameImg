@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX4-002",
+  "PackNo": "EX4",
+  "CardName": "チョコモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分のデジモンが効果でレストしたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

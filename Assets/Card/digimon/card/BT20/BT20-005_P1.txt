@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT20-005_P1",
+  "PackNo": "BT20",
+  "CardName": "カプリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが表向きのセキュリティをチェックしたとき、ターン終了まで、このデジモンは≪ジャミング≫を得る。\n"
+}

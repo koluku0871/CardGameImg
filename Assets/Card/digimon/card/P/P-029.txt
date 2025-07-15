@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-029",
+  "PackNo": "P",
+  "CardName": "アグニモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが手札の「エンシェントグレイモン」に進化するとき、支払う進化コスト-2。\n"
+}

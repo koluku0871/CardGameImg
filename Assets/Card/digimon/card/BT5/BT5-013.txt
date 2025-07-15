@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT5-013",
+  "PackNo": "BT5",
+  "CardName": "トリケラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "角竜型"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-071",
+  "PackNo": "BT3",
+  "CardName": "メタルマメモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[効果]\n≪再起動≫（相手のアクティブフェイズに、このデジモンをアクティブにする）【進化時】自分のトラッシュから、特徴に「ウィルス種」を持つLv.7のデジモンカード1枚を手札に戻せる。\n"
+}

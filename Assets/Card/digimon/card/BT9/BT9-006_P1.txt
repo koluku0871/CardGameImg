@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT9-006_P1",
+  "PackNo": "BT9",
+  "CardName": "パグモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】自分の手札を1枚破棄することで、このターンの間、このデジモンをDP+1000。\n"
+}

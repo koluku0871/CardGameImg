@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-016",
+  "PackNo": "BT15",
+  "CardName": "ブラキモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 赤青／4"
+  ],
+  "Element": "赤青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "首長竜型",
+  "Text": "[進化元効果]\n【消滅時】DP7000以下の相手のデジモン1体を手札に戻す。\n"
+}

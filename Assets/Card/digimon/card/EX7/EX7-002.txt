@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX7-002",
+  "PackNo": "EX7",
+  "CardName": "ヒヤリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]進化元を持つ相手のデジモンがいないなら、≪1ドロー≫。\n"
+}

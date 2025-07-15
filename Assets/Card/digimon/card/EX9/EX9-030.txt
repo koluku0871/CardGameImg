@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-030",
+  "PackNo": "EX9",
+  "CardName": "アンドロモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 黄黒／4"
+  ],
+  "Element": "黄黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型/DM/Ver.3",
+  "Text": "[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-066",
+  "PackNo": "BT21",
+  "CardName": "アレスタードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫赤／3"
+  ],
+  "Element": "紫赤",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜型/ヒーロー",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-055",
+  "PackNo": "EX1",
+  "CardName": "バクモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］他の自分のデジモンが消滅したとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

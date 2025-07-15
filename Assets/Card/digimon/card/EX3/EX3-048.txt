@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-048",
+  "PackNo": "EX3",
+  "CardName": "ジャザードモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黒赤／2"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "機竜型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンが【登場時】効果を持つ間、このデジモンをDP+1000。\n"
+}

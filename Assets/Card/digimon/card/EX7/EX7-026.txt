@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-026",
+  "PackNo": "EX7",
+  "CardName": "スターモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "突然変異型/NSp",
+  "Text": "[進化元効果]\n≪防壁≫（このデジモンがバトルで消滅するとき、自分のセキュリティを上から1枚破棄することで、消滅しない）\n"
+}

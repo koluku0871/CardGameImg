@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT6-048",
+  "PackNo": "BT6",
+  "CardName": "パラサウモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "恐竜型"
+}

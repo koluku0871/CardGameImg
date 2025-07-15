@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT10-047",
+  "PackNo": "BT10",
+  "CardName": "レッドベジーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／1"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "植物型"
+}

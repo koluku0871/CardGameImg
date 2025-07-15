@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-053",
+  "PackNo": "BT10",
+  "CardName": "アヤタラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分のデジモンが効果でレストしたとき、メモリー+1。\n"
+}

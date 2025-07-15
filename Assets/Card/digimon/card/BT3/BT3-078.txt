@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-078",
+  "PackNo": "BT3",
+  "CardName": "シャーマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "鬼人型"
+}

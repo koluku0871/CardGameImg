@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-013",
+  "PackNo": "BT15",
+  "CardName": "バードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "巨鳥型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］相手のセキュリティが減ったとき、メモリー+1。\n"
+}

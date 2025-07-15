@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-061",
+  "PackNo": "BT8",
+  "CardName": "サンダーボールモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "突然変異型",
+  "Text": "[効果]\nこのカード/デジモンの名称は「マメモン」としても扱う。\n"
+}

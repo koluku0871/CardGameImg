@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX6-026",
+  "PackNo": "EX6",
+  "CardName": "チョ・ハッカイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黄黒／4"
+  ],
+  "Element": "黄黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]相手のターン終了まで、デジモン1体に≪Sアタック-1≫を与えることができる。\n"
+}

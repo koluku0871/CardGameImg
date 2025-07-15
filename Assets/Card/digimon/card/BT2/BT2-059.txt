@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-059",
+  "PackNo": "BT2",
+  "CardName": "クリサリモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "不明",
+  "CardSubType": "種族不明",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンと同じ名称の他の自分のデジモンが登場したとき、メモリーを+1する。\n"
+}

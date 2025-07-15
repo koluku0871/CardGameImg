@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT1-007_P1",
+  "PackNo": "BT1",
+  "CardName": "タネモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "球根型",
+  "Text": "[進化元効果]\n【アタック時】このターンに自分がデジモンを1回以上進化させていたなら、このターンの間、このデジモンをDP+1000。\n"
+}

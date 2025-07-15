@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-026",
+  "PackNo": "BT17",
+  "CardName": "ベオウルフモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 青黄／4"
+  ],
+  "Element": "青黄",
+  "Cost": "8",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "戦士型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが特徴に「ハイブリッド体」/「十闘士」を持つなら、Lv.4以下の相手のデジモン1体を手札に戻す。\n"
+}

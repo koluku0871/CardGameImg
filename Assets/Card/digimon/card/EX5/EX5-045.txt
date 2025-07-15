@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX5-045",
+  "PackNo": "EX5",
+  "CardName": "チューモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黒黄／1"
+  ],
+  "Element": "黒黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【消滅時】このデジモンが名称に「スカモン」/「エテモン」を含んでいたなら、自分のトラッシュから、「チューモン」1枚をコストを支払わずにレスト状態で登場できる。\n"
+}

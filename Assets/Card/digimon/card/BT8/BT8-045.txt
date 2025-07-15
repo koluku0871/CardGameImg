@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT8-045",
+  "PackNo": "BT8",
+  "CardName": "エカキモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "突然変異型"
+}

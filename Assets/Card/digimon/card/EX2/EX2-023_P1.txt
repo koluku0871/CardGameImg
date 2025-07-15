@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX2-023_P1",
+  "PackNo": "EX2",
+  "CardName": "タオモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分が使用コスト2以上のオプションカードを使用したとき、このターンの間、相手のデジモン1体をDP-2000。\n"
+}

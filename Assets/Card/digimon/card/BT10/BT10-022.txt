@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT10-022",
+  "PackNo": "BT10",
+  "CardName": "ブラキモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 青黒／3"
+  ],
+  "Element": "青黒",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "首長竜型"
+}

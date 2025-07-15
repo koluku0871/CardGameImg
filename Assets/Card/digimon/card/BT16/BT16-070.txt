@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-070",
+  "PackNo": "BT16",
+  "CardName": "セトモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／3"
+  ],
+  "Element": "紫赤",
+  "Cost": "5",
+  "CardCategory": "アーマー体",
+  "CardType": "フリー",
+  "CardSubType": "魔獣型",
+  "Text": "[効果]\n≪アーマー解除≫【進化時】【アタック時】自分のデジモン1体を選べる。そのデジモンのDP以下の相手のデジモン1体と選んだ自分のデジモンを消滅させる。\n"
+}

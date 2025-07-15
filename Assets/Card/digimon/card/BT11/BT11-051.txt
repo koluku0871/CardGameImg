@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT11-051",
+  "PackNo": "BT11",
+  "CardName": "オーガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "鬼人型"
+}

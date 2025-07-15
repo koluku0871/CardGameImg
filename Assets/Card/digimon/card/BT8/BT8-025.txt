@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-025",
+  "PackNo": "BT8",
+  "CardName": "フックモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青黒／2"
+  ],
+  "Element": "青黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【アタック時】相手のデジモン1体の進化元を、下から1枚破棄する。\n"
+}

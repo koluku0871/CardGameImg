@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-044",
+  "PackNo": "BT18",
+  "CardName": "ファンビーモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 緑黒／1"
+  ],
+  "Element": "緑黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "昆虫型/X抗体/ローヤルベース",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンをDP+1000。\n"
+}

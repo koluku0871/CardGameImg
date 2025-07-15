@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT16-003",
+  "PackNo": "BT16",
+  "CardName": "ウパモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黄",
+  "CardCategory": "幼年期",
+  "CardSubType": "両生類型",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンが2色以上の間、このデジモンは≪ブロッカー≫を得る。\n"
+}

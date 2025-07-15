@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-039",
+  "PackNo": "BT19",
+  "CardName": "スカルバルキモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黄紫／4"
+  ],
+  "Element": "黄紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "アンデッド型/X抗体",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]自分のセキュリティが減ったとき、このデジモンをアクティブにできる。\n"
+}

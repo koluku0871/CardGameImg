@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-057",
+  "PackNo": "P",
+  "CardName": "ティラノモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがLv.6以上の間、このデジモンのDPを+2000する。\n"
+}

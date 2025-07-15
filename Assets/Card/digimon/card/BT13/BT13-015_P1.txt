@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-015_P1",
+  "PackNo": "BT13",
+  "CardName": "ライズグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤黄／4"
+  ],
+  "Element": "赤黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]赤/黄の自分のテイマーが消滅したとき、自分のトラッシュから、「大門大」1枚をセキュリティの上に置く。\n"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT9-022",
+  "PackNo": "BT9",
+  "CardName": "エビドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "水棲型"
+}

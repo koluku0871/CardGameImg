@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-012",
+  "PackNo": "EX1",
+  "CardName": "ゴマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "海獣型",
+  "Text": "[効果]\n【登場時】相手のデジモン1体の進化元を、下から1枚破棄する。\n"
+}

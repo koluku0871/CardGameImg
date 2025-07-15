@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-014",
+  "PackNo": "BT6",
+  "CardName": "アシュラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "魔人型",
+  "Text": "[効果]\n【進化時】≪進撃≫（メモリーが相手側の1以上のとき、このデジモンはアタックできる）\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT10-104",
+  "PackNo": "BT10",
+  "CardName": "不死身の王者",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒紫",
+  "Cost": "0",
+  "CardSubType": "トワイライト",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

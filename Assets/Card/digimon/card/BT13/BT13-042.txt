@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-042",
+  "PackNo": "BT13",
+  "CardName": "ビショップチェスモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黄黒／4"
+  ],
+  "Element": "黄黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n≪再起動≫（相手のアクティブフェイズに、このデジモンをアクティブにする）\n"
+}

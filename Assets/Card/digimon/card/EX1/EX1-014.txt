@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-014",
+  "PackNo": "EX1",
+  "CardName": "エクスブイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青緑／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "フリー",
+  "CardSubType": "幻竜型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「インペリアルドラモン」を含むか特徴に「フリー」を持つ間、このデジモンは≪ジャミング≫を得る。\n"
+}

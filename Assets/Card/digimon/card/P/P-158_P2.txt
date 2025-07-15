@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "P-158_P2",
+  "PackNo": "P",
+  "CardName": "偽ジュリ",
+  "CardRarity": "P",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "4",
+  "CardSubType": "デ・リーパー",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

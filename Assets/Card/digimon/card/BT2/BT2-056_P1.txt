@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT2-056_P1",
+  "PackNo": "BT2",
+  "CardName": "ヌメモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／1"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "軟体型"
+}

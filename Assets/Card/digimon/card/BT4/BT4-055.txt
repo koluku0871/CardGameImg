@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-055",
+  "PackNo": "BT4",
+  "CardName": "レオモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[効果]\n【進化時】DP3000以下の相手のデジモン1体をレストさせる。\n"
+}

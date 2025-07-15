@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-040",
+  "PackNo": "EX4",
+  "CardName": "スカルナイトモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒青／3"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型/トワイライト",
+  "Text": "[進化元効果]\n≪再起動≫（相手のアクティブフェイズに、このデジモンをアクティブにする）\n"
+}

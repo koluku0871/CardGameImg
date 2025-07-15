@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-075",
+  "PackNo": "BT18",
+  "CardName": "レオルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫黄／1"
+  ],
+  "Element": "紫黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

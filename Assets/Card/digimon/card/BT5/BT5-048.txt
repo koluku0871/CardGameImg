@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT5-048",
+  "PackNo": "BT5",
+  "CardName": "フローラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型"
+}

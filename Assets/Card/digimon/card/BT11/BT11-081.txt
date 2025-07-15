@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-081",
+  "PackNo": "BT11",
+  "CardName": "マッドレオモン：アームドモード",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型/バグラ軍",
+  "Text": "[進化元効果]\n【相手のターン】このカードが効果で進化元から破棄されたとき、メモリー+1。\n"
+}

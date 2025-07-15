@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-030",
+  "PackNo": "BT9",
+  "CardName": "メタルピラニモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "C",
+  "Lv": [
+    "LV5 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "水棲型/X抗体",
+  "Text": "[効果]\n【アタック時】このデジモンの進化元から、名称に「ピラニモン」を含むデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

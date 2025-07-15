@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-046_P1",
+  "PackNo": "BT10",
+  "CardName": "パルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から4枚オープンする。その中の特徴に「植物型」を含むカードと特徴に「妖精型」を持つカード1枚ずつを手札に加える。残りはデッキの下に戻す。\n"
+}

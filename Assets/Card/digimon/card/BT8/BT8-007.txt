@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT8-007",
+  "PackNo": "BT8",
+  "CardName": "ガジモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "哺乳類型"
+}

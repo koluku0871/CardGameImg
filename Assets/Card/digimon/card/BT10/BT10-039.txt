@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-039",
+  "PackNo": "BT10",
+  "CardName": "タオモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "魔人型",
+  "Text": "[効果]\n【進化時】自分の手札から、名称に「プラグイン」を含むオプションカード1枚を色条件を無視してコストを支払わずに使用できる。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT13-006",
+  "PackNo": "BT13",
+  "CardName": "カプリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【消滅時】自分の手札を1枚破棄することで、Lv.3の相手のデジモン1体を消滅させる。\n"
+}

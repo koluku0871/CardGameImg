@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT11-021",
+  "PackNo": "BT11",
+  "CardName": "スノーゴブリモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "鬼人型"
+}

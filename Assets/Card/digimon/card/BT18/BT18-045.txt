@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-045",
+  "PackNo": "BT18",
+  "CardName": "ポームモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型",
+  "Text": "[効果]\n【お互いのターン】このデジモンがレスト状態の間、他の自分のデジモン全てをDP+1000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-038_P1",
+  "PackNo": "EX7",
+  "CardName": "ゴツモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黒緑／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "鉱石型/NSp",
+  "Text": "[進化元効果]\n≪再起動≫（このデジモンは相手のアクティブフェイズでもアクティブになる）\n"
+}

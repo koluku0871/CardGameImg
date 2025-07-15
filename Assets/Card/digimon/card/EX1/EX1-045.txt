@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-045",
+  "PackNo": "EX1",
+  "CardName": "ハグルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "マシーン型",
+  "Text": "[効果]\n【登場時】自分の手札から、特徴に「マシーン型」か「サイボーグ型」を持つデジモンカード1枚を破棄することで、≪2ドロー≫（自分のデッキからカードを2枚引く）。\n"
+}

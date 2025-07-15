@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-017_P1",
+  "PackNo": "BT2",
+  "CardName": "メガログラウモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】相手のトラッシュが5枚以上の間、このデジモンのDPを+1000する。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT19-087_P1",
+  "PackNo": "BT19",
+  "CardName": "天野ネネ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "4",
+  "CardSubType": "ジェネラル/トワイライト",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT5-004",
+  "PackNo": "BT5",
+  "CardName": "ピョコモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "球根型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが発揮した≪デジバースト≫でこのカードが破棄されたとき、このターンの間、自分のデジモン1体のDPを+2000する。\n"
+}

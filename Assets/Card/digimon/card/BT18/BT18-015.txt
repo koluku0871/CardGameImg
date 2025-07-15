@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-015",
+  "PackNo": "BT18",
+  "CardName": "キメラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 赤紫／4"
+  ],
+  "Element": "赤紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "合成型",
+  "Text": "[進化元効果]\n≪Sアタック+1≫（このデジモンがチェックする枚数+1）\n"
+}

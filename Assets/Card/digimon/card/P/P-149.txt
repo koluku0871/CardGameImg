@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "P-149",
+  "PackNo": "P",
+  "CardName": "ミノモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "P",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "幼虫型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが多色なら、自分の手札1枚を破棄することで、Lv.3の相手のデジモン1体を消滅させる。\n"
+}

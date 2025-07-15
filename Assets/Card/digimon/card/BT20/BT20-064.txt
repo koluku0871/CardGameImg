@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-064",
+  "PackNo": "BT20",
+  "CardName": "ルガモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤黄／1"
+  ],
+  "Element": "紫赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型/X抗体/SoC/シーカーズ",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

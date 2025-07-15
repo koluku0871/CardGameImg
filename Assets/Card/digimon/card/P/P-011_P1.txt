@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-011_P1",
+  "PackNo": "P",
+  "CardName": "ブイドラモンゼロ",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "幻竜型",
+  "Text": "[進化元効果]\n【アタック時】自分のトラッシュからデジタマカード以外のカード3枚を好きな順番でデッキの下に戻すことで、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

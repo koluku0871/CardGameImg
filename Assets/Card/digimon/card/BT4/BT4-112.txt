@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT4-112",
+  "PackNo": "BT4",
+  "CardName": "ヘルズゲート",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "6",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

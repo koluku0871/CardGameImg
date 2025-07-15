@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-023_P1",
+  "PackNo": "BT18",
+  "CardName": "ラーナモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "妖精型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]Lv.3のデジモン1体を手札に戻せる。\n"
+}

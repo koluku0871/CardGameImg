@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-085",
+  "PackNo": "BT11",
+  "CardName": "ワルシードラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫青／4"
+  ],
+  "Element": "紫青",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "水棲型",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］効果で自分のデジモンが登場したとき、メモリー+1。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT12-006",
+  "PackNo": "BT12",
+  "CardName": "モニモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "ブラウン型",
+  "Text": "[進化元効果]\n【消滅時】このデジモンに≪セーブ≫の記述があるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

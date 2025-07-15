@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT12-100",
+  "PackNo": "BT12",
+  "CardName": "ファイナルクロスブレード",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "9",
+  "CardSubType": "クロスハート",
+  "Text": "[セキュリティ効果]\n【セキュリティ】相手のデジモン1体を消滅させる。\n"
+}

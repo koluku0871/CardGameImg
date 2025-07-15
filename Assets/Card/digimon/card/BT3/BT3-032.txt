@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-032",
+  "PackNo": "BT3",
+  "CardName": "アルマジモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "哺乳類型"
+}

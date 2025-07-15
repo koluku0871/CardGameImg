@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-115_P1",
+  "PackNo": "BT1",
+  "CardName": "ブイドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "SEC",
+  "Lv": [
+    "LV3 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "幻竜型",
+  "Text": "[進化元効果]\n【お互いのターン】青の自分のテイマーがいる間、このデジモンのDPを+1000する。\n"
+}

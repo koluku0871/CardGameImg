@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-138",
+  "PackNo": "P",
+  "CardName": "ブイドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "幻竜型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]このデジモンがアクティブになったとき、メモリー+1。\n"
+}

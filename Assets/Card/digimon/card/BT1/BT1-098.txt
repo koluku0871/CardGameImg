@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT1-098",
+  "PackNo": "BT1",
+  "CardName": "ブイブレスアロー",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

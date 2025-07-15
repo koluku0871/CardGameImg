@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT5-006",
+  "PackNo": "BT5",
+  "CardName": "ギギモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］他の自分のデジモンが消滅したとき、このターンの間、このデジモンのDPを+2000する。\n"
+}

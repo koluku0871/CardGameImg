@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-072",
+  "PackNo": "BT21",
+  "CardName": "アレスタードラモン：スペリオルモード",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫赤／4"
+  ],
+  "Element": "紫赤",
+  "Cost": "9",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "竜型/ヒーロー",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

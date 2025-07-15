@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-025_P1",
+  "PackNo": "BT3",
+  "CardName": "エクスブイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "フリー",
+  "CardSubType": "幻竜型",
+  "Text": "[効果]\n【進化時】Lv.4以下の自分のデジモン1体をアクティブにする。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-036",
+  "PackNo": "EX4",
+  "CardName": "ブラックラピッドモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 緑黒／4"
+  ],
+  "Element": "緑黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］他のデジモンが効果でレストしたとき、このターンの間、このデジモンは≪貫通≫を得る。\n"
+}

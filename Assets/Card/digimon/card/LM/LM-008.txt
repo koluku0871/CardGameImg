@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "LM-008",
+  "PackNo": "LM",
+  "CardName": "アンゴラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンに「アンゴラモン」の記述がある間、このデジモンをDP+2000。\n"
+}

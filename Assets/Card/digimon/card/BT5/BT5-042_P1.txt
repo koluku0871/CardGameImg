@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-042_P1",
+  "PackNo": "BT5",
+  "CardName": "ナイトモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "戦士型",
+  "Text": "[効果]\n【登場時】このターンの間、相手のデジモン1体のDPを-4000する。\n"
+}

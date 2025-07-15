@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-007",
+  "PackNo": "BT6",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが「アグモン-勇気の絆-」の間、このデジモンは≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）を得る。\n"
+}

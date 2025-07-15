@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-023",
+  "PackNo": "BT1",
+  "CardName": "スカルグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型",
+  "Text": "[効果]\n【登場時】≪ブロッカー≫を持つ相手のデジモン1体を消滅させる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-061_P1",
+  "PackNo": "BT5",
+  "CardName": "コマンドラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/D-ブリガード",
+  "Text": "[効果]\n≪ブロッカー≫\n"
+}

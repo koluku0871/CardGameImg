@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-025",
+  "PackNo": "BT14",
+  "CardName": "シェルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "軟体型",
+  "Text": "[効果]\n≪回避≫（このデジモンが消滅するとき、このデジモンをレストさせることで、消滅しない)\n"
+}

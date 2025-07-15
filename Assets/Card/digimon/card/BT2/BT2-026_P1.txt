@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-026_P1",
+  "PackNo": "BT2",
+  "CardName": "ブイドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "幻竜型",
+  "Text": "[効果]\n【自分のターン】青の自分のテイマーがいる間、このデジモンは≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）を得る。\n"
+}

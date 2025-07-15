@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "RB1-026",
+  "PackNo": "RB1",
+  "CardName": "エスピモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【相手のターン】テイマーがいる間、このデジモンをDP+2000。\n"
+}

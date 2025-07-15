@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX6-068",
+  "PackNo": "EX6",
+  "CardName": "三大天使降臨",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "5",
+  "CardSubType": "三大天使",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

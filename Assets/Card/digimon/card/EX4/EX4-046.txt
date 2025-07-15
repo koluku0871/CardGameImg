@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-046",
+  "PackNo": "EX4",
+  "CardName": "ワーガルルモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンをレストさせることでアタックの対象をこのデジモンにする）\n"
+}

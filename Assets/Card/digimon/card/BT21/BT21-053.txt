@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-053",
+  "PackNo": "BT21",
+  "CardName": "ウォッチモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "並/アプモン",
+  "CardType": "ツール",
+  "CardSubType": "時計",
+  "Text": "[効果]\n【登場時】相手のターン終了まで、相手のデジモン1体はプレイヤーにアタックできない。\n"
+}

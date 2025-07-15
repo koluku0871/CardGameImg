@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST21-10",
+  "PackNo": "ST21",
+  "CardName": "ガブモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 紫青／"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "爬虫類型/アドベンチャー",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]≪1ドロー≫（自分のデッキからカードを1枚引く）。その後、自分の手札1枚を破棄する。\n"
+}

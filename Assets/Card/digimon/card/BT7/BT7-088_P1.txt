@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT7-088_P1",
+  "PackNo": "BT7",
+  "CardName": "織本泉",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "3",
+  "Text": "[進化元効果]\n【相手のターン】自分のセキュリティデジモン全てのDPを+3000する。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-010",
+  "PackNo": "BT13",
+  "CardName": "ピヨモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "ヒナ鳥型",
+  "Text": "[進化元効果]\n【消滅時】≪1ドロー≫（自分のデッキからカードを1枚引く）\n"
+}

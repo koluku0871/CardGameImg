@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT12-005",
+  "PackNo": "BT12",
+  "CardName": "コゼニモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］≪セーブ≫の記述がある自分のデジモンが登場したとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-033_P1",
+  "PackNo": "BT6",
+  "CardName": "パルスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【自分のターン】自分のセキュリティが3枚の間、このデジモンは、≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）を得る。\n"
+}

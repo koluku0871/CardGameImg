@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-009",
+  "PackNo": "BT13",
+  "CardName": "ハックモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "小竜型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］名称に「シスタモン」を含む自分のデジモンが登場したとき、メモリー+1。\n"
+}

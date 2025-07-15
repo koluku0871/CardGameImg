@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-052",
+  "PackNo": "BT13",
+  "CardName": "ジンバーアンゴラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【お互いのターン】アクティブ状態の相手のデジモンがいない間、このデジモンをDP+1000。\n"
+}

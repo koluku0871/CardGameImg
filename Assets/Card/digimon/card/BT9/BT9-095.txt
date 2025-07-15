@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT9-095",
+  "PackNo": "BT9",
+  "CardName": "ガイアフォースZERO",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "8",
+  "Text": "[セキュリティ効果]\n【セキュリティ】相手のデジモン1体を消滅させる。\n"
+}

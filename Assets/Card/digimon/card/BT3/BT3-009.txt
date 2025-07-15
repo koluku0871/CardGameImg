@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-009",
+  "PackNo": "BT3",
+  "CardName": "ホークモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "鳥型"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT6-106",
+  "PackNo": "BT6",
+  "CardName": "鉄拳制裁",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "8",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードの【メイン】効果を発揮する。\n"
+}

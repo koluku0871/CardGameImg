@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-010_P1",
+  "PackNo": "BT4",
+  "CardName": "フーガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／1"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "鬼人型"
+}

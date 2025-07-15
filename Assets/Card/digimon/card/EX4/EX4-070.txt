@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "EX4-070",
+  "PackNo": "EX4",
+  "CardName": "汚れた英雄",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "3",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

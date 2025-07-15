@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-049",
+  "PackNo": "BT12",
+  "CardName": "ヤキイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "植物型",
+  "Text": "[効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンをレストさせることでアタックの対象をこのデジモンにする）\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST4-06",
+  "PackNo": "ST4",
+  "CardName": "トゲモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "植物型",
+  "Text": "[進化元効果]\n【アタック時】相手のデジモンにアタックしたとき、このターンの間、このデジモンのDPを+2000する。\n"
+}

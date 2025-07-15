@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-024_P1",
+  "PackNo": "EX4",
+  "CardName": "レナモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄青／1"
+  ],
+  "Element": "黄青",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分が使用コスト2以上のオプションカードを使用したとき、メモリー+1。\n"
+}

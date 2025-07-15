@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST10-01",
+  "PackNo": "ST10",
+  "CardName": "ニャロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】黄の自分のデジモンがいるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。そうしたとき、自分の手札を1枚破棄する。\n"
+}

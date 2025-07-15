@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT2-006",
+  "PackNo": "BT2",
+  "CardName": "ツメモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "種族不明",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンと同じ名称の他の自分のデジモンがいる間、このデジモンのDPを+2000する。\n"
+}

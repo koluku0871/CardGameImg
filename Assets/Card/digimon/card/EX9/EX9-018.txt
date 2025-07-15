@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-018",
+  "PackNo": "EX9",
+  "CardName": "メタルマメモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 青黒／4"
+  ],
+  "Element": "青黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型/DM/Ver.2",
+  "Text": "[進化元効果]\n【自分のターン終了時】[ターンに1回]自分のデジモン1体をアクティブにする。\n"
+}

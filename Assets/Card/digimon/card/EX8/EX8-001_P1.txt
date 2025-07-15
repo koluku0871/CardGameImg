@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX8-001_P1",
+  "PackNo": "EX8",
+  "CardName": "コロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/リベレイター",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが名称に「ティラノモン」を含むか特徴に「恐竜型」を持つなら、DP3000以下の相手のデジモン1体を消滅させる。\n"
+}

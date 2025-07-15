@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT13-005",
+  "PackNo": "BT13",
+  "CardName": "ドリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/X抗体",
+  "Text": "[進化元効果]\n【アタック時】このデジモンの進化元が4枚以上あるなら、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

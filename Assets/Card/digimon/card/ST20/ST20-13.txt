@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "ST20-13",
+  "PackNo": "ST20",
+  "CardName": "八神太一＆泉光子郎",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒緑",
+  "Cost": "3",
+  "CardSubType": "アドベンチャー",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

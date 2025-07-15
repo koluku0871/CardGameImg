@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-011",
+  "PackNo": "BT1",
+  "CardName": "アグモン博士",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[効果]\n【登場時】自分のトラッシュから、名称に「アグモン」を含むデジモンカード1枚を手札に戻す。\n"
+}

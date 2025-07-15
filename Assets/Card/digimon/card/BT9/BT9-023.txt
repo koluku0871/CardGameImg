@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-023",
+  "PackNo": "BT9",
+  "CardName": "カウスガンマモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "竜人型",
+  "Text": "[効果]\n【自分のターン】このデジモンはブロックされない。\n"
+}

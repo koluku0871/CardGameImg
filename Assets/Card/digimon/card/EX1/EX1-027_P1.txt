@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-027_P1",
+  "PackNo": "EX1",
+  "CardName": "レオモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、自分のセキュリティが3枚以下のとき、≪リカバリー+1《デッキ》≫（自分のデッキの上からカードを1枚セキュリティの上に置く）。\n"
+}

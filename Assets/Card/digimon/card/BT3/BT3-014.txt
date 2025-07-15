@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-014",
+  "PackNo": "BT3",
+  "CardName": "シルフィーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 赤黄／3"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "獣人型",
+  "Text": "[効果]\n【進化時】このターンの間、Lv.4以下の相手のデジモン1体の元々のDPを1000に変更する。【自分のターン】このデジモンの色は黄としても扱う。\n"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT5-003",
+  "PackNo": "BT5",
+  "CardName": "ピックモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黄",
+  "CardCategory": "幼年期",
+  "CardSubType": "マイナー型",
+  "Text": "[進化元効果]\n【アタック時】自分のデジモンが3体以上いるとき、このターンの間、相手のデジモン1体のDPを-1000する。\n"
+}

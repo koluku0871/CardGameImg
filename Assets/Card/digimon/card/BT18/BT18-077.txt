@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-077",
+  "PackNo": "BT18",
+  "CardName": "カイザーレオモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 紫／4"
+  ],
+  "Element": "紫黄",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

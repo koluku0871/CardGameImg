@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-042",
+  "PackNo": "EX4",
+  "CardName": "ダークメイルドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黒青／3"
+  ],
+  "Element": "黒青",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[効果]\n【自分のターン】このデジモンと名称に「ナイトモン」か「ナイツモン」を含むデジモン全てはブロックされない。\n"
+}

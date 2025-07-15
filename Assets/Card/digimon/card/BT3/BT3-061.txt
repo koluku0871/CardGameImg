@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-061",
+  "PackNo": "BT3",
+  "CardName": "チューモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "獣型",
+  "Text": "[効果]\n【お互いのターン】相手はテイマーの効果以外でメモリーをプラスできない。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-018",
+  "PackNo": "BT21",
+  "CardName": "ドガッチモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 赤緑／3"
+  ],
+  "Element": "赤緑",
+  "Cost": "6",
+  "CardCategory": "超/アプモン",
+  "CardType": "ソーシャル",
+  "CardSubType": "超検索/ヒーロー",
+  "Text": "[効果]\n≪速攻≫≪突進≫【自分のターン】[ターンに1回]このデジモンがリンクしたとき、このデジモンでアタックできる。\n"
+}

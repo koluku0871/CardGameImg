@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT17-040_P1",
+  "PackNo": "BT17",
+  "CardName": "カヅチモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV5 : 黄緑／4"
+  ],
+  "Element": "黄緑",
+  "Cost": "12",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "神人型/AE社",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]自分のセキュリティが減ったとき、このデジモンが名称に「フェンリルガモン」を含むなら、ターン終了まで、相手のデジモン1体をDP-8000。\n"
+}

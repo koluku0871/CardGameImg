@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST12-05",
+  "PackNo": "ST12",
+  "CardName": "メラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／1"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "火炎型"
+}

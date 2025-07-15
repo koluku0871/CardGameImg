@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "EX5-052",
+  "PackNo": "EX5",
+  "CardName": "マクラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "聖獣型/デーヴァ",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンが特徴に「四聖獣」/「神獣型」を持つ間、このデジモンは≪ブロッカー≫を得る。\n"
+}

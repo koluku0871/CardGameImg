@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX3-069",
+  "PackNo": "EX3",
+  "CardName": "四大竜の試練",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "8",
+  "CardSubType": "四大竜",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT19-084_P1",
+  "PackNo": "BT19",
+  "CardName": "サイキヨ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "3",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

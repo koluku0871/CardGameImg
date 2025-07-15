@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT6-015",
+  "PackNo": "BT6",
+  "CardName": "セイバーハックモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］名称に「シスタモン」を含む自分のデジモンがいるとき、このデジモンをアクティブにする。\n"
+}

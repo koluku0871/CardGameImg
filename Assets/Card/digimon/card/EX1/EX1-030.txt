@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-030",
+  "PackNo": "EX1",
+  "CardName": "エンジェウーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "大天使型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分のセキュリティが増えたとき、このターンの間、相手のデジモン1体のDPを-2000する。\n"
+}

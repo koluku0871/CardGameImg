@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT21-080",
+  "PackNo": "BT21",
+  "CardName": "天ノ河宙",
+  "CardRarity": "SR",
+  "Lv": [],
+  "Element": "赤紫",
+  "Cost": "4",
+  "CardSubType": "ヒーロー",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

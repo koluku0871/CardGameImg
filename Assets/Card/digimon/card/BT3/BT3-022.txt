@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-022",
+  "PackNo": "BT3",
+  "CardName": "ペンモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／1"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥型"
+}

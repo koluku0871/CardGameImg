@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-050",
+  "PackNo": "BT16",
+  "CardName": "コマンドラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/D-ブリガード/デジ対",
+  "Text": "[進化元効果]\n【お互いのターン】特徴に「D-ブリガード」/「デジ対」を持つ他の自分のデジモン全てをDP+1000。\n"
+}

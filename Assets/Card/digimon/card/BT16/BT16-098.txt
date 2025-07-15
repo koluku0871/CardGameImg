@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT16-098",
+  "PackNo": "BT16",
+  "CardName": "ドルディーン",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "6",
+  "CardSubType": "X抗体",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードの【メイン】効果を発揮する。\n"
+}

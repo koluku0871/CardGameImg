@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT2-062",
+  "PackNo": "BT2",
+  "CardName": "インフェルモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "不明",
+  "CardSubType": "種族不明",
+  "Text": "[効果]\n【自分のターン】このデジモンが手札の「ディアボロモン」に進化するときに支払う進化コストを-1する。\n"
+}

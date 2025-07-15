@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-029",
+  "PackNo": "EX9",
+  "CardName": "ユニモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "幻獣型/DM/Ver.3",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

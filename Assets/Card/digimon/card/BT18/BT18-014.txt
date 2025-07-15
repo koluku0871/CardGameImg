@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-014",
+  "PackNo": "BT18",
+  "CardName": "ギガスモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "鉱物型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]DP3000以下の相手のデジモン1体を消滅させる。\n"
+}

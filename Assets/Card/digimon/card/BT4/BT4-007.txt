@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-007",
+  "PackNo": "BT4",
+  "CardName": "オタマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "両生類型"
+}

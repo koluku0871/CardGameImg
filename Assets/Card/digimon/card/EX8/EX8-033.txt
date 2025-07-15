@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-033",
+  "PackNo": "EX8",
+  "CardName": "パンプモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黄紫／4"
+  ],
+  "Element": "黄紫",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "パペット型/NSo",
+  "Text": "[進化元効果]\n【消滅時】≪リカバリー+1《デッキ》≫（自分のデッキの上から1枚をセキュリティの上に置く）\n"
+}

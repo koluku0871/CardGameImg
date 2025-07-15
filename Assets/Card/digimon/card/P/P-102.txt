@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-102",
+  "PackNo": "P",
+  "CardName": "スカルグレイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "P",
+  "Lv": [
+    "LV4 : 紫赤／4"
+  ],
+  "Element": "紫赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、紫か赤のLv.3のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

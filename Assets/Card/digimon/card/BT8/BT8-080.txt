@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-080",
+  "PackNo": "BT8",
+  "CardName": "ヴァンデモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "アンデッド型",
+  "Text": "[進化元効果]\n【消滅時】このデジモンが名称に「ヴァンデモン」を含んでいたとき、自分の手札かトラッシュから、「及川悠紀夫」1枚をコストを支払わずにレスト状態で登場できる。\n"
+}

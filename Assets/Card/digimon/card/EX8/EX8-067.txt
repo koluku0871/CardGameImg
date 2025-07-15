@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX8-067",
+  "PackNo": "EX8",
+  "CardName": "クローズ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "4",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

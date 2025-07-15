@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-024",
+  "PackNo": "EX8",
+  "CardName": "メガシードラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "水棲型/DS",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]他の自分のデジモン1体をこのデジモンの進化元の下に置くことで、このデジモンをアクティブにする。\n"
+}

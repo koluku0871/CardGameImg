@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-008_P1",
+  "PackNo": "BT8",
+  "CardName": "ガンマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "角竜型",
+  "Text": "[進化元効果]\n【アタック時】このデジモンがDP6000以上のとき、DP3000以下の相手のデジモン1体を消滅させる。\n"
+}

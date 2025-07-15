@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-009",
+  "PackNo": "BT9",
+  "CardName": "ギルモンX抗体",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔竜型/X抗体",
+  "Text": "[進化元効果]\n【自分のターン】自分の発揮するDP消滅効果の上限+1000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST9-05_P3",
+  "PackNo": "ST9",
+  "CardName": "パイルドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 青緑／4"
+  ],
+  "Element": "青緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "フリー",
+  "CardSubType": "竜人型",
+  "Text": "[効果]\n【進化時】ジョグレス進化していたなら、DP6000以下の相手のデジモン1体をデッキの下に戻す。【アタック時】[ターンに1回]このデジモンをアクティブにする。\n"
+}

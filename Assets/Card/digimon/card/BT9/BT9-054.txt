@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-054",
+  "PackNo": "BT9",
+  "CardName": "フウジンモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "U",
+  "Lv": [
+    "LV5 : 緑黒／3"
+  ],
+  "Element": "緑黒",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【アタック時】DP5000以下の相手のデジモン1体をレストさせる。次の相手のアクティブフェイズでは、そのデジモンはアクティブにならない。\n"
+}

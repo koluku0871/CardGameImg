@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "BT2-074_P1",
+  "PackNo": "BT2",
+  "CardName": "デビモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型",
+  "Text": "[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

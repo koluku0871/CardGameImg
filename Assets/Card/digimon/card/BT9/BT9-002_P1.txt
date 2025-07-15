@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT9-002_P1",
+  "PackNo": "BT9",
+  "CardName": "プヨヨモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]効果で自分の手札が増えたとき、このターンの間、このデジモンをDP+1000。\n"
+}

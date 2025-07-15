@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-061",
+  "PackNo": "BT19",
+  "CardName": "ラプタースパロウモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 黒紫／3"
+  ],
+  "Element": "黒紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型/クロスハート",
+  "Text": "[進化元効果]\n【自分のターン】特徴に「クロスハート」を持つこのデジモンは≪衝突≫を得る。\n"
+}

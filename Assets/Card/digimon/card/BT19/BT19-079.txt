@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT19-079",
+  "PackNo": "BT19",
+  "CardName": "工藤タイキ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "4",
+  "CardSubType": "ジェネラル/クロスハート",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

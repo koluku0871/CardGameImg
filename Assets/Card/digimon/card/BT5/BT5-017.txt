@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-017",
+  "PackNo": "BT5",
+  "CardName": "ジークグレイモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "U",
+  "Lv": [
+    "LV5 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "12",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが≪進撃≫でアタックするとき、アクティブ状態の相手のデジモンにもアタックできる。\n"
+}

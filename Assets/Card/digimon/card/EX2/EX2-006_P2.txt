@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX2-006_P2",
+  "PackNo": "EX2",
+  "CardName": "ヤーモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】自分のトラッシュが10枚以上の間、このデジモンをDP+2000。\n"
+}

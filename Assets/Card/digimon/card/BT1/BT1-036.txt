@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-036",
+  "PackNo": "BT1",
+  "CardName": "ガルルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型",
+  "Text": "[効果]\n【登場時】自分のデジモン1体をアクティブにする。\n"
+}

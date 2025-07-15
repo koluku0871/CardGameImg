@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-038_P1",
+  "PackNo": "BT3",
+  "CardName": "アンティラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "聖獣型"
+}

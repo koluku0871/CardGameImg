@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT1-038",
+  "PackNo": "BT1",
+  "CardName": "もんざえモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "パペット型"
+}

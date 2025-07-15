@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-076",
+  "PackNo": "BT7",
+  "CardName": "オロチモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔竜型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］自分の手札を1枚破棄することで、メモリーを+1する。\n"
+}

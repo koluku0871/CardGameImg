@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT1-020",
+  "PackNo": "BT1",
+  "CardName": "グラウンドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "地竜型"
+}

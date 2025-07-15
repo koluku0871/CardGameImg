@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST2-08_P1",
+  "PackNo": "ST2",
+  "CardName": "ワーガルルモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 青／3"
+  ],
+  "Element": "青",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型",
+  "Text": "[進化元効果]\n【自分のターン】進化元を持たない相手のデジモンがいる間、このデジモンは≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）を得る。\n"
+}

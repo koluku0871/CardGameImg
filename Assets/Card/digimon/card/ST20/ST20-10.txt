@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST20-10",
+  "PackNo": "ST20",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黒赤／"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "爬虫類型/アドベンチャー/ヒーロー",
+  "Text": "[進化元効果]\n≪再起動≫（このデジモンは相手のアクティブフェイズでもアクティブになる）\n"
+}

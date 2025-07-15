@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "ST2-13_P2",
+  "PackNo": "ST2",
+  "CardName": "ハンマースパーク",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "0",
+  "Text": "[セキュリティ効果]\n【セキュリティ】メモリーを+2する。\n"
+}

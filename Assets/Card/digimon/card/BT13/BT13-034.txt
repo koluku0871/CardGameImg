@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-034",
+  "PackNo": "BT13",
+  "CardName": "クダモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］お互いのセキュリティ合計が6枚以下なら、このターンの間、相手のデジモン1体をDP-2000。\n"
+}

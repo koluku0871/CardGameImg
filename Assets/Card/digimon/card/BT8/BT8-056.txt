@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT8-056",
+  "PackNo": "BT8",
+  "CardName": "スピノモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "C",
+  "Lv": [
+    "LV5 : 緑赤／3"
+  ],
+  "Element": "緑赤",
+  "Cost": "10",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "恐竜型"
+}

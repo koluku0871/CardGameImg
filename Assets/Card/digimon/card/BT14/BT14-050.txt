@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-050",
+  "PackNo": "BT14",
+  "CardName": "ピッコロモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑／3"
+  ],
+  "Element": "緑",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "妖精型",
+  "Text": "[効果]\n【登場時】【進化時】相手のターン終了まで、相手のデジモン1体はアクティブにならない。\n"
+}

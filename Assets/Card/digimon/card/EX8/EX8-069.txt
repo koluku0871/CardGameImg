@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX8-069",
+  "PackNo": "EX8",
+  "CardName": "ネイチャースピリッツ",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "2",
+  "CardSubType": "NSp",
+  "Text": "[セキュリティ効果]\n【セキュリティ】自分の手札から、特徴に「NSp」を持つLv.5以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

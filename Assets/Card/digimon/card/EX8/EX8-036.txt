@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-036",
+  "PackNo": "EX8",
+  "CardName": "スカルマンモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "U",
+  "Lv": [
+    "LV5 : 黄紫／3"
+  ],
+  "Element": "黄紫",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "アンデッド型/NSo",
+  "Text": "[効果]\n【進化時】自分の手札/トラッシュから、特徴に「NSo」を持つ登場コスト5以下のデジモンカード1枚をコストを支払わずに登場できる。【消滅時】≪リカバリー+1《デッキ》≫\n"
+}

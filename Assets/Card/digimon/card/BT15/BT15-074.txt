@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-074",
+  "PackNo": "BT15",
+  "CardName": "ゲソモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "軟体型",
+  "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］効果で相手のデジモンが登場したとき、メモリー+1。\n"
+}

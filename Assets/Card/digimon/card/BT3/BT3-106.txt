@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT3-106",
+  "PackNo": "BT3",
+  "CardName": "獣狼大回転",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "3",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX5-064",
+  "PackNo": "EX5",
+  "CardName": "コウ＆サヨ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "赤",
+  "Cost": "4",
+  "CardSubType": "ライトファング",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

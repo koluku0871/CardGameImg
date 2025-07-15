@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-067",
+  "PackNo": "BT3",
+  "CardName": "タンクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／1"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型"
+}

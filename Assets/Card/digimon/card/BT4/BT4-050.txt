@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-050",
+  "PackNo": "BT4",
+  "CardName": "レオルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型"
+}

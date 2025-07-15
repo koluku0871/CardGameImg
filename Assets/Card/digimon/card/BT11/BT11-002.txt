@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT11-002",
+  "PackNo": "BT11",
+  "CardName": "ワニャモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］青の自分のテイマーがいるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

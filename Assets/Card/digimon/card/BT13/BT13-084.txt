@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-084",
+  "PackNo": "BT13",
+  "CardName": "アスタモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【相手のターン】［ターンに1回］自分の手札が破棄されたとき、自分のトラッシュから、紫のLv.4以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

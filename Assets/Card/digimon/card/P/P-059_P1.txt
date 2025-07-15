@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-059_P1",
+  "PackNo": "P",
+  "CardName": "ガンマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "角竜型",
+  "Text": "[進化元効果]\n【自分のターン】自分の「天ノ河宙」がいる間、このデジモンをDP+2000。\n"
+}

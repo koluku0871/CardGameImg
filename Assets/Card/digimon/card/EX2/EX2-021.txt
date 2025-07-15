@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX2-021",
+  "PackNo": "EX2",
+  "CardName": "キュウビモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "妖獣型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分が使用コスト2以上のオプションカードを使用したとき、このターンの間、相手のデジモン1体をDP-2000。\n"
+}

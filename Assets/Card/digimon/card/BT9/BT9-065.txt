@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-065",
+  "PackNo": "BT9",
+  "CardName": "メガドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒赤／4"
+  ],
+  "Element": "黒赤",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n【アタック時】このデジモンが特徴に「マシーン型」か「竜人型」を持つとき、登場コスト3以下の相手のデジモンかテイマー1体を消滅させる。\n"
+}

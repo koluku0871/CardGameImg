@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-038",
+  "PackNo": "BT20",
+  "CardName": "ファルコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑黄／1"
+  ],
+  "Element": "緑黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥型/アクセル",
+  "Text": "[進化元効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンを消滅させたとき、アタック終了前にチェックする）\n"
+}

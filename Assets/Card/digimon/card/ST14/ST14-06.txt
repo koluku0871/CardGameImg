@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST14-06",
+  "PackNo": "ST14",
+  "CardName": "ウィッチモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが特徴に「魔人型」か「魔王型」を持つ間、このデジモンをDP+2000。\n"
+}

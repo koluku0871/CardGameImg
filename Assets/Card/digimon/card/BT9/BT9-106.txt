@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT9-106",
+  "PackNo": "BT9",
+  "CardName": "デクスリューション！！",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "0",
+  "CardSubType": "X抗体",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

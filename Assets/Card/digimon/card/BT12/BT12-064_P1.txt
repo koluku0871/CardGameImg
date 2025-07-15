@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BT12-064_P1",
+  "PackNo": "BT12",
+  "CardName": "ツワーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／3",
+    "LV4 : 黒／1"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "突然変異型/クロスハート",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンに≪セーブ≫の記述がある間、このデジモンは≪ブロッカー≫を得る。\n"
+}

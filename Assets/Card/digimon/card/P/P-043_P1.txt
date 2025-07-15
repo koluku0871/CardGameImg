@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-043_P1",
+  "PackNo": "P",
+  "CardName": "クダモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型",
+  "Text": "[進化元効果]\n【消滅時】このターンの間、相手のデジモン1体をDP-1000。\n"
+}

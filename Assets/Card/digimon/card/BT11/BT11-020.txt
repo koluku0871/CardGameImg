@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-020",
+  "PackNo": "BT11",
+  "CardName": "ガオモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]自分のテイマーがいるとき、Lv.3の相手のデジモン1体を手札に戻す。\n"
+}

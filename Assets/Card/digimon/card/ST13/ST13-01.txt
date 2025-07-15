@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST13-01",
+  "PackNo": "ST13",
+  "CardName": "サクットモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "武器型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］効果で特徴に「Legend-Arms」を持つ他の自分のデジモンが登場したとき、メモリー+1。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-061_P1",
+  "PackNo": "BT16",
+  "CardName": "ドルグレモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒紫／4"
+  ],
+  "Element": "黒紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "獣竜型/X抗体/SoC",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンが他のデジモンを消滅させたとき、自分のトラッシュから、特徴に「X抗体」/「SoC」を持つ登場コスト5以下のカード1枚をコストを支払わずに登場できる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-072",
+  "PackNo": "BT20",
+  "CardName": "ファントモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "ゴースト型/リベレイター",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、特徴に「ゴースト型」を持つLv.4以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

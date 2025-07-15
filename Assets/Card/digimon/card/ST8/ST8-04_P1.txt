@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST8-04_P1",
+  "PackNo": "ST8",
+  "CardName": "ブイモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "小竜型",
+  "Text": "[進化元効果]\n【アタック時】自分の手札が7枚以下のとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

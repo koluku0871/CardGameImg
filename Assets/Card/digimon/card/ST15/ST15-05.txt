@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST15-05",
+  "PackNo": "ST15",
+  "CardName": "トイアグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "パペット型",
+  "Text": "[効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）【自分のターン】このデジモンがプレイヤーにアタックしたとき、メモリー-2。\n"
+}

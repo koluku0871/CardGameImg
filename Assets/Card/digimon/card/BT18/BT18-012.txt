@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-012",
+  "PackNo": "BT18",
+  "CardName": "グロットモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "鬼人型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]DP3000以下の相手のデジモン1体を消滅させる。\n"
+}

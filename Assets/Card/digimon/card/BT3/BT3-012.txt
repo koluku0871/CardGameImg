@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-012",
+  "PackNo": "BT3",
+  "CardName": "アクィラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "フリー",
+  "CardSubType": "巨鳥型",
+  "Text": "[進化元効果]\n【アタック時】DP2000以下の相手のデジモン1体を消滅させる。\n"
+}

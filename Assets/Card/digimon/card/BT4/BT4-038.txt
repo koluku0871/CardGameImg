@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-038",
+  "PackNo": "BT4",
+  "CardName": "ブシアグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "5",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[効果]\n≪速攻≫（このデジモンは登場したターンでもアタックできる）\n"
+}

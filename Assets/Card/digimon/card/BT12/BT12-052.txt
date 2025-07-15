@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT12-052",
+  "PackNo": "BT12",
+  "CardName": "ポテモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／1"
+  ],
+  "Element": "緑",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "食物型"
+}

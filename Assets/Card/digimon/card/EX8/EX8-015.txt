@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-015",
+  "PackNo": "EX8",
+  "CardName": "メガログラウモンX抗体",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤紫／4"
+  ],
+  "Element": "赤紫",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/X抗体",
+  "Text": "[進化元効果]\n≪Sアタック+1≫（このデジモンがチェックする枚数+1）\n"
+}

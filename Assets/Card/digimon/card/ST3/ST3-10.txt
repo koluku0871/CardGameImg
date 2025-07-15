@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST3-10",
+  "PackNo": "ST3",
+  "CardName": "ホーリードラモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "10",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖竜型/四大竜"
+}

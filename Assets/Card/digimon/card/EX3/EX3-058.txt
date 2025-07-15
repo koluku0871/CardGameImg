@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-058",
+  "PackNo": "EX3",
+  "CardName": "シェイドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫赤／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "アーマー体",
+  "CardType": "フリー",
+  "CardSubType": "昆虫型",
+  "Text": "[進化元効果]\n【自分のターン終了時】このデジモンと他の自分のデジモンで、手札のデジモンカードにコストを支払ってジョグレス進化できる。\n"
+}

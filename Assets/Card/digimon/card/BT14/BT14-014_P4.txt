@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-014_P4",
+  "PackNo": "BT14",
+  "CardName": "メタルグレイモンACE",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[効果]\n[手札]【カウンター】≪ブラスト進化≫（自分のデジモンをこのカードにコストを支払わずに進化できる）【登場時】【進化時】DP6000以下の相手のデジモン1体を消滅させる。\n"
+}

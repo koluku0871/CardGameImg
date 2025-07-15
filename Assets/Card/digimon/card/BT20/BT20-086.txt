@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT20-086",
+  "PackNo": "BT20",
+  "CardName": "アルテア",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "4",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

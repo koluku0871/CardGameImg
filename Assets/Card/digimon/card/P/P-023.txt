@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "P-023",
+  "PackNo": "P",
+  "CardName": "パタモンの告白",
+  "CardRarity": "P",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "0",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

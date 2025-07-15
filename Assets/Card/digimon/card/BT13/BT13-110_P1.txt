@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT13-110_P1",
+  "PackNo": "BT13",
+  "CardName": "粛清のロイヤルナイツ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "6",
+  "CardSubType": "ロイヤルナイツ",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-003",
+  "PackNo": "EX1",
+  "CardName": "バードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "巨鳥型",
+  "Text": "[進化元効果]\n【アタック時】プレイヤーにアタックしたとき、DP3000以下の相手のデジモン1体を消滅させる。\n"
+}

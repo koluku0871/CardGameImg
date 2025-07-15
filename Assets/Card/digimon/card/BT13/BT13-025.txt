@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-025",
+  "PackNo": "BT13",
+  "CardName": "ガオガモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【お互いのターン】相手の手札が8枚以上の間、このデジモンをDP+1000。\n"
+}

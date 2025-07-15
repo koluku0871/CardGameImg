@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST17-01",
+  "PackNo": "ST17",
+  "CardName": "グミモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］緑の自分のテイマーがいるなら、≪1ドロー≫。\n"
+}

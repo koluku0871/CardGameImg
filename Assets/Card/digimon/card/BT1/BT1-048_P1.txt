@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-048_P1",
+  "PackNo": "BT1",
+  "CardName": "パタモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "哺乳類型",
+  "Text": "[効果]\n【登場時】自分のデッキの上から4枚オープンする。その中の黄のテイマーカード全てを手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

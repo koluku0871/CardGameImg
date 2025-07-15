@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-050_P1",
+  "PackNo": "EX8",
+  "CardName": "ゴグマモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "鉱石型",
+  "Text": "[進化元効果]\n【相手のターン】[ターンに1回]相手のデジモンがアタックしたとき、アタックの対象をこのデジモンに変更できる。\n"
+}

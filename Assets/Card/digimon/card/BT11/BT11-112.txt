@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT11-112",
+  "PackNo": "BT11",
+  "CardName": "四ノ宮リナ",
+  "CardRarity": "SEC",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "3",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

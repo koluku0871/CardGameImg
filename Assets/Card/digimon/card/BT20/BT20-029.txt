@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-029",
+  "PackNo": "BT20",
+  "CardName": "パルスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫緑／1"
+  ],
+  "Element": "黄緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型/AE社/シーカーズ",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンがバトルで相手のデジモンを消滅させたとき、メモリー+1。\n"
+}

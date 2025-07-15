@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX3-009",
+  "PackNo": "EX3",
+  "CardName": "ヴォルクドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "竜型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが特徴に「竜」を含むとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

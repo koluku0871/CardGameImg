@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT16-005_P1",
+  "PackNo": "BT16",
+  "CardName": "ドリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/X抗体",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]≪ブロッカー≫を持つ他のデジモンが消滅したとき、メモリー+1。\n"
+}

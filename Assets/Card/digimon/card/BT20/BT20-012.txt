@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-012",
+  "PackNo": "BT20",
+  "CardName": "ギンリュウモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤黒／3"
+  ],
+  "Element": "赤黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣竜型/X抗体/クロニクル",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

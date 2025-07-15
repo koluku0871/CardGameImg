@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST12-09",
+  "PackNo": "ST12",
+  "CardName": "ボルケーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 赤黒／4"
+  ],
+  "Element": "赤黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "サイボーグ型",
+  "Text": "[進化元効果]\n≪セキュリティアタック+1≫（このデジモンがチェックする枚数+1）\n"
+}

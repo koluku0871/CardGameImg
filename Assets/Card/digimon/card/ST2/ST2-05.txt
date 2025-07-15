@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST2-05",
+  "PackNo": "ST2",
+  "CardName": "イッカクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "海獣型"
+}

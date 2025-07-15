@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT3-107",
+  "PackNo": "BT3",
+  "CardName": "あの頃はよかった",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "4",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

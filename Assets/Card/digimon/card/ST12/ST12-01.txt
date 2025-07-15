@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST12-01",
+  "PackNo": "ST12",
+  "CardName": "グリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】自分のデジモンが2体以上いる間、このデジモンをDP+1000。\n"
+}

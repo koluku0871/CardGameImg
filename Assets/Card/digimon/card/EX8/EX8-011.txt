@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-011",
+  "PackNo": "EX8",
+  "CardName": "ティラノモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 赤緑／3"
+  ],
+  "Element": "赤緑",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "恐竜型/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

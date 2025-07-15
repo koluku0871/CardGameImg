@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX8-066",
+  "PackNo": "EX8",
+  "CardName": "輝月涼音",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "3",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

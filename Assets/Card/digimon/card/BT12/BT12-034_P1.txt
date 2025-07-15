@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-034_P1",
+  "PackNo": "BT12",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄赤／1"
+  ],
+  "Element": "黄赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]黄/赤の自分のテイマーがレストしたとき、ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-081",
+  "PackNo": "BT3",
+  "CardName": "デビドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "邪竜型",
+  "Text": "[進化元効果]\n【消滅時】メモリーを+1する。\n"
+}

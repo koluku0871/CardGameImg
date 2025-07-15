@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-061",
+  "PackNo": "P",
+  "CardName": "ジェリーモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "軟体型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]自分の「東御手洗清司郎」がいるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

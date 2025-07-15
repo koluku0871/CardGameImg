@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX6-010",
+  "PackNo": "EX6",
+  "CardName": "デュランダモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 赤／4"
+  ],
+  "Element": "赤",
+  "Cost": "12",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖剣型/Legend-Arms",
+  "Text": "[進化元効果]\n≪貫通≫【自分のターン】このデジモンが「ラグナロードモン」の間、このデジモンがチェックしたカードの【セキュリティ】効果は発揮しない。\n"
+}

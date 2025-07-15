@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT15-039",
+  "PackNo": "BT15",
+  "CardName": "ボマーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "突然変異型",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンは、このデジモンの進化元にある名称に「ガンマモン」を含むカードの効果全てを得る。\n"
+}

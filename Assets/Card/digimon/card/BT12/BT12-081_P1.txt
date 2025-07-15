@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-081_P1",
+  "PackNo": "BT12",
+  "CardName": "アスタモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンに≪セーブ≫の記述があるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

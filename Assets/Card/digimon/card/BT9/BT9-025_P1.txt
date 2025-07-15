@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-025_P1",
+  "PackNo": "BT9",
+  "CardName": "テスラジェリーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "軟体型",
+  "Text": "[効果]\n【アタック終了時】[ターンに1回]自分の手札を2枚破棄することで、このデジモンをアクティブにする。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-007_P1",
+  "PackNo": "EX8",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤緑／1"
+  ],
+  "Element": "赤緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "爬虫類型/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

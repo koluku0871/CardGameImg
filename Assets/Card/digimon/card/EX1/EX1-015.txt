@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-015",
+  "PackNo": "EX1",
+  "CardName": "ガルルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］自分の手札から、登場コスト3以下の「石田ヤマト」1枚をコストを支払わずに登場できる。\n"
+}

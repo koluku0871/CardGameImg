@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-012",
+  "PackNo": "EX8",
+  "CardName": "グラウモンX抗体",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤紫／3"
+  ],
+  "Element": "赤紫",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔竜型/X抗体",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]相手のデジモンが消滅したとき、メモリー+1。\n"
+}

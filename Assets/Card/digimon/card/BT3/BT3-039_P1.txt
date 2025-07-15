@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-039_P1",
+  "PackNo": "BT3",
+  "CardName": "エンジェウーモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "大天使型",
+  "Text": "[進化元効果]\n【アタック時】自分のセキュリティが3枚以下のとき、自分の手札から、黄のLv.3のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

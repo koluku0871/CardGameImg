@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST4-05",
+  "PackNo": "ST4",
+  "CardName": "クネモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "幼虫型"
+}

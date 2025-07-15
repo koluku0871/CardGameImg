@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-038",
+  "PackNo": "EX4",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］他の自分のデジモンが進化したとき、メモリー+1。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX4-008",
+  "PackNo": "EX4",
+  "CardName": "ブラックグラウモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤紫／3"
+  ],
+  "Element": "赤紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔竜型",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、「ギルモン」か名称に「グラウモン」か「デュークモン」を含むカード1枚を手札に戻せる。\n"
+}

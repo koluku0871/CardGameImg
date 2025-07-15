@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT11-104",
+  "PackNo": "BT11",
+  "CardName": "バスターダイブ",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "4",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

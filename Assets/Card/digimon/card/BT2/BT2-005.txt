@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT2-005",
+  "PackNo": "BT2",
+  "CardName": "カプリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが≪再起動≫を持つ間、このデジモンのDPを+1000する。\n"
+}

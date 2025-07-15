@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "P-116",
+  "PackNo": "P",
+  "CardName": "DIGIMONCON2023",
+  "CardRarity": "P",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "2",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードの【メイン】効果を発揮する。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-008",
+  "PackNo": "BT20",
+  "CardName": "ハックモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "小竜型",
+  "Text": "[進化元効果]\n【自分のターン】自分のデジモン全てをDP+1000。\n"
+}

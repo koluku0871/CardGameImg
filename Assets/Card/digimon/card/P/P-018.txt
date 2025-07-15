@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-018",
+  "PackNo": "P",
+  "CardName": "デビモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型",
+  "Text": "[効果]\n【登場時】Lv.3の相手のデジモン1体を消滅させる。\n"
+}

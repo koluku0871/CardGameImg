@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST2-07_P1",
+  "PackNo": "ST2",
+  "CardName": "グリズモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣形",
+  "Text": "[効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンがアクティブ状態ならレストさせることでアタックの対象をこのデジモンにする）【アタック時】メモリーを-2する。\n"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT5-027",
+  "PackNo": "BT5",
+  "CardName": "マリンデビモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "水棲獣人型"
+}

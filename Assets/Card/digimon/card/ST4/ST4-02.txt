@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST4-02",
+  "PackNo": "ST4",
+  "CardName": "フローラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／1"
+  ],
+  "Element": "緑",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "植物型"
+}

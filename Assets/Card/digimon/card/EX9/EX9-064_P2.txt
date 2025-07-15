@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-064_P2",
+  "PackNo": "EX9",
+  "CardName": "メガドラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV4 : 紫黒／4"
+  ],
+  "Element": "紫黒",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/DM/Ver.4",
+  "Text": "[進化元効果]\n【アタック終了時】[ターンに1回]このデジモンをアクティブにすることで、最もLv.の低い自分のデジモン1体を消滅させる。\n"
+}

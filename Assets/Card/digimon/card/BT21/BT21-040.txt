@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-040",
+  "PackNo": "BT21",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黄赤／1"
+  ],
+  "Element": "黄赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型/ヒーロー",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

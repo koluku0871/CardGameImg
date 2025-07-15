@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-041",
+  "PackNo": "BT18",
+  "CardName": "メタルエテモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "U",
+  "Lv": [
+    "LV5 : 黄黒／3"
+  ],
+  "Element": "黄黒",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/NSp",
+  "Text": "[効果]\n【登場時】【進化時】【消滅時】相手のターン終了まで、相手のデジモン1体に≪Sアタック-2≫を与える。その後、相手のデジモン1体を≪退化1≫。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-018",
+  "PackNo": "BT20",
+  "CardName": "オウリュウモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 赤黒／3"
+  ],
+  "Element": "赤黒",
+  "Cost": "12",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣竜型/X抗体/クロニクル",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが「アルファモン：王竜剣」なら、相手のセキュリティを上から1枚破棄する。\n"
+}

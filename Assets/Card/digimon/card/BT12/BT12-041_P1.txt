@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-041_P1",
+  "PackNo": "BT12",
+  "CardName": "チョ・ハッカイモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンに≪セーブ≫の記述があるとき、このターンの間、相手のデジモン1体をDP-2000。\n"
+}

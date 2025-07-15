@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST7-02_P1",
+  "PackNo": "ST7",
+  "CardName": "アグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Element": "赤",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【アタック時】プレイヤーにアタックしたとき、このターンの間、このデジモンをDP+2000。\n"
+}

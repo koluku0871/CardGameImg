@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-043",
+  "PackNo": "BT14",
+  "CardName": "コドクグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "昆虫型",
+  "Text": "[効果]\n【登場時】自分のデジモン1体をレストさせることで、相手のデジモン1体をレストさせる。\n"
+}

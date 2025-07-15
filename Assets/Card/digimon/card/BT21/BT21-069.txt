@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT21-069",
+  "PackNo": "BT21",
+  "CardName": "グルスガンマモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫赤／3"
+  ],
+  "Element": "紫赤",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "竜人型",
+  "Text": "[進化元効果]\n≪道連れ≫（このデジモンだけがバトルで消滅したとき、バトルした相手のデジモンを消滅させる）\n"
+}

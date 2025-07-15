@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT8-002",
+  "PackNo": "BT8",
+  "CardName": "ヒヤリモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "Text": "[進化元効果]\n【お互いのターン】進化元を持つ相手のデジモンがいない間、このデジモンをDP+1000。\n"
+}

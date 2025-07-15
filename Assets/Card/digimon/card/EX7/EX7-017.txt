@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX7-017",
+  "PackNo": "EX7",
+  "CardName": "ユキアグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]相手のデジモン1体の進化元を上から1枚破棄する。\n"
+}

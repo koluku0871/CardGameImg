@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-018",
+  "PackNo": "BT4",
+  "CardName": "スピノモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "U",
+  "Lv": [
+    "LV5 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "10",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "恐竜型",
+  "Text": "[効果]\n【自分のターン】このデジモンのDPを+3000する。\n"
+}

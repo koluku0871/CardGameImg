@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX1-060",
+  "PackNo": "EX1",
+  "CardName": "レディーデビモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫／3"
+  ],
+  "Element": "紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分のトラッシュからデジモンが登場したとき、メモリーを+1する。\n"
+}

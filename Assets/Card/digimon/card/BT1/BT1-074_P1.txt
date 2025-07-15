@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT1-074_P1",
+  "PackNo": "BT1",
+  "CardName": "トゲモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "植物型",
+  "Text": "[効果]\n【進化時】自分のデッキの上から3枚オープンする。その中のLv.5以上のデジモンカード1枚を手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n"
+}

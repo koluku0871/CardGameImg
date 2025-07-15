@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT4-013",
+  "PackNo": "BT4",
+  "CardName": "ヴリトラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 赤／3"
+  ],
+  "Element": "赤",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "魔竜型",
+  "Text": "[効果]\n手札のこのカードは、赤の自分のテイマーを赤のLv.3のデジモンとして扱い進化できる。【自分のターン】このデジモンのDPを+3000する。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX9-069",
+  "PackNo": "EX9",
+  "CardName": "アナログの少年",
+  "CardRarity": "SR",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "3",
+  "CardSubType": "DM",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "EX9-067_P1",
+  "PackNo": "EX9",
+  "CardName": "城之崎観来",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "3",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

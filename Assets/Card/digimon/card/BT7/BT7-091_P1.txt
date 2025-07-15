@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT7-091_P1",
+  "PackNo": "BT7",
+  "CardName": "木村輝一",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "紫",
+  "Cost": "3",
+  "Text": "[進化元効果]\n【消滅時】メモリーを+1する。\n"
+}

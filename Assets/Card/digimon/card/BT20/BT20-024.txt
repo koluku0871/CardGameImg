@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT20-024",
+  "PackNo": "BT20",
+  "CardName": "シードラモンX抗体",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "水棲型/X抗体",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]自分の手札が7枚以下なら、≪1ドロー≫。\n"
+}

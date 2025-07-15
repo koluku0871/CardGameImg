@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-031",
+  "PackNo": "EX9",
+  "CardName": "エテモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "R",
+  "Lv": [
+    "LV4 : 黄／4"
+  ],
+  "Element": "黄",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型/DM/Ver.3",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]自分のセキュリティが減ったとき、ターン終了まで、相手のデジモン1体をDP-4000。\n"
+}

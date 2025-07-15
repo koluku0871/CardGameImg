@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT1-059",
+  "PackNo": "BT1",
+  "CardName": "ピッコロモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "妖精型"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT11-052",
+  "PackNo": "BT11",
+  "CardName": "ティラノモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 緑赤／3"
+  ],
+  "Element": "緑赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "恐竜型",
+  "Text": "[進化元効果]\n【自分のターン】自分のテイマーがいる間、このデジモンをDP+2000。\n"
+}

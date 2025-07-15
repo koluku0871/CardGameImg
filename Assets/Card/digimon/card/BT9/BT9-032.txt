@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT9-032",
+  "PackNo": "BT9",
+  "CardName": "トイアグモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "パペット型"
+}

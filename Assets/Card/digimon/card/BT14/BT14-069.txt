@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT14-069",
+  "PackNo": "BT14",
+  "CardName": "ガジモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "哺乳類型",
+  "Text": "[進化元効果]\n【消滅時】メモリー+1。\n"
+}

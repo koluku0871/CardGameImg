@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-044",
+  "PackNo": "BT19",
+  "CardName": "テリアモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]相手のデジモン1体をレストさせる。\n"
+}

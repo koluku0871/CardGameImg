@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-142",
+  "PackNo": "P",
+  "CardName": "ファルコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 紫緑／1"
+  ],
+  "Element": "紫緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥型",
+  "Text": "[進化元効果]\n【消滅時】バトル以外で消滅していたなら、相手は相手の手札を1枚破棄する。\n"
+}

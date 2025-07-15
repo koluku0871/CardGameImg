@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-025_P1",
+  "PackNo": "BT18",
+  "CardName": "ブリザーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "R",
+  "Lv": [
+    "LV3 : 青赤／4"
+  ],
+  "Element": "青赤",
+  "Cost": "6",
+  "CardCategory": "ハイブリッド体",
+  "CardType": "ヴァリアブル種",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n"
+}

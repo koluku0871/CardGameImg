@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "LM-016",
+  "PackNo": "LM",
+  "CardName": "ガンマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "角竜型",
+  "Text": "[進化元効果]\n【消滅時】自分の手札から、「天ノ河宙」1枚をコストを支払わずに登場できる。\n"
+}

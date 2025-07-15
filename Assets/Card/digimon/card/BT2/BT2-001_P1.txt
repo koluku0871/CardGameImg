@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT2-001_P1",
+  "PackNo": "BT2",
+  "CardName": "ギギモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型",
+  "Text": "[進化元効果]\n【自分のターン】相手のトラッシュが5枚以上の間、このデジモンをDP+1000。\n"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT5-054",
+  "PackNo": "BT5",
+  "CardName": "ピッコロモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "妖精型"
+}

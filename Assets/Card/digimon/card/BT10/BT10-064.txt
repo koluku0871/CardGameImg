@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT10-064",
+  "PackNo": "BT10",
+  "CardName": "ゴグマモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "完全体",
+  "CardType": "ワクチン種",
+  "CardSubType": "鉱石型"
+}

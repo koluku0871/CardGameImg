@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT12-002",
+  "PackNo": "BT12",
+  "CardName": "チビモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "幼竜型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに１回］緑の自分のデジモンがいるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n"
+}

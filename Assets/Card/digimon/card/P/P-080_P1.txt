@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-080_P1",
+  "PackNo": "P",
+  "CardName": "ラブラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "P",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣型",
+  "Text": "[効果]\n【登場時】紫の自分のテイマーがいるとき、Lv.3の相手のデジモン1体を消滅させる。\n"
+}

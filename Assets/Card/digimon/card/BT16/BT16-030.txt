@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-030",
+  "PackNo": "BT16",
+  "CardName": "プロットモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 紫赤／1"
+  ],
+  "Element": "黄紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "哺乳類型",
+  "Text": "[進化元効果]\n【自分のターン】相手のセキュリティデジモン全てをDP-3000。\n"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "BT3-103_P1",
+  "PackNo": "BT3",
+  "CardName": "秘めたる力の発現！！",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "緑",
+  "Cost": "0",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードを手札に加える。\n"
+}

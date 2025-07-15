@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT9-062",
+  "PackNo": "BT9",
+  "CardName": "ラプタードラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "サイボーグ型/X抗体",
+  "Text": "[進化元効果]\n【アタック終了時】このデジモンが名称に「アルファモン」を含むとき、登場コスト5以下の相手のデジモン1体を消滅させる。\n"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT5-023",
+  "PackNo": "BT5",
+  "CardName": "ゲソモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "軟体型"
+}

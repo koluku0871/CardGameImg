@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "P-046",
+  "PackNo": "P",
+  "CardName": "ウィザーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分がオプションカードを使用したとき、メモリーを+1する。\n"
+}

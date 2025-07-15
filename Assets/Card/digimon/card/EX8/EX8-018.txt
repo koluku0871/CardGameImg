@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX8-018",
+  "PackNo": "EX8",
+  "CardName": "ゴマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "海獣型/DS",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]自分の手札が7枚以下なら、≪1ドロー≫。\n"
+}

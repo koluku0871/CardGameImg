@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-022",
+  "PackNo": "BT4",
+  "CardName": "サンゴモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "軟体型"
+}

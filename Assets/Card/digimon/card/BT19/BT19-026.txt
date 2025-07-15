@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT19-026",
+  "PackNo": "BT19",
+  "CardName": "ジークグレイモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "Lv": [
+    "LV5 : 青黒／3"
+  ],
+  "Element": "青黒",
+  "Cost": "11",
+  "CardCategory": "究極体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/ブルーフレア",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンをDP+2000。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT5-035",
+  "PackNo": "BT5",
+  "CardName": "スターモンズ",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "メジャー型",
+  "Text": "[効果]\n【登場時】このターンの間、自分のデジモン1体ごとに、相手のデジモン1体のDPを-1000する。\n"
+}

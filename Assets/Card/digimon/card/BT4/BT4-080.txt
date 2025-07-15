@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-080",
+  "PackNo": "BT4",
+  "CardName": "バケモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "ゴースト型"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT8-069",
+  "PackNo": "BT8",
+  "CardName": "オウリュウモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "SR",
+  "Lv": [
+    "LV5 : 黒／4"
+  ],
+  "Element": "黒",
+  "Cost": "12",
+  "CardCategory": "究極体",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣竜型/X抗体",
+  "Text": "[進化元効果]\n【アタック終了時】[ターンに1回]このデジモンが名称に「アルファモン」を含むとき、このデジモンをアクティブにする。\n"
+}

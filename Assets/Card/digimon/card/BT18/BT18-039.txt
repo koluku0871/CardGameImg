@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT18-039",
+  "PackNo": "BT18",
+  "CardName": "ミスティモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黄／3"
+  ],
+  "Element": "黄",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔法戦士型/ウィッチェルニー",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]自分のセキュリティが減ったとき、このデジモンをアクティブにできる。\n"
+}

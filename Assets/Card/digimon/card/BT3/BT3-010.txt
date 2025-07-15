@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT3-010",
+  "PackNo": "BT3",
+  "CardName": "ズバイガーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "武器型/Legend-Arms",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンがLv.7の間、≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）を得る。\n"
+}

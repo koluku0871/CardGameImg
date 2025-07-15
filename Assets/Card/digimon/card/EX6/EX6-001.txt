@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX6-001",
+  "PackNo": "EX6",
+  "CardName": "サクットモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "武器型",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]効果でこのデジモンの進化元に特徴に「Legend-Arms」を持つカードが置かれたとき、メモリー+1。\n"
+}

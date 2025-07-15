@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT10-018",
+  "PackNo": "BT10",
+  "CardName": "ガオスモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "爬虫類型/ブルーフレア",
+  "Text": "[効果]\n【消滅時】自分の手札から、特徴に「ブルーフレア」を持つLv.4のデジモンカード1枚をコストを支払わずにレスト状態で登場できる。\n"
+}

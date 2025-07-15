@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT4-036",
+  "PackNo": "BT4",
+  "CardName": "ファルコモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "2",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "鳥型"
+}

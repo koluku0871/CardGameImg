@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT16-009",
+  "PackNo": "BT16",
+  "CardName": "ランクスモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤黄／3"
+  ],
+  "Element": "赤黄",
+  "Cost": "5",
+  "CardCategory": "アーマー体",
+  "CardType": "フリー",
+  "CardSubType": "獣型",
+  "Text": "[効果]\n≪突進≫≪アーマー解除≫【進化時】ターン終了まで、相手のデジモン1体をDP-3000。\n"
+}

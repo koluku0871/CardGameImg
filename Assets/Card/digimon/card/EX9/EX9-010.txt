@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX9-010",
+  "PackNo": "EX9",
+  "CardName": "タスクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "恐竜型/DM/Ver.5",
+  "Text": "[進化元効果]\n≪突進≫（このデジモンがアタックしたとき、アタックの対象を最もDPの高いアクティブ状態の相手のデジモン1体に変更できる）\n"
+}

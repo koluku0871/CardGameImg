@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT7-043",
+  "PackNo": "BT7",
+  "CardName": "ゴツモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "鉱石型",
+  "Text": "[効果]\n【登場時】自分の手札から、緑のデジモンカード1枚をオープンできる。そうしたとき、そのカードをデッキの上に戻す。\n"
+}

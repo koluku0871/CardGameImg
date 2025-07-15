@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX2-039_P1",
+  "PackNo": "EX2",
+  "CardName": "インプモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Element": "紫",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "小悪魔型",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「ベルゼブモン」を含む間、このデジモンをDP+3000。\n"
+}

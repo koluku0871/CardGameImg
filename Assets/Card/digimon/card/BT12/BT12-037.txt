@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT12-037",
+  "PackNo": "BT12",
+  "CardName": "オポッサモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "5",
+  "CardCategory": "アーマー体",
+  "CardType": "フリー",
+  "CardSubType": "獣型",
+  "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンに≪セーブ≫の記述があるとき、このターンの間、相手のデジモン1体をDP-2000。\n"
+}

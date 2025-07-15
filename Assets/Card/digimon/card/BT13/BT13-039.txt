@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT13-039",
+  "PackNo": "BT13",
+  "CardName": "ナイトチェスモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄黒／3"
+  ],
+  "Element": "黄黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型",
+  "Text": "[進化元効果]\n≪再起動≫（相手のアクティブフェイズに、このデジモンをアクティブにする）\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "EX6-047",
+  "PackNo": "EX6",
+  "CardName": "ブギーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫／2"
+  ],
+  "Element": "紫",
+  "Cost": "4",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔人型",
+  "Text": "[進化元効果]\n【お互いのターン】相手の手札が6枚以下の間、このデジモンをDP+1000。\n"
+}

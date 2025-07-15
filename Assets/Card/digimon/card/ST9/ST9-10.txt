@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "ST9-10",
+  "PackNo": "ST9",
+  "CardName": "スナイモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "昆虫型",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】相手のデジモン1体をレストさせる。\n"
+}
