@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "CB33-074",
+  "PackNo": "CB33",
+  "CardName": "マハラクカジャ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "青\n白",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "白",
+    "白"
+  ],
+  "CardType": "ペルソナ",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト4<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（このカードは手札からセットできる）］【セット中】『自分のターン』系統：「S.E.E.S.」/「ペルソナ」を持つ自分のスピリットすべてに“【超装甲：紫/白/黄】このスピリットは、相手の紫/白/黄のスピリット/アルティメット/ネクサス/マジックの効果を受けない”を与える。 ［フラッシュ］このターンの間、自分のライフは、ブレイヴのコストを無視して、コスト5以下の相手のスピリット/アルティメットから減らされない。"
+}

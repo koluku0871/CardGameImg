@@ -1,0 +1,24 @@
+﻿{
+  "CardNo": "PB39-X03",
+  "PackNo": "PB",
+  "CardName": "終焉の鳥神ラグナ・ペンタン",
+  "CardRarity": "X",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "9",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "緑"
+  ],
+  "CardType": "歌鳥・漂精・戦騎",
+  "Lv": [
+    "LV1 : 10000／1",
+    "LV2 : 12000／2",
+    "LV3 : 18000／3"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト5<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（この効果は手札から使用できる）Lv合計9まで相手のスピリット/アルティメット3体までを疲労させる。この効果発揮後、このカードは手元に置く。［Lv1-Lv2-Lv3］『このスピリットの召喚時』このターンの間、相手のスピリット/アルティメットすべてはアタック/ブロックできない。その後、効果で召喚していたとき、自分の「ペンタン」3体を回復させる。 ［Lv2-Lv3］『お互いのアタックステップ』自分の「ペンタン」すべてをBP+10000する。"
+}

@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "SD70-007",
+  "PackNo": "SD70",
+  "CardName": "［S.E.E.S.制式戦闘服］伊織 順平",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "S.E.E.S.・魔術師",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2",
+    "LV3 : 7000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分のトラッシュにある、系統：「魔術師」を持つコスト4以上のカード1枚を手札に戻せる。 ［Lv2-Lv3］『自分のターン』〔ターンに1回：同名〕このスピリットに「ヘルメス」/「トリスメギストス」を《契約煌臨》するとき、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置いたものとして《契約煌臨》できる。"
+}
