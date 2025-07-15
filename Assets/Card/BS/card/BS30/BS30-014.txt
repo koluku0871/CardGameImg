@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS30-014",
+  "PackNo": "BS30",
+  "CardName": "シマリース",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "1",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "遊精",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］【スピリットソウル：緑】自分がアルティメットカードを召喚するとき、このスピリットに<img src=\"/renewal/images/cardlist/ico_green.png\"/>（緑のシンボル1つ）を追加する。 ［Lv2］『相手によるこのスピリットの破壊時』ボイドからコア2個を自分のリザーブに置く。"
+}

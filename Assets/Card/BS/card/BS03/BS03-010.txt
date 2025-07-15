@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS03-010', 'PackNo': 'BS03', 'CardName': '黒竜ヴリトラ', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '古竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／4'], 'Text': '[Lv1-Lv2]『このスピリットの召喚時』BP2000以下のスピリットすべてを破壊する。'}
+﻿{
+  "CardNo": "BS03-010",
+  "PackNo": "BS03",
+  "CardName": "黒竜ヴリトラ",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "古竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／4"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットの召喚時』BP2000以下のスピリットすべてを破壊する。"
+}

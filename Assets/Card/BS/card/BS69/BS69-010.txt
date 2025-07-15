@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS69-010', 'PackNo': 'BS69', 'CardName': 'ベータレジオン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '7', 'ReducedCost': ['赤', '赤', '赤', '神'], 'CardType': '眷属・星竜', 'Lv': ['LV1 : 6000／1', 'LV2 : 12000／3'], 'Text': '〔ターンに1回：同名〕トラッシュにあるこのカードは、自分の赤の効果で相手のスピリット/アルティメット/ネクサスを破壊したとき、自分の「契約神アポローン」があれば、手札に戻せる。［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（このカードは手札からセットできる）］【セット中】自分のカウント1につき、自分の「BP破壊効果」の上限を+1000する。［Lv1-Lv2］『このスピリットのアタック時』自分はデッキから2枚ドローできる。'}
+﻿{
+  "CardNo": "BS69-010",
+  "PackNo": "BS69",
+  "CardName": "ベータレジオン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "7",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "神"
+  ],
+  "CardType": "眷属・星竜",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 12000／3"
+  ],
+  "Text": "〔ターンに1回：同名〕トラッシュにあるこのカードは、自分の赤の効果で相手のスピリット/アルティメット/ネクサスを破壊したとき、自分の「契約神アポローン」があれば、手札に戻せる。［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（このカードは手札からセットできる）］【セット中】自分のカウント1につき、自分の「BP破壊効果」の上限を+1000する。［Lv1-Lv2］『このスピリットのアタック時』自分はデッキから2枚ドローできる。"
+}

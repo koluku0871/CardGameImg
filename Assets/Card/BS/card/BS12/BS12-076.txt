@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS12-076",
+  "PackNo": "BS12",
+  "CardName": "ブレイヴブレイク",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]相手の合体スピリット1体のブレイヴ1つを破壊する。"
+}

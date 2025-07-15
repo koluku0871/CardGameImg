@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS58-X01', 'PackNo': 'BS58', 'CardName': '太陽星龍ドラグ＝ソレイユ', 'CardRarity': 'X', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '緑'], 'CardType': '占征・星竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 9000／3', 'LV3 : 12000／6'], 'Text': '［ミラージュ：コスト4<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_green.png"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』系統：「占征」を持つ自分の赤/緑のスピリットがブロックされたバトルの終了時、そのスピリットのシンボル1つにつき、相手のライフのコア1個をリザーブに置ける。［Lv1-Lv2-Lv3］『このスピリットの召喚/アタック時』BP12000以下の相手のスピリット/アルティメット1体を破壊できる。【連鎖：条件《緑シンボル》】（自分の緑シンボルがあるとき、下の効果を続けて発揮する）緑：ボイドからコア1個を自分のスピリットに置ける。'}
+﻿{
+  "CardNo": "BS58-X01",
+  "PackNo": "BS58",
+  "CardName": "太陽星龍ドラグ＝ソレイユ",
+  "CardRarity": "X",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "緑"
+  ],
+  "CardType": "占征・星竜",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 9000／3",
+    "LV3 : 12000／6"
+  ],
+  "Text": "［ミラージュ：コスト4<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』系統：「占征」を持つ自分の赤/緑のスピリットがブロックされたバトルの終了時、そのスピリットのシンボル1つにつき、相手のライフのコア1個をリザーブに置ける。［Lv1-Lv2-Lv3］『このスピリットの召喚/アタック時』BP12000以下の相手のスピリット/アルティメット1体を破壊できる。【連鎖：条件《緑シンボル》】（自分の緑シンボルがあるとき、下の効果を続けて発揮する）緑：ボイドからコア1個を自分のスピリットに置ける。"
+}

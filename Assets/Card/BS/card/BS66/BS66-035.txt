@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS66-035', 'PackNo': 'BS66', 'CardName': 'ヴィシュナーガ・パラシュラーマ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白', '神'], 'CardType': '天渡・甲竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 9000／2'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_white.png"/>（このカードは手札からセットできる）］【セット中】相手の効果で相手の手札が増えたとき、増えたカード1枚につき、系統：「インディーダ」を持つ自分の白の創界神ネクサス1つにコア+1できる。［Lv1-Lv2］『このスピリットの召喚時』このターンの間、系統：「甲竜」を持つ自分のスピリット1体はブロックされない。'}
+﻿{
+  "CardNo": "BS66-035",
+  "PackNo": "BS66",
+  "CardName": "ヴィシュナーガ・パラシュラーマ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "5",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白",
+    "神"
+  ],
+  "CardType": "天渡・甲竜",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 9000／2"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（このカードは手札からセットできる）］【セット中】相手の効果で相手の手札が増えたとき、増えたカード1枚につき、系統：「インディーダ」を持つ自分の白の創界神ネクサス1つにコア+1できる。［Lv1-Lv2］『このスピリットの召喚時』このターンの間、系統：「甲竜」を持つ自分のスピリット1体はブロックされない。"
+}

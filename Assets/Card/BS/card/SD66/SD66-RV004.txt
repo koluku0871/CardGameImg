@@ -1,1 +1,15 @@
-﻿{'CardNo': 'SD66-RV004', 'PackNo': 'SD66', 'CardName': 'クロスファイア', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '緋炎', 'Lv': [], 'Text': '［メイン］相手が相手のネクサス1つを破壊する。その後、自分のネクサス1つを破壊する。 ［フラッシュ］BP3000以下の相手のスピリット1体か、BP5000以下の相手のアルティメット1体を破壊する。'}
+﻿{
+  "CardNo": "SD66-RV004",
+  "PackNo": "SD66",
+  "CardName": "クロスファイア",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "緋炎",
+  "Lv": [],
+  "Text": "［メイン］相手が相手のネクサス1つを破壊する。その後、自分のネクサス1つを破壊する。 ［フラッシュ］BP3000以下の相手のスピリット1体か、BP5000以下の相手のアルティメット1体を破壊する。"
+}

@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS10-053",
+  "PackNo": "BS10",
+  "CardName": "守護神バートラム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 7000／4"
+  ],
+  "Text": "［Lv1-Lv2］自分の青のネクサスすべては、相手のスピリット/ブレイヴ/ネクサス/マジックの効果では破壊されない。"
+}

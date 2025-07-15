@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS71-RV004', 'PackNo': 'BS71', 'CardName': '己の爆獣ヨロイサイダー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青', '青'], 'CardType': '眷属・爆蒼', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 8000／4'], 'Text': '［メイン］【アクセル】コスト4<img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/>（この効果は手札から使用できる）自分はデッキから3枚ドローした後、手札2枚を破棄する。この効果発揮後、このカードは手元に置く。［Lv1-Lv2-Lv3］系統：「爆蒼」を持つ自分の効果でドローしたとき、相手は「ドローしたとき/手札が増えたとき」効果を発揮できない。'}
+﻿{
+  "CardNo": "BS71-RV004",
+  "PackNo": "BS71",
+  "CardName": "己の爆獣ヨロイサイダー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "眷属・爆蒼",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2",
+    "LV3 : 8000／4"
+  ],
+  "Text": "［メイン］【アクセル】コスト4<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（この効果は手札から使用できる）自分はデッキから3枚ドローした後、手札2枚を破棄する。この効果発揮後、このカードは手元に置く。［Lv1-Lv2-Lv3］系統：「爆蒼」を持つ自分の効果でドローしたとき、相手は「ドローしたとき/手札が増えたとき」効果を発揮できない。"
+}

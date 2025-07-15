@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS22-046",
+  "PackNo": "BS22",
+  "CardName": "薬売りのカーサ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "創手",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "-"
+}

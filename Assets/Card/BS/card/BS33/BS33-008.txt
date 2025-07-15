@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BS33-008",
+  "PackNo": "BS33",
+  "CardName": "陽天竜レンギョウ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "武竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／3",
+    "LV3 : 10000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3：フラッシュ］【覚醒】自分のスピリットのコアを、好きなだけこのスピリットに置くことができる。 ［Lv3］『このスピリットのアタック時』【覚醒】でこのスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれたとき、ターンに1回、BP20000以下の相手のスピリット/アルティメット1体を破壊する。"
+}

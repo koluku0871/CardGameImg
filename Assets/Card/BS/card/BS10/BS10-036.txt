@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BS10-036",
+  "PackNo": "BS10",
+  "CardName": "水晶魚クリスティール",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "空魚・星魂",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／2",
+    "LV3 : 7000／3"
+  ],
+  "Text": "-"
+}

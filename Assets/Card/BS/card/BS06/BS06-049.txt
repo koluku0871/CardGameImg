@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS06-049",
+  "PackNo": "BS06",
+  "CardName": "ピョリット",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "小玩",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "-"
+}

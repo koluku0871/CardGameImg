@@ -1,1 +1,20 @@
-﻿{'CardNo': 'SD55-002', 'PackNo': 'SD55', 'CardName': '道化竜メルトドラゴン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '起幻・道化', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』相手のネクサス1つを破壊でき、破壊したとき、自分のトラッシュにある<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア3個をリザーブに置く。 ［Lv3］『自分のエンドステップ』自分はデッキから、手札が4枚になるまでドローする。'}
+﻿{
+  "CardNo": "SD55-002",
+  "PackNo": "SD55",
+  "CardName": "道化竜メルトドラゴン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "起幻・道化",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／3",
+    "LV3 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』相手のネクサス1つを破壊でき、破壊したとき、自分のトラッシュにある<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア3個をリザーブに置く。 ［Lv3］『自分のエンドステップ』自分はデッキから、手札が4枚になるまでドローする。"
+}

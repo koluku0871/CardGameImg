@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS35-096",
+  "PackNo": "BS35",
+  "CardName": "ドリームスラッシュ",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "5",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手のスピリット/アルティメット1体を手札に戻す。《封印時》さらに、自分のスピリット1体を回復させる。"
+}

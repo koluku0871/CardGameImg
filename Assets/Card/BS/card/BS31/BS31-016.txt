@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS31-016",
+  "PackNo": "BS31",
+  "CardName": "落ち武者ボーン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "家臣・無魔",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック時』相手のスピリットのコア1個を相手のリザーブに置く。このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれているとき、さらに、自分のトラッシュにある紫のスピリットカード1枚を手札に戻す。"
+}

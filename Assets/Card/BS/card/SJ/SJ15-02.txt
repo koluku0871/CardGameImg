@@ -1,1 +1,23 @@
-﻿{'CardNo': 'SJ15-02', 'PackNo': 'SJ', 'CardName': '戦極マキシマムドラゴン', 'CardRarity': 'X', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤', '赤', '赤', '赤'], 'CardType': '戦極・武竜', 'Lv': ['LV1 : 9999／1', 'LV2 : 99999／3'], 'Text': 'このカードはデッキに1枚しか入れられない。'}
+﻿{
+  "CardNo": "SJ15-02",
+  "PackNo": "SJ",
+  "CardName": "戦極マキシマムドラゴン",
+  "CardRarity": "X",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "戦極・武竜",
+  "Lv": [
+    "LV1 : 9999／1",
+    "LV2 : 99999／3"
+  ],
+  "Text": "このカードはデッキに1枚しか入れられない。"
+}

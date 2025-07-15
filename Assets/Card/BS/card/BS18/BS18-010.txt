@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS18-010",
+  "PackNo": "BS18",
+  "CardName": "キャメロット・ポーン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "魔影",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 3000／4"
+  ],
+  "Text": "-"
+}

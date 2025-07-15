@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC24-004', 'PackNo': 'BSC24', 'CardName': '宇宙大怪獣ベムスター', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』このスピリットをBP+5000する。'}
+﻿{
+  "CardNo": "BSC24-004",
+  "PackNo": "BSC24",
+  "CardName": "宇宙大怪獣ベムスター",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "星竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック時』このスピリットをBP+5000する。"
+}

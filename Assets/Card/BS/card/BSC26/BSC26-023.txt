@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BSC26-023', 'PackNo': 'BSC26', 'CardName': '守護神獣モスラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '怪虫', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『このスピリットのアタック/ブロック時』ボイドからコア1個をこのスピリットに置く。このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、さらに、このスピリットをBP+3000する。'}
+﻿{
+  "CardNo": "BSC26-023",
+  "PackNo": "BSC26",
+  "CardName": "守護神獣モスラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "怪虫",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック/ブロック時』ボイドからコア1個をこのスピリットに置く。このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれているとき、さらに、このスピリットをBP+3000する。"
+}

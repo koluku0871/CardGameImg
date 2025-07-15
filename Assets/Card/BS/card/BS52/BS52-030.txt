@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS52-030', 'PackNo': 'BS52', 'CardName': 'メタルラージ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白'], 'CardType': '起幻・機獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個をこのスピリットに置く。 ［Lv2］お互いの創界神ネクサスすべてのシンボルを0にする。'}
+﻿{
+  "CardNo": "BS52-030",
+  "PackNo": "BS52",
+  "CardName": "メタルラージ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "起幻・機獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個をこのスピリットに置く。 ［Lv2］お互いの創界神ネクサスすべてのシンボルを0にする。"
+}

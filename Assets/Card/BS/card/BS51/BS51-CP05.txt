@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS51-CP05', 'PackNo': 'BS51', 'CardName': '夢幻の天剣トワイライト・ファンタジア', 'CardRarity': 'CP', 'CardCategory': 'ブレイヴ', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '神'], 'CardType': '剣刃・界渡', 'Lv': ['LV1 : 4000／1', 'brave : +4000／'], 'Text': '［フラッシュ］【アクセル】コスト5<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（この効果は手札から使用できる）自分のライフが5以下のとき、ボイドからコア1個を自分のライフに置く。この効果発揮後、このカードはオープンして手元に置く。 合体条件：コスト4以上 【合体中】『このスピリットのアタック時』系統：「想獣」を持つスピリットとの合体中、ブロックされたとき、このスピリットは回復し、ブロックされなかったとき、ボイドからコア1個を自分のライフに置く。'}
+﻿{
+  "CardNo": "BS51-CP05",
+  "PackNo": "BS51",
+  "CardName": "夢幻の天剣トワイライト・ファンタジア",
+  "CardRarity": "CP",
+  "CardCategory": "ブレイヴ",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "神"
+  ],
+  "CardType": "剣刃・界渡",
+  "Lv": [
+    "LV1 : 4000／1",
+    "brave : +4000／"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト5<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（この効果は手札から使用できる）自分のライフが5以下のとき、ボイドからコア1個を自分のライフに置く。この効果発揮後、このカードはオープンして手元に置く。 合体条件：コスト4以上 【合体中】『このスピリットのアタック時』系統：「想獣」を持つスピリットとの合体中、ブロックされたとき、このスピリットは回復し、ブロックされなかったとき、ボイドからコア1個を自分のライフに置く。"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SD01-005', 'PackNo': 'SD01', 'CardName': 'タルタルガー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '爬獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］このスピリットは、相手のスピリット/ネクサス/マジックの効果では、自分のフィールドから手札に戻らない。'}
+﻿{
+  "CardNo": "SD01-005",
+  "PackNo": "SD01",
+  "CardName": "タルタルガー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "爬獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］このスピリットは、相手のスピリット/ネクサス/マジックの効果では、自分のフィールドから手札に戻らない。"
+}

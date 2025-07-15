@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS68-030', 'PackNo': 'BS68', 'CardName': 'いたずら虫のコルリック', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '6', 'ReducedCost': ['緑', '緑'], 'CardType': '碧雷・殻人', 'Lv': ['LV1 : 6000／1', 'LV2 : 14000／7'], 'Text': '手札にあるこのカードは、自分が《超契約煌臨》したとき、1コスト支払ってただちに召喚できる。［Lv1-Lv2］『このスピリットの召喚時』自分のフィールド/リザーブの<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア1個をボイドに置ける。そうしたとき、相手の手札が6枚以上で、自分の「フラウ」がいれば、相手は、相手の手札を3枚になるように破棄する。'}
+﻿{
+  "CardNo": "BS68-030",
+  "PackNo": "BS68",
+  "CardName": "いたずら虫のコルリック",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "6",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "碧雷・殻人",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 14000／7"
+  ],
+  "Text": "手札にあるこのカードは、自分が《超契約煌臨》したとき、1コスト支払ってただちに召喚できる。［Lv1-Lv2］『このスピリットの召喚時』自分のフィールド/リザーブの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア1個をボイドに置ける。そうしたとき、相手の手札が6枚以上で、自分の「フラウ」がいれば、相手は、相手の手札を3枚になるように破棄する。"
+}

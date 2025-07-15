@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS34-031",
+  "PackNo": "BS34",
+  "CardName": "源氏八騎 源太",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "2",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "機巧・武装",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 4000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］カード名に「源氏」と入っている自分のスピリット1体につき、このスピリットをBP+3000する。"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS11-077",
+  "PackNo": "BS11",
+  "CardName": "スタークレイドル",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]相手のスピリット1体を疲労させる。【神速】を持つ自分のスピリット1体を手札に戻す。"
+}

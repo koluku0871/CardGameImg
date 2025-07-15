@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS39-003",
+  "PackNo": "BS39",
+  "CardName": "庚午獣ハイレオン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "十冠・皇獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 6000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットをBP+4000する。自分のライフの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を、系統：「神皇」/「十冠」を持つ自分のスピリットに置くことで、さらに、このスピリットに赤のシンボル1つを追加する。"
+}

@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS08-001",
+  "PackNo": "BS08",
+  "CardName": "ディノニクソー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "-"
+}

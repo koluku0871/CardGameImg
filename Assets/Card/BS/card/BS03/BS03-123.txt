@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS03-123', 'PackNo': 'BS03', 'CardName': 'ネクロマンシー', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '[メイン]自分のトラッシュにある、系統:「無魔」を持つスピリットカードすべてを手札に戻す。 [フラッシュ]このターンの間、スピリット1体をBP+2000する'}
+﻿{
+  "CardNo": "BS03-123",
+  "PackNo": "BS03",
+  "CardName": "ネクロマンシー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]自分のトラッシュにある、系統:「無魔」を持つスピリットカードすべてを手札に戻す。 [フラッシュ]このターンの間、スピリット1体をBP+2000する"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'P14-45', 'PackNo': 'P14', 'CardName': 'オルガ（フェイズＩ）', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／3', 'LV3 : 10000／5'], 'Text': '-'}
+﻿{
+  "CardNo": "P14-45",
+  "PackNo": "P14",
+  "CardName": "オルガ（フェイズＩ）",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "星竜",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／3",
+    "LV3 : 10000／5"
+  ],
+  "Text": "-"
+}

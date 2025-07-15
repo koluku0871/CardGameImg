@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS37-050",
+  "PackNo": "BS37",
+  "CardName": "壬の火猿ニーラ",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "十冠・想獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（この効果は手札から使用できる）バトル解決時、BPの低いスピリット/アルティメットではなく、BPの高いスピリット/アルティメットが破壊される。BPが同じとき、お互いのスピリット/アルティメットが破壊される。この効果発揮後、このカードはオープンして手元に置く。 ［Lv2-Lv3］『このスピリットのアタック/ブロック時』このターンの間、相手のスピリット1体をBP-5000する。この効果でBP0になったスピリットを破壊する。"
+}

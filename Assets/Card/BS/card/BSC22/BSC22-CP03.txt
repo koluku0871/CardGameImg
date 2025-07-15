@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC22-CP03', 'PackNo': 'BSC22', 'CardName': 'インビジブルクローク', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、自分のスピリット1体はブロックされない。コストの支払いに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、自分のカード名に「オーディーン」と入っているスピリット/アルティメットすべてに白のシンボル1つを追加する。'}
+﻿{
+  "CardNo": "BSC22-CP03",
+  "PackNo": "BSC22",
+  "CardName": "インビジブルクローク",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、自分のスピリット1体はブロックされない。コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、自分のカード名に「オーディーン」と入っているスピリット/アルティメットすべてに白のシンボル1つを追加する。"
+}

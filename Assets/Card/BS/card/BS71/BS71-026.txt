@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS71-026', 'PackNo': 'BS71', 'CardName': 'スカラベ・ボム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑', '神'], 'CardType': '兵虫', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_green.png"/><img src="/renewal/images/cardlist/ico_green.png"/>（このカードは手札からセットできる）］【セット中】『このミラージュのセット時』〔ターンに1回：同名〕自分のデッキを上から4枚オープンできる。その中の「契約神ラー・ホルアクティ」1枚か、系統：「締皇」と「兵虫」を持つスピリットカード1枚を手札に加える。残ったカードはデッキの下に戻す。［Lv1-Lv2］『このスピリットのアタック時』相手のトラッシュにあるカード3枚をゲームから除外する。'}
+﻿{
+  "CardNo": "BS71-026",
+  "PackNo": "BS71",
+  "CardName": "スカラベ・ボム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "神"
+  ],
+  "CardType": "兵虫",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/>（このカードは手札からセットできる）］【セット中】『このミラージュのセット時』〔ターンに1回：同名〕自分のデッキを上から4枚オープンできる。その中の「契約神ラー・ホルアクティ」1枚か、系統：「締皇」と「兵虫」を持つスピリットカード1枚を手札に加える。残ったカードはデッキの下に戻す。［Lv1-Lv2］『このスピリットのアタック時』相手のトラッシュにあるカード3枚をゲームから除外する。"
+}

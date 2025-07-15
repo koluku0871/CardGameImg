@@ -1,1 +1,21 @@
-﻿{'CardNo': 'PB15-D04', 'PackNo': 'PB', 'CardName': '[ハロウィン・ヴァンパイア]ディアナ・フルール', 'CardRarity': 'PB', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '6', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '詩姫・衣装', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／2', 'LV3 : 10000／3'], 'Text': '【チーム：トワイライトゴシック/シャイニーハーツ】［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（このカードは手札からセットできる）］【セット中】『自分のターン』ステップに1回、カード名に「フルール」を含む自分のスピリットが召喚されたとき、自分はデッキから1枚ドローできる。 ［Lv2-Lv3］『このスピリットのアタック時』ターンに1回、このスピリットと自分の「ノア・フルール」1体を回復させる。'}
+﻿{
+  "CardNo": "PB15-D04",
+  "PackNo": "PB",
+  "CardName": "[ハロウィン・ヴァンパイア]ディアナ・フルール",
+  "CardRarity": "PB",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "6",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "詩姫・衣装",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／2",
+    "LV3 : 10000／3"
+  ],
+  "Text": "【チーム：トワイライトゴシック/シャイニーハーツ】［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】『自分のターン』ステップに1回、カード名に「フルール」を含む自分のスピリットが召喚されたとき、自分はデッキから1枚ドローできる。 ［Lv2-Lv3］『このスピリットのアタック時』ターンに1回、このスピリットと自分の「ノア・フルール」1体を回復させる。"
+}

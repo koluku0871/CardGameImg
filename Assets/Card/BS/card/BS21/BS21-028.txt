@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS21-028",
+  "PackNo": "BS21",
+  "CardName": "プロード・ファルコン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "武装",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 5000／5"
+  ],
+  "Text": "［Lv3］【強化】自分の「スピリット回復効果」の体数を+1体する。"
+}

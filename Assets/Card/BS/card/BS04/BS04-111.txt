@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS04-111', 'PackNo': 'BS04', 'CardName': 'マジックドリル', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青'], 'CardType': '-', 'Lv': [], 'Text': '［メイン］相手のデッキを上から、相手の手札1枚につき1枚破棄する。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。'}
+﻿{
+  "CardNo": "BS04-111",
+  "PackNo": "BS04",
+  "CardName": "マジックドリル",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］相手のデッキを上から、相手の手札1枚につき1枚破棄する。 ［フラッシュ］このターンの間、スピリット1体をBP+2000する。"
+}

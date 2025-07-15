@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS09-002",
+  "PackNo": "BS09",
+  "CardName": "フタバニア",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤",
+    "青"
+  ],
+  "CardType": "機竜",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『自分のメインステップ』自分の青のスピリットが召喚されたとき、BP2000以下の相手のスピリット1体を破壊する。"
+}

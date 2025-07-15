@@ -1,1 +1,17 @@
-﻿{'CardNo': 'CB28-RV022', 'PackNo': 'CB28', 'CardName': '全武装攻撃', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '6', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_white.png"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』ターンに1回、自分の「メカゴジラ」/「3式機龍」がアタック/ブロックしたとき、ボイドからコア1個をそのスピリットに置く。 ［フラッシュ］自分の白のスピリット1体を回復させる。その後、このターンの間、自分のスピリットの「メカゴジラ」/「3式機龍」すべてに白シンボル1つを追加する。'}
+﻿{
+  "CardNo": "CB28-RV022",
+  "PackNo": "CB28",
+  "CardName": "全武装攻撃",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "6",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』ターンに1回、自分の「メカゴジラ」/「3式機龍」がアタック/ブロックしたとき、ボイドからコア1個をそのスピリットに置く。 ［フラッシュ］自分の白のスピリット1体を回復させる。その後、このターンの間、自分のスピリットの「メカゴジラ」/「3式機龍」すべてに白シンボル1つを追加する。"
+}

@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS28-073",
+  "PackNo": "BS28",
+  "CardName": "アルティメットフレイム",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "ico_ultimate.png",
+    "ico_ultimate.png",
+    "ico_ultimate.png",
+    "ico_ultimate.png"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］合体スピリットすべてを破壊する。自分のバーストをセットしているとき、さらに、シンボル1つの相手のスピリット1体を破壊する。"
+}

@@ -1,1 +1,16 @@
-﻿{'CardNo': 'CB02-066', 'PackNo': 'CB02', 'CardName': 'ガイアフォース', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］ブレイヴの「BP+」を無視して、BP10000以下の相手のスピリット1体を破壊する。さらに、カード名に「グレイモン」を含む自分のスピリット1体を回復させる。'}
+﻿{
+  "CardNo": "CB02-066",
+  "PackNo": "CB02",
+  "CardName": "ガイアフォース",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］ブレイヴの「BP+」を無視して、BP10000以下の相手のスピリット1体を破壊する。さらに、カード名に「グレイモン」を含む自分のスピリット1体を回復させる。"
+}

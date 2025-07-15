@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BS35-085",
+  "PackNo": "BS35",
+  "CardName": "ドラゴフレイム",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］BP3000以下のスピリットすべてを破壊する。または、相手の合体スピリットのブレイヴ1つを破壊する。"
+}

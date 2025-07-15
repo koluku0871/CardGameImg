@@ -1,0 +1,22 @@
+﻿{
+  "CardNo": "BS43-068",
+  "PackNo": "BS43",
+  "CardName": "龍皇海賊団 大砲のシロバンニ",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "6",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／3",
+    "LV3 : 10000／4"
+  ],
+  "Text": "［メイン］【アクセル】コスト5<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（この効果は手札から使用できる）自分の手札とトラッシュにある青のネクサスカード1枚ずつを、コストを支払わずに配置できる。この効果で配置したネクサス1つにつき、コスト7以下の相手のスピリット1体を破壊する。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2-Lv3］【強襲：3】『このスピリットのアタック時』このスピリットは、ターンに3回まで、自分のネクサス1つを疲労させることで回復する。"
+}

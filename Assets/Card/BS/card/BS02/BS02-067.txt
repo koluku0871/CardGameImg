@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS02-067', 'PackNo': 'BS02', 'CardName': '天使バーチュ', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄'], 'CardType': '天霊', 'Lv': ['LV1 : 4000／1', 'LV2 : 4000／3', 'LV3 : 8000／5'], 'Text': '[Lv2-Lv3]自分の手札にある黄のスピリットカードすべてに軽減シンボル:黄を与える。'}
+﻿{
+  "CardNo": "BS02-067",
+  "PackNo": "BS02",
+  "CardName": "天使バーチュ",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "天霊",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 4000／3",
+    "LV3 : 8000／5"
+  ],
+  "Text": "[Lv2-Lv3]自分の手札にある黄のスピリットカードすべてに軽減シンボル:黄を与える。"
+}

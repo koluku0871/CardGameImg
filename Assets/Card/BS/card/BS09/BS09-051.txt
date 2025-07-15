@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS09-051",
+  "PackNo": "BS09",
+  "CardName": "竜鎧の巨人オージアス",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／4"
+  ],
+  "Text": "［Lv2］自分のネクサスすべてをLv2として扱う。"
+}

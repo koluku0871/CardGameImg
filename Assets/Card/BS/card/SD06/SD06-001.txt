@@ -1,1 +1,16 @@
-﻿{'CardNo': 'SD06-001', 'PackNo': 'SD06', 'CardName': 'オードラン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '0', 'ReducedCost': [], 'CardType': '翼竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "SD06-001",
+  "PackNo": "SD06",
+  "CardName": "オードラン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "翼竜",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "-"
+}

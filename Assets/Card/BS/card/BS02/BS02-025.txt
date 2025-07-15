@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS02-025', 'PackNo': 'BS02', 'CardName': 'シープル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '0', 'ReducedCost': [], 'CardType': '遊精', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : -／-'], 'Text': '-'}
+﻿{
+  "CardNo": "BS02-025",
+  "PackNo": "BS02",
+  "CardName": "シープル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "遊精",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3",
+    "LV3 : -／-"
+  ],
+  "Text": "-"
+}

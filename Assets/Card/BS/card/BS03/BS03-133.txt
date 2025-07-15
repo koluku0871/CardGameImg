@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS03-133', 'PackNo': 'BS03', 'CardName': 'ハイエリクサー', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '8', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': [], 'Text': '[フラッシュ]自分のリザーブから、自分のライフにコア2個を置く。(この効果はターンに1回しか使えない)'}
+﻿{
+  "CardNo": "BS03-133",
+  "PackNo": "BS03",
+  "CardName": "ハイエリクサー",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "8",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]自分のリザーブから、自分のライフにコア2個を置く。(この効果はターンに1回しか使えない)"
+}

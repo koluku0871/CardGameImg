@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BSC19-003', 'PackNo': 'BSC19', 'CardName': 'ミニラ［2004］', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 8000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BSC19-003",
+  "PackNo": "BSC19",
+  "CardName": "ミニラ［2004］",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 8000／4"
+  ],
+  "Text": "-"
+}

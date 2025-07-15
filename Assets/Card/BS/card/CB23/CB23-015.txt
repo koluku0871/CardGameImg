@@ -1,1 +1,21 @@
-﻿{'CardNo': 'CB23-015', 'PackNo': 'CB23', 'CardName': 'EVANGELION Mark.4444C', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '紫\n青', 'Cost': '4', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '造兵・NERV', 'Lv': ['LV1 : 4000／1', 'LV2 : 5000／2', 'LV3 : 9000／5'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分の手札/トラッシュにある「44B」をコストを支払わずに好きなだけ召喚する。［Lv1-Lv2-Lv3］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている相手のスピリット以外の相手の効果を受けない。 ［Lv2-Lv3］『自分のメインステップ』自分の「44B」を好きなだけ疲労させることで、疲労した「44B」1体につき、相手のフィールドのコア1個をリザーブに置く。'}
+﻿{
+  "CardNo": "CB23-015",
+  "PackNo": "CB23",
+  "CardName": "EVANGELION Mark.4444C",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "紫\n青",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "造兵・NERV",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 5000／2",
+    "LV3 : 9000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分の手札/トラッシュにある「44B」をコストを支払わずに好きなだけ召喚する。［Lv1-Lv2-Lv3］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている相手のスピリット以外の相手の効果を受けない。 ［Lv2-Lv3］『自分のメインステップ』自分の「44B」を好きなだけ疲労させることで、疲労した「44B」1体につき、相手のフィールドのコア1個をリザーブに置く。"
+}

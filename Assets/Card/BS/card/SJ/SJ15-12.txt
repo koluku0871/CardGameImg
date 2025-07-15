@@ -1,1 +1,20 @@
-﻿{'CardNo': 'SJ15-12', 'PackNo': 'SJ', 'CardName': 'なんて古っ代！ファラオくん', 'CardRarity': 'SJ', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '覇皇', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のトラッシュにあるブレイヴカード1枚を手札に戻す。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、かわりに、自分の手札かトラッシュにあるブレイヴカード1枚を、コストを支払わずに召喚できる。 ［Lv2］『このスピリットのアタック時』BP5000以下の相手のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "SJ15-12",
+  "PackNo": "SJ",
+  "CardName": "なんて古っ代！ファラオくん",
+  "CardRarity": "SJ",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "覇皇",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分のトラッシュにあるブレイヴカード1枚を手札に戻す。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、かわりに、自分の手札かトラッシュにあるブレイヴカード1枚を、コストを支払わずに召喚できる。 ［Lv2］『このスピリットのアタック時』BP5000以下の相手のスピリット1体を破壊する。"
+}

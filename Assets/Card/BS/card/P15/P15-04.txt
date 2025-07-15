@@ -1,1 +1,18 @@
-﻿{'CardNo': 'P15-04', 'PackNo': 'P15', 'CardName': 'ツチグモキッド', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄'], 'CardType': '妖戒', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』系統：「妖戒」を持つ自分のスピリットが相手によって破壊されたとき、このターンの間、相手のスピリット1体をBP-2000する。このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、さらに、自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "P15-04",
+  "PackNo": "P15",
+  "CardName": "ツチグモキッド",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "妖戒",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『自分のアタックステップ』系統：「妖戒」を持つ自分のスピリットが相手によって破壊されたとき、このターンの間、相手のスピリット1体をBP-2000する。このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれているとき、さらに、自分はデッキから1枚ドローする。"
+}

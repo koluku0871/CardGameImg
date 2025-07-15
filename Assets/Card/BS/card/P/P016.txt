@@ -1,1 +1,21 @@
-﻿{'CardNo': 'P016', 'PackNo': 'P', 'CardName': '鋼鉄竜ニヴルヘイム', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '6', 'ReducedCost': ['白', '白', '白', '白'], 'CardType': '甲竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］【装甲：緑】このスピリットは、指定された色の相手のスピリット/ネクサス/マジックの効果を受けない。'}
+﻿{
+  "CardNo": "P016",
+  "PackNo": "P",
+  "CardName": "鋼鉄竜ニヴルヘイム",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "6",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "甲竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］【装甲：緑】このスピリットは、指定された色の相手のスピリット/ネクサス/マジックの効果を受けない。"
+}

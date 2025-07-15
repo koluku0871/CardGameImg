@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS02-007', 'PackNo': 'BS02', 'CardName': '昇龍バルムンク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '翼竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／4', 'LV3 : 8000／8'], 'Text': '[Lv1-Lv2-Lv3:フラッシュ]【覚醒】自分のスピリット上から、コアを好きなだけこのスピリット上に置くことができる。'}
+﻿{
+  "CardNo": "BS02-007",
+  "PackNo": "BS02",
+  "CardName": "昇龍バルムンク",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "翼竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／4",
+    "LV3 : 8000／8"
+  ],
+  "Text": "[Lv1-Lv2-Lv3:フラッシュ]【覚醒】自分のスピリット上から、コアを好きなだけこのスピリット上に置くことができる。"
+}

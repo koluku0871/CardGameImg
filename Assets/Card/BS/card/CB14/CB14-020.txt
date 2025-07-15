@@ -1,1 +1,21 @@
-﻿{'CardNo': 'CB14-020', 'PackNo': 'CB14', 'CardName': '[セニョリータシェヘラコーデ]紅林珠璃', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '7', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '星麗・詩姫・衣装', 'Lv': ['LV1 : 5000／1', 'LV2 : 9000／2', 'LV3 : 12000／3'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』このターンの間、相手のスピリット3体をBP-10000し、BP0になったとき破壊する。 ［Lv3］【フィーバーアピール】『このスピリットのアタック時』このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置くことで、自分はデッキから3枚ドローする。この効果はターンに1回しか使えない。'}
+﻿{
+  "CardNo": "CB14-020",
+  "PackNo": "CB14",
+  "CardName": "[セニョリータシェヘラコーデ]紅林珠璃",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "7",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "星麗・詩姫・衣装",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 9000／2",
+    "LV3 : 12000／3"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』このターンの間、相手のスピリット3体をBP-10000し、BP0になったとき破壊する。 ［Lv3］【フィーバーアピール】『このスピリットのアタック時』このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、自分はデッキから3枚ドローする。この効果はターンに1回しか使えない。"
+}

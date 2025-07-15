@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS03-064', 'PackNo': 'BS03', 'CardName': '薔薇人バロッサ', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '6', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '楽族', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／4'], 'Text': '[Lv2]『自分のアタックステップ』自分の黄のマジックカードすべてを、コストを支払わずに使用できる。'}
+﻿{
+  "CardNo": "BS03-064",
+  "PackNo": "BS03",
+  "CardName": "薔薇人バロッサ",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "6",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "楽族",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／4"
+  ],
+  "Text": "[Lv2]『自分のアタックステップ』自分の黄のマジックカードすべてを、コストを支払わずに使用できる。"
+}

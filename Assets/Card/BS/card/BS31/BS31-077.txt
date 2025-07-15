@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS31-077",
+  "PackNo": "BS31",
+  "CardName": "ハグルガマ",
+  "CardRarity": "C",
+  "CardCategory": "ブレイヴ",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "忍風・樹魔",
+  "Lv": [
+    "LV1 : 2000／1",
+    "brave : +2000／"
+  ],
+  "Text": "［Lv1］『このブレイヴの召喚時』ボイドからコア1個を自分のリザーブに置く。 《合体条件：コスト3以上》 《合体時》『このスピリットのアタック時』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、相手はバーストを発動できない。"
+}

@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS25-001",
+  "PackNo": "BS25",
+  "CardName": "デブリ・ザード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "星竜",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "[Lv1-Lv2]【スピリットソウル：赤】自分がアルティメットカードを召喚するとき、このスピリットに<img src=\"/renewal/images/cardlist/ico_red.png\"/>（赤のシンボル1つ）を追加する。[Lv1-Lv2]お互いの効果で、このスピリットのコアは0個にならない。"
+}

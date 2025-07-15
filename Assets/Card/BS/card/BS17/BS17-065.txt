@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS17-065",
+  "PackNo": "BS17",
+  "CardName": "獣の楽園",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］『自分のアタックステップ』Lv1の自分のスピリットすべてをBP+2000する。 ［Lv2］『自分のエンドステップ』自分のスピリットすべてを回復させる。"
+}

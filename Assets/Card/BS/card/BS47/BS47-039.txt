@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS47-039', 'PackNo': 'BS47', 'CardName': '聖刻兵ガンナー・イウアート', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', 'ico_ultimate.png'], 'CardType': '武装', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／2'], 'Text': '［Lv1-Lv2］『自分のメインステップ』自分がカード名に「聖刻」を含むカードを召喚するとき、このスピリットと自分のカード名：「創界神トト」すべてに白のシンボル1つを追加する。 ［Lv2］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている間、自分のカード名：「聖刻兵ガンナー・イウアート」すべては、相手のスピリット/ネクサスの効果を受けない。'}
+﻿{
+  "CardNo": "BS47-039",
+  "PackNo": "BS47",
+  "CardName": "聖刻兵ガンナー・イウアート",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "ico_ultimate.png"
+  ],
+  "CardType": "武装",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／2"
+  ],
+  "Text": "［Lv1-Lv2］『自分のメインステップ』自分がカード名に「聖刻」を含むカードを召喚するとき、このスピリットと自分のカード名：「創界神トト」すべてに白のシンボル1つを追加する。 ［Lv2］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている間、自分のカード名：「聖刻兵ガンナー・イウアート」すべては、相手のスピリット/ネクサスの効果を受けない。"
+}

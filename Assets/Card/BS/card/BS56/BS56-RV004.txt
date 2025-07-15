@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS56-RV004', 'PackNo': 'BS56', 'CardName': 'ホワイトクラック', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '-', 'Lv': [], 'Text': '［ミラージュ：コスト4<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_white.png"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』自分の効果で相手のスピリットを手札に戻したとき、自分は、相手の手札1枚を内容を見ないで破棄する。 ［フラッシュ］相手のネクサス1つをデッキの上に戻す。または、自分のデッキを上から2枚オープンする。その中の系統：「来是」を持つ白のカード1枚を、召喚/配置できる。残ったカードはデッキの上か下だけに戻す。'}
+﻿{
+  "CardNo": "BS56-RV004",
+  "PackNo": "BS56",
+  "CardName": "ホワイトクラック",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト4<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』自分の効果で相手のスピリットを手札に戻したとき、自分は、相手の手札1枚を内容を見ないで破棄する。 ［フラッシュ］相手のネクサス1つをデッキの上に戻す。または、自分のデッキを上から2枚オープンする。その中の系統：「来是」を持つ白のカード1枚を、召喚/配置できる。残ったカードはデッキの上か下だけに戻す。"
+}

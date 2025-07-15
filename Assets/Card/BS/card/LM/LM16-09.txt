@@ -1,1 +1,18 @@
-﻿{'CardNo': 'LM16-09', 'PackNo': 'LM', 'CardName': 'ファイア＆ウィンド', 'CardRarity': 'LM', 'CardCategory': 'マジック', 'Element': '赤\n緑', 'Cost': '5', 'ReducedCost': ['赤', '赤', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］BP5000以下の相手のスピリット/アルティメット1体を破壊する。または、相手のスピリット/アルティメット1体を疲労させる。'}
+﻿{
+  "CardNo": "LM16-09",
+  "PackNo": "LM",
+  "CardName": "ファイア＆ウィンド",
+  "CardRarity": "LM",
+  "CardCategory": "マジック",
+  "Element": "赤\n緑",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］BP5000以下の相手のスピリット/アルティメット1体を破壊する。または、相手のスピリット/アルティメット1体を疲労させる。"
+}

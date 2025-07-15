@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS07-002",
+  "PackNo": "BS07",
+  "CardName": "翼竜人プテラディア",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "竜人・翼竜",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3：フラッシュ］【覚醒】自分のスピリット上から、コアを好きなだけこのスピリット上に置くことができる。"
+}

@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS14-090",
+  "PackNo": "BS14",
+  "CardName": "勇壮なる船上都市",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／-"
+  ],
+  "Text": "［Lv1］合体スピリットすべての「合体時BP+」を0として扱う。"
+}

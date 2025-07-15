@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS58-047', 'PackNo': 'BS58', 'CardName': '睡蓮鳥シャクティー', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄', '黄'], 'CardType': '占征・戯狩', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／2', 'LV3 : 9000／3'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』系統：「戯狩」を持つコスト4以上の自分のスピリットがアタックしたとき、自分のデッキの上から1枚をトラッシュに置ける。そのカードのコストがアタックしたスピリット以下なら、相手のライフのコア1個をリザーブに置く。［Lv1-Lv2-Lv3］『このスピリットの召喚/アタック時』このターンの間、相手のスピリット2体をBP-5000し、BP0になったとき破壊する。'}
+﻿{
+  "CardNo": "BS58-047",
+  "PackNo": "BS58",
+  "CardName": "睡蓮鳥シャクティー",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "占征・戯狩",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／2",
+    "LV3 : 9000／3"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』系統：「戯狩」を持つコスト4以上の自分のスピリットがアタックしたとき、自分のデッキの上から1枚をトラッシュに置ける。そのカードのコストがアタックしたスピリット以下なら、相手のライフのコア1個をリザーブに置く。［Lv1-Lv2-Lv3］『このスピリットの召喚/アタック時』このターンの間、相手のスピリット2体をBP-5000し、BP0になったとき破壊する。"
+}

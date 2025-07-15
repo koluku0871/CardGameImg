@@ -1,0 +1,23 @@
+﻿{
+  "CardNo": "BS34-007",
+  "PackNo": "BS34",
+  "CardName": "ムシャレックス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "緑",
+    "緑"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 8000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3：フラッシュ］【覚醒】自分のスピリットのコアを、好きなだけこのスピリットに置くことができる。 ［Lv3］『このスピリットのアタック時』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、このスピリットに緑のシンボル1つを追加する。"
+}

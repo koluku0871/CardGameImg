@@ -1,1 +1,22 @@
-﻿{'CardNo': 'SD46-007', 'PackNo': 'SD46', 'CardName': '鋼鉄雷機士ティグリゴレウス', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '白\n赤', 'Cost': '4', 'ReducedCost': ['白', '白', '赤', '赤'], 'CardType': '界渡・機人・皇獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／4'], 'Text': '［メイン］【アクセル】コスト3<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（この効果は手札から使用できる）自分はデッキから1枚ドローする。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2-Lv3］このスピリットは、相手のスピリット/ネクサスの効果を受けない。 ［Lv2-Lv3］『相手のアタックステップ』このスピリットをBP+3000する。さらに、このスピリットは疲労状態でブロックできる。'}
+﻿{
+  "CardNo": "SD46-007",
+  "PackNo": "SD46",
+  "CardName": "鋼鉄雷機士ティグリゴレウス",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "白\n赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白",
+    "赤",
+    "赤"
+  ],
+  "CardType": "界渡・機人・皇獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "［メイン］【アクセル】コスト3<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（この効果は手札から使用できる）自分はデッキから1枚ドローする。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2-Lv3］このスピリットは、相手のスピリット/ネクサスの効果を受けない。 ［Lv2-Lv3］『相手のアタックステップ』このスピリットをBP+3000する。さらに、このスピリットは疲労状態でブロックできる。"
+}

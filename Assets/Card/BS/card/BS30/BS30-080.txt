@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS30-080",
+  "PackNo": "BS30",
+  "CardName": "エレメンタルバーン",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "ico_ultimate.png"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、相手のスピリット/アルティメット1体をBP-10000する。この効果でBP0になったアルティメットを破壊する。"
+}

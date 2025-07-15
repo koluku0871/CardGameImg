@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS29-016",
+  "PackNo": "BS29",
+  "CardName": "ネコジャラン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑",
+    "赤",
+    "青"
+  ],
+  "CardType": "遊精",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1］このスピリットの色とシンボルは青としても扱う。 ［Lv2］このスピリットの色とシンボルは赤としても扱う。"
+}

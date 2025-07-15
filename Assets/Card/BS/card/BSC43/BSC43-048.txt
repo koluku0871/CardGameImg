@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BSC43-048', 'PackNo': 'BSC43', 'CardName': '[10thディーバ]ピスティナ・ガレオン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '詩姫・衣装', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／3'], 'Text': '【チーム：CoZ12】［Lv1-Lv2-Lv3］【CoZ12】を持つ自分のスピリットが相手によってフィールドを離れるとき、自分のトラッシュにある「10thディーバ」1枚を手札に戻せる。'}
+﻿{
+  "CardNo": "BSC43-048",
+  "PackNo": "BSC43",
+  "CardName": "[10thディーバ]ピスティナ・ガレオン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "詩姫・衣装",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／3"
+  ],
+  "Text": "【チーム：CoZ12】［Lv1-Lv2-Lv3］【CoZ12】を持つ自分のスピリットが相手によってフィールドを離れるとき、自分のトラッシュにある「10thディーバ」1枚を手札に戻せる。"
+}

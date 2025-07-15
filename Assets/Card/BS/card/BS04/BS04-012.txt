@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS04-012', 'PackNo': 'BS04', 'CardName': 'バンシィ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': ['紫'], 'CardType': '幽魔', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 4000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS04-012",
+  "PackNo": "BS04",
+  "CardName": "バンシィ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "1",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "幽魔",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 4000／4"
+  ],
+  "Text": "-"
+}

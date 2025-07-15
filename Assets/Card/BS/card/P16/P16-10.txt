@@ -1,1 +1,17 @@
-﻿{'CardNo': 'P16-10', 'PackNo': 'P16', 'CardName': '秋は紅葉狩り', 'CardRarity': 'P', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］9月1日～11月30日の間、自分の赤のスピリットの「BP破壊効果」の上限を+3000する。 ［Lv2］『自分のドローステップ』ドローの枚数を+1枚する。ドロー後、自分は手札1枚を破棄する。'}
+﻿{
+  "CardNo": "P16-10",
+  "PackNo": "P16",
+  "CardName": "秋は紅葉狩り",
+  "CardRarity": "P",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］9月1日～11月30日の間、自分の赤のスピリットの「BP破壊効果」の上限を+3000する。 ［Lv2］『自分のドローステップ』ドローの枚数を+1枚する。ドロー後、自分は手札1枚を破棄する。"
+}

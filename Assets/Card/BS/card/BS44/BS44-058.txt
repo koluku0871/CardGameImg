@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS44-058",
+  "PackNo": "BS44",
+  "CardName": "砂海の獣人ドルカスガゼル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／4"
+  ],
+  "Text": "［Lv1-Lv2］『相手によるこのスピリットの破壊時』ボイドからコア1個を自分のネクサスか創界神ネクサスに置く。"
+}

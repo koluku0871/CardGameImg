@@ -1,0 +1,24 @@
+﻿{
+  "CardNo": "BS35-XX02",
+  "PackNo": "BS35",
+  "CardName": "天魔王ゴッド・ゼクス　-終ノ型-",
+  "CardRarity": "XX",
+  "CardCategory": "スピリット",
+  "Element": "赤\n紫\n緑\n白\n黄\n青",
+  "Cost": "12",
+  "ReducedCost": [
+    "赤",
+    "紫",
+    "緑",
+    "白",
+    "黄",
+    "青"
+  ],
+  "CardType": "天魔王",
+  "Lv": [
+    "LV1 : 14000／1",
+    "LV2 : 18000／2",
+    "LV3 : 27000／5"
+  ],
+  "Text": "［フラッシュ］『お互いのアタックステップ』手札にあるこのスピリットカードは、カード名に「ゴッド・ゼクス」と入っている自分のスピリットと同じ状態で入れ替えることができる。 ［Lv3］『自分のターン』自分のスピリットすべては、相手のスピリット/マジックの効果を受けない。【六天連鎖：条件《シンボル6色》】自分のシンボルが6色ある間、アタックしている自分のスピリットのシンボルを<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（赤、紫、緑、白、黄、青1つずつ）にする。"
+}

@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC23-002', 'PackNo': 'BSC23', 'CardName': '[微笑み小町]ラン・ブレイセア', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '詩姫・衣装', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／2', 'LV3 : 6000／3'], 'Text': '【チーム：シャイニーハーツ】［Lv1-Lv2-Lv3］【ソロパート】このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、自分の「ラン・ブレイセア」すべては、相手の効果で破壊されない。 ［Lv2-Lv3］『お互いのアタックステップ』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、このスピリット以外の「ラン・ブレイセア」が疲労したとき、このスピリットは回復する。'}
+﻿{
+  "CardNo": "BSC23-002",
+  "PackNo": "BSC23",
+  "CardName": "[微笑み小町]ラン・ブレイセア",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "詩姫・衣装",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2",
+    "LV3 : 6000／3"
+  ],
+  "Text": "【チーム：シャイニーハーツ】［Lv1-Lv2-Lv3］【ソロパート】このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、自分の「ラン・ブレイセア」すべては、相手の効果で破壊されない。 ［Lv2-Lv3］『お互いのアタックステップ』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、このスピリット以外の「ラン・ブレイセア」が疲労したとき、このスピリットは回復する。"
+}

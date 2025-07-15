@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS03-061', 'PackNo': 'BS03', 'CardName': '苺っ娘ストロベリ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄'], 'CardType': '楽族', 'Lv': ['LV1 : 4000／1', 'LV2 : 5000／3'], 'Text': '[Lv2]『このスピリットの破壊時』【光芒】を持つ自分のスピリット1体を回復させる。'}
+﻿{
+  "CardNo": "BS03-061",
+  "PackNo": "BS03",
+  "CardName": "苺っ娘ストロベリ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "楽族",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "[Lv2]『このスピリットの破壊時』【光芒】を持つ自分のスピリット1体を回復させる。"
+}

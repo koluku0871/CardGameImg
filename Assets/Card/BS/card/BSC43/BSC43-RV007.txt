@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BSC43-RV007', 'PackNo': 'BSC43', 'CardName': '[全力歌姫]キャンディ・サード', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '6', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '詩姫・衣装', 'Lv': ['LV1 : 5000／1', 'LV2 : 10000／3'], 'Text': '【チーム：CoZ12/アブソリューツ】［Lv1-Lv2］【CoZ12パート】このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている間、【CoZ12】を持つ自分のスピリットすべては、相手の効果で破壊されない。 ［Lv2］『自分のアタックステップ』【CoZ12】を持つ自分のスピリットがアタックしたとき、相手はブロックするなら、Lv合計4以上のスピリット1体以上でないとブロックできず、どれか1体とだけバトルする。'}
+﻿{
+  "CardNo": "BSC43-RV007",
+  "PackNo": "BSC43",
+  "CardName": "[全力歌姫]キャンディ・サード",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "6",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "詩姫・衣装",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 10000／3"
+  ],
+  "Text": "【チーム：CoZ12/アブソリューツ】［Lv1-Lv2］【CoZ12パート】このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている間、【CoZ12】を持つ自分のスピリットすべては、相手の効果で破壊されない。 ［Lv2］『自分のアタックステップ』【CoZ12】を持つ自分のスピリットがアタックしたとき、相手はブロックするなら、Lv合計4以上のスピリット1体以上でないとブロックできず、どれか1体とだけバトルする。"
+}

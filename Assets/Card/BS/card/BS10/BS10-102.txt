@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS10-102",
+  "PackNo": "BS10",
+  "CardName": "コアスティール",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]相手のスピリット1体の上のコアを、1個だけになるように相手のリザーブに置く。"
+}

@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS18-020",
+  "PackNo": "BS18",
+  "CardName": "ブフモット",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "剣獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの破壊時』BP4000以下の相手のスピリット2体を疲労させる。"
+}

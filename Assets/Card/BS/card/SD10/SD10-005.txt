@@ -1,1 +1,20 @@
-﻿{'CardNo': 'SD10-005', 'PackNo': 'SD10', 'CardName': 'ブロンズ・ヴルム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '星竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 8000／5'], 'Text': '［Lv1-Lv2-Lv3］【強化】自分の「BP破壊効果」の上限を+1000する。'}
+﻿{
+  "CardNo": "SD10-005",
+  "PackNo": "SD10",
+  "CardName": "ブロンズ・ヴルム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "星竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 8000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］【強化】自分の「BP破壊効果」の上限を+1000する。"
+}

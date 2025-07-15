@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BS18-005",
+  "PackNo": "BS18",
+  "CardName": "護獣シシンギニ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "雄将・皇獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3",
+    "LV3 : 7000／7"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］お互いのデッキは破棄されない。［Lv1-Lv2-Lv3］自分のスピリットが2体以下の間、このスピリットはLv3として扱う。"
+}

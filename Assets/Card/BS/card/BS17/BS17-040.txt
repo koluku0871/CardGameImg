@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS17-040",
+  "PackNo": "BS17",
+  "CardName": "呪術士リオ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "導魔",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "-"
+}

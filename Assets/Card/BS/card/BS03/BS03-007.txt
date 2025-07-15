@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS03-007', 'PackNo': 'BS03', 'CardName': 'フレイム・エルク', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3', 'LV3 : 6000／5'], 'Text': '[Lv1-Lv2-Lv3]『このスピリットの召喚時』コアが1個以上置かれているネクサスすべてを破壊する。'}
+﻿{
+  "CardNo": "BS03-007",
+  "PackNo": "BS03",
+  "CardName": "フレイム・エルク",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "皇獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 6000／5"
+  ],
+  "Text": "[Lv1-Lv2-Lv3]『このスピリットの召喚時』コアが1個以上置かれているネクサスすべてを破壊する。"
+}

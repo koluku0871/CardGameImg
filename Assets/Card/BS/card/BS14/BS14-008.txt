@@ -1,0 +1,22 @@
+﻿{
+  "CardNo": "BS14-008",
+  "PackNo": "BS14",
+  "CardName": "ペンタケラトップ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／2",
+    "LV3 : 9000／5"
+  ],
+  "Text": "-"
+}

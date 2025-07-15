@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS17-010",
+  "PackNo": "BS17",
+  "CardName": "マッドーロ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "幽魔",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "-"
+}

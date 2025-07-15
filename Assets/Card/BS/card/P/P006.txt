@@ -1,1 +1,22 @@
-﻿{'CardNo': 'P006', 'PackNo': 'P', 'CardName': '鉄騎竜マクシミリオン', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤', '赤'], 'CardType': '古竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 9000／6'], 'Text': '-'}
+﻿{
+  "CardNo": "P006",
+  "PackNo": "P",
+  "CardName": "鉄騎竜マクシミリオン",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "古竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 9000／6"
+  ],
+  "Text": "-"
+}

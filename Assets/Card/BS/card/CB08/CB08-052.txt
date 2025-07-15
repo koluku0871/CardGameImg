@@ -1,1 +1,21 @@
-﻿{'CardNo': 'CB08-052', 'PackNo': 'CB08', 'CardName': '仮面ライダーギャレン ジャックフォーム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '仮面・四道', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／2', 'LV3 : 8000／3'], 'Text': '［フラッシュ］【チェンジ】コスト5<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（この効果は手札から使用できる）相手のスピリット1体を指定する。このターンの間、そのスピリットはアタック/ブロックできない。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。 ［Lv2-Lv3］『このスピリットのアタック時』このターンの間、相手のスピリット1体をBP-8000する。この効果でBP0になったスピリットを破壊する。'}
+﻿{
+  "CardNo": "CB08-052",
+  "PackNo": "CB08",
+  "CardName": "仮面ライダーギャレン ジャックフォーム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "仮面・四道",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／2",
+    "LV3 : 8000／3"
+  ],
+  "Text": "［フラッシュ］【チェンジ】コスト5<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（この効果は手札から使用できる）相手のスピリット1体を指定する。このターンの間、そのスピリットはアタック/ブロックできない。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。 ［Lv2-Lv3］『このスピリットのアタック時』このターンの間、相手のスピリット1体をBP-8000する。この効果でBP0になったスピリットを破壊する。"
+}

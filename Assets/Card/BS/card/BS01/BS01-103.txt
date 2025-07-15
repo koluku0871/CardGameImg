@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS01-103', 'PackNo': 'BS01', 'CardName': '命を吸う沼', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': ['LV1 : -／0', 'LV2 : -／3', 'LV3 : -／-'], 'Text': '[Lv1-Lv2]『自分のスタートステップ』相手のリザーブにあるコアすべてをトラッシュに置く。 [Lv2]『自分のスタートステップ』相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "BS01-103",
+  "PackNo": "BS01",
+  "CardName": "命を吸う沼",
+  "CardRarity": "U",
+  "CardCategory": "ネクサス",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／0",
+    "LV2 : -／3",
+    "LV3 : -／-"
+  ],
+  "Text": "[Lv1-Lv2]『自分のスタートステップ』相手のリザーブにあるコアすべてをトラッシュに置く。 [Lv2]『自分のスタートステップ』相手のスピリット1体を疲労させる。"
+}

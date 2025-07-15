@@ -1,1 +1,16 @@
-﻿{'CardNo': 'CB22-059', 'PackNo': 'CB22', 'CardName': 'ダークゼペリオン光線', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］相手のスピリットのコア2個をリザーブに置く。自分のデッキが10枚以下のとき、かわりに、相手のスピリットのコア3個をトラッシュに置く。'}
+﻿{
+  "CardNo": "CB22-059",
+  "PackNo": "CB22",
+  "CardName": "ダークゼペリオン光線",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手のスピリットのコア2個をリザーブに置く。自分のデッキが10枚以下のとき、かわりに、相手のスピリットのコア3個をトラッシュに置く。"
+}

@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS01-146', 'PackNo': 'BS01', 'CardName': 'ドリームリボン', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]相手のスピリット1体を相手の手札に戻す。'}
+﻿{
+  "CardNo": "BS01-146",
+  "PackNo": "BS01",
+  "CardName": "ドリームリボン",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／-",
+    "LV2 : -／-",
+    "LV3 : -／-"
+  ],
+  "Text": "[フラッシュ]相手のスピリット1体を相手の手札に戻す。"
+}

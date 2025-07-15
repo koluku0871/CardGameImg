@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS01-127', 'PackNo': 'BS01', 'CardName': 'キラーテレスコープ', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[メイン]このターンの間、疲労状態のスピリットをアタックの対象に選ぶことができる。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。'}
+﻿{
+  "CardNo": "BS01-127",
+  "PackNo": "BS01",
+  "CardName": "キラーテレスコープ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／-",
+    "LV2 : -／-",
+    "LV3 : -／-"
+  ],
+  "Text": "[メイン]このターンの間、疲労状態のスピリットをアタックの対象に選ぶことができる。 [フラッシュ]このターンの間、スピリット1体をBP+2000する。"
+}

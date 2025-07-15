@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS06-018",
+  "PackNo": "BS06",
+  "CardName": "人狼ルー・ガウル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "夜族",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』相手のスピリット1体の上のコアを1個だけ残し、それ以外を相手のリザーブに置く。"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS34-076",
+  "PackNo": "BS34",
+  "CardName": "神威ウィンド",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］相手のスピリット1体を疲労させる。または、相手のトラッシュにあるカード名が同じカード3枚までをデッキの下に戻す。"
+}

@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS16-053",
+  "PackNo": "BS16",
+  "CardName": "イルルヤンカッシュ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "6",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "海首",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 9000／4"
+  ],
+  "Text": "-"
+}

@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS37-061",
+  "PackNo": "BS37",
+  "CardName": "巨人王子シャトルグナ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "自分の手元にあるこのスピリットカードのシンボルは、フィールドにあるものとしても扱う。［フラッシュ］【アクセル】コスト3<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（この効果は手札から使用できる）コスト4以下の相手のスピリット1体を破壊する。この効果発揮後、このカードはオープンして手元に置く。"
+}

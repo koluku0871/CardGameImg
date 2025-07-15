@@ -1,1 +1,21 @@
-﻿{'CardNo': 'PX15-02', 'PackNo': 'PX', 'CardName': '戦国槍神 空華琉・彫雲', 'CardRarity': 'PX', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '7', 'ReducedCost': ['白', '白', '白'], 'CardType': '機巧・武装', 'Lv': ['LV1 : 6000／1', 'LV2 : 8000／2', 'LV3 : 12000／4'], 'Text': '［Lv1-Lv2-Lv3］このスピリットとソウルコアが置かれている自分のスピリットは、相手のスピリット/アルティメット/ブレイヴの効果を受けない。 ［Lv2-Lv3］『相手のターン』相手がマジックカードを使用したとき、自分のスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のトラッシュに置くことで、その効果を無効にする。'}
+﻿{
+  "CardNo": "PX15-02",
+  "PackNo": "PX",
+  "CardName": "戦国槍神 空華琉・彫雲",
+  "CardRarity": "PX",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "7",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "機巧・武装",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 8000／2",
+    "LV3 : 12000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］このスピリットとソウルコアが置かれている自分のスピリットは、相手のスピリット/アルティメット/ブレイヴの効果を受けない。 ［Lv2-Lv3］『相手のターン』相手がマジックカードを使用したとき、自分のスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のトラッシュに置くことで、その効果を無効にする。"
+}

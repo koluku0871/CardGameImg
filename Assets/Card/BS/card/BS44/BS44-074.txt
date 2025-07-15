@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS44-074",
+  "PackNo": "BS44",
+  "CardName": "オリン円錐山",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／3"
+  ],
+  "Text": "［Lv1-Lv2］自分の赤のスピリットすべては、相手の効果でフィールドから手札/デッキに戻らない。 ［Lv2］『自分のドローステップ』ドローの枚数を+1枚する。"
+}

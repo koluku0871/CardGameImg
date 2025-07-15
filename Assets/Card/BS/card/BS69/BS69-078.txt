@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS69-078', 'PackNo': 'BS69', 'CardName': '封印大地：海', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '青', 'Cost': '3', 'ReducedCost': ['全', '全'], 'CardType': '原初', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］自分が系統：「原初」を持つスピリットカード/ネクサスカードを召喚/配置するとき、その軽減シンボル<img src="/renewal/images/cardlist/ico_red.png"/>/<img src="/renewal/images/cardlist/ico_yellow.png"/>/<img src="/renewal/images/cardlist/ico_blue.png"/>1つを満たす。［Lv1-Lv2］『このネクサスの破壊時』最もコストの低い相手のスピリット/アルティメット1体を破壊する。 ［Lv2］『相手のアタックステップ』コスト3以下の相手のスピリット/アルティメットがアタックするとき、相手は、相手のリザーブのコア1個をトラッシュに置かなければアタックできない。'}
+﻿{
+  "CardNo": "BS69-078",
+  "PackNo": "BS69",
+  "CardName": "封印大地：海",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "全",
+    "全"
+  ],
+  "CardType": "原初",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］自分が系統：「原初」を持つスピリットカード/ネクサスカードを召喚/配置するとき、その軽減シンボル<img src=\"/renewal/images/cardlist/ico_red.png\"/>/<img src=\"/renewal/images/cardlist/ico_yellow.png\"/>/<img src=\"/renewal/images/cardlist/ico_blue.png\"/>1つを満たす。［Lv1-Lv2］『このネクサスの破壊時』最もコストの低い相手のスピリット/アルティメット1体を破壊する。 ［Lv2］『相手のアタックステップ』コスト3以下の相手のスピリット/アルティメットがアタックするとき、相手は、相手のリザーブのコア1個をトラッシュに置かなければアタックできない。"
+}

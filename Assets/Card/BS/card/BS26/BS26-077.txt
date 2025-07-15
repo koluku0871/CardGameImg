@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS26-077",
+  "PackNo": "BS26",
+  "CardName": "アルティメットウィンド",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "ico_ultimate.png"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、自分のアルティメットが疲労するたび、相手のスピリット1体を疲労させる。"
+}

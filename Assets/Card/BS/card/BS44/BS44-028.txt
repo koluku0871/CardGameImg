@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS44-028",
+  "PackNo": "BS44",
+  "CardName": "ストレチア・バンディクー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "剣獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／3"
+  ],
+  "Text": "［Lv1-Lv2］このスピリットが相手の効果でフィールドを離れるとき、相手のスピリット2体を疲労させる。"
+}

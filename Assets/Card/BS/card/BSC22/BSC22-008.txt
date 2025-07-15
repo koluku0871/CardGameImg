@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC22-008', 'PackNo': 'BSC22', 'CardName': 'メタルバーン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '機竜', 'Lv': ['LV1 : 7000／1', 'LV2 : 9000／3', 'LV3 : 18000／8'], 'Text': '-'}
+﻿{
+  "CardNo": "BSC22-008",
+  "PackNo": "BSC22",
+  "CardName": "メタルバーン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "機竜",
+  "Lv": [
+    "LV1 : 7000／1",
+    "LV2 : 9000／3",
+    "LV3 : 18000／8"
+  ],
+  "Text": "-"
+}

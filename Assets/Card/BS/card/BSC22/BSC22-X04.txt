@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BSC22-X04', 'PackNo': 'BSC22', 'CardName': '要塞皇オーディーン', 'CardRarity': 'X', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '6', 'ReducedCost': ['白', '白', '白', '白'], 'CardType': '動器', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／3', 'LV3 : 10000／6'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のトラッシュに置くことで、このターンの間、お互いのネクサス1つにつき、自分の白のスピリット1体はブロックされない。 ［Lv2-Lv3］このスピリットとお互いのネクサスすべては、相手のスピリット/アルティメットの効果を受けない。'}
+﻿{
+  "CardNo": "BSC22-X04",
+  "PackNo": "BSC22",
+  "CardName": "要塞皇オーディーン",
+  "CardRarity": "X",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "6",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "動器",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／3",
+    "LV3 : 10000／6"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットのアタック時』このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のトラッシュに置くことで、このターンの間、お互いのネクサス1つにつき、自分の白のスピリット1体はブロックされない。 ［Lv2-Lv3］このスピリットとお互いのネクサスすべては、相手のスピリット/アルティメットの効果を受けない。"
+}

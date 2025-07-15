@@ -1,1 +1,20 @@
-﻿{'CardNo': 'P011', 'PackNo': 'P', 'CardName': '首無し騎士デュラハン', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '無魔・戦騎', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3', 'LV3 : 7000／5'], 'Text': '-'}
+﻿{
+  "CardNo": "P011",
+  "PackNo": "P",
+  "CardName": "首無し騎士デュラハン",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "無魔・戦騎",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 7000／5"
+  ],
+  "Text": "-"
+}

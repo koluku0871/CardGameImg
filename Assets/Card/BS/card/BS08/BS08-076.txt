@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS08-076",
+  "PackNo": "BS08",
+  "CardName": "アンブッシュブロッカー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]このターンの間、相手のコスト3以下のスピリットすべては、可能ならば必ずアタックする。"
+}

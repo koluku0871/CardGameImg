@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS62-045', 'PackNo': 'BS62', 'CardName': 'アルカナバード ハートエナガ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄'], 'CardType': '金雲・四道', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv2］このスピリットが相手の効果で破壊されたとき、このスピリット以外の系統：「金雲」を持つ自分のスピリット1体を回復させる。'}
+﻿{
+  "CardNo": "BS62-045",
+  "PackNo": "BS62",
+  "CardName": "アルカナバード ハートエナガ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "金雲・四道",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［Lv2］このスピリットが相手の効果で破壊されたとき、このスピリット以外の系統：「金雲」を持つ自分のスピリット1体を回復させる。"
+}

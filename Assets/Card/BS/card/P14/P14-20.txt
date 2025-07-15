@@ -1,1 +1,17 @@
-﻿{'CardNo': 'P14-20', 'PackNo': 'P14', 'CardName': 'ブーブートラップ', 'CardRarity': 'P', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '7', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］スピリットすべてを疲労させる。'}
+﻿{
+  "CardNo": "P14-20",
+  "PackNo": "P14",
+  "CardName": "ブーブートラップ",
+  "CardRarity": "P",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "7",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］スピリットすべてを疲労させる。"
+}

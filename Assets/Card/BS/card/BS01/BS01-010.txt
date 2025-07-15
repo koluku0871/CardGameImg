@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS01-010', 'PackNo': 'BS01', 'CardName': 'チャクラムバット', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '空牙', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '[Lv1-Lv2]『このスピリットのアタック時』このスピリットをBP+4000する。'}
+﻿{
+  "CardNo": "BS01-010",
+  "PackNo": "BS01",
+  "CardName": "チャクラムバット",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "空牙",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットのアタック時』このスピリットをBP+4000する。"
+}

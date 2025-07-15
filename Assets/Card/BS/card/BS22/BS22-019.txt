@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS22-019",
+  "PackNo": "BS22",
+  "CardName": "ゲニン・スズメ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "1",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "爪鳥",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの破壊時』相手は、相手のスピリット2体を疲労させる。"
+}

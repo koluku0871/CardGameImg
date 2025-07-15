@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS06-099",
+  "PackNo": "BS06",
+  "CardName": "サベージパワー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、スピリット1体を、そのスピリットが持つシンボル1つにつき、BP+2000する。"
+}

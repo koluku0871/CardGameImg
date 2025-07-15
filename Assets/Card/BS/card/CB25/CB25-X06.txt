@@ -1,1 +1,22 @@
-﻿{'CardNo': 'CB25-X06', 'PackNo': 'CB25', 'CardName': 'ガンダム・エアリアル[ガンビット]', 'CardRarity': 'X', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '8', 'ReducedCost': ['黄', '黄', '黄', '黄'], 'CardType': '学園', 'Lv': ['LV1 : 7000／1', 'LV2 : 13000／2', 'OC : 5000／2+'], 'Text': '［フラッシュ］《契約煌臨：学園＆コスト6以上》『お互いのアタックステップ』自分の<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。［Lv1-Lv2］『このスピリットの煌臨/アタック時』Lv1/Lv2の相手のスピリット1体ずつを好きなだけデッキの下に戻せる。その後、「スレッタ」との合体中、このバトルの間、このスピリットに黄シンボル1つを追加できる。 《OC条件：カウント2以上》【OC中＆合体中】［Lv2］自分の手札にある系統：「学園」を持つカードすべては、“［フラッシュ］自分の「エアリアル」1体を回復させる”を持つコスト4<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>のマジックカードとして使用できる。'}
+﻿{
+  "CardNo": "CB25-X06",
+  "PackNo": "CB25",
+  "CardName": "ガンダム・エアリアル[ガンビット]",
+  "CardRarity": "X",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "8",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "学園",
+  "Lv": [
+    "LV1 : 7000／1",
+    "LV2 : 13000／2",
+    "OC : 5000／2+"
+  ],
+  "Text": "［フラッシュ］《契約煌臨：学園＆コスト6以上》『お互いのアタックステップ』自分の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。［Lv1-Lv2］『このスピリットの煌臨/アタック時』Lv1/Lv2の相手のスピリット1体ずつを好きなだけデッキの下に戻せる。その後、「スレッタ」との合体中、このバトルの間、このスピリットに黄シンボル1つを追加できる。 《OC条件：カウント2以上》【OC中＆合体中】［Lv2］自分の手札にある系統：「学園」を持つカードすべては、“［フラッシュ］自分の「エアリアル」1体を回復させる”を持つコスト4<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>のマジックカードとして使用できる。"
+}

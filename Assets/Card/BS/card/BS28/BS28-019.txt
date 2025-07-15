@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS28-019",
+  "PackNo": "BS28",
+  "CardName": "ブレイド・ジー",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "1",
+  "ReducedCost": [
+    "ico_ultimate.png"
+  ],
+  "CardType": "刃虫",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／7"
+  ],
+  "Text": "［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。"
+}

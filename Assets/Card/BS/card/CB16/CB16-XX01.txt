@@ -1,1 +1,23 @@
-﻿{'CardNo': 'CB16-XX01', 'PackNo': 'CB16', 'CardName': 'トランザムライザー', 'CardRarity': 'XX', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '9', 'ReducedCost': ['青', '青', '青', '青', '青'], 'CardType': 'MS・CB', 'Lv': ['LV1 : 12000／1', 'LV2 : 16000／2', 'LV3 : 25000／5'], 'Text': 'このカード/スピリットはカード名に「ダブルオー」を含むものとしても扱う。［フラッシュ］【チェンジ】コスト6<img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/><img src="/renewal/images/cardlist/ico_blue.png"/>（この効果は手札から使用できる）ブレイヴのコストを無視して、コスト合計10まで相手のスピリットを好きなだけ破壊する。この効果発揮後、このカードを破棄するか、カード名に「ダブルオー」を含む自分のスピリットと回復状態で入れ替える。 ［Lv2-Lv3：フラッシュ］『このスピリットのアタック時』お互いの手札すべてをオープンして手元に置く。その後、自分の手元のカードが5枚以上のとき、このバトルの間、このスピリットのシンボルを青シンボル5つにする。'}
+﻿{
+  "CardNo": "CB16-XX01",
+  "PackNo": "CB16",
+  "CardName": "トランザムライザー",
+  "CardRarity": "XX",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "9",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "MS・CB",
+  "Lv": [
+    "LV1 : 12000／1",
+    "LV2 : 16000／2",
+    "LV3 : 25000／5"
+  ],
+  "Text": "このカード/スピリットはカード名に「ダブルオー」を含むものとしても扱う。［フラッシュ］【チェンジ】コスト6<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（この効果は手札から使用できる）ブレイヴのコストを無視して、コスト合計10まで相手のスピリットを好きなだけ破壊する。この効果発揮後、このカードを破棄するか、カード名に「ダブルオー」を含む自分のスピリットと回復状態で入れ替える。 ［Lv2-Lv3：フラッシュ］『このスピリットのアタック時』お互いの手札すべてをオープンして手元に置く。その後、自分の手元のカードが5枚以上のとき、このバトルの間、このスピリットのシンボルを青シンボル5つにする。"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS31-109",
+  "PackNo": "BS31",
+  "CardName": "イエローリカバー",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分の黄のスピリット1体を回復させる。この効果はターンに1回しか使えない。"
+}

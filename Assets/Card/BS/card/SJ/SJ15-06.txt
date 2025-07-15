@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SJ15-06', 'PackNo': 'SJ', 'CardName': '三臣竜 火縄のクランド', 'CardRarity': 'SJ', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤'], 'CardType': '戦極・武竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』BP合計5000まで相手のスピリットを好きなだけ破壊する。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)を使用していたら、この効果の「BP破壊効果」の上限を+5000する。 [Lv2]『このスピリットのアタック時』相手の合体しているブレイヴ1つを破壊する。または、相手のネクサス1つを破壊する。'}
+﻿{
+  "CardNo": "SJ15-06",
+  "PackNo": "SJ",
+  "CardName": "三臣竜 火縄のクランド",
+  "CardRarity": "SJ",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "戦極・武竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』BP合計5000まで相手のスピリットを好きなだけ破壊する。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>(ソウルコア)を使用していたら、この効果の「BP破壊効果」の上限を+5000する。 [Lv2]『このスピリットのアタック時』相手の合体しているブレイヴ1つを破壊する。または、相手のネクサス1つを破壊する。"
+}

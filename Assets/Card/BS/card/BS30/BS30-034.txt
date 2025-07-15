@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS30-034",
+  "PackNo": "BS30",
+  "CardName": "生還者ビーバード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青",
+    "緑"
+  ],
+  "CardType": "護将・異合",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv1-Lv2］お互いのデッキは破棄されず、このスピリットは相手の効果で破壊されない。"
+}

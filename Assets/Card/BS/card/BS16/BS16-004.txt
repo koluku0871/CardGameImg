@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS16-004",
+  "PackNo": "BS16",
+  "CardName": "アシガリュー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "竜人",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 7000／3"
+  ],
+  "Text": "-"
+}

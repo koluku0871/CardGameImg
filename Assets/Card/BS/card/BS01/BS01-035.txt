@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS01-035', 'PackNo': 'BS01', 'CardName': 'ボーン・グラディエイター', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '呪鬼', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 8000／6'], 'Text': '[Lv1-Lv2-Lv3]『このスピリットのアタック時』このスピリットは、緑のスピリットからブロックされない'}
+﻿{
+  "CardNo": "BS01-035",
+  "PackNo": "BS01",
+  "CardName": "ボーン・グラディエイター",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "呪鬼",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2",
+    "LV3 : 8000／6"
+  ],
+  "Text": "[Lv1-Lv2-Lv3]『このスピリットのアタック時』このスピリットは、緑のスピリットからブロックされない"
+}

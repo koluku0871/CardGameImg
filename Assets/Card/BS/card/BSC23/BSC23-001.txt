@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC23-001', 'PackNo': 'BSC23', 'CardName': '[うさみみジャンプ]ラビィ・ダーリン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '詩姫・衣装', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '【チーム：シャイニーハーツ】［Lv1-Lv2］【ソロパート】このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、自分の「ラビィ・ダーリン」すべては、相手の効果で破壊されない。 ［Lv2］『自分のアタックステップ』このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、【シャイニーハーツ】を持つ自分のスピリットが【オンステージ】したとき、相手のスピリット1体を手札に戻す。'}
+﻿{
+  "CardNo": "BSC23-001",
+  "PackNo": "BSC23",
+  "CardName": "[うさみみジャンプ]ラビィ・ダーリン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "詩姫・衣装",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "【チーム：シャイニーハーツ】［Lv1-Lv2］【ソロパート】このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、自分の「ラビィ・ダーリン」すべては、相手の効果で破壊されない。 ［Lv2］『自分のアタックステップ』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、【シャイニーハーツ】を持つ自分のスピリットが【オンステージ】したとき、相手のスピリット1体を手札に戻す。"
+}

@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS43-049",
+  "PackNo": "BS43",
+  "CardName": "不思議王国キングユニコーン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "輝属・四道",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト4<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（この効果は手札から使用できる）このターンの間、系統：「誕晶神」/「輝属」/「四道」を持つ自分のスピリットすべてはLv1の相手のスピリットからブロックされない。この効果発揮後、このカードはオープンして手元に置く。系統：「誕晶神」を持つ自分のスピリットがいるとき、手元に置かずに、コストを支払わずに召喚できる。"
+}

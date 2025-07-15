@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BS21-049",
+  "PackNo": "BS21",
+  "CardName": "海の彫刻家ナポレオ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "創手",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／4",
+    "LV3 : 9000／6"
+  ],
+  "Text": "-"
+}

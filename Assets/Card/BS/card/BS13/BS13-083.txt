@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS13-083",
+  "PackNo": "BS13",
+  "CardName": "ギャラクシーエターナルレクイエム",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]このターンの間、自分のスピリットすべてを、そのスピリットが持つ最高Lvとして扱う。"
+}

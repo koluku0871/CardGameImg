@@ -1,0 +1,22 @@
+﻿{
+  "CardNo": "BS10-030",
+  "PackNo": "BS10",
+  "CardName": "将軍アントマン",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "7",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "殻人・怪虫",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／3"
+  ],
+  "Text": "［Lv1-Lv2］系統：「殻人」を持つ自分のスピリット1体につき、このスピリットをBP+2000する。"
+}

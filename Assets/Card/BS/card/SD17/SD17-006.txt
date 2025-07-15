@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SD17-006', 'PackNo': 'SD17', 'CardName': '激竜ランベオス', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］【激突】『このスピリットのアタック時』相手は可能ならば必ずブロックする。 ［Lv2］『このスピリットのアタック時』自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "SD17-006",
+  "PackNo": "SD17",
+  "CardName": "激竜ランベオス",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］【激突】『このスピリットのアタック時』相手は可能ならば必ずブロックする。 ［Lv2］『このスピリットのアタック時』自分はデッキから1枚ドローする。"
+}

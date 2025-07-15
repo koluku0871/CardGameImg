@@ -1,1 +1,20 @@
-﻿{'CardNo': 'CB21-007', 'PackNo': 'CB21', 'CardName': 'エヴァンゲリオン 正規実用型（ヴィレカスタム）8号機β -長距離ライフル-', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '造兵・WILLE', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／3'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『お互いのアタックステップ』ターンに1回、自分の手札にある系統：「WILLE」を持つカード1枚を破棄することで、ブレイヴの「BP+」を無視して、BP7000以下の相手のスピリット1体を破壊する。この効果は相手の効果では防げない。［Lv1-Lv2］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれている相手のスピリット以外の相手の効果を受けない。'}
+﻿{
+  "CardNo": "CB21-007",
+  "PackNo": "CB21",
+  "CardName": "エヴァンゲリオン 正規実用型（ヴィレカスタム）8号機β -長距離ライフル-",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "造兵・WILLE",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／3"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］『お互いのアタックステップ』ターンに1回、自分の手札にある系統：「WILLE」を持つカード1枚を破棄することで、ブレイヴの「BP+」を無視して、BP7000以下の相手のスピリット1体を破壊する。この効果は相手の効果では防げない。［Lv1-Lv2］【A.T.フィールド】『このスピリットのアタック/ブロック時』このスピリットは、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれている相手のスピリット以外の相手の効果を受けない。"
+}

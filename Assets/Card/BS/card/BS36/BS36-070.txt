@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS36-070",
+  "PackNo": "BS36",
+  "CardName": "No.29 アップルグッド",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］系統：「漂精」を持つ自分のスピリットすべてをBP+3000する。 ［Lv2］『自分のターン』このネクサスに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、コスト3/6/9の相手のスピリットすべては効果すべてを失い、新たに得ることもない。"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SD32-001', 'PackNo': 'SD32', 'CardName': 'さまよう甲冑', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '白'], 'CardType': '魔影', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。［Lv1-Lv2］このスピリットの色とシンボルは白としても扱う。'}
+﻿{
+  "CardNo": "SD32-001",
+  "PackNo": "SD32",
+  "CardName": "さまよう甲冑",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "白"
+  ],
+  "CardType": "魔影",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。［Lv1-Lv2］このスピリットの色とシンボルは白としても扱う。"
+}

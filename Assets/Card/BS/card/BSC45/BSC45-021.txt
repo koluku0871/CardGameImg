@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC45-021', 'PackNo': 'BSC45', 'CardName': '冥闘士バラムLT', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫', '全'], 'CardType': '激覇・血晶・冥主', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : 5000／4'], 'Text': '［フラッシュ］【アクセル】コスト4<img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_all.png"/>（この効果は手札から使用できる）コア1個以下のスピリット1体を破壊する。この効果発揮後、このカードは手元に置く。［Lv1-Lv2-Lv3］【真・呪撃】『自分のターン』このスピリットが相手によってフィールドを離れるとき、相手のスピリット/アルティメット1体を破壊する。'}
+﻿{
+  "CardNo": "BSC45-021",
+  "PackNo": "BSC45",
+  "CardName": "冥闘士バラムLT",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "全"
+  ],
+  "CardType": "激覇・血晶・冥主",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3",
+    "LV3 : 5000／4"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト4<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_all.png\"/>（この効果は手札から使用できる）コア1個以下のスピリット1体を破壊する。この効果発揮後、このカードは手元に置く。［Lv1-Lv2-Lv3］【真・呪撃】『自分のターン』このスピリットが相手によってフィールドを離れるとき、相手のスピリット/アルティメット1体を破壊する。"
+}

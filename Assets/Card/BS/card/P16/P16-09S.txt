@@ -1,1 +1,21 @@
-﻿{'CardNo': 'P16-09S', 'PackNo': 'P16', 'CardName': '無幻の神皇ゼムリアス', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '5', 'ReducedCost': ['青', '青', '青'], 'CardType': '神皇', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／3', 'LV3 : 10000／5'], 'Text': '［Lv1-Lv2-Lv3］《封印》『このスピリットのアタック時』このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のライフに置ける。《封印時》［Lv1-Lv2-Lv3］『このスピリットのアタック時』ボイドからコア1個をこのスピリットに置く。 《封印時》［Lv2-Lv3］このスピリットをBP+10000する。'}
+﻿{
+  "CardNo": "P16-09S",
+  "PackNo": "P16",
+  "CardName": "無幻の神皇ゼムリアス",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "神皇",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／3",
+    "LV3 : 10000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］《封印》『このスピリットのアタック時』このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のライフに置ける。《封印時》［Lv1-Lv2-Lv3］『このスピリットのアタック時』ボイドからコア1個をこのスピリットに置く。 《封印時》［Lv2-Lv3］このスピリットをBP+10000する。"
+}

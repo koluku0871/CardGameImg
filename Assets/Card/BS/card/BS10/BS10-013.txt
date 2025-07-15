@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS10-013",
+  "PackNo": "BS10",
+  "CardName": "魔法剣士ドラゴナーガ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "妖蛇・竜人",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2",
+    "LV3 : 7000／6"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分はデッキから1枚ドローする。"
+}

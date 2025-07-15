@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC22-015', 'PackNo': 'BSC22', 'CardName': 'スピノアックス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』このスピリットの<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を自分のトラッシュに置くことで、このスピリットは、効果の記述を持つ相手のスピリットからブロックされない。'}
+﻿{
+  "CardNo": "BSC22-015",
+  "PackNo": "BSC22",
+  "CardName": "スピノアックス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック時』このスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のトラッシュに置くことで、このスピリットは、効果の記述を持つ相手のスピリットからブロックされない。"
+}

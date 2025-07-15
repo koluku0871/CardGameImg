@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BS17-050",
+  "PackNo": "BS17",
+  "CardName": "ランテゴス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 7000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］相手がバーストをセットしたとき、ボイドからコア1個を自分のスピリット/ネクサスに置く。"
+}

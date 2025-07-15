@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS35-102",
+  "PackNo": "BS35",
+  "CardName": "風雷破",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "6",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "自分の[風神明王]と[雷神明王]がいる間、手札にあるこのマジックカードをコスト3として扱う。 ［フラッシュ］コスト0/1/2/3/4/5の相手のスピリット1体ずつを破壊する。コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、相手のコスト7以上のスピリット/アルティメット1体を破壊する。"
+}

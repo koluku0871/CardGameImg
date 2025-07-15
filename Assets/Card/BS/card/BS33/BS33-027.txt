@@ -1,0 +1,22 @@
+﻿{
+  "CardNo": "BS33-027",
+  "PackNo": "BS33",
+  "CardName": "忠臣ヒグマル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "家臣・剣獣",
+  "Lv": [
+    "LV1 : 9000／1",
+    "LV2 : 12000／3",
+    "LV3 : 16000／6"
+  ],
+  "Text": "-"
+}

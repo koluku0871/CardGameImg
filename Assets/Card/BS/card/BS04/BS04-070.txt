@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS04-070', 'PackNo': 'BS04', 'CardName': '戦闘獣ディアトリマー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '戦獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 7000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS04-070",
+  "PackNo": "BS04",
+  "CardName": "戦闘獣ディアトリマー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "戦獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 7000／4"
+  ],
+  "Text": "-"
+}

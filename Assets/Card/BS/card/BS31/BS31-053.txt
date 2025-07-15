@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS31-053",
+  "PackNo": "BS31",
+  "CardName": "戦国姫 瑠璃",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "楽族・戦姫",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分のデッキを上から3枚オープンできる。その中のバースト効果を持たないマジックカード1枚を手札に加える。残ったカードは好きな順番でデッキの下に戻す。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、この効果でデッキからオープンできる枚数を6枚にする。"
+}

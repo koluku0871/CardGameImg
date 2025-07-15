@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS10-110",
+  "PackNo": "BS10",
+  "CardName": "ノックアウト",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]バトル解決時、BPのかわりにコストを比べ、コストの低いスピリットが破壊される。コストが同じとき、お互いのスピリットが破壊される。"
+}

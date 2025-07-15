@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS12-041",
+  "PackNo": "BS12",
+  "CardName": "スタッガー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／4"
+  ],
+  "Text": "-"
+}

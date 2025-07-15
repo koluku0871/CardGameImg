@@ -1,1 +1,21 @@
-﻿{'CardNo': 'CB22-041', 'PackNo': 'CB22', 'CardName': 'ウルトラ兄弟 ゾフィー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '6', 'ReducedCost': ['白', '白', '白'], 'CardType': '闘神・勇傑', 'Lv': ['LV1 : 7000／1', 'LV2 : 10000／2', 'LV3 : 12000／4'], 'Text': 'このカード/スピリットはカード名：「ウルトラマン」としても扱う。手元にあるこのカードはセットできる。［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_white.png"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』カード名に「ウルトラ兄弟」を含む自分のスピリットすべては、相手のスピリット/ネクサスの効果を受けない。 ［Lv2-Lv3］『相手のアタックステップ』このスピリットは疲労状態でブロックできる。'}
+﻿{
+  "CardNo": "CB22-041",
+  "PackNo": "CB22",
+  "CardName": "ウルトラ兄弟 ゾフィー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "6",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "闘神・勇傑",
+  "Lv": [
+    "LV1 : 7000／1",
+    "LV2 : 10000／2",
+    "LV3 : 12000／4"
+  ],
+  "Text": "このカード/スピリットはカード名：「ウルトラマン」としても扱う。手元にあるこのカードはセットできる。［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（このカードは手札からセットできる）］【セット中】『自分のアタックステップ』カード名に「ウルトラ兄弟」を含む自分のスピリットすべては、相手のスピリット/ネクサスの効果を受けない。 ［Lv2-Lv3］『相手のアタックステップ』このスピリットは疲労状態でブロックできる。"
+}

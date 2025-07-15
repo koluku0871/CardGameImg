@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS21-046",
+  "PackNo": "BS21",
+  "CardName": "ヤナクラゲー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2］『相手のアタックステップ』コスト0の相手のスピリットはアタックできない。"
+}

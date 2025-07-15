@@ -1,1 +1,22 @@
-﻿{'CardNo': 'SD55-007', 'PackNo': 'SD55', 'CardName': '道化竜トリックスタードラゴン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '5', 'ReducedCost': ['赤', '赤', '黄', '神'], 'CardType': '起幻・道化', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 9000／4'], 'Text': '［Lv1-Lv2-Lv3］『自分のアタックステップ開始時』自分のトラッシュにある<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア3個を系統：「起幻」を持つ自分のスピリットに置く。 ［Lv3］『このスピリットのアタック時』ターンに1回、自分のトラッシュにある転醒カード1枚を手札に戻すことで、このスピリットは回復する。'}
+﻿{
+  "CardNo": "SD55-007",
+  "PackNo": "SD55",
+  "CardName": "道化竜トリックスタードラゴン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "黄",
+    "神"
+  ],
+  "CardType": "起幻・道化",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 9000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『自分のアタックステップ開始時』自分のトラッシュにある<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア3個を系統：「起幻」を持つ自分のスピリットに置く。 ［Lv3］『このスピリットのアタック時』ターンに1回、自分のトラッシュにある転醒カード1枚を手札に戻すことで、このスピリットは回復する。"
+}

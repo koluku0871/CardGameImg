@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS32-062",
+  "PackNo": "BS32",
+  "CardName": "No.6 マウンテンシェイプ",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］自分のバーストをセットしている間、このネクサスに赤のシンボル1つを追加する。 ［Lv2：フラッシュ］『相手のアタックステップ』このネクサスの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のスピリットに置くことで、そのスピリットのBP以下の相手のスピリット1体を破壊する。"
+}

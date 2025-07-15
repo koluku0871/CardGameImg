@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS35-082",
+  "PackNo": "BS35",
+  "CardName": "No.19 マウンテンペアー",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］系統：「漂精」を持つ自分のスピリットが破壊されたとき、自分のトラッシュにある系統：「楽族」を持つスピリットカード1枚を手札に戻す。 ［Lv2］このネクサスに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、自分の【増食】でオープンする枚数を+1枚する。"
+}

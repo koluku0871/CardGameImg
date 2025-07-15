@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS38-RV029",
+  "PackNo": "BS38",
+  "CardName": "六分儀天文台",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］《星座封印》『このネクサスの配置時』系統：「光導」/「星魂」を持つ自分のスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のライフに置ける。 《封印時》［Lv2］系統：「光導」/「星魂」を持つ自分のスピリットが召喚されたとき、疲労状態の相手のアルティメット1体を破壊する。"
+}

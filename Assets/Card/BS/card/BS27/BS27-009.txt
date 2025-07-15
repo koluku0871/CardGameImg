@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS27-009",
+  "PackNo": "BS27",
+  "CardName": "サンド・デーモン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "呪鬼",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／3"
+  ],
+  "Text": "［Lv1-Lv2］カードが下にある相手のアルティメットすべてを、その下のカード1枚につきコストを-1する。"
+}

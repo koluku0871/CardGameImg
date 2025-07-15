@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS53-001', 'PackNo': 'BS53', 'CardName': 'フターゴリザード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '起幻・爬獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '［Lv2］『自分のアタックステップ』系統：「醒皇」を持つ自分のスピリットすべてをBP+5000する。'}
+﻿{
+  "CardNo": "BS53-001",
+  "PackNo": "BS53",
+  "CardName": "フターゴリザード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "起幻・爬獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv2］『自分のアタックステップ』系統：「醒皇」を持つ自分のスピリットすべてをBP+5000する。"
+}

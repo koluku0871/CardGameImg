@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS01-125', 'PackNo': 'BS01', 'CardName': 'デッドリィバランス', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]お互い、フィールドのスピリット1体を選び、破壊する。'}
+﻿{
+  "CardNo": "BS01-125",
+  "PackNo": "BS01",
+  "CardName": "デッドリィバランス",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／-",
+    "LV2 : -／-",
+    "LV3 : -／-"
+  ],
+  "Text": "[フラッシュ]お互い、フィールドのスピリット1体を選び、破壊する。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS54-053', 'PackNo': 'BS54', 'CardName': '異海人ダイグソク', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青', '青'], 'CardType': '起幻・異合', 'Lv': ['LV1 : 4000／1', 'LV2 : 9000／6'], 'Text': '［Lv1］このスピリットはアタックできず、相手の効果を受けない。［Lv1］<img src="/renewal/images/cardlist/ico_soulcore.png"/>が置かれていないネクサスすべての効果は発揮されない。 ［Lv2］『このスピリットのアタック時』このスピリットをBP+10000し、シンボルを青シンボル2つにする。'}
+﻿{
+  "CardNo": "BS54-053",
+  "PackNo": "BS54",
+  "CardName": "異海人ダイグソク",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "起幻・異合",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 9000／6"
+  ],
+  "Text": "［Lv1］このスピリットはアタックできず、相手の効果を受けない。［Lv1］<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれていないネクサスすべての効果は発揮されない。 ［Lv2］『このスピリットのアタック時』このスピリットをBP+10000し、シンボルを青シンボル2つにする。"
+}

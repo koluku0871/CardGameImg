@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BSC42-079', 'PackNo': 'BSC42', 'CardName': '崩壊する戦線LT', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '全'], 'CardType': '蒼波', 'Lv': ['LV2 : -／3'], 'Text': '［Lv1-Lv2］『お互いのアタックステップ』〔重複不可〕自分の【粉砕】で破棄する枚数を+3枚する。 ［Lv2］『自分のアタックステップ』【粉砕】を持つ自分のスピリットすべてを、そのスピリットが持つ最高Lvとして扱う。'}
+﻿{
+  "CardNo": "BSC42-079",
+  "PackNo": "BSC42",
+  "CardName": "崩壊する戦線LT",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "全"
+  ],
+  "CardType": "蒼波",
+  "Lv": [
+    "LV2 : -／3"
+  ],
+  "Text": "［Lv1-Lv2］『お互いのアタックステップ』〔重複不可〕自分の【粉砕】で破棄する枚数を+3枚する。 ［Lv2］『自分のアタックステップ』【粉砕】を持つ自分のスピリットすべてを、そのスピリットが持つ最高Lvとして扱う。"
+}

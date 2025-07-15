@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS03-013', 'PackNo': 'BS03', 'CardName': 'ヘルスコルピオ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '1', 'ReducedCost': [], 'CardType': '呪鬼', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 5000／5'], 'Text': '-'}
+﻿{
+  "CardNo": "BS03-013",
+  "PackNo": "BS03",
+  "CardName": "ヘルスコルピオ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "呪鬼",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 5000／5"
+  ],
+  "Text": "-"
+}

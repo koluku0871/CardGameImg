@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS50-061', 'PackNo': 'BS50', 'CardName': 'カイヤナイト・ゴレム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青'], 'CardType': '天渡・造兵', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3'], 'Text': '［Lv1-Lv2］このスピリットは、相手の効果でフィールドから手札/デッキに戻らない。［Lv1-Lv2］お互い、効果でライフに<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコアを置けない。さらに、お互いのライフは、ターンごとに、創界神ネクサス1つから1しか減らされない。'}
+﻿{
+  "CardNo": "BS50-061",
+  "PackNo": "BS50",
+  "CardName": "カイヤナイト・ゴレム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "天渡・造兵",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "［Lv1-Lv2］このスピリットは、相手の効果でフィールドから手札/デッキに戻らない。［Lv1-Lv2］お互い、効果でライフに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコアを置けない。さらに、お互いのライフは、ターンごとに、創界神ネクサス1つから1しか減らされない。"
+}

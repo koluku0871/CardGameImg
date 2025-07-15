@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS32-073",
+  "PackNo": "BS32",
+  "CardName": "火炎之咆哮",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］BP3000以下の相手のスピリットすべてを破壊する。コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、BP10000以下の相手のスピリット/アルティメット1体を破壊する。"
+}

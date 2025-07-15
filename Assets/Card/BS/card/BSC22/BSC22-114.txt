@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BSC22-114', 'PackNo': 'BSC22', 'CardName': 'バスタースピア', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］ネクサス1つを破壊する。この効果で相手のネクサスを破壊したとき、自分はデッキから2枚ドローする。'}
+﻿{
+  "CardNo": "BSC22-114",
+  "PackNo": "BSC22",
+  "CardName": "バスタースピア",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］ネクサス1つを破壊する。この効果で相手のネクサスを破壊したとき、自分はデッキから2枚ドローする。"
+}

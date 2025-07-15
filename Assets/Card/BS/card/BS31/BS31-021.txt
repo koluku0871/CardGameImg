@@ -1,0 +1,22 @@
+﻿{
+  "CardNo": "BS31-021",
+  "PackNo": "BS31",
+  "CardName": "ケムリザル",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "霊獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3",
+    "LV3 : 4000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『相手によるこのスピリットの消滅/破壊時』相手のスピリット/アルティメットのコア3個を相手のリザーブに置く。このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれているとき、さらに、自分はデッキから3枚ドローする。"
+}

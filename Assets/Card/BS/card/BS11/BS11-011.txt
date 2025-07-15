@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS11-011",
+  "PackNo": "BS11",
+  "CardName": "フライスカル",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "夜族・星魂",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv2］『このスピリットの破壊時』相手のスピリット2体の上のコア1個ずつを相手のリザーブに置く。"
+}

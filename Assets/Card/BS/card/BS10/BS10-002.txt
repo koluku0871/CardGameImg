@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS10-002",
+  "PackNo": "BS10",
+  "CardName": "首長竜人ブラッキオ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "地竜・竜人",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／7"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］自分のフィールドに合体スピリットがいる間、このスピリットはLv3として扱う。"
+}

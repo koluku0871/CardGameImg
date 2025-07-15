@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS53-022', 'PackNo': 'BS53', 'CardName': '竜騎士アルべール', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '7', 'ReducedCost': ['紫', '紫', '紫', '紫'], 'CardType': '起幻・魔影', 'Lv': ['LV1 : 6000／1', 'LV2 : 8000／3', 'LV3 : 10000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』カード名に「竜騎士」/「龍騎皇」を含む自分のスピリット1体につき、相手のスピリットすべてのコア1個ずつをリザーブに置く。 ［Lv2-Lv3］『このスピリットのアタック時』相手のトラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア1個をボイドに置く。'}
+﻿{
+  "CardNo": "BS53-022",
+  "PackNo": "BS53",
+  "CardName": "竜騎士アルべール",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "7",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "起幻・魔影",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 8000／3",
+    "LV3 : 10000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』カード名に「竜騎士」/「龍騎皇」を含む自分のスピリット1体につき、相手のスピリットすべてのコア1個ずつをリザーブに置く。 ［Lv2-Lv3］『このスピリットのアタック時』相手のトラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア1個をボイドに置く。"
+}

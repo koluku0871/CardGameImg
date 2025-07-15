@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS01-086', 'PackNo': 'BS01', 'CardName': 'クイーン・ワルキューレ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白'], 'CardType': '機人', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／4'], 'Text': '[Lv1-Lv2]このスピリットは、相手のスピリット/マジックの効果の対象にならない。'}
+﻿{
+  "CardNo": "BS01-086",
+  "PackNo": "BS01",
+  "CardName": "クイーン・ワルキューレ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "機人",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／4"
+  ],
+  "Text": "[Lv1-Lv2]このスピリットは、相手のスピリット/マジックの効果の対象にならない。"
+}

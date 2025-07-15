@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS16-084",
+  "PackNo": "BS16",
+  "CardName": "エグゾーステッドガード",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、シンボル2つ以上を持つ自分のスピリットすべては疲労状態でブロックできる。"
+}

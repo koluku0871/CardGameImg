@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS08-046",
+  "PackNo": "BS08",
+  "CardName": "戦闘獣バビルーザ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "戦獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2",
+    "LV3 : 5000／5"
+  ],
+  "Text": "-"
+}

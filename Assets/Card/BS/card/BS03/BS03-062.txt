@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS03-062', 'PackNo': 'BS03', 'CardName': 'チワール', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄'], 'CardType': '遊精', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3', 'LV3 : 6000／6'], 'Text': '[Lv1-Lv2-Lv3]系統:「遊精」を持つ自分のスピリットすべてをBP+1000する。 [Lv2-Lv3]系統:「小玩」を持つ自分のスピリットが破壊されたとき、そのスピリットすべてを自分の手札に戻す。'}
+﻿{
+  "CardNo": "BS03-062",
+  "PackNo": "BS03",
+  "CardName": "チワール",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "遊精",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／3",
+    "LV3 : 6000／6"
+  ],
+  "Text": "[Lv1-Lv2-Lv3]系統:「遊精」を持つ自分のスピリットすべてをBP+1000する。 [Lv2-Lv3]系統:「小玩」を持つ自分のスピリットが破壊されたとき、そのスピリットすべてを自分の手札に戻す。"
+}

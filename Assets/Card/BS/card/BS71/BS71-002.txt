@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS71-002', 'PackNo': 'BS71', 'CardName': 'サンダー・Z・ヘッジホッグ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '［Lv2］『このスピリットのアタック時』自分のデッキを上から2枚オープンできる。その中の「Z」1枚を手札に加える。残ったカードは破棄する。'}
+﻿{
+  "CardNo": "BS71-002",
+  "PackNo": "BS71",
+  "CardName": "サンダー・Z・ヘッジホッグ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "皇獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv2］『このスピリットのアタック時』自分のデッキを上から2枚オープンできる。その中の「Z」1枚を手札に加える。残ったカードは破棄する。"
+}

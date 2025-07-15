@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BS07-067",
+  "PackNo": "BS07",
+  "CardName": "メテオフォール",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[フラッシュ]このターンの間、自分のスピリット1体の色を青として扱い、さらにBP+2000する。"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS12-073",
+  "PackNo": "BS12",
+  "CardName": "ネクサスコラプス",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "[メイン]ネクサス2つまでを破壊する。 [フラッシュ]このターンの間、合体スピリット1体をBP+5000する。"
+}

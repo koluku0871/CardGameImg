@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS33-014",
+  "PackNo": "BS33",
+  "CardName": "狼鬼",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "呪鬼",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／3",
+    "LV3 : 6000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］【スピリットソウル：紫】自分がアルティメットカードを召喚するとき、このスピリットに<img src=\"/renewal/images/cardlist/ico_pup.png\"/>（紫のシンボル1つ）を追加する。［Lv1-Lv2-Lv3］『自分のエンドステップ』自分のトラッシュにあるアルティメットカード1枚を手札に戻す。"
+}

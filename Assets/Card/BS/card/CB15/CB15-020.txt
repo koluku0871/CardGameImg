@@ -1,1 +1,20 @@
-﻿{'CardNo': 'CB15-020', 'PackNo': 'CB15', 'CardName': 'ファイティングジャッカルレイダー', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '6', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '冥主', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／3'], 'Text': 'このカード/スピリットはカード名に「仮面ライダーバルキリー」を含むものとしても扱う。このカードの【チェンジ】の軽減シンボルは緑としても扱う。［フラッシュ］【チェンジ】コスト6<img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/>（この効果は手札から使用できる）このカードを無色として扱い、疲労状態の相手のスピリット1体を破壊する。この効果発揮後、このカードを破棄するか、カード名に「仮面ライダーバルキリー」を含む自分のスピリットと回復状態で入れ替える。'}
+﻿{
+  "CardNo": "CB15-020",
+  "PackNo": "CB15",
+  "CardName": "ファイティングジャッカルレイダー",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "6",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "冥主",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／3"
+  ],
+  "Text": "このカード/スピリットはカード名に「仮面ライダーバルキリー」を含むものとしても扱う。このカードの【チェンジ】の軽減シンボルは緑としても扱う。［フラッシュ］【チェンジ】コスト6<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/>（この効果は手札から使用できる）このカードを無色として扱い、疲労状態の相手のスピリット1体を破壊する。この効果発揮後、このカードを破棄するか、カード名に「仮面ライダーバルキリー」を含む自分のスピリットと回復状態で入れ替える。"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'P16-13', 'PackNo': 'P16', 'CardName': 'エグゼドラ', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '新生・竜人・皇獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／3', 'LV3 : 3000／5'], 'Text': '［Lv1-Lv2-Lv3］系統：「竜人」/「皇獣」を持つ自分のスピリットすべてに“【スピリットソウル：赤】自分がアルティメットカードを召喚するとき、このスピリットに<img src="/renewal/images/cardlist/ico_red.png"/>（赤のシンボル1つ）を追加する”を与える。'}
+﻿{
+  "CardNo": "P16-13",
+  "PackNo": "P16",
+  "CardName": "エグゼドラ",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "新生・竜人・皇獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／3",
+    "LV3 : 3000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］系統：「竜人」/「皇獣」を持つ自分のスピリットすべてに“【スピリットソウル：赤】自分がアルティメットカードを召喚するとき、このスピリットに<img src=\"/renewal/images/cardlist/ico_red.png\"/>（赤のシンボル1つ）を追加する”を与える。"
+}

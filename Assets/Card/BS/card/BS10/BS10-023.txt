@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS10-023",
+  "PackNo": "BS10",
+  "CardName": "ラッキーウィ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "歌鳥",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのバトル時』ボイドからコア1個をこのスピリット上に置く。"
+}

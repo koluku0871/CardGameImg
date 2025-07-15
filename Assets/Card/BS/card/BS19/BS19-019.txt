@@ -1,0 +1,22 @@
+﻿{
+  "CardNo": "BS19-019",
+  "PackNo": "BS19",
+  "CardName": "冥撃手グシオーン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "冥主",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2",
+    "LV3 : 8000／5"
+  ],
+  "Text": "-"
+}

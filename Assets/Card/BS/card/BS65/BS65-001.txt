@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS65-001', 'PackNo': 'BS65', 'CardName': '空挺隊ロケットカゲ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤'], 'CardType': '緋炎・爬獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』魂状態/煌臨元の自分の「相棒翼竜テラード」1枚を召喚できる。［Lv1-Lv2-Lv3］『このスピリットのアタック時』自分のトラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア1個を系統：「緋炎」を持つ自分のスピリットに置ける。そうしたとき、自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "BS65-001",
+  "PackNo": "BS65",
+  "CardName": "空挺隊ロケットカゲ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "緋炎・爬獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』魂状態/煌臨元の自分の「相棒翼竜テラード」1枚を召喚できる。［Lv1-Lv2-Lv3］『このスピリットのアタック時』自分のトラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア1個を系統：「緋炎」を持つ自分のスピリットに置ける。そうしたとき、自分はデッキから1枚ドローする。"
+}

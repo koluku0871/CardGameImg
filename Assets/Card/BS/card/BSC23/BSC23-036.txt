@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BSC23-036', 'PackNo': 'BSC23', 'CardName': '戦国姫 萌菜可', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '4', 'ReducedCost': ['黄', '黄', '黄', '黄'], 'CardType': '詩姫・戦姫・楽族', 'Lv': ['LV1 : 8000／1', 'LV2 : 10000／2', 'LV3 : 14000／3'], 'Text': '【チーム：百華繚乱/プリティアニマルズ】'}
+﻿{
+  "CardNo": "BSC23-036",
+  "PackNo": "BSC23",
+  "CardName": "戦国姫 萌菜可",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "4",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "詩姫・戦姫・楽族",
+  "Lv": [
+    "LV1 : 8000／1",
+    "LV2 : 10000／2",
+    "LV3 : 14000／3"
+  ],
+  "Text": "【チーム：百華繚乱/プリティアニマルズ】"
+}

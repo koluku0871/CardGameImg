@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS06-004",
+  "PackNo": "BS06",
+  "CardName": "ドラグロン十人隊長",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "竜人",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 7000／4"
+  ],
+  "Text": "-"
+}

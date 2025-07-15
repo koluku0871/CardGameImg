@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BS35-017",
+  "PackNo": "BS35",
+  "CardName": "サーベルスネーク",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 8000／1",
+    "LV2 : 11000／2",
+    "LV3 : 14000／4"
+  ],
+  "Text": "-"
+}

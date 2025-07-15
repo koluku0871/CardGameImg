@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS48-RV010', 'PackNo': 'BS48', 'CardName': 'リゲイン', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', 'ico_ultimate.png'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分のスピリット/アルティメット1体を回復させる。または、このターンの間、自分のスピリット/アルティメット1体をBP+5000し、そのスピリット/アルティメットは疲労状態でブロックできる。'}
+﻿{
+  "CardNo": "BS48-RV010",
+  "PackNo": "BS48",
+  "CardName": "リゲイン",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白",
+    "ico_ultimate.png"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分のスピリット/アルティメット1体を回復させる。または、このターンの間、自分のスピリット/アルティメット1体をBP+5000し、そのスピリット/アルティメットは疲労状態でブロックできる。"
+}

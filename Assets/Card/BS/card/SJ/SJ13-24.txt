@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SJ13-24', 'PackNo': 'SJ', 'CardName': '鎖鎌のクロヅル', 'CardRarity': 'SJ', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '爪鳥', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』このスピリットをBP+2000する。［Lv1-Lv2］『このスピリットのアタック時』自分の分身スピリットがいるとき、相手は、相手のスピリット1体を疲労させる。'}
+﻿{
+  "CardNo": "SJ13-24",
+  "PackNo": "SJ",
+  "CardName": "鎖鎌のクロヅル",
+  "CardRarity": "SJ",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "爪鳥",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック時』このスピリットをBP+2000する。［Lv1-Lv2］『このスピリットのアタック時』自分の分身スピリットがいるとき、相手は、相手のスピリット1体を疲労させる。"
+}

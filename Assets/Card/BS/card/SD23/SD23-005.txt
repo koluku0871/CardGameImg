@@ -1,1 +1,20 @@
-﻿{'CardNo': 'SD23-005', 'PackNo': 'SD23', 'CardName': '天使グレット', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '3', 'ReducedCost': ['黄', '黄'], 'CardType': '天霊', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2', 'LV3 : 5000／4'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットのアタック時』このバトルの間、相手のスピリット1体をBP-3000する。その相手のスピリットがBP0になったとき、そのスピリットを破壊する。'}
+﻿{
+  "CardNo": "SD23-005",
+  "PackNo": "SD23",
+  "CardName": "天使グレット",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "天霊",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットのアタック時』このバトルの間、相手のスピリット1体をBP-3000する。その相手のスピリットがBP0になったとき、そのスピリットを破壊する。"
+}

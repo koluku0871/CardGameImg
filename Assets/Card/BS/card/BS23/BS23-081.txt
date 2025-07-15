@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS23-081",
+  "PackNo": "BS23",
+  "CardName": "サンダーウォール",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このバトルが終了したとき、自分のライフのコアが2個以下なら、アタックステップを終了する。"
+}

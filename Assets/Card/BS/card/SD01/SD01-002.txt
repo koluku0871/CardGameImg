@@ -1,1 +1,18 @@
-﻿{'CardNo': 'SD01-002', 'PackNo': 'SD01', 'CardName': 'カタナカサゴ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '溶魚', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "SD01-002",
+  "PackNo": "SD01",
+  "CardName": "カタナカサゴ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "溶魚",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "-"
+}

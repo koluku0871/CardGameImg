@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC31-CP01', 'PackNo': 'BSC31', 'CardName': '極炎の新入生リリカ・レム', 'CardRarity': 'X', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '詩姫・制服・衣装', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／2', 'LV3 : 10000／3'], 'Text': '［フラッシュ］【アクセル】コスト3<img src="/renewal/images/cardlist/ico_yellow.png"/><img src="/renewal/images/cardlist/ico_yellow.png"/>（この効果は手札から使用できる）BP3000以下の相手のスピリットすべてを好きな順番でデッキの下に戻し、自分はデッキから1枚ドローする。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2-Lv3］お互いのデッキは、ターンに2枚までしか破棄されない。 【合体時】［Lv2-Lv3］『このスピリットのアタック時』このスピリットをBP+10000する。ブロックされなかったとき、このスピリットに黄のシンボル1つを追加する。'}
+﻿{
+  "CardNo": "BSC31-CP01",
+  "PackNo": "BSC31",
+  "CardName": "極炎の新入生リリカ・レム",
+  "CardRarity": "X",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "詩姫・制服・衣装",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／2",
+    "LV3 : 10000／3"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（この効果は手札から使用できる）BP3000以下の相手のスピリットすべてを好きな順番でデッキの下に戻し、自分はデッキから1枚ドローする。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2-Lv3］お互いのデッキは、ターンに2枚までしか破棄されない。 【合体時】［Lv2-Lv3］『このスピリットのアタック時』このスピリットをBP+10000する。ブロックされなかったとき、このスピリットに黄のシンボル1つを追加する。"
+}

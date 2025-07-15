@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS34-049",
+  "PackNo": "BS34",
+  "CardName": "小波童子",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／4"
+  ],
+  "Text": "-"
+}

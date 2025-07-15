@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS02-002', 'PackNo': 'BS02', 'CardName': 'ナイフ投げのジャグリーン', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': [], 'CardType': '道化', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : 5000／5'], 'Text': '[Lv1-Lv2-Lv3]自分のフィールドにスピリットが2体以下しかいない間、このスピリットはLv3として扱う。'}
+﻿{
+  "CardNo": "BS02-002",
+  "PackNo": "BS02",
+  "CardName": "ナイフ投げのジャグリーン",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "道化",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3",
+    "LV3 : 5000／5"
+  ],
+  "Text": "[Lv1-Lv2-Lv3]自分のフィールドにスピリットが2体以下しかいない間、このスピリットはLv3として扱う。"
+}

@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS44-050",
+  "PackNo": "BS44",
+  "CardName": "不思議王国キティ＆スノードロップ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "四道",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト5<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（この効果は手札から使用できる）このターンの間、相手のスピリット2体をBP-5000する。この効果でBP0になったスピリットすべてを疲労させる。この効果発揮後、このカードはオープンして手元に置く。"
+}

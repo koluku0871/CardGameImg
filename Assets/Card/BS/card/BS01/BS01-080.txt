@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS01-080', 'PackNo': 'BS01', 'CardName': 'フェンリルキャノン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白'], 'CardType': '機獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '[Lv1-Lv2]『このスピリットのブロック時』このスピリットをBP+1000する。'}
+﻿{
+  "CardNo": "BS01-080",
+  "PackNo": "BS01",
+  "CardName": "フェンリルキャノン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "機獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットのブロック時』このスピリットをBP+1000する。"
+}

@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS30-072",
+  "PackNo": "BS30",
+  "CardName": "バーニングソード",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "ico_ultimate.png",
+    "ico_ultimate.png"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分の手札にあるブレイヴカード1枚を、系統：「剣使」を持つ自分のアルティメット1体に直接合体するように召喚することで、そのアルティメットを回復させる。"
+}

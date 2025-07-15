@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BS17-073",
+  "PackNo": "BS17",
+  "CardName": "アーダーフレイム",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］BP4000以下の相手のスピリット1体を破壊する。この効果で破壊したスピリットの『このスピリットの破壊時』効果は発揮されない。"
+}

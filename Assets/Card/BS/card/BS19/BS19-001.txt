@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS19-001",
+  "PackNo": "BS19",
+  "CardName": "ドク・リザード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "爬獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3",
+    "LV3 : 5000／4"
+  ],
+  "Text": "-"
+}

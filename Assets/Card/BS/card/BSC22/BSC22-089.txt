@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BSC22-089', 'PackNo': 'BSC22', 'CardName': 'デュアルキャノン・ベル', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白', '白', '白'], 'CardType': '機人・武装', 'Lv': ['LV1 : 6000／1', 'LV2 : 10000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BSC22-089",
+  "PackNo": "BSC22",
+  "CardName": "デュアルキャノン・ベル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "機人・武装",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 10000／3"
+  ],
+  "Text": "-"
+}

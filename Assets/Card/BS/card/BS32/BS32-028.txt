@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS32-028",
+  "PackNo": "BS32",
+  "CardName": "鉄砲機兵タネガシマ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "機巧・武装",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／2",
+    "LV3 : 7000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］お互いのデッキは破棄されない。このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、さらに、このスピリットは、相手のスピリット/アルティメット/ネクサスの効果を受けない。"
+}

@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS57-063', 'PackNo': 'BS57', 'CardName': 'ヴァンパイアミラージュ', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '青'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［ミラージュ：コスト4<img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_blue.png"/>（このカードは手札からセットできる）］【セット中】『このミラージュのセット時』自分のデッキを上から2枚破棄できる。その後、自分のトラッシュにある系統：「来是」を持つコスト5以下の紫/青のカード1枚を、コストを支払わずに召喚することで、自分の手札1枚を破棄する。［Lv1-Lv2］コスト3以下の相手の創界神ネクサスに《神託》でコアを置くとき、ボイドではなく、相手のリザーブから置く。 ［Lv2］自分の紫/青のスピリットすべてをBP+5000する。'}
+﻿{
+  "CardNo": "BS57-063",
+  "PackNo": "BS57",
+  "CardName": "ヴァンパイアミラージュ",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［ミラージュ：コスト4<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（このカードは手札からセットできる）］【セット中】『このミラージュのセット時』自分のデッキを上から2枚破棄できる。その後、自分のトラッシュにある系統：「来是」を持つコスト5以下の紫/青のカード1枚を、コストを支払わずに召喚することで、自分の手札1枚を破棄する。［Lv1-Lv2］コスト3以下の相手の創界神ネクサスに《神託》でコアを置くとき、ボイドではなく、相手のリザーブから置く。 ［Lv2］自分の紫/青のスピリットすべてをBP+5000する。"
+}

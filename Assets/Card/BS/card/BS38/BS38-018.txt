@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS38-018",
+  "PackNo": "BS38",
+  "CardName": "獄風の小隊アントマン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "殻人",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個をこのスピリットに置く。[Lv1-Lv2]【スピリットソウル：緑】自分がアルティメットカードを召喚するとき、このスピリットに<img src=\"/renewal/images/cardlist/ico_green.png\"/>（緑のシンボル1つ）を追加する。"
+}

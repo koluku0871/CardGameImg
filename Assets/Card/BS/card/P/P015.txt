@@ -1,1 +1,18 @@
-﻿{'CardNo': 'P015', 'PackNo': 'P', 'CardName': 'メタルアングラー', 'CardRarity': 'P', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白'], 'CardType': '空魚', 'Lv': ['LV1 : 2000／1', 'LV2 : 4000／4'], 'Text': '［Lv2］『相手のアタックステップ』系統：「空魚」を持つ自分のスピリットすべてをBP+1000する。'}
+﻿{
+  "CardNo": "P015",
+  "PackNo": "P",
+  "CardName": "メタルアングラー",
+  "CardRarity": "P",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "空魚",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／4"
+  ],
+  "Text": "［Lv2］『相手のアタックステップ』系統：「空魚」を持つ自分のスピリットすべてをBP+1000する。"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC25-012', 'PackNo': 'BSC25', 'CardName': '紫煙鰐', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］『自分のエンドステップ』自分のトラッシュにある系統：「夜族」/「霊獣」を持つスピリットカード1枚を手札に戻す。'}
+﻿{
+  "CardNo": "BSC25-012",
+  "PackNo": "BSC25",
+  "CardName": "紫煙鰐",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "霊獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『自分のエンドステップ』自分のトラッシュにある系統：「夜族」/「霊獣」を持つスピリットカード1枚を手札に戻す。"
+}

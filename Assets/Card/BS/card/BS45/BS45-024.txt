@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS45-024",
+  "PackNo": "BS45",
+  "CardName": "七大英雄獣ヘクトル",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "神"
+  ],
+  "CardType": "界渡・勇傑・剣獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "このカードが手元にある間、お互い、赤/紫/黄/青のスピリット/ネクサスの効果でドローできない。［メイン］【アクセル】コスト3<img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/>（この効果は手札から使用できる）ボイドからコア1個を自分のトラッシュに置く。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2］『このスピリットのアタック時』相手のバーストは発動できない。"
+}

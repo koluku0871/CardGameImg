@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS14-056",
+  "PackNo": "BS14",
+  "CardName": "チャコペッカ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "戦獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 4000／4"
+  ],
+  "Text": "-"
+}

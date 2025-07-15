@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS38-042",
+  "PackNo": "BS38",
+  "CardName": "チョウチンリザード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。その後、自分は手札1枚を破棄する。[Lv1-Lv2]【スピリットソウル：青】自分がアルティメットカードを召喚するとき、このスピリットに<img src=\"/renewal/images/cardlist/ico_blue.png\"/>（青のシンボル1つ）を追加する。"
+}

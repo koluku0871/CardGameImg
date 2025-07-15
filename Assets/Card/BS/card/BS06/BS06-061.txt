@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS06-061",
+  "PackNo": "BS06",
+  "CardName": "ドルフィーノ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 5000／5"
+  ],
+  "Text": "-"
+}

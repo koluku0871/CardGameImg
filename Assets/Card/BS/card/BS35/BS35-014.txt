@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS35-014",
+  "PackNo": "BS35",
+  "CardName": "義賊のメルクリオ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "死竜",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3",
+    "LV3 : 4000／4"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』自分はデッキから1枚ドローする。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、かわりに、自分のトラッシュにある系統：「異魔神」を持つブレイヴカード1枚を手札に戻す。"
+}

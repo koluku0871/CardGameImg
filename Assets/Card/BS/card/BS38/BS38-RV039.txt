@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BS38-RV039",
+  "PackNo": "BS38",
+  "CardName": "メロディアスハープ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、スピリット/アルティメット1体は効果すべてを失い、新たに得ることもない。"
+}

@@ -1,1 +1,22 @@
-﻿{'CardNo': 'CB06-061', 'PackNo': 'CB06', 'CardName': '仮面ライダーエグゼイド マキシマムゲーマー レベル99', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '7', 'ReducedCost': ['白', '白', '白', '神'], 'CardType': '仮面・動玩', 'Lv': ['LV1 : 7000／1', 'LV2 : 9000／2', 'LV3 : 15000／5'], 'Text': '［フラッシュ］【チェンジ】コスト4<img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_white.png"/><img src="/renewal/images/cardlist/ico_god.png"/>（この効果は手札から使用できる）相手のスピリット/アルティメット1体を手札に戻す。カード名に「エグゼイド」を含む自分のスピリットがいるとき、かわりに、相手のスピリット/アルティメット1体をデッキの下に戻す。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。 ［Lv2-Lv3］『このスピリットのアタック時』相手のスピリット1体を手札に戻す。'}
+﻿{
+  "CardNo": "CB06-061",
+  "PackNo": "CB06",
+  "CardName": "仮面ライダーエグゼイド マキシマムゲーマー レベル99",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "7",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白",
+    "神"
+  ],
+  "CardType": "仮面・動玩",
+  "Lv": [
+    "LV1 : 7000／1",
+    "LV2 : 9000／2",
+    "LV3 : 15000／5"
+  ],
+  "Text": "［フラッシュ］【チェンジ】コスト4<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_god.png\"/>（この効果は手札から使用できる）相手のスピリット/アルティメット1体を手札に戻す。カード名に「エグゼイド」を含む自分のスピリットがいるとき、かわりに、相手のスピリット/アルティメット1体をデッキの下に戻す。この効果発揮後、このカードを破棄するか、系統：「仮面」を持つコスト6以下の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。 ［Lv2-Lv3］『このスピリットのアタック時』相手のスピリット1体を手札に戻す。"
+}

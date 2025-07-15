@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS31-054",
+  "PackNo": "BS31",
+  "CardName": "座敷ガール",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "妖戒",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv1-Lv2］『自分のメインステップ』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、系統：「妖戒」を持つ自分のスピリットが召喚されたとき、自分はデッキから1枚ドローする。"
+}

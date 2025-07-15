@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS01-055', 'PackNo': 'BS01', 'CardName': 'エメアント', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '2', 'ReducedCost': ['緑', '緑'], 'CardType': '怪虫', 'Lv': ['LV1 : 1000／1', 'LV2 : 4000／3'], 'Text': '[Lv1-Lv2]『このスピリットの破壊時』このターンの間、自分のスピリットすべてをBP+1000する。'}
+﻿{
+  "CardNo": "BS01-055",
+  "PackNo": "BS01",
+  "CardName": "エメアント",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "2",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "怪虫",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットの破壊時』このターンの間、自分のスピリットすべてをBP+1000する。"
+}

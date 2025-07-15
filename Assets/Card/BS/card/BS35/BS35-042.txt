@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BS35-042",
+  "PackNo": "BS35",
+  "CardName": "蒼戦機レギンレイブ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "6",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "機人",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 9000／2"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』相手のスピリット/アルティメット1体を手札に戻す。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、相手のスピリット/アルティメット1体を手札に戻す。"
+}

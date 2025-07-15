@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS02-032', 'PackNo': 'BS02', 'CardName': 'ダッチョーノ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑'], 'CardType': '爪鳥', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : -／-'], 'Text': '[Lv1-Lv2]『このスピリットの破壊時』ボイドからコア2個を自分のリザーブに置く。'}
+﻿{
+  "CardNo": "BS02-032",
+  "PackNo": "BS02",
+  "CardName": "ダッチョーノ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "爪鳥",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2",
+    "LV3 : -／-"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットの破壊時』ボイドからコア2個を自分のリザーブに置く。"
+}

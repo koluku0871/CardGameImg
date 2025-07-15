@@ -1,1 +1,22 @@
-﻿{'CardNo': 'SD31-011', 'PackNo': 'SD31', 'CardName': '異牙上忍ヒョウソウガ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '8', 'ReducedCost': ['緑', '緑', '緑', '緑'], 'CardType': '忍風・剣獣', 'Lv': ['LV1 : 8000／1', 'LV2 : 14000／3', 'LV3 : 18000／5'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』相手のスピリット/アルティメット3体を疲労させる。'}
+﻿{
+  "CardNo": "SD31-011",
+  "PackNo": "SD31",
+  "CardName": "異牙上忍ヒョウソウガ",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "8",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "忍風・剣獣",
+  "Lv": [
+    "LV1 : 8000／1",
+    "LV2 : 14000／3",
+    "LV3 : 18000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』相手のスピリット/アルティメット3体を疲労させる。"
+}

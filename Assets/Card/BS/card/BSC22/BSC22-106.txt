@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BSC22-106', 'PackNo': 'BSC22', 'CardName': '隠されたる賢者の樹', 'CardRarity': 'R', 'CardCategory': 'ネクサス', 'Element': '緑', 'Cost': '4', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': ['LV2 : -／3'], 'Text': '［Lv1-Lv2］『お互いのアタックステップ』BPを比べるとき、疲労状態の自分のスピリット1体につき、バトルしている自分のスピリットすべてをBP+1000する。 ［Lv2］『自分のエンドステップ』自分のスピリットすべてを回復させる。このネクサスに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれているとき、さらに、ボイドからコア1個ずつを回復した自分のスピリットすべてに置く。'}
+﻿{
+  "CardNo": "BSC22-106",
+  "PackNo": "BSC22",
+  "CardName": "隠されたる賢者の樹",
+  "CardRarity": "R",
+  "CardCategory": "ネクサス",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／3"
+  ],
+  "Text": "［Lv1-Lv2］『お互いのアタックステップ』BPを比べるとき、疲労状態の自分のスピリット1体につき、バトルしている自分のスピリットすべてをBP+1000する。 ［Lv2］『自分のエンドステップ』自分のスピリットすべてを回復させる。このネクサスに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれているとき、さらに、ボイドからコア1個ずつを回復した自分のスピリットすべてに置く。"
+}

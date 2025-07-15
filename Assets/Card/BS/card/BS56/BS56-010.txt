@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS56-010', 'PackNo': 'BS56', 'CardName': '蝶竜ファルファッラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '7', 'ReducedCost': ['赤', '赤', '赤', '赤'], 'CardType': '来是・機竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／2', 'LV3 : 12000／4'], 'Text': '［フラッシュ］『お互いのアタックステップ』手札にあるこのカードは、自分の赤/白のミラージュをセットしているとき、4<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>支払って召喚できる。［Lv1-Lv2-Lv3］『このスピリットの召喚時』このスピリットのBP以下の相手のスピリット1体を破壊できる。 ［Lv2-Lv3］『自分のアタックステップ』系統：「機竜」を持つ自分のスピリットがアタックしている間、相手は効果でアタックステップを終了できない。'}
+﻿{
+  "CardNo": "BS56-010",
+  "PackNo": "BS56",
+  "CardName": "蝶竜ファルファッラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "7",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "来是・機竜",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／2",
+    "LV3 : 12000／4"
+  ],
+  "Text": "［フラッシュ］『お互いのアタックステップ』手札にあるこのカードは、自分の赤/白のミラージュをセットしているとき、4<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>支払って召喚できる。［Lv1-Lv2-Lv3］『このスピリットの召喚時』このスピリットのBP以下の相手のスピリット1体を破壊できる。 ［Lv2-Lv3］『自分のアタックステップ』系統：「機竜」を持つ自分のスピリットがアタックしている間、相手は効果でアタックステップを終了できない。"
+}

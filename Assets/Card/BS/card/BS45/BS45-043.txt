@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS45-043",
+  "PackNo": "BS45",
+  "CardName": "バタつきパンタフライ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "四道",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "-"
+}

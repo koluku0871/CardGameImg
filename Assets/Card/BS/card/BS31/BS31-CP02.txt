@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS31-CP02",
+  "PackNo": "BS31",
+  "CardName": "家臣鬼シキ",
+  "CardRarity": "CP",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "家臣・呪鬼",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 7000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、自分のトラッシュにあるコスト6以下の系統：「家臣」を持つスピリットカード1枚を、コストを支払わずに召喚できる。"
+}

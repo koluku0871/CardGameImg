@@ -1,1 +1,15 @@
-﻿{'CardNo': 'BS04-110', 'PackNo': 'BS04', 'CardName': 'レッドウォール', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、自分のスピリットすべては、「ブロックされない」効果を持つスピリットをブロックできる。'}
+﻿{
+  "CardNo": "BS04-110",
+  "PackNo": "BS04",
+  "CardName": "レッドウォール",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、自分のスピリットすべては、「ブロックされない」効果を持つスピリットをブロックできる。"
+}

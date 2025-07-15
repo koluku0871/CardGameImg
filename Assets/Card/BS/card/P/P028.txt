@@ -1,1 +1,18 @@
-﻿{'CardNo': 'P028', 'PackNo': 'P', 'CardName': '銀装合体シールド・ドラゴン', 'CardRarity': 'P', 'CardCategory': 'ブレイヴ', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白'], 'CardType': '甲竜', 'Lv': ['LV1 : 3000／1', 'brave : +3000／'], 'Text': '《合体条件：コスト4以上》 《合体時》【装甲：白】このスピリットは、相手の白のスピリット/ネクサス/マジックの効果を受けない。'}
+﻿{
+  "CardNo": "P028",
+  "PackNo": "P",
+  "CardName": "銀装合体シールド・ドラゴン",
+  "CardRarity": "P",
+  "CardCategory": "ブレイヴ",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "甲竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "brave : +3000／"
+  ],
+  "Text": "《合体条件：コスト4以上》 《合体時》【装甲：白】このスピリットは、相手の白のスピリット/ネクサス/マジックの効果を受けない。"
+}

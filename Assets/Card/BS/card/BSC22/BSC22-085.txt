@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BSC22-085', 'PackNo': 'BSC22', 'CardName': 'エレファンタイト', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '4', 'ReducedCost': ['白'], 'CardType': '甲獣', 'Lv': ['LV1 : 4000／1', 'LV2 : 7000／4'], 'Text': '［Lv1-Lv2］『このスピリットのブロック時』このスピリットをBP+5000し、相手のスピリット1体を手札に戻す。'}
+﻿{
+  "CardNo": "BSC22-085",
+  "PackNo": "BSC22",
+  "CardName": "エレファンタイト",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "4",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "甲獣",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 7000／4"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのブロック時』このスピリットをBP+5000し、相手のスピリット1体を手札に戻す。"
+}

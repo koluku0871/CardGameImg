@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC22-040', 'PackNo': 'BSC22', 'CardName': 'ダークウィッチ', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '呪鬼', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : 5000／7'], 'Text': '［Lv1-Lv2-Lv3］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、系統：「呪鬼」を持つ自分のスピリットすべてをBP+5000する。 ［Lv2-Lv3］『このスピリットのアタック時』疲労状態のスピリット1体を破壊する。'}
+﻿{
+  "CardNo": "BSC22-040",
+  "PackNo": "BSC22",
+  "CardName": "ダークウィッチ",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "呪鬼",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3",
+    "LV3 : 5000／7"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、系統：「呪鬼」を持つ自分のスピリットすべてをBP+5000する。 ［Lv2-Lv3］『このスピリットのアタック時』疲労状態のスピリット1体を破壊する。"
+}

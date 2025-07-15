@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS43-036",
+  "PackNo": "BS43",
+  "CardName": "秩序の戦乙女機ヴァルトラウテ",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "武装",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト3<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（この効果は手札から使用できる）系統：「武装」を持つ自分のスピリット1体を回復させる。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2］【重装甲：紫/青】このスピリットは、相手の紫/青のスピリット/ブレイヴ/ネクサス/マジックの効果を受けない。 ［Lv2］『お互いのメインステップ』お互い、コスト3のネクサス/マジックの効果は発揮されない。"
+}

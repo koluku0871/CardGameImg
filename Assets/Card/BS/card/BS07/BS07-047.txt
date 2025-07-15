@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS07-047",
+  "PackNo": "BS07",
+  "CardName": "海人アプカリール",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "創手",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2］相手がマジックの効果を使用したとき、ボイドからコア1個をこのスピリット上に置く。"
+}

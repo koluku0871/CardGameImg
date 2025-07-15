@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC22-084', 'PackNo': 'BSC22', 'CardName': 'ガトリングスタンド', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '武装', 'Lv': ['LV1 : 7000／1', 'LV2 : 11000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BSC22-084",
+  "PackNo": "BSC22",
+  "CardName": "ガトリングスタンド",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "武装",
+  "Lv": [
+    "LV1 : 7000／1",
+    "LV2 : 11000／2"
+  ],
+  "Text": "-"
+}

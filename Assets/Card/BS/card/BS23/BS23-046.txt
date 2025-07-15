@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS23-046",
+  "PackNo": "BS23",
+  "CardName": "アトライアソルジャー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3",
+    "LV3 : 6000／6"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『自分のメインステップ』自分の手札にある[海皇巨神デュランザム]を召喚するとき、そのコストを-1する。"
+}

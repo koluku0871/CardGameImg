@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS05-024",
+  "PackNo": "BS05",
+  "CardName": "用心棒アントマン",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "殻人・怪虫",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／3"
+  ],
+  "Text": "-"
+}

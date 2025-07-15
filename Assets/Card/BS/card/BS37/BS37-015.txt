@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS37-015",
+  "PackNo": "BS37",
+  "CardName": "美麗鬼アラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "夜族",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト3<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/>（この効果は手札から使用できる）自分はデッキから1枚ドローする。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2］『このスピリットの召喚時』自分の手元の【アクセル】を持つスピリットカード1枚につき、自分はデッキから1枚ドローする。"
+}

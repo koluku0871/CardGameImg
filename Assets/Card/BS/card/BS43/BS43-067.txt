@@ -1,0 +1,22 @@
+﻿{
+  "CardNo": "BS43-067",
+  "PackNo": "BS43",
+  "CardName": "ジャイアントヒーロー メタルナックル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 10000／1",
+    "LV2 : 15000／3"
+  ],
+  "Text": "［メイン］【アクセル】コスト4<img src=\"/renewal/images/cardlist/ico_blue.png\"/><img src=\"/renewal/images/cardlist/ico_blue.png\"/>（この効果は手札から使用できる）このターンの間、系統：「闘神」を持つ自分のスピリットのアタックによって相手のライフを減らしたとき、相手のデッキを上から10枚破棄する。この効果発揮後、このカードはオープンして手元に置く。"
+}

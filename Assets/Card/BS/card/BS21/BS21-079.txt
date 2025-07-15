@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS21-079",
+  "PackNo": "BS21",
+  "CardName": "エターナルディフェンス",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分のスピリット1体を指定する。このターンの間、指定されたスピリットは、疲労状態でブロックできる。"
+}

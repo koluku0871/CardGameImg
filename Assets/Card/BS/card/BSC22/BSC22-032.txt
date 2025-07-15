@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC22-032', 'PackNo': 'BSC22', 'CardName': 'ガウルム', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '3', 'ReducedCost': ['紫', '紫'], 'CardType': '無魔', 'Lv': ['LV1 : 1000／1', 'LV2 : 5000／3'], 'Text': '［Lv2］『このスピリットの破壊時』相手のスピリットのコア2個を相手のリザーブに置き、このスピリットは自分の手札に戻る。'}
+﻿{
+  "CardNo": "BSC22-032",
+  "PackNo": "BSC22",
+  "CardName": "ガウルム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "無魔",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv2］『このスピリットの破壊時』相手のスピリットのコア2個を相手のリザーブに置き、このスピリットは自分の手札に戻る。"
+}

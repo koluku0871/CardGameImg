@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BS10-057",
+  "PackNo": "BS10",
+  "CardName": "鹿人ディアルド",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／4"
+  ],
+  "Text": "-"
+}

@@ -1,1 +1,18 @@
-﻿{'CardNo': 'KF-05', 'PackNo': 'KF', 'CardName': 'コールス・トータス', 'CardRarity': 'KF', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '2', 'ReducedCost': ['白'], 'CardType': '甲獣', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／2'], 'Text': '［Lv2］『このスピリットのブロック時』このスピリットをBP+3000する。'}
+﻿{
+  "CardNo": "KF-05",
+  "PackNo": "KF",
+  "CardName": "コールス・トータス",
+  "CardRarity": "KF",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "2",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "甲獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "［Lv2］『このスピリットのブロック時』このスピリットをBP+3000する。"
+}

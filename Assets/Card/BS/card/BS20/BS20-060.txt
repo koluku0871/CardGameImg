@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS20-060",
+  "PackNo": "BS20",
+  "CardName": "カラクリバッタ",
+  "CardRarity": "C",
+  "CardCategory": "ブレイヴ",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "白"
+  ],
+  "CardType": "怪虫・樹魔",
+  "Lv": [
+    "LV1 : 4000／1",
+    "brave : +4000／"
+  ],
+  "Text": "《合体条件：コスト4以上》 《合体時》『自分のエンドステップ』このスピリットは回復する。"
+}

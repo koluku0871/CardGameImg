@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS22-010",
+  "PackNo": "BS22",
+  "CardName": "ボーン・ダイル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "2",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "無魔",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『自分のメインステップ』このスピリットに白のシンボル2つを追加する。"
+}

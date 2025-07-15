@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS38-RV027",
+  "PackNo": "BS38",
+  "CardName": "戴冠する活火山",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］《星座封印》『このネクサスの配置時』系統：「光導」/「星魂」を持つ自分のスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のライフに置ける。 《封印時》［Lv2］『自分のアタックステップ』系統：「光導」/「星魂」を持つ自分のスピリットすべてをBP+5000する。"
+}

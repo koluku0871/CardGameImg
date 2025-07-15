@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS05-046",
+  "PackNo": "BS05",
+  "CardName": "戦闘獣バビーバー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "戦獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3",
+    "LV3 : 5000／5"
+  ],
+  "Text": "-"
+}

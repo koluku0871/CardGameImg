@@ -1,1 +1,21 @@
-﻿{'CardNo': 'CB26-013', 'PackNo': 'CB26', 'CardName': 'BLUE ROSE [2]', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '青'], 'CardType': 'NEXT', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／3', 'LV3 : 10000／4'], 'Text': '［フラッシュ］《契約煌臨：「カリーナ」/「BLUE ROSE」》『自分のターン』自分の<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。［Lv1-Lv2-Lv3］『このスピリットの煌臨/アタック時』ターンに1回、自分の手札にある「GOLDEN RYAN」1枚を、<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置いたものとして、このスピリットの隣か、このスピリット以外に《契約煌臨》できる。 ［Lv2-Lv3］『このスピリットのアタック時』ボイドからコア1個を自分のスピリットに置く。さらに、自分の「GOLDEN RYAN」がいるとき、相手のスピリット1体をデッキの上に戻す。'}
+﻿{
+  "CardNo": "CB26-013",
+  "PackNo": "CB26",
+  "CardName": "BLUE ROSE [2]",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "5",
+  "ReducedCost": [
+    "白",
+    "白",
+    "青"
+  ],
+  "CardType": "NEXT",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／3",
+    "LV3 : 10000／4"
+  ],
+  "Text": "［フラッシュ］《契約煌臨：「カリーナ」/「BLUE ROSE」》『自分のターン』自分の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、対象の自分のスピリットに手札から重ねる。［Lv1-Lv2-Lv3］『このスピリットの煌臨/アタック時』ターンに1回、自分の手札にある「GOLDEN RYAN」1枚を、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置いたものとして、このスピリットの隣か、このスピリット以外に《契約煌臨》できる。 ［Lv2-Lv3］『このスピリットのアタック時』ボイドからコア1個を自分のスピリットに置く。さらに、自分の「GOLDEN RYAN」がいるとき、相手のスピリット1体をデッキの上に戻す。"
+}

@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS01-022', 'PackNo': 'BS01', 'CardName': '大鎌フール・ジョーカー', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '道化', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2'], 'Text': '[Lv2]『このスピリットのアタック時』BP3000以下のスピリット1体を破壊できる。'}
+﻿{
+  "CardNo": "BS01-022",
+  "PackNo": "BS01",
+  "CardName": "大鎌フール・ジョーカー",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "道化",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2"
+  ],
+  "Text": "[Lv2]『このスピリットのアタック時』BP3000以下のスピリット1体を破壊できる。"
+}

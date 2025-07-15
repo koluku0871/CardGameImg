@@ -1,1 +1,16 @@
-﻿{'CardNo': 'BS04-058', 'PackNo': 'BS04', 'CardName': '鼠人チューリヒ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '1', 'ReducedCost': [], 'CardType': '獣頭', 'Lv': ['LV1 : 1000／1', 'LV2 : 5000／6'], 'Text': '［Lv1-Lv2］自分のフィールドに系統：「戦獣」を持つスピリットがいる間、このスピリットはLv2として扱う。'}
+﻿{
+  "CardNo": "BS04-058",
+  "PackNo": "BS04",
+  "CardName": "鼠人チューリヒ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "獣頭",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 5000／6"
+  ],
+  "Text": "［Lv1-Lv2］自分のフィールドに系統：「戦獣」を持つスピリットがいる間、このスピリットはLv2として扱う。"
+}

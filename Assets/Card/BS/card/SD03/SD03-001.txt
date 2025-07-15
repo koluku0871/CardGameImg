@@ -1,1 +1,17 @@
-﻿{'CardNo': 'SD03-001', 'PackNo': 'SD03', 'CardName': 'ブレイドラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '0', 'ReducedCost': [], 'CardType': '翼竜', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "SD03-001",
+  "PackNo": "SD03",
+  "CardName": "ブレイドラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "翼竜",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 3000／3"
+  ],
+  "Text": "-"
+}

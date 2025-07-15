@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS10-060",
+  "PackNo": "BS10",
+  "CardName": "巨人猟兵オライオン",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "7",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "闘神・星魂",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 10000／4"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』相手のデッキを上から12枚破棄する。"
+}

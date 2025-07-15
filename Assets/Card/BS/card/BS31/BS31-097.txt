@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS31-097",
+  "PackNo": "BS31",
+  "CardName": "ソウルオーラ",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、自分のスピリットすべてをBP+3000する。さらに、ソウルコアが置かれている自分のスピリットをBP+3000する。"
+}

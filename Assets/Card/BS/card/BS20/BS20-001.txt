@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS20-001",
+  "PackNo": "BS20",
+  "CardName": "シチノムス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2",
+    "LV3 : 4000／3"
+  ],
+  "Text": "-"
+}

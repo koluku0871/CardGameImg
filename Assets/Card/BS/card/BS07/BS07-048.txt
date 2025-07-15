@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS07-048",
+  "PackNo": "BS07",
+  "CardName": "シルバー・ゴレム",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "造兵",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『相手のアタックステップ』このスピリットは、相手のコスト3以下のスピリットをブロックしたとき疲労しない。"
+}

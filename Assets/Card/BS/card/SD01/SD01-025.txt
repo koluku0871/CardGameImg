@@ -1,1 +1,22 @@
-﻿{'CardNo': 'SD01-025', 'PackNo': 'SD01', 'CardName': '鎧装獣スコール', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白', '白'], 'CardType': '甲獣', 'Lv': ['LV1 : 4000／2', 'LV2 : 7000／3', 'LV3 : 8000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "SD01-025",
+  "PackNo": "SD01",
+  "CardName": "鎧装獣スコール",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "5",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "甲獣",
+  "Lv": [
+    "LV1 : 4000／2",
+    "LV2 : 7000／3",
+    "LV3 : 8000／4"
+  ],
+  "Text": "-"
+}

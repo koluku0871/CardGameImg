@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS12-033",
+  "PackNo": "BS12",
+  "CardName": "コグマル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "小玩・星魂",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "-"
+}

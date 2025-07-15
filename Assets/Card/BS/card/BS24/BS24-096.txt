@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS24-096",
+  "PackNo": "BS24",
+  "CardName": "忘れられし凱旋門",
+  "CardRarity": "R",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］相手は、相手のフィールドにあるシンボルと同じ色のマジックカードしか使用できない。 ［Lv2］相手は、ボイドからライフにコアを置けない。"
+}

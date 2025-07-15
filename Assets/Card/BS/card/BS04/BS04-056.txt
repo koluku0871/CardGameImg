@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS04-056', 'PackNo': 'BS04', 'CardName': 'ブレイブレス・レオ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '7', 'ReducedCost': ['黄', '黄', '黄', '黄', '黄'], 'CardType': '戯狩', 'Lv': ['LV1 : 5000／1', 'LV2 : 7000／2'], 'Text': '-'}
+﻿{
+  "CardNo": "BS04-056",
+  "PackNo": "BS04",
+  "CardName": "ブレイブレス・レオ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "7",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "戯狩",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／2"
+  ],
+  "Text": "-"
+}

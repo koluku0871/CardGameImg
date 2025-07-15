@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS01-081', 'PackNo': 'BS01', 'CardName': '銀燐竜ニーズホッグ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白'], 'CardType': '甲竜・甲獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2'], 'Text': '[Lv1-Lv2]『このスピリットのブロック時』このスピリットをBP+4000する。'}
+﻿{
+  "CardNo": "BS01-081",
+  "PackNo": "BS01",
+  "CardName": "銀燐竜ニーズホッグ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "甲竜・甲獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2"
+  ],
+  "Text": "[Lv1-Lv2]『このスピリットのブロック時』このスピリットをBP+4000する。"
+}

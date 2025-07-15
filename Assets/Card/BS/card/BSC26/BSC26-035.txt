@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC26-035', 'PackNo': 'BSC26', 'CardName': '92式メーサー戦車', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白'], 'CardType': '動器', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『このスピリットのアタック時』このスピリットのコスト以下の相手のスピリット1体を手札に戻す。'}
+﻿{
+  "CardNo": "BSC26-035",
+  "PackNo": "BSC26",
+  "CardName": "92式メーサー戦車",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白"
+  ],
+  "CardType": "動器",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック時』このスピリットのコスト以下の相手のスピリット1体を手札に戻す。"
+}

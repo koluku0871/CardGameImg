@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC22-113', 'PackNo': 'BSC22', 'CardName': '侵食されゆく銀世界', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '白', 'Cost': '5', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': ['LV2 : -／4'], 'Text': '［Lv1-Lv2］『相手のアタックステップ開始時』自分のトラッシュのコアすべてを自分のリザーブに置く。この効果で自分のリザーブに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれたとき、系統：「動器」を持つ自分のスピリットすべてを回復させる。 ［Lv2］『相手のアタックステップ』相手の効果で自分のスピリットが消滅/破壊されたとき、ボイドからコア2個を自分のリザーブに置く。'}
+﻿{
+  "CardNo": "BSC22-113",
+  "PackNo": "BSC22",
+  "CardName": "侵食されゆく銀世界",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "白",
+  "Cost": "5",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／4"
+  ],
+  "Text": "［Lv1-Lv2］『相手のアタックステップ開始時』自分のトラッシュのコアすべてを自分のリザーブに置く。この効果で自分のリザーブに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれたとき、系統：「動器」を持つ自分のスピリットすべてを回復させる。 ［Lv2］『相手のアタックステップ』相手の効果で自分のスピリットが消滅/破壊されたとき、ボイドからコア2個を自分のリザーブに置く。"
+}

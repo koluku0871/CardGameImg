@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS24-040",
+  "PackNo": "BS24",
+  "CardName": "ウォッチーノ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "小玩",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの破壊時』BP5000以下の相手のスピリット1体を疲労させることで、このスピリットは疲労状態でフィールドに残る。"
+}

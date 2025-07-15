@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS02-053', 'PackNo': 'BS02', 'CardName': '妖精ターニャ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': ['黄'], 'CardType': '楽族', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／3', 'LV3 : 4000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS02-053",
+  "PackNo": "BS02",
+  "CardName": "妖精ターニャ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "楽族",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3",
+    "LV3 : 4000／4"
+  ],
+  "Text": "-"
+}

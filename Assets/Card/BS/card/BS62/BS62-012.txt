@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS62-012', 'PackNo': 'BS62', 'CardName': '空挺大龍ドラグ・モス', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '7', 'ReducedCost': ['赤', '赤', '赤', '赤'], 'CardType': '緋炎・古竜', 'Lv': ['LV1 : 5000／1', 'LV2 : 8000／2', 'LV3 : 11000／4'], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］ターンに1回、自分のスピリットのコアを、系統：「緋炎」を持つ他のスピリット1体に好きなだけ置ける。この効果でLvが上がったとき、そのスピリットを回復させる。 ［Lv2-Lv3］『お互いのアタックステップ』系統：「緋炎」を持つ自分のスピリットすべては、相手の効果でフィールドから手札/デッキに戻らない。'}
+﻿{
+  "CardNo": "BS62-012",
+  "PackNo": "BS62",
+  "CardName": "空挺大龍ドラグ・モス",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "7",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "緋炎・古竜",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 8000／2",
+    "LV3 : 11000／4"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（このカードは手札からセットできる）］【セット中】［フラッシュ］ターンに1回、自分のスピリットのコアを、系統：「緋炎」を持つ他のスピリット1体に好きなだけ置ける。この効果でLvが上がったとき、そのスピリットを回復させる。 ［Lv2-Lv3］『お互いのアタックステップ』系統：「緋炎」を持つ自分のスピリットすべては、相手の効果でフィールドから手札/デッキに戻らない。"
+}

@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS29-022",
+  "PackNo": "BS29",
+  "CardName": "シーホース・タンカー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "機獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［Lv1-Lv2］【スピリットソウル：紫/白】自分がアルティメットカードを召喚するとき、このスピリットに<img src=\"/renewal/images/cardlist/ico_pup.png\"/>/<img src=\"/renewal/images/cardlist/ico_white.png\"/>（紫/白のシンボル1つ）を追加する。 ［Lv2］このスピリットの色とシンボルは紫としても扱う。"
+}

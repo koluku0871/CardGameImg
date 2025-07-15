@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS01-129', 'PackNo': 'BS01', 'CardName': 'ポイズンシュート', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '紫', 'Cost': '5', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]スピリット1体の上にあるコア1個を持ち主のリザーブに置く。'}
+﻿{
+  "CardNo": "BS01-129",
+  "PackNo": "BS01",
+  "CardName": "ポイズンシュート",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／-",
+    "LV2 : -／-",
+    "LV3 : -／-"
+  ],
+  "Text": "[フラッシュ]スピリット1体の上にあるコア1個を持ち主のリザーブに置く。"
+}

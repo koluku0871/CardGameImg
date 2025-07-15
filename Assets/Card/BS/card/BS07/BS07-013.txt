@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS07-013",
+  "PackNo": "BS07",
+  "CardName": "魔札の占い師ディーシャ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "道化・夜族",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv2］『このスピリットの破壊時』相手は手札1枚を選んでデッキの上に戻す。"
+}

@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS01-011', 'PackNo': 'BS01', 'CardName': 'ドラグサウルス', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '爬獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 5000／4'], 'Text': '[Lv1-Lv2-Lv3]『このスピリットの召喚時』ネクサス1つを破壊する。'}
+﻿{
+  "CardNo": "BS01-011",
+  "PackNo": "BS01",
+  "CardName": "ドラグサウルス",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "爬獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2",
+    "LV3 : 5000／4"
+  ],
+  "Text": "[Lv1-Lv2-Lv3]『このスピリットの召喚時』ネクサス1つを破壊する。"
+}

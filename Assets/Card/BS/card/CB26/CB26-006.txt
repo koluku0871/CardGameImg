@@ -1,1 +1,19 @@
-﻿{'CardNo': 'CB26-006', 'PackNo': 'CB26', 'CardName': 'バーナビー・ブルックス Jr.', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '緑'], 'CardType': 'NEXT', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／3'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のデッキを上から3枚オープンできる。その中の「WILD TIGER」/「BARNABY BROOKS Jr.」/「ダブルチェイサー」1枚を手札に加える。残ったカードは破棄する。 ［Lv2］『自分のメインステップ』このスピリットに緑シンボル1つを追加する。'}
+﻿{
+  "CardNo": "CB26-006",
+  "PackNo": "CB26",
+  "CardName": "バーナビー・ブルックス Jr.",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "緑"
+  ],
+  "CardType": "NEXT",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分のデッキを上から3枚オープンできる。その中の「WILD TIGER」/「BARNABY BROOKS Jr.」/「ダブルチェイサー」1枚を手札に加える。残ったカードは破棄する。 ［Lv2］『自分のメインステップ』このスピリットに緑シンボル1つを追加する。"
+}

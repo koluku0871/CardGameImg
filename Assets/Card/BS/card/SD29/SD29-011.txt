@@ -1,1 +1,18 @@
-﻿{'CardNo': 'SD29-011', 'PackNo': 'SD29', 'CardName': '激龍城', 'CardRarity': 'U', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '-', 'Lv': ['LV2 : -／2'], 'Text': '［Lv1-Lv2］『自分のアタックステップ』自分の赤のスピリットすべてをBP+2000する。このネクサスに<img src="/renewal/images/cardlist/ico_soulcore.png"/>(ソウルコア)が置かれている間、さらに、自分の赤のスピリットすべてをBP+2000する。 ［Lv2］系統：「武竜」を持つ自分の赤のスピリットすべてに“【真・激突】『このスピリットのアタック時』相手は可能ならスピリット/アルティメットでブロックする”を与える。'}
+﻿{
+  "CardNo": "SD29-011",
+  "PackNo": "SD29",
+  "CardName": "激龍城",
+  "CardRarity": "U",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／2"
+  ],
+  "Text": "［Lv1-Lv2］『自分のアタックステップ』自分の赤のスピリットすべてをBP+2000する。このネクサスに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>(ソウルコア)が置かれている間、さらに、自分の赤のスピリットすべてをBP+2000する。 ［Lv2］系統：「武竜」を持つ自分の赤のスピリットすべてに“【真・激突】『このスピリットのアタック時』相手は可能ならスピリット/アルティメットでブロックする”を与える。"
+}

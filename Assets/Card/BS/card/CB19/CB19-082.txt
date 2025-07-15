@@ -1,1 +1,18 @@
-﻿{'CardNo': 'CB19-082', 'PackNo': 'CB19', 'CardName': '50th 仮面ライダーエスパーダ ランプドアランジーナ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '2', 'ReducedCost': ['赤'], 'CardType': '仮面・剣使', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／3'], 'Text': 'このカードを召喚するとき、カード名に「50th」を含む自分のスピリットすべてのシンボルは赤としても扱う。［フラッシュ］【アクセル】コスト3<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（この効果は手札から使用できる）相手のネクサス1つを破壊する。この効果発揮後、このカードはオープンして手元に置く。その後、カード名に「50th」を含む自分のスピリットがいれば1コスト支払って召喚できる。'}
+﻿{
+  "CardNo": "CB19-082",
+  "PackNo": "CB19",
+  "CardName": "50th 仮面ライダーエスパーダ ランプドアランジーナ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "仮面・剣使",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "このカードを召喚するとき、カード名に「50th」を含む自分のスピリットすべてのシンボルは赤としても扱う。［フラッシュ］【アクセル】コスト3<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（この効果は手札から使用できる）相手のネクサス1つを破壊する。この効果発揮後、このカードはオープンして手元に置く。その後、カード名に「50th」を含む自分のスピリットがいれば1コスト支払って召喚できる。"
+}

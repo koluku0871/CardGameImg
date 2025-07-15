@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS38-CP05",
+  "PackNo": "BS38",
+  "CardName": "獄風の探索者カゲロウ・シーカー",
+  "CardRarity": "CP",
+  "CardCategory": "アルティメット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "ico_ultimate.png"
+  ],
+  "CardType": "邪神・次代・殻人",
+  "Lv": [
+    "LV3 : 5000／1",
+    "LV4 : 7000／3"
+  ],
+  "Text": "《召喚条件：自分のライフ2以上》［Lv3-Lv4］『このアルティメットの召喚時』召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、自分のデッキを上から3枚オープンする。その中のアルティメットカード1枚を手札に加える。残ったカードは破棄する。 ［Lv4］自分の究極シンボルすべてを赤/緑のシンボルとしても扱う。"
+}

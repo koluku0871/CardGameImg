@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC22-048', 'PackNo': 'BSC22', 'CardName': '吸血姫ヴァンピレス', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '6', 'ReducedCost': ['紫', '紫', '紫'], 'CardType': '夜族', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／2', 'LV3 : 6000／5'], 'Text': '［Lv1-Lv2-Lv3］『このスピリットの召喚時』疲労状態の相手のスピリット1体を破壊する。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、さらに、自分のトラッシュにある紫のスピリットカード1枚を手札に戻す。'}
+﻿{
+  "CardNo": "BSC22-048",
+  "PackNo": "BSC22",
+  "CardName": "吸血姫ヴァンピレス",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "6",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "夜族",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／2",
+    "LV3 : 6000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『このスピリットの召喚時』疲労状態の相手のスピリット1体を破壊する。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、自分のトラッシュにある紫のスピリットカード1枚を手札に戻す。"
+}

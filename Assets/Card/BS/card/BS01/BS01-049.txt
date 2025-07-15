@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS01-049', 'PackNo': 'BS01', 'CardName': '幽騎士ナイトライダー', 'CardRarity': 'M', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '7', 'ReducedCost': ['紫', '紫'], 'CardType': '戦騎', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／3', 'LV3 : 9000／4'], 'Text': '[Lv2-Lv3]『このスピリットのアタック時』自分か相手の疲労状態のスピリット1体を破壊する'}
+﻿{
+  "CardNo": "BS01-049",
+  "PackNo": "BS01",
+  "CardName": "幽騎士ナイトライダー",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "7",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "戦騎",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 9000／4"
+  ],
+  "Text": "[Lv2-Lv3]『このスピリットのアタック時』自分か相手の疲労状態のスピリット1体を破壊する"
+}

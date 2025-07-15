@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS03-052', 'PackNo': 'BS03', 'CardName': 'フロッガー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '2', 'ReducedCost': ['黄'], 'CardType': '遊精', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3', 'LV3 : 6000／7'], 'Text': '-'}
+﻿{
+  "CardNo": "BS03-052",
+  "PackNo": "BS03",
+  "CardName": "フロッガー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "2",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "遊精",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3",
+    "LV3 : 6000／7"
+  ],
+  "Text": "-"
+}

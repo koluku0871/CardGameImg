@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS19-017",
+  "PackNo": "BS19",
+  "CardName": "大蛇サイドロン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "妖蛇",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 7000／4"
+  ],
+  "Text": "［Lv2-Lv3］【強化】自分の「コア除去効果」でリザーブに置くコアを+1個する。"
+}

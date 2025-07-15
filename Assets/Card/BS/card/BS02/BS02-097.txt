@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS02-097', 'PackNo': 'BS02', 'CardName': 'ネイチャーフォース', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑', '緑'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]自分のトラッシュにあるコアすべてを、自分のスピリット1体の上に置く。この効果は、メインステップで使えない。'}
+﻿{
+  "CardNo": "BS02-097",
+  "PackNo": "BS02",
+  "CardName": "ネイチャーフォース",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／-",
+    "LV2 : -／-",
+    "LV3 : -／-"
+  ],
+  "Text": "[フラッシュ]自分のトラッシュにあるコアすべてを、自分のスピリット1体の上に置く。この効果は、メインステップで使えない。"
+}

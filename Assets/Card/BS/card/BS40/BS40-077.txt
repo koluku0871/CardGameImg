@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS40-077",
+  "PackNo": "BS40",
+  "CardName": "青の聖遺物",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリット/アルティメット/ブレイヴの召喚時』効果は発揮されない。 ［Lv2］『自分のエンドステップ』このターン、自分が《煌臨》していたとき、自分のトラッシュにある<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>を自分のリザーブに置くことができる。そうしたとき、相手のデッキを上から3枚破棄する。"
+}

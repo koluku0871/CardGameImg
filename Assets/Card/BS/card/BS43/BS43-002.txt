@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS43-002",
+  "PackNo": "BS43",
+  "CardName": "恐龍同盟ステゴラール",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック時』このスピリットをBP+3000し、自分はデッキから1枚ドローする。 ［Lv2］『自分のアタックステップ』このスピリットに《煌臨》でカードを重ねるとき、自分の手札1枚を破棄することで、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置いたものとして扱う。"
+}

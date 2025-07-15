@@ -1,0 +1,17 @@
+﻿{
+  "CardNo": "BS31-099",
+  "PackNo": "BS31",
+  "CardName": "ソウルドロー",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "赤",
+  "Cost": "5",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［メイン］自分はデッキから2枚ドローする。コストの支払いに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、自分はデッキから1枚ドローする。 ［フラッシュ］このターンの間、スピリット1体をBP+4000する。"
+}

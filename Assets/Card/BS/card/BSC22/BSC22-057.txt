@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BSC22-057', 'PackNo': 'BSC22', 'CardName': 'グラーバ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '3', 'ReducedCost': ['緑'], 'CardType': '怪虫', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／3'], 'Text': '［Lv1-Lv2］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、系統：「怪虫」/「殻虫」を持つ自分のスピリットすべてをBP+4000する。［Lv1-Lv2］スピリット/ネクサス/マジックの効果で、ボイドからこのスピリットにコアが置かれるとき、その数を+1個する。'}
+﻿{
+  "CardNo": "BSC22-057",
+  "PackNo": "BSC22",
+  "CardName": "グラーバ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑"
+  ],
+  "CardType": "怪虫",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［Lv1-Lv2］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、系統：「怪虫」/「殻虫」を持つ自分のスピリットすべてをBP+4000する。［Lv1-Lv2］スピリット/ネクサス/マジックの効果で、ボイドからこのスピリットにコアが置かれるとき、その数を+1個する。"
+}

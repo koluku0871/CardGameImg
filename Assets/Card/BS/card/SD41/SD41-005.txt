@@ -1,1 +1,19 @@
-﻿{'CardNo': 'SD41-005', 'PackNo': 'SD41', 'CardName': 'ジャッガス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '紫', 'Cost': '4', 'ReducedCost': ['紫', '紫'], 'CardType': '霊獣', 'Lv': ['LV1 : 3000／1', 'LV2 : 4000／3'], 'Text': '［フラッシュ］【アクセル】コスト4<img src="/renewal/images/cardlist/ico_pup.png"/><img src="/renewal/images/cardlist/ico_pup.png"/>（この効果は手札から使用できる）相手のスピリットのコア1個を相手のリザーブに置く。その後、1コスト支払うことで、相手のスピリット1体のコア2個を相手のリザーブに置く。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。'}
+﻿{
+  "CardNo": "SD41-005",
+  "PackNo": "SD41",
+  "CardName": "ジャッガス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "霊獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト4<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/>（この効果は手札から使用できる）相手のスピリットのコア1個を相手のリザーブに置く。その後、1コスト支払うことで、相手のスピリット1体のコア2個を相手のリザーブに置く。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。"
+}

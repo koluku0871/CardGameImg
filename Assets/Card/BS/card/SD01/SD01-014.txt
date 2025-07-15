@@ -1,1 +1,16 @@
-﻿{'CardNo': 'SD01-014', 'PackNo': 'SD01', 'CardName': 'スカンクス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '0', 'ReducedCost': [], 'CardType': '遊精', 'Lv': ['LV1 : 2000／1', 'LV2 : 3000／7'], 'Text': '-'}
+﻿{
+  "CardNo": "SD01-014",
+  "PackNo": "SD01",
+  "CardName": "スカンクス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "遊精",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 3000／7"
+  ],
+  "Text": "-"
+}

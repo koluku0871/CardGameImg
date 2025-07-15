@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS04-062', 'PackNo': 'BS04', 'CardName': '猿人モンゴクウ', 'CardRarity': 'U', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '2', 'ReducedCost': ['青'], 'CardType': '獣頭・勇傑', 'Lv': ['LV1 : 3000／1', 'LV2 : 5000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BS04-062",
+  "PackNo": "BS04",
+  "CardName": "猿人モンゴクウ",
+  "CardRarity": "U",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "2",
+  "ReducedCost": [
+    "青"
+  ],
+  "CardType": "獣頭・勇傑",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／4"
+  ],
+  "Text": "-"
+}

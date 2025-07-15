@@ -1,1 +1,24 @@
-﻿{'CardNo': 'LM18-G06', 'PackNo': 'LM', 'CardName': 'ゴジラ（2016）第4形態', 'CardRarity': 'LM', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '12', 'ReducedCost': ['赤', '赤', '赤', '赤', '赤', '赤'], 'CardType': '地竜', 'Lv': ['LV1 : 15000／1', 'LV2 : 20000／3', 'LV3 : 30000／8'], 'Text': 'このカード/スピリットはカード名：「シン・ゴジラ（第4形態）」としても扱う。［フラッシュ］【チェンジ】コスト7<img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/><img src="/renewal/images/cardlist/ico_red.png"/>（この効果は手札から使用できる）BP30000以下の相手のスピリット/アルティメット1体を破壊する。この効果発揮後、このカードを破棄するか、カード名に「ゴジラ」を含むコスト6以上の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。 ［Lv2-Lv3：フラッシュ］『お互いのアタックステップ』自分の手札1枚を破棄することで、このスピリットのBP以下の相手のスピリット/アルティメット1体を破壊する。'}
+﻿{
+  "CardNo": "LM18-G06",
+  "PackNo": "LM",
+  "CardName": "ゴジラ（2016）第4形態",
+  "CardRarity": "LM",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "12",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤",
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "地竜",
+  "Lv": [
+    "LV1 : 15000／1",
+    "LV2 : 20000／3",
+    "LV3 : 30000／8"
+  ],
+  "Text": "このカード/スピリットはカード名：「シン・ゴジラ（第4形態）」としても扱う。［フラッシュ］【チェンジ】コスト7<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（この効果は手札から使用できる）BP30000以下の相手のスピリット/アルティメット1体を破壊する。この効果発揮後、このカードを破棄するか、カード名に「ゴジラ」を含むコスト6以上の自分のスピリットと回復状態で入れ替える。バトル中ならバトルを続ける。 ［Lv2-Lv3：フラッシュ］『お互いのアタックステップ』自分の手札1枚を破棄することで、このスピリットのBP以下の相手のスピリット/アルティメット1体を破壊する。"
+}

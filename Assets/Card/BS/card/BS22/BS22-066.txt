@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS22-066",
+  "PackNo": "BS22",
+  "CardName": "コーラル・ジャガー",
+  "CardRarity": "U",
+  "CardCategory": "ブレイヴ",
+  "Element": "青",
+  "Cost": "6",
+  "ReducedCost": [
+    "青",
+    "青",
+    "紫"
+  ],
+  "CardType": "異合",
+  "Lv": [
+    "LV1 : 2000／1",
+    "brave : +2000／"
+  ],
+  "Text": "［Lv1］『このブレイヴの召喚時』最もコストの低い相手のスピリット1体を破壊する。 《合体条件：コスト5以上》"
+}

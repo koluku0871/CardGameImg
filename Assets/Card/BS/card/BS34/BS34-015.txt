@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS34-015",
+  "PackNo": "BS34",
+  "CardName": "ムシャデビル",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "4",
+  "ReducedCost": [
+    "紫",
+    "紫"
+  ],
+  "CardType": "呪鬼",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／3",
+    "LV3 : 8000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『自分のアタックステップ』系統：「呪鬼」を持つ自分のスピリットがアタックしたとき、自分のスピリットの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を自分のトラッシュに置くことで、疲労状態の相手のスピリット1体を破壊する。"
+}

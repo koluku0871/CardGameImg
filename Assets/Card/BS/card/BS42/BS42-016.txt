@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BS42-016",
+  "PackNo": "BS42",
+  "CardName": "紫骸旅団ゾンビドラゴン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "3",
+  "ReducedCost": [
+    "紫"
+  ],
+  "CardType": "死竜・無魔",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／3"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト6<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/>（この効果は手札から使用できる）疲労状態の相手のスピリット1体を破壊する。この効果発揮後、このカードはオープンして手元に置く。［Lv1-Lv2］『このスピリットの召喚時』自分はデッキから1枚ドローする。"
+}

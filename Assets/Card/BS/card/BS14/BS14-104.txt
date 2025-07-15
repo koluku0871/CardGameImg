@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BS14-104",
+  "PackNo": "BS14",
+  "CardName": "ドリームスパイラル",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、自分のスピリットが破壊されたとき、破壊されたスピリット1体につき、相手のスピリット1体をデッキの上に戻す。"
+}

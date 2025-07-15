@@ -1,1 +1,20 @@
-﻿{'CardNo': 'BS03-087', 'PackNo': 'BS03', 'CardName': '戦闘獣ライノ・セーラス', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '4', 'ReducedCost': ['青', '青'], 'CardType': '戦獣', 'Lv': ['LV1 : 4000／1', 'LV2 : 5000／4', 'LV3 : 7000／7'], 'Text': '[Lv1-Lv2-Lv3]『このスピリットの破壊時』相手のデッキを上から、このスピリット上に置かれているコア1個につき、1枚破棄する。'}
+﻿{
+  "CardNo": "BS03-087",
+  "PackNo": "BS03",
+  "CardName": "戦闘獣ライノ・セーラス",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "4",
+  "ReducedCost": [
+    "青",
+    "青"
+  ],
+  "CardType": "戦獣",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 5000／4",
+    "LV3 : 7000／7"
+  ],
+  "Text": "[Lv1-Lv2-Lv3]『このスピリットの破壊時』相手のデッキを上から、このスピリット上に置かれているコア1個につき、1枚破棄する。"
+}

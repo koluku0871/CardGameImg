@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC24-036', 'PackNo': 'BSC24', 'CardName': '棲星怪獣ジャミラ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '青', 'Cost': '3', 'ReducedCost': ['青', '青', '青'], 'CardType': '闘神', 'Lv': ['LV1 : 5000／1', 'LV2 : 10000／3', 'LV3 : 13000／4'], 'Text': '-'}
+﻿{
+  "CardNo": "BSC24-036",
+  "PackNo": "BSC24",
+  "CardName": "棲星怪獣ジャミラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "3",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "闘神",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 10000／3",
+    "LV3 : 13000／4"
+  ],
+  "Text": "-"
+}

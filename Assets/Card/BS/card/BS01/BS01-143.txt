@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BS01-143', 'PackNo': 'BS01', 'CardName': 'ディバインチェイン', 'CardRarity': 'R', 'CardCategory': 'マジック', 'Element': '白', 'Cost': '3', 'ReducedCost': ['白', '白', '白'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]このバトルが終わるまで、相手はフラッシュのタイミングで手札のカードを使用できない'}
+﻿{
+  "CardNo": "BS01-143",
+  "PackNo": "BS01",
+  "CardName": "ディバインチェイン",
+  "CardRarity": "R",
+  "CardCategory": "マジック",
+  "Element": "白",
+  "Cost": "3",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／-",
+    "LV2 : -／-",
+    "LV3 : -／-"
+  ],
+  "Text": "[フラッシュ]このバトルが終わるまで、相手はフラッシュのタイミングで手札のカードを使用できない"
+}

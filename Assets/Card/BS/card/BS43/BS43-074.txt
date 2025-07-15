@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS43-074",
+  "PackNo": "BS43",
+  "CardName": "死骸銃ドラグヘッド",
+  "CardRarity": "C",
+  "CardCategory": "ブレイヴ",
+  "Element": "紫",
+  "Cost": "5",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "神銃・死竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "brave : +4000／"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト6<img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/><img src=\"/renewal/images/cardlist/ico_pup.png\"/>（この効果は手札から使用できる）相手のスピリットのコア2個を相手のリザーブに置く。この効果発揮後、このカードはオープンして手元に置く。自分の手札1枚を破棄することで、手元に置かずに、コストを支払わずに召喚する。［Lv1］【装填】スピリット状態のこのブレイヴには《煌臨》できる。このブレイヴに《煌臨》したとき、この煌臨元カードは、そのスピリットに合体できる。 《合体条件：コスト4以上》"
+}

@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BSC22-014', 'PackNo': 'BSC22', 'CardName': 'ドラグノ祈祷師', 'CardRarity': 'R', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '4', 'ReducedCost': ['赤', '赤'], 'CardType': '竜人', 'Lv': ['LV1 : 2000／1', 'LV2 : 5000／4'], 'Text': '［Lv1-Lv2］『このスピリットの召喚時』自分のトラッシュにあるスピリットカード1枚を手札に戻す。召喚コストに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）を使用していたら、かわりに、自分のトラッシュにある系統：「古竜」を持つスピリットカード1枚を、コストを支払わずに召喚できる。'}
+﻿{
+  "CardNo": "BSC22-014",
+  "PackNo": "BSC22",
+  "CardName": "ドラグノ祈祷師",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "4",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "竜人",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／4"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』自分のトラッシュにあるスピリットカード1枚を手札に戻す。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、かわりに、自分のトラッシュにある系統：「古竜」を持つスピリットカード1枚を、コストを支払わずに召喚できる。"
+}

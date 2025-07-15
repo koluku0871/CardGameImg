@@ -1,1 +1,20 @@
-﻿{'CardNo': 'X13-12', 'PackNo': 'X', 'CardName': '裁きの神剣リ・ジェネシス', 'CardRarity': 'X', 'CardCategory': 'ブレイヴ', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '剣刃', 'Lv': ['LV1 : 6000／1', 'brave : +10000／'], 'Text': 'このブレイヴカードは、自分の手札にあるスピリットカード1枚を破棄しなければ召喚できない。 《合体条件：コスト8以上》'}
+﻿{
+  "CardNo": "X13-12",
+  "PackNo": "X",
+  "CardName": "裁きの神剣リ・ジェネシス",
+  "CardRarity": "X",
+  "CardCategory": "ブレイヴ",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "剣刃",
+  "Lv": [
+    "LV1 : 6000／1",
+    "brave : +10000／"
+  ],
+  "Text": "このブレイヴカードは、自分の手札にあるスピリットカード1枚を破棄しなければ召喚できない。 《合体条件：コスト8以上》"
+}

@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS06-003",
+  "PackNo": "BS06",
+  "CardName": "猛角獣ホーングリズリー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "皇獣",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 6000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］【激突】『このスピリットのアタック時』相手は可能ならば必ずブロックする。"
+}

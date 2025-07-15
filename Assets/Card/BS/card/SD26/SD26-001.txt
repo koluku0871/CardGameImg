@@ -1,1 +1,18 @@
-﻿{'CardNo': 'SD26-001', 'PackNo': 'SD26', 'CardName': 'スラスト・シェパード', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '1', 'ReducedCost': ['赤'], 'CardType': '皇獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2'], 'Text': '［Lv2］『このスピリットのアタック時』このスピリットをBP+3000する。'}
+﻿{
+  "CardNo": "SD26-001",
+  "PackNo": "SD26",
+  "CardName": "スラスト・シェパード",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "1",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "皇獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2"
+  ],
+  "Text": "［Lv2］『このスピリットのアタック時』このスピリットをBP+3000する。"
+}

@@ -1,1 +1,21 @@
-﻿{'CardNo': 'BSC22-X01', 'PackNo': 'BSC22', 'CardName': '龍皇ジークフリード', 'CardRarity': 'X', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '6', 'ReducedCost': ['赤', '赤', '赤'], 'CardType': '古竜', 'Lv': ['LV1 : 4000／1', 'LV2 : 6000／2', 'LV3 : 10000／5'], 'Text': '［Lv1-Lv2-Lv3：フラッシュ］【覚醒】自分のスピリットのコアを、好きなだけこのスピリットに置くことができる。［Lv1-Lv2-Lv3］このスピリットに<img src="/renewal/images/cardlist/ico_soulcore.png"/>（ソウルコア）が置かれている間、このスピリットを最高Lvとして扱う。 ［Lv3］『相手によるこのスピリットの破壊時』自分のライフが5以下のとき、ボイドからコア2個を自分のライフに置き、このスピリットは同じ状態でフィールドに残る。'}
+﻿{
+  "CardNo": "BSC22-X01",
+  "PackNo": "BSC22",
+  "CardName": "龍皇ジークフリード",
+  "CardRarity": "X",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "6",
+  "ReducedCost": [
+    "赤",
+    "赤",
+    "赤"
+  ],
+  "CardType": "古竜",
+  "Lv": [
+    "LV1 : 4000／1",
+    "LV2 : 6000／2",
+    "LV3 : 10000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3：フラッシュ］【覚醒】自分のスピリットのコアを、好きなだけこのスピリットに置くことができる。［Lv1-Lv2-Lv3］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、このスピリットを最高Lvとして扱う。 ［Lv3］『相手によるこのスピリットの破壊時』自分のライフが5以下のとき、ボイドからコア2個を自分のライフに置き、このスピリットは同じ状態でフィールドに残る。"
+}

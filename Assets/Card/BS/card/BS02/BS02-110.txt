@@ -1,1 +1,22 @@
-﻿{'CardNo': 'BS02-110', 'PackNo': 'BS02', 'CardName': 'ヘビィゲート', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄', '黄'], 'CardType': '-', 'Lv': ['LV1 : -／-', 'LV2 : -／-', 'LV3 : -／-'], 'Text': '[フラッシュ]このターンの間、コスト1以下のスピリットすべては、アタックとブロックができない。'}
+﻿{
+  "CardNo": "BS02-110",
+  "PackNo": "BS02",
+  "CardName": "ヘビィゲート",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [
+    "LV1 : -／-",
+    "LV2 : -／-",
+    "LV3 : -／-"
+  ],
+  "Text": "[フラッシュ]このターンの間、コスト1以下のスピリットすべては、アタックとブロックができない。"
+}

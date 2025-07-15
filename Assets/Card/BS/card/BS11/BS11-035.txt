@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS11-035",
+  "PackNo": "BS11",
+  "CardName": "物作りの妖精レプラ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "3",
+  "ReducedCost": [
+    "黄",
+    "黄"
+  ],
+  "CardType": "楽族",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 6000／3"
+  ],
+  "Text": "-"
+}

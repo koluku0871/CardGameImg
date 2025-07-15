@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BSC25-049', 'PackNo': 'BSC25', 'CardName': 'アッセンブルウィンド', 'CardRarity': 'C', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '5', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］自分の合体していないスピリット1体を、系統：「異魔神」を持つ自分のブレイヴに合体させることで、そのスピリットは回復する。'}
+﻿{
+  "CardNo": "BSC25-049",
+  "PackNo": "BSC25",
+  "CardName": "アッセンブルウィンド",
+  "CardRarity": "C",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "5",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］自分の合体していないスピリット1体を、系統：「異魔神」を持つ自分のブレイヴに合体させることで、そのスピリットは回復する。"
+}

@@ -1,1 +1,17 @@
-﻿{'CardNo': 'SD23-015', 'PackNo': 'SD23', 'CardName': 'エンジェルストライク', 'CardRarity': 'U', 'CardCategory': 'マジック', 'Element': '黄', 'Cost': '5', 'ReducedCost': ['黄', '黄', '黄'], 'CardType': '-', 'Lv': [], 'Text': '［フラッシュ］このターンの間、相手のスピリット/アルティメット1体をBP-5000する。この効果でBP0になったスピリット/アルティメットを破壊する。'}
+﻿{
+  "CardNo": "SD23-015",
+  "PackNo": "SD23",
+  "CardName": "エンジェルストライク",
+  "CardRarity": "U",
+  "CardCategory": "マジック",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "黄"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［フラッシュ］このターンの間、相手のスピリット/アルティメット1体をBP-5000する。この効果でBP0になったスピリット/アルティメットを破壊する。"
+}

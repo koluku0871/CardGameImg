@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS12-002",
+  "PackNo": "BS12",
+  "CardName": "ズンガリープ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "空牙",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 5000／2"
+  ],
+  "Text": "-"
+}

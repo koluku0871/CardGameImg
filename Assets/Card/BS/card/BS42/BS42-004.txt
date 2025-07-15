@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS42-004",
+  "PackNo": "BS42",
+  "CardName": "煌星竜レッドスプライト",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "星竜",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 6000／4"
+  ],
+  "Text": "このスピリットカードが手元にある間、お互い、系統：「異魔神」を持つブレイヴカードを召喚できず、合体できない。［フラッシュ］【アクセル】コスト4<img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/><img src=\"/renewal/images/cardlist/ico_red.png\"/>（この効果は手札から使用できる）相手の異魔神ブレイヴすべてを破壊する。この効果発揮後、このカードはオープンして手元に置く。 ［Lv2-Lv3］『このスピリットのアタック時』自分はデッキから1枚ドローする。"
+}

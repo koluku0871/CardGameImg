@@ -1,1 +1,17 @@
-﻿{'CardNo': 'BS60-CP02', 'PackNo': 'BS60', 'CardName': 'フロックリカバリー', 'CardRarity': 'CP', 'CardCategory': 'マジック', 'Element': '緑', 'Cost': '6', 'ReducedCost': ['緑', '緑', '緑'], 'CardType': '-', 'Lv': [], 'Text': '［ミラージュ：コスト3<img src="/renewal/images/cardlist/ico_green.png"/><img src="/renewal/images/cardlist/ico_green.png"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』相手のスピリットがアタック/ブロックしたとき、コスト5以下の相手のスピリット1体を疲労させる。 ［フラッシュ］系統1つを指定し、指定した系統を持つ自分のスピリット3体を回復させる。その後、自分のカウント4以上のとき、相手のスピリット3体を疲労させる。'}
+﻿{
+  "CardNo": "BS60-CP02",
+  "PackNo": "BS60",
+  "CardName": "フロックリカバリー",
+  "CardRarity": "CP",
+  "CardCategory": "マジック",
+  "Element": "緑",
+  "Cost": "6",
+  "ReducedCost": [
+    "緑",
+    "緑",
+    "緑"
+  ],
+  "CardType": "-",
+  "Lv": [],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/>（このカードは手札からセットできる）］【セット中】『お互いのアタックステップ』相手のスピリットがアタック/ブロックしたとき、コスト5以下の相手のスピリット1体を疲労させる。 ［フラッシュ］系統1つを指定し、指定した系統を持つ自分のスピリット3体を回復させる。その後、自分のカウント4以上のとき、相手のスピリット3体を疲労させる。"
+}

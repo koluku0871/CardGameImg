@@ -1,1 +1,17 @@
-﻿{'CardNo': 'SD33-001', 'PackNo': 'SD33', 'CardName': 'コレオン', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '赤', 'Cost': '0', 'ReducedCost': [], 'CardType': '皇獣', 'Lv': ['LV1 : 1000／1', 'LV2 : 3000／2', 'LV3 : 6000／5'], 'Text': '［Lv1-Lv2-Lv3］『自分のメインステップ』自分の手札にある系統：「神皇」を持つスピリットカードを召喚するとき、そのコストを-1する。'}
+﻿{
+  "CardNo": "SD33-001",
+  "PackNo": "SD33",
+  "CardName": "コレオン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "0",
+  "ReducedCost": [],
+  "CardType": "皇獣",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 3000／2",
+    "LV3 : 6000／5"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］『自分のメインステップ』自分の手札にある系統：「神皇」を持つスピリットカードを召喚するとき、そのコストを-1する。"
+}

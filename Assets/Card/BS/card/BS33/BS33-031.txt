@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BS33-031",
+  "PackNo": "BS33",
+  "CardName": "ザクロカブトカゲ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "甲竜",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／3"
+  ],
+  "Text": "［Lv1-Lv2］このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）が置かれている間、コスト4以下の自分のスピリットすべてに“【超装甲：赤/青】このスピリットは、相手の赤/青のスピリット/アルティメット/ネクサス/マジックの効果を受けない”を与える。"
+}

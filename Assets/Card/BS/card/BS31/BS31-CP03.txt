@@ -1,0 +1,19 @@
+﻿{
+  "CardNo": "BS31-CP03",
+  "PackNo": "BS31",
+  "CardName": "筆頭家臣キマダラ",
+  "CardRarity": "CP",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "4",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "家臣・忍風・殻人",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットの召喚時』ボイドからコア1個ずつを系統：「家臣」を持つ自分のスピリット2体に置く。召喚コストに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>（ソウルコア）を使用していたら、さらに、ボイドからコア2個を系統：「主君」を持つ自分のスピリット1体に置く。"
+}

@@ -1,1 +1,17 @@
-﻿{'CardNo': 'SD31-001', 'PackNo': 'SD31', 'CardName': '甲蛾忍ノミカゲ', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '緑', 'Cost': '1', 'ReducedCost': [], 'CardType': '忍風・刃虫', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。'}
+﻿{
+  "CardNo": "SD31-001",
+  "PackNo": "SD31",
+  "CardName": "甲蛾忍ノミカゲ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "1",
+  "ReducedCost": [],
+  "CardType": "忍風・刃虫",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 3000／3"
+  ],
+  "Text": "［フラッシュ］【神速】手札にあるこのスピリットカードは、召喚コストの支払いと上に置くコアをリザーブから使用することで召喚できる。"
+}

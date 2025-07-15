@@ -1,0 +1,20 @@
+﻿{
+  "CardNo": "BS43-025",
+  "PackNo": "BS43",
+  "CardName": "百刀衆ウマノオウ",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "緑",
+  "Cost": "3",
+  "ReducedCost": [
+    "緑",
+    "緑"
+  ],
+  "CardType": "殻人",
+  "Lv": [
+    "LV1 : 3000／1",
+    "LV2 : 5000／3",
+    "LV3 : 7000／5"
+  ],
+  "Text": "［フラッシュ］【アクセル】コスト5<img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/><img src=\"/renewal/images/cardlist/ico_green.png\"/>（この効果は手札から使用できる）系統1つを指定する。指定した系統を持つ自分のスピリット2体を回復させる。この効果発揮後、このカードはオープンして手元に置く。"
+}

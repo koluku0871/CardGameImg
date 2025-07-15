@@ -1,1 +1,18 @@
-﻿{'CardNo': 'BS63-078', 'PackNo': 'BS63', 'CardName': '翼剣渓谷', 'CardRarity': 'C', 'CardCategory': 'ネクサス', 'Element': '赤', 'Cost': '3', 'ReducedCost': ['赤', '赤'], 'CardType': '緋炎', 'Lv': ['LV2 : -／1'], 'Text': '［Lv1-Lv2］『お互いのアタックステップ』ターンに1回、系統：「緋炎」を持つ自分のスピリットが召喚されたとき、自分の手札にある系統：「刃契約」を持つスピリットカード1枚を、<img src="/renewal/images/cardlist/ico_soulcore.png"/>をトラッシュに置いたものとして《契約煌臨》できる。 ［Lv2］『自分のアタックステップ開始時』自分のトラッシュの<img src="/renewal/images/cardlist/ico_soulcore.png"/>以外のコア2個までを《契約煌臨》を持つ自分の赤のスピリットに置く。'}
+﻿{
+  "CardNo": "BS63-078",
+  "PackNo": "BS63",
+  "CardName": "翼剣渓谷",
+  "CardRarity": "C",
+  "CardCategory": "ネクサス",
+  "Element": "赤",
+  "Cost": "3",
+  "ReducedCost": [
+    "赤",
+    "赤"
+  ],
+  "CardType": "緋炎",
+  "Lv": [
+    "LV2 : -／1"
+  ],
+  "Text": "［Lv1-Lv2］『お互いのアタックステップ』ターンに1回、系統：「緋炎」を持つ自分のスピリットが召喚されたとき、自分の手札にある系統：「刃契約」を持つスピリットカード1枚を、<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置いたものとして《契約煌臨》できる。 ［Lv2］『自分のアタックステップ開始時』自分のトラッシュの<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>以外のコア2個までを《契約煌臨》を持つ自分の赤のスピリットに置く。"
+}

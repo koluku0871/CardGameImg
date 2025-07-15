@@ -1,0 +1,23 @@
+﻿{
+  "CardNo": "BS36-019",
+  "PackNo": "BS36",
+  "CardName": "フローライト・ドラゴン",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "紫",
+  "Cost": "8",
+  "ReducedCost": [
+    "紫",
+    "紫",
+    "紫",
+    "紫",
+    "紫"
+  ],
+  "CardType": "死竜",
+  "Lv": [
+    "LV1 : 13000／1",
+    "LV2 : 20000／3",
+    "LV3 : 25000／5"
+  ],
+  "Text": "-"
+}

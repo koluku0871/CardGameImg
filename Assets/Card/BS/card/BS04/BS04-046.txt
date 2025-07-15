@@ -1,1 +1,19 @@
-﻿{'CardNo': 'BS04-046', 'PackNo': 'BS04', 'CardName': '妖精ドロシー', 'CardRarity': 'C', 'CardCategory': 'スピリット', 'Element': '黄', 'Cost': '1', 'ReducedCost': ['黄'], 'CardType': '楽族', 'Lv': ['LV1 : 1000／1', 'LV2 : 2000／2', 'LV3 : 3000／3'], 'Text': '-'}
+﻿{
+  "CardNo": "BS04-046",
+  "PackNo": "BS04",
+  "CardName": "妖精ドロシー",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "1",
+  "ReducedCost": [
+    "黄"
+  ],
+  "CardType": "楽族",
+  "Lv": [
+    "LV1 : 1000／1",
+    "LV2 : 2000／2",
+    "LV3 : 3000／3"
+  ],
+  "Text": "-"
+}
