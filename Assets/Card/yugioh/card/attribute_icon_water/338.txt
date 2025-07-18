@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "338",
+  "CardName": "深海に潜むサメ",
+  "Cost": "レベル 5",
+  "CardCategory": "融合",
+  "Element": "水属性",
+  "CardType": "魚族",
+  "Text": "攻撃力 1900守備力 1600\n神魚＋舌魚"
+}
