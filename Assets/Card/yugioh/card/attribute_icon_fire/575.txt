@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "575",
+  "CardName": "紅陽鳥",
+  "Cost": "レベル 6",
+  "CardCategory": "融合",
+  "Element": "炎属性",
+  "CardType": "鳥獣族",
+  "Text": "攻撃力 2300守備力 1800\nセイント・バード＋スカイ・ハンター"
+}

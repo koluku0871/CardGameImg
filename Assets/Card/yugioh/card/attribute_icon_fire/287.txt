@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "287",
+  "CardName": "朱雀",
+  "Cost": "レベル 5",
+  "CardCategory": "融合",
+  "Element": "炎属性",
+  "CardType": "炎族",
+  "Text": "攻撃力 1900守備力 1500\n「赤き剣のライムンドス」＋「炎の魔神」"
+}
