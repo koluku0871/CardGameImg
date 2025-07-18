@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2162",
+  "CardName": "King of Destruction - Xexex",
+  "Cost": "レベル 10",
+  "CardCategory": "効果",
+  "Element": "闇属性",
+  "CardType": "悪魔族",
+  "Text": "攻撃力 3000守備力 2500\nThis card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Fiend-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match."
+}
