@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "1072",
+  "CardName": "裸の王様",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "永続",
+  "Text": "フィールド上の全ての装備カードの効果は無効になる。"
+}

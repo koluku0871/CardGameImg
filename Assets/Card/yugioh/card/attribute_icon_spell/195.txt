@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "195",
+  "CardName": "昼夜の大火事",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "相手ライフに８００ポイントダメージを与える。"
+}

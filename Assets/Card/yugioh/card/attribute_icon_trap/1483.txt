@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "1483",
+  "CardName": "大成仏",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "装備カードが装備されているモンスターを全て破壊する。"
+}

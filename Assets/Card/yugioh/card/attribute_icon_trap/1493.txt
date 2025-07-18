@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "1493",
+  "CardName": "武器庫荒らし",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "相手はデッキから装備魔法カードを１枚選択して墓地へ送る。"
+}

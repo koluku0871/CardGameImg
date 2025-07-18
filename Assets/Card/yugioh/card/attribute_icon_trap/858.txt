@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "858",
+  "CardName": "ソロモンの律法書",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "次の自分のスタンバイフェイズをスキップする。"
+}

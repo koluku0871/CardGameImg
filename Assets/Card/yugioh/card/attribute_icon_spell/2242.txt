@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2242",
+  "CardName": "防御輪",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "速攻",
+  "Text": "罠カードの効果によるダメージを０にする。"
+}

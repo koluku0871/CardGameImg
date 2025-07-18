@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "988",
+  "CardName": "強欲な瓶",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：自分はデッキから１枚ドローする。"
+}

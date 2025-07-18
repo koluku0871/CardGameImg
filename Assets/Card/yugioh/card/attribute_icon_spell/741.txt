@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "741",
+  "CardName": "最終戦争",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "手札を５枚捨てて発動する。フィールド上に存在するカードを全て破壊する。"
+}

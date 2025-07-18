@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "8694",
+  "CardName": "虹の架け橋",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：デッキから「宝玉」魔法・罠カード１枚を手札に加える。"
+}

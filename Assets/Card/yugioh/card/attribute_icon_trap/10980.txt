@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "10980",
+  "CardName": "謙虚な瓶",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：自分は手札を１枚選んでデッキの一番上または一番下に戻す。"
+}

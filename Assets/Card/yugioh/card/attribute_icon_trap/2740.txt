@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2740",
+  "CardName": "カウンター・カウンター",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "カウンター",
+  "Text": "カウンター罠カードの発動を無効にし破壊する。"
+}

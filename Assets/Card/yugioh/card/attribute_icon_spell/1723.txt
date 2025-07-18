@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "1723",
+  "CardName": "盗人ゴブリン",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：相手に５００ダメージを与える。自分は５００LP回復する。"
+}

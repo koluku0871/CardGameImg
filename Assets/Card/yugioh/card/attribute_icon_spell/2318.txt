@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2318",
+  "CardName": "ミスト・ボディ",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "装備",
+  "Text": "装備モンスターは戦闘では破壊されない。"
+}

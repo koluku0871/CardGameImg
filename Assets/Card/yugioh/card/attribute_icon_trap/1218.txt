@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "1218",
+  "CardName": "運命の火時計",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "カード１枚のターンカウントを１ターン進める。"
+}

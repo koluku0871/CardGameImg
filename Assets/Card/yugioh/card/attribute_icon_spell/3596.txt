@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "3596",
+  "CardName": "緊急鋼核処分",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "自分のデッキから「コアキメイルの鋼核」１枚を選択して墓地へ送る。"
+}

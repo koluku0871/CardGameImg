@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2876",
+  "CardName": "不運なリポート",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "相手は次のバトルフェイズを２回行う。"
+}

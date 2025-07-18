@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "1842",
+  "CardName": "セメタリー・ボム",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "相手の墓地のカードの数×１００ポイントダメージを相手に与える。"
+}

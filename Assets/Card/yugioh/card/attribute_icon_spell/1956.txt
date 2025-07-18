@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "1956",
+  "CardName": "所有者の刻印",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：フィールドの全てのモンスターのコントロールは元々の持ち主に戻る。"
+}

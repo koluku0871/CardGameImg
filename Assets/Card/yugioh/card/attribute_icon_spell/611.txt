@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "611",
+  "CardName": "治療の神 ディアン・ケト",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：自分は１０００LP回復する。"
+}

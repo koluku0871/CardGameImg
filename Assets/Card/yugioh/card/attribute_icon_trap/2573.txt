@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2573",
+  "CardName": "儀式降臨封印の書",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "フィールド上に表側表示で存在する儀式モンスター１体を破壊する。"
+}

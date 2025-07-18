@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2745",
+  "CardName": "ギフトカード",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "相手は３０００ライフポイント回復する。"
+}

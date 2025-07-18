@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "1687",
+  "CardName": "アーマーブレイク",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "カウンター",
+  "Text": "装備魔法カードの発動を無効にし、それを破壊する。"
+}

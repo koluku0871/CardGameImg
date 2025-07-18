@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "971",
+  "CardName": "精霊の鏡",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "プレイヤー１人を対象とする魔法の効果を別のプレイヤーに移し替える。"
+}

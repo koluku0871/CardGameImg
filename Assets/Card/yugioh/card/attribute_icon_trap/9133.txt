@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "9133",
+  "CardName": "通行増税",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "永続",
+  "Text": "①：お互いのプレイヤーは手札を１枚墓地へ送らなければ攻撃宣言できない。"
+}

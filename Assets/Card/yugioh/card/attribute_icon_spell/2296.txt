@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2296",
+  "CardName": "磁力の召喚円 LV２",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "手札からレベル２以下の機械族モンスター１体を特殊召喚する。"
+}

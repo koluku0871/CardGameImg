@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "27",
+  "CardName": "火の粉",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "相手ライフに２００ポイントダメージを与える。"
+}

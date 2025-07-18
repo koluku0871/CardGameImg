@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "196",
+  "CardName": "天使の生き血",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "自分は８００ライフポイント回復する。"
+}

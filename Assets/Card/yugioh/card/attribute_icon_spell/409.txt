@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "409",
+  "CardName": "天使の施し",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "自分のデッキからカードを３枚ドローし、その後手札を２枚選択して捨てる。"
+}

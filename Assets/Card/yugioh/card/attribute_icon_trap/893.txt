@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "893",
+  "CardName": "イタクァの暴風",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：相手フィールドの全ての表側表示モンスターの表示形式を変更する。"
+}

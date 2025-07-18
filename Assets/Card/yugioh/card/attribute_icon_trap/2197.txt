@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2197",
+  "CardName": "二者一両損",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "お互いに自分のデッキの一番上のカード１枚を墓地に送る。"
+}

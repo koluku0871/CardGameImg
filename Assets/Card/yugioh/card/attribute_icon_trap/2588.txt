@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2588",
+  "CardName": "畳返し",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "カウンター",
+  "Text": "召喚成功時に発動する効果モンスターの効果の発動を無効にし破壊する。"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "5460",
+  "CardName": "謙虚な番兵",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "自分の手札を公開し、その中からカードを１枚選んでデッキに戻す。"
+}

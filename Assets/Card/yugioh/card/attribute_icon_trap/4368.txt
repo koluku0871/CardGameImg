@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "4368",
+  "CardName": "異次元グランド",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：このターン、墓地へ送られるモンスターは墓地へは行かず除外される。"
+}
