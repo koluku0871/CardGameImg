@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2887",
+  "CardName": "Chimaera, the Master of Beasts",
+  "Cost": "レベル 9",
+  "CardCategory": "効果",
+  "Element": "光属性",
+  "CardType": "獣族",
+  "Text": "攻撃力 3000守備力 3000\nThis card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Beast-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match."
+}

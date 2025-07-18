@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "3376",
+  "CardName": "Tyr, the Vanquishing Warlord",
+  "Cost": "レベル 10",
+  "CardCategory": "効果",
+  "Element": "光属性",
+  "CardType": "天使族",
+  "Text": "攻撃力 3000守備力 3000\nThis card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Fairy-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match."
+}
