@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "8279",
+  "CardName": "電影の騎士ガイアセイバー",
+  "Cost": "",
+  "CardCategory": "リンク",
+  "Element": "地属性",
+  "CardType": "機械族",
+  "Text": "攻撃力 2600守備力 -\nモンスター２体以上"
+}

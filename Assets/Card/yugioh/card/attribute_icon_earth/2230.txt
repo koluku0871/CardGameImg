@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "2230",
+  "CardName": "E・HERO マッドボールマン",
+  "Cost": "レベル 6",
+  "CardCategory": "効果",
+  "Element": "地属性",
+  "CardType": "戦士族／融合",
+  "Text": "攻撃力 1900守備力 3000\n「E・HERO バブルマン」＋「E・HERO クレイマン」このモンスターは融合召喚でしか特殊召喚できない。"
+}
