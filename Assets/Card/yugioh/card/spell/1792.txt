@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1792",
+  "PackNo": "spell",
+  "CardName": "魔力倹約術",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "永続",
+  "Text": "魔法カードを発動するために払うライフポイントが必要なくなる。"
+}

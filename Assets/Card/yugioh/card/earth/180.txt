@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "180",
+  "PackNo": "earth",
+  "CardName": "ウィルミー",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "獣族",
+  "Text": "攻撃力 1000守備力 1200\nかなり凶暴なウサギ。鋭いかぎづめで、相手を血祭りにあげる。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "206",
+  "PackNo": "water",
+  "CardName": "ホワイト・ドルフィン",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "魚族",
+  "Text": "攻撃力 500守備力 400\n頭にツノを持つまっしろなイルカ。大波をおこして攻撃する。"
+}

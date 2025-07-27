@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "186",
+  "PackNo": "water",
+  "CardName": "カクタス",
+  "Cost": "5",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 1700守備力 1400\n水中に潜んでいる、得体の知れない格好をしたばけもの。"
+}

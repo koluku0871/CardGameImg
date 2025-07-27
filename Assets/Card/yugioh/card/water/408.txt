@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "408",
+  "PackNo": "water",
+  "CardName": "ツルプルン",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 450守備力 500\n一つ目の奇妙なモンスター。手にするもりで、相手をひと突き。"
+}

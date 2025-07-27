@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "439",
+  "PackNo": "dark",
+  "CardName": "人造人間７号",
+  "Cost": "2",
+  "CardCategory": "効果",
+  "Element": "闇属性",
+  "CardType": "機械族",
+  "Text": "攻撃力 500守備力 400\nこのカードは相手プレイヤーを直接攻撃する事ができる。"
+}

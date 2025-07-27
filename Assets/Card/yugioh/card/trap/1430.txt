@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1430",
+  "PackNo": "trap",
+  "CardName": "武装解除",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "フィールド上の装備カードを全て破壊する。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "7912",
+  "PackNo": "light",
+  "CardName": "極刀の武者 左京",
+  "Cost": "7",
+  "CardCategory": "ペンデュラム／通常",
+  "Element": "光属性",
+  "CardType": "戦士族",
+  "Text": "攻撃力 2900守備力 2600\n夢現の闘宴は終に決す。強者は勝鬨の声を上げよ。"
+}

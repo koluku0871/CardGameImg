@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "1199",
-  "CardName": "ロスト",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "",
-  "Text": "相手の墓地のカード１枚をゲームから除外する。"
-}

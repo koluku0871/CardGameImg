@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "360",
+  "PackNo": "earth",
+  "CardName": "プラグティカル",
+  "Cost": "5",
+  "CardCategory": "融合",
+  "Element": "地属性",
+  "CardType": "恐竜族",
+  "Text": "攻撃力 1900守備力 1500\nトラコドン＋フレイム・ヴァイパー"
+}

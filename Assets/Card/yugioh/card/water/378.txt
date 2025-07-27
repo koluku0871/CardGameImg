@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "378",
+  "PackNo": "water",
+  "CardName": "泉の妖精",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 1600守備力 1100\n泉を守る妖精。泉を汚す者を容赦なく攻撃。"
+}

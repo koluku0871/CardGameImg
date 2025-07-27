@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "271",
+  "PackNo": "trap",
+  "CardName": "あまのじゃくの呪い",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "発動ターンのエンドフェイズ時まで、攻撃力・守備力のアップ・ダウンの効果は逆になる。"
+}

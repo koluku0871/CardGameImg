@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "134",
+  "PackNo": "light",
+  "CardName": "ジャグラー",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "光属性",
+  "CardType": "魔法使い族",
+  "Text": "攻撃力 600守備力 900\n手品のような魔法で敵を倒す。ハトを出して攻撃もする。"
+}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "533",
-  "CardName": "裁きの鷹",
-  "Cost": "レベル 6",
-  "CardCategory": "融合",
-  "Element": "風属性",
-  "CardType": "鳥獣族",
-  "Text": "攻撃力 2100守備力 1800\n冠を戴く蒼き翼＋コケ"
-}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "896",
-  "CardName": "催眠術",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "",
-  "Text": "①：次の相手ターン、相手はモンスターの表示形式を変更できない。"
-}

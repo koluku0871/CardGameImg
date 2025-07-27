@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "578",
+  "PackNo": "water",
+  "CardName": "水陸両用バグロス",
+  "Cost": "5",
+  "CardCategory": "融合",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 1850守備力 1300\n「陸戦型 バグロス」＋「海を守る戦士」"
+}

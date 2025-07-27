@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "596",
+  "PackNo": "spell",
+  "CardName": "融合賢者",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "自分のデッキから「融合」魔法カード１枚を手札に加える。"
+}

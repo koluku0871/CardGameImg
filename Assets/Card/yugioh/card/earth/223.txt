@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "223",
+  "PackNo": "earth",
+  "CardName": "恐竜人",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "恐竜族",
+  "Text": "攻撃力 1000守備力 850\n人型の恐竜。高い知能を持つが、あまり強くはない。"
+}

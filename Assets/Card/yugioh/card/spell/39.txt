@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "39",
+  "PackNo": "spell",
+  "CardName": "レッド・ポーション",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "自分は５００ライフポイント回復する。"
+}

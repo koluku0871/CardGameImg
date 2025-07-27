@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "1141",
-  "CardName": "陽動作戦",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "",
-  "Text": "このターン、お互いは裏側表示モンスターを攻撃できない。"
-}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "254",
+  "PackNo": "wind",
+  "CardName": "メタル・ドラゴン",
+  "Cost": "6",
+  "CardCategory": "融合",
+  "Element": "風属性",
+  "CardType": "機械族",
+  "Text": "攻撃力 1850守備力 1700\n「鋼鉄の巨神像」＋「レッサー・ドラゴン」"
+}

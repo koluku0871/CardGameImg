@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "2550",
-  "CardName": "デステニー・ドロー",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "",
-  "Text": "①：手札から「D-HERO」カード１枚を捨てて発動できる。自分はデッキから２枚ドローする。"
-}

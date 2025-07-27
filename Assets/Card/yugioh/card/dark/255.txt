@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "255",
+  "PackNo": "dark",
+  "CardName": "屋根裏の物の怪",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "闇属性",
+  "CardType": "悪魔族",
+  "Text": "攻撃力 550守備力 400\nどの家の屋根裏にも潜んでいるもののけ。特にわるさはしない。"
+}

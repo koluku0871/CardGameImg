@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "8567",
+  "PackNo": "water",
+  "CardName": "テセウスの魔棲物",
+  "Cost": "5",
+  "CardCategory": "融合／チューナー",
+  "Element": "水属性",
+  "CardType": "アンデット族",
+  "Text": "攻撃力 2200守備力 1800\nチューナー×２"
+}

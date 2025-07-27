@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1962",
+  "PackNo": "trap",
+  "CardName": "威嚇する咆哮",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：このターン相手は攻撃宣言できない。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1305",
+  "PackNo": "spell",
+  "CardName": "テラ・フォーミング",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：デッキからフィールド魔法カード１枚を手札に加える。"
+}

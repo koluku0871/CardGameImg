@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "2759",
-  "CardName": "強欲な贈り物",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "",
-  "Text": "相手はデッキからカードを２枚ドローする。"
-}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "5012",
+  "PackNo": "light",
+  "CardName": "Queen Nereia the Silvercrown",
+  "Cost": "6",
+  "CardCategory": "エクシーズ／効果",
+  "Element": "光属性",
+  "CardType": "植物族",
+  "Text": "攻撃力 2500守備力 2400\n3 Level 6 monstersMust be Xyz Summoned and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their Life Points to 0, while it has an Xyz Material attached that was originally Plant-Type, you win the Match."
+}

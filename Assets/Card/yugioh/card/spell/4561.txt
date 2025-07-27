@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "4561",
+  "PackNo": "spell",
+  "CardName": "おろかな転生",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "速攻",
+  "Text": "相手の墓地に存在するカード１枚を選択して発動する。選択したカードをデッキに戻す。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "927",
+  "PackNo": "trap",
+  "CardName": "死霊の誘い",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "永続",
+  "Text": "カードが墓地へ送られる度に、そのカードの持ち主は１枚につき３００ポイントダメージを受ける。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "459",
+  "PackNo": "dark",
+  "CardName": "ブラック・デーモンズ・ドラゴン",
+  "Cost": "9",
+  "CardCategory": "融合",
+  "Element": "闇属性",
+  "CardType": "ドラゴン族",
+  "Text": "攻撃力 3200守備力 2500\n「デーモンの召喚」＋「真紅眼の黒竜」"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1931",
+  "PackNo": "spell",
+  "CardName": "振り出し",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "手札を１枚捨てる。フィールド上のモンスター１体を持ち主のデッキの一番上に戻す。"
+}

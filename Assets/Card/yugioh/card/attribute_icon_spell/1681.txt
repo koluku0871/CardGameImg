@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "1681",
-  "CardName": "おろかな埋葬",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "",
-  "Text": "①：デッキからモンスター１体を墓地へ送る。"
-}

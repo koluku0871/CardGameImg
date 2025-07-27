@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1255",
+  "PackNo": "spell",
+  "CardName": "トゥーンのもくじ",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：デッキから「トゥーン」カード１枚を手札に加える。"
+}

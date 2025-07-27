@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "875",
+  "PackNo": "wind",
+  "CardName": "フライングマンティス",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "風属性",
+  "CardType": "昆虫族",
+  "Text": "攻撃力 1500守備力 800\n飛行能力を持ったカマキリ。昆虫が大好物。"
+}

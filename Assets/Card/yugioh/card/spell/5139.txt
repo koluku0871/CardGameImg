@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "5139",
+  "PackNo": "spell",
+  "CardName": "ギャラクシー・ウェーブ",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "永続",
+  "Text": "自分がエクシーズ召喚に成功する度に、相手ライフに５００ポイントダメージを与える。"
+}

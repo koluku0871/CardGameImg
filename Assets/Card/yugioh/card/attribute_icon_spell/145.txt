@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "145",
-  "CardName": "ゴブリンの秘薬",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "",
-  "Text": "①：自分は６００LP回復する。"
-}

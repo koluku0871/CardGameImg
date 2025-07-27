@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "8671",
-  "CardName": "身分転換",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "速攻",
-  "Text": "①：自分のLPが相手より多い場合、お互いのLPを入れ替える。"
-}

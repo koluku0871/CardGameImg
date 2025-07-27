@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "6745",
+  "PackNo": "trap",
+  "CardName": "姑息な落とし穴",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：相手がモンスターを守備表示で特殊召喚した時に発動できる。その守備表示モンスターを除外する。"
+}

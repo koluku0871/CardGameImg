@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "284",
+  "PackNo": "earth",
+  "CardName": "シーホース",
+  "Cost": "5",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "獣族",
+  "Text": "攻撃力 1350守備力 1600\nウマとサカナの体を持つモンスター。海中を風のように駆け抜ける。"
+}

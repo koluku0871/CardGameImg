@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "3302",
+  "PackNo": "trap",
+  "CardName": "緊急同調",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：自分・相手のバトルフェイズに発動できる。Sモンスター１体をS召喚する。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "37",
+  "PackNo": "dark",
+  "CardName": "闇にしたがう者",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "闇属性",
+  "CardType": "魔法使い族",
+  "Text": "攻撃力 700守備力 500\n闇を崇拝する魔法使い。魔の手を呼び出し暗闇へ引きずり込む。"
+}

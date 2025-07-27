@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1224",
+  "PackNo": "spell",
+  "CardName": "おくびょうかぜ",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "次の相手ターンのエンドフェイズまで、フィールド上にセットされた魔法・罠カードを破壊する事はできない。"
+}

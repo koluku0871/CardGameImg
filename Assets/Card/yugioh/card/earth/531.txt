@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "531",
+  "PackNo": "earth",
+  "CardName": "サイガー",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "獣族",
+  "Text": "攻撃力 1200守備力 600\n守備は見た目ほど高くないが、ツノによる攻撃は強力だ。"
+}

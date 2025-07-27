@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "324",
+  "PackNo": "spell",
+  "CardName": "永遠の渇水",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "フィールド上の魚族モンスターは、すべて破壊される。"
+}

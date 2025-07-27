@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "755",
+  "PackNo": "spell",
+  "CardName": "ハリケーン",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "フィールド上の魔法・罠カードを全て持ち主の手札に戻す。"
+}

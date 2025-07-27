@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "250",
+  "PackNo": "fire",
+  "CardName": "炎の魔神",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "炎属性",
+  "CardType": "炎族",
+  "Text": "攻撃力 1300守備力 1000\n炎につつまれた魔人。まわりの炎を自在に操り攻撃する。"
+}

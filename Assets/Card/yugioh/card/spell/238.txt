@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "238",
+  "PackNo": "spell",
+  "CardName": "ドラゴンの秘宝",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "装備",
+  "Text": "ドラゴン族のみ装備可能。装備モンスター１体の攻撃力と守備力は３００ポイントアップする。"
+}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "8734",
-  "CardName": "LANフォリンクス",
-  "Cost": "",
-  "CardCategory": "リンク",
-  "Element": "光属性",
-  "CardType": "サイバース族",
-  "Text": "攻撃力 1200守備力 -\nモンスター２体"
-}

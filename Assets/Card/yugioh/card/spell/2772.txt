@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2772",
+  "PackNo": "spell",
+  "CardName": "スネーク・レイン",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：手札を１枚捨てて発動できる。デッキから爬虫類族モンスター４体を墓地へ送る。"
+}

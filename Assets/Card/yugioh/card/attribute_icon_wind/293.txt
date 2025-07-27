@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "293",
-  "CardName": "デス・バード",
-  "Cost": "レベル 6",
-  "CardCategory": "融合",
-  "Element": "風属性",
-  "CardType": "鳥獣族",
-  "Text": "攻撃力 1900守備力 1700\nタクヒ＋髑髏の寺院"
-}

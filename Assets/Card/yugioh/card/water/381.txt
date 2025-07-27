@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "381",
+  "PackNo": "water",
+  "CardName": "カエルスライム",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 700守備力 500\nカエルの頭の形をしたスライム。ゲコゲコひどい歌を聴かせて攻撃。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1762",
+  "PackNo": "trap",
+  "CardName": "砂漠の裁き",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "永続",
+  "Text": "表側表示になったモンスターの表示形式は変更できない。"
+}

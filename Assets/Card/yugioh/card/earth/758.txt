@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "758",
+  "PackNo": "earth",
+  "CardName": "深き森の長老",
+  "Cost": "6",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "獣族",
+  "Text": "攻撃力 1800守備力 1900\n昔から森に住んでいる白ヤギ。真の姿は森の長老。"
+}

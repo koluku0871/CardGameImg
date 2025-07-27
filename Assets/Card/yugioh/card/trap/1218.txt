@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1218",
+  "PackNo": "trap",
+  "CardName": "運命の火時計",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "カード１枚のターンカウントを１ターン進める。"
+}

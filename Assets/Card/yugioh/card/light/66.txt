@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "66",
+  "PackNo": "light",
+  "CardName": "ハッピー・ラヴァー",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "光属性",
+  "CardType": "天使族",
+  "Text": "攻撃力 800守備力 500\n頭からハートビームを出し敵をしあわせにする、小さな天使。"
+}

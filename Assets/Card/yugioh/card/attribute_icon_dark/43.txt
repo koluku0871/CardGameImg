@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "43",
-  "CardName": "ゼラ",
-  "Cost": "レベル 8",
-  "CardCategory": "儀式",
-  "Element": "闇属性",
-  "CardType": "悪魔族",
-  "Text": "攻撃力 2800守備力 2300\n「ゼラの儀式」により降臨。"
-}

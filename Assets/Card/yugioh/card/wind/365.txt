@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "365",
+  "PackNo": "wind",
+  "CardName": "メガ・サンダーボール",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "風属性",
+  "CardType": "雷族",
+  "Text": "攻撃力 750守備力 600\n地面を転がり回り、周囲に電撃を放つボール。"
+}

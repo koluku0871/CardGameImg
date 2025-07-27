@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "13",
+  "PackNo": "spell",
+  "CardName": "地割れ",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：相手フィールドの攻撃力が一番低いモンスター１体を破壊する。"
+}

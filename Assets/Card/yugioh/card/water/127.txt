@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "127",
+  "PackNo": "water",
+  "CardName": "ルート・ウォーター",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "魚族",
+  "Text": "攻撃力 900守備力 800\n海にひそむ半魚人。暗黒の大津波を起こして攻撃する。"
+}

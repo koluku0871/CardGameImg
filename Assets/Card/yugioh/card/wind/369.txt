@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "369",
+  "PackNo": "wind",
+  "CardName": "雷神の怒り",
+  "Cost": "5",
+  "CardCategory": "融合",
+  "Element": "風属性",
+  "CardType": "雷族",
+  "Text": "攻撃力 1900守備力 1400\n「エンゼル・イヤーズ」＋「メガ・サンダーボール」"
+}

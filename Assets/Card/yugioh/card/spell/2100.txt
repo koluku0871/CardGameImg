@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2100",
+  "PackNo": "spell",
+  "CardName": "謙虚な壺",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：自分の手札を２枚選んでデッキに戻す。"
+}

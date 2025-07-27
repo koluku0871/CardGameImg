@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "605",
+  "PackNo": "light",
+  "CardName": "逆転の女神",
+  "Cost": "6",
+  "CardCategory": "通常",
+  "Element": "光属性",
+  "CardType": "天使族",
+  "Text": "攻撃力 1800守備力 2000\n聖なる力で弱き者を守り、逆転の力を与える女神。"
+}

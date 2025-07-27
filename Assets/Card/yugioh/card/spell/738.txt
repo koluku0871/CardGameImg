@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "738",
+  "PackNo": "spell",
+  "CardName": "強引な番兵",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "相手の手札を確認し、その中からカードを１枚デッキに戻す。"
+}

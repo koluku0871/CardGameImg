@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1639",
+  "PackNo": "trap",
+  "CardName": "強制脱出装置",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：フィールドのモンスター１体を対象として発動できる。そのモンスターを手札に戻す。"
+}

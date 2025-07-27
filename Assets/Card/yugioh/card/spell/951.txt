@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "951",
+  "PackNo": "spell",
+  "CardName": "恵みの雨",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "お互いのプレイヤーは１０００ライフポイント回復する。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "5281",
+  "PackNo": "trap",
+  "CardName": "差し戻し",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "相手が墓地のカードを手札に加えた時に発動できる。相手は手札に加えたそのカード１枚をデッキに戻す。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "155",
+  "PackNo": "spell",
+  "CardName": "火あぶりの刑",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "相手ライフに６００ポイントダメージを与える。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "532",
+  "PackNo": "wind",
+  "CardName": "千年竜",
+  "Cost": "7",
+  "CardCategory": "融合",
+  "Element": "風属性",
+  "CardType": "ドラゴン族",
+  "Text": "攻撃力 2400守備力 2000\n「時の魔術師」＋「ベビードラゴン」"
+}

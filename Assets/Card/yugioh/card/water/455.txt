@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "455",
+  "PackNo": "water",
+  "CardName": "氷",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "戦士族",
+  "Text": "攻撃力 800守備力 1200\n全身が氷でできている戦士。触れるものを何でも凍らせてしまう。"
+}

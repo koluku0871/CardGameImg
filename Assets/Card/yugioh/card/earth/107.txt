@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "107",
+  "PackNo": "earth",
+  "CardName": "フュージョニスト",
+  "Cost": "3",
+  "CardCategory": "融合",
+  "Element": "地属性",
+  "CardType": "獣族",
+  "Text": "攻撃力 900守備力 700\n「プチテンシ」＋「スリーピィ」"
+}

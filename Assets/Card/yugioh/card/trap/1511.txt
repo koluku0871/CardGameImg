@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1511",
+  "PackNo": "trap",
+  "CardName": "希望の光",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "自分の墓地の光属性モンスターカード２枚を自分のデッキに加えてシャッフルする。"
+}

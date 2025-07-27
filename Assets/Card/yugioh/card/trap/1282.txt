@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1282",
+  "PackNo": "trap",
+  "CardName": "攪乱作戦",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "相手は手札をデッキに加えてシャッフルした後、元の手札の数だけデッキからカードをドローする。"
+}

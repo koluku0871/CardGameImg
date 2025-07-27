@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1986",
+  "PackNo": "trap",
+  "CardName": "D.D.ダイナマイト",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "相手が除外しているカードの数×３００ポイントダメージを相手ライフに与える。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2461",
+  "PackNo": "dark",
+  "CardName": "Armament of the Lethal Lords",
+  "Cost": "8",
+  "CardCategory": "効果",
+  "Element": "闇属性",
+  "CardType": "戦士族",
+  "Text": "攻撃力 2500守備力 2500\nThis card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Warrior-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match."
+}

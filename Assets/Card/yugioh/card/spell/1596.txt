@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1596",
+  "PackNo": "spell",
+  "CardName": "魂吸収",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "永続",
+  "Text": "このカードのコントローラーはカードがゲームから除外される度に、１枚につき５００ライフポイント回復する。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "304",
+  "PackNo": "earth",
+  "CardName": "モン・ラーバス",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "獣族",
+  "Text": "攻撃力 1300守備力 1400\nラーバスがより進化したけもの。力がパワーアップしている。"
+}

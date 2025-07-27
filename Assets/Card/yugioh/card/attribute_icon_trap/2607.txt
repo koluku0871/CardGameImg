@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "2607",
-  "CardName": "融合体駆除装置",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "",
-  "Text": "フィールド上に表側表示で存在する融合モンスター１体を破壊する。"
-}

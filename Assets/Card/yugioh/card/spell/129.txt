@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "129",
+  "PackNo": "spell",
+  "CardName": "罠はずし",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "表側表示でフィールド上に存在する罠カードを１枚選択して破壊する。"
+}

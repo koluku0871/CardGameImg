@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1166",
+  "PackNo": "trap",
+  "CardName": "体力増強剤スーパーZ",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：自分が２０００以上の戦闘ダメージを受ける場合、そのダメージ計算時に発動できる。自分は４０００LP回復する。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "317",
+  "PackNo": "spell",
+  "CardName": "ハーピィの羽根帚",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：相手フィールドの魔法・罠カードを全て破壊する。"
+}

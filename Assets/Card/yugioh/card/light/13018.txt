@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "13018",
+  "PackNo": "light",
+  "CardName": "Dragon of Illumination, Sanctuary's Shield",
+  "Cost": "8",
+  "CardCategory": "効果",
+  "Element": "光属性",
+  "CardType": "ドラゴン族",
+  "Text": "攻撃力 3000守備力 2500\nCannot be Special Summoned. Requires 3 Dragon Tributes to Normal Summon (cannot be Normal Set). If this card attacks your opponent directly and reduces their LP to 0, you win the Match."
+}

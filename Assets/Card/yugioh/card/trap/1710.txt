@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1710",
+  "PackNo": "trap",
+  "CardName": "ソーラーレイ",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "自分フィールド上に表側表示で存在する光属性モンスターの数×６００ポイントダメージを相手に与える。"
+}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "4972",
-  "CardName": "撤収命令",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "",
-  "Text": "自分フィールド上に存在するモンスターを全て持ち主の手札に戻す。"
-}

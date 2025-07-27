@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "6486",
+  "PackNo": "earth",
+  "CardName": "ペアサイクロイド",
+  "Cost": "5",
+  "CardCategory": "融合／効果",
+  "Element": "地属性",
+  "CardType": "機械族",
+  "Text": "攻撃力 1600守備力 1200\n同名の機械族モンスター×２①：このカードは直接攻撃できる。"
+}

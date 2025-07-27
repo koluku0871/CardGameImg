@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1868",
+  "PackNo": "earth",
+  "CardName": "マスター・オブ・OZ",
+  "Cost": "9",
+  "CardCategory": "融合",
+  "Element": "地属性",
+  "CardType": "獣族",
+  "Text": "攻撃力 4200守備力 3700\n「ビッグ・コアラ」＋「デス・カンガルー」"
+}

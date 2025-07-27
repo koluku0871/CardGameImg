@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "8469",
+  "PackNo": "trap",
+  "CardName": "メタバース",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：デッキからフィールド魔法カード１枚を選び、手札に加えるか自分フィールドに発動する。"
+}

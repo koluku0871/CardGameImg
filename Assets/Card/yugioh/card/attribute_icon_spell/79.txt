@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "79",
-  "CardName": "雷鳴",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "",
-  "Text": "相手ライフに３００ポイントダメージを与える。"
-}

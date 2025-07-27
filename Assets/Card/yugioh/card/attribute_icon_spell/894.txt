@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "894",
-  "CardName": "旧神の印",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "",
-  "Text": "①：１０００LP払って発動できる。相手フィールドにセットされたカードを全て確認する。"
-}

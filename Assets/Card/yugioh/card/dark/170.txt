@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "170",
+  "PackNo": "dark",
+  "CardName": "森の屍",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "闇属性",
+  "CardType": "アンデット族",
+  "Text": "攻撃力 1000守備力 900\n森のぬしが倒れたあと、悪しき者の手により蘇った屍。"
+}

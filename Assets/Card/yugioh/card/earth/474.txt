@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "474",
+  "PackNo": "earth",
+  "CardName": "レインボー・フラワー",
+  "Cost": "2",
+  "CardCategory": "効果",
+  "Element": "地属性",
+  "CardType": "植物族",
+  "Text": "攻撃力 400守備力 500\nこのカードは相手プレイヤーを直接攻撃する事ができる。"
+}

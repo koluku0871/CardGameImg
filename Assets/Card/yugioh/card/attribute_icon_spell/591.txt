@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "591",
-  "CardName": "魔女狩り",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "",
-  "Text": "フィールド上に表側表示で存在する魔法使い族モンスターを全て破壊する。"
-}

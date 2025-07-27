@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2331",
+  "PackNo": "spell",
+  "CardName": "O－オーバーソウル",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：自分の墓地の「E・HERO」通常モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。"
+}

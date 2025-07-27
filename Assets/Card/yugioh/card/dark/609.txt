@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "609",
+  "PackNo": "dark",
+  "CardName": "邪剣男爵",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "闇属性",
+  "CardType": "悪魔族",
+  "Text": "攻撃力 1550守備力 800\n怨念のこもった剣をあやつる貴族。執念深く獲物を追いつめる。"
+}

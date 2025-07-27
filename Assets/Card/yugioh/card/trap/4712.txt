@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "4712",
+  "PackNo": "trap",
+  "CardName": "局地的大ハリケーン",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "自分の手札・墓地に存在するカードを全て持ち主のデッキに戻してシャッフルする。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1214",
+  "PackNo": "light",
+  "CardName": "異形の従者",
+  "Cost": "3",
+  "CardCategory": "効果",
+  "Element": "光属性",
+  "CardType": "水族",
+  "Text": "攻撃力 700守備力 500\nこのカードは相手プレイヤーに直接攻撃をする事ができる。"
+}

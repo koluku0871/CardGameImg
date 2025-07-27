@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "1242",
-  "CardName": "魂喰らい",
-  "Cost": "レベル 4",
-  "CardCategory": "通常",
-  "Element": "地属性",
-  "CardType": "魚族",
-  "Text": "攻撃力 1200守備力 0\n全てが謎に包まれている超生命体。"
-}

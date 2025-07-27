@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "328",
-  "CardName": "神の息吹",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "",
-  "Text": "フィールド上に表側表示で存在する岩石族モンスターを全て破壊する。"
-}

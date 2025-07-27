@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "576",
-  "CardName": "砂の魔女",
-  "Cost": "レベル 6",
-  "CardCategory": "融合",
-  "Element": "地属性",
-  "CardType": "岩石族",
-  "Text": "攻撃力 2100守備力 1700\n岩石の巨兵＋エンシェント・エルフ"
-}

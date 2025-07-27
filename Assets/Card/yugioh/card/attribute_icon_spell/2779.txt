@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "2779",
-  "CardName": "二重召喚",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "",
-  "Text": "①：このターン自分は通常召喚を２回まで行う事ができる。"
-}

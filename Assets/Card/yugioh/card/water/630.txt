@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "630",
+  "PackNo": "water",
+  "CardName": "ウンディーネ",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 1100守備力 700\n水の中をユラユラ漂う妖精。水龍を召喚できるらしい。"
+}

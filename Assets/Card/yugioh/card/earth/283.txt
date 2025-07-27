@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "283",
+  "PackNo": "earth",
+  "CardName": "斬首の美女",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "戦士族",
+  "Text": "攻撃力 1600守備力 800\nその美貌とはうらはらに、カタナで数多くの首をはねてきた女。"
+}

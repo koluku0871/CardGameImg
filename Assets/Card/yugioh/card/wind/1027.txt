@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1027",
+  "PackNo": "wind",
+  "CardName": "ハーピィ・レディ・SB",
+  "Cost": "4",
+  "CardCategory": "効果",
+  "Element": "風属性",
+  "CardType": "鳥獣族",
+  "Text": "攻撃力 1800守備力 1300\nこのカード名はルール上「ハーピィ・レディ」として扱う。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "214",
+  "PackNo": "dark",
+  "CardName": "ロックメイス",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "闇属性",
+  "CardType": "悪魔族",
+  "Text": "攻撃力 1050守備力 1200\n心の良い部分を封印して、相手を悪魔の手先にしてしまう。"
+}

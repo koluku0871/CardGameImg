@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "32",
+  "PackNo": "wind",
+  "CardName": "プチリュウ",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "風属性",
+  "CardType": "ドラゴン族",
+  "Text": "攻撃力 600守備力 700\nとても小さなドラゴン。小さなからだをいっぱいに使い攻撃する。"
+}

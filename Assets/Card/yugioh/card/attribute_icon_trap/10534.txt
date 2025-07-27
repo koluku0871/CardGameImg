@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "10534",
-  "CardName": "魍魎跋扈",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "",
-  "Text": "①：自分・相手のメインフェイズに発動できる。モンスター１体を通常召喚する。"
-}

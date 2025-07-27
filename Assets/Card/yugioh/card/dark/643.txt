@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "643",
+  "PackNo": "dark",
+  "CardName": "ゲート・キーパー",
+  "Cost": "5",
+  "CardCategory": "通常",
+  "Element": "闇属性",
+  "CardType": "機械族",
+  "Text": "攻撃力 1500守備力 1800\n入り口を守るために造られた機械。壊すのは大変だ！"
+}

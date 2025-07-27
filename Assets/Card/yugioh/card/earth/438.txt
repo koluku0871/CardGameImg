@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "438",
+  "PackNo": "earth",
+  "CardName": "女王の影武者",
+  "Cost": "1",
+  "CardCategory": "効果",
+  "Element": "地属性",
+  "CardType": "戦士族",
+  "Text": "攻撃力 350守備力 300\nこのカードは相手プレイヤーを直接攻撃する事ができる。"
+}

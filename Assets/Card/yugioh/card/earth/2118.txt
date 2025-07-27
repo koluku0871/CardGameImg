@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2118",
+  "PackNo": "earth",
+  "CardName": "スチームジャイロイド",
+  "Cost": "6",
+  "CardCategory": "融合",
+  "Element": "地属性",
+  "CardType": "機械族",
+  "Text": "攻撃力 2200守備力 1600\n「ジャイロイド」＋「スチームロイド」"
+}

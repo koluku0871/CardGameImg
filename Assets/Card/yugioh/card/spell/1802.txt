@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1802",
+  "PackNo": "spell",
+  "CardName": "シールドクラッシュ",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：フィールドの守備表示モンスター１体を対象として発動できる。その守備表示モンスターを破壊する。"
+}

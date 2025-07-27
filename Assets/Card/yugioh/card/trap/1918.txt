@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1918",
+  "PackNo": "trap",
+  "CardName": "天罰",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "カウンター",
+  "Text": "手札を１枚捨てて発動する。効果モンスターの効果の発動を無効にし破壊する。"
+}

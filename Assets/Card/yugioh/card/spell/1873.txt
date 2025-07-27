@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1873",
+  "PackNo": "spell",
+  "CardName": "四次元の墓",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "自分の墓地に存在する「LV」を持つモンスター２体を、自分のデッキに加えてシャッフルする。"
+}

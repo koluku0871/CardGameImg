@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "75",
+  "PackNo": "dark",
+  "CardName": "未熟な悪魔",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "闇属性",
+  "CardType": "悪魔族",
+  "Text": "攻撃力 500守備力 750\n完全体になれなかった醜い悪魔。はらの穴は何でも吸い込む。"
+}

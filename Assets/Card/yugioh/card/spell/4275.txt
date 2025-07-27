@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "4275",
+  "PackNo": "spell",
+  "CardName": "スクラップ・エリア",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "自分のデッキから「スクラップ」と名のついたチューナー１体を手札に加える。"
+}

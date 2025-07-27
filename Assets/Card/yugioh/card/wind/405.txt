@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "405",
+  "PackNo": "wind",
+  "CardName": "ダンシング・エルフ",
+  "Cost": "1",
+  "CardCategory": "通常",
+  "Element": "風属性",
+  "CardType": "天使族",
+  "Text": "攻撃力 300守備力 200\n音楽に合わせ天を舞うエルフ。体の羽は、鋭利な刃物。"
+}

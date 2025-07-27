@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "471",
+  "PackNo": "water",
+  "CardName": "ラージマウス",
+  "Cost": "1",
+  "CardCategory": "効果",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 300守備力 250\nこのカードは相手プレイヤーを直接攻撃する事ができる。"
+}

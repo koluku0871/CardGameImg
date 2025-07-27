@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "879",
-  "CardName": "ホーリー・エルフの祝福",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "",
-  "Text": "①：自分はフィールドのモンスターの数×３００LP回復する。"
-}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "279",
+  "PackNo": "water",
+  "CardName": "グレート・ホワイト",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "魚族",
+  "Text": "攻撃力 1600守備力 800\n巨大な白いサメ。大きな口で噛みつかれたら逃れられない。"
+}

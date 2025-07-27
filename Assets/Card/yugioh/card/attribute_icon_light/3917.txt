@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "3917",
-  "CardName": "Aggiba, the Malevolent Sh'nn S'yo",
-  "Cost": "レベル 10",
-  "CardCategory": "効果",
-  "Element": "光属性",
-  "CardType": "悪魔族",
-  "Text": "攻撃力 3000守備力 3000\nThis card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Fiend-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match."
-}

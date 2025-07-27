@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "651",
+  "PackNo": "dark",
+  "CardName": "ダーク・エルフ",
+  "Cost": "4",
+  "CardCategory": "効果",
+  "Element": "闇属性",
+  "CardType": "魔法使い族",
+  "Text": "攻撃力 2000守備力 800\nこのカードは１０００ライフポイント払わなければ攻撃できない。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "537",
+  "PackNo": "water",
+  "CardName": "海の竜王",
+  "Cost": "6",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "海竜族",
+  "Text": "攻撃力 2000守備力 1700\n海の王様。かたい甲羅を持ち、口からアワをはいて攻撃する。"
+}

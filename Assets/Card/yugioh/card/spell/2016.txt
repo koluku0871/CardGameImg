@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2016",
+  "PackNo": "spell",
+  "CardName": "ライトニング・ボルテックス",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：手札を１枚捨てて発動できる。相手フィールドの表側表示モンスターを全て破壊する。"
+}

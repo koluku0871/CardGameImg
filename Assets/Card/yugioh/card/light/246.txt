@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "246",
+  "PackNo": "light",
+  "CardName": "封印の鎖",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "光属性",
+  "CardType": "天使族",
+  "Text": "攻撃力 1000守備力 1100\n相手をギリギリと締め上げて、封印を施す力を持つ。"
+}

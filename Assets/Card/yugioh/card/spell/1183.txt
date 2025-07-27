@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1183",
+  "PackNo": "spell",
+  "CardName": "封神鏡",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "相手の手札を見る。スピリットモンスターが手札に存在する場合、スピリットモンスター１体を選択して墓地に捨てる。"
+}

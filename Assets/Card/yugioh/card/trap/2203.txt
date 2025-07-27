@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2203",
+  "PackNo": "trap",
+  "CardName": "ヒーローバリア",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "自分フィールド上に「E・HERO」と名のついたモンスターが表側表示で存在する場合、相手モンスターの攻撃を１度だけ無効にする。"
+}

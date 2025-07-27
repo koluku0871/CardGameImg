@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "258",
+  "PackNo": "water",
+  "CardName": "レア・フィッシュ",
+  "Cost": "4",
+  "CardCategory": "融合",
+  "Element": "水属性",
+  "CardType": "魚族",
+  "Text": "攻撃力 1500守備力 1200\n「フュージョニスト」＋「恍惚の人魚」"
+}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "8729",
-  "CardName": "トラフィックゴースト",
-  "Cost": "",
-  "CardCategory": "リンク",
-  "Element": "闇属性",
-  "CardType": "サイバース族",
-  "Text": "攻撃力 1800守備力 -\nモンスター３体"
-}

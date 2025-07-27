@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "507",
+  "PackNo": "water",
+  "CardName": "水の魔導師",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 1400守備力 1000\n水で相手の周りを囲んで、包むように攻撃をする。"
+}

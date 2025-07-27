@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "694",
+  "PackNo": "dark",
+  "CardName": "転職の魔鏡",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "闇属性",
+  "CardType": "悪魔族",
+  "Text": "攻撃力 800守備力 1300\n悪魔の鏡。攻撃を受けても割れずに、ダメージを防いでくれる。"
+}

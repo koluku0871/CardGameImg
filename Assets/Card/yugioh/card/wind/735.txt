@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "735",
+  "PackNo": "wind",
+  "CardName": "クジャック",
+  "Cost": "5",
+  "CardCategory": "通常",
+  "Element": "風属性",
+  "CardType": "鳥獣族",
+  "Text": "攻撃力 1700守備力 1500\n美しい羽根を広げる大きなクジャク。その羽根を飛ばして攻撃！"
+}

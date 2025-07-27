@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "615",
+  "PackNo": "dark",
+  "CardName": "人喰い宝石箱",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "闇属性",
+  "CardType": "悪魔族",
+  "Text": "攻撃力 1600守備力 1000\n宝石箱の形をしたモンスター。冒険者をだまして襲いかかる。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "243",
+  "PackNo": "dark",
+  "CardName": "バロックス",
+  "Cost": "5",
+  "CardCategory": "融合",
+  "Element": "闇属性",
+  "CardType": "悪魔族",
+  "Text": "攻撃力 1380守備力 1530\nキラーパンダ＋ガーゴイル"
+}

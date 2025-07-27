@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2928",
+  "PackNo": "spell",
+  "CardName": "アシッドレイン",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "フィールド",
+  "Text": "全ての地属性モンスターの攻撃力は５００ポイントダウンし、守備力は４００ポイントアップする。"
+}

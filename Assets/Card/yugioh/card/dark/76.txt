@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "76",
+  "PackNo": "dark",
+  "CardName": "ミッドナイト・デビル",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "闇属性",
+  "CardType": "悪魔族",
+  "Text": "攻撃力 800守備力 600\n深夜に現れる鳥のばけもの。呼び出すにはいけにえが必要という。"
+}

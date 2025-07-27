@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "506",
+  "PackNo": "water",
+  "CardName": "マリン・ビースト",
+  "Cost": "5",
+  "CardCategory": "融合",
+  "Element": "水属性",
+  "CardType": "魚族",
+  "Text": "攻撃力 1700守備力 1600\n水の魔導師＋ベヒゴン"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2948",
+  "PackNo": "spell",
+  "CardName": "剣闘訓練所",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "デッキからレベル４以下の「剣闘獣」と名のついたモンスター１体を手札に加える。"
+}

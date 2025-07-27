@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "88",
-  "CardName": "サンダー・ボルト",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "",
-  "Text": "①：相手フィールドのモンスターを全て破壊する。"
-}

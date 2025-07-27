@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "797",
+  "PackNo": "spell",
+  "CardName": "成仏",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "装備カードを装備したモンスターを全て破壊する。"
+}

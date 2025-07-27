@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "620",
+  "PackNo": "trap",
+  "CardName": "和睦の使者",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：このターン、自分のモンスターは戦闘では破壊されず、自分が受ける戦闘ダメージは０になる。"
+}

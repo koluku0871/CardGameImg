@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "528",
+  "PackNo": "earth",
+  "CardName": "コケ",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "鳥獣族",
+  "Text": "攻撃力 900守備力 800\n相手を丸飲みにして、自分のエネルギーとして取り込んでしまう。"
+}

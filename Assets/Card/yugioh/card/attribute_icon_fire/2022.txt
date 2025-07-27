@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "2022",
-  "CardName": "E・HERO バーストレディ",
-  "Cost": "レベル 3",
-  "CardCategory": "通常",
-  "Element": "炎属性",
-  "CardType": "戦士族",
-  "Text": "攻撃力 1200守備力 800\n炎を操るE・HEROの紅一点。紅蓮の炎、バーストファイヤーが悪を焼き尽くす。"
-}

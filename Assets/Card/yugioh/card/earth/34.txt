@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "34",
+  "PackNo": "earth",
+  "CardName": "マンモスの墓場",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "恐竜族",
+  "Text": "攻撃力 1200守備力 800\n仲間のお墓を守るマンモス。墓荒らしを容赦なく攻撃。"
+}

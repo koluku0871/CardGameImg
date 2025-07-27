@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2332",
+  "PackNo": "earth",
+  "CardName": "ガード・ドッグ",
+  "Cost": "3",
+  "CardCategory": "リバース／効果",
+  "Element": "地属性",
+  "CardType": "獣族",
+  "Text": "攻撃力 1500守備力 500\nリバース：このターン相手プレイヤーは特殊召喚できない。"
+}

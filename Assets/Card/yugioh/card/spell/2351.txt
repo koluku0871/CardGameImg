@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2351",
+  "PackNo": "spell",
+  "CardName": "次元の裂け目",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "永続",
+  "Text": "①：このカードが魔法＆罠ゾーンに存在する限り、墓地へ送られるモンスターは墓地へは行かず除外される。"
+}

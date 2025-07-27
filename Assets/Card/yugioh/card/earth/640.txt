@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "640",
+  "PackNo": "earth",
+  "CardName": "クラッシュマン",
+  "Cost": "5",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "獣族",
+  "Text": "攻撃力 1600守備力 1800\n意外に素早く動き回り、丸まって体当たりをしてくる。"
+}

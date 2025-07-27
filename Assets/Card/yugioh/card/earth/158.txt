@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "158",
+  "PackNo": "earth",
+  "CardName": "ホログラー",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "機械族",
+  "Text": "攻撃力 1100守備力 700\n様々な幻想を見せ、そのスキをついて攻撃してくる機械。"
+}

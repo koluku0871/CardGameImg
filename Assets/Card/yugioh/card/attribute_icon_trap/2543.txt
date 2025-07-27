@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "2543",
-  "CardName": "エターナル・ドレッド",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "",
-  "Text": "「幽獄の時計塔」に時計カウンターを２個乗せる。"
-}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "490",
+  "PackNo": "trap",
+  "CardName": "自業自得",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：相手フィールドのモンスターの数×５００ダメージを相手に与える。"
+}

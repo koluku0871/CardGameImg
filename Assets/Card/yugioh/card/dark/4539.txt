@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "4539",
+  "PackNo": "dark",
+  "CardName": "BF－東雲のコチ",
+  "Cost": "4",
+  "CardCategory": "チューナー／効果",
+  "Element": "闇属性",
+  "CardType": "鳥獣族",
+  "Text": "攻撃力 700守備力 1500\n特殊召喚されたこのカードはS素材にできない。"
+}

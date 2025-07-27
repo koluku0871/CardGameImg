@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "575",
+  "PackNo": "fire",
+  "CardName": "紅陽鳥",
+  "Cost": "6",
+  "CardCategory": "融合",
+  "Element": "炎属性",
+  "CardType": "鳥獣族",
+  "Text": "攻撃力 2300守備力 1800\nセイント・バード＋スカイ・ハンター"
+}

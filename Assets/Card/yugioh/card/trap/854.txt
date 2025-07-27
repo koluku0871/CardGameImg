@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "854",
+  "PackNo": "trap",
+  "CardName": "正々堂々",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "永続",
+  "Text": "お互いのプレイヤーは、それぞれ自分のターンには手札を全て公開し続けなければならない。"
+}

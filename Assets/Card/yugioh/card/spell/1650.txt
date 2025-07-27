@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1650",
+  "PackNo": "spell",
+  "CardName": "地砕き",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：相手フィールドの守備力が一番高いモンスター１体を破壊する。"
+}

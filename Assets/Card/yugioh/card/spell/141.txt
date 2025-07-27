@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "141",
+  "PackNo": "spell",
+  "CardName": "機械改造工場",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "装備",
+  "Text": "機械族のみ装備可能。装備モンスター１体の攻撃力と守備力は３００ポイントアップする。"
+}

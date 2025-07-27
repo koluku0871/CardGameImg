@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "394",
+  "PackNo": "water",
+  "CardName": "シーカーメン",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 1100守備力 1300\n鋭いかぎづめで相手を切り裂く、残忍なモンスター。"
+}

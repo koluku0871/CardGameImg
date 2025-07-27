@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "98",
+  "PackNo": "light",
+  "CardName": "月の女神 エルザェム",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "光属性",
+  "CardType": "天使族",
+  "Text": "攻撃力 750守備力 1100\n月を守護するきれいな女神。月あかりのカーテンで攻撃を防ぐ。"
+}

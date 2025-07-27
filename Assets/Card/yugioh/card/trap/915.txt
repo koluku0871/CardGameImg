@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "915",
+  "PackNo": "trap",
+  "CardName": "神の恵み",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "永続",
+  "Text": "①：このカードが魔法＆罠ゾーンに存在する限り、自分がカードをドローする度に、自分は５００LP回復する。"
+}

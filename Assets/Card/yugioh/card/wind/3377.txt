@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "3377",
+  "PackNo": "wind",
+  "CardName": "シールド・ウィング",
+  "Cost": "2",
+  "CardCategory": "効果",
+  "Element": "風属性",
+  "CardType": "鳥獣族",
+  "Text": "攻撃力 0守備力 900\nこのカードは１ターンに２度まで、戦闘では破壊されない。"
+}

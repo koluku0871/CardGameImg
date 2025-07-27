@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "3256",
+  "PackNo": "trap",
+  "CardName": "王宮の鉄壁",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "永続",
+  "Text": "①：このカードが魔法＆罠ゾーンに存在する限り、お互いにカードを除外できない。"
+}

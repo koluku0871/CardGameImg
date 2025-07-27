@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1835",
+  "PackNo": "trap",
+  "CardName": "ゴーゴンの眼",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "エンドフェイズ終了時まで、フィールド上に存在する守備表示モンスターの効果は無効化される。"
+}

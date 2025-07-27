@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "159",
+  "PackNo": "light",
+  "CardName": "ホーリー・エルフ",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "光属性",
+  "CardType": "魔法使い族",
+  "Text": "攻撃力 800守備力 2000\nかよわいエルフだが、聖なる力で身を守りとても守備が高い。"
+}

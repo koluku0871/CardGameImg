@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "309",
+  "PackNo": "earth",
+  "CardName": "レオ・ウィザード",
+  "Cost": "5",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "魔法使い族",
+  "Text": "攻撃力 1350守備力 1200\n黒いマントをはおった魔術師。正体は言葉を話すシシ。"
+}

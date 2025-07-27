@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "327",
+  "PackNo": "earth",
+  "CardName": "陰陽師 タオ",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "魔法使い族",
+  "Text": "攻撃力 1200守備力 900\n陰と陽の力を浸食させ、歪んだ力を生み出す魔導士。"
+}

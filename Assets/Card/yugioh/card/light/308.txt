@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "308",
+  "PackNo": "light",
+  "CardName": "ラムーン",
+  "Cost": "5",
+  "CardCategory": "通常",
+  "Element": "光属性",
+  "CardType": "魔法使い族",
+  "Text": "攻撃力 1200守備力 1700\n月に住む魔法使い。月の持つ魔力で相手を魅了する。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "633",
+  "PackNo": "spell",
+  "CardName": "火炎地獄",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "相手ライフに１０００ポイントダメージを与え、自分は５００ポイントダメージを受ける。"
+}

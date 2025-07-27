@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "776",
+  "PackNo": "water",
+  "CardName": "オクトバーサー",
+  "Cost": "5",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 1600守備力 1400\nサカナの頭、タコの足。とっても不思議な生き物。ヤリで攻撃する。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1042",
+  "PackNo": "trap",
+  "CardName": "王宮の号令",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "永続",
+  "Text": "このカードがフィールド上に存在する限り、全てのリバース効果モンスターの発動及び効果は無効化される。"
+}

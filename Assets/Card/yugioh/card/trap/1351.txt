@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1351",
+  "PackNo": "trap",
+  "CardName": "仕込みマシンガン",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：相手の手札・フィールドのカードの数×２００ダメージを相手に与える。"
+}

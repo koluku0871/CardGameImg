@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "106",
+  "PackNo": "spell",
+  "CardName": "ファイヤー・ボール",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：相手に５００ダメージを与える。"
+}

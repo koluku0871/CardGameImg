@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "26",
+  "PackNo": "water",
+  "CardName": "ヒトデンチャク",
+  "Cost": "2",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 600守備力 700\n汚染された水で狂暴化したヒトデ。口から溶解液をはく。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "3725",
+  "PackNo": "spell",
+  "CardName": "化石調査",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "①：デッキからレベル６以下の恐竜族モンスター１体を手札に加える。"
+}

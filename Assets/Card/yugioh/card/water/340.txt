@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "340",
+  "PackNo": "water",
+  "CardName": "神魚",
+  "Cost": "5",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "魚族",
+  "Text": "攻撃力 1650守備力 1700\n水中を優雅に泳ぐ魚の神様。怒らせると危険。"
+}

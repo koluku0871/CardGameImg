@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "559",
+  "PackNo": "earth",
+  "CardName": "ムカムカ",
+  "Cost": "2",
+  "CardCategory": "効果",
+  "Element": "地属性",
+  "CardType": "岩石族",
+  "Text": "攻撃力 600守備力 300\nこのカードの攻撃力・守備力は、自分の手札の枚数×３００ポイントアップする。"
+}

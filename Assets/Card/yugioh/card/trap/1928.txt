@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1928",
+  "PackNo": "trap",
+  "CardName": "ピケルの魔法陣",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "このターンのエンドフェイズまで、このカードのコントローラーへのカードの効果によるダメージは０になる。"
+}

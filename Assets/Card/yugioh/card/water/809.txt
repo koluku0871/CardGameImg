@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "809",
+  "PackNo": "water",
+  "CardName": "ツインテール",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 850守備力 700\nムチのようなしっぽ２本を振り回し攻撃する、水中生物。"
+}

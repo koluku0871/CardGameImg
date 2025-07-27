@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "9635",
-  "CardName": "天威の鬼神",
-  "Cost": "",
-  "CardCategory": "リンク",
-  "Element": "闇属性",
-  "CardType": "幻竜族",
-  "Text": "攻撃力 3000守備力 -\nリンクモンスターを含むモンスター２体以上"
-}

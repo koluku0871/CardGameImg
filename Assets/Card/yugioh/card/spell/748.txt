@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "748",
+  "PackNo": "spell",
+  "CardName": "通行税",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "永続",
+  "Text": "お互いのプレイヤーは５００ライフポイントを払わなければ、攻撃宣言をする事ができない。"
+}

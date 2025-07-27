@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "2216",
-  "CardName": "融合禁止エリア",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "永続",
-  "Text": "お互いのプレイヤーは融合召喚をする事ができない。"
-}

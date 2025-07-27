@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "1838",
-  "CardName": "衰弱の霧",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "永続",
-  "Text": "相手の手札制限枚数は５枚までになる。"
-}

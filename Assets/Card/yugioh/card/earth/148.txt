@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "148",
+  "PackNo": "earth",
+  "CardName": "ソリテュード",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "獣戦士族",
+  "Text": "攻撃力 1050守備力 1000\n下半身がシカで、魂を吸うという大カマを持った獣戦士。"
+}

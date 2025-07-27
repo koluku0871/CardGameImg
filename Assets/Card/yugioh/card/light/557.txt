@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "557",
+  "PackNo": "light",
+  "CardName": "音楽家の帝王",
+  "Cost": "5",
+  "CardCategory": "融合",
+  "Element": "光属性",
+  "CardType": "魔法使い族",
+  "Text": "攻撃力 1750守備力 1500\n「黒き森のウィッチ」＋「ハイ・プリーステス」"
+}

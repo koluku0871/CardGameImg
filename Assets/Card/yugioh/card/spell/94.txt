@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "94",
+  "PackNo": "spell",
+  "CardName": "草原",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "フィールド",
+  "Text": "全ての戦士・獣戦士族モンスターの攻撃力と守備力は、２００ポイントアップする。"
+}

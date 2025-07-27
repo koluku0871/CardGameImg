@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "1599",
-  "CardName": "つまずき",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "永続",
-  "Text": "召喚・反転召喚・特殊召喚に成功したモンスターは守備表示になる。"
-}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1079",
+  "PackNo": "water",
+  "CardName": "ボーンハイマー",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "水族",
+  "Text": "攻撃力 850守備力 400\n海の中をさまよい、獲物を見つけたらあらゆる水分を吸い尽くす。"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1320",
+  "PackNo": "spell",
+  "CardName": "ヒエログリフの石版",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "１０００ライフポイントを払う。そのデュエル中、自分の手札制限枚数が７枚になる。"
+}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "8616",
-  "CardName": "誤爆",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "",
-  "Text": "①：自分フィールドのカード１枚を対象として発動できる。そのカードを破壊する。"
-}

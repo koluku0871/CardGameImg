@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "99",
+  "PackNo": "earth",
+  "CardName": "二つの口を持つ闇の支配者",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "地属性",
+  "CardType": "恐竜族",
+  "Text": "攻撃力 900守備力 700\n口が二つある恐竜。ツノに蓄電し、背中の口から放電する。"
+}

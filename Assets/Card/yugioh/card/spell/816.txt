@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "816",
+  "PackNo": "spell",
+  "CardName": "トゥーン・ワールド",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "永続",
+  "Text": "１０００LPを払ってこのカードを発動できる。"
+}

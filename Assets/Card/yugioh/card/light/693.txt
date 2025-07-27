@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "693",
+  "PackNo": "light",
+  "CardName": "月の使者",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "光属性",
+  "CardType": "戦士族",
+  "Text": "攻撃力 1100守備力 1000\n月の女神に仕える戦士。三日月のような矛で攻撃！"
+}

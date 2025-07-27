@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1593",
+  "PackNo": "trap",
+  "CardName": "重力解除",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：フィールドの全ての表側表示モンスターの表示形式を変更する。"
+}

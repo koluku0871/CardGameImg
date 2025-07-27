@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "302",
+  "PackNo": "light",
+  "CardName": "ミューズの天使",
+  "Cost": "3",
+  "CardCategory": "通常",
+  "Element": "光属性",
+  "CardType": "天使族",
+  "Text": "攻撃力 850守備力 900\n芸術家の天使。特にハープの演奏は、右に出る者はいない。"
+}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "4735",
-  "CardName": "即神仏",
-  "Cost": "",
-  "CardCategory": "魔法",
-  "Element": "魔法",
-  "CardType": "速攻",
-  "Text": "自分フィールド上に存在するモンスター１体を選択して墓地へ送る。"
-}

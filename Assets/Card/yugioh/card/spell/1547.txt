@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1547",
+  "PackNo": "spell",
+  "CardName": "魔法再生",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "手札の魔法カードを２枚墓地に送る。自分の墓地から魔法カードを１枚選択し、手札に加える。"
+}

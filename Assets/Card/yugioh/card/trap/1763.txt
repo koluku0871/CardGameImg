@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1763",
+  "PackNo": "trap",
+  "CardName": "砂漠の光",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "自分フィールド上に存在するモンスターを全て表側守備表示にする。"
+}

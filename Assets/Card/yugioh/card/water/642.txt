@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "642",
+  "PackNo": "water",
+  "CardName": "クレイジー・フィッシュ",
+  "Cost": "4",
+  "CardCategory": "通常",
+  "Element": "水属性",
+  "CardType": "魚族",
+  "Text": "攻撃力 1600守備力 1200\n鋭くとがっている頭の先を突き出して、攻撃してくるトビウオ。"
+}

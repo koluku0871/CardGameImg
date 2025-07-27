@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "4962",
+  "PackNo": "spell",
+  "CardName": "スペース・サイクロン",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "速攻",
+  "Text": "フィールド上に存在するエクシーズ素材を１つ取り除く。"
+}

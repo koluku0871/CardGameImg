@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "549",
+  "PackNo": "fire",
+  "CardName": "フレイム・ケルベロス",
+  "Cost": "6",
+  "CardCategory": "通常",
+  "Element": "炎属性",
+  "CardType": "炎族",
+  "Text": "攻撃力 2100守備力 1800\n全身が炎に包まれた魔獣。相手を地獄の炎で処刑する。"
+}

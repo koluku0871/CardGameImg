@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "436",
+  "PackNo": "earth",
+  "CardName": "裁きを下す女帝",
+  "Cost": "6",
+  "CardCategory": "融合",
+  "Element": "地属性",
+  "CardType": "戦士族",
+  "Text": "攻撃力 2100守備力 1700\n女王の影武者＋響女"
+}

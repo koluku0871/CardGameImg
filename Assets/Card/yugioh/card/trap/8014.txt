@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "8014",
+  "PackNo": "trap",
+  "CardName": "スウィッチヒーロー",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：お互いのフィールドのモンスターの数が同じ場合、そのモンスターのコントロールを全て入れ替える。"
+}

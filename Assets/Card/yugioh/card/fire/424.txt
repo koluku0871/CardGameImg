@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "424",
+  "PackNo": "fire",
+  "CardName": "メテオ・ブラック・ドラゴン",
+  "Cost": "8",
+  "CardCategory": "融合",
+  "Element": "炎属性",
+  "CardType": "ドラゴン族",
+  "Text": "攻撃力 3500守備力 2000\n「真紅眼の黒竜」＋「メテオ・ドラゴン」"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "105",
+  "PackNo": "trap",
+  "CardName": "はさみ撃ち",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "自分フィールド上に存在するモンスター２体と相手フィールド上に存在するモンスター１体を選択して破壊する。"
+}

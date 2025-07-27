@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "1437",
+  "PackNo": "spell",
+  "CardName": "魔導書整理",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "速攻",
+  "Text": "自分のデッキの上から３枚カードをめくり好きな順番でデッキの上に戻す。相手はそのカードを確認できない。"
+}

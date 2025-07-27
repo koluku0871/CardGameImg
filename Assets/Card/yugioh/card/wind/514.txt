@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "514",
+  "PackNo": "wind",
+  "CardName": "エア・イーター",
+  "Cost": "6",
+  "CardCategory": "通常",
+  "Element": "風属性",
+  "CardType": "悪魔族",
+  "Text": "攻撃力 2100守備力 1600\n周囲の空気を食べてしまい、相手を窒息させるモンスター。"
+}

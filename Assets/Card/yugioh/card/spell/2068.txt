@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2068",
+  "PackNo": "spell",
+  "CardName": "充電器",
+  "Cost": "",
+  "CardCategory": "魔法",
+  "Element": "魔法",
+  "CardType": "",
+  "Text": "５００ライフポイントを払う。自分の墓地から「電池メン」という名のついたモンスター１体を特殊召喚する。"
+}

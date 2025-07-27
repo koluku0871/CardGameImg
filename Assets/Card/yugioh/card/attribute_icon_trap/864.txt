@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "864",
-  "CardName": "刻の封印",
-  "Cost": "",
-  "CardCategory": "罠",
-  "Element": "罠",
-  "CardType": "",
-  "Text": "①：次の相手ドローフェイズをスキップする。"
-}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "2173",
+  "PackNo": "trap",
+  "CardName": "暗黒よりの軍勢",
+  "Cost": "",
+  "CardCategory": "罠",
+  "Element": "罠",
+  "CardType": "",
+  "Text": "①：自分の墓地の「暗黒界」モンスター２体を対象として発動できる。そのモンスターを手札に加える。"
+}
