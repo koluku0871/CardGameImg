@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BSC48-X06",
+  "PackNo": "BSC48",
+  "CardName": "蒼海明王X",
+  "CardRarity": "X",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "6",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青",
+    "神"
+  ],
+  "CardType": "起導者・眷属・闘神",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 10000／4"
+  ],
+  "Text": "［Lv1-Lv2］『自分のアタックステップ』自分の「蓮華王」/「明王」がアタックしている間、セットしている自分のＳバーストは相手の効果を受けない。［Lv1-Lv2］『このスピリットのアタック時』相手のデッキを上から7枚破棄する。 ［Lv2］【真・起導】『このスピリットのアタック時』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれているとき、自分のＳバースト1つをただちに発動できる。そのバースト発動後、自分の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置くことで、相手のデッキを上から7枚、可能な限り破棄する。"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BSC47-005",
+  "PackNo": "BSC47",
+  "CardName": "騎兵の氷天使イルフェッサ",
+  "CardRarity": "R",
+  "CardCategory": "スピリット",
+  "Element": "白",
+  "Cost": "6",
+  "ReducedCost": [
+    "白",
+    "白",
+    "白",
+    "神"
+  ],
+  "CardType": "起幻・眷属・氷姫",
+  "Lv": [
+    "LV1 : 6000／1",
+    "LV2 : 8000／3"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_white.png\"/><img src=\"/renewal/images/cardlist/ico_white.png\"/>（このカードは手札からセットできる）］【セット中】ターンに1回、系統：「氷姫」を持つ自分のスピリットが自分の効果で回復したとき、自分の手札にある系統：「氷姫」を持つスピリットカード1枚を、コストを支払わずに召喚できる。［Lv1-Lv2］『このスピリットのアタック/ブロック時』ターンに1回、相手のスピリット/ネクサス1つを手札に戻すことで、このスピリットは回復する。"
+}

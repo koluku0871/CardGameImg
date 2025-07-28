@@ -1,0 +1,18 @@
+﻿{
+  "CardNo": "BSC48-001",
+  "PackNo": "BSC48",
+  "CardName": "ホムラグドールLT",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "赤",
+  "Cost": "2",
+  "ReducedCost": [
+    "赤"
+  ],
+  "CardType": "家臣・皇獣",
+  "Lv": [
+    "LV1 : 2000／1",
+    "LV2 : 4000／4"
+  ],
+  "Text": "［Lv1-Lv2］『このスピリットのアタック時』相手のフィールドにあるコスト4以下のマジックカード1枚を破棄できる。 ［Lv2］『このスピリットのアタック時』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれているとき、自分の手札が5枚以下なら、自分はデッキから2枚ドローする。"
+}

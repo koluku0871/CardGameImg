@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BSC47-008",
+  "PackNo": "BSC47",
+  "CardName": "ムルガ・チキンナイト",
+  "CardRarity": "C",
+  "CardCategory": "スピリット",
+  "Element": "黄",
+  "Cost": "5",
+  "ReducedCost": [
+    "黄",
+    "黄",
+    "神"
+  ],
+  "CardType": "占征・眷属・戯狩",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 9000／3",
+    "LV3 : 12000／5"
+  ],
+  "Text": "［ミラージュ：コスト3<img src=\"/renewal/images/cardlist/ico_yellow.png\"/><img src=\"/renewal/images/cardlist/ico_yellow.png\"/>（このカードは手札からセットできる）］【セット中】『このミラージュのセット時』〔ターンに1回：同名〕このターンの間、自分が「パールヴァティー」か、系統：「戯狩」を持つカードを召喚/配置するとき、その軽減シンボル<img src=\"/renewal/images/cardlist/ico_yellow.png\"/>1つを満たす。【セット中】『相手のアタックステップ』自分のライフが減ったとき、自分のデッキの上から1枚をトラッシュに置ける。それが「パールヴァティー」か、系統：「眷属」/「戯狩」を持つカードのとき、このターンの間、相手のスピリット1体をBP-10000し、BP0になったとき破壊する。"
+}

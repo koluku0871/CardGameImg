@@ -1,0 +1,21 @@
+﻿{
+  "CardNo": "BSC48-025",
+  "PackNo": "BSC48",
+  "CardName": "降魔明王LT",
+  "CardRarity": "M",
+  "CardCategory": "スピリット",
+  "Element": "青",
+  "Cost": "5",
+  "ReducedCost": [
+    "青",
+    "青",
+    "青"
+  ],
+  "CardType": "起導者・家臣・闘神",
+  "Lv": [
+    "LV1 : 5000／1",
+    "LV2 : 7000／3",
+    "LV3 : 20000／10"
+  ],
+  "Text": "［Lv1-Lv2-Lv3］相手のトラッシュにあるカードすべては、この効果以外の効果を受けず、その効果を使えない。 ［Lv2-Lv3］【真・起導】『このスピリットのアタック時』このスピリットに<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>が置かれているとき、自分のＳバースト1つをただちに発動できる。そのバースト発動後、自分の<img src=\"/renewal/images/cardlist/ico_soulcore.png\"/>をトラッシュに置ける。そうしたとき、相手の手札が5枚以上なら、相手の手札すべてを破棄することで、相手はデッキから2枚ドローする。"
+}
