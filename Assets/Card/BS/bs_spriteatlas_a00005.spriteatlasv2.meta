@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 835fafc60baa95943ba98d5834940385
+guid: 6d8934cc052f2f441b53c23fb17bdc35
 SpriteAtlasImporter:
   externalObjects: {}
   textureSettings:
@@ -39,5 +39,5 @@ SpriteAtlasImporter:
   variantMultiplier: 1
   bindAsDefault: 1
   userData: 
-  assetBundleName: hololive_spriteatlas_
-  assetBundleVariant: a00001
+  assetBundleName: bs_spriteatlas_
+  assetBundleVariant: a00005
