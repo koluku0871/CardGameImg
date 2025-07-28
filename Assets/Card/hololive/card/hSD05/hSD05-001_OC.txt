@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD05-001_OC",
+  "PackNo": "hSD05",
+  "CardName": "轟はじめ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OC",
+  "Element": "白",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>ホワイトマイク</span>[ターンに1回]このターンの間、自分の白センターホロメンのアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-1]<span>クイックガード</span>[ゲームに1回]相手のターンで、自分の白ホロメンが相手からダメージを受ける時に使える：そのホロメン1人が受けるダメージ-20。</p></div></div>"
+}

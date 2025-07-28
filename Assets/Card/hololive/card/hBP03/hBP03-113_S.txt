@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP03-113_S",
+  "PackNo": "hBP03",
+  "CardName": "Risuners",
+  "CardType": "サポート・ファン",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

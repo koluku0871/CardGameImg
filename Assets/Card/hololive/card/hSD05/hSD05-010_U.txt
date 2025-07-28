@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD05-010_U",
+  "PackNo": "hSD05",
+  "CardName": "儒烏風亭らでん",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ちょいと一席20<spanclass=\"tokkou\"></span></span>自分のアーカイブのエール1枚を、自分の#ReGLOSSを持つホロメンに送れる。</p></div></div>"
+}

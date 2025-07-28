@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP01-006_OSR",
+  "PackNo": "hBP01",
+  "CardName": "小鳥遊キアラ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "赤",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>フェニックステール</span>[ターンに１回]自分のアーカイブのホロメン１枚を手札に戻す。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>Risefromtheashes</span>[ゲームに１回]相手のターンで、自分の赤ホロメンがダウンした時に使える：自分の減るライフ-１。さらに、ダウンした１人を選び、そのホロメンを含め重なっているホロメンすべてを手札に戻す。</p></div></div>"
+}

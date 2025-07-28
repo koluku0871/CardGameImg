@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD01-016_C",
+  "PackNo": "hSD01",
+  "CardName": "春先のどか",
+  "CardType": "サポート・スタッフ・LIMITED",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP04-091_S",
+  "PackNo": "hBP04",
+  "CardName": "限界飯",
+  "CardType": "サポート・イベント",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

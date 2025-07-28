@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP02-051_U",
+  "PackNo": "hBP02",
+  "CardName": "クレイジー・オリー",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>限界化！！</span>自分の#ID2期生を持つDebutホロメン1人を、自分のアーカイブのホロメンを使ってBloomできる。自分のブルームエフェクト「限界化！！」はターンに1回しか使えない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>推しを見て叫びまくるぞ！！20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

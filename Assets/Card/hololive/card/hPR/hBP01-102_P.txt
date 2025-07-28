@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP01-102_P",
+  "PackNo": "hPR",
+  "CardName": "アイドルマイク",
+  "CardType": "サポート・アイテム・LIMITED",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

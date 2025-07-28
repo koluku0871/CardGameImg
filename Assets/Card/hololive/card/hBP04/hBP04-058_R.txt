@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-058_R",
+  "PackNo": "hBP04",
+  "CardName": "ラプラス・ダークネス",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>貴様の運命試してみるか？</span>サイコロを3回振れる：相手のセンターホロメンに、奇数が出た回数1回につき、特殊ダメージ10を与える。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>吾輩に勝つつもりか？30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD03-003_C",
+  "PackNo": "hSD03",
+  "CardName": "猫又おかゆ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>お家にお邪魔します…！</span>自分のセンターホロメンが#ゲーマーズを持つ時、相手のセンターホロメンとバックホロメン1人に特殊ダメージ10を与える。ただし、ダウンしても相手のライフは減らない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>僕をお家に入れてください10<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

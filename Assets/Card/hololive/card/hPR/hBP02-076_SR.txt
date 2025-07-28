@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-076_SR",
+  "PackNo": "hPR",
+  "CardName": "カスタムパソコン",
+  "CardType": "サポート・アイテム",
+  "CardRarity": "SR",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP01-126_P_02",
+  "PackNo": "hPR",
+  "CardName": "座員",
+  "CardType": "サポート・ファン",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

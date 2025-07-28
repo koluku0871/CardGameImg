@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD02-013_C",
+  "PackNo": "hSD02",
+  "CardName": "阿修羅＆羅刹",
+  "CardType": "サポート・ツール",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

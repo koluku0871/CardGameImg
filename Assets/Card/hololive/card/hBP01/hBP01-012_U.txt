@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-012_U",
+  "PackNo": "hBP01",
+  "CardName": "天音かなた",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>アイドルかなたそを</span>サイコロを１回振れる：３以下の時、自分のデッキから、マスコット１枚を公開し、自分のホロメンに付ける。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>い～っぱい応援して！40<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

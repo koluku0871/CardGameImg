@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD03-001_OC",
+  "PackNo": "hSD03",
+  "CardName": "猫又おかゆ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OC",
+  "Element": "青",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：2消費]<span>ブルーマイク</span>[ターンに1回]このターンの間、自分の青センターホロメンのアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：1消費]<span>バックショット</span>[ゲームに1回]自分のステージのホロメンが相手のバックホロメンにダメージを与えた時に使える：その相手のバックホロメン1人に特殊ダメージ50を与える。</p></div></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD04-012_U",
+  "PackNo": "hSD04",
+  "CardName": "スバちょこルーナ",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

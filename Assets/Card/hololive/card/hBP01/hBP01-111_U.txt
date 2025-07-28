@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP01-111_U",
+  "PackNo": "hBP01",
+  "CardName": "ホロライブインドネシア3期生",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

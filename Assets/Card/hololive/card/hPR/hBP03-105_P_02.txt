@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP03-105_P_02",
+  "PackNo": "hPR",
+  "CardName": "ルーナイト",
+  "CardType": "サポート・ファン",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP02-037_S",
+  "PackNo": "hBP02",
+  "CardName": "沙花叉クロヱ",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ふたりじめビーチ60<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

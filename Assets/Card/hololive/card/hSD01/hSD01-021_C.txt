@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD01-021_C",
+  "PackNo": "hSD01",
+  "CardName": "First Gravity",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

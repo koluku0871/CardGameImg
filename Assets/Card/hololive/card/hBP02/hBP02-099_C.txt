@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-099_C",
+  "PackNo": "hBP02",
+  "CardName": "すこん部",
+  "CardType": "サポート・ファン",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

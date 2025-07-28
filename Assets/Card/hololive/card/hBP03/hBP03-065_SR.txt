@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP03-065_SR",
+  "PackNo": "hBP03",
+  "CardName": "戌神ころね",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>ボクシングスタイル</span>[コラボポジション限定]相手のメインステップの間、自分のセンターホロメンの〈戌神ころね〉のHPは相手の能力で減らず、変動しない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ほらよ～30<spanclass=\"tokkou\"></span></span>自分のエールデッキの上から1枚を、自分の#ゲーマーズを持つホロメンに送る。</p></div></div>"
+}

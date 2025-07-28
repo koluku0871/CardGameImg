@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hYS01-001_OC",
+  "PackNo": "hY01",
+  "CardName": "七詩ムメイ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OC",
+  "Element": "白",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：2消費]<span>ホワイトバトン</span>[ターンに１回]このターンの間、自分の白コラボホロメンのアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：1消費]<span>クイックガード</span>[ゲームに１回]相手のターンで、自分の白ホロメンが相手からダメージを受ける時に使える：そのホロメン１人が受けるダメージ-20。</p></div></div>"
+}

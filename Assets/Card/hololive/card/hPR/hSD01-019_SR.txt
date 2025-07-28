@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD01-019_SR",
+  "PackNo": "hPR",
+  "CardName": "スゴイパソコン",
+  "CardType": "サポート・アイテム・LIMITED",
+  "CardRarity": "SR",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

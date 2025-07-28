@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-088_U",
+  "PackNo": "hBP02",
+  "CardName": "森カリオペの鎌",
+  "CardType": "サポート・ツール",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

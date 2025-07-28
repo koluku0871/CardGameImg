@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP02-001_OUR",
+  "PackNo": "hBP02",
+  "CardName": "白上フブキ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "白",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：2消費]<span>マスコット創造</span>[ターンに1回]自分のデッキから、マスコット1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：2消費]<span>フブキングダム</span>[ゲームに1回]自分の白ホロメンが相手のホロメンをダウンさせた時、自分のステージのマスコット2枚につき、サイコロを1回振れる：奇数が1回以上出たなら、相手のライフ-1。</p></div></div>"
+}

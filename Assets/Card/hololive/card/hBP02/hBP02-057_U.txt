@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP02-057_U",
+  "PackNo": "hBP02",
+  "CardName": "森カリオペ",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>みんなで作る最高のfes</span>自分の手札の同じタグを持つホロメン2枚をアーカイブできる：自分のデッキを2枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>一緒にブチアガろうぜ！50<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

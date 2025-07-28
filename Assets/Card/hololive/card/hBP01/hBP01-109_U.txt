@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP01-109_U",
+  "PackNo": "hBP01",
+  "CardName": "月と兎の物語",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

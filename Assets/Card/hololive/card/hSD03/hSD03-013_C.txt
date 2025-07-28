@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD03-013_C",
+  "PackNo": "hSD03",
+  "CardName": "おかにゃん",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

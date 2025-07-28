@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-078_U",
+  "PackNo": "hBP02",
+  "CardName": "かなた建設",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

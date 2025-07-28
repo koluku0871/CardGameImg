@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD06-012_C",
+  "PackNo": "hSD06",
+  "CardName": "ぽこべぇ",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

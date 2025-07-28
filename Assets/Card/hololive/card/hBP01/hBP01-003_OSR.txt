@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP01-003_OSR",
+  "PackNo": "hBP01",
+  "CardName": "アキ・ローゼンタール",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "緑",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>サバイバルパワー</span>[ターンに１回]自分のデッキから、〈石の斧〉１枚を公開し、自分の緑ホロメンに付ける。そしてデッキをシャッフルする。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>大地の唄</span>[ゲームに１回]自分の緑センターホロメンのHPすべて回復。</p></div></div>"
+}

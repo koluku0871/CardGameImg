@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP03-008_OUR",
+  "PackNo": "hBP03",
+  "CardName": "アユンダ・リス",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "黄",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>ホロライブID一家</span>[ターンに1回]自分の#ID1期生を持つホロメンがダウンした時に使える：自分のデッキを1枚引く。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>がんばり～リス！</span>[ゲームに1回]このターンの間、自分のステージの〈アユンダ・リス〉全員のアーツ+50。</p></div></div>"
+}

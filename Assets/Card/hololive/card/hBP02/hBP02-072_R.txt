@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP02-072_R",
+  "PackNo": "hBP02",
+  "CardName": "魔法少女シオン",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "◇",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>眠れる神秘を我が物に！</span>サイコロを1回振れる：偶数の時、自分のデッキから、イベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>『魔女』の『ホロ』！20<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはBloomできない</p></div></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD02-012_U",
+  "PackNo": "hSD02",
+  "CardName": "いろはにほへっと あやふぶみ",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP02-039_SR",
+  "PackNo": "hBP02",
+  "CardName": "沙花叉クロヱ",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>ぷいぷいぷい～</span>[ターンに1回]このホロメンのアーツ「ホロックスロット」でカードを公開した時、公開したサポートカード1枚を、アーカイブするかわりに手札に加えられる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ホロックスロット20+<spanclass=\"tokkou\"></span></span>自分のデッキの上から3枚を公開できる：公開したホロメン1枚につき、このアーツ+20。そして公開したカードをアーカイブする。</p></div></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-085_S",
+  "PackNo": "hBP02",
+  "CardName": "HOLOLIVE FANTASY",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

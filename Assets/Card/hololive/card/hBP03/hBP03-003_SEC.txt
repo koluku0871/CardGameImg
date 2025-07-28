@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP03-003_SEC",
+  "PackNo": "hBP03",
+  "CardName": "さくらみこ",
+  "CardType": "推しホロメン",
+  "CardRarity": "SEC",
+  "Element": "赤",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>35P帰ってくるのかッ！？って！</span>[ターンに1回]サイコロを1回振れる：1か2か4か6の時、自分のアーカイブの〈35P〉1枚を手札に戻す。3か5の時、自分のアーカイブの〈35P〉2枚を手札に戻す。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>あきらめない心にぇ</span>[ゲームに1回]自分のセンターホロメンの色が赤の時に使える：自分の手札を好きな枚数選んで好きな順でデッキの下に戻す。そして手札が5枚になるまで、自分のデッキを引く。</p></div></div>"
+}

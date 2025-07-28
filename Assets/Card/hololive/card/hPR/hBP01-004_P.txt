@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP01-004_P",
+  "PackNo": "hPR",
+  "CardName": "兎田ぺこら",
+  "CardType": "推しホロメン",
+  "CardRarity": "P",
+  "Element": "緑",
+  "Cost": "6",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>野兎たち～</span>[ターンに１回]相手のターンで、自分のホロメンがダウンした時に使える：自分のダウンしたホロメン１人の緑エールすべてを、自分の他のホロメンに割り振って付け替える。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-3]<span>幸運兎</span>[ゲームに１回]このターンの間、自分のサイコロの目の数すべてを６として扱う。</p></div></div>"
+}

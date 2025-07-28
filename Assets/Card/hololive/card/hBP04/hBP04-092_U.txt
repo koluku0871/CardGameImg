@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP04-092_U",
+  "PackNo": "hBP04",
+  "CardName": "ねぽらぼ",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

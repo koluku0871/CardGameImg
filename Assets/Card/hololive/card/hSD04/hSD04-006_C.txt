@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD04-006_C",
+  "PackNo": "hSD04",
+  "CardName": "癒月ちょこ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>禁断のキッス30<spanclass=\"tokkou\"></span></span>このアーツで相手のホロメンにダメージを与えた時、与えたダメージ10につき、このホロメンのHP10回復。</p></div></div>"
+}

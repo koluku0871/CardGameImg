@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD07-006_C",
+  "PackNo": "hSD07",
+  "CardName": "不知火フレア",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>エルフレンドのさえずり</span>自分のデッキから、〈エルフレンド〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>キミを1番好きなのはわたしぃ～♡30+<spanclass=\"tokkou\"></span></span>自分のライフが3以下の時、このアーツ+30。</p></div></div>"
+}

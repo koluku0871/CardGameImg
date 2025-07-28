@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP03-089_U",
+  "PackNo": "hBP03",
+  "CardName": "ファンミーティング",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

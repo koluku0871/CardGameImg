@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD01-013_P",
+  "PackNo": "hPR",
+  "CardName": "SorAZ",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "白緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>越えたい未来50<spanclass=\"tokkou\"></span></span>サイコロを１回振れる：奇数の時、自分のエールデッキの上から１枚を、このホロメンに送る。偶数の時、自分のデッキを１枚引く。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンは〈ときのそら〉〈AZKi〉としても扱う</p></div></div>"
+}

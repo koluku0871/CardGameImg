@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBD24-011_P",
+  "PackNo": "hPR",
+  "CardName": "ネリッサ・レイヴンクロフト",
+  "CardType": "推しホロメン",
+  "CardRarity": "P",
+  "Element": "紫",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>パープルエンハンス</span>[ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>BirthdayGift～Purple～</span>[ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div></div>"
+}

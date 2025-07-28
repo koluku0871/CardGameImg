@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP04-104_S",
+  "PackNo": "hBP04",
+  "CardName": "スバルドダック",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-101_S",
+  "PackNo": "hBP02",
+  "CardName": "ミオファ",
+  "CardType": "サポート・ファン",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP02-062_S",
+  "PackNo": "hBP02",
+  "CardName": "一伊那尓栖",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>君とタコグラム60<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

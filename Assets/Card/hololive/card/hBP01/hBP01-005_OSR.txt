@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP01-005_OSR",
+  "PackNo": "hBP01",
+  "CardName": "鷹嶺ルイ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "赤",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-X]<span>女幹部の采配</span>[ターンに１回]自分の赤ホロメンの能力で手札をアーカイブする時に使える：アーカイブする手札1枚につき自分のホロパワー1枚を、かわりにアーカイブできる。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>ホークアイ</span>[ゲームに１回]次の相手のターンの間、相手のセンターホロメンとコラボホロメンは、バトンタッチ、移動、交代できない。</p></div></div>"
+}

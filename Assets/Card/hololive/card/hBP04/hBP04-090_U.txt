@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP04-090_U",
+  "PackNo": "hBP04",
+  "CardName": "作業用パソコン",
+  "CardType": "サポート・アイテム・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

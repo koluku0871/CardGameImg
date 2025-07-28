@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-086_S",
+  "PackNo": "hBP02",
+  "CardName": "ホロスパークリング",
+  "CardType": "サポート・ツール",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

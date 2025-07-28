@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP04-005_OSR",
+  "PackNo": "hBP04",
+  "CardName": "ラプラス・ダークネス",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "紫",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>総帥のお仕事</span>[ターンに1回]このターンの間、自分のホロメンの能力でサイコロを1度に3回振る時、そのサイコロの目の数すべてを5として扱う。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-3]<span>我ら秘密結社holoX！</span>[ゲームに1回]自分の#秘密結社holoXを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツは、エールを必要とせずに使える。</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-080_R",
+  "PackNo": "hBP01",
+  "CardName": "星街すいせい",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>雪山の記憶</span>サイコロを１回振れる：奇数の時、相手のHPが40以上減っているバックホロメン１人をダウンさせる（ダウンしても相手のライフは減らない）。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>戦うメイドさん70<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

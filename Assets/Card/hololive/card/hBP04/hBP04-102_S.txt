@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP04-102_S",
+  "PackNo": "hBP04",
+  "CardName": "やめなー",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

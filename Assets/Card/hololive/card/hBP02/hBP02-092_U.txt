@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-092_U",
+  "PackNo": "hBP02",
+  "CardName": "フブラ",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

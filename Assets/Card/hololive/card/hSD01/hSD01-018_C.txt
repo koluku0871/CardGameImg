@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD01-018_C",
+  "PackNo": "hSD01",
+  "CardName": "サブパソコン",
+  "CardType": "サポート・アイテム",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

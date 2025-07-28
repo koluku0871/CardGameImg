@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP01-123_C_02",
+  "PackNo": "hBP01",
+  "CardName": "野うさぎ同盟",
+  "CardType": "サポート・ファン",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

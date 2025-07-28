@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-030_U",
+  "PackNo": "hBP01",
+  "CardName": "IRyS",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ステージを希望で包もう！</span>このターンの間、自分の#Promiseを持つ[センターホロメンとコラボホロメン]のアーツ+30。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>一生懸命歌うから見ててね！40<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

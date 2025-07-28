@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-095_C",
+  "PackNo": "hBP02",
+  "CardName": "ドクロくん",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

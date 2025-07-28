@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-083_S",
+  "PackNo": "hBP02",
+  "CardName": "魔法のタンス",
+  "CardType": "サポート・イベント",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

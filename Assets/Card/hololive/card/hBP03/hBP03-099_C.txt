@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP03-099_C",
+  "PackNo": "hBP03",
+  "CardName": "マグチ",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

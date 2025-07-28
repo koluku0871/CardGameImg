@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD07-010_U",
+  "PackNo": "hSD07",
+  "CardName": "白銀ノエル",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>大物の確証</span>このターンの間、自分のセンターホロメンのアーツ+10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>いっぱい建築したいです20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

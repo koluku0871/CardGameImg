@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-024_R",
+  "PackNo": "hBP04",
+  "CardName": "儒烏風亭らでん",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>冷静沈着</span>[センターポジション限定]相手のメインステップの間、このホロメンのHPは相手の能力で減らず、変動しない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>喝采反芻30<spanclass=\"tokkou\"></span></span>自分のアーカイブのエール1枚をこのホロメンに送れる。</p></div></div>"
+}

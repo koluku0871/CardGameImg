@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP03-005_OSR",
+  "PackNo": "hBP03",
+  "CardName": "常闇トワ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "紫",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>デビルズヴォイス</span>[ターンに1回]このターンの間、自分の#歌を持つ[センターホロメンとコラボホロメン]のアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>悪魔的所業</span>[ゲームに1回]相手のターンで、自分の〈常闇トワ〉がダウンした時に使える：相手のセンターホロメンとコラボホロメンのエール2枚ずつを好きな順でエールデッキの下に戻す。</p></div></div>"
+}

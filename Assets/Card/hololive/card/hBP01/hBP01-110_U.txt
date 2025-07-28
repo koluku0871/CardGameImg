@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP01-110_U",
+  "PackNo": "hBP01",
+  "CardName": "鈍器でぶっ叩くわよ！",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

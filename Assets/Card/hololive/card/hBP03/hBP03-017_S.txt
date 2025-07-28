@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP03-017_S",
+  "PackNo": "hBP03",
+  "CardName": "獅白ぼたん",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>プリペア</span>自分の推しホロメンが〈獅白ぼたん〉の時、自分のエールデッキの上から1枚をアーカイブできる：自分のホロメン1人のHP10回復。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>ぼ。20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

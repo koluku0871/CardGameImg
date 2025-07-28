@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-075_S",
+  "PackNo": "hBP02",
+  "CardName": "アイドルサインペン",
+  "CardType": "サポート・アイテム・LIMITED",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

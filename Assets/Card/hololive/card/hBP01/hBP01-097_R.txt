@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-097_R",
+  "PackNo": "hBP01",
+  "CardName": "不知火フレア",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "◇",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>それは「愛と絆の物語」</span>自分のセンターホロメンとお休みしていないバックホロメン１人を交代させる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>フレア～扉の向こう側へ～20<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはBloomできない</p></div></div>"
+}

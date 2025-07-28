@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-045_U",
+  "PackNo": "hBP01",
+  "CardName": "AZKi",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>Overwrite</span>自分のライフが３以下の間、このホロメンは、自分の手札の２nd〈AZKi〉に、Bloomレベルを無視してBloomできる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>海辺の街できみと20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

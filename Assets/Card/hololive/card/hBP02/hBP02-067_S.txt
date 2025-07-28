@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP02-067_S",
+  "PackNo": "hBP02",
+  "CardName": "ネリッサ・レイヴンクロフト",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ネリッサとお茶会</span>自分のデッキの上から3枚を見る。その中から、#歌を持つホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>コーヒーよりも紅茶です20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

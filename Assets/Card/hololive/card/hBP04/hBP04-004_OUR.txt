@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP04-004_OUR",
+  "PackNo": "hBP04",
+  "CardName": "雪花ラミィ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "青",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-1]<span>愛してる</span>[ターンに1回]相手のターンで、自分のホロメンがダウンした時に使える：そのホロメンに付いているファン1枚を手札に戻す。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-3]<span>ぶーん、バリバリバリバリ</span>[ゲームに1回]自分の〈雪花ラミィ〉1人を選ぶ。このターンの間、選んだホロメンが、相手のホロメン1人に与える特殊ダメージ+100し、選んだホロメンが相手のホロメンをダウンさせた時、自分のデッキを2枚引く。</p></div></div>"
+}

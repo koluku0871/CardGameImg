@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP01-118_C",
+  "PackNo": "hBP01",
+  "CardName": "あん肝",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

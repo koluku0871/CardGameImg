@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD02-002_C",
+  "PackNo": "hSD02",
+  "CardName": "百鬼あやめ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>こんなきり～30<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
+}

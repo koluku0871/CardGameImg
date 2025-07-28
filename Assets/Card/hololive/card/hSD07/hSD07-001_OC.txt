@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD07-001_OC",
+  "PackNo": "hSD07",
+  "CardName": "不知火フレア",
+  "CardType": "推しホロメン",
+  "CardRarity": "OC",
+  "Element": "黄",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>イエローマイク</span>[ターンに1回]このターンの間、自分の黄センターホロメンのアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-1]<span>後は引き受けた！</span>[ゲームに1回]自分のセンターホロメンとお休みしていないバックホロメン1人を交代させる。さらに、バックポジションに移動したホロメンのHP30回復。</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-012_R",
+  "PackNo": "hBP04",
+  "CardName": "博衣こより",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>はい！はい！はい！はい！</span>自分のデッキから、#こよラボを持つサポートカード1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>助手くんとこよはずっと一緒だよ！30<spanclass=\"tokkou\"></span></span>このホロメンに〈こよりの助手くん〉が付いている時、自分のデッキを1枚引く。</p></div></div>"
+}

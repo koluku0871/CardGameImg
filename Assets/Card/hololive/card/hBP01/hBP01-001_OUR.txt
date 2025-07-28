@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP01-001_OUR",
+  "PackNo": "hBP01",
+  "CardName": "天音かなた",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "白",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-3]<span>ぎゅっぎゅっ</span>[ターンに１回]相手のセンターホロメンの残りHPを50にする。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>握りつぶしちゃうぞ</span>[ゲームに１回]このターンの間、自分のホロメン１人のアーツ+50。そのホロメンの色が白の時、さらに、そのアーツ+50。</p></div></div>"
+}

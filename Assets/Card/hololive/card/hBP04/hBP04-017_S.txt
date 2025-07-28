@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-017_S",
+  "PackNo": "hBP04",
+  "CardName": "ラオーラ・パンテーラ",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>正義のピンクパンサー40<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD03-014_C",
+  "PackNo": "hSD03",
+  "CardName": "おにぎりゃー",
+  "CardType": "サポート・ファン",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

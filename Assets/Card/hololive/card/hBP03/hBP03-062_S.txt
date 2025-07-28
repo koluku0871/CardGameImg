@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP03-062_S",
+  "PackNo": "hBP03",
+  "CardName": "戌神ころね",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>ころねダイナー</span>このホロメンのエール1枚をアーカイブできる：自分のデッキから、#ゲーマーズを持つDebutホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>ご注文はこれだでな30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

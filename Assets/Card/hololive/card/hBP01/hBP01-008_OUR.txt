@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP01-008_OUR",
+  "PackNo": "hBP01",
+  "CardName": "こぼ・かなえる",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "青",
+  "Cost": "6",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-1]<span>レイン・シャーマニズム</span>[ターンに１回]自分の青ホロメンの能力でエールをアーカイブした時に使える：相手のホロメン１人に特殊ダメージ20を与える。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-3]<span>雨乞い</span>[ゲームに１回]自分のアーカイブのエール１～５枚を、自分の#IDを持つホロメンに割り振って送る。</p></div></div>"
+}

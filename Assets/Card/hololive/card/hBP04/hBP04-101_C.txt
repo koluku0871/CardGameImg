@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP04-101_C",
+  "PackNo": "hBP04",
+  "CardName": "だいふく",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

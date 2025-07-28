@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP02-090_S",
+  "PackNo": "hBP02",
+  "CardName": "ネジマキツネ",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

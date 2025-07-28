@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-077_U",
+  "PackNo": "hBP01",
+  "CardName": "星街すいせい",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>煌きのワードローブ</span>自分の推しホロメンが〈星街すいせい〉の時、このホロメンの青エール１枚をアーカイブできる：自分のデッキを２枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>新しい衣装30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

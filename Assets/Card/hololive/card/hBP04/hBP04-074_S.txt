@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-074_S",
+  "PackNo": "hBP04",
+  "CardName": "アーニャ・メルフィッサ",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>ADayattheCafé</span>[センターポジション限定]このホロメンと自分のコラボホロメンが受けるダメージ-10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>隣座りますか？20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-099_R",
+  "PackNo": "hBP01",
+  "CardName": "宝鐘マリン",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "◇",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>それは「エジンバラ城」</span>サイコロを１回振れる：奇数の時、相手のセンターホロメンとバックホロメン１人を交代させる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>マリン～扉の向こう側へ～10<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはBloomできない</p></div></div>"
+}

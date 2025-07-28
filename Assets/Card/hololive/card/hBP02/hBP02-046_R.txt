@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP02-046_R",
+  "PackNo": "hBP02",
+  "CardName": "紫咲シオン",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>入れ替えの魔法</span>自分の手札1枚をアーカイブできる：自分のアーカイブの#魔法を持つカード1枚を手札に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>チェンジ・ザ・エール30<spanclass=\"tokkou\"></span></span>サイコロを1回振れる：5以上の時、相手のステージのエール1枚を、相手のホロメンに付け替える。</p></div></div>"
+}

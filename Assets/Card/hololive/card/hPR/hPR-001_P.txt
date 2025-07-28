@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hPR-001_P",
+  "PackNo": "hPR",
+  "CardName": "さくらみこ",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "◇",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>誰かの芽吹きになれたら</span>サイコロを１回振れる：１か３か５の時、自分のエールデッキから、[赤エールか青エール]１枚を公開し、自分のバックホロメンに送る。そしてエールデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>flowerrhapsody10<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはBloomできない</p></div></div>"
+}

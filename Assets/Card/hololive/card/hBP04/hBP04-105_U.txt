@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP04-105_U",
+  "PackNo": "hBP04",
+  "CardName": "こよりの助手くん",
+  "CardType": "サポート・ファン",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

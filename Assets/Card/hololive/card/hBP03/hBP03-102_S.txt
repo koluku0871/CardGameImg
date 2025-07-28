@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP03-102_S",
+  "PackNo": "hBP03",
+  "CardName": "フトイヌ",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

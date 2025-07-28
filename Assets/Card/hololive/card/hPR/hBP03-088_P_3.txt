@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP03-088_P_3",
+  "PackNo": "hPR",
+  "CardName": "凸待ち",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD06-010_U",
+  "PackNo": "hSD06",
+  "CardName": "ラプラス・ダークネス",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>狂気の宴30+<spanclass=\"tokkou\"></span></span>[コラボポジション限定]このターンの自分のメインステップに自分のSP推しスキルを使っていた時、このアーツ+50。</p></div></div>"
+}

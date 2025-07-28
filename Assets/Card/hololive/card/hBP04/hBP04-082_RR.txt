@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-082_RR",
+  "PackNo": "hBP04",
+  "CardName": "夏色まつり",
+  "CardType": "ホロメン",
+  "CardRarity": "RR",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>レッツショッピング</span>自分のステージの異なるカード名の#1期生を持つホロメン1人につき、サイコロを1回振れる：4以上が出た回数1回につき、自分のエールデッキの上から1枚をこのホロメンに送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>お気に入りみつけた60+<spanclass=\"tokkou\"><imgalt=\"白+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_white.png\"/></span></span>このホロメンのエール1枚につき、このアーツ+20。</p></div></div>"
+}

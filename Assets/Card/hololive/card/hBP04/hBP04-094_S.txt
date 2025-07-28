@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP04-094_S",
+  "PackNo": "hBP04",
+  "CardName": "まいたけダンス",
+  "CardType": "サポート・イベント",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

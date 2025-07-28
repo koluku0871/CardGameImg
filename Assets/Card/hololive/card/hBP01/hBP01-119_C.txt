@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP01-119_C",
+  "PackNo": "hBP01",
+  "CardName": "ジョブズ",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

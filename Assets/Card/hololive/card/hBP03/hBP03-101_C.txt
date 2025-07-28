@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP03-101_C",
+  "PackNo": "hBP03",
+  "CardName": "ビビ",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

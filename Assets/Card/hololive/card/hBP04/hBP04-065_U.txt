@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-065_U",
+  "PackNo": "hBP04",
+  "CardName": "古石ビジュー",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>絶世の輝き</span>自分のホロメンの赤エール1枚をアーカイブできる：自分のデッキを2枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>鉱石と採掘者30+<spanclass=\"tokkou\"></span></span>自分のアーカイブに赤エールがある時、このアーツ+20。</p></div></div>"
+}

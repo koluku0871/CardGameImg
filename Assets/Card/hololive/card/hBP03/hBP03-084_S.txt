@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP03-084_S",
+  "PackNo": "hBP03",
+  "CardName": "ゴージャスパソコン",
+  "CardType": "サポート・アイテム・LIMITED",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

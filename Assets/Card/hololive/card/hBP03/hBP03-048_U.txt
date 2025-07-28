@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP03-048_U",
+  "PackNo": "hBP03",
+  "CardName": "火威青",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>僕、カッコいいでしょ？30<spanclass=\"tokkou\"></span></span></p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ReGLOSSのボーイッシュ担当40<spanclass=\"tokkou\"></span></span>このホロメンのエール1枚を、自分の#ReGLOSSを持つバックホロメンに付け替えられる。</p></div></div>"
+}

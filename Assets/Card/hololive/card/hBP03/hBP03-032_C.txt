@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP03-032_C",
+  "PackNo": "hBP03",
+  "CardName": "赤井はあと",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>おつるーじゅ！60<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

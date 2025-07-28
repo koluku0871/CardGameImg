@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP04-001_OUR",
+  "PackNo": "hBP04",
+  "CardName": "博衣こより",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "白",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>こより実験中</span>[ターンに1回]このターンの間、自分の#こよラボを持つサポートカードが付いている〈博衣こより〉1人のアーツ+30。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>助手くん、んーまっ！</span>[ゲームに1回]相手のターンで、自分の〈こよりの助手くん〉が付いている〈博衣こより〉が相手からダメージを受ける時に使える：そのホロメン1人が受けるダメージ-100。</p></div></div>"
+}

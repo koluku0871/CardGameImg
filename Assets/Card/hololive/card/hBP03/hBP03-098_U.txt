@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP03-098_U",
+  "PackNo": "hBP03",
+  "CardName": "金時",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

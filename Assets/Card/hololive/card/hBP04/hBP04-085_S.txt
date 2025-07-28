@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-085_S",
+  "PackNo": "hBP04",
+  "CardName": "桃鈴ねね",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>最高の気分!!!!!!!!!!!!!!</span>自分のエールデッキから、自分のステージの#5期生を持つホロメン1人と同色のエール1枚を公開し、自分の#5期生を持つホロメンに送る。そしてエールデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>いっぱいがんばるぞい!!!!!20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD06-011_C",
+  "PackNo": "hSD06",
+  "CardName": "ﾁｬｷ丸",
+  "CardType": "サポート・ツール",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

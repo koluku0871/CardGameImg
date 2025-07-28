@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hYS01-004_OC",
+  "PackNo": "hY01",
+  "CardName": "星街すいせい",
+  "CardType": "推しホロメン",
+  "CardRarity": "OC",
+  "Element": "青",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：2消費]<span>ブルーバトン</span>[ターンに１回]このターンの間、自分の青コラボホロメンのアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：1消費]<span>バックショット</span>[ゲームに１回]自分のホロメンが相手のバックホロメンにダメージを与えた時に使える：その相手のバックホロメン１人に特殊ダメージ50を与える。</p></div></div>"
+}

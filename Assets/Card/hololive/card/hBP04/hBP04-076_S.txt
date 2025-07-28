@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-076_S",
+  "PackNo": "hBP04",
+  "CardName": "アーニャ・メルフィッサ",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>私から皆さんへの歌</span>自分のアーカイブの〈古代武器〉1枚を自分の〈アーニャ・メルフィッサ〉に付けられる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>応援、よろしくね！30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD02-010_U",
+  "PackNo": "hSD02",
+  "CardName": "白上フブキ",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "◇",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>帰ってきなさーい</span>自分のアーカイブのマスコット1枚を手札に戻せる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>あやふぶみの「ふぶ」担当20<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはBloomできない</p></div></div>"
+}

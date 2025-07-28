@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-084_C",
+  "PackNo": "hBP01",
+  "CardName": "こぼ・かなえる",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>猫になる～50<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

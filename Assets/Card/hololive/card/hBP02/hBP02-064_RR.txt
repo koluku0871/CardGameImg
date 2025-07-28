@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP02-064_RR",
+  "PackNo": "hBP02",
+  "CardName": "一伊那尓栖",
+  "CardType": "Buzzホロメン",
+  "CardRarity": "RR",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>アルカイックスマイル60+<spanclass=\"tokkou\"></span></span>自分のアーカイブに#Mythを持つホロメンが、5枚以上ある時、このホロメンのエール1枚を、自分の他のホロメンに付け替えられる。10枚以上ある時、さらに、このアーツ+50。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンがダウンした時、自分のライフ-2</p></div></div>"
+}

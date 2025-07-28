@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-063_U",
+  "PackNo": "hBP01",
+  "CardName": "小鳥遊キアラ",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>きわわの魔法</span>自分のセンターホロメンが#トリを持つ時、自分の手札１枚をアーカイブできる：自分のデッキから、マスコット１枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>もふもふタイム20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}
