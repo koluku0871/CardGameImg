@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-097",
+  "PackNo": "BT22",
+  "CardName": "心の音楽",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "2",
+  "CardSubType": "アプモン",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをバトルエリアに置く。\n"
+}

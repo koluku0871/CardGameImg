@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-048",
+  "PackNo": "BT22",
+  "CardName": "トゲモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑赤／3"
+  ],
+  "Element": "緑赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "植物型/CS",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

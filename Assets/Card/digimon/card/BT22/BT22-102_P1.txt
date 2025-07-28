@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-102_P1",
+  "PackNo": "BT22",
+  "CardName": "サヨ",
+  "CardRarity": "SEC",
+  "Lv": [],
+  "Element": "紫青",
+  "Cost": "4",
+  "CardSubType": "ナイトクロウ/CS",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

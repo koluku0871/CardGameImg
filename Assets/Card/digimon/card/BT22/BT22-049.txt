@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-049",
+  "PackNo": "BT22",
+  "CardName": "ベジーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "3",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "食虫植物型/DM/Ver.2",
+  "Text": "[進化元効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンを消滅させたとき、アタック終了前にチェックする）\n"
+}

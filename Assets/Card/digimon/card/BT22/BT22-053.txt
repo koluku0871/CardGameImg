@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-053",
+  "PackNo": "BT22",
+  "CardName": "ケラモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Element": "黒",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "不明",
+  "CardSubType": "種族不明/CS",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]「ディアボロモン」の記述があるこのデジモンがバトルエリアを離れるとき、他の自分の「ディアボロモン」1体を消滅させることで、離れない。\n"
+}

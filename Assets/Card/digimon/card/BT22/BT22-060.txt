@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-060",
+  "PackNo": "BT22",
+  "CardName": "ナノモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／3"
+  ],
+  "Element": "黒",
+  "Cost": "6",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "マシーン型/DM/Ver.5",
+  "Text": "[進化元効果]\n【相手のターン終了時】[ターンに1回]相手のデジモン1体を選べる。相手は、選んだデジモンをアタックさせる。\n"
+}

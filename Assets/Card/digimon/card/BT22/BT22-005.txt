@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT22-005",
+  "PackNo": "BT22",
+  "CardName": "ツメモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "種族不明/CS",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]特徴に「種族不明」/「CS」を持つ自分のデジモンが登場したとき、≪1ドロー≫。\n"
+}

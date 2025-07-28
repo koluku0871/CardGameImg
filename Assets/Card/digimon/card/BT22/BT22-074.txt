@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-074",
+  "PackNo": "BT22",
+  "CardName": "デスメラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 紫赤／4"
+  ],
+  "Element": "紫赤",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "データ種",
+  "CardSubType": "火炎型/CS",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、特徴に「火炎型」/「CS」を持つLv.4以下のデジモンカード1枚をコストを支払わずに登場できる。\n"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-029_P1",
+  "PackNo": "BT22",
+  "CardName": "シューモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黄／0"
+  ],
+  "Element": "黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "パペット型/リベレイター",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

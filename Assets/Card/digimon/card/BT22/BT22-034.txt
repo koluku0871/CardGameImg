@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-034",
+  "PackNo": "BT22",
+  "CardName": "レッパモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Element": "黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型/CS",
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]ターン終了まで、相手のデジモン1体をDP-2000。\n"
+}

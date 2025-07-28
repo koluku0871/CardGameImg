@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-070",
+  "PackNo": "BT22",
+  "CardName": "ダークティラノモンX抗体",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫緑／3"
+  ],
+  "Element": "紫緑",
+  "Cost": "6",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "恐竜型/X抗体",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンがバトルで相手のデジモンを消滅させたとき、メモリー+1。\n"
+}

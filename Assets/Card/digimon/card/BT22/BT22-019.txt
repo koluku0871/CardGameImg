@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-019",
+  "PackNo": "BT22",
+  "CardName": "ブイモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "R",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Element": "青",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "フリー",
+  "CardSubType": "小竜型/CS",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]名称に「ブイドラモン」を含むこのデジモンが相手の効果でバトルエリアを離れるとき、このデジモンをレストさせることで、離れない。\n"
+}

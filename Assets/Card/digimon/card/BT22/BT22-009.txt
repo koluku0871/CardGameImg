@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-009",
+  "PackNo": "BT22",
+  "CardName": "エフェクモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Element": "赤",
+  "Cost": "4",
+  "CardCategory": "超/アプモン",
+  "CardType": "エンタメ",
+  "CardSubType": "エフェクト",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】【進化時】DP4000以下の相手のデジモン1体を消滅させる。\n"
+}

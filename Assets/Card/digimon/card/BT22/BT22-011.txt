@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-011",
+  "PackNo": "BT22",
+  "CardName": "ブルーメラモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 赤紫／4"
+  ],
+  "Element": "赤紫",
+  "Cost": "7",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "火炎型/CS",
+  "Text": "[進化元効果]\n【自分のターン】特徴に「火炎型」/「CS」を持つこのデジモンは≪連携≫を得る。\n"
+}

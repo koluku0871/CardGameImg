@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT22-002",
+  "PackNo": "BT22",
+  "CardName": "キャロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黄",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/リベレイター",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分のトークンか特徴に「パペット型」を持つ他の自分のデジモンが消滅したとき、≪1ドロー≫。\n"
+}

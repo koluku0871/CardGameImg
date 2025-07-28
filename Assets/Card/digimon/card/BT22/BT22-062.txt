@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-062",
+  "PackNo": "BT22",
+  "CardName": "メタルティラノモンX抗体",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [
+    "LV4 : 黒緑／4"
+  ],
+  "Element": "黒緑",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "サイボーグ型/X抗体",
+  "Text": "[進化元効果]\n【相手のターン終了時】[ターンに1回]相手のデジモン1体を選べる。相手は、選んだデジモンをアタックさせる。\n"
+}

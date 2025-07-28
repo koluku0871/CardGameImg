@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-084_P1",
+  "PackNo": "BT22",
+  "CardName": "白峰ノキア",
+  "CardRarity": "SR",
+  "Lv": [],
+  "Element": "赤青",
+  "Cost": "5",
+  "CardSubType": "CS",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

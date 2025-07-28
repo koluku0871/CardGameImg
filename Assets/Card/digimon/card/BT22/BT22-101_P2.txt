@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-101_P2",
+  "PackNo": "BT22",
+  "CardName": "暮海杏子",
+  "CardRarity": "SEC",
+  "Lv": [],
+  "Element": "黒黄",
+  "Cost": "5",
+  "CardSubType": "CS",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-090_P1",
+  "PackNo": "BT22",
+  "CardName": "岸部リエ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "3",
+  "CardSubType": "CS",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

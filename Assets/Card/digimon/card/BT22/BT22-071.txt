@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-071",
+  "PackNo": "BT22",
+  "CardName": "デビモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 紫赤／3"
+  ],
+  "Element": "紫赤",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "堕天使型/CS",
+  "Text": "[進化元効果]\n【消滅時】自分のトラッシュから、特徴に「火炎型」/「CS」を持つデジモンカード1枚を手札に戻せる。\n"
+}

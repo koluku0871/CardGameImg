@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-031",
+  "PackNo": "BT22",
+  "CardName": "ゴールドヌメモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 黄黒／3"
+  ],
+  "Element": "黄黒",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "突然変異型/CS",
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]このデジモンが特徴に「CS」を持つデジモンカードに進化するとき、支払う進化コスト-1。\n"
+}

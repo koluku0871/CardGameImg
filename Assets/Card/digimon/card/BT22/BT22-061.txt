@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-061",
+  "PackNo": "BT22",
+  "CardName": "ベーダモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "C",
+  "Lv": [
+    "LV4 : 黒／4"
+  ],
+  "Element": "黒",
+  "Cost": "8",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "宇宙人型/DM/Ver.2",
+  "Text": "[進化元効果]\n【相手のターン】[ターンに1回]相手のデジモンがアタックしたとき、アタックの対象をこのデジモンに変更できる。\n"
+}

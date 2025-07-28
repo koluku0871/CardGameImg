@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-010",
+  "PackNo": "BT22",
+  "CardName": "メラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 赤紫／3"
+  ],
+  "Element": "赤紫",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "データ種",
+  "CardSubType": "火炎型/CS",
+  "Text": "[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n"
+}

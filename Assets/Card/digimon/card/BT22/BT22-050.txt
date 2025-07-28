@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-050",
+  "PackNo": "BT22",
+  "CardName": "ロアモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑／2"
+  ],
+  "Element": "緑",
+  "Cost": "4",
+  "CardCategory": "超/アプモン",
+  "CardType": "ツール",
+  "CardSubType": "ボイスチェンジ",
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】【進化時】相手のデジモン1体をレストさせる。\n"
+}

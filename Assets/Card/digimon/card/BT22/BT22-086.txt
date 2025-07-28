@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-086",
+  "PackNo": "BT22",
+  "CardName": "姚青嵐",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "3",
+  "CardSubType": "リベレイター",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

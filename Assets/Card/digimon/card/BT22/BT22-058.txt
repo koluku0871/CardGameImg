@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-058",
+  "PackNo": "BT22",
+  "CardName": "ドリーモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Element": "黒",
+  "Cost": "4",
+  "CardCategory": "超/アプモン",
+  "CardType": "エンタメ",
+  "CardSubType": "夢",
+  "Text": "[効果]\n【お互いのターン】[ターンに1回]このデジモンがリンクしたとき、相手のターン終了まで、自分のデジモン1体は相手の効果で手札/デッキに戻らない。\n"
+}

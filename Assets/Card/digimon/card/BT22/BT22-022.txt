@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-022",
+  "PackNo": "BT22",
+  "CardName": "ブイドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Element": "青",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "幻竜型/CS",
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]名称に「ブイドラモン」を含むこのデジモンが相手の効果でバトルエリアを離れるとき、このデジモンをレストさせることで、離れない。\n"
+}

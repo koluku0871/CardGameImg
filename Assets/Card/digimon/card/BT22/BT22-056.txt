@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-056",
+  "PackNo": "BT22",
+  "CardName": "ガードロモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒黄／3"
+  ],
+  "Element": "黒黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "フリー",
+  "CardSubType": "マシーン型/CS",
+  "Text": "[進化元効果]\n【相手のターン】このデジモンをDP+2000。\n"
+}

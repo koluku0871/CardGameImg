@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-085_P1",
+  "PackNo": "BT22",
+  "CardName": "四ノ宮リナ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "青",
+  "Cost": "4",
+  "CardSubType": "CS",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

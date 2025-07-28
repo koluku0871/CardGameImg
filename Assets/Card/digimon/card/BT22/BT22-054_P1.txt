@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-054_P1",
+  "PackNo": "BT22",
+  "CardName": "ハグルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 黒黄／1"
+  ],
+  "Element": "黒黄",
+  "Cost": "3",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "マシーン型/CS",
+  "Text": "[進化元効果]\n【メイン】[ターンに1回]特徴に「CS」を持つこのデジモンに重ねられているカードを上から1枚このデジモンの進化元の下に置くことで、≪1ドロー≫。\n"
+}

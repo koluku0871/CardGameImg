@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "BT22-080",
+  "PackNo": "BT22",
+  "CardName": "イーター（人型形態）",
+  "CardLevel": "Lv.-",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "6",
+  "CardCategory": "イーター",
+  "CardSubType": "CS",
+  "Text": "[進化元効果]\n{育成}【自分のターン】[ターンに1回]特徴に「イーター」を持つデジモンカードが登場するとき、支払う登場コスト-1できる。\n"
+}

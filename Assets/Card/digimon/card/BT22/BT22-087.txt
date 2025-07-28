@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-087",
+  "PackNo": "BT22",
+  "CardName": "飛鳥虎次郎",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黄",
+  "Cost": "3",
+  "CardSubType": "アプリドライヴァー/アプモン",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

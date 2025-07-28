@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-100",
+  "PackNo": "BT22",
+  "CardName": "電脳空間EDEN",
+  "CardRarity": "C",
+  "Lv": [],
+  "Element": "黒",
+  "Cost": "2",
+  "CardSubType": "CS",
+  "Text": "[セキュリティ効果]\n【セキュリティ】自分の手札から、特徴に「CS」を持つ登場コスト5以下のカード1枚をコストを支払わずに登場できる。\n"
+}

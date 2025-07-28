@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-094_P2",
+  "PackNo": "BT22",
+  "CardName": "神代勇吾",
+  "CardRarity": "U",
+  "Lv": [],
+  "Element": "白",
+  "Cost": "3",
+  "CardSubType": "CS",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "CardNo": "BT22-089",
+  "PackNo": "BT22",
+  "CardName": "御神楽ミレイ",
+  "CardRarity": "R",
+  "Lv": [],
+  "Element": "黄紫",
+  "Cost": "3",
+  "CardSubType": "CS",
+  "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n"
+}

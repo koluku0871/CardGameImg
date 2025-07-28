@@ -1,0 +1,16 @@
+﻿{
+  "CardNo": "BT22-046",
+  "PackNo": "BT22",
+  "CardName": "ガルゴモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 緑黄／3"
+  ],
+  "Element": "緑黄",
+  "Cost": "5",
+  "CardCategory": "成熟期",
+  "CardType": "ワクチン種",
+  "CardSubType": "獣人型/CS",
+  "Text": "[進化元効果]\n【お互いのターン】このデジモンをDP+1000。\n"
+}
