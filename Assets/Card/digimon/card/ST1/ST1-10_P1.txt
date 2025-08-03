@@ -5,6 +5,7 @@
   "CardLevel": "Lv.6",
   "CardRarity": "R",
   "Lv": [],
+  "Text": "",
   "Element": "赤",
   "Cost": "10",
   "CardCategory": "究極体",

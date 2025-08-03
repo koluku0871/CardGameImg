@@ -7,10 +7,10 @@
   "Lv": [
     "LV3 : 黒／2"
   ],
+  "Text": "[効果]\n【お互いのターン】黒の自分のデジモン全てのDPを+1000する。\n",
   "Element": "黒",
   "Cost": "4",
   "CardCategory": "成熟期",
   "CardType": "ウィルス種",
-  "CardSubType": "鉱物型",
-  "Text": "[効果]\n【お互いのターン】黒の自分のデジモン全てのDPを+1000する。\n"
+  "CardSubType": "鉱物型"
 }

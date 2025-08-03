@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】このデジモンの進化元に赤以外のカードがある間、このデジモンをDP+1000。\n",
   "Element": "赤",
   "CardCategory": "幼年期",
-  "CardSubType": "火炎型",
-  "Text": "[進化元効果]\n【自分のターン】このデジモンの進化元に赤以外のカードがある間、このデジモンをDP+1000。\n"
+  "CardSubType": "火炎型"
 }

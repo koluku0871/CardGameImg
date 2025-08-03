@@ -5,8 +5,8 @@
   "CardLevel": "LV.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが≪貫通≫を持つ間、このデジモンのDPを+2000する。\n",
   "Element": "赤",
   "CardCategory": "幼年期",
-  "CardSubType": "幼竜型",
-  "Text": "[進化元効果]\n【自分のターン】このデジモンが≪貫通≫を持つ間、このデジモンのDPを+2000する。\n"
+  "CardSubType": "幼竜型"
 }

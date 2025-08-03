@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】自分のデジモンが2体以上いる間、このデジモンをDP+1000。\n",
   "Element": "赤",
   "CardCategory": "幼年期",
-  "CardSubType": "レッサー型",
-  "Text": "[進化元効果]\n【自分のターン】自分のデジモンが2体以上いる間、このデジモンをDP+1000。\n"
+  "CardSubType": "レッサー型"
 }

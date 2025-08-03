@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【相手のターン】このデジモンが≪ブロッカー≫を持つ間、このデジモンをDP+1000。\n",
   "Element": "黒",
   "CardCategory": "幼年期",
-  "CardSubType": "鉱石型",
-  "Text": "[進化元効果]\n【相手のターン】このデジモンが≪ブロッカー≫を持つ間、このデジモンをDP+1000。\n"
+  "CardSubType": "鉱石型"
 }

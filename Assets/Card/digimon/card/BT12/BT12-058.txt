@@ -7,10 +7,10 @@
   "Lv": [
     "LV2 : 黒／0"
   ],
+  "Text": "[特殊進化]\n〔進化〕≪セーブ≫の記述があるLv.2から0\n",
   "Element": "黒",
   "Cost": "2",
   "CardCategory": "成長期",
   "CardType": "ワクチン種",
-  "CardSubType": "突然変異型",
-  "Text": "[特殊進化]\n〔進化〕≪セーブ≫の記述があるLv.2から0\n"
+  "CardSubType": "突然変異型"
 }

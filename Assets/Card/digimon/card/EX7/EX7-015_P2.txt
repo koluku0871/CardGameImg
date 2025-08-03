@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "EX7-015_P2",
+  "PackNo": "EX7",
+  "CardName": "オタマモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "U",
+  "Lv": [
+    "LV2 : 青緑／0"
+  ],
+  "Text": "[特殊進化]\n〔進化〕特徴に「NSp」を持つLv.2:コスト0\n[効果]\n【お互いのターン】お互いは支払う登場コストをマイナスできない。\n",
+  "Element": "青",
+  "CardCategory": "成長期",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型/NSp"
+}

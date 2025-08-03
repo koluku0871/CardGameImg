@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]メモリーが0なら、メモリー+1。\n",
   "Element": "青",
   "CardCategory": "幼年期",
-  "CardSubType": "レッサー型/DS",
-  "Text": "[進化元効果]\n【アタック時】[ターンに1回]メモリーが0なら、メモリー+1。\n"
+  "CardSubType": "レッサー型/DS"
 }

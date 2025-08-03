@@ -7,10 +7,10 @@
   "Lv": [
     "LV2 : 黒／0"
   ],
+  "Text": "[効果]\n≪ブロッカー≫\n",
   "Element": "黒",
   "Cost": "4",
   "CardCategory": "成長期",
   "CardType": "ウィルス種",
-  "CardSubType": "サイボーグ型/D-ブリガード",
-  "Text": "[効果]\n≪ブロッカー≫\n"
+  "CardSubType": "サイボーグ型/D-ブリガード"
 }

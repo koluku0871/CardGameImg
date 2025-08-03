@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【消滅時】自分の手札からLv.5以上のデジモンカード1枚を破棄することで、≪2ドロー≫。\n",
   "Element": "紫",
   "CardCategory": "幼年期",
-  "CardSubType": "火炎型",
-  "Text": "[進化元効果]\n【消滅時】自分の手札からLv.5以上のデジモンカード1枚を破棄することで、≪2ドロー≫。\n"
+  "CardSubType": "火炎型"
 }

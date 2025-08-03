@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】黒の自分のテイマーがいる間、このデジモンをDP+1000。\n",
   "Element": "黒",
   "CardCategory": "幼年期",
-  "CardSubType": "幼竜型",
-  "Text": "[進化元効果]\n【自分のターン】黒の自分のテイマーがいる間、このデジモンをDP+1000。\n"
+  "CardSubType": "幼竜型"
 }

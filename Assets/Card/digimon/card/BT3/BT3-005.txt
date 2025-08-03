@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンがLv.7のとき、メモリーを+1する。\n",
   "Element": "黒",
   "CardCategory": "幼年期",
-  "CardSubType": "防具型",
-  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンがLv.7のとき、メモリーを+1する。\n"
+  "CardSubType": "防具型"
 }

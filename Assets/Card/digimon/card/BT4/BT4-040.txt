@@ -7,6 +7,7 @@
   "Lv": [
     "LV3 : 黄／2"
   ],
+  "Text": "",
   "Element": "黄",
   "Cost": "5",
   "CardCategory": "成熟期",

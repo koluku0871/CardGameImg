@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT14-009_P1",
+  "PackNo": "BT14",
+  "CardName": "ゴツモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Text": "[効果]\n【お互いのターン】お互いはデジモンを効果で登場できない。\n",
+  "Element": "赤",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "鉱石型"
+}

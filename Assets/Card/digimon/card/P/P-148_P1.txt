@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "P",
   "Lv": [],
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが特徴に「NSp」を持つなら、≪1ドロー≫。\n",
   "Element": "青",
   "CardCategory": "幼年期",
-  "CardSubType": "レッサー型/NSp",
-  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが特徴に「NSp」を持つなら、≪1ドロー≫。\n"
+  "CardSubType": "レッサー型/NSp"
 }

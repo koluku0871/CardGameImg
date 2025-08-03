@@ -7,10 +7,10 @@
   "Lv": [
     "LV2 : 緑／0"
   ],
+  "Text": "[進化元効果]\n【自分のターン】このデジモンのDPを+1000する。\n",
   "Element": "緑",
   "Cost": "3",
   "CardCategory": "成長期",
   "CardType": "ワクチン種",
-  "CardSubType": "爬虫類型",
-  "Text": "[進化元効果]\n【自分のターン】このデジモンのDPを+1000する。\n"
+  "CardSubType": "爬虫類型"
 }

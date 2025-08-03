@@ -7,10 +7,10 @@
   "Lv": [
     "LV2 : 赤／0"
   ],
+  "Text": "[効果]\n【登場時】DP2000以下の相手のデジモン1体を消滅させる。\n",
   "Element": "赤",
   "Cost": "3",
   "CardCategory": "成長期",
   "CardType": "ウィルス種",
-  "CardSubType": "鬼人型",
-  "Text": "[効果]\n【登場時】DP2000以下の相手のデジモン1体を消滅させる。\n"
+  "CardSubType": "鬼人型"
 }

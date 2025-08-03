@@ -7,10 +7,10 @@
   "Lv": [
     "LV3 : 黒／2"
   ],
+  "Text": "[進化元効果]\n【相手のターン】このデジモンのDPを+1000する。\n",
   "Element": "黒",
   "Cost": "5",
   "CardCategory": "成熟期",
   "CardType": "データ種",
-  "CardSubType": "マシーン型",
-  "Text": "[進化元効果]\n【相手のターン】このデジモンのDPを+1000する。\n"
+  "CardSubType": "マシーン型"
 }

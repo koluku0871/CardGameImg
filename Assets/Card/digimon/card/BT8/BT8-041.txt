@@ -7,6 +7,7 @@
   "Lv": [
     "LV4 : 黄紫／3"
   ],
+  "Text": "",
   "Element": "黄紫",
   "Cost": "7",
   "CardCategory": "完全体",

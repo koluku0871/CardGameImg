@@ -7,6 +7,7 @@
   "Lv": [
     "LV2 : 赤／0"
   ],
+  "Text": "",
   "Element": "赤",
   "Cost": "4",
   "CardCategory": "成長期",

@@ -7,10 +7,10 @@
   "Lv": [
     "LV4 : 紫／3"
   ],
+  "Text": "[効果]\n〔進化〕「ヴァンデモン」:コスト0\n",
   "Element": "紫",
   "Cost": "8",
   "CardCategory": "完全体",
   "CardType": "ウィルス種",
-  "CardSubType": "アンデッド型/X抗体",
-  "Text": "[効果]\n〔進化〕「ヴァンデモン」:コスト0\n"
+  "CardSubType": "アンデッド型/X抗体"
 }

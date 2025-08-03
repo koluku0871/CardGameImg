@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】このデジモンが≪デジバースト≫を持つ間、このデジモンのDPを+1000する。\n",
   "Element": "緑",
   "CardCategory": "幼年期",
-  "CardSubType": "植物型",
-  "Text": "[進化元効果]\n【自分のターン】このデジモンが≪デジバースト≫を持つ間、このデジモンのDPを+1000する。\n"
+  "CardSubType": "植物型"
 }

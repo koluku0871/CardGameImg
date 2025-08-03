@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】自分のテイマーがいる間、このデジモンのDPを+1000する。\n",
   "Element": "赤",
   "CardCategory": "幼年期",
-  "CardSubType": "レッサー型",
-  "Text": "[進化元効果]\n【自分のターン】自分のテイマーがいる間、このデジモンのDPを+1000する。\n"
+  "CardSubType": "レッサー型"
 }

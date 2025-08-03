@@ -5,8 +5,8 @@
   "CardLevel": "Lv.2",
   "CardRarity": "U",
   "Lv": [],
+  "Text": "[進化元効果]\n【アタック時】DP1000以下の相手のデジモン1体を消滅させる。\n",
   "Element": "赤",
   "CardCategory": "幼年期",
-  "CardSubType": "小鳥型",
-  "Text": "[進化元効果]\n【アタック時】DP1000以下の相手のデジモン1体を消滅させる。\n"
+  "CardSubType": "小鳥型"
 }

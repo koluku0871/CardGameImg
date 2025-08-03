@@ -7,6 +7,7 @@
   "Lv": [
     "LV5 : 緑黄／3"
   ],
+  "Text": "",
   "Element": "緑黄",
   "Cost": "10",
   "CardCategory": "究極体",

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT8-059_P1",
+  "PackNo": "BT8",
+  "CardName": "コクワモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 黒／0"
+  ],
+  "Text": "[効果]\n【お互いのターン】お互いは進化条件を無視できない。\n",
+  "Element": "黒",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "マシーン型"
+}

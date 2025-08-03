@@ -7,10 +7,10 @@
   "Lv": [
     "LV3 : 緑／2"
   ],
+  "Text": "[特殊進化]\n〔進化〕「ガンマモン」:コスト2\n[効果]\n≪貫通≫\n",
   "Element": "緑",
   "Cost": "5",
   "CardCategory": "成熟期",
   "CardType": "データ種",
-  "CardSubType": "角竜型",
-  "Text": "[効果]\n≪貫通≫\n"
+  "CardSubType": "角竜型"
 }

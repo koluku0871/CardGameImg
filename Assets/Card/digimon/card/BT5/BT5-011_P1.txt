@@ -7,10 +7,10 @@
   "Lv": [
     "LV3 : 赤／2"
   ],
+  "Text": "[効果]\n【進化時】このターンの間、他の自分のデジモン1体をDP+3000。\n",
   "Element": "赤",
   "Cost": "5",
   "CardCategory": "成熟期",
   "CardType": "データ種",
-  "CardSubType": "火炎型",
-  "Text": "[効果]\n【進化時】このターンの間、他の自分のデジモン1体をDP+3000。\n"
+  "CardSubType": "火炎型"
 }
