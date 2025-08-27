@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP03-093_02_P",
+  "PackNo": "hPR",
+  "CardName": "ホロライブ4期生",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

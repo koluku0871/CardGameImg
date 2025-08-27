@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD09-001_OC",
+  "PackNo": "hSD09",
+  "CardName": "宝鐘マリン",
+  "CardType": "推しホロメン",
+  "CardRarity": "OC",
+  "Element": "赤",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>レッドマイク</span>[ターンに1回]このターンの間、自分の赤センターホロメンのアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-1]<span>さあ！もう一度！</span>[ゲームに1回]自分のアーカイブの赤ホロメン1枚を手札に戻す。</p></div></div>"
+}

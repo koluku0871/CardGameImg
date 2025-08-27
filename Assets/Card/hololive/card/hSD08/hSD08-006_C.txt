@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD08-006_C",
+  "PackNo": "hSD08",
+  "CardName": "常闇トワ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>花火見ていく？</span>相手のセンターホロメンに特殊ダメージ10を与える。自分が後攻で最初のターンなら、かわりに、相手のセンターホロメンに特殊ダメージ20を与える。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>トワに見惚れちゃった？20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

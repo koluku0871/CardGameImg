@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP01-114_P",
+  "PackNo": "hPR",
+  "CardName": "石の斧",
+  "CardType": "サポート・ツール",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

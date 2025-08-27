@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD09-006_P",
+  "PackNo": "hPR",
+  "CardName": "兎田ぺこら",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>あんたたち働くぺこー！</span>自分が後攻で最初のターンなら、自分のエールデッキの上から1枚を、自分の#3期生を持つホロメンに送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ご注文のかき氷ぺこ！10<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

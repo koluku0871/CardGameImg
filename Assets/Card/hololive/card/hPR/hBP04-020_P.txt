@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-020_P",
+  "PackNo": "hPR",
+  "CardName": "儒烏風亭らでん",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>儒烏風亭一門は前座見習い！20<spanclass=\"tokkou\"></span></span></p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>儒烏風亭らでんでございます！40<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
+}
