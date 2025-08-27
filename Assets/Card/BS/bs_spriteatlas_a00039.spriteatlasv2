@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!612988286 &1
+SpriteAtlasAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  serializedVersion: 2
+  m_MasterAtlas: {fileID: 0}
+  m_ImporterData:
+    packables:
+    - {fileID: 102900000, guid: 313b7d6d656bea64d851d0f2dcc79afd, type: 3}
+    - {fileID: 102900000, guid: 7be164d9ef7bc634698494e76a7cda54, type: 3}
+    - {fileID: 102900000, guid: 2028e30773b7a264cbaca65ca2bc9f36, type: 3}
+    - {fileID: 102900000, guid: 02324858b2013f94f812bcc244533b81, type: 3}
+    - {fileID: 102900000, guid: 04206709263f81744b5434584d04709d, type: 3}
+    - {fileID: 102900000, guid: e187e35474f28264287c8e5d0fb6551a, type: 3}
+    - {fileID: 102900000, guid: 31e376c19b7f4334fbf664b48a2dec82, type: 3}
+    - {fileID: 102900000, guid: ca89e732ad076864d878e3df4cb8a944, type: 3}
+    - {fileID: 102900000, guid: 98ec621c3ee51a1489208c34ad8951a6, type: 3}
+    - {fileID: 102900000, guid: bc43cef950f4d43428239103e00d647b, type: 3}
+    - {fileID: 102900000, guid: 8cd043124f14bb648ad08f1d72f408be, type: 3}
+    - {fileID: 102900000, guid: cc06b50b82a4e1a4fa334e06ee578bd5, type: 3}
+    - {fileID: 102900000, guid: c222068d338da064ebb943fdbeeddcb1, type: 3}
+    - {fileID: 102900000, guid: 7ad84e11e5e90a84ca7b4601ae0d2ccd, type: 3}
+    - {fileID: 102900000, guid: ace3bfac4b4627943b11c6a846deb954, type: 3}
+    - {fileID: 102900000, guid: 56c15e5d7f3d637408f57c137696e5d3, type: 3}
+    - {fileID: 102900000, guid: 81fc1284eb9c52246a39438579173248, type: 3}
+    - {fileID: 102900000, guid: 1b00c6538657bcd4db44487b69a22f4c, type: 3}
+    - {fileID: 102900000, guid: 6f4d012657ada394e927f2d13cb3b455, type: 3}
+    - {fileID: 102900000, guid: abd5856bdb0eeea4ebb1859186726dd3, type: 3}
+    - {fileID: 102900000, guid: 33eb8945d45a83a4b91af18e0b3e0efe, type: 3}
+    - {fileID: 102900000, guid: f98e669a05afb464792a67ba62fddcf7, type: 3}
+  m_IsVariant: 0
+  m_ScriptablePacker: {fileID: 0}
