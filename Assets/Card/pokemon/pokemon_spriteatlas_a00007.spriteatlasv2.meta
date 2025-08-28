@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 741850652ca4fc4479d5791e956dd896
+guid: f26ed4d50bd6df44aa23d4fe8e8e1120
 SpriteAtlasImporter:
   externalObjects: {}
   textureSettings:
@@ -40,4 +40,4 @@ SpriteAtlasImporter:
   bindAsDefault: 1
   userData: 
   assetBundleName: pokemon_spriteatlas_
-  assetBundleVariant: a00035
+  assetBundleVariant: a00007
