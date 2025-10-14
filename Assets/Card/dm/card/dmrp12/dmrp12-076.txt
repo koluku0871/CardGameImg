@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp12-076",
+  "PackNo": "dmrp12",
+  "CardName": "貝獣オイッス(DMRP1276/104)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ムートピア",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）"
+}

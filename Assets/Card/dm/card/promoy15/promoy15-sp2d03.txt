@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-sp2d03",
+  "PackNo": "promoy15",
+  "CardName": "ナチュラル・トラップ(DMCOROCOROY153/13)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー。バトルゾーンにある相手のクリーチャーを１体選び、持ち主のマナゾーンに置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy23-109",
+  "PackNo": "promoy23",
+  "CardName": "ミステリー・キューブ(DMPROMOY23P109/Y23)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー自分の山札をシャッフルし、その後、上から１枚を表向きにする。それがクリーチャーなら出してもよい。クリーチャーでなければマナゾーンに置く。"
+}

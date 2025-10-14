@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp22-040",
+  "PackNo": "dmrp22",
+  "CardName": "焔流トレーニング(DMRP2240/76)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のクリーチャーを１体選ぶ。このターン、そのクリーチャーが攻撃することによって、そのクリーチャーの能力がトリガーする時、その能力は１度のかわりに２度トリガーする。"
+}

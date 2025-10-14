@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp15-003",
+  "PackNo": "dmrp15",
+  "CardName": "偽りの月を盗むファントム(DMRP153/95)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "5",
+  "CardSubType": "6000",
+  "CardCategory": "デーモン・コマンド/月光王国",
+  "Text": "ブロッカーW・ブレイカーオシオキムーン：カードが自分のシールドゾーンを離れた時、相手は自身の手札を２枚選び、捨てる。"
+}

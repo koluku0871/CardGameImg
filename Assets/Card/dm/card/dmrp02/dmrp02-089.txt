@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-089",
+  "PackNo": "dmrp02",
+  "CardName": "つたりおん(DMRP0289/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "グランセクト",
+  "Text": "自分の他のグランセクトすべてのパワーを+3000する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex19-067",
+  "PackNo": "dmex19",
+  "CardName": "ガガガン・ジョーカーズ(DMEX1967/68)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "ジョーカーズ",
+  "Text": "自分の山札の上から３枚を見る。その中からクリーチャーを１体選び、相手に見せてから手札に加えてもよい。その後、残りを好きな順序で山札の下に置く。"
+}

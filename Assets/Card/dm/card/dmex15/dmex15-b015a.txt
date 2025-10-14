@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-b015a",
+  "PackNo": "dmex15",
+  "CardName": "魔刻の騎士オルゲイト/「全員、地獄送りだ!!」(DMEX1515/100)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "W・ブレイカー自分のクリーチャーが破壊された時、このクリーチャーをアンタップしてもよい。"
+}

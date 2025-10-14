@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-016",
+  "PackNo": "dm14",
+  "CardName": "ゲット・レディ(DM1416/110)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手の手札が自分の手札より多ければ、相手の手札と同じ枚数になるまでカードを引く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp1-TD04",
+  "PackNo": "dm25rp1",
+  "CardName": "キリモミ・ヤマアラシ(DM25RP1TD4/TD5)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、次に召喚する自分のクリーチャーのコストを１少なくする。ただし、コストは０以下にはならない。そのクリーチャーが出た時、このターンの終わりまで、そのクリーチャーに「スピードアタッカー」を与える。"
+}

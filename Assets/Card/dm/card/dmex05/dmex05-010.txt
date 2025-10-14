@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex05-010",
+  "PackNo": "dmex05",
+  "CardName": "キョム乙-二式(DMEX0510/87)",
+  "CardType": "GRクリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング/デリートロン",
+  "Text": "（ゲーム開始時、GRクリーチャーは山札には含めず、自分の超GRに置き、バトルゾーン以外のゾーンに行った場合、超GRの一番下に戻す）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmart14-004a",
+  "PackNo": "dmart14",
+  "CardName": "応援妖精エール/「みんな一緒に応援してね！」(DMART144/6)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーが出た時、自分のマナゾーンのカードを２枚までアンタップする。"
+}

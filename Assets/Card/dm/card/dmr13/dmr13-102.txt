@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-102",
+  "PackNo": "dmr13",
+  "CardName": "爆流剣術炎熱の技(DMR13102/110)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のパワー2000以下のクリーチャーを１体破壊する。"
+}

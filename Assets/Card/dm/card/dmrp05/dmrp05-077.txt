@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-077",
+  "PackNo": "dmrp05",
+  "CardName": "臓裂虫テンタイク・ワーム(DMRP0577/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "パラサイトワーム",
+  "Text": ""
+}

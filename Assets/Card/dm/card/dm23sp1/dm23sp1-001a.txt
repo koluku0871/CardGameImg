@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23sp1-001a",
+  "PackNo": "dm23sp1",
+  "CardName": "スパトー:ド:スパトゥー/邪暴乱舞(DM23SP11/17)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "OR",
+  "Cost": "5",
+  "CardSubType": "8000",
+  "CardCategory": "ノワールアビス",
+  "Text": "アビスラッシュW・ブレイカーこのクリーチャーが離れた時、アビス・メクレイド８する。"
+}

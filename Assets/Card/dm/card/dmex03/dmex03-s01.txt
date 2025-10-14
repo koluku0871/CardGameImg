@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex03-s01",
+  "PackNo": "dmex03",
+  "CardName": "あたりポンの助(DMEX03S1/S10)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "W・ブレイカーこのクリーチャーがバトルゾーンに出た時、《あたりポンの助》以外のクリーチャーのカード名を１つ選ぶ。選んだ名前を持つクリーチャーの能力をすべて無視する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm20-054",
+  "PackNo": "dm20",
+  "CardName": "バンダム・オレンジ(DM2054/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ワイルド・ベジーズ",
+  "Text": "自分のワイルド・ベジーズをマナゾーンに置いた時、そのターンの終わりまでこのクリーチャーのパワーは+2000される。"
+}

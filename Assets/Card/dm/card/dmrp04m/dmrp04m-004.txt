@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-004",
+  "PackNo": "dmrp04m",
+  "CardName": "針柩医ゼントヨウ(DMRP04M4/61)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "各プレイヤーのターンのはじめに、そのプレイヤーは手札またはバトルゾーンにある自身のカードを１枚選び、持ち主の墓地に置く。"
+}

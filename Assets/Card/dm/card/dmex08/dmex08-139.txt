@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-139",
+  "PackNo": "dmex08",
+  "CardName": "インビジブル・オーラ(DMEX08139/???)",
+  "CardType": "オレガ・オーラ",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "0",
+  "CardCategory": "",
+  "Text": "これを付けたクリーチャーはブロックされない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm30-033",
+  "PackNo": "dm30",
+  "CardName": "森の格闘家ガンバレット(DM3033/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "5000",
+  "CardCategory": "ドリームメイト",
+  "Text": "このターン、自分のクリーチャーがバトルに勝った後でしか、このクリーチャーは攻撃できない。"
+}

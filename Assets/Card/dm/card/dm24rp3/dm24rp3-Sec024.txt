@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp3-Sec024",
+  "PackNo": "dm24rp3",
+  "CardName": "炎怒コアゲ(DM24RP3㊙24/㊙24)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デモンズ・レガシー",
+  "Text": "このクリーチャーが出た時、自分の手札を１枚捨ててもよい。そうしたら、カードを１枚引く。こうして捨てた手札のコストが６以上なら、カードをもう１枚引く。"
+}

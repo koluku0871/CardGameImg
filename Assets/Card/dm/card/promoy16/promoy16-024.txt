@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-024",
+  "PackNo": "promoy16",
+  "CardName": "“破舞”チュリス(DMPROMOY16P24/Y16)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "B・A・D２（このクリーチャーを、コストを２少なくして召喚してもよい。そうしたら、このターンの終わりにこのクリーチャーを破壊する）スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12b-082",
+  "PackNo": "dmx12b",
+  "CardName": "逆転のオーロラ(DMX1282/？？？)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のシールドを好きな数、自分のマナゾーンに置く。"
+}

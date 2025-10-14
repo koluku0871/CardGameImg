@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-106",
+  "PackNo": "dm01",
+  "CardName": "青銅の鎧(DM1106/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、自分の山札の一番上のカードを表にして自分のマナゾーンに置く。"
+}

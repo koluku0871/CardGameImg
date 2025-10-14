@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr10-036",
+  "PackNo": "dmr10",
+  "CardName": "ニケ※◎☆＃△(DMR1036/55)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）バトルゾーンにある相手のクリーチャーを１体選び、タップする。カードを１枚引く。"
+}

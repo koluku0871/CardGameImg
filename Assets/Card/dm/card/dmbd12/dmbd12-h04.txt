@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd12-h04",
+  "PackNo": "dmbd12",
+  "CardName": "アネモⅢ(DMBD12H4/H6)",
+  "CardType": "GRクリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "グランセクト/デリートロン",
+  "Text": "このクリーチャーは、これよりパワーが小さいクリーチャーにブロックされない。（ゲーム開始時、GRクリーチャーは山札には含めず、自分の超GRに置き、バトルゾーン以外のゾーンに行った場合、超GRの一番下に戻す）"
+}

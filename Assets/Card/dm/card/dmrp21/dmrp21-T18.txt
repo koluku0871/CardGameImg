@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp21-T18",
+  "PackNo": "dmrp21",
+  "CardName": "*/弐幻サンドロニア/*(DMRP21T18/T20)",
+  "CardType": "オレガ・オーラ",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "トリックス/デリートロン",
+  "Text": "これをクリーチャーに付けた時、カードを３枚引く。その後、自分の手札を２枚、好きな順序で山札の下に置く。"
+}

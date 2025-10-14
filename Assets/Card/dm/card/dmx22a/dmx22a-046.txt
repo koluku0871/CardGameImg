@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22a-046",
+  "PackNo": "dmx22a",
+  "CardName": "孤独の影ロンリー・ウォーカー(DMX2246/59)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "ゴースト",
+  "Text": "自分のターンの終わりに、バトルゾーンにある自分のクリーチャーがこのクリーチャーだけであれば、破壊する。"
+}

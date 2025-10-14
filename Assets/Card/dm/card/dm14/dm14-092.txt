@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-092",
+  "PackNo": "dm14",
+  "CardName": "救命人形バロール(DM1492/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット",
+  "Text": "セイバー：デーモン・コマンド(自分のデーモン・コマンド１体が破壊される時、このクリーチャーをかわりに破壊してもよい)"
+}

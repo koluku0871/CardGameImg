@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm05-046",
+  "PackNo": "dm05",
+  "CardName": "魔幻の影エターナル・クライ(DM546/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ゴースト",
+  "Text": "自然・光スレイヤー(このクリーチャーとバトルした相手の自然または光のクリーチャーは、勝っても持ち主の墓地に置かれる)"
+}

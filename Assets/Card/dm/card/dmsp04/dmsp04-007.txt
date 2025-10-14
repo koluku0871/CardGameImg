@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsp04-007",
+  "PackNo": "dmsp04",
+  "CardName": "全能ゼンノー(DMSP047/12)",
+  "CardType": "GRクリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "相手のクリーチャーは、出たターン、攻撃できない。"
+}

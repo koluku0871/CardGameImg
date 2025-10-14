@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex04-012a",
+  "PackNo": "dmex04",
+  "CardName": "残虐覇王デスカール/ロスト・ソウル(DMEX0412/75)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "8",
+  "CardSubType": "4000",
+  "CardCategory": "ダークロード",
+  "Text": "このクリーチャーで攻撃するかわりに、タップして次のt能力を使ってもよい。t相手の手札から２枚見ないで選び、捨てさせる。"
+}

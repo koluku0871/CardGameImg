@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd09-015",
+  "PackNo": "dmsd09",
+  "CardName": "無罪TV-30(DMSD0915/19)",
+  "CardType": "GRクリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "トリックス/デリートロン",
+  "Text": "（ゲーム開始時、GRクリーチャーは山札には含めず、自分の超GRに置き、バトルゾーン以外のゾーンに行った場合、超GRの一番下に戻す）"
+}

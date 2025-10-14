@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm12-042",
+  "PackNo": "dm12",
+  "CardName": "フェイト・カーペンター(DM1242/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "マーフォーク",
+  "Text": "このクリーチャーをバトルゾーンに出した時、カードを２枚まで引く。その後、自分の手札を２枚捨てる。"
+}

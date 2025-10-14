@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp10-077",
+  "PackNo": "dmrp10",
+  "CardName": "サイバーa.k.a.獅子(DMRP1077/103)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを３枚引く。その後、手札を２枚捨てる。GR召喚する。（GR召喚：自分の超GRの上から１枚目を、コストを支払ったものとして召喚する）"
+}

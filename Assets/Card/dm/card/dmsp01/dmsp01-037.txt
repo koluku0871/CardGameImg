@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsp01-037",
+  "PackNo": "dmsp01",
+  "CardName": "ヤッタレマン(DMSP0137/48)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "自分のジョーカーズを召喚するコストを１少なくする。ただし、コストは０以下にならない。"
+}

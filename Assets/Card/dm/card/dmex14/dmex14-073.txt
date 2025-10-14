@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex14-073",
+  "PackNo": "dmex14",
+  "CardName": "マグヌマ・ダンベガルー(DMEX1473/110)",
+  "CardType": "クリーチャー",
+  "Element": "水/自然",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "トリックス/チームウェイブ",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分のマナゾーンにある多色カード１枚につき、カードを１枚引いてもよい。"
+}

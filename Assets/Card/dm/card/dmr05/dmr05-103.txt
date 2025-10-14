@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr05-103",
+  "PackNo": "dmr05",
+  "CardName": "裏切りの親衛隊シウバ(DMR05103/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "7",
+  "CardSubType": "9000",
+  "CardCategory": "ビーストフォーク/ハンター/エイリアン",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

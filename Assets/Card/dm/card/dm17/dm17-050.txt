@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm17-050",
+  "PackNo": "dm17",
+  "CardName": "トッポ・ルンバ(DM1750/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "このクリーチャーは、光のクリーチャーにブロックされない。"
+}

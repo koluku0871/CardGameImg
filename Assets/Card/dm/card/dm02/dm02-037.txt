@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm02-037",
+  "PackNo": "dm02",
+  "CardName": "預言者フィンチ(DM237/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ライトブリンガー",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、バトルゾーンにある相手のクリーチャーを１体選び、タップしてよい。"
+}

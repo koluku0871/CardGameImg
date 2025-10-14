@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx14-015",
+  "PackNo": "dmx14",
+  "CardName": "インガ・ルピア(DMX1415/84)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "オラクル",
+  "Text": "自分のゴッドの召喚コストを１少なくしてもよい。ただし、コストは１より少なくならない。"
+}

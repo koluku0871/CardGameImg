@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-080",
+  "PackNo": "dm18",
+  "CardName": "騎兵総長キュラトプス(DM1880/140)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "このクリーチャーは、タップされていないクリーチャーを攻撃できる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex13-056",
+  "PackNo": "dmex13",
+  "CardName": "夜露死苦キャロル(DMEX1356/84)",
+  "CardType": "クリーチャー",
+  "Element": "水/火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジ",
+  "Text": "このクリーチャーがどこからでも墓地に置かれる時、自分のマナゾーンに水と火の文明があれば、このクリーチャーを墓地に置くかわりに手札に戻す。"
+}

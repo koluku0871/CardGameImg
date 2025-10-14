@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd10-002",
+  "PackNo": "dmsd10",
+  "CardName": "催眠の意志レンブラ(DMSD102/19)",
+  "CardType": "GRクリーチャー",
+  "Element": "光",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "メタリカ/ワンダフォース",
+  "Text": "このクリーチャーがタップした時、相手のクリーチャーを１体選び、タップする。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm11-054",
+  "PackNo": "dm11",
+  "CardName": "冒険妖精ポレゴン(DM1154/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーがシールドをブレイクした時、そのターンの終わりにこのクリーチャーをバトルゾーンから自分の手札に戻す。"
+}

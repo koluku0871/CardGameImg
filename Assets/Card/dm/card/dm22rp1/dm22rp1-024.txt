@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp1-024",
+  "PackNo": "dm22rp1",
+  "CardName": "２番ウッドのタイガーくん(DM22RP124/74)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ドリームメイト",
+  "Text": "このクリーチャーが自分の手札以外のどこからでもマナゾーンに置かれる時、かわりにバトルゾーンに出す。"
+}

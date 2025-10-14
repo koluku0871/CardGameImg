@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp21-055",
+  "PackNo": "dmrp21",
+  "CardName": "アクア・メル(DMRP2155/76)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "このクリーチャーはブロックされない。"
+}

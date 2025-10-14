@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-096",
+  "PackNo": "dm10",
+  "CardName": "撃墜団長メッツアー(DM1096/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド",
+  "Text": "スピードアタッカー(このクリーチャーは召喚酔いしない)"
+}

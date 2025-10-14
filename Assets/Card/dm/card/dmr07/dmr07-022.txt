@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr07-022",
+  "PackNo": "dmr07",
+  "CardName": "瞬封の使徒サグラダ・ファミリア(DMR0722/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1500",
+  "CardCategory": "イニシエート/ハンター",
+  "Text": "このクリーチャーがタップされている時、相手は呪文の「S・トリガー」を使えない。"
+}

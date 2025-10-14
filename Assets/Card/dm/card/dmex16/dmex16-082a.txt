@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex16-082a",
+  "PackNo": "dmex16",
+  "CardName": "偽りの名13/種族選別(DMEX1682/100)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "10",
+  "CardSubType": "24000",
+  "CardCategory": "アンノウン",
+  "Text": "ワールド・ブレイカー（このクリーチャーは相手のシールドをすべてブレイクする）"
+}

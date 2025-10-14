@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp10-g03",
+  "PackNo": "dmrp10",
+  "CardName": "ボルバルザーク・エクス(DMRP10G3/G7)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "アーマード・ドラゴン/アース・ドラゴン/ハンター",
+  "Text": "スピードアタッカーW・ブレイカーこのクリーチャーがバトルゾーンに出た時、自分のマナゾーンにあるカードをすべてアンタップする。"
+}

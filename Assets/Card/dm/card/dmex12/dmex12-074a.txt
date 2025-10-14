@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex12-074a",
+  "PackNo": "dmex12",
+  "CardName": "応援妖精エール/「みんな一緒に応援してね！」(DMEX1274/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分のマナゾーンにあるカードを２枚までアンタップする。"
+}

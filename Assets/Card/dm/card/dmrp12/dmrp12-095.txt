@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp12-095",
+  "PackNo": "dmrp12",
+  "CardName": "増神兵ドコンジョダー(DMRP1295/104)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "アーマロイド",
+  "Text": "このクリーチャーが攻撃する時、自分の手札を１枚捨て、その後、カードを１枚引く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm19-048",
+  "PackNo": "dm19",
+  "CardName": "デモメイト・エリダヌス(DM1948/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ディープ・マリーン",
+  "Text": "バトルゾーンにある自分のグランド・デビルすべてのパワーは+2000され、ブロックされない。"
+}

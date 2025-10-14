@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-128",
+  "PackNo": "dmex08",
+  "CardName": "はずれポンの助(DMEX08128/???)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "820",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーはシールドをブレイクできない。自分は「S・トリガー」能力を使えない。このカードは、４枚より多くデッキに入れることができる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd19-010",
+  "PackNo": "dmd19",
+  "CardName": "パニッシュ・チャージャー(DMD1910/22)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手は自身の手札を１枚選び、捨てる。チャージャー（この呪文を唱えた後、墓地に置くかわりに自分のマナゾーンに置く）"
+}

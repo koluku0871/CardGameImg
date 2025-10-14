@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm13-050",
+  "PackNo": "dm13",
+  "CardName": "ピクシー・コクーン(DM1350/55)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガークリーチャーを１体、自分のマナゾーンから自分の手札に戻す。この呪文を唱えた後、墓地に置くかわりにタップして自分のマナゾーンに置く。"
+}

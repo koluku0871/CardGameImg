@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-019",
+  "PackNo": "promoy15",
+  "CardName": "風の１号ハムカツマン剣(DMPROMOY15P19/Y15)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "革命軍/ハムカツ団",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

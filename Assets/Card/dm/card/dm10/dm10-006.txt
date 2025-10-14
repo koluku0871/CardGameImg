@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-006",
+  "PackNo": "dm10",
+  "CardName": "ガウレザル・ドラゴン(DM106/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "9",
+  "CardSubType": "11000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

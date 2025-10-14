@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2x-040",
+  "PackNo": "dm22rp2x",
+  "CardName": "深淵の手紙(DM22RP2X40/74)",
+  "CardType": "タマシード",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "アビスロイヤル",
+  "Text": "自分のターンの終わりに、自分のクリーチャーを１体、山札の下に置いてもよい。その後、このターン中に自分のクリーチャーが１体でも離れていたら、カードを１枚引いてもよい。"
+}

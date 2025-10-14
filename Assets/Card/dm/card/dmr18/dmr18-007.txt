@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr18-007",
+  "PackNo": "dmr18",
+  "CardName": "禁断(DMR187/71)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "9",
+  "CardSubType": "9999",
+  "CardCategory": "",
+  "Text": "クリーチャーは攻撃できない。クリーチャーは封印を外せない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex2-Cho043",
+  "PackNo": "dm24ex2",
+  "CardName": "AQvibrato(DM24EX2超43/超47)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "マジック・リキッド・ピープル",
+  "Text": "このクリーチャーが出た時、カードを１枚引く。"
+}

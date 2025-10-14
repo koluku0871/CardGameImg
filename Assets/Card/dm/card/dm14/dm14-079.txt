@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-079",
+  "PackNo": "dm14",
+  "CardName": "ルナ・フォトン(DM1479/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・ムーン",
+  "Text": "S・トリガー(このクリーチャーをシールドゾーンから手札に加える時、コストを支払わずにすぐ召喚してもよい)"
+}

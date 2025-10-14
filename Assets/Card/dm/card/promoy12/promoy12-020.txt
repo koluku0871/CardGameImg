@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy12-020",
+  "PackNo": "promoy12",
+  "CardName": "停滞の影タイム・トリッパー(DMPROMOY12P20/Y12)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ゴースト",
+  "Text": "相手のカードは、タップされた状態でマナゾーンに置かれる。"
+}

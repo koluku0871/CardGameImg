@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24bd5-023",
+  "PackNo": "dm24bd5",
+  "CardName": "B.F.F.モーメント(DM24BD523/60)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガーカードを１枚引く。自分の手札の枚数以下のコストを持つ相手のクリーチャーをすべて、持ち主の手札に戻す。"
+}

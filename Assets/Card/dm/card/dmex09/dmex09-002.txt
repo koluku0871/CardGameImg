@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex09-002",
+  "PackNo": "dmex09",
+  "CardName": "シンカイサーチャー(DMEX092/42)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "4000",
+  "CardCategory": "ブルー・モンスター",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の山札を見る。その中からカードを１枚選び、手札に加えてもよい。その後、山札をシャッフルする。"
+}

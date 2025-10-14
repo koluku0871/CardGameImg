@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex19-065a",
+  "PackNo": "dmex19",
+  "CardName": "イチゴッチ・タンク/レッツ・ゴイチゴ(DMEX1965/68)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "7",
+  "CardSubType": "12000",
+  "CardCategory": "グランセクト",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

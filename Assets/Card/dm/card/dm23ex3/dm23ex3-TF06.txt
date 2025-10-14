@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex3-TF06",
+  "PackNo": "dm23ex3",
+  "CardName": "偽りの名ハングリー・エレガンス(DM23EX3TF6/TF10)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "8",
+  "CardSubType": "8000",
+  "CardCategory": "ジャイアント/アンノウン",
+  "Text": "W・ブレイカー相手がカードを引いた時、自分の山札の上から１枚目をマナゾーンに置いてもよい。アンノウン・クリーチャーを自分のマナゾーンから召喚してもよい。"
+}

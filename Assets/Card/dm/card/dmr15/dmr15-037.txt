@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr15-037",
+  "PackNo": "dmr15",
+  "CardName": "正義と愛の賛歌(DMR1537/55)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、バトルゾーンにある自分のクリーチャー１体のパワーは+2000される。このターンの終わりに、そのクリーチャーをアンタップする。"
+}

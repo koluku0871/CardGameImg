@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp19-076",
+  "PackNo": "dmrp19",
+  "CardName": "ぴえんぱおん(DMRP1976/95)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ/レクスターズ",
+  "Text": "このクリーチャーが出た時、自分の山札の上から２枚を墓地に置く。"
+}

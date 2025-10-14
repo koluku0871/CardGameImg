@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx15-009",
+  "PackNo": "dmx15",
+  "CardName": "邪眼と魔銃の盾(DMX159/30)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにある、進化ではないクリーチャーを１体選び、新しいシールドとして持ち主のシールドゾーンに裏向きにして加える。"
+}

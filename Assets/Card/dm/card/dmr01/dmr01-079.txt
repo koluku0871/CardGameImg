@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr01-079",
+  "PackNo": "dmr01",
+  "CardName": "ダイモス(DMR0179/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "4000",
+  "CardCategory": "シー・ハッカー",
+  "Text": "自分の光と闇のクリーチャーはブロックされない。"
+}

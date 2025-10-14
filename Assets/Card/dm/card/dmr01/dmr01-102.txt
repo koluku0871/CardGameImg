@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr01-102",
+  "PackNo": "dmr01",
+  "CardName": "グシャット・デストロイ(DMR01102/110)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "パワー7000以下の相手のクリーチャーを１体破壊する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp2x-TR09a",
+  "PackNo": "dm23rp2x",
+  "CardName": "黒豆だんしゃく/白米男しゃく(DM23RP2XTR9/TR9)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "8",
+  "CardSubType": "12000",
+  "CardCategory": "グランセクト/スペシャルズ",
+  "Text": "T・ブレイカー相手の、「このクリーチャーが出た時」で始まる能力を持つクリーチャーが出た時、そのクリーチャーを持ち主のマナゾーンに置く。"
+}

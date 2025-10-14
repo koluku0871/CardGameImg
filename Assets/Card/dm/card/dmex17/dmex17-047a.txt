@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-047a",
+  "PackNo": "dmex17",
+  "CardName": "スゴ腕プロジューサー/りんご娘はさんにんっ娘(DMEX1747/138)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "ブロッカーこのクリーチャーが出た時または離れた時、GR召喚する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy19-spd802",
+  "PackNo": "promoy19",
+  "CardName": "地獄のケンカボーグ(DMSPDECK82/11)",
+  "CardType": "クリーチャー",
+  "Element": "闇/火",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "ヒューマノイド/ハンター/エイリアン",
+  "Text": ""
+}

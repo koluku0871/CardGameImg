@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24bd2-013a",
+  "PackNo": "dm24bd2",
+  "CardName": "ネフェルカーネン/タイム・ストップン(DM24BD213/16)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "555",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーが出た時、自分の山札の上から１枚目を見る。それがジョーカーズなら、表向きにしてから手札に加えてもよい。"
+}

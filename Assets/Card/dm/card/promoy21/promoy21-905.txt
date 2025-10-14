@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy21-905",
+  "PackNo": "promoy21",
+  "CardName": "卵胞虫ゼリー・ワーム(DMSPDECK95/11)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "パラサイトワーム",
+  "Text": "このクリーチャーが攻撃する時、相手の手札を１枚見ないで選び、捨てさせる。"
+}

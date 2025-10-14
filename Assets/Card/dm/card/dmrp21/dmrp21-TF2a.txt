@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp21-TF2a",
+  "PackNo": "dmrp21",
+  "CardName": "ネオ・ボルシャック・ドラゴン/ボルシャックゾーン(DMRP21TF2/TF20)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "8",
+  "CardSubType": "11000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "パワーアタッカー+4000（攻撃中、このクリーチャーのパワーを+4000する）Ｔ・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

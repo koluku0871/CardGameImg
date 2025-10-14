@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26-044",
+  "PackNo": "dm26",
+  "CardName": "封魔ハリセンモン(DM2644/55)",
+  "CardType": "クリーチャー",
+  "Element": "水/闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "グランド・デビル",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。このクリーチャーはブロックされない。"
+}

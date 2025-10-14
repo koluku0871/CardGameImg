@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc42-030",
+  "PackNo": "dmc42",
+  "CardName": "爆竜兵ドラグストライク(DMC4230/90)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "このクリーチャーが破壊された時、ドラゴンを１体、自分の手札からバトルゾーンに出してもよい。"
+}

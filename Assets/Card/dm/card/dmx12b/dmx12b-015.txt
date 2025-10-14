@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12b-015",
+  "PackNo": "dmx12b",
+  "CardName": "Tatsurion(DMX1215/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "アーマード・ドラゴン/ビーストフォーク",
+  "Text": "フュリー・チャージ：このクリーチャーは、バトルゾーンに出たターンに、タップしているクリーチャーを攻撃できる。W・ブレイカー（このクリーチャーはシールドを２枚ブレイクする）"
+}

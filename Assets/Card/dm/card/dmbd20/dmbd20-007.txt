@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd20-007",
+  "PackNo": "dmbd20",
+  "CardName": "堕呪エアヴォ(DMBD207/12)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "魔導具",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）バトルゾーンにあるコスト７以下のカードを１枚選び、持ち主の手札に戻す。"
+}

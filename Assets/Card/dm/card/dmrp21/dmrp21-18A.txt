@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp21-18A",
+  "PackNo": "dmrp21",
+  "CardName": "暗黒鎧ザベル・リント(DMRP2118A/20)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "ダーク・ナイトメア",
+  "Text": "自分の闇のタマシードが出た時、このクリーチャーを自分の墓地から出してもよい。"
+}

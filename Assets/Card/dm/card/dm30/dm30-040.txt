@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm30-040",
+  "PackNo": "dm30",
+  "CardName": "氷牙封魔グリエルモ候(DM3040/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "グランド・デビル/ナイト",
+  "Text": "このクリーチャーが破壊される時、このクリーチャーを墓地に置くかわりに、自分の手札から呪文を１枚捨ててもよい。"
+}

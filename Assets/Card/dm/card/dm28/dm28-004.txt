@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm28-004",
+  "PackNo": "dm28",
+  "CardName": "氷牙の魔筆マクシミリアン王(DM284/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "グランド・デビル/ナイト",
+  "Text": "自分が唱えたナイト呪文の能力を、追加でもう一度使ってもよい。"
+}

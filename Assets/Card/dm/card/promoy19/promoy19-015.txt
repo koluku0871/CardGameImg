@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy19-015",
+  "PackNo": "promoy19",
+  "CardName": "ソッコウ童子(DMPROMOY19P15/Y19)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "デモニオ/鬼札王国",
+  "Text": "鬼タイム：自分と相手のシールドの数が合計６つ以下なら、このクリーチャーに「スピードアタッカー」を与える。（「スピードアタッカー」を持つクリーチャーは召喚酔いしない）"
+}

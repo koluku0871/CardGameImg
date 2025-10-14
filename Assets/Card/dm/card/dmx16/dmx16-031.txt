@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx16-031",
+  "PackNo": "dmx16",
+  "CardName": "インビンシブル・テクノロジー(DMX1631/84)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "13",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札を見る。その中から好きな枚数のカードを選び、相手に見せてから自分の手札に加えてもよい。その後、山札をシャッフルする。"
+}

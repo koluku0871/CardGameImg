@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp4-068",
+  "PackNo": "dm24rp4",
+  "CardName": "炎怒音像アンゲロス(DM24RP468/76)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "アーマード・ガーゴイル",
+  "Text": "各ターン、はじめて自分のコスト６以上のクリーチャーが攻撃する時、そのクリーチャーをアンタップする。"
+}

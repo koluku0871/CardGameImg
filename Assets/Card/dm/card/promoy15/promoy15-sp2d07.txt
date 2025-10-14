@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-sp2d07",
+  "PackNo": "promoy15",
+  "CardName": "凶戦士ブレイズ・クロー(DMCOROCOROY157/13)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "このクリーチャーは、可能であれば毎ターン攻撃する。"
+}

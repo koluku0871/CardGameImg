@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp12-098",
+  "PackNo": "dmrp12",
+  "CardName": "呪煙の化身(DMRP1298/104)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "8000",
+  "CardCategory": "ミステリー・トーテム",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）"
+}

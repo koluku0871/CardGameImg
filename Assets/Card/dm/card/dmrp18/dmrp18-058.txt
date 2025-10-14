@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp18-058",
+  "PackNo": "dmrp18",
+  "CardName": "真古＜クルト.Star＞(DMRP1858/95)",
+  "CardType": "スター進化クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "3500",
+  "CardCategory": "メタリカ/ライトブリンガー/レクスターズ",
+  "Text": "スター進化：レクスターズまたは光のクリーチャー１体の上に置く。（このクリーチャーが離れる時、かわりに一番上のカードが離れる）"
+}

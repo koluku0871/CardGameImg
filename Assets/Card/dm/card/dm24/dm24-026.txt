@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24-026",
+  "PackNo": "dm24",
+  "CardName": "天地爆炎(DM2426/110)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "パワー6000以下のタップされているクリーチャーすべて、または、パワー3000以下のタップされていないクリーチャーすべてを破壊する。"
+}

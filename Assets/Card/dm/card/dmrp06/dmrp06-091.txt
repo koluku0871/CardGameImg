@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-091",
+  "PackNo": "dmrp06",
+  "CardName": "ムオーム(DMRP0691/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "グランセクト",
+  "Text": "自分の他のクリーチャーがバトルゾーンに出た時、そのターン、そのクリーチャーのパワーを+3000する。"
+}

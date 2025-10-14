@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-107",
+  "PackNo": "dm14",
+  "CardName": "雪渓妖精マルル(DM14107/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "セイバー：アース・ドラゴン(自分のアース・ドラゴン１体が破壊される時、このクリーチャーをかわりに破壊してもよい)"
+}

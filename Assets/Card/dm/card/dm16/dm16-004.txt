@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm16-004",
+  "PackNo": "dm16",
+  "CardName": "バルケリオス・ドラゴン(DM164/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "G・ゼロ-バトルゾーンにアーマード・ドラゴンが２体以上あれば、このクリーチャーをコストを支払わずに召喚してもよい。W・ブレイカー"
+}

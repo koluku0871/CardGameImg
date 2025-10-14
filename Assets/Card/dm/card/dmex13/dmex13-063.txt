@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex13-063",
+  "PackNo": "dmex13",
+  "CardName": "虹彩奪取マイレイン(DMEX1363/84)",
+  "CardType": "クリーチャー",
+  "Element": "水/闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジ",
+  "Text": "各ターン、自分の水または闇のクリーチャー１体目の召喚コストを１少なくしてもよい。ただし、コストは０以下にはならない。"
+}

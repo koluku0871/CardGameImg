@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy20-056",
+  "PackNo": "promoy20",
+  "CardName": "マスター・スパーク(DMPROMOY20P56/Y20)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のクリーチャーをすべてタップする。カードを１枚引く。"
+}

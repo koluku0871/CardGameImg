@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp4-015",
+  "PackNo": "dm23rp4",
+  "CardName": "祭前音愛ユルフワ(DM23RP415/74)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "マジック・マーメイド",
+  "Text": "各ターン、はじめて自分の水またはマジックの呪文を唱えた時、このクリーチャーを自分の手札から出してもよい。ブロッカー"
+}

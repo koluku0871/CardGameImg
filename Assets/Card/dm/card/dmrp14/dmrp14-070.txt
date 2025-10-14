@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-070",
+  "PackNo": "dmrp14",
+  "CardName": "死将バイヒコウ(DMRP1470/95)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ダークロード/不死樹王国",
+  "Text": "このクリーチャーがバトルゾーンを離れた時、相手は自身の手札を２枚選んで捨てる。"
+}

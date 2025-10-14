@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25-013",
+  "PackNo": "dm25",
+  "CardName": "次元の雷球(DM2513/55)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のコスト４以下の多色クリーチャーを１体破壊するか、相手のコスト６以下の多色ではないクリーチャーを１体破壊する。"
+}

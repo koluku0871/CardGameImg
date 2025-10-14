@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp1-036",
+  "PackNo": "dm22rp1",
+  "CardName": "電脳の海を彷徨うエレキギター(DM22RP136/74)",
+  "CardType": "タマシード",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の呪文または他のタマシードを使った時、カードを１枚引いてもよい。そうしたら、自分の手札を１枚捨てる。"
+}

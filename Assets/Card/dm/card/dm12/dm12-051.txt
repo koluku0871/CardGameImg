@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm12-051",
+  "PackNo": "dm12",
+  "CardName": "ロンリーのホッチキス(DM1251/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ゼノパーツ",
+  "Text": "他のクリーチャーがバトルゾーンに出た時、このクリーチャーをタップする。"
+}

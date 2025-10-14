@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp1-072",
+  "PackNo": "dm24rp1",
+  "CardName": "シェル・アンラーク(DM24RP172/75)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "コロニー・ビートル",
+  "Text": "このクリーチャーが出た時、相手のクリーチャーを１体選び、持ち主のマナゾーンに置いてもよい。"
+}

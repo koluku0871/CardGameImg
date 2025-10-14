@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx19-s47",
+  "PackNo": "dmx19",
+  "CardName": "デスブレード・ビートル(DMX19S47/S56)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "SR",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "ジャイアント・インセクト",
+  "Text": "パワーアタッカー+4000（攻撃中、このクリーチャーのパワーは+4000される。）W・ブレイカー"
+}

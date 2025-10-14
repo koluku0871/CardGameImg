@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2x-044",
+  "PackNo": "dm22rp2x",
+  "CardName": "ブルレイザーのハサミ(DM22RP2X44/74)",
+  "CardType": "タマシード",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のターンの終わりに、自分の手札が１枚もなければ、カードを１枚引く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-012",
+  "PackNo": "promoy17",
+  "CardName": "ビックラボックス(DMPROMOY17P12/Y17)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の山札の上から１枚目を表向きにする。それがコスト６以下のジョーカーズ・クリーチャーなら、バトルゾーンに出す。それ以外なら、自分の手札に加える。"
+}

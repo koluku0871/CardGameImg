@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22a-029",
+  "PackNo": "dmx22a",
+  "CardName": "デンデン・パーカッション(DMX2229/59)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ガーゴイル",
+  "Text": "相手の呪文の効果でこのクリーチャーがバトルゾーンから離れる時、バトルゾーンから離れるかわりにとどまる。"
+}

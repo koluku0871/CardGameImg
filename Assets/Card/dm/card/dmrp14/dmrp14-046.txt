@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-046",
+  "PackNo": "dmrp14",
+  "CardName": "OH！ワンダフル(DMRP1446/95)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ/チーム切札",
+  "Text": "このクリーチャーが攻撃する時、自分のマナゾーンのカードを３枚までアンタップする。"
+}

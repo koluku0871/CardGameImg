@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-021",
+  "PackNo": "promoy15",
+  "CardName": "スーパー獄門スマッシュ(DMPROMOY15P21/Y15)",
+  "CardType": "呪文",
+  "Element": "闇/火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。相手のクリーチャーを１体、破壊する。"
+}

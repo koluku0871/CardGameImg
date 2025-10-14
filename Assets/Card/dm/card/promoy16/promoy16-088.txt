@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-088",
+  "PackNo": "promoy16",
+  "CardName": "バッテン親父(DMPROMOY16P88/Y16)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "クリーチャーが自分を攻撃する時、このクリーチャーをタップしてその攻撃を中止してもよい。"
+}

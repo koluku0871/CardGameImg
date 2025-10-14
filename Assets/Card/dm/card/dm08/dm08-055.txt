@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm08-055",
+  "PackNo": "dm08",
+  "CardName": "怒髪の豪腕(DM855/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "他のクリーチャーがバトルゾーンに置かれた場合、そのターンが終わるまで、このクリーチャーのパワーは+3000される。"
+}

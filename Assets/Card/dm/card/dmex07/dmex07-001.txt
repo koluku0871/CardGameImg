@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex07-001",
+  "PackNo": "dmex07",
+  "CardName": "全能ゼンノー(DMEX071/48)",
+  "CardType": "GRクリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "相手のクリーチャーは、バトルゾーンに出たターン、攻撃できない。"
+}

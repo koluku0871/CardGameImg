@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex18-032",
+  "PackNo": "dmex18",
+  "CardName": "LibraryofAlexandria(DMEX1832/75)",
+  "CardType": "土地",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "0",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のターン中、攻撃の前に、自分の手札がちょうど７枚なら、マナゾーンにあるこのカードをタップしてもよい。そうしたら、カードを１枚引く。"
+}

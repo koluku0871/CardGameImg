@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm05-027",
+  "PackNo": "dm05",
+  "CardName": "ギガゲイル(DM527/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "キマイラ",
+  "Text": "自然・光スレイヤー(このクリーチャーとバトルした相手の自然または光のクリーチャーは、勝っても持ち主の墓地に置かれる)"
+}

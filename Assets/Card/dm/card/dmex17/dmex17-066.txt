@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-066",
+  "PackNo": "dmex17",
+  "CardName": "母なる聖地(DMEX1766/138)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにある自分のクリーチャーを１体、タップしてマナゾーンに置く。その後、そのクリーチャーよりコストが小さいクリーチャーを１体、自分のマナゾーンから出す。"
+}

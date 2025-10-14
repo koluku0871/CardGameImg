@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex2-048",
+  "PackNo": "dm24ex2",
+  "CardName": "インフェルノ・ポータル(DM24EX248/100)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "闇のクリーチャーを１体、自分の墓地から出す。"
+}

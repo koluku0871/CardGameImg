@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex02-063",
+  "PackNo": "dmex02",
+  "CardName": "一番隊チュチュリス(DMEX0263/84)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "自分のビートジョッキーを召喚するコストを１少なくする。ただしコストは０以下にならない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex16-043",
+  "PackNo": "dmex16",
+  "CardName": "フルスロット・サージェント(DMEX1643/100)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "マーフォーク",
+  "Text": "このクリーチャーで攻撃するかわりに、タップして次のt能力を使ってもよい。t自分のクロスギアを１枚、コストを支払わずに自分のクリーチャー１体にクロスする。"
+}

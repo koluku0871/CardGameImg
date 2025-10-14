@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-038",
+  "PackNo": "dmrp04m",
+  "CardName": "リブロッコ・タンク(DMRP04M38/61)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "12000",
+  "CardCategory": "グランセクト",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３つブレイクする）このクリーチャーがバトルゾーンに出た時、自分のシールドを２つ、マナゾーンに置く。"
+}

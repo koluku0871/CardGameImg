@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp08-084",
+  "PackNo": "dmrp08",
+  "CardName": "亥年の宴上者ベンベー(DMRP0884/95)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2019",
+  "CardCategory": "アウトレイジ",
+  "Text": ""
+}

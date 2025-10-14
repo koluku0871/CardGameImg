@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-077",
+  "PackNo": "dmrp01",
+  "CardName": "一番隊バギン16号(DMRP0177/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "自分のマフィ・ギャングを召喚するコストを１少なくする。ただし、コストは０以下にならない。"
+}

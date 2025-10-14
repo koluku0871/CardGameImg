@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc45-034",
+  "PackNo": "dmc45",
+  "CardName": "青銅の鎧(DMC4534/35)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分の山札の上から１枚目をマナゾーンに置く。"
+}

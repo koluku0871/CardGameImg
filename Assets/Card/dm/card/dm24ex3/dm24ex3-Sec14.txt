@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex3-Sec14",
+  "PackNo": "dm24ex3",
+  "CardName": "♪ハイパーでハイクがますますハイクラス(DM24EX3㊙14/㊙20)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガーカードを１枚引く。次の自分のターンのはじめまで、自分の手札の枚数以下のコストを持つ相手のクリーチャーはすべて、攻撃もブロックもできない。"
+}

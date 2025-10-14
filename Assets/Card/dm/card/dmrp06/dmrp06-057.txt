@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-057",
+  "PackNo": "dmrp06",
+  "CardName": "Theソー漢(DMRP0657/93)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ジョーカーズ",
+  "Text": ""
+}

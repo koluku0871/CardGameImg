@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp16-093",
+  "PackNo": "dmrp16",
+  "CardName": "球遊者イドコロガワリ(DMRP1693/95)",
+  "CardType": "クリーチャー",
+  "Element": "水/火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ムートピア/美孔麗王国",
+  "Text": "自分のターンのはじめに、このクリーチャーがタップしていれば、このクリーチャーを破壊し、カードを２枚引く。"
+}

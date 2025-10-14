@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex10-008",
+  "PackNo": "dmex10",
+  "CardName": "停滞の影タイム・トリッパー(DMEX108/42)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ゴースト",
+  "Text": "相手はカードをマナゾーンに置く時、タップして置く。"
+}

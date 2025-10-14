@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-w14",
+  "PackNo": "dmex17",
+  "CardName": "神聖麒シューゲイザー(DMEX17W14/W20)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "7000",
+  "CardCategory": "オラクリオン",
+  "Text": "W・ブレイカーこのクリーチャーが出た時または攻撃する時、コスト５以下の進化ではないクリーチャーを１体、自分の手札またはマナゾーンから出してもよい。"
+}

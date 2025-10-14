@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr06-041",
+  "PackNo": "dmr06",
+  "CardName": "サーファー・チャージャー(DMR0641/55)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにあるクリーチャーを１体選び、持ち主の手札に戻す。チャージャー(この呪文を唱えた後、墓地に置くかわりに自分のマナゾーンに置く)"
+}

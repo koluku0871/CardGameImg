@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-073",
+  "PackNo": "dmrp06",
+  "CardName": "堕魔ヴァイプシュ(DMRP0673/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "マフィ・ギャング/魔導具",
+  "Text": "自分が呪文を唱えた時、このクリーチャーを自分の墓地から手札に戻してもよい。"
+}

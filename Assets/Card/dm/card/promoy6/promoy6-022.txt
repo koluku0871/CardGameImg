@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy6-022",
+  "PackNo": "promoy6",
+  "CardName": "魔城の覇者オルギアス(DMPROMOY6P22/Y6)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "8",
+  "CardSubType": "7000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "Ｗ・ブレイカー（このクリーチャーはシールドを２枚ブレイクする）自分の他のデーモン・コマンドが相手プレイヤーを攻撃してブロックされなかった時、相手の闇以外のクリーチャーを１体破壊する。"
+}

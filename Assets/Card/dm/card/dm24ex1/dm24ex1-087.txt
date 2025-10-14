@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex1-087",
+  "PackNo": "dm24ex1",
+  "CardName": "チャラ・ルピア(DM24EX187/89)",
+  "CardType": "クリーチャー",
+  "Element": "光/火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1500",
+  "CardCategory": "ファイアー・バード",
+  "Text": "自分のドラゴン・クリーチャーの召喚コストを２少なくする。ただし、コストは０以下にはならない。"
+}

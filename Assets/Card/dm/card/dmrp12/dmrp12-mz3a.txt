@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp12-mz3a",
+  "PackNo": "dmrp12",
+  "CardName": "墓地の儀(DMRP12MZ3/MZ5)",
+  "CardType": "零龍星雲",
+  "Element": "闇",
+  "CardRarity": "MSZ",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを自分の墓地に置いた時、自分の墓地にカードが８枚以上あれば、この零龍星雲を自分の《滅亡の起源零無》にリンクしてもよい。そうしたら、相手のクリーチャーを１体選ぶ。このターン、そのクリーチャーのパワーを－3000する。"
+}

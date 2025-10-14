@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp1-074",
+  "PackNo": "dm23rp1",
+  "CardName": "バイン・トラップ(DM23RP174/74)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）コスト５以下のエレメントを１つ選び、持ち主のマナゾーンに置く。"
+}

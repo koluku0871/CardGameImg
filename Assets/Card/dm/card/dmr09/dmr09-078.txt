@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr09-078",
+  "PackNo": "dmr09",
+  "CardName": "ビリビリ・スイッチオン(DMR0978/110)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターンの終わりに、バトルゾーンにある自分のクリーチャーを１体、アンタップする。カードを１枚引く。"
+}

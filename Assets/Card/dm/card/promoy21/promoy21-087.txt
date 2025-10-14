@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy21-087",
+  "PackNo": "promoy21",
+  "CardName": "岩岩-ロック(DMPROMOY21P87/Y21)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ロック・ビースト/チームボンバー",
+  "Text": "マジボンバー４（このクリーチャーが攻撃する時、自分の山札の上から１枚目を見る。その後、コスト４以下のクリーチャーを１体、自分の手札または山札の上から出してもよい）"
+}

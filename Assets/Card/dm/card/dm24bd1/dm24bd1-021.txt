@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24bd1-021",
+  "PackNo": "dm24bd1",
+  "CardName": "次元の霊峰(DM24BD121/21)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札を見る。その中から多色クリーチャーを１体選んで表向きにし、手札に加えてもよい。その後、山札をシャッフルする。"
+}

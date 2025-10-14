@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy14-057",
+  "PackNo": "promoy14",
+  "CardName": "ボルメテウス・サファイア・ドラゴン(DMPROMOY14P57/Y14)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "10",
+  "CardSubType": "11000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "スピードアタッカーパワーアタッカー+3000Ｔ・ブレイカーこのクリーチャーがシールドをブレイクする時、相手はそのシールドを自身の手札に加えるかわりに墓地に置く。"
+}

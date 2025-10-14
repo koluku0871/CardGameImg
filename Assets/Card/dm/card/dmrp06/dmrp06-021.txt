@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-021",
+  "PackNo": "dmrp06",
+  "CardName": "堕魔ドゥリケン(DMRP0621/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "マフィ・ギャング/魔導具",
+  "Text": "自分のターン中にこのクリーチャーが破壊された時、そのターンの終わりに墓地からバトルゾーンに出す。"
+}

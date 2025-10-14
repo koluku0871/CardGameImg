@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-075",
+  "PackNo": "dmrp02",
+  "CardName": "凶鬼52号パチン(DMRP0275/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "自分の他のクリーチャーが破壊された時、そのターン、このクリーチャーはパワーを+4000され、シールドをさらに１つブレイクする。"
+}

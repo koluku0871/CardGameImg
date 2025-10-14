@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd09-002",
+  "PackNo": "dmd09",
+  "CardName": "潜行する穿孔ギーガ(DMD092/14)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "アウトレイジ",
+  "Text": "このクリーチャーは、ブロックされない。"
+}

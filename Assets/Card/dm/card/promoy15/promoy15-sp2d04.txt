@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-sp2d04",
+  "PackNo": "promoy15",
+  "CardName": "チキチキ・JET・サーキット(DMCOROCOROY154/13)",
+  "CardType": "D2フィールド",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のクリーチャーすべてに「スピードアタッカー」を与える。（「スピードアタッカー」を持つクリーチャーは召喚酔いしない）（他のD２フィールドがバトルゾーンに出た時、このD２フィールドを自分の墓地に置く）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr18-003",
+  "PackNo": "dmr18",
+  "CardName": "海帝ダイソン(DMR183/71)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "8000",
+  "CardCategory": "アースイーター/侵略者",
+  "Text": "W・ブレイカーこのクリーチャーがバトルゾーンに出た時、カードを５枚引き、その後、相手のシールドの数と同じ枚数、自分の手札を捨てる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex1-047a",
+  "PackNo": "dm24ex1",
+  "CardName": "暴発秘宝ベンゾ/星龍の暴発(DM24EX147/89)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "パンドラボックス",
+  "Text": "このクリーチャーが出た時、自分のシールドを１つブレイクする。"
+}

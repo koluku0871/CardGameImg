@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm12-024",
+  "PackNo": "dm12",
+  "CardName": "エニグマ・カスケード(DM1224/55)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の手札を、好きな枚数捨てる。その後、同じ枚数のカードを引く。"
+}

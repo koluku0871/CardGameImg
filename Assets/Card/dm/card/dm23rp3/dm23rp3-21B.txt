@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp3-21B",
+  "PackNo": "dm23rp3",
+  "CardName": "レッツ・烈・ノルッピ(DM23RP321B/22)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アーマード・ファイアー・バード",
+  "Text": "このクリーチャーが出た時、カードを２枚引く。その後、自分の手札を１枚、相手に見ないで選ばせ、捨てる。"
+}

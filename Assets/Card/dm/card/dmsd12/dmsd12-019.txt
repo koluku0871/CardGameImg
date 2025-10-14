@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd12-019",
+  "PackNo": "dmsd12",
+  "CardName": "幽具ギャン(DMSD1219/19)",
+  "CardType": "オレガ・オーラ",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング/デリートロン",
+  "Text": "これをクリーチャーに付けた時、自分の山札の上から３枚を自分の墓地に置いてもよい。"
+}

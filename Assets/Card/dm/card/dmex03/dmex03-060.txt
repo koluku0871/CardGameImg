@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex03-060",
+  "PackNo": "dmex03",
+  "CardName": "オッケーBros.(DMEX0360/69)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーがバトルゾーンに出た時、クリーチャーを１体選び、アンタップしてもよい。"
+}

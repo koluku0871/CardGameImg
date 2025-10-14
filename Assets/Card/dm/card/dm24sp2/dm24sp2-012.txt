@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24sp2-012",
+  "PackNo": "dm24sp2",
+  "CardName": "ピクシー・ライフ(DM24SP212/13)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から１枚目をマナゾーンに置く。その後、無色カードを１枚、自分のマナゾーンから手札に戻してもよい。"
+}

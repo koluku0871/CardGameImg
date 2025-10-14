@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsp01-015",
+  "PackNo": "dmsp01",
+  "CardName": "凶鬼23号グザリ(DMSP0115/48)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の山札の上から２枚を墓地に置く。"
+}

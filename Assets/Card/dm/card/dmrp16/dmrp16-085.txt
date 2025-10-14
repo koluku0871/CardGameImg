@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp16-085",
+  "PackNo": "dmrp16",
+  "CardName": "フェアリー・ソング(DMRP1685/95)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から２枚を、タップしてマナゾーンに置く。"
+}

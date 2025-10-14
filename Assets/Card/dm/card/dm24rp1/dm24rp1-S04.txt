@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp1-S04",
+  "PackNo": "dm24rp1",
+  "CardName": "seiWond’Ramar(DM24RP1S4/S10)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "マジック・コマンド・ドラゴン",
+  "Text": "ブロッカージャストダイバー相手のターンの終わりに、このクリーチャーがタップしていれば、カードを２枚引いてもよい。そうしたら、自分の手札の枚数以下のコストを持つ水のカードを１枚、自分の手札からコストを支払わずに使ってもよい。"
+}

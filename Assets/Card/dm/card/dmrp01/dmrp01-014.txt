@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-014",
+  "PackNo": "dmrp01",
+  "CardName": "龍装者バーナイン(DMRP0114/93)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "2500",
+  "CardCategory": "ドラゴンギルド/メタリカ",
+  "Text": "このクリーチャーまたは自分の他のメタリカがバトルゾーンに出た時、カードを１枚引いてもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd10-018",
+  "PackNo": "dmbd10",
+  "CardName": "戦略のＤ・Ｈアツト(DMBD1018/18)",
+  "CardType": "クリーチャー",
+  "Element": "水/闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド/ヒーロー",
+  "Text": "このクリーチャーがバトルゾーンに出た時、カードを２枚引いてもよい。そうしたら、自分の手札を２枚捨てる。"
+}

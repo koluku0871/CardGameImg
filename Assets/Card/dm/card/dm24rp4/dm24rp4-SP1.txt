@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp4-SP1",
+  "PackNo": "dm24rp4",
+  "CardName": "完全不明(DM24RP4SP1/SP5)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "11",
+  "CardSubType": "16000",
+  "CardCategory": "???",
+  "Text": "T・ブレイカー相手のターン中に、相手がマナゾーンにカードを置いた時またはカードを使った時、ターンの残りをとばす。相手のクリーチャーが攻撃する時、その攻撃の後、ターンの残りをとばす。"
+}

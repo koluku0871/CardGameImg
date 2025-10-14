@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-037",
+  "PackNo": "dm01",
+  "CardName": "レッドアイ・スコーピオン(DM137/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ジャイアント・インセクト",
+  "Text": "このクリーチャーがバトルゾーンから自分の墓地に置かれるとき、墓地に置くかわりに自分のマナゾーンに置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24-100",
+  "PackNo": "dm24",
+  "CardName": "オメガ・スイーパー(DM24100/110)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のパワー5000以下のクリーチャー１体か、相手のパワー2000以下のクリーチャー２体を破壊する。"
+}

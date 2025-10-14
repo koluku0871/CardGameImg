@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp4-069",
+  "PackNo": "dm23rp4",
+  "CardName": "球乗りコゾウくん(DM23RP469/74)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジャイアント・ドリームメイト",
+  "Text": "このクリーチャーが出た時、相手のパワー5000以下のクリーチャーを１体選び、持ち主のマナゾーンに置いてもよい。"
+}

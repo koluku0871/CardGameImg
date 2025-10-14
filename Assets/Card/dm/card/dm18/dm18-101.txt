@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-101",
+  "PackNo": "dm18",
+  "CardName": "シザー・アイ(DM18101/140)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ゲル・フィッシュ",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx05-009",
+  "PackNo": "dmx05",
+  "CardName": "光鬼ガガ・ペトローバ(DMX059/16)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2500",
+  "CardCategory": "メカ・デル・ソル/エイリアン",
+  "Text": "バトルゾーンにある自分の他のエイリアンすべてのパワーは+4000される。"
+}

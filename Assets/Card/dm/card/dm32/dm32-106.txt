@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm32-106",
+  "PackNo": "dm32",
+  "CardName": "霊騎幻獣チクタク・キューン(DM32106/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ドリームメイト/アーク・セラフィム",
+  "Text": ""
+}

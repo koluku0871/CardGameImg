@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx24-051",
+  "PackNo": "dmx24",
+  "CardName": "冒険妖精ポレゴン(DMX2451/54)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "自分のターンの終わりに、そのターン、このクリーチャーがシールドをブレイクしていたら、このクリーチャーを自分の手札に戻す。"
+}

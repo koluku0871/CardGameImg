@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-008",
+  "PackNo": "promoy15",
+  "CardName": "特攻人形ジェニー(DMPROMOY15P8/Y15)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーがバトルゾーンに出た時、このクリーチャーを破壊してもよい。そうしたら、相手の手札を１枚見ないで選び、捨てさせる。"
+}

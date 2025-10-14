@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex3-TF43",
+  "PackNo": "dm24ex3",
+  "CardName": "花美師ハナコ(DM24EX3TF43/TF46)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーが出た時、自分のシールドを１つ手札に加える。ただし、その「S・トリガー」は使えない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp11-093",
+  "PackNo": "dmrp11",
+  "CardName": "バルログレンオー(DMRP1193/102)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "フレイム・ビースト",
+  "Text": ""
+}

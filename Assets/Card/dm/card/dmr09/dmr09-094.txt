@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr09-094",
+  "PackNo": "dmr09",
+  "CardName": "ライク・ア・ローリング・ストーム(DMR0994/110)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から３枚を墓地に置く。その後、クリーチャーを１体、自分の墓地から手札に戻す。"
+}

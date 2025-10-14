@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16g-032",
+  "PackNo": "dmr16g",
+  "CardName": "再誕の聖地(DMR16極32/54)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の墓地にあるカードをすべて、タップしてマナゾーンに置く。"
+}

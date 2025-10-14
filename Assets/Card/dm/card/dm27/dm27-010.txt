@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm27-010",
+  "PackNo": "dm27",
+  "CardName": "彩強の巨人(DM2710/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "9",
+  "CardSubType": "11000",
+  "CardCategory": "ジャイアント",
+  "Text": "文明ブレイカー(このクリーチャーは、自分のマナゾーンにある文明ひとつにつき１枚、シールドをブレイクする)"
+}

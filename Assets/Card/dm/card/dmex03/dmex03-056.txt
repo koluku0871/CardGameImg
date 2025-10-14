@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex03-056",
+  "PackNo": "dmex03",
+  "CardName": "温泉湯あたり地獄(DMEX0356/69)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "コスト３以下のクリーチャーをすべて破壊する。"
+}

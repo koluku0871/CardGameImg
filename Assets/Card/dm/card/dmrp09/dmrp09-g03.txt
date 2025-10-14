@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp09-g03",
+  "PackNo": "dmrp09",
+  "CardName": "特攻人形ジェニー(DMRP09G3/G7)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーがバトルゾーンに出た時、このクリーチャーを破壊してもよい。そうしたら、相手の手札を１枚見ないで選び、捨てさせる。"
+}

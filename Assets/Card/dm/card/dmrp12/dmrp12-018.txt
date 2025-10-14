@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp12-018",
+  "PackNo": "dmrp12",
+  "CardName": "ホエル・デージェ(DMRP1218/104)",
+  "CardType": "GRクリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "7000",
+  "CardCategory": "トリックス/ワンダフォース",
+  "Text": "W・ブレイカー自分の手札が５枚以上なければ、このクリーチャーは攻撃できない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr23-004",
+  "PackNo": "dmr23",
+  "CardName": "メガ・デューバー・ドラゴン(DMR234/74)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "8",
+  "CardSubType": "8000",
+  "CardCategory": "メガ・コマンド・ドラゴン",
+  "Text": "W・ブレイカーこのクリーチャーまたは他のクリーチャーが破壊された時、それよりパワーの小さい相手のクリーチャーを１体破壊してもよい。"
+}

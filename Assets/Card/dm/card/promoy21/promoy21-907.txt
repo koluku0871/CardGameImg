@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy21-907",
+  "PackNo": "promoy21",
+  "CardName": "騒乱の影ウエスタン・バレル(DMSPDECK97/11)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ゴースト",
+  "Text": "このクリーチャーが出た時、相手は自身の手札を１枚選び、捨てる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-049",
+  "PackNo": "dmx22b",
+  "CardName": "デモニック・バイス(DMX2249/？？？)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手は、自身の手札を２枚捨てる。"
+}

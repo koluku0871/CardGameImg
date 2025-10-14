@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx01-032",
+  "PackNo": "dmx01",
+  "CardName": "エマージェンシー・タイフーン(DMX0132/40)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)カードを最大２枚引き、その後、手札を１枚捨てる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2-057",
+  "PackNo": "dm22rp2",
+  "CardName": "透明な工作員コジェリ(DM22RP257/74)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ムートピア",
+  "Text": "シビルカウント３：自分の水のクリーチャーまたは水のタマシードが合計３つ以上あれば、このクリーチャーは攻撃もブロックもされない。"
+}

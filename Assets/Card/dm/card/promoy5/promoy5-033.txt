@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy5-033",
+  "PackNo": "promoy5",
+  "CardName": "メテオフラッシュ・ドラグーン(DMPROMOY5P33/Y5)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "1000",
+  "CardCategory": "ティラノ・ドレイク",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）パワーアタッカー+4000（攻撃中、このクリーチャーのパワーは+4000される）"
+}

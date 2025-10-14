@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-001",
+  "PackNo": "dmex08",
+  "CardName": "最騒音奏プーーーンギ(DMEX081/???)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "-",
+  "Cost": "8",
+  "CardSubType": "10000",
+  "CardCategory": "メタリカ",
+  "Text": "ブロッカーW・ブレイカー相手の呪文を唱えるコストを４多くする。相手が呪文を唱えた時、GR召喚する。"
+}

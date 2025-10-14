@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex03-044",
+  "PackNo": "dmex03",
+  "CardName": "アナライズ・チャージャー(DMEX0344/69)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "クリーチャーを２体まで選び、持ち主の手札に戻す。チャージャー（この呪文を唱えた後、墓地に置くかわりに自分のマナゾーンに置く）"
+}

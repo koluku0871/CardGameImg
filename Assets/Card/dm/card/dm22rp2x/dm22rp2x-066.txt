@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2x-066",
+  "PackNo": "dm22rp2x",
+  "CardName": "ドライザウルス(DM22RP2X66/74)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "4000",
+  "CardCategory": "ロック・ビースト",
+  "Text": "「ブロッカー」を持つクリーチャーとバトル中、このクリーチャーのパワーを+10000する。"
+}

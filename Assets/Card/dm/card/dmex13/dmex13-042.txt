@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex13-042",
+  "PackNo": "dmex13",
+  "CardName": "フェニックス・ライフ(DMEX1342/84)",
+  "CardType": "呪文",
+  "Element": "光/自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "フェニックス",
+  "Text": "自分の山札の上から２枚を見る。そのうちの１枚を裏向きにして、新しいシールドとしてシールドゾーンに置き、もう１枚をマナゾーンに置く。"
+}

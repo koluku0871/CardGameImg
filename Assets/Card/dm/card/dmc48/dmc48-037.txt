@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc48-037",
+  "PackNo": "dmc48",
+  "CardName": "ブラッディ・ドラグーン(DMC4837/44)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "ティラノ・ドレイク",
+  "Text": "ブロッカーこのクリーチャーは攻撃することができない。このクリーチャーがバトルする時、バトルの後、このクリーチャーを破壊する。"
+}

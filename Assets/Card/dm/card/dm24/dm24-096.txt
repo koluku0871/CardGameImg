@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24-096",
+  "PackNo": "dm24",
+  "CardName": "超銃士ボルガン(DM2496/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド",
+  "Text": "パワーアタッカー+3000(攻撃中、このクリーチャーのパワーは+3000される)"
+}

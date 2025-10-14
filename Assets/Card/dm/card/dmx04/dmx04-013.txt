@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx04-013",
+  "PackNo": "dmx04",
+  "CardName": "鬼神！ヴァルボーグなう(DMX0413/16)",
+  "CardType": "進化クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "6000",
+  "CardCategory": "ヒューマノイド/ハンター",
+  "Text": "進化ー自分のハンター・クリーチャー１体の上に置く。W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

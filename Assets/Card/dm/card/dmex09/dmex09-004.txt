@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex09-004",
+  "PackNo": "dmex09",
+  "CardName": "ニクジール・ブッシャー(DMEX094/42)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "コストを支払うかわりに、自分のクリーチャー１体とシールド１つ、そして手札１枚を山札の一番下に置いて、このクリーチャーを召喚してもよい。W・ブレイカー"
+}

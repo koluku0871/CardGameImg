@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmart08-001a",
+  "PackNo": "dmart08",
+  "CardName": "新世界王の権威(DMART081/6)",
+  "CardType": "キング・セル",
+  "Element": "光/闇/火",
+  "CardRarity": "KGM",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライクこのカードを自分の手札からマナゾーンに置いた時、アンタップする。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-068",
+  "PackNo": "dmrp05",
+  "CardName": "海底歩きカグッツ(DMRP0568/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ムートピア",
+  "Text": "自分が呪文を唱えた時、次の自分のターンのはじめまで、このクリーチャーは攻撃もブロックもされない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr19-036",
+  "PackNo": "dmr19",
+  "CardName": "不死カンオッケ(DMR1936/87)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ファンキー・ナイトメア/侵略者",
+  "Text": "自分の進化クリーチャーを他のクリーチャーの上に置いた時、相手は自身の手札を１枚選んで捨てる。"
+}

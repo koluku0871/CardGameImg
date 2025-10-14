@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04s-042",
+  "PackNo": "dmrp04s",
+  "CardName": "ヴェルンハルト・ヴェルテ(DMRP04S42/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "7000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）このクリーチャーがバトルに勝った時、自分のクリーチャーを１体破壊する。"
+}

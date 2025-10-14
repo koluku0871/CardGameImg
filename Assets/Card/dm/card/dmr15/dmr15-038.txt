@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr15-038",
+  "PackNo": "dmr15",
+  "CardName": "龍素記号Psチャンカンパラス(DMR1538/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "クリスタル・コマンド・ドラゴン",
+  "Text": "バトルゾーンにある自分のコマンド・ドラゴンはすべてブロックされない。"
+}

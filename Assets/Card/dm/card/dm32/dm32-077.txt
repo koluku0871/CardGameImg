@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm32-077",
+  "PackNo": "dm32",
+  "CardName": "ソーラー・レイ(DM3277/110)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)バトルゾーンにある相手のクリーチャーを１体選び、タップする。"
+}

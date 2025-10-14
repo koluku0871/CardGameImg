@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp21-TF14",
+  "PackNo": "dmrp21",
+  "CardName": "ブルース・ガー(DMRP21TF14/TF20)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "【K・ソウル】このクリーチャーは、自分のターンのはじめにアンタップしない。"
+}

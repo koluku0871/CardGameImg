@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24sd1-012",
+  "PackNo": "dm24sd1",
+  "CardName": "凶戦士ブレイズ・クロー(DM24SD112/12)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "このクリーチャーは、可能なら毎ターン攻撃する。"
+}

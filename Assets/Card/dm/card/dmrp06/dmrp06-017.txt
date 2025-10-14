@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-017",
+  "PackNo": "dmrp06",
+  "CardName": "歴史を語るブレイン(DMRP0617/93)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の墓地にある呪文１枚につき、カードを１枚引く。"
+}

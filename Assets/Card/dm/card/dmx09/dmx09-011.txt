@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx09-011",
+  "PackNo": "dmx09",
+  "CardName": "番傘の牡丹(DMX0911/56)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "自分の他のビーストフォークがバトルする時、そのターン、そのクリーチャーのパワーは+2000される。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp1-027a",
+  "PackNo": "dm23rp1",
+  "CardName": "星姫械マリハダル/レプリカ・オークション(DM23RP127/74)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "メカ・デル・ステラ",
+  "Text": "相手のターン中、相手はクリーチャーを２体までしか出せない。"
+}

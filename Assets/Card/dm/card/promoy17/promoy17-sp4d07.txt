@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-sp4d07",
+  "PackNo": "promoy17",
+  "CardName": "The塩ラー漢(DMCOROCOROY177/10)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "S・トリガー（このクリーチャーをシールドゾーンから手札に加える時、コストを支払わずにすぐ召喚してもよい）"
+}

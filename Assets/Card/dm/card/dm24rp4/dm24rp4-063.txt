@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp4-063",
+  "PackNo": "dm24rp4",
+  "CardName": "コオニ鬼麗(DM24RP463/76)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "デモニオ",
+  "Text": "自分のコスト６以上のクリーチャーが召喚によって出た時、このクリーチャーを自分の墓地から出してもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24-018",
+  "PackNo": "dm24",
+  "CardName": "センジュ・スプラッシュ(DM2418/110)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "プレイヤーをひとり選ぶ。そのプレイヤーは、バトルゾーンまたはマナゾーンから自分自身のカードを１枚選び、持ち主の山札の一番上に置く。"
+}

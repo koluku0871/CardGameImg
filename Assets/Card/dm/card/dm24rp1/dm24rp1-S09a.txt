@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp1-S09a",
+  "PackNo": "dm24rp1",
+  "CardName": "哀樹の夜シンベロム(DM24RP1S9/S10)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "SR",
+  "Cost": "10",
+  "CardSubType": "12000",
+  "CardCategory": "デーモン・コマンド/超化獣",
+  "Text": "T・ブレイカー自分のクリーチャーすべてに「マッハファイター」を与える。ハイパー化：自分の他のクリーチャーを１体タップする。"
+}

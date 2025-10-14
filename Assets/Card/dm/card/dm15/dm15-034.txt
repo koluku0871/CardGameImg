@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm15-034",
+  "PackNo": "dm15",
+  "CardName": "式神ハンター(DM1534/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ワンダー・トリック",
+  "Text": "このクリーチャーをバトルゾーンに出した時、クロスギアを１枚、自分のマナゾーンから自分の手札に戻してもよい。"
+}

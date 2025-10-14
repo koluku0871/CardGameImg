@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr20-065",
+  "PackNo": "dmr20",
+  "CardName": "ビシット・アメッチ(DMR2065/70)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード炎/革命軍",
+  "Text": "ウルトラ・セイバー：火のドラゴン（自分の火のドラゴンがバトルゾーンを離れる時、かわりにこのクリーチャーを破壊してもよい）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc34-025",
+  "PackNo": "dmc34",
+  "CardName": "混沌の魔将ヴァジュータ(DMC3425/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "このクリーチャーは、バトルゾーンにある相手の文明ひとつにつき１枚、シールドを追加でブレイクする。"
+}

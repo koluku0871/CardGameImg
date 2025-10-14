@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm05-011",
+  "PackNo": "dm05",
+  "CardName": "神々の逆流(DM511/55)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "9",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "各プレイヤーは自分自身のマナゾーンにあるカードをすべて、それぞれの手札に戻す。"
+}

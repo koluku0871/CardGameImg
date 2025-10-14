@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex3-T09",
+  "PackNo": "dm23ex3",
+  "CardName": "空腹の超人(DM23EX3T9/T20)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ジャイアント/アンノイズ",
+  "Text": "無色クリーチャーを自分のマナゾーンから召喚してもよい。（コストは支払う）"
+}

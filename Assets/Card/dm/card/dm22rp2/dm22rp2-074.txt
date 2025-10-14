@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2-074",
+  "PackNo": "dm22rp2",
+  "CardName": "ブレスユー・トラップ(DM22RP274/74)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）パワー6000以下のクリーチャーを１体選び、持ち主のマナゾーンに置く。"
+}

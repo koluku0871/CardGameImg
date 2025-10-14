@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-107",
+  "PackNo": "dm01",
+  "CardName": "鋼鉄の鎚(DM1107/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "このクリーチャーは、相手プレイヤーを攻撃できない。"
+}

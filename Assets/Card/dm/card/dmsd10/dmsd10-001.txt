@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd10-001",
+  "PackNo": "dmsd10",
+  "CardName": "ギラミリオン・ギラクシー(DMSD101/19)",
+  "CardType": "GRクリーチャー",
+  "Element": "光",
+  "CardRarity": "SR",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "メタリカ/ワンダフォース",
+  "Text": "このクリーチャーが攻撃する時、自分のメタリカを１体タップしてもよい。そうしたら、このクリーチャーをアンタップする。"
+}

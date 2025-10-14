@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-054",
+  "PackNo": "promoy15",
+  "CardName": "ヴァルキリー・ドギラゴン(DMPROMOY15P54/Y15)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "メガ・コマンド・ドラゴン",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手のクリーチャーを１体選んでもよい。その選んだクリーチャーとこのクリーチャーをバトルさせる。"
+}

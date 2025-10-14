@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex3-rp3TR6",
+  "PackNo": "dm24ex3",
+  "CardName": "森夢龍フィオナ・フォレスト(DM24EX3TR6/TR9)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "7000",
+  "CardCategory": "ドリームメイト・ドラゴン",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、フィールドを１枚、自分のマナゾーンから出してもよい。相手が自分のクリーチャーを選ぶ時、自分の他のドリームメイトは選ばれない。"
+}

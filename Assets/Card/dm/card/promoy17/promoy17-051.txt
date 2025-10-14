@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-051",
+  "PackNo": "promoy17",
+  "CardName": "埋め立てロボ・コンクリオン(DMPROMOY17P51/Y17)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "グレートメカオー",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手の墓地からカードを好きな枚数選び、持ち主の山札の一番下に好きな順序で戻してもよい。"
+}

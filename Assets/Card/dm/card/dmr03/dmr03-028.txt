@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr03-028",
+  "PackNo": "dmr03",
+  "CardName": "再誕の聖地(DMR0328/54)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の墓地にあるカードをすべて、タップしてマナゾーンに置く。"
+}

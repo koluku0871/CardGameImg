@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd07-008",
+  "PackNo": "dmd07",
+  "CardName": "緑神龍カミナリズム(DMD078/24)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "6000",
+  "CardCategory": "アース・ドラゴン/ハンター",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)自分のハンターが破壊される時、墓地に置くかわりにマナゾーンに置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16s-045",
+  "PackNo": "dmr16s",
+  "CardName": "闇からの復権(DMR16真45/54)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "クリーチャーを１体、自分の墓地から手札に戻す。自分のシールドの数が相手のより多ければ、カードを１枚引いてもよい。"
+}

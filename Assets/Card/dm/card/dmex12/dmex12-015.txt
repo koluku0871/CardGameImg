@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex12-015",
+  "PackNo": "dmex12",
+  "CardName": "激烈元気モーニンジョー(DMEX1215/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "ドリームメイト",
+  "Text": "S・トリガーこのクリーチャーがバトルゾーンに出た時、ドリームメイトを１体、自分の手札からバトルゾーンに出してもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy22-kamip05",
+  "PackNo": "promoy22",
+  "CardName": "フェアリー・ライフ(DMPROMOY22神P5/Y22)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー自分の山札の上から１枚目をマナゾーンに置く。"
+}

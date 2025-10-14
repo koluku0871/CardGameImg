@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp10-100",
+  "PackNo": "dmrp10",
+  "CardName": "στボテグッタ(DMRP10100/103)",
+  "CardType": "オレガ・オーラ",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "グランセクト/デリートロン",
+  "Text": ""
+}

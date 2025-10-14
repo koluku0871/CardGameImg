@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy18-010a",
+  "PackNo": "promoy18",
+  "CardName": "イチゴッチ・タンク/レッツ・ゴイチゴ(DMPROMOY18P10/Y18)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "7",
+  "CardSubType": "12000",
+  "CardCategory": "グランセクト",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

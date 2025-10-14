@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr21-080",
+  "PackNo": "dmr21",
+  "CardName": "黒鱗類ヴィロプレトス(DMR2180/94)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "6000",
+  "CardCategory": "ジュラシック・ドラゴン",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）"
+}

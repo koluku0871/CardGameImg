@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy12-048",
+  "PackNo": "promoy12",
+  "CardName": "霞み妖精ジャスミン(DMPROMOY12P48/Y12)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーをバトルゾーンに出した時、このクリーチャーを破壊してもよい。そうした場合、自分の山札の上から１枚目をマナゾーンに置く。"
+}

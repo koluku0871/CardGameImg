@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-050",
+  "PackNo": "dmc27",
+  "CardName": "奇襲兵ブルレイザー(DMC2750/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "バトルゾーンにある相手のクリーチャーの数が自分のクリーチャーの数より多いとき、このクリーチャーは攻撃することができない。"
+}

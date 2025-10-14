@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd10-008",
+  "PackNo": "dmd10",
+  "CardName": "神託のサトリ最澄(DMD108/14)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "オラクル",
+  "Text": "バトルゾーンにある自分の他の無色クリーチャー１体につき、このクリーチャーのパワーは+5000され、シールドをさらに１枚ブレイクする。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm15-015",
+  "PackNo": "dm15",
+  "CardName": "強撃砲士モービィー(DM1515/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド",
+  "Text": "このクリーチャーが攻撃する時、パワーがこのクリーチャーより小さい相手のクリーチャーを１体破壊する。"
+}

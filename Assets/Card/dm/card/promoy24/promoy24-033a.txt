@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy24-033a",
+  "PackNo": "promoy24",
+  "CardName": "ボルシャック・ドラゴン/決闘者・チャージャー(DMPROMOY24P33/Y24)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "6000+",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "W・ブレイカー攻撃中、このクリーチャーのパワーを、自分の墓地にある火のカード１枚につき+1000する。"
+}

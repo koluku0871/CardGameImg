@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-085",
+  "PackNo": "dmex08",
+  "CardName": "デュエマの神店員デュエ神さま(DMEX0885/???)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガーカードを２枚引く。この会場にデュエ神さまがいれば、もう１枚引く。{QRコード}"
+}

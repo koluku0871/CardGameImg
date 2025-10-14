@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy14-spd08",
+  "PackNo": "promoy14",
+  "CardName": "爆小僧トリス(DMCOROCOROY148/13)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ヒューマノイド爆",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

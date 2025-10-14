@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2x-TR5",
+  "PackNo": "dm22rp2x",
+  "CardName": "暴力類アバレマックス(DM22RP2XTR5/TR10)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "ジュラシック・コマンド・ドラゴン",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、多色ではないカードが出るまで、自分の山札の上からカードを表向きにする。表向きにしたカードをすべてマナゾーンに置く。"
+}

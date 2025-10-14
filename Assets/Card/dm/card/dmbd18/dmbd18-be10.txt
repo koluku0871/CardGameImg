@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd18-be10",
+  "PackNo": "dmbd18",
+  "CardName": "スローリー・チェーン(DMBD18BE10/BE10)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）このターン、クリーチャーは攻撃できない。この呪文をシールド化する。その後、自分のシールドを１つ墓地に置く。"
+}

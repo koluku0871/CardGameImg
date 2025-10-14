@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm04-022",
+  "PackNo": "dm04",
+  "CardName": "暴風の求道者フ・レイル(DM422/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "メカサンダー",
+  "Text": "このクリーチャーがバトルゾーンにある間、誰も闇のカードの「S(シールド)・トリガー」を使えない。"
+}

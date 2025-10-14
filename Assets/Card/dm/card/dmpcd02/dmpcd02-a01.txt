@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmpcd02-a01",
+  "PackNo": "dmpcd02",
+  "CardName": "ボルメテウス・武者・ドラゴンP'S(DMPCD02侍1/13)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "アーマード・ドラゴン/サムライ",
+  "Text": "W・ブレイカーこのクリーチャーが出た時または攻撃する時、相手のパワー6000以下のクリーチャーを１体破壊してもよい。そうしたら、自分のシールドを１つ墓地に置く。"
+}

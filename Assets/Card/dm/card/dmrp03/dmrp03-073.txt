@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp03-073",
+  "PackNo": "dmrp03",
+  "CardName": "両刃怪人ティボーン(DMRP0373/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "デビルマスク",
+  "Text": ""
+}

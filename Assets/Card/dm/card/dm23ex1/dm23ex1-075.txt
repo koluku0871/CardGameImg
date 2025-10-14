@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex1-075",
+  "PackNo": "dm23ex1",
+  "CardName": "無重力ナイン(DM23EX175/84)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "アウトレイジMAX",
+  "Text": "G・ゼロ-自分のアウトレイジがあれば、このクリーチャーをコストを支払わずに召喚してもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-096",
+  "PackNo": "promoy16",
+  "CardName": "ギアード・エクストリーム(DMPROMOY16P96/Y16)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のパワー9000以下のクリーチャーを１体破壊する。自分のシールドを１つ、手札に加える。ただし、その「S・トリガー」は使えない。"
+}

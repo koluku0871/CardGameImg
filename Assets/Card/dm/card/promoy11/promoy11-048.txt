@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-048",
+  "PackNo": "promoy11",
+  "CardName": "ロスト・ソウル(DMPROMOY11P48/Y11)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手は自身の手札をすべて、持ち主の墓地に置く。"
+}

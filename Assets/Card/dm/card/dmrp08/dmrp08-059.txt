@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp08-059",
+  "PackNo": "dmrp08",
+  "CardName": "迷宮の騎士サンザーン(DMRP0859/95)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4500",
+  "CardCategory": "デーモン・コマンド",
+  "Text": ""
+}

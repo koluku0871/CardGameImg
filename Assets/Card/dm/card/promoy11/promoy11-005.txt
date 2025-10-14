@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-005",
+  "PackNo": "promoy11",
+  "CardName": "ゴースト・タッチ(DMPROMOY11P5/Y11)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手の手札を１枚見ないで選び、捨てさせる。"
+}

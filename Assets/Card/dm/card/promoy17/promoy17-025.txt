@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-025",
+  "PackNo": "promoy17",
+  "CardName": "氷牙フランツI世(DMPROMOY17P25/Y17)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "サイバーロード/ナイト",
+  "Text": "自分の呪文を唱えるコストを１少なくしてもよい。ただし、コストは０以下にならない。"
+}

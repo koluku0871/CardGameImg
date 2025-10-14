@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-b043",
+  "PackNo": "dmex15",
+  "CardName": "堕魔ドゥンブレ(DMEX1543/100)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング/魔導具",
+  "Text": "このクリーチャーが出た時、カードを１枚、自分のシールドゾーンから手札に加える。ただし、その「S・トリガー」は使えない。"
+}

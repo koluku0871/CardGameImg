@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp1-16A",
+  "PackNo": "dm22rp1",
+  "CardName": "深淵の食卓(DM22RP116A/20)",
+  "CardType": "タマシード",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "アビスロイヤル",
+  "Text": "各ターン、自分のクリーチャーがはじめて攻撃する時、そのクリーチャーよりコストが小さいクリーチャー１体またはタマシードを１枚、自分の墓地から出してもよい。"
+}

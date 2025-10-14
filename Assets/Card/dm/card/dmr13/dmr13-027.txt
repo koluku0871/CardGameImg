@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-027",
+  "PackNo": "dmr13",
+  "CardName": "不死身のフッシッシ(DMR1327/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファンキー・ナイトメア",
+  "Text": "自分のターン中に、このクリーチャーが破壊された時、そのターンの終わりにこのクリーチャーを自分の墓地からバトルゾーンに出す。"
+}

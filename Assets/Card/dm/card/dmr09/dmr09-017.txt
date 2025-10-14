@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr09-017",
+  "PackNo": "dmr09",
+  "CardName": "神々しき光(DMR0917/110)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手はバトルゾーンにある自身の進化ではないクリーチャーを２体選び、新しいシールドとして、自身のシールドゾーンに裏向きにして加える。"
+}

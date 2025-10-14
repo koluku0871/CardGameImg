@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-010",
+  "PackNo": "dmx22b",
+  "CardName": "10月(DMX2210/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "10",
+  "CardSubType": "10000",
+  "CardCategory": "2016カレンダー",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）"
+}

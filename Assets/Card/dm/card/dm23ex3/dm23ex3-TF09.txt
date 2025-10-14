@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex3-TF09",
+  "PackNo": "dm23ex3",
+  "CardName": "神聖鬼デトロイト・テクノ(DM23EX3TF9/TF10)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "7000",
+  "CardCategory": "オラクリオン",
+  "Text": "W・ブレイカー自分のマナゾーンにある無色カードをタップする時、そのうちの好きな枚数のカードのマナの数字を２にしてもよい。"
+}

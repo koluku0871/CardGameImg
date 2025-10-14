@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd27-020",
+  "PackNo": "dmd27",
+  "CardName": "轟速ザ・レッド(DMD2720/20)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ソニック・コマンド/侵略者",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

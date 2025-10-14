@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx19-s31",
+  "PackNo": "dmx19",
+  "CardName": "グラディアン・レッド・ドラゴン(DMX19S31/S56)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "SR",
+  "Cost": "10",
+  "CardSubType": "15000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３枚ブレイクする）"
+}

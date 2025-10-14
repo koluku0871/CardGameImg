@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp09-004",
+  "PackNo": "dmrp09",
+  "CardName": "極幻智ガニメ・デ(DMRP094/102)",
+  "CardType": "オレガ・オーラ",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "トリックス/デリートロン",
+  "Text": "これをクリーチャーに付けた時、そのクリーチャーに付いているオーラ１枚につき、カードを１枚引く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm13-046",
+  "PackNo": "dm13",
+  "CardName": "剣撃士ザック・ランバー(DM1346/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "自分のマナゾーンのカードがすべてタップされている時、このクリーチャーのパワーは+2000される。"
+}

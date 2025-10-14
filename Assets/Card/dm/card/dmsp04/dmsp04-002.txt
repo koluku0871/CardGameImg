@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsp04-002",
+  "PackNo": "dmsp04",
+  "CardName": "バツトラの父(DMSP042/12)",
+  "CardType": "GRクリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "クリーチャーが自分を攻撃する時、このクリーチャーをタップしてその攻撃を中止してもよい。"
+}

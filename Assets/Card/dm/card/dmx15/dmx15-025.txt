@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx15-025",
+  "PackNo": "dmx15",
+  "CardName": "闇噛のファミリアミョウガ(DMX1525/30)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "オラクル",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手の手札を見てクリーチャー以外のカードを１枚選び、捨てさせる。"
+}

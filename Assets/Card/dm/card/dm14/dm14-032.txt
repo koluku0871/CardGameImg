@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-032",
+  "PackNo": "dm14",
+  "CardName": "爆炎料理人メタルコック(DM1432/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ヒューマノイド",
+  "Text": "バトルゾーンにあるクリーチャーはすべて、タップされていない多色クリーチャーを攻撃できる。"
+}

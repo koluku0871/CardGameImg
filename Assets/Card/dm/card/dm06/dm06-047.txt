@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm06-047",
+  "PackNo": "dm06",
+  "CardName": "シャインシェル・クラスター(DM647/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "7",
+  "CardSubType": "4000",
+  "CardCategory": "サイバー・クラスター",
+  "Text": "このクリーチャーで攻撃する代わりに、タップして次の能力を使ってもよい。カードを２枚引く。"
+}

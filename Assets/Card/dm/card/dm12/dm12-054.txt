@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm12-054",
+  "PackNo": "dm12",
+  "CardName": "フィーバー・ナッツ(DM1254/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ワイルド・ベジーズ",
+  "Text": "各プレイヤーはクリーチャーを召喚する時、支払うコストが１少なくなる。ただし、コストが１の時は少なくならない。"
+}

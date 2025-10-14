@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy20-047",
+  "PackNo": "promoy20",
+  "CardName": "マノミ<ポセイドン.Star>(DMPROMOY20P47/Y20)",
+  "CardType": "スター進化クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "ムートピア/リヴァイアサン/レクスターズ",
+  "Text": "スター進化：レクスターズまたは水のクリーチャー１体の上に置く。（このクリーチャーが離れる時、かわりに一番上のカードが離れる）このクリーチャーが出た時、カードを２枚引く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy21-085",
+  "PackNo": "promoy21",
+  "CardName": "メンデルスゾーン(DMPROMOY21P85/Y21)",
+  "CardType": "呪文",
+  "Element": "火/自然",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から２枚を表向きにする。その中からドラゴンをすべて、タップしてマナゾーンに置き、その後、残りを墓地に置く。"
+}

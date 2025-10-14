@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd22-006",
+  "PackNo": "dmbd22",
+  "CardName": "ブレイン・テンタクル(DMBD226/25)",
+  "CardType": "GRクリーチャー",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "デリートロン",
+  "Text": "ブロッカーこのクリーチャーは攻撃できない。このクリーチャーが出た時、カードを１枚引いてもよい。そうしたら、自分の手札を１枚捨てる。"
+}

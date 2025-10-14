@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm31-052",
+  "PackNo": "dm31",
+  "CardName": "爆獣の超人(DM3152/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ジャイアント/ナイト",
+  "Text": "S・トリガー(このクリーチャーをシールドゾーンから手札に加える時、コストを支払わずにすぐ召喚してもよい)"
+}

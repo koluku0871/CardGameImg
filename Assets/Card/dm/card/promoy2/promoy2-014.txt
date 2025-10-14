@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy2-014",
+  "PackNo": "promoy2",
+  "CardName": "超竜バハム(DMPROMOY2P14/Y2)",
+  "CardType": "進化クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "11000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "進化ー自分のアーマード・ドラゴン１体の上に置く。シールドを攻撃したとき、バトルゾーンにある自分のドラゴノイド１体につき、シールドをさらにもう１枚ブレイクする。"
+}

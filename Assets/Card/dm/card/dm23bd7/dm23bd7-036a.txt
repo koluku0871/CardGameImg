@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd7-036a",
+  "PackNo": "dm23bd7",
+  "CardName": "ルソー・モンテス/法と契約の秤(DM23BD736/60)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "このクリーチャーが出た時、自分の手札を１枚捨ててもよい。そうしたら、相手の手札を１枚見ないで選び、捨てさせる。"
+}

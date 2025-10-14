@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-079",
+  "PackNo": "dmrp14",
+  "CardName": "アシガル変怪(DMRP1479/95)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "ドラゴノイド/鬼札王国",
+  "Text": "このクリーチャーは攻撃できない。鬼タイム：自分と相手のシールドの数が合計６つ以下なら、真上の▪️能力を無視する。"
+}

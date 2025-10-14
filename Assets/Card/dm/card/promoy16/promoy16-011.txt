@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-011",
+  "PackNo": "promoy16",
+  "CardName": "ズバット戦車バチゴーン(DMPROMOY16P11/Y16)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "8",
+  "CardSubType": "15000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）T・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

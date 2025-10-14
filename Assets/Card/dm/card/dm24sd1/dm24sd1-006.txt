@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24sd1-006",
+  "PackNo": "dm24sd1",
+  "CardName": "ダチッコ・チュリス(DM24SD16/12)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "このクリーチャーが出た時、このターン次に召喚する自分のビートジョッキーの召喚コストを最大３少なくしてもよい。ただし、コストは０以下にならない。"
+}

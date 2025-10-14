@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-087",
+  "PackNo": "dmrp02",
+  "CardName": "ロローコギ(DMRP0287/93)",
+  "CardType": "NEOクリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "グランセクト",
+  "Text": "NEO進化：自分の自然のクリーチャー１体の上に置いてもよい。（クリーチャーが下にあれば、これをNEO進化クリーチャーとして扱う）このクリーチャーが破壊される時、墓地に置くかわりに自分のマナゾーンに置く。"
+}

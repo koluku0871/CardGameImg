@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr20-055",
+  "PackNo": "dmr20",
+  "CardName": "電波の影レビーテー(DMR2055/70)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ゴースト",
+  "Text": "自分のクリーチャーが攻撃する時、それがそのターンはじめての攻撃であれば、相手は自身の手札を１枚選び、捨てる。"
+}

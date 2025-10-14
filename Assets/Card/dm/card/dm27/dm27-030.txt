@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm27-030",
+  "PackNo": "dm27",
+  "CardName": "カラフル・ダンス(DM2730/55)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を、自分のマナゾーンに置く。その後、自分のマナゾーンのカードを５枚、墓地に置く。"
+}

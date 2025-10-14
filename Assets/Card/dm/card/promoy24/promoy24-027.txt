@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy24-027",
+  "PackNo": "promoy24",
+  "CardName": "パッピ・ラッピー(DMPROMOY24P27/Y24)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "このクリーチャーが出た時、自分の山札を見る。その中からフェニックス・クリーチャーを１体、表向きにしてもよい。その後、山札をシャッフルし、そのカードを山札の上に置く。"
+}

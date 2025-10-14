@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd16-007",
+  "PackNo": "dmsd16",
+  "CardName": "凶鬼23号グザリ(DMSD167/14)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の山札の上から２枚を墓地に置く。"
+}

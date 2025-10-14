@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp3-046a",
+  "PackNo": "dm23rp3",
+  "CardName": "パトファール-P4/サイレント・サイレン(DM23RP346/74)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "500",
+  "CardCategory": "メカ・デル・ディネロ",
+  "Text": "このクリーチャーが出た時、クリーチャーを１体選ぶ。次の自分のターンのはじめまで、そのクリーチャーは離れない。"
+}

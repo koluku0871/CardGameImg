@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp1-064",
+  "PackNo": "dm24rp1",
+  "CardName": "タブ＝タラウプ(DM24RP164/75)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アビスロイヤル",
+  "Text": "このクリーチャーを自分の墓地から召喚してもよい。（コストは支払う）"
+}

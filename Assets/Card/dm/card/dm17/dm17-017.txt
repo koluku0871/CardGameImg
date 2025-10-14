@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm17-017",
+  "PackNo": "dm17",
+  "CardName": "ライオネス・ソーサー(DM1717/55)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から１枚目を自分の墓地に置く。そのカードよりコストの低いクロスギアをすべて、バトルゾーンから持ち主の墓地に置く。"
+}

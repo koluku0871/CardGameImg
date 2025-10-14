@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-058",
+  "PackNo": "dmrp05",
+  "CardName": "オッケーBros.(DMRP0558/93)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーがバトルゾーンに出た時、クリーチャーを１体選び、アンタップしてもよい。"
+}

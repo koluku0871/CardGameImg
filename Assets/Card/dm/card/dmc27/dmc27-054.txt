@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-054",
+  "PackNo": "dmc27",
+  "CardName": "スナイプ・モスキート(DMC2754/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "ジャイアント・インセクト",
+  "Text": "このクリーチャーが攻撃するとき、自分のマナゾーンにカードが１枚でもあれば、その中から１枚選び、自分の手札に戻す。"
+}

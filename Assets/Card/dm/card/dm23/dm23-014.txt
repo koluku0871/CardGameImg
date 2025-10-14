@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23-014",
+  "PackNo": "dm23",
+  "CardName": "ナイトメア・ドラグーン(DM2314/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ティラノ・ドレイク",
+  "Text": "相手は、自分自身のシールドの「S・トリガー」を使った時、手札を１枚選んで捨てる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy13-051",
+  "PackNo": "promoy13",
+  "CardName": "ヘブンズ・ゲート(DMPROMOY13P51/Y13)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）進化クリーチャーではない光の「ブロッカー」を持つクリーチャーを２体まで、自分の手札からバトルゾーンに出す。"
+}

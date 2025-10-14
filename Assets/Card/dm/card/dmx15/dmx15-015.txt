@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx15-015",
+  "PackNo": "dmx15",
+  "CardName": "勇気の爪コルナゴ(DMX1515/30)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "0",
+  "CardCategory": "アウトレイジ",
+  "Text": "バトルゾーンにある自分の他のクリーチャー１体につき、このクリーチャーのパワーは+1000される。"
+}

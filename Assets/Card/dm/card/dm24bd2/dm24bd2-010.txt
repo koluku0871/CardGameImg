@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24bd2-010",
+  "PackNo": "dm24bd2",
+  "CardName": "ヘルトッQ(DM24BD210/16)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5050",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーは、出たターン、相手プレイヤーを攻撃できる。このクリーチャーが出た時、自分のジョーカーズ・クリーチャー１体につき１枚、カードを引いてもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr20-056",
+  "PackNo": "dmr20",
+  "CardName": "暴発秘宝ベンゾ(DMR2056/70)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "パンドラボックス",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分のシールドをひとつ、手札に加える。（その「S・トリガー」を使ってもよい）"
+}

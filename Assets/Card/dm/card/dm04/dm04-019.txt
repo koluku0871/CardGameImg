@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm04-019",
+  "PackNo": "dm04",
+  "CardName": "ミステリー・ブレス(DM419/55)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から１枚目を、裏向きのまま自分のシールドに加える。"
+}

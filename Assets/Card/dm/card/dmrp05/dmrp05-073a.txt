@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-073a",
+  "PackNo": "dmrp05",
+  "CardName": "凶鬼96号ガースー/黒光りの毒ガス(DMRP0573/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "スレイヤー（このクリーチャーがバトルする時、バトルの後、相手クリーチャーを破壊する）"
+}

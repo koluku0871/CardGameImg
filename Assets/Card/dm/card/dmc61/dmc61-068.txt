@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc61-068",
+  "PackNo": "dmc61",
+  "CardName": "キャンディ・ドロップ(DMC6168/94)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "このクリーチャーはブロックされない。"
+}

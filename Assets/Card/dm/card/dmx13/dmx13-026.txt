@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx13-026",
+  "PackNo": "dmx13",
+  "CardName": "破界の右手スミス(DMX1326/36)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "11000",
+  "CardCategory": "アウトレイジ",
+  "Text": ""
+}

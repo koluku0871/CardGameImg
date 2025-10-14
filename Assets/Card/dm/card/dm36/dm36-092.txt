@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm36-092",
+  "PackNo": "dm36",
+  "CardName": "注射人形エミリー(DM3692/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーが破壊された時、相手の手札を見ないで１枚選び、捨てさせる。"
+}

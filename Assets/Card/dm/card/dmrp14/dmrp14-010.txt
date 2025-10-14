@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-010",
+  "PackNo": "dmrp14",
+  "CardName": "不和の菜将ジターナイト(DMRP1410/95)",
+  "CardType": "クリーチャー",
+  "Element": "闇/自然",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "6000",
+  "CardCategory": "デーモン・コマンド/ワイルド・ベジーズ/不死樹王国",
+  "Text": "W・ブレイカー自分のクリーチャーがバトルゾーンを離れた時、カードを１枚引いてもよい。"
+}

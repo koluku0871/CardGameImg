@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr06-019",
+  "PackNo": "dmr06",
+  "CardName": "広くて狭い牧場(DMR0619/55)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の手札にあるコスト７以上のカードを好きな数、相手に見せる。このようにして見せたカード１枚につき、自分の山札の上から１枚目をタップしてマナゾーンに置く。"
+}

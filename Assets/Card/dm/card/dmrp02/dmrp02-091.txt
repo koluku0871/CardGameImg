@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-091",
+  "PackNo": "dmrp02",
+  "CardName": "タバタフリャ(DMRP0291/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "グランセクト",
+  "Text": "自分のパワー12000以上のクリーチャーの召喚コストを最大２少なくする。ただし、コストは０以下にはならない。"
+}

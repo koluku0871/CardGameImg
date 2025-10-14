@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-080",
+  "PackNo": "promoy11",
+  "CardName": "アクセル・カイザー「迅雷」(DMPROMOY11P80/Y11)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "9",
+  "CardSubType": "9000",
+  "CardCategory": "レッド・コマンド・ドラゴン/ハンター/エイリアン",
+  "Text": "バトルゾーンにある自分のドラゴンはすべて「スピードアタッカー」を得る。W・ブレイカー自分のドラゴンはすべて、シールドをさらに１枚ブレイクする。"
+}

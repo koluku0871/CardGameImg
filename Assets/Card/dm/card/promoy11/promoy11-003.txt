@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-003",
+  "PackNo": "promoy11",
+  "CardName": "ボルメテウス・ホワイト・ドラゴン(DMPROMOY11P3/Y11)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "7000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２枚ブレイクする）このクリーチャーがシールドをブレイクする時、相手はそのシールドを手札に加えるかわりに自身の墓地に置く。"
+}

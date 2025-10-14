@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm30-038",
+  "PackNo": "dm30",
+  "CardName": "天雷王機シルバー卿(DM3038/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1500",
+  "CardCategory": "グレートメカオー/ナイト",
+  "Text": "シールド・セイバー(自分のシールドがブレイクされる時、かわりにこのクリーチャーを破壊してもよい)"
+}

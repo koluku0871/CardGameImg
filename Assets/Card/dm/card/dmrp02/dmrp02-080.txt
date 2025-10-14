@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-080",
+  "PackNo": "dmrp02",
+  "CardName": "“OUT”ブレイク(DMRP0280/93)",
+  "CardType": "NEOクリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "NEO進化：自分の火のクリーチャー１体の上に置いてもよい。（クリーチャーが下にあれば、これをNEO進化クリーチャーとして扱う）このクリーチャーが攻撃する時、相手のパワー2000以下のクリーチャーを１体破壊する。"
+}

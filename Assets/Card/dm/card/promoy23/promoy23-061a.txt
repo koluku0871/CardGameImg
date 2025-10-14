@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy23-061a",
+  "PackNo": "promoy23",
+  "CardName": "電脳の女王アリス/不埒な再侵入(DMPROMOY23P61/Y23)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "アウトレイジMAX",
+  "Text": "このクリーチャーが出た時、自分の山札の上から３枚を見る。そのうちの１枚を手札に加え、残りを１枚ずつ、墓地と山札の上に置く。"
+}

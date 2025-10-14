@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp20-b04a",
+  "PackNo": "dmrp20",
+  "CardName": "新世界王の思想(DMRP204B/20)",
+  "CardType": "キング・セル",
+  "Element": "水/火/自然",
+  "CardRarity": "KGM",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライクこのカードを自分の手札からマナゾーンに置いた時、アンタップする。"
+}

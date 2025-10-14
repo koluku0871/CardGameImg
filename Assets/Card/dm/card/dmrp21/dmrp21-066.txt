@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp21-066",
+  "PackNo": "dmrp21",
+  "CardName": "解体爺ピーカプ(DMRP2166/76)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マシン・イーター",
+  "Text": "自分のタマシードがあれば、このクリーチャーに「スピードアタッカー」を与える。（「スピードアタッカー」を持つクリーチャーは召喚酔いしない）"
+}

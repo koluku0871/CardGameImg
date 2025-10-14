@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp4-076",
+  "PackNo": "dm24rp4",
+  "CardName": "ムルク・カンキン(DM24RP476/76)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ミステリー・トーテム/ツォルキン",
+  "Text": "このクリーチャーがタップした時、カードを１枚、自分のマナゾーンから手札に戻してもよい。"
+}

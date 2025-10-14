@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy13-024",
+  "PackNo": "promoy13",
+  "CardName": "龍素解析(DMPROMOY13P24/Y13)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の手札をすべて山札に加えてシャッフルし、カードを４枚引く。その後、コスト７以下の進化ではないコマンド・ドラゴンを１体、自分の手札からバトルゾーンに出してもよい。"
+}

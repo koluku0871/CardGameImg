@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex1-077a",
+  "PackNo": "dm25ex1",
+  "CardName": "パラダイス・アロマ/「挑戦、それは終わりなきスパイラル！」(DM25EX177/89)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "G・ゼロ：バトルゾーンにサイバーロードがあれば、このクリーチャーをコストを支払わずに召喚してもよい。"
+}

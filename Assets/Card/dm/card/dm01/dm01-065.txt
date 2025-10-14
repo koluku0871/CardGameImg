@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-065",
+  "PackNo": "dm01",
+  "CardName": "毒吐きダリア(DM165/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "ツリーフォーク",
+  "Text": "このクリーチャーは、相手プレイヤーを攻撃できない。"
+}

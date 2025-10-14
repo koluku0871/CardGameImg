@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp13-090",
+  "PackNo": "dmrp13",
+  "CardName": "アヤツリ入道(DMRP1390/95)",
+  "CardType": "クリーチャー",
+  "Element": "闇/火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット/鬼札王国",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）スレイヤー（このクリーチャーがバトルする時、バトルの後、相手クリーチャーを破壊する）"
+}

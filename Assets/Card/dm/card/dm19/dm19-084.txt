@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm19-084",
+  "PackNo": "dm19",
+  "CardName": "封魔フォルカロル(DM1984/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "グランド・デビル",
+  "Text": ""
+}

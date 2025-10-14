@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-074",
+  "PackNo": "dmrp02",
+  "CardName": "渾沌の獅子デスゲレロ(DMRP0274/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": ""
+}

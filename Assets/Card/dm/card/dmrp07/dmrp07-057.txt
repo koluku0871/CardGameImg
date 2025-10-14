@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-057",
+  "PackNo": "dmrp07",
+  "CardName": "はねるのポりん(DMRP0757/94)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "相手のクリーチャーがこのクリーチャーとバトルして破壊される時、相手はそのクリーチャーを自身の墓地に置くかわりに山札の一番下に置く。"
+}

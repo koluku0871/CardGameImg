@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-065",
+  "PackNo": "dmrp02",
+  "CardName": "献身の守り最世(DMRP0265/93)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1500",
+  "CardCategory": "メタリカ",
+  "Text": "セイバー：メタリカ（自分のメタリカが破壊される時、このクリーチャーをかわりに破壊してもよい）"
+}

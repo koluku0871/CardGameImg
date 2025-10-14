@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16g-029",
+  "PackNo": "dmr16g",
+  "CardName": "ジェット・ポルカ(DMR16極29/54)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ファイアー・バード炎",
+  "Text": "自分の進化クリーチャーが攻撃する時、このクリーチャーをアンタップする。"
+}

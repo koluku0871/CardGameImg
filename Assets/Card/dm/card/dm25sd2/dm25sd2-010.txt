@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25sd2-010",
+  "PackNo": "dm25sd2",
+  "CardName": "冒険妖精ポレコ(DM25SD210/11)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー/レクスターズ",
+  "Text": "自分のターンの終わりに、このターン、このクリーチャーがシールドをブレイクしていたら、このクリーチャーを手札に戻す。"
+}

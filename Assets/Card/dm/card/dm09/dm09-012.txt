@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm09-012",
+  "PackNo": "dm09",
+  "CardName": "闘将バグザグール(DM912/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "ダークロード",
+  "Text": "このクリーチャーがバトルゾーンにある間、すべてのクリーチャーは、可能なら毎ターン攻撃する。"
+}

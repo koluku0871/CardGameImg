@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-057",
+  "PackNo": "promoy16",
+  "CardName": "戦慄のプレリュード(DMPROMOY16P57/Y16)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、次に召喚する自分の無色クリーチャーの召喚コストを最大５少なくしてもよい。"
+}

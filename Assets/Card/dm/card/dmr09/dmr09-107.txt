@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr09-107",
+  "PackNo": "dmr09",
+  "CardName": "お調子者コンチワン(DMR09107/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ドリームメイト",
+  "Text": "相手のターン中、このクリーチャーのパワーは+3000される。"
+}

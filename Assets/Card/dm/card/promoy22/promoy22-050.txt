@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy22-050",
+  "PackNo": "promoy22",
+  "CardName": "パイセン・チュリス(DMPROMOY22P50/Y22)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "このクリーチャーが出た時、自分の山札の上から３枚を表向きにする。その中から、ビートジョッキーを２体まで手札に加え、残りを墓地に置く。"
+}

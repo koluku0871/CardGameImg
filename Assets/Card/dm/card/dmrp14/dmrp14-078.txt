@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-078",
+  "PackNo": "dmrp14",
+  "CardName": "ハエタタ・チュリス(DMRP1478/95)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "このクリーチャーがバトルゾーンに出た時、バトルゾーンにある相手の、クリーチャーではないカードを１枚選び、持ち主の墓地に置く。"
+}

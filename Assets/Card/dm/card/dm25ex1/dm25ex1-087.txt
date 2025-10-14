@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex1-087",
+  "PackNo": "dm25ex1",
+  "CardName": "ボント・プラントボ(DM25EX187/89)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から１枚をマナゾーンに置く。それがパワー12000以上のクリーチャーなら、自分の山札の上からもう１枚、マナゾーンに置く。"
+}

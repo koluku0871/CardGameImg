@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-s03",
+  "PackNo": "dm01",
+  "CardName": "アクア・スナイパー(DM1S3/S10)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "8",
+  "CardSubType": "5000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、バトルゾーンからクリーチャーを２体まで選び、持ち主の手札に戻してよい。"
+}

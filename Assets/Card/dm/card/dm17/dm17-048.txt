@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm17-048",
+  "PackNo": "dm17",
+  "CardName": "メテオレイジ・リザード(DM1748/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "メルト・ウォリアー",
+  "Text": ""
+}

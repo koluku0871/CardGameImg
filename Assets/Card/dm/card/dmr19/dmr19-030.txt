@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr19-030",
+  "PackNo": "dmr19",
+  "CardName": "宇宙ステイション(DMR1930/87)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "マジック・コマンド/侵略者",
+  "Text": "自分の進化クリーチャーを他のクリーチャーの上に置いた時、カードを１枚引く。"
+}

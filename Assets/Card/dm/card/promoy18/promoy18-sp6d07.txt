@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy18-sp6d07",
+  "PackNo": "promoy18",
+  "CardName": "DOKIDOKI・ザイナマ(DMCOROCOROY197/15)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー/ワンダフォース",
+  "Text": "このクリーチャーが破壊された時、GR召喚を２回する。（GR召喚：自分の超GRの上から１枚目を、コストを支払ったものとして召喚する）"
+}

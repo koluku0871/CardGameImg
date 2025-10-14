@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-025",
+  "PackNo": "dm10",
+  "CardName": "困惑の影トラブル・アルケミスト(DM1025/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ゴースト",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分のマナゾーンにあるカードをすべて自分の手札に戻す。"
+}

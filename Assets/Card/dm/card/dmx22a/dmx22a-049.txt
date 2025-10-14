@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22a-049",
+  "PackNo": "dmx22a",
+  "CardName": "飢えと乾きケローラ(DMX2249/59)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジ",
+  "Text": "自分のマナゾーンに水のカードがなければ、このクリーチャーを破壊する。"
+}

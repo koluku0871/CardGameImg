@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-043",
+  "PackNo": "dmrp01",
+  "CardName": "古の騎士ガザーン(DMRP0143/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "11000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）このクリーチャーが攻撃する時、自分のクリーチャーを１体破壊する。"
+}

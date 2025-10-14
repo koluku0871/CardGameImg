@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-b033",
+  "PackNo": "dmex15",
+  "CardName": "緑神龍ダグラドルグランR(DMEX1533/100)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "アース・ドラゴン",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）このクリーチャーが攻撃する時、シールドを１つ選び、持ち主のマナゾーンに置いてもよい。"
+}

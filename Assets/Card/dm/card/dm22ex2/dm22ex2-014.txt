@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex2-014",
+  "PackNo": "dm22ex2",
+  "CardName": "Disアイ・チョイス(DM22EX214/75)",
+  "CardType": "クリーチャー",
+  "Element": "水/闇/自然",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・コマンド/ディスタス",
+  "Text": "ブロッカースレイヤーこのクリーチャーが出た時、「S・トリガー」を持つカードを１枚、自分のマナゾーンからコストを支払わずに使ってもよい。"
+}

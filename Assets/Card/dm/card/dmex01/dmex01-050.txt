@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex01-050",
+  "PackNo": "dmex01",
+  "CardName": "霞み妖精ジャスミン(DMEX0150/80)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーがバトルゾーンに出た時、このクリーチャーを破壊してもよい。そうしたら、自分の山札の上から１枚目をマナゾーンに置く。"
+}

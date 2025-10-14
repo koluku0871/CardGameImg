@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr10-015",
+  "PackNo": "dmr10",
+  "CardName": "無限の銃刃ダン・クローリー(DMR1015/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "13",
+  "CardSubType": "35000",
+  "CardCategory": "アウトレイジMAX",
+  "Text": "∞ブレイカー（このクリーチャーは相手のシールドを好きな数ブレイクする）"
+}

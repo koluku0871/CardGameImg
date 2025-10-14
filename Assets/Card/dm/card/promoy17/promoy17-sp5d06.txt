@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-sp5d06",
+  "PackNo": "promoy17",
+  "CardName": "蓮根の槌(DMCOROCOROY186/10)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ビーストフォーク/ハンター",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd13-008",
+  "PackNo": "dmsd13",
+  "CardName": "ザババン・ジョーカーズ(DMSD138/20)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "ジョーカーズ",
+  "Text": "カードを１枚引き、その後、自分の手札を１枚捨てる。捨てたカードがジョーカーズなら、カードを１枚引く。"
+}

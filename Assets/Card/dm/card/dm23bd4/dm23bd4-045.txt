@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd4-045",
+  "PackNo": "dm23bd4",
+  "CardName": "メンデルスゾーン(DM23BD445/60)",
+  "CardType": "呪文",
+  "Element": "火/自然",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から２枚を表向きにする。その中からドラゴンをすべて、タップしてマナゾーンに置き、その後、残りを墓地に置く。"
+}

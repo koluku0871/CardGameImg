@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp1-TR03a",
+  "PackNo": "dm25rp1",
+  "CardName": "叡智の聖騎士スクアーロ/エナジー・ライト(DM25RP1TR3/TR9)",
+  "CardType": "NEOクリーチャー",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "ムートピア",
+  "Text": "NEO進化：水のクリーチャー１体の上に置いてもよい。このクリーチャーが出た時、「ブロッカー」を持つクリーチャーをすべて、持ち主の手札に戻す。"
+}

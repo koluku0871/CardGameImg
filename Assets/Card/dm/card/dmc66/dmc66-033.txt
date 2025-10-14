@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc66-033",
+  "PackNo": "dmc66",
+  "CardName": "インビンシブル・フォートレス(DMC6633/36)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "13",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のシールドを３枚まで選び、持ち主の墓地に置く。"
+}

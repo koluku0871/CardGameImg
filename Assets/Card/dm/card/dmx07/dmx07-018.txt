@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx07-018",
+  "PackNo": "dmx07",
+  "CardName": "マインド・リセット(DMX0718/21)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手の手札を見て、その中から呪文を１枚選び、捨てさせる。"
+}

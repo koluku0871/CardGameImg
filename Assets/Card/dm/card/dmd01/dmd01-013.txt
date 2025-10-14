@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd01-013",
+  "PackNo": "dmd01",
+  "CardName": "無頼勇騎ゴンタ(DMD0113/13)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "ヒューマノイド/ビーストフォーク",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp08-060a",
+  "PackNo": "dmrp08",
+  "CardName": "赤攻銀マレーシュ/フェイスラッシュ(DMRP0860/95)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "メタリカ",
+  "Text": "スマッシュ・バースト（このクリーチャーが攻撃する時、このカードの呪文側を、バトルゾーンに置いたままコストを支払わずに唱えてもよい）"
+}

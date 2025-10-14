@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr12-008",
+  "PackNo": "dmr12",
+  "CardName": "散舞する世界パシフィックR(DMR128/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "アウトレイジ",
+  "Text": "自分のターンのはじめに、このクリーチャーと自分の手札と自分の墓地のカードをすべて山札に加えてシャッフルする。その後、カードを３枚引く。"
+}

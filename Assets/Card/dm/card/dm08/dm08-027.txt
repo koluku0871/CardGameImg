@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm08-027",
+  "PackNo": "dm08",
+  "CardName": "単車男(DM827/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "6000",
+  "CardCategory": "ヘドリアン",
+  "Text": "ブロッカーこのクリーチャーは攻撃することができない。自分の他のクリーチャーがバトルゾーンに出たとき、このクリーチャーを自分の墓地に置く。"
+}

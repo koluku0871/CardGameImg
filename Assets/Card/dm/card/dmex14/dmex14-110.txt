@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex14-110",
+  "PackNo": "dmex14",
+  "CardName": "しらたき姫と七品の小人(DMEX14110/110)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ/チーム切札",
+  "Text": "バトル中、このクリーチャーのパワーを+3000する。"
+}

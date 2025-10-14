@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm05-023",
+  "PackNo": "dm05",
+  "CardName": "サンダー・ネット(DM523/55)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにある自分の水のクリーチャー１体につき、バトルゾーンにある相手のクリーチャーを１体選び、タップしてもよい。"
+}

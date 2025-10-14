@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp2x-063",
+  "PackNo": "dm23rp2x",
+  "CardName": "噴霧怪人ドポイズン(DM23RP2X63/74)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "5000",
+  "CardCategory": "デビルマスク",
+  "Text": "このクリーチャーが出た時、各プレイヤーは自身のクリーチャーを１体選び、破壊する。"
+}

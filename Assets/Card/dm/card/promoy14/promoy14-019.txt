@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy14-019",
+  "PackNo": "promoy14",
+  "CardName": "燃えるメラッチ(DMPROMOY14P19/Y14)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ファイアー・バード炎/革命軍",
+  "Text": "自分の火の進化クリーチャーの召喚コストを最大２少なくする。ただしコストは０以下にならない。バトル中、このクリーチャーは破壊されない。"
+}

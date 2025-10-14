@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm16-006",
+  "PackNo": "dm16",
+  "CardName": "円舞の使徒ラストル(DM166/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "1500",
+  "CardCategory": "イニシエート",
+  "Text": "相手のターン中、自分の手札を捨てる時、その手札のかわりにこのクリーチャーを破壊すれば１枚も捨てなくてよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-019",
+  "PackNo": "dmr13",
+  "CardName": "龍素記号X2アーマ・フランツ(DMR1319/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "クリスタル・コマンド・ドラゴン",
+  "Text": "自分の水の呪文を唱えるコストを最大２少なくしてもよい。ただし、コストは１より少なくならない。"
+}

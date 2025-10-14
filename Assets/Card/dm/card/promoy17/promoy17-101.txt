@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-101",
+  "PackNo": "promoy17",
+  "CardName": "波乗りザブンプル(DMPROMOY17P101/Y17)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "「スピードアタッカー」を持つクリーチャーは、バトルゾーンにタップして出る。"
+}

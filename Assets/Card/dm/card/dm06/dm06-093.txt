@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm06-093",
+  "PackNo": "dm06",
+  "CardName": "孤独の影ロンリー・ウォーカー(DM693/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "ゴースト",
+  "Text": "自分のターンが終わるとき、バトルゾーンにある自分のクリーチャーがこのクリーチャーだけであれば、自分の墓地に置く。"
+}

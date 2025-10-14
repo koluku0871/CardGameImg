@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-021",
+  "PackNo": "dmrp04m",
+  "CardName": "ソイルピンプ・キャベッジ(DMRP04M21/61)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、次に召喚する自然のパワー12000以上のクリーチャーのコストを最大８少なくしてもよい。ただし、コストは０以下にはならない。"
+}

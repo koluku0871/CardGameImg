@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex01-014",
+  "PackNo": "dmex01",
+  "CardName": "薫風妖精コートニー(DMEX0114/80)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "自分のマナゾーンにあるカードを、すべての文明のカードとして扱う。"
+}

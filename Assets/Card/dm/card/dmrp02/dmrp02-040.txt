@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-040",
+  "PackNo": "dmrp02",
+  "CardName": "マジカル・バキューム(DMRP0240/93)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを２枚引く。その後、自分の手札の枚数よりコストが小さいクリーチャーを１体選び、持ち主の手札に戻してもよい。"
+}

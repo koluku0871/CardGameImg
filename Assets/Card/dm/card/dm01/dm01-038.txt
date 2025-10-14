@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-038",
+  "PackNo": "dm01",
+  "CardName": "暴走するロング・ホーン(DM138/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ホーン・ビースト",
+  "Text": "このクリーチャーは、パワー3000以下のクリーチャーにブロックされない。"
+}

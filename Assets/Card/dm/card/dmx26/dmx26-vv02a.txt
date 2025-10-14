@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx26-vv02a",
+  "PackNo": "dmx26",
+  "CardName": "闘将銀河城ハートバーン(DMX26VV2/VV4)",
+  "CardType": "ドラグハート・フォートレス",
+  "Element": "火",
+  "CardRarity": "WVC",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにある自分のドラゴンすべてに「スピードアタッカー」を与える。龍解：自分のドラゴンがアンタップした時、このドラグハートをクリーチャー側に裏返し、アンタップする。"
+}

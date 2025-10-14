@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd20-010",
+  "PackNo": "dmbd20",
+  "CardName": "堕呪バレッドゥ(DMBD2010/12)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "魔導具",
+  "Text": "カードを２枚引く。その後、自分の手札を１枚捨てる。"
+}

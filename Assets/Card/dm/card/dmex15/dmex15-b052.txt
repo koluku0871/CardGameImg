@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-b052",
+  "PackNo": "dmex15",
+  "CardName": "大地と永遠の神門(DMEX1552/100)",
+  "CardType": "呪文",
+  "Element": "闇/自然",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "コスト７以下のゴッドを１体、自分の墓地またはマナゾーンから出す。"
+}

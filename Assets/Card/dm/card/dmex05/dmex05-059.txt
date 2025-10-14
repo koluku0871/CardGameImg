@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex05-059",
+  "PackNo": "dmex05",
+  "CardName": "ダスティン・ジョーバー(DMEX0559/87)",
+  "CardType": "GRクリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "5000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "このクリーチャーはタップしてバトルゾーンに出る。（ゲーム開始時、GRクリーチャーは山札には含めず、自分の超GRに置き、バトルゾーン以外のゾーンに行った場合、超GRの一番下に戻す）"
+}

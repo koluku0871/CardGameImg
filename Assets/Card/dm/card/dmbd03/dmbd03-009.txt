@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd03-009",
+  "PackNo": "dmbd03",
+  "CardName": "メラメラ・ジョーカーズ(DMBD039/15)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "ジョーカーズ",
+  "Text": "ジョーカーズを１枚、自分の手札から捨ててもよい。そうしたら、カードを２枚引く。"
+}

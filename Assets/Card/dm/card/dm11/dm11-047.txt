@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm11-047",
+  "PackNo": "dm11",
+  "CardName": "髑髏怪人スピンホイール(DM1147/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デビルマスク",
+  "Text": "このクリーチャーのパワーは、バトルゾーンにある相手のタップされているクリーチャー１体につき+2000される。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex12-022",
+  "PackNo": "dmex12",
+  "CardName": "希望のジョー星(DMEX1222/110)",
+  "CardType": "D2フィールド",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このゲームで使うカード、そのコスト、そのテキスト内のコストはすべて、文明を失う。（無色となる）（他のD２フィールドがバトルゾーンに出た時、このD２フィールドを自分の墓地に置く）"
+}

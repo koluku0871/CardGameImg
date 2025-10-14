@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23sd3-015",
+  "PackNo": "dm23sd3",
+  "CardName": "AQvibrato(DM23SD315/15)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "マジック・リキッド・ピープル",
+  "Text": "このクリーチャーが出た時、カードを１枚引く。"
+}

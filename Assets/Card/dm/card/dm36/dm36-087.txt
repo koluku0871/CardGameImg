@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm36-087",
+  "PackNo": "dm36",
+  "CardName": "黒神龍ツクヨミ(DM3687/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ドラゴン・ゾンビ/オリジン",
+  "Text": ""
+}

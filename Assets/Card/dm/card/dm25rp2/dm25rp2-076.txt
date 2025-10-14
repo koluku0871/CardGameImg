@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp2-076",
+  "PackNo": "dm25rp2",
+  "CardName": "ROYAL-減亜5(DM25RP276/77)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ドリームメイト/テクノ・サムライ",
+  "Text": "このクリーチャーが出た時、自分の手札を１枚、タップしてマナゾーンに置いてもよい。それがNEOクリーチャーなら、カードを１枚引く。"
+}

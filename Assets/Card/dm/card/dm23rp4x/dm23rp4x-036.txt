@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp4x-036",
+  "PackNo": "dm23rp4x",
+  "CardName": "ピッピ・修・ピヨッコ(DM23RP4X36/74)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "アーマード・ファイアー・バード",
+  "Text": "相手のターン中に、相手が自身のシールドゾーンにカードを置く時、かわりに墓地に置く。"
+}

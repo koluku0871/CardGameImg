@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx23-055",
+  "PackNo": "dmx23",
+  "CardName": "復活の審判者シヴァラーク(DMX2355/60)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "8",
+  "CardSubType": "8000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "W・ブレイカーこのクリーチャーが攻撃する時、闇の進化ではないクリーチャーを１体、自分の墓地からバトルゾーンに出してもよい。"
+}

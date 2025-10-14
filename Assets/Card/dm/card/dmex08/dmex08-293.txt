@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-293",
+  "PackNo": "dmex08",
+  "CardName": "堕呪ゾメンザン(DMEX08293/???)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "魔導具",
+  "Text": ""
+}

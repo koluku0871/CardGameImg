@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx14-076",
+  "PackNo": "dmx14",
+  "CardName": "超爆デュエル・ファイアー(DMX1476/84)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）「ブロッカー」を持つクリーチャーをすべて破壊する。"
+}

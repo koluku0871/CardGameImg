@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc60-014",
+  "PackNo": "dmc60",
+  "CardName": "死神ハンド(DMC6014/14)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のクリーチャーを１体破壊する。バトルゾーンに自分の、名前に《死神》とあるクリーチャーがあれば、相手は自身の手札を１枚選び、捨てる。"
+}

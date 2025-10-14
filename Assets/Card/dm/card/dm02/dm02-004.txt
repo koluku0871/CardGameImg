@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm02-004",
+  "PackNo": "dm02",
+  "CardName": "ボルザード・ドラゴン(DM24/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "このクリーチャーが攻撃するとき、相手のマナゾーンからカードを１枚選び、持ち主の墓地に置く。"
+}

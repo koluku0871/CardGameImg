@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd4-036",
+  "PackNo": "dm23bd4",
+  "CardName": "緑神龍バルガザルムス(DM23BD436/60)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "アース・ドラゴン",
+  "Text": "自分のドラゴンが攻撃する時、山札の上から１枚目を表向きにしてもよい。それがドラゴンなら、手札に加える。それ以外なら、マナゾーンに置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx01-009",
+  "PackNo": "dmx01",
+  "CardName": "激竜王(DMX019/40)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "25000",
+  "CardCategory": "レッド・コマンド・ドラゴン/ハンター",
+  "Text": ""
+}

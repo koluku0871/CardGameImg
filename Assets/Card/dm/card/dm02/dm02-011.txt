@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm02-011",
+  "PackNo": "dm02",
+  "CardName": "ウォルタ(DM211/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "サイバーロード",
+  "Text": "このクリーチャーが攻撃するとき、カードを１枚引いてよい。"
+}

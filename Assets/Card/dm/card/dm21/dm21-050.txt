@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm21-050",
+  "PackNo": "dm21",
+  "CardName": "テクテク・アリンコン(DM2150/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ビークル・ビー",
+  "Text": "バトルゾーンに自分のドリームメイトが１体でもあれば、このクリーチャーのパワーは+2000される。"
+}

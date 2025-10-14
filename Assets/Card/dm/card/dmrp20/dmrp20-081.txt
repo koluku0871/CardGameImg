@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp20-081",
+  "PackNo": "dmrp20",
+  "CardName": "寅年の演上者プージョ(DMRP2081/95)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2022",
+  "CardCategory": "アウトレイジ",
+  "Text": ""
+}

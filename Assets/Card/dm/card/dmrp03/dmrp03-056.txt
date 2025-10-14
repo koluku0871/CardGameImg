@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp03-056",
+  "PackNo": "dmrp03",
+  "CardName": "シンクロ・マニューバ(DMRP0356/93)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "コストを支払うかわりに、自分の自然のクリーチャーを２体タップして、この呪文を唱えてもよい。相手のクリーチャーを１体選び、持ち主のマナゾーンに置く。"
+}

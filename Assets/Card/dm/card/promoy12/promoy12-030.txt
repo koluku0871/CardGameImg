@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy12-030",
+  "PackNo": "promoy12",
+  "CardName": "日曜日よりの使者メーテル(DMPROMOY12P30/Y12)",
+  "CardType": "クリーチャー",
+  "Element": "水/火",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "アウトレイジ",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。自分がカードを１枚引く時、１枚のかわりに２枚引き、自分の手札を１枚捨ててもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp19-015",
+  "PackNo": "dmrp19",
+  "CardName": "B.F.F.モーメント(DMRP1915/95)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）カードを１枚引く。自分の手札の枚数以下のコストを持つ相手のクリーチャーをすべて、持ち主の手札に戻す。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex1-062",
+  "PackNo": "dm23ex1",
+  "CardName": "夜露死苦キャロル(DM23EX162/84)",
+  "CardType": "クリーチャー",
+  "Element": "水/火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジ",
+  "Text": "このクリーチャーがどこからでも墓地に置かれる時、自分のマナゾーンに水と火の文明があれば、このクリーチャーを墓地に置くかわりに手札に戻す。"
+}

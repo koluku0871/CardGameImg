@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12b-006",
+  "PackNo": "dmx12b",
+  "CardName": "シガーロス(DMX126/？？？)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを１枚引く。プラチナ・ドライブ-バトルゾーンにある自分のクリーチャー１体のパワーは、バトルゾーンを離れるまで、+1000される。"
+}

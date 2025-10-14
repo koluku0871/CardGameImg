@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc42-035",
+  "PackNo": "dmc42",
+  "CardName": "薫風妖精コートニー(DMC4235/90)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "自分のマナゾーンにあるカードを、すべての文明のカードとして扱う。"
+}

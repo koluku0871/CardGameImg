@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx13-030",
+  "PackNo": "dmx13",
+  "CardName": "ブレイン・チャージャー(DMX1330/36)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを１枚引く。チャージャー（この呪文を唱えた後、墓地に置くかわりに自分のマナゾーンに置く）"
+}

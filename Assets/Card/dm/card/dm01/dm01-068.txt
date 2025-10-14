@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-068",
+  "PackNo": "dm01",
+  "CardName": "シェル・ドーム(DM168/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "コロニー・ビートル",
+  "Text": "パワーアタッカー+2000(攻撃中、このクリーチャーのパワーは+2000される。)"
+}

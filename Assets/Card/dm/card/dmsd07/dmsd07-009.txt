@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd07-009",
+  "PackNo": "dmsd07",
+  "CardName": "イカリノ裁徒(DMSD079/13)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "3500",
+  "CardCategory": "メタリカ/サバキスト",
+  "Text": "自分のシールドゾーンにカードが置かれた時、相手のクリーチャーを１体選び、タップする。そのクリーチャーは次の相手のターンのはじめにアンタップしない。"
+}

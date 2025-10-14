@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm36-082",
+  "PackNo": "dm36",
+  "CardName": "海底機兵シーカイ(DM3682/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "5000",
+  "CardCategory": "グレートメカオー",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分の(M・ソウル)クリーチャーを１体、バトルゾーンから手札に戻す。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-086",
+  "PackNo": "dm10",
+  "CardName": "マインド・サーチ(DM1086/110)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のシールドを３枚まで見る。その後、そのシールドを元の場所に戻す。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm06-044",
+  "PackNo": "dm06",
+  "CardName": "聖騎士ムーンティアー(DM644/110)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "3500",
+  "CardCategory": "レインボー・ファントム",
+  "Text": "呪文を唱えたターンのみ、このクリーチャーを召喚することができる。"
+}

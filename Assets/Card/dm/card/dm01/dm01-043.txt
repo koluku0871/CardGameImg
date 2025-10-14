@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-043",
+  "PackNo": "dm01",
+  "CardName": "大気の使徒フレイ(DM143/110)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "イニシエート",
+  "Text": "自分のターンの終わりに、このクリーチャーをアンタップしてよい。"
+}

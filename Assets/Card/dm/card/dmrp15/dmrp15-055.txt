@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp15-055",
+  "PackNo": "dmrp15",
+  "CardName": "裏方者クロココケラ(DMRP1555/95)",
+  "CardType": "クリーチャー",
+  "Element": "水/火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ムートピア/美孔麗王国",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の手札をすべて、好きな順序で山札の一番下に置く。その後、同じ枚数のカードを引く。"
+}

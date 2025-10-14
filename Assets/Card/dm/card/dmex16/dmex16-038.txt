@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex16-038",
+  "PackNo": "dmex16",
+  "CardName": "邪霊神官バーロウ(DMEX1638/100)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "9",
+  "CardSubType": "5000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "このクリーチャーが出た時、名前に《バロム》とある進化クリーチャーを１体、自分の墓地からコストを支払わずに召喚してもよい。"
+}

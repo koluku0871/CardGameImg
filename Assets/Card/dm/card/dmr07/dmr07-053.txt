@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr07-053",
+  "PackNo": "dmr07",
+  "CardName": "氷菓の超人(DMR0753/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "ジャイアント/アンノイズ",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-067",
+  "PackNo": "dmrp05",
+  "CardName": "貝獣バタフー(DMRP0567/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ムートピア",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）"
+}

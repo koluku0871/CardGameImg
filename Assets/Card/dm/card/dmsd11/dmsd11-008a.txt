@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd11-008a",
+  "PackNo": "dmsd11",
+  "CardName": "ジェンネ・トーピー/GYORAI-CANNON!(DMSD118/20)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "トリックス/ワンダフォース",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）このターン中に、自分が呪文を唱えていなければ、このクリーチャーは攻撃できない。"
+}

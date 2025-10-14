@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex4-PR026a",
+  "PackNo": "dm24ex4",
+  "CardName": "伝達妖精セージ/コンタクト・メッセージ(DM24EX4PR26/PR60)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "相手のクリーチャーが召喚以外の方法で出た時、そのクリーチャーを持ち主の手札に戻してもよい。"
+}

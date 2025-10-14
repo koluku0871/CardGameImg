@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc61-091",
+  "PackNo": "dmc61",
+  "CardName": "封魔ハリセンモン(DMC6191/94)",
+  "CardType": "クリーチャー",
+  "Element": "水/闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "グランド・デビル",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。このクリーチャーはブロックされない。"
+}

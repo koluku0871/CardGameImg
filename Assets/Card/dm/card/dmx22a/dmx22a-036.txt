@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22a-036",
+  "PackNo": "dmx22a",
+  "CardName": "強奪者テラフォーム(DMX2236/59)",
+  "CardType": "クリーチャー",
+  "Element": "水/自然",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジ",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。相手がカードを引いた時、自分の山札の上から１枚目をマナゾーンに置いてもよい。"
+}

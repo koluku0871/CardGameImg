@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr20-035",
+  "PackNo": "dmr20",
+  "CardName": "コダマの気合掘り(DMR2035/70)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "クリーチャーを１体、自分の墓地から手札に戻す。カードを１枚、自分のシールドゾーンから手札に加える。ただし、その「S・トリガー」は使えない。"
+}

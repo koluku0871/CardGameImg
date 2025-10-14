@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex07-040",
+  "PackNo": "dmex07",
+  "CardName": "チューチョロ(DMEX0740/48)",
+  "CardType": "GRクリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "ビートジョッキー/ワンダフォース",
+  "Text": "このカードは、２枚より多く超GRに入れることができる。（ゲーム開始時、GRクリーチャーは山札には含めず、自分の超GRに置き、バトルゾーン以外のゾーンに行った場合、超GRの一番下に戻す）"
+}

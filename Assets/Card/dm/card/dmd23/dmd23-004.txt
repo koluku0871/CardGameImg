@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd23-004",
+  "PackNo": "dmd23",
+  "CardName": "奇跡の玉クルスタ(DMD234/12)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジャスティス・オーブ",
+  "Text": "自分のターンの終わりに、このクリーチャーをアンタップする。"
+}

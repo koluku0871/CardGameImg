@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd6-049a",
+  "PackNo": "dm23bd6",
+  "CardName": "シビレアシダケ/インビンシブル・パワー(DM23BD649/60)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "バルーン・マッシュルーム",
+  "Text": "このクリーチャーが出た時、自分の手札を１枚マナゾーンに置いてもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-087",
+  "PackNo": "dm22ex1",
+  "CardName": "無限皇帝の顕現(DM22EX187/130)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "チーム零",
+  "Text": "自分の山札の上から２枚を墓地に置く。その後、コストの合計が２以下になるよう、クリーチャーを２体まで自分の墓地から選んで出す。"
+}

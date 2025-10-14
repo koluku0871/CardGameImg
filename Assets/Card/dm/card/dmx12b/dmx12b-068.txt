@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12b-068",
+  "PackNo": "dmx12b",
+  "CardName": "ラッキー・ダーツ(DMX1268/？？？)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のシールドをひとつ相手に選ばせ、見る。それが呪文であればコストを支払わずにすぐ唱えてもよい。"
+}

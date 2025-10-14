@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-021",
+  "PackNo": "dm01",
+  "CardName": "テレポーテーション(DM121/110)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにあるクリーチャーを２体まで選び、持ち主の手札に戻す。"
+}

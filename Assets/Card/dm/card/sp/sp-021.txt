@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "sp-021",
+  "PackNo": "sp",
+  "CardName": "フレイムバーン・ドラゴン(DMSI/)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手のパワー4000以下のクリーチャーを１体、破壊してもよい。"
+}

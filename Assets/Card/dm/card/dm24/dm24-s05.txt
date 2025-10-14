@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24-s05",
+  "PackNo": "dm24",
+  "CardName": "華憐妖精ミンメイ(DM24S5/S10)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "自分のマナゾーンにある多色クリーチャーを召喚してもよい。"
+}

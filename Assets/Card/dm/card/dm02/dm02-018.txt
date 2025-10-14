@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm02-018",
+  "PackNo": "dm02",
+  "CardName": "シェル・フォートレス(DM218/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "9",
+  "CardSubType": "5000",
+  "CardCategory": "コロニー・ビートル",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、相手のマナゾーンからカードを２枚まで選び、持ち主の墓地に置く。"
+}

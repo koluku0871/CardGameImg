@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr01-055",
+  "PackNo": "dmr01",
+  "CardName": "ギッタ・ギタ・ギター(DMR0155/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ガーゴイル/ハンター",
+  "Text": "ハンティング(バトル中、このクリーチャーのパワーは、バトルゾーンにある自分のハンター１体につき+1000される)"
+}

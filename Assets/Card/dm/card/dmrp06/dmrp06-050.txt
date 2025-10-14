@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-050",
+  "PackNo": "dmrp06",
+  "CardName": "轟車“Ｇ-突”(DMRP0650/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "パワーアタッカー+2000（攻撃中、このクリーチャーのパワーを+2000する）W・ブレイカーG・G・G：自分の手札が１枚以下でなければ、このクリーチャーは攻撃できない。"
+}

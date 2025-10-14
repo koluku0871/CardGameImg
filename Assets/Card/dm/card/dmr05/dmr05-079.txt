@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr05-079",
+  "PackNo": "dmr05",
+  "CardName": "サイバー・D・モンストレイション(DMR0579/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "サイバー・コマンド/エイリアン",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

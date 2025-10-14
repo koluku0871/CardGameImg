@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm36-027",
+  "PackNo": "dm36",
+  "CardName": "特攻秘宝カースガイ(DM3627/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "5000",
+  "CardCategory": "パンドラボックス",
+  "Text": "相手のクリーチャーが攻撃する時、このクリーチャーを破壊する。その後、相手の攻撃クリーチャーを破壊する。"
+}

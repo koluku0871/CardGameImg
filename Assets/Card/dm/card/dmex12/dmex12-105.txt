@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex12-105",
+  "PackNo": "dmex12",
+  "CardName": "土隠妖精ユウナギ(DMEX12105/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー/シノビ",
+  "Text": "自分の他のシノビがバトルゾーンを離れる時、かわりにそのクリーチャーをマナゾーンに置いてもよい。"
+}

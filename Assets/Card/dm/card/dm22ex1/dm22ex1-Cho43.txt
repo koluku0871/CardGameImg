@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-Cho43",
+  "PackNo": "dm22ex1",
+  "CardName": "影速ザ・トリッパー(DM22EX1超43/超50)",
+  "CardType": "クリーチャー",
+  "Element": "闇/火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "4000",
+  "CardCategory": "ソニック・コマンド/ゴースト",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）相手はカードをマナゾーンに置く時、タップして置く。"
+}

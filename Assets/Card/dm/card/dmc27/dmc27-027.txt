@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-027",
+  "PackNo": "dmc27",
+  "CardName": "屑男(DMC2727/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "ヘドリアン",
+  "Text": "このクリーチャーがバトルゾーンにある間、他のクリーチャーがバトルゾーンから墓地に置かれるたびに、カードを１枚引いてもよい。"
+}

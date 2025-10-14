@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex1-021a",
+  "PackNo": "dm25ex1",
+  "CardName": "サイバー・J・イレブン/「みんなと戦えてよかった♥」(DM25EX121/89)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "11",
+  "CardSubType": "11000",
+  "CardCategory": "サイバー・コマンド",
+  "Text": "【M・ソウル】W・ブレイカー自分の水のクリーチャーが11体以上あれば、自分はゲームに勝つ。"
+}

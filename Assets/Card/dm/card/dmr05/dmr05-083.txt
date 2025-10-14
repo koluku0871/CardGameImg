@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr05-083",
+  "PackNo": "dmr05",
+  "CardName": "カムバック・マイ・パーロック(DMR0583/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "サイバーロード",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex12-059a",
+  "PackNo": "dmex12",
+  "CardName": "パーロックJr./新たなる旅立ち(DMEX1259/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "オラクル/サイバーロード",
+  "Text": ""
+}

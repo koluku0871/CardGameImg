@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy21-063",
+  "PackNo": "promoy21",
+  "CardName": "龍秘陣ジャックポット・エントリー(DMPROMOY21P63/Y21)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のマナゾーンにあるドラゴン・クリーチャーを数え、その数だけ、自分の山札の上から見る。その中からコスト８以下の進化ではないドラゴンを１体出してもよい。残りを好きな順序で山札の下に置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04s-028",
+  "PackNo": "dmrp04s",
+  "CardName": "再生妖精スズラン(DMRP04S28/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーを自分のマナゾーンから召喚してもよい。自分のターンの終わりに、このクリーチャーを自分のマナゾーンに置く。"
+}

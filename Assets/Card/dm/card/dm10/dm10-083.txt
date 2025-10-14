@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-083",
+  "PackNo": "dm10",
+  "CardName": "トーピード・クラスター(DM1083/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・クラスター",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分のマナゾーンにあるカードを１枚自分の手札に戻す。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm15-036",
+  "PackNo": "dm15",
+  "CardName": "巡霊者ネレイズ(DM1536/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "コスモ・ウォーカー",
+  "Text": ""
+}

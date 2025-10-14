@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm19-106",
+  "PackNo": "dm19",
+  "CardName": "マスク・ド・チェリー(DM19106/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ワイルド・ベジーズ",
+  "Text": ""
+}

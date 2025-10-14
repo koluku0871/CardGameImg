@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2x-058",
+  "PackNo": "dm22rp2x",
+  "CardName": "粋歌のギフト(DM22RP2X58/74)",
+  "CardType": "タマシード",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このタマシードが出た時、相手のコスト６以下のクリーチャーを１体選び、持ち主の手札に戻す。シールド・セイバー（自分のシールドがブレイクされる時、かわりにこのタマシードを破壊してもよい）"
+}

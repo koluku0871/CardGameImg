@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm16-044",
+  "PackNo": "dm16",
+  "CardName": "解体人形ジェニー(DM1644/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手の手札を見てその中から１枚選び、捨てさせる。"
+}

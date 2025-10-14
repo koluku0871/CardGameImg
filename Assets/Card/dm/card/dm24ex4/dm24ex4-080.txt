@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex4-080",
+  "PackNo": "dm24ex4",
+  "CardName": "影速ザ・トリッパー(DM24EX480/100)",
+  "CardType": "クリーチャー",
+  "Element": "闇/火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "4000",
+  "CardCategory": "ソニック・コマンド/ゴースト",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）相手のカードはマナゾーンにタップして置かれる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy14-033",
+  "PackNo": "promoy14",
+  "CardName": "ラブ・ドラッチ(DMPROMOY14P33/Y14)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード炎/革命軍",
+  "Text": "自分の革命軍の進化クリーチャーの召喚コストを、バトルゾーンにある自分のファイアー・バード１体につき１少なくしてもよい。ただし、コストは０以下にならない。"
+}

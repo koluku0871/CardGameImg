@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc34-045",
+  "PackNo": "dmc34",
+  "CardName": "悪戯人形ハロ(DMC3445/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーが相手プレイヤーを攻撃してブロックされなかった時、相手は自分自身のクリーチャーを１体選び、破壊する。"
+}

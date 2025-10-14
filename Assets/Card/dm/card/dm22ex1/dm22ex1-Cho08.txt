@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-Cho08",
+  "PackNo": "dm22ex1",
+  "CardName": "悪魔龍ダークマスターズ(DM22EX1超8/超50)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "7000",
+  "CardCategory": "デーモン・コマンド・ドラゴン",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、相手の手札を見て３枚まで選び、捨てさせる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-003",
+  "PackNo": "dmc27",
+  "CardName": "滑空男(DMC273/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ヘドリアン",
+  "Text": "このクリーチャーが破壊された時、相手の手札を見る。その中から１枚選び、捨てさせる。"
+}

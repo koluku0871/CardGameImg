@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-068",
+  "PackNo": "dm10",
+  "CardName": "無頼勇騎ゴンタ(DM1068/110)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "ヒューマノイド/ビーストフォーク",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。"
+}

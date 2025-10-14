@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-274",
+  "PackNo": "dmex08",
+  "CardName": "トミカタウン(DMEX08274/???)",
+  "CardType": "T2フィールド",
+  "Element": "光/火",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の「スピードアタッカー」を持つクリーチャーはすべて「ブロッカー」を得、ターンの終わりにアンタップする。"
+}

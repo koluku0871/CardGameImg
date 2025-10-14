@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-174",
+  "PackNo": "dmex08",
+  "CardName": "ゾンビポンの助(DMEX08174/???)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "0",
+  "CardSubType": "-5000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "（パワー０以下のクリーチャーは破壊される）"
+}

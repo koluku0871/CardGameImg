@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr01-015",
+  "PackNo": "dmr01",
+  "CardName": "光の使徒メリーアン(DMR0115/110)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "イニシエート/ハンター",
+  "Text": "このクリーチャーが破壊された時、「ブロッカー」を持つクリーチャーを１体、自分の墓地からバトルゾーンに出してもよい。"
+}

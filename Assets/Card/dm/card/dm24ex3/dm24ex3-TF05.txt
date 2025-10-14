@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex3-TF05",
+  "PackNo": "dm24ex3",
+  "CardName": "ファイナル・ストップ(DM24EX3TF5/TF46)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "次の相手のターンの終わりまで、相手は呪文を唱えられない。カードを１枚引く。"
+}

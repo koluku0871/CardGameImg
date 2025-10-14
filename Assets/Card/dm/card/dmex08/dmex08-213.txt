@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-213",
+  "PackNo": "dmex08",
+  "CardName": "奇跡の長男おそ松(DMEX08213/???)",
+  "CardType": "GRクリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ニート",
+  "Text": "パワーアタッカー+１（攻撃中、このクリーチャーのパワーを+１する）"
+}

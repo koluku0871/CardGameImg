@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm09-024",
+  "PackNo": "dm09",
+  "CardName": "ティコラクス(DM924/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "シー・ハッカー",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、相手のシールドをすべて見る。その後、そのシールドを元の場所に戻す。"
+}

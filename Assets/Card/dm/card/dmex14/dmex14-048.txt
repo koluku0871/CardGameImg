@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex14-048",
+  "PackNo": "dmex14",
+  "CardName": "「未来は努力で変えられる！」(DMEX1448/110)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "美孔麗王国",
+  "Text": "自分の山札の上から２枚を見て、好きな順序で元に戻す。レインボーナス：バトルゾーンに自分の多色クリーチャーがあれば、カードを１枚引く。"
+}

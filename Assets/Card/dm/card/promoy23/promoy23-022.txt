@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy23-022",
+  "PackNo": "promoy23",
+  "CardName": "トップ・オブ・ロマネスク(DMPROMOY23P22/Y23)",
+  "CardType": "クリーチャー",
+  "Element": "光/火/自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "3500",
+  "CardCategory": "アポロニア・ドラゴン/アーマード・ドラゴン/アース・ドラゴン",
+  "Text": "ブロッカーこのクリーチャーが出た時、自分の山札の上から２枚を、タップしてマナゾーンに置いてもよい。"
+}

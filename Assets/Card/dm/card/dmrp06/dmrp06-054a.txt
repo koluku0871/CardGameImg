@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-054a",
+  "PackNo": "dmrp06",
+  "CardName": "アカシシーマ/レッド・アグラフ(DMRP0654/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "グランセクト",
+  "Text": "マッハファイター（このクリーチャーは、バトルゾーンに出たターンの間、タップまたはアンタップしているクリーチャーを攻撃できる）"
+}

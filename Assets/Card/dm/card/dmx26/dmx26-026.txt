@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx26-026",
+  "PackNo": "dmx26",
+  "CardName": "フェアリー・ミラクル(DMX2626/54)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から１枚目をマナゾーンに置く。自分のマナゾーンにすべての文明が揃っていれば、自分の山札の上からさらに１枚、マナゾーンに置く。"
+}

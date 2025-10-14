@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc67-020",
+  "PackNo": "dmc67",
+  "CardName": "マッス・ルピア(DMC6720/21)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "バトルゾーンにある自分の他の、名前に《NEX》または《ルピア》とあるクリーチャーすべてのパワーは+1000される。"
+}

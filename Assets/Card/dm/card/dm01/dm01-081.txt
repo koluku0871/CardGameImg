@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-081",
+  "PackNo": "dm01",
+  "CardName": "キャンディ・ドロップ(DM181/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "このクリーチャーはブロックされない。"
+}

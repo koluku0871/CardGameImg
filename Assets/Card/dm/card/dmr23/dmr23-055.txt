@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr23-055",
+  "PackNo": "dmr23",
+  "CardName": "爆子分ダイゴロウ(DMR2355/74)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド爆/革命軍",
+  "Text": "このクリーチャーがバトルゾーンを離れた時、相手のパワー2000以下のクリーチャーを１体、破壊する。"
+}

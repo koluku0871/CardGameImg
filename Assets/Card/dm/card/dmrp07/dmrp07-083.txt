@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-083",
+  "PackNo": "dmrp07",
+  "CardName": "ビビラ戦車ギョロンパ(DMRP0783/94)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "「ブロッカー」を持つクリーチャーとバトル中、このクリーチャーのパワーを+6000する。"
+}

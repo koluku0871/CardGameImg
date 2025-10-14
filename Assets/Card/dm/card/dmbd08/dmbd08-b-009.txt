@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd08-b-009",
+  "PackNo": "dmbd08",
+  "CardName": "堕呪ンカヴァイ(DMBD08-b9/15)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "魔導具",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のクリーチャーを２体選ぶ。次の自分のターンのはじめまで、それらは攻撃もブロックもできない。"
+}

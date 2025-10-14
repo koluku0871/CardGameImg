@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr17-088",
+  "PackNo": "dmr17",
+  "CardName": "侵略者アジャラシ(DMR1788/94)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "ゲリラ・コマンド/侵略者",
+  "Text": "S・トリガー（このクリーチャーをシールドゾーンから手札に加える時、コストを支払わずにすぐ召喚してもよい）"
+}

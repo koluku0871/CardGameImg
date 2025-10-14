@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp3-047a",
+  "PackNo": "dm23rp3",
+  "CardName": "照明野郎カンタ/「どうだ、明るくなったろう？」(DM23RP347/74)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アーマード・ヒューマノイド",
+  "Text": "バトル中、このクリーチャーのパワーは+3000される。"
+}

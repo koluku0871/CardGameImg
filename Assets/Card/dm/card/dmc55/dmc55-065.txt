@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc55-065",
+  "PackNo": "dmc55",
+  "CardName": "フェアリー・ギフト(DMC5565/84)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、次に召還するクリーチャー１体のコストを最大３少なくしてもよい。ただしコストは１より少なくならない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-072",
+  "PackNo": "promoy15",
+  "CardName": "新時代の幕開け(DMPROMOY15P72/Y15)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "Ｓ・トリガー相手プレイヤーに握手を求める。各プレイヤーは３枚ずつカードを引いてもよい。"
+}

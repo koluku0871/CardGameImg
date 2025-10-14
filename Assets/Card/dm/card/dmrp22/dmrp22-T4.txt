@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp22-T4",
+  "PackNo": "dmrp22",
+  "CardName": "弩闘×十王超ファイナルウォーズ!!!(DMRP22T4/T20)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を見る。その中から、キングマスター・クリーチャーを好きな数選んで相手に見せ、手札に加える。残りを好きな順序で山札の下に置く。"
+}

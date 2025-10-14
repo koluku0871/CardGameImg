@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm06-025",
+  "PackNo": "dm06",
+  "CardName": "闇侯爵ハウクス(DM625/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "ダークロード",
+  "Text": "このクリーチャーがバトルゾーンから自分の墓地に置かれたとき、各プレイヤーは自分自身の手札をすべて、それぞれの墓地に置く。"
+}

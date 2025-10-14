@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25bd1-003a",
+  "PackNo": "dm25bd1",
+  "CardName": "ボルシャック・クロス・NEX/ボルシャック英雄譚(DM25BD13/17)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "SR",
+  "Cost": "9",
+  "CardSubType": "12000+",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "スピードアタッカーパワーアタッカー+5000T・ブレイカーすべてのプレイヤーは、コスト４以下のクリーチャーを召喚できない。"
+}

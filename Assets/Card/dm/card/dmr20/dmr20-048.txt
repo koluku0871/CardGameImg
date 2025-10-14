@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr20-048",
+  "PackNo": "dmr20",
+  "CardName": "クイック・スパーク(DMR2048/70)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）バトルゾーンにある相手の、コスト６以下のクリーチャーをすべてタップする。"
+}

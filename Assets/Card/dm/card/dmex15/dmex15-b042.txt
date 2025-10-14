@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-b042",
+  "PackNo": "dmex15",
+  "CardName": "コジロー(DMEX1542/100)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "",
+  "Text": "革命２：このクリーチャーが出た時、自分のシールドが２つ以下なら、次の能力を10回行う。▶相手のクリーチャーを１体選ぶ。このターン、そのパワーを－1000する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx09-012",
+  "PackNo": "dmx09",
+  "CardName": "無頼勇騎タイガ(DMX0912/56)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド/ビーストフォーク",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。スピードアタッカー(このクリーチャーは召喚酔いしない)"
+}

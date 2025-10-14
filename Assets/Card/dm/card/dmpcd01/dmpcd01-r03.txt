@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmpcd01-r03",
+  "PackNo": "dmpcd01",
+  "CardName": "紅神龍バルガゲイザー(DMPCD01竜3/17)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "ボルケーノ・ドラゴン",
+  "Text": "パワーアタッカー+1000このクリーチャーが攻撃する時、自分の山札の上から１枚目を表向きにしてもよい。それがドラゴンならバトルゾーンに出す。それ以外なら墓地に置く。"
+}

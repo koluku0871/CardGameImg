@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd12-k05",
+  "PackNo": "dmbd12",
+  "CardName": "*/零幻チュパカル/*(DMBD12K5/K5)",
+  "CardType": "オレガ・オーラ",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "0",
+  "CardCategory": "トリックス/デリートロン",
+  "Text": "自分のオーラを使うコストを１少なくする。ただし、コストは０以下にはならない。"
+}

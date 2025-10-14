@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr19-063",
+  "PackNo": "dmr19",
+  "CardName": "K・リミー(DMR1963/87)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・ウイルス海",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）このクリーチャーは攻撃できない。"
+}

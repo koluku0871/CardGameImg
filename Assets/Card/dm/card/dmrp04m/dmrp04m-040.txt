@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-040",
+  "PackNo": "dmrp04m",
+  "CardName": "はずれポンの助(DMRP04M40/61)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "820",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーはシールドをブレイクできない。自分は「S・トリガー」能力を使えない。このカードは、４枚より多くデッキに入れることができる。"
+}

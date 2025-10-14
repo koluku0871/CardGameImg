@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx14-079",
+  "PackNo": "dmx14",
+  "CardName": "フェアリー・ギフト(DMX1479/84)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、次に召喚する自分のクリーチャー１体のコストを最大３少なくしてもよい。ただしコストは１より少なくならない。"
+}

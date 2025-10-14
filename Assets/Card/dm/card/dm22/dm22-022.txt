@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22-022",
+  "PackNo": "dm22",
+  "CardName": "光神龍セブンス(DM2222/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "6",
+  "CardSubType": "5500",
+  "CardCategory": "アポロニア・ドラゴン",
+  "Text": "バトルゾーンにある自分のドラゴンはすべて、「ブロッカー」を得る。"
+}

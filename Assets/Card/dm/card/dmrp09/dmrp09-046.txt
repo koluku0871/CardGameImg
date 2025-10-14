@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp09-046",
+  "PackNo": "dmrp09",
+  "CardName": "幽影エダマ・フーマ(DMRP0946/102)",
+  "CardType": "オレガ・オーラ",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング/デリートロン",
+  "Text": "これを付けたクリーチャーがバトルゾーンを離れる時、かわりにこのオーラを自分の墓地に置いてもよい。"
+}

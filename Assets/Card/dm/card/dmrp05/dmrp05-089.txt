@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-089",
+  "PackNo": "dmrp05",
+  "CardName": "いのししとう(DMRP0589/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "グランセクト",
+  "Text": "マッハファイター（このクリーチャーは、バトルゾーンに出たターンの間、タップまたはアンタップしているクリーチャーを攻撃できる）"
+}

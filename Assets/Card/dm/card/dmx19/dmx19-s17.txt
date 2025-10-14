@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx19-s17",
+  "PackNo": "dmx19",
+  "CardName": "龍素記号Cgダイシャリン(DMX19S17/S56)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "7000",
+  "CardCategory": "クリスタル・コマンド・ドラゴン",
+  "Text": "自分が唱える呪文は「チャージャー」を得る。（「チャージャー」を持つ呪文を唱えた後、墓地に置くかわりに自分のマナゾーンに置く）W・ブレイカー"
+}

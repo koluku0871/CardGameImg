@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-005",
+  "PackNo": "dm18",
+  "CardName": "プラズマ・チェイサー(DM185/140)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "4000",
+  "CardCategory": "ゲル・フィッシュ",
+  "Text": "このクリーチャーが攻撃する時、バトルゾーンにある相手のクリーチャーの数と同じ枚数のカードを引いてもよい。"
+}

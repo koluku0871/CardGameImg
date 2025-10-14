@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm32-107",
+  "PackNo": "dm32",
+  "CardName": "呪氷妖精マッド・サクラン(DM32107/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー/オリジン",
+  "Text": "自分の進化クリーチャーがバトルゾーンにある時、このクリーチャーのパワーは+4000される。"
+}

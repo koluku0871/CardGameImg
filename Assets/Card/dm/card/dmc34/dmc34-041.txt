@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc34-041",
+  "PackNo": "dmc34",
+  "CardName": "フェイト・カーペンター(DMC3441/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "マーフォーク",
+  "Text": "このクリーチャーをバトルゾーンに出した時、カードを２枚まで引いてもよい。その後、自分の手札を２枚捨てる。"
+}

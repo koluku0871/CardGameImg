@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-069",
+  "PackNo": "dmrp05",
+  "CardName": "ディオネフィス(DMRP0569/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "シー・ハッカー",
+  "Text": ""
+}

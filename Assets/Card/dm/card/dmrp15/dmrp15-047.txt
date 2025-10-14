@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp15-047",
+  "PackNo": "dmrp15",
+  "CardName": "夢見がちモッフル(DMRP1547/95)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ドリームメイト",
+  "Text": "相手のターン中、このクリーチャーのパワーを+4000する。"
+}

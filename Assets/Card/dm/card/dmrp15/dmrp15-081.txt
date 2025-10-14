@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp15-081",
+  "PackNo": "dmrp15",
+  "CardName": "トラノルデ1Q(DMRP1581/95)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "5000",
+  "CardCategory": "ジョーカーズ/チーム切札",
+  "Text": "このクリーチャーは、これよりパワーが小さいクリーチャーにブロックされない。"
+}

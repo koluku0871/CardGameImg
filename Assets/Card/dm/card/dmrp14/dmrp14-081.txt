@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-081",
+  "PackNo": "dmrp14",
+  "CardName": "クリムゾン・フォルミカ(DMRP1481/95)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "7000",
+  "CardCategory": "ジャイアント・インセクト",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）"
+}

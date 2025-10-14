@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-sp2d06",
+  "PackNo": "promoy15",
+  "CardName": "紅神龍メルガルス(DMCOROCOROY156/13)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ボルケーノ・ドラゴン",
+  "Text": ""
+}

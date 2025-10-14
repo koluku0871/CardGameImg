@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx09-045",
+  "PackNo": "dmx09",
+  "CardName": "福腹人形コダマンマ(DMX0945/56)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分のシールドをひとつ手札に戻す。ただし、その「S・トリガー」は使えない。"
+}

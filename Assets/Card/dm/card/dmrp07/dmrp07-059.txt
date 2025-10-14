@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-059",
+  "PackNo": "dmrp07",
+  "CardName": "赤攻銀イザヤック(DMRP0759/94)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "メタリカ",
+  "Text": "自分のシールドゾーンにカードが置かれた時、このクリーチャーを自分の手札からバトルゾーンに出してもよい。"
+}

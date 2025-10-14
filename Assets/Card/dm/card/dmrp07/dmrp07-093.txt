@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-093",
+  "PackNo": "dmrp07",
+  "CardName": "マシュるん(DMRP0793/94)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "5000",
+  "CardCategory": "グランセクト",
+  "Text": "このクリーチャーは、相手プレイヤーを攻撃できない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex1-036a",
+  "PackNo": "dm24ex1",
+  "CardName": "カシス・パイン/♥あたしのスパークがメロメロにさせ～る(DM24EX136/89)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "スプラッシュ・クイーン",
+  "Text": "ブロッカー"
+}

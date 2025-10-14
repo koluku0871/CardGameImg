@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16g-040",
+  "PackNo": "dmr16g",
+  "CardName": "連唱ハルカス・ドロー(DMR16極40/54)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを１枚引く。リサイクル：（この呪文を墓地からコスト３を支払って唱えてもよい。そうして唱えた後、墓地に置くかわりに自分の山札の一番下に置く）"
+}

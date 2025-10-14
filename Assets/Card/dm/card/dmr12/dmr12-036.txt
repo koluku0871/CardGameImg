@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr12-036",
+  "PackNo": "dmr12",
+  "CardName": "ビリビリ・ツイン・サンダー(DMR1236/55)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）バトルゾーンにある相手のクリーチャーを２体まで選び、タップする。"
+}

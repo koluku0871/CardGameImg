@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc61-003",
+  "PackNo": "dmc61",
+  "CardName": "コマンダー・テクノバスター(DMC613/94)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "キカイヒーロー",
+  "Text": "相手がカードを引く時、それと同じ枚数のカードを引いてもよい。W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

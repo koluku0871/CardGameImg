@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex18-012a",
+  "PackNo": "dmex18",
+  "CardName": "新世界王の破壊(DMEX1812/75)",
+  "CardType": "キング・セル",
+  "Element": "水/闇/自然",
+  "CardRarity": "VR",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライクこのカードを自分の手札からマナゾーンに置いた時、アンタップする。"
+}

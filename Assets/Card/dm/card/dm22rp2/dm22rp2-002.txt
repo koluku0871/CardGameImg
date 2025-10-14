@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2-002",
+  "PackNo": "dm22rp2",
+  "CardName": "アカシック・ヴィジョン(DM22RP22/74)",
+  "CardType": "タマシード",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のターン中、自分の山札の上から１枚目をいつでも見てもよい。自分のターン中、呪文またはタマシードを自分の山札の上から使ってもよい。"
+}

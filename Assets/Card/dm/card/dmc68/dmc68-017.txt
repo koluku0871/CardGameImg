@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc68-017",
+  "PackNo": "dmc68",
+  "CardName": "予言者クルト(DMC6817/22)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "500",
+  "CardCategory": "ライトブリンガー",
+  "Text": ""
+}

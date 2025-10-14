@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp09-090",
+  "PackNo": "dmrp09",
+  "CardName": "南風の奇行士ピュセン(DMRP0990/102)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "フェザーノイド",
+  "Text": "パワーアタッカー+2000（攻撃中、このクリーチャーのパワーを+2000する）"
+}

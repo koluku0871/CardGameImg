@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24-020",
+  "PackNo": "dm24",
+  "CardName": "石像男(DM2420/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "ヘドリアン",
+  "Text": "バトルゾーンにある自分のクリーチャーで、すべての文明が揃っている時、相手は自分自身の「S・トリガー」を使えない。"
+}

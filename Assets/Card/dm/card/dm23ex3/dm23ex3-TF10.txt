@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex3-TF10",
+  "PackNo": "dm23ex3",
+  "CardName": "ドヤガオー(DM23EX3TF10/TF10)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "9000",
+  "CardCategory": "トライストーン",
+  "Text": "W・ブレイカー自分の無色クリーチャーが離れた時、そのクリーチャーとコストが同じ無色クリーチャーを１体、自分のマナゾーンから出してもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm39-013",
+  "PackNo": "dm39",
+  "CardName": "レッツ！鳥鍋パーティー(DM3913/55)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のファイアー・バードをすべて破壊する。"
+}

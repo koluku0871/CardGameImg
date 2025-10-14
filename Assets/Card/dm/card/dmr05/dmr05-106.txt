@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr05-106",
+  "PackNo": "dmr05",
+  "CardName": "まどろみのレッサーくん(DMR05106/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ドリームメイト",
+  "Text": "このクリーチャーのパワーは、バトルゾーンにある相手のサイキック・クリーチャー１体につき+5000される。"
+}

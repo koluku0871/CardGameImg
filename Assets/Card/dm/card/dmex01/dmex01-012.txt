@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex01-012",
+  "PackNo": "dmex01",
+  "CardName": "黒神龍ブライゼナーガ(DMEX0112/80)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "9000",
+  "CardCategory": "ドラゴン・ゾンビ",
+  "Text": "W・ブレイカーこのクリーチャーがバトルゾーンに出た時、自分のシールドをすべて手札に加える。（その「S・トリガー」を使ってもよい）"
+}

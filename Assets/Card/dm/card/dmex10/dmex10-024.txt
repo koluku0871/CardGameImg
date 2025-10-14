@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex10-024",
+  "PackNo": "dmex10",
+  "CardName": "デモニオの鬼時計(DMEX1024/42)",
+  "CardType": "呪文",
+  "Element": "闇/火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "鬼札王国",
+  "Text": "このターン、自分と相手のシールドの数が合計６つ以下であるかのように、自分の「鬼タイム」能力を使う。カードを１枚引く。"
+}

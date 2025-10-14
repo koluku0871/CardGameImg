@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc61-063",
+  "PackNo": "dmc61",
+  "CardName": "霊山の守護者ビックス(DMC6163/94)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ガーディアン",
+  "Text": "セイバー：エンジェル・コマンド(自分のエンジェル・コマンド１体が破壊される時、このクリーチャーをかわりに破壊してもよい)"
+}

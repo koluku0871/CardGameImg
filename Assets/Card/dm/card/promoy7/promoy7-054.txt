@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy7-054",
+  "PackNo": "promoy7",
+  "CardName": "オーバーキル・ゼロ・ドラゴン(DMPROMOY7P54/Y7)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "8",
+  "CardSubType": "8000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "バトルゾーンにある自分のドラゴンはすべて「パワーアタッカー+5000」を得る。T・ブレイカー（このクリーチャーはシールドを３枚ブレイクする）"
+}

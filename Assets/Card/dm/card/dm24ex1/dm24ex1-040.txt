@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex1-040",
+  "PackNo": "dm24ex1",
+  "CardName": "冥土人形アカイブ・ヤップップ(DM24EX140/89)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "8000",
+  "CardCategory": "デスパペット",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、自分のエレメントを１つ破壊する。その後、各プレイヤーは自身のエレメントを１つ選び、破壊する。"
+}

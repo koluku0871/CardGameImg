@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-061",
+  "PackNo": "dmrp14",
+  "CardName": "金柳樹(DMRP1461/95)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3500",
+  "CardCategory": "スターライト・ツリー",
+  "Text": ""
+}

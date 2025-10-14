@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx19-s24",
+  "PackNo": "dmx19",
+  "CardName": "混沌の獅子デスライガー(DMX19S24/S56)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "9000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２枚ブレイクする）"
+}

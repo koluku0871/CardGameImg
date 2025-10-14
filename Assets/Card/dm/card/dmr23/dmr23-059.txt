@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr23-059",
+  "PackNo": "dmr23",
+  "CardName": "離撃の面ジョンマジロ(DMR2359/74)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビーストフォーク號/革命軍",
+  "Text": "このクリーチャーがバトルゾーンを離れた時、自分の山札の上から１枚目をマナゾーンに置く。"
+}

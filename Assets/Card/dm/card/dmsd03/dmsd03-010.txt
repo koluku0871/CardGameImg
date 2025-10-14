@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd03-010",
+  "PackNo": "dmsd03",
+  "CardName": "\"BC\"ヒット(DMSD0310/12)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "6000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "このクリーチャーは、自分の手札が２枚以下なら召喚できる。W・ブレイカー（このクリーチャーはシールドを２つブレイクする）"
+}

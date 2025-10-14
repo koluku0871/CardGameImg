@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex2-056",
+  "PackNo": "dm23ex2",
+  "CardName": "命の集う聖域フィオナの森(DM23EX256/112)",
+  "CardType": "ヒストリック・フィールド",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のクリーチャーが出た時、カードを１枚引いてもよい。自分のターンの終わりに、自分の手札をすべてマナゾーンに置く。"
+}

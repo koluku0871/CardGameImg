@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm06-065",
+  "PackNo": "dm06",
+  "CardName": "跳躍の超人(DM665/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "7",
+  "CardSubType": "8000",
+  "CardCategory": "ジャイアント",
+  "Text": "W(ダブル)・ブレイカー(シールドを攻撃したとき、このクリーチャーはシールドを２枚ブレイクする)"
+}

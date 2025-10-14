@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm04-041",
+  "PackNo": "dm04",
+  "CardName": "チアフル・アビス(DM441/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "このクリーチャーがバトルゾーンにある間、バトルゾーンにある光と闇のクリーチャーすべてのパワーはそれぞれ+1000される。"
+}

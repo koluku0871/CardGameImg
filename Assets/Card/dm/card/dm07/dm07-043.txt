@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm07-043",
+  "PackNo": "dm07",
+  "CardName": "セティボルス(DM743/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "シー・ハッカー",
+  "Text": "このクリーチャーがバトルゾーンから自分の墓地に置かれたとき、カードを１枚引いてもよい。"
+}

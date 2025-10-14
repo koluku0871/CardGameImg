@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-014a",
+  "PackNo": "dmrp05",
+  "CardName": "暴走ザバイク/ブンブン・バースト(DMRP0514/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ソニック・コマンド",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

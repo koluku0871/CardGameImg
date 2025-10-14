@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy21-014",
+  "PackNo": "promoy21",
+  "CardName": "深淵の怖豪キャッシュ＝キャラッシュ(DMPROMOY21P14/Y21)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "アビスポリス/コロコロイヤル",
+  "Text": "このクリーチャーが出た時、自分のカードを１枚、マナゾーンまたはバトルゾーンから墓地に置いてもよい。そうしたら、カードを２枚引く。"
+}

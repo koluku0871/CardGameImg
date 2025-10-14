@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm04-055",
+  "PackNo": "dm04",
+  "CardName": "孤高の願(DM455/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "S(シールド)・トリガー(このカードをシールドゾーンから手札に加えるとき、コストを支払わずにすぐ召喚してよい)"
+}

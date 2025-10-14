@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd6-058a",
+  "PackNo": "dm23bd6",
+  "CardName": "イチゴッチ・タンク/レッツ・ゴイチゴ(DM23BD658/60)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "7",
+  "CardSubType": "12000",
+  "CardCategory": "グランセクト",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

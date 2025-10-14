@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp4-Sec23",
+  "PackNo": "dm24rp4",
+  "CardName": "フメンダ＝マジェンダ(DM24RP4㊙23/㊙24)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "アビスロイヤル",
+  "Text": "このクリーチャーは攻撃できない。このクリーチャーが破壊された時、そのターンの終わりに、このクリーチャーを自分の墓地から出す。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy23-078",
+  "PackNo": "promoy23",
+  "CardName": "エメラルド・クーラー(DMPROMOY23P78/Y23)",
+  "CardType": "クリーチャー",
+  "Element": "光/水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1500",
+  "CardCategory": "スプラッシュ・クイーン",
+  "Text": "このクリーチャーが出た時、カードを１枚引く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm05-035",
+  "PackNo": "dm05",
+  "CardName": "再誕の森(DM535/55)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の墓地からクリーチャーを２体まで選び、自分のマナゾーンに置く。"
+}

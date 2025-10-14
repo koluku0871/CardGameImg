@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm08-046",
+  "PackNo": "dm08",
+  "CardName": "暴虐虫タイラント・ワーム(DM846/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "パラサイトワーム",
+  "Text": "自分の他のクリーチャーがバトルゾーンに出たとき、このクリーチャーを自分の墓地に置く。"
+}

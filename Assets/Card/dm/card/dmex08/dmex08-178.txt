@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-178",
+  "PackNo": "dmex08",
+  "CardName": "カラフル・ダンス(DMEX08178/???)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を、マナゾーンに置く。その後、自分のマナゾーンのカードを５枚、墓地に置く。"
+}

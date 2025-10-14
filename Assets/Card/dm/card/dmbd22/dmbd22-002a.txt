@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd22-002a",
+  "PackNo": "dmbd22",
+  "CardName": "手札の儀(DMBD222/25)",
+  "CardType": "零龍星雲",
+  "Element": "闇",
+  "CardRarity": "MSZ",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のターンの終わりに、手札が１枚もないプレイヤーがいれば、この零龍星雲を自分の《滅亡の起源零無》にリンクしてもよい。そうしたら、GR召喚する。"
+}

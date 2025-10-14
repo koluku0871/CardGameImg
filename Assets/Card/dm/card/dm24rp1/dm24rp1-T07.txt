@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp1-T07",
+  "PackNo": "dm24rp1",
+  "CardName": "お騒がせチューザ(DM24RP1T7/T12)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ドリームメイト",
+  "Text": "このクリーチャーは、可能なら毎ターン攻撃する。このクリーチャーがタップしていれば、すべてのプレイヤーは呪文を唱えられない。"
+}

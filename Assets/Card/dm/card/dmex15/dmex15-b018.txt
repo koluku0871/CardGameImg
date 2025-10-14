@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-b018",
+  "PackNo": "dmex15",
+  "CardName": "闘うべき時!!(DMEX1518/100)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のシールドを１つ選び、持ち主の墓地に置く。その後、相手のシールドが１つもなければ、自分はゲームに勝利する。"
+}

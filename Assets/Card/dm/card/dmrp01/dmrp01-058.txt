@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-058",
+  "PackNo": "dmrp01",
+  "CardName": "Theラー漢(DMRP0158/93)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ジョーカーズ",
+  "Text": ""
+}

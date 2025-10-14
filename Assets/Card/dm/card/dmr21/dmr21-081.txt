@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr21-081",
+  "PackNo": "dmr21",
+  "CardName": "雪精フユゲ・シッキY(DMR2181/94)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "スノーフェアリー風/イニシャルズ",
+  "Text": "このクリーチャーをマナゾーンから召喚してもよい。"
+}

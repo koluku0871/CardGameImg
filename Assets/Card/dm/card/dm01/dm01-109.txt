@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-109",
+  "PackNo": "dm01",
+  "CardName": "アルティメット・フォース(DM1109/110)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の一番上のカードを２枚、表にして自分のマナゾーンに置く。"
+}

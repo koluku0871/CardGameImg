@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd08-019",
+  "PackNo": "dmsd08",
+  "CardName": "ボーボボ・ボーボ坊(DMSD0819/20)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "Jチェンジ４（このクリーチャーが攻撃する時、このクリーチャーと自分のマナゾーンにあるコスト４以下のジョーカーズ１体を入れ替えてもよい）"
+}

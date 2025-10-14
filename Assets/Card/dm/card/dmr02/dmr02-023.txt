@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr02-023",
+  "PackNo": "dmr02",
+  "CardName": "シンウッチ(DMR0223/54)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "サイバーロード/ハンター",
+  "Text": "このクリーチャーが攻撃する時、バトルゾーンにある自分のタップされているクリーチャー１体につき、カードを１枚引いてもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr10-042",
+  "PackNo": "dmr10",
+  "CardName": "人形の裏技ペット・パペット(DMR1042/55)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "G・ゼロ-バトルゾーンに自分のデスパペットがあれば、この呪文をコストを支払わずに唱えてもよい。相手の手札を１枚見ないで選び、捨てさせる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex3-015",
+  "PackNo": "dm24ex3",
+  "CardName": "未ダ識ラヌ事象コソ我ノ楽シミゾ(DM24EX315/80)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガーカードを１枚引く。その後、コスト３以下の進化ではないクリーチャーを２体まで、自分の手札から出す。このターンの終わりに、それらのクリーチャーを手札に戻す。"
+}

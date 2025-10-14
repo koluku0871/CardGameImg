@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr07-046",
+  "PackNo": "dmr07",
+  "CardName": "ステッピ・ジナン(DMR0746/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ファイアー・バード/ハンター",
+  "Text": "自分のハンターがバトルに勝った時、相手は自身の手札を１枚選び、捨てる。"
+}

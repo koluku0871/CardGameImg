@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-047",
+  "PackNo": "dmrp07",
+  "CardName": "“Ｒｰ夢”ララッタ(DMRP0747/94)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "G・G・G：自分の手札が１枚以下なら、自分のビートジョッキーの召喚コストは２少なくなる。ただし、コストは０以下にならない。"
+}

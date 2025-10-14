@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm02-045",
+  "PackNo": "dm02",
+  "CardName": "卵胞虫ゼリー・ワーム(DM245/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "パラサイトワーム",
+  "Text": "このクリーチャーが攻撃するとき、相手の手札からカードを１枚見ないで選び、相手はそれを持ち主の墓地に置く。"
+}

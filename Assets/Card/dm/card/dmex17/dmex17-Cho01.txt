@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-Cho01",
+  "PackNo": "dmex17",
+  "CardName": "ボルシャック・ドラゴン(DMEX17超1/超40)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "W・ブレイカー攻撃中、このクリーチャーのパワーを、自分の墓地にある火のカード１枚につき+1000する。"
+}

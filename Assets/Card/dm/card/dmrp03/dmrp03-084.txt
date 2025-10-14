@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp03-084",
+  "PackNo": "dmrp03",
+  "CardName": "エナジー・チュリス(DMRP0384/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "セイバー：ビートジョッキー（自分のビートジョッキーが破壊される時、このクリーチャーをかわりに破壊してもよい）"
+}

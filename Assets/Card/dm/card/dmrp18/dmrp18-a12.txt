@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp18-a12",
+  "PackNo": "dmrp18",
+  "CardName": "洗脳センノー(DMRP1812A/20)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "4000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "相手は、自身のターン中、召喚以外の方法でクリーチャーをバトルゾーンに出せない。"
+}

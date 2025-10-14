@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx24-044",
+  "PackNo": "dmx24",
+  "CardName": "轟速ザ・レッド(DMX2444/54)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ソニック・コマンド/侵略者",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

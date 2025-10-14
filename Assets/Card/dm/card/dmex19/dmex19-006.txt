@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex19-006",
+  "PackNo": "dmex19",
+  "CardName": "煌銀河最終形態ギラングレイル(DMEX196/68)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "VR",
+  "Cost": "12",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "シンパシー：クリーチャー（自分のクリーチャー１体につき、この呪文を唱えるコストを１少なくする。ただしコストは０以下にはならない）GR召喚を12回する。"
+}

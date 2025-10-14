@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd06-011",
+  "PackNo": "dmd06",
+  "CardName": "雷鳴の守護者ミスト・リエス(DMD0611/14)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "ガーディアン",
+  "Text": "他のクリーチャーがバトルゾーンに置かれた時、カードを１枚引いてもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc53-002",
+  "PackNo": "dmc53",
+  "CardName": "ダーク・ルピア(DMC532/20)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "自分のドラゴンが破壊された時、相手のクリーチャーを１体破壊してもよい。"
+}

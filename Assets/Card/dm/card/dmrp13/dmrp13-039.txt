@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp13-039",
+  "PackNo": "dmrp13",
+  "CardName": "凶鬼84号ワッパム(DMRP1339/95)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "4000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "クリーチャーはすべて、可能なら攻撃する。"
+}

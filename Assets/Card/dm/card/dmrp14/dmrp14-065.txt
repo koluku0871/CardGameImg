@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-065",
+  "PackNo": "dmrp14",
+  "CardName": "毒毒魚(DMRP1465/95)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "フィッシュ",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-112a",
+  "PackNo": "dm22ex1",
+  "CardName": "轟速ザ・レッド/超次元キル・ホール(DM22EX1112/130)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ソニック・コマンド/侵略者",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-b053",
+  "PackNo": "dmex15",
+  "CardName": "ガールズ・ジャーニー(DMEX1553/100)",
+  "CardType": "呪文",
+  "Element": "光/水/自然",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）カードを３枚引く。"
+}

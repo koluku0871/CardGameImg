@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex10-036",
+  "PackNo": "dmex10",
+  "CardName": "馬番の騎手アリマ＆キッカ(DMEX1036/42)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "7",
+  "CardSubType": "4000",
+  "CardCategory": "アウトレイジ",
+  "Text": "マナ爆誕４（このクリーチャーを自分のマナゾーンから、コスト４を支払って召喚してもよい）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex04-031a",
+  "PackNo": "dmex04",
+  "CardName": "悪魔神バロム/バロム砲(DMEX0431/75)",
+  "CardType": "進化クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "8",
+  "CardSubType": "12000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "進化：自分のデーモン・コマンド１体の上に置く。W・ブレイカーこのクリーチャーがバトルゾーンに出た時、闇以外のクリーチャーをすべて破壊する。"
+}

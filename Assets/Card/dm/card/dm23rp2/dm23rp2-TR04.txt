@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp2-TR04",
+  "PackNo": "dm23rp2",
+  "CardName": "月下卍壊ガ・リュミーズ卍(DM23RP2TR4/TR9)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "99",
+  "CardSubType": "",
+  "CardCategory": "ドルスザク",
+  "Text": "ドルスザクを４体まで、自分の手札または墓地からコストを支払わずに召喚してもよい。このターンの後に自分のターンを追加する。"
+}

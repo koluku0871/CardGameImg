@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04s-092",
+  "PackNo": "dmrp04s",
+  "CardName": "烈司の剛腕(DMRP04S92/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "相手のターン中、このクリーチャーのパワーを+4000する。"
+}

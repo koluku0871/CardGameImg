@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm33-052",
+  "PackNo": "dm33",
+  "CardName": "ザ・ストロング・クラッシュ(DM3352/55)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手の「ブロッカー」を持つクリーチャーを１体破壊する。バトルゾーンに自分のパワー6000以上のクリーチャーがあれば、カードを１枚引いてもよい。"
+}

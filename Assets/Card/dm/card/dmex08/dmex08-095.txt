@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-095",
+  "PackNo": "dmex08",
+  "CardName": "フウセンアワダケβ(DMEX0895/???)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "バルーン・マッシュルーム/サバイバー",
+  "Text": "oSこのクリーチャーが破壊された時、自分のマナゾーンに置く。サバイバー（自分のサバイバーすべてに、上のoS能力を与える）"
+}

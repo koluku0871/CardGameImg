@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd11-020",
+  "PackNo": "dmsd11",
+  "CardName": "二刀流トレーニング(DMSD1120/20)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにある自分のクリーチャーを１体選ぶ。そのクリーチャーがこのターンはじめてタップされた時、アンタップする。"
+}

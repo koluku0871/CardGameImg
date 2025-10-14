@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm07-036",
+  "PackNo": "dm07",
+  "CardName": "白夜の守護者ロディ・ゲール(DM736/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3500",
+  "CardCategory": "ガーディアン",
+  "Text": "闇ステルス(相手のマナゾーンに闇のカードが１枚でもあれば、このクリーチャーはブロックされない)"
+}

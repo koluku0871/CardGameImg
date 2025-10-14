@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-048",
+  "PackNo": "promoy16",
+  "CardName": "チョクシン・ゴー(DMPROMOY16P48/Y16)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "自分の他のクリーチャーが攻撃する時、このクリーチャーをタップしてもよい。そうしたら、その攻撃クリーチャーをアンタップする。"
+}

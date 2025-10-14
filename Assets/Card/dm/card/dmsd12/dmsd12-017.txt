@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd12-017",
+  "PackNo": "dmsd12",
+  "CardName": "凶鬼56号ゴロン(DMSD1217/19)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "このクリーチャーが破壊された時、相手のアンタップしているクリーチャーを１体破壊する。"
+}

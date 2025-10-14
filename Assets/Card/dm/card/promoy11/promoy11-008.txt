@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-008",
+  "PackNo": "promoy11",
+  "CardName": "斬斬人形コダマンマ(DMPROMOY11P8/Y11)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "デスパペット/エイリアン",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分のシールドをひとつ手札に加える。ただし、その「S・トリガー」は使えない。"
+}

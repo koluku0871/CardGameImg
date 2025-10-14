@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm12-044",
+  "PackNo": "dm12",
+  "CardName": "黒神龍ザルバ(DM1244/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "ドラゴン・ゾンビ",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手はカードを１枚引く。"
+}

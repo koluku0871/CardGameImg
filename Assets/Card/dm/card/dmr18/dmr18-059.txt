@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr18-059",
+  "PackNo": "dmr18",
+  "CardName": "福腹人形コダマンマ(DMR1859/71)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分のシールドをひとつ、手札に加える。ただし、その「S・トリガー」は使えない。"
+}

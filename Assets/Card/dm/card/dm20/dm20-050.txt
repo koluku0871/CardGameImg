@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm20-050",
+  "PackNo": "dm20",
+  "CardName": "追撃のライゼン(DM2050/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "3000",
+  "CardCategory": "ブレイブ・スピリット",
+  "Text": "自分のティラノ・ドレイクがこのターン攻撃していなければ、このクリーチャーは攻撃することができない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp2-073",
+  "PackNo": "dm24rp2",
+  "CardName": "大冒犬ヤッタルツー(DM24RP273/75)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ドリームメイト",
+  "Text": "このクリーチャーを自分のマナゾーンから召喚してもよい。このクリーチャーがタップした時、このクリーチャーをタップしてマナゾーンに置く。"
+}

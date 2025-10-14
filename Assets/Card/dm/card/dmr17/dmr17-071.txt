@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr17-071",
+  "PackNo": "dmr17",
+  "CardName": "サイバー・ブック(DMR1771/94)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）カードを３枚引く。その後、自分の手札を１枚、山札の一番下に置く。"
+}

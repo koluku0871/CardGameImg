@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm16-033",
+  "PackNo": "dm16",
+  "CardName": "式神シャーマン(DM1633/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ワンダー・トリック",
+  "Text": "このクリーチャーにクロスギアをクロスする時、自分の山札の上から１枚目を、タップして自分のマナゾーンに置く。"
+}

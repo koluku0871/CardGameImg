@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy14-spd04",
+  "PackNo": "promoy14",
+  "CardName": "ジェット・ポルカ(DMCOROCOROY144/13)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ファイアー・バード炎",
+  "Text": "自分の進化クリーチャーが攻撃する時、このクリーチャーをアンタップする。"
+}

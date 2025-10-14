@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp1-066",
+  "PackNo": "dm24rp1",
+  "CardName": "十寸人形イチマツ(DM24RP166/75)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット",
+  "Text": "相手のクリーチャーが攻撃する時、そのクリーチャーとこのクリーチャーを破壊する。"
+}

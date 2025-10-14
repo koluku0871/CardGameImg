@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp10-076",
+  "PackNo": "dmrp10",
+  "CardName": "*/弐幻コビトロ/*(DMRP1076/103)",
+  "CardType": "オレガ・オーラ",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "トリックス/デリートロン",
+  "Text": "これを付けたクリーチャーがタップした時、カードを１枚引く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy19-spd707",
+  "PackNo": "promoy19",
+  "CardName": "イフリート・ハンド(DMSPDECK77/11)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のコスト９以下のクリーチャーを１体、破壊する。"
+}

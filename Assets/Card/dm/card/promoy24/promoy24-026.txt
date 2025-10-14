@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy24-026",
+  "PackNo": "promoy24",
+  "CardName": "生魂転霊(DMPROMOY24P26/Y24)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（このカードをシールドゾーンから手札に加える時、コストを支払わずにすぐ実行してもよい）自分のクリーチャーを１体破壊する。その後、そのクリーチャーが持っていた文明の数だけ、自分の山札の上からカードをマナゾーンに置く。"
+}

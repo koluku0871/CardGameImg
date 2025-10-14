@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm12-010",
+  "PackNo": "dm12",
+  "CardName": "ギガブランド(DM1210/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "3000",
+  "CardCategory": "キマイラ",
+  "Text": "相手プレイヤーは、カードを２枚以上引いたターンの終わりに、自分自身の手札をすべて捨てる。"
+}

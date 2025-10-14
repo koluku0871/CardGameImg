@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04s-067",
+  "PackNo": "dmrp04s",
+  "CardName": "シザー・ラヴ(DMRP04S67/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ゲル・フィッシュ",
+  "Text": ""
+}

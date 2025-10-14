@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr19-045",
+  "PackNo": "dmr19",
+  "CardName": "音速サイド(DMR1945/87)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ヒューマノイド爆/侵略者",
+  "Text": "自分の進化クリーチャーを他のクリーチャーの上に置いた時、相手の「ブロッカー」を持つクリーチャーを１体破壊する。"
+}

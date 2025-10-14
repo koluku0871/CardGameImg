@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx16-060",
+  "PackNo": "dmx16",
+  "CardName": "一撃奪取マイパッド(DMX1660/84)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "アウトレイジ",
+  "Text": "各ターン、自分の水のクリーチャー１体目の召喚コストを１少なくしてもよい。ただし、コストは１より少なくならない。"
+}

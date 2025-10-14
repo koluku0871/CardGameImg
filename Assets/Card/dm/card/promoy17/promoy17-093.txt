@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-093",
+  "PackNo": "promoy17",
+  "CardName": "堕呪バレッドゥ(DMPROMOY17P93/Y17)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "魔導具",
+  "Text": "カードを２枚引く。その後、自分の手札を１枚捨てる。"
+}

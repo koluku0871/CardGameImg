@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm36-103",
+  "PackNo": "dm36",
+  "CardName": "瀬戸内の超人(DM36103/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "7",
+  "CardSubType": "9000",
+  "CardCategory": "ジャイアント/サムライ",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm08-033",
+  "PackNo": "dm08",
+  "CardName": "シェル・コロシアム(DM833/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "コロニー・ビートル",
+  "Text": "このクリーチャーがブロックされたとき、自分の山札の上から１枚目を自分のマナゾーンに加えてもよい。"
+}

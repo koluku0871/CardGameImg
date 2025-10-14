@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-s05",
+  "PackNo": "dm18",
+  "CardName": "魔翼虫ジェノサイド・ワーム(DM18S5/S10)",
+  "CardType": "進化クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "11000",
+  "CardCategory": "パラサイトワーム",
+  "Text": "進化-自分のパラサイトワーム１体の上に置く。W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする。)"
+}

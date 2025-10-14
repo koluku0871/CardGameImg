@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-238",
+  "PackNo": "dmex08",
+  "CardName": "The塩ラー漢(DMEX08238/???)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "S・トリガー"
+}

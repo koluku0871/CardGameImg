@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-062",
+  "PackNo": "promoy11",
+  "CardName": "守護聖天ナンモ・ナイ(DMPROMOY11P62/Y11)",
+  "CardType": "進化クリーチャー",
+  "Element": "光",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "6000",
+  "CardCategory": "ガーディアン",
+  "Text": "進化-自分のガーディアン１体の上に置く。W・ブレイカーバトルゾーンにある自分の他のガーディアンすべてのパワーは+2000される。"
+}

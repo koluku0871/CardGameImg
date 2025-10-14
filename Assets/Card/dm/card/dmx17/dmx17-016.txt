@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx17-016",
+  "PackNo": "dmx17",
+  "CardName": "爆竜兵ドラグストライク(DMX1716/37)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "このクリーチャーが破壊された時、ドラゴンを１体、自分の手札からバトルゾーンに出してもよい。"
+}

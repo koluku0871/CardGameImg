@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04s-024",
+  "PackNo": "dmrp04s",
+  "CardName": "バング“BNG”ドンゴ(DMRP04S24/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "キズナ（このクリーチャーがバトルゾーンに出た時、自分のクリーチャー１体のP能力を使う）P自分の手札を捨て、その後、カードを３枚引く。"
+}

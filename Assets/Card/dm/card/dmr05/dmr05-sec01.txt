@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr05-sec01",
+  "PackNo": "dmr05",
+  "CardName": "オフコース・カイザー「龍」(DMR05㊙1/㊙1)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "レッド・コマンド・ドラゴン/ハンター",
+  "Text": "バトルゾーンにある自分のエイリアンはすべて、「スピードアタッカー」を得る。自分の他のハンターは攻撃されない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-074",
+  "PackNo": "dmrp06",
+  "CardName": "堕魔ヴォビンゴ(DMRP0674/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "マフィ・ギャング/魔導具",
+  "Text": "このクリーチャーがバトルゾーンに出た時、各プレイヤーは、それぞれ１枚ずつ自身の手札を選び、捨てる。"
+}

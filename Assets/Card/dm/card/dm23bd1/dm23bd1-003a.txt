@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd1-003a",
+  "PackNo": "dm23bd1",
+  "CardName": "新世界王の闘気(DM23BD13/18)",
+  "CardType": "キング・セル",
+  "Element": "光/闇/自然",
+  "CardRarity": "KGM",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライクこのカードを自分の手札からマナゾーンに置いた時、アンタップする。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-077",
+  "PackNo": "dmex08",
+  "CardName": "龍素知新(DMEX0877/???)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "コスト７以下の呪文を１枚、自分の墓地からコストを支払わずに唱える。唱えた後、その呪文を墓地に置くかわりに山札の一番下に置く。"
+}

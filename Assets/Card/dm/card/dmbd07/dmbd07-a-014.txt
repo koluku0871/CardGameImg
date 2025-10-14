@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd07-a-014",
+  "PackNo": "dmbd07",
+  "CardName": "ヤッタレマン(DMBD07-a14/14)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "自分のジョーカーズを召喚するコストを１少なくする。ただし、コストは０以下にならない。"
+}

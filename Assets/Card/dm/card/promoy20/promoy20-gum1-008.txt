@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy20-gum1-008",
+  "PackNo": "promoy20",
+  "CardName": "不死身男爵ボーグ(DMGUM18/10)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド",
+  "Text": ""
+}

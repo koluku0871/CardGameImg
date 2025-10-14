@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-071",
+  "PackNo": "dmrp01",
+  "CardName": "貝獣ヒラーガ(DMRP0171/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ムートピア",
+  "Text": "このクリーチャーがバトルゾーンに出た時、水のカードを１枚、自分の手札から捨ててもよい。そうしたら、相手のクリーチャーを１体選び、持ち主の手札に戻す。"
+}

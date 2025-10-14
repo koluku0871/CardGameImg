@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-058",
+  "PackNo": "dmrp04m",
+  "CardName": "ハサイサク(DMRP04M58/61)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "9",
+  "CardSubType": "12000",
+  "CardCategory": "グランセクト",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

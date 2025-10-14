@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx10-034",
+  "PackNo": "dmx10",
+  "CardName": "ディメンジョン・チョーカー(DMX1034/56)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ブレインジャッカー",
+  "Text": "このクリーチャーをバトルゾーンに出した時、ドラゴンをすべて、自分の墓地から手札に戻してもよい。"
+}

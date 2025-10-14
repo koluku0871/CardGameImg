@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex06-074",
+  "PackNo": "dmex06",
+  "CardName": "戦慄のプレリュード(DMEX0674/98)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、次に召喚する自分の無色クリーチャーの召喚コストを最大５少なくしてもよい。"
+}

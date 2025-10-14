@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy12-027",
+  "PackNo": "promoy12",
+  "CardName": "紅き血のテスタ・ロッサ(DMPROMOY12P27/Y12)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "アウトレイジ",
+  "Text": "自分の他のクリーチャーがどこからでも墓地に置かれた時、そのターン、このクリーチャーは「パワーアタッカー+5000」と「W・ブレイカー」を得る。"
+}

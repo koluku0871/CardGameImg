@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-286",
+  "PackNo": "dmex08",
+  "CardName": "奏世の鍵主ウムル＝ノル(DMEX08286/???)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ルリグ",
+  "Text": "あなたはこのカードをWIXOSSの《奏世の鍵主ウムル＝ノル》として使ってもよい。"
+}

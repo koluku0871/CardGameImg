@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-035",
+  "PackNo": "dmrp01",
+  "CardName": "天空城の防壁(DMRP0135/93)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から１枚目を裏向きのまま、新しいシールドとして自分のシールドゾーンに置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd22-008",
+  "PackNo": "dmbd22",
+  "CardName": "ヘルエグリゴリ-零式(DMBD228/25)",
+  "CardType": "GRクリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "4",
+  "CardSubType": "8000",
+  "CardCategory": "マフィ・ギャング/デリートロン",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、自分の他のGRクリーチャーを１体破壊する。"
+}

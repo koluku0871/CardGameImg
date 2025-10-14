@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-077",
+  "PackNo": "dmrp07",
+  "CardName": "夜更人形ジェニコ(DMRP0777/94)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーがバトルゾーンに出た時、各プレイヤーは自身の手札を１枚選び、捨てる。"
+}

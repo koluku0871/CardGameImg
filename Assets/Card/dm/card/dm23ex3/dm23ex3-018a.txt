@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex3-018a",
+  "PackNo": "dm23ex3",
+  "CardName": "禁術のカルマカレイル/フォビッド・水晶チャージャー(DM23EX318/74)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "オラクル・セレス/ヒューマノイド",
+  "Text": "相手が、自身の手札以外からマナゾーンにカードを置いた時、相手は自身の手札を１枚選び、捨てる。"
+}

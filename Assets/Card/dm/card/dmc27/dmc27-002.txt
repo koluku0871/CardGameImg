@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-002",
+  "PackNo": "dmc27",
+  "CardName": "アストラル・ネビューラ(DMC272/55)",
+  "CardType": "進化クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "進化-自分のサイバー・ウイルス１体の上に置く。このクリーチャーをバトルゾーンに出した時、カードを３枚まで引く。"
+}

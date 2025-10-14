@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-225",
+  "PackNo": "dmex08",
+  "CardName": "東京ミステリーサーカスからの挑戦状(DMEX08225/???)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー名前に《ミステリー》、《ナゾ》、《謎》または《クエスチョン》とあるカードを１枚、自分の手札からコストを支払わずに使ってもよい。"
+}

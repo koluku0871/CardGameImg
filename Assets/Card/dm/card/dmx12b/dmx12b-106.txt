@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12b-106",
+  "PackNo": "dmx12b",
+  "CardName": "レイジング・バンブー(DMX12106/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "ワイルド・ベジーズ",
+  "Text": "このクリーチャーは、相手プレイヤーを攻撃できない。"
+}

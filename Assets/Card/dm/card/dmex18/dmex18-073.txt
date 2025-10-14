@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex18-073",
+  "PackNo": "dmex18",
+  "CardName": "飛びかかるジャガー(DMEX1873/75)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "猫",
+  "Text": "自分のターンのはじめに、このクリーチャーがこの前の自分のターンに出ていれば、[nn01]を支払ってもよい。そうしなければ、このクリーチャーを破壊する。"
+}

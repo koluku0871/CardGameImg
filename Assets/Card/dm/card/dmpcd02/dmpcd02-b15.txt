@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmpcd02-b15",
+  "PackNo": "dmpcd02",
+  "CardName": "魔光ドラム・トレボール(DMPCD02騎15/18)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ガーゴイル/ナイト",
+  "Text": "自分の「ナイト・マジック」を持つ呪文を唱えるコストを１少なくしてもよい。ただし、コストは０以下にはならない。"
+}

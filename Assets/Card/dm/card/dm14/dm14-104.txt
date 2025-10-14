@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-104",
+  "PackNo": "dm14",
+  "CardName": "奮闘の銅鑼(DM14104/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "水または闇のクリーチャーとバトルする時、このクリーチャーのパワーは+3000される。"
+}

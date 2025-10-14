@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx21-026",
+  "PackNo": "dmx21",
+  "CardName": "オールデリート(DMX2126/70)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "11",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "各プレイヤーは、バトルゾーン、手札、シールドゾーン、墓地にある自身のカードをすべて山札に加えてシャッフルする。"
+}

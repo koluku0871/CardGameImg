@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm06-081",
+  "PackNo": "dm06",
+  "CardName": "プロメフィウスα(DM681/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "シー・ハッカー/サバイバー",
+  "Text": ""
+}

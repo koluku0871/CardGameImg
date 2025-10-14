@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr19-078",
+  "PackNo": "dmr19",
+  "CardName": "オンソク・ハリテ(DMR1978/87)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のパワー6000以下のクリーチャーを１体選び、破壊する。"
+}

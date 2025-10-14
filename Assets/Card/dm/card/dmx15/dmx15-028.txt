@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx15-028",
+  "PackNo": "dmx15",
+  "CardName": "武士の魂ポッピー(DMX1528/30)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジ",
+  "Text": "セイバー:アウトレイジ（自分のアウトレイジが破壊される時、このクリーチャーをかわりに破壊してもよい）"
+}

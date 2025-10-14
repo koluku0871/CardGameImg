@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-064",
+  "PackNo": "dmx22b",
+  "CardName": "Treasurecruise(DMX2264/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "ドリームメイト",
+  "Text": "Asyouputthiscreatureintothebattlezone,youmayputthiscreatureontopofyourheadandsay,\"shichifukujiniscoming!\"Ifyoudo,letitfallfromyourheadintothebattlezone,andwhenitlands,putallyouropponent'scardsinthebattlezonethatthiscreatureistouchingintohisgraveyard.（このクリーチャーがバトルゾーンに出る時、それを頭の上に乗せて「七福神のお出ましだ！」と言ってもよい。そうしたら、頭の上のこのクリーチャーをバトルゾーンに振り落とし、それに触れている相手のクリーチャーをすべて持ち主の墓地に置く）"
+}

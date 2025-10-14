@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx13-034",
+  "PackNo": "dmx13",
+  "CardName": "ゼロ・ルピア(DMX1334/36)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード/アンノイズ",
+  "Text": "自分の無色クリーチャーの召喚コストを最大２少なくしてもよい。"
+}

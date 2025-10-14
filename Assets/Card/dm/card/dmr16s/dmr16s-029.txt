@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16s-029",
+  "PackNo": "dmr16s",
+  "CardName": "リンクウッドの龍変化！(DMR16真29/54)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、バトルゾーンにある自分のクリーチャーすべてのパワーは+3000され、種族にガイアール・コマンド・ドラゴンを追加する。"
+}

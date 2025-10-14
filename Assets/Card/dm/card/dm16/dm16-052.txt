@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm16-052",
+  "PackNo": "dm16",
+  "CardName": "微笑妖精レイリン(DM1652/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "クロスギアをバトルゾーンに出した時、カードを１枚、自分のマナゾーンから自分の手札に戻してもよい。"
+}

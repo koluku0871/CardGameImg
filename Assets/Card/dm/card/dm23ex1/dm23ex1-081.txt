@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex1-081",
+  "PackNo": "dm23ex1",
+  "CardName": "土隠妖精ユウナギ(DM23EX181/84)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー/シノビ",
+  "Text": "自分の他のシノビ・クリーチャーが離れる時、かわりにそのクリーチャーをマナゾーンに置いてもよい。"
+}

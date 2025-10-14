@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd19-012",
+  "PackNo": "dmbd19",
+  "CardName": "サイバー・ブレイン(DMBD1912/14)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）カードを３枚まで引く。"
+}

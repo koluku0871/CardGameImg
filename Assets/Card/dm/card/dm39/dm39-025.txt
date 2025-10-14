@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm39-025",
+  "PackNo": "dm39",
+  "CardName": "スクランブル・タイフーン(DM3925/55)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを５枚まで引き、その後、自分の手札を３枚捨てる。"
+}

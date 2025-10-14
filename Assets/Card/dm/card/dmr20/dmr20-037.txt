@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr20-037",
+  "PackNo": "dmr20",
+  "CardName": "音速メテオ０８(DMR2037/70)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド爆/侵略者",
+  "Text": "自分のクリーチャーが攻撃する時、それがそのターンはじめての攻撃であれば、相手の「ブロッカー」を持つクリーチャーを１体、破壊する。"
+}

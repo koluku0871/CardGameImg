@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp18-085",
+  "PackNo": "dmrp18",
+  "CardName": "ブンブン・チュリス(DMRP1885/95)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "ビートジョッキー/レクスターズ",
+  "Text": "このクリーチャーは、自分のターンのはじめにアンタップしない。"
+}

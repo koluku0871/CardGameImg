@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12a-020",
+  "PackNo": "dmx12a",
+  "CardName": "お騒がせチューザ(DMX1220/38)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ドリームメイト",
+  "Text": "このクリーチャーは、可能であれば毎ターン攻撃する。このクリーチャーがタップされている時、誰も呪文を唱えることはできない。"
+}

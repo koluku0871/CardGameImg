@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-092",
+  "PackNo": "dmrp05",
+  "CardName": "カカンナブ(DMRP0592/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "グランセクト",
+  "Text": "自分の他のクリーチャーがバトルに勝った時、そのターン、このクリーチャーのパワーを+4000する。"
+}

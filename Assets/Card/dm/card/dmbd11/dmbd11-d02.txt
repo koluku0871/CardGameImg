@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd11-d02",
+  "PackNo": "dmbd11",
+  "CardName": "メタルトッQ(DMBD11D2/D6)",
+  "CardType": "GRクリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "このクリーチャーは可能なら毎ターン攻撃する。（ゲーム開始時、GRクリーチャーは山札には含めず、自分の超GRに置き、バトルゾーン以外のゾーンに行った場合、超GRの一番下に戻す）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc67-007",
+  "PackNo": "dmc67",
+  "CardName": "爆竜兵ドラグストライク(DMC677/21)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "このクリーチャーが破壊された時、ドラゴンを１体、自分の手札からバトルゾーンに出してもよい。"
+}

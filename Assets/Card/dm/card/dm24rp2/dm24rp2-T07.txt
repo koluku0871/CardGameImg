@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp2-T07",
+  "PackNo": "dm24rp2",
+  "CardName": "ザパンプ(DM24RP2T7/T12)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "各ターン、自分が唱える１枚目の呪文のコストを１少なくする。ただし、コストは０以下にはならない。"
+}

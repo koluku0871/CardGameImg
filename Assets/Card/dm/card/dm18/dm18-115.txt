@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-115",
+  "PackNo": "dm18",
+  "CardName": "凶犬人形ジュンカツ(DM18115/140)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "デスパペット",
+  "Text": ""
+}

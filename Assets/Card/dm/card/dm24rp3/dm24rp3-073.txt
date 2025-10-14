@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp3-073",
+  "PackNo": "dm24rp3",
+  "CardName": "継走の妖精(DM24RP373/76)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ジャイアント・スノーフェアリー",
+  "Text": "このクリーチャーが出た時、コスト２以下のクリーチャーを１体、自分のマナゾーンから出してもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex07-008a",
+  "PackNo": "dmex07",
+  "CardName": "ツムリカルゴ・ラ・でんでんⅢ世/ローリング・トラップ(DMEX078/48)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "グランセクト",
+  "Text": "このクリーチャーがバトルゾーンに出た時、カードを３枚まで、自分の墓地からマナゾーンにタップして置く。"
+}

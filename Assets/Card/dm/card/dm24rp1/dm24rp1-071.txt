@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp1-071",
+  "PackNo": "dm24rp1",
+  "CardName": "ライラ・踊・ラッタ(DM24RP171/75)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "アーマード・ファイアー・バード",
+  "Text": "このクリーチャーがタップした時、相手のコスト２以下のエレメントを１つ選び、破壊してもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-047",
+  "PackNo": "dm01",
+  "CardName": "ミラージュ・マーメイド(DM147/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ゲル・フィッシュ",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、バトルゾーンに自分のサイバーロードがあれば、カードを３枚引いてよい。"
+}

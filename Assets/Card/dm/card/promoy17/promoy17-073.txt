@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-073",
+  "PackNo": "promoy17",
+  "CardName": "凶鬼27号ジャリ(DMPROMOY17P73/Y17)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の山札の上から２枚を墓地に置く。その後、マフィ・ギャングを１体、自分の墓地から手札に戻す。"
+}

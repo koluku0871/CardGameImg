@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc55-041",
+  "PackNo": "dmc55",
+  "CardName": "ピーカプのドライバー(DMC5541/84)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ゼノパーツ",
+  "Text": "このクリーチャーで攻撃するかわりに、タップして次の能力を使ってもよい。相手の「ブロッカー」を持つクリーチャーを１体破壊する。"
+}

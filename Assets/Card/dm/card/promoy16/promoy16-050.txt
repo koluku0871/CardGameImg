@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-050",
+  "PackNo": "promoy16",
+  "CardName": "ラウド“NYZ”ノイジー(DMPROMOY16P50/Y16)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "6000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）このクリーチャーがバトルゾーンに出た時、自分のシールドを２つ、手札に加える。ただし、その「S・トリガー」能力は使えない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx02-036",
+  "PackNo": "dmx02",
+  "CardName": "青銅の鎧(DMX0236/42)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分の山札の上から１枚目をマナゾーンに置く。"
+}

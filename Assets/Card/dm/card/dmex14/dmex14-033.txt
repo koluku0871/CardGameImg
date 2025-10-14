@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex14-033",
+  "PackNo": "dmex14",
+  "CardName": "配信妖精コスメ(DMEX1433/110)",
+  "CardType": "クリーチャー",
+  "Element": "水/自然",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー/チームウェイブ",
+  "Text": "各ターン、自分がはじめて多色カードをマナゾーンに置いた時、そのカードをアンタップし、カードを１枚引く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-067",
+  "PackNo": "dm01",
+  "CardName": "からみカズラ(DM167/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ツリーフォーク",
+  "Text": "このクリーチャーがバトルゾーンから自分の墓地に置かれるとき、墓地に置くかわりに自分のマナゾーンに置く。"
+}

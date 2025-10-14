@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-039",
+  "PackNo": "dmc27",
+  "CardName": "ホーリー・メール(DMC2739/55)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の手札からカードを１枚選び、裏向きにして自分のシールドに加える。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex04-032a",
+  "PackNo": "dmex04",
+  "CardName": "暗黒の騎士ザガーン/「一方的に勝つに決まっている」(DMEX0432/75)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "7000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）"
+}

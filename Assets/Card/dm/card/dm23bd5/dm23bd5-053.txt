@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd5-053",
+  "PackNo": "dm23bd5",
+  "CardName": "霞み妖精ジャスミン(DM23BD553/60)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーが出た時、このクリーチャーを破壊してもよい。そうしたら、自分の山札の上から１枚目をマナゾーンに置く。"
+}

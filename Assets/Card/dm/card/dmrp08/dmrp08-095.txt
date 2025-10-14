@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp08-095",
+  "PackNo": "dmrp08",
+  "CardName": "かぼちゃうちゃうちゃうんちゃう？(DMRP0895/95)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）パワー4000以下のクリーチャーを１体選び、持ち主のマナゾーンに置く。"
+}

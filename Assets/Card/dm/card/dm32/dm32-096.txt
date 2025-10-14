@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm32-096",
+  "PackNo": "dm32",
+  "CardName": "火之鳥ピルドル(DM3296/110)",
+  "CardType": "進化クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "5000",
+  "CardCategory": "ファイアー・バード/オリジン",
+  "Text": "進化-自分のファイアー・バードまたはオリジン１体の上に置く。"
+}

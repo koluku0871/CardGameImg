@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-021",
+  "PackNo": "dm14",
+  "CardName": "トリプル・ブレイン(DM1421/110)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを３枚まで引く。"
+}

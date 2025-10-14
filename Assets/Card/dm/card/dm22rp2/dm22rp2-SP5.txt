@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2-SP5",
+  "PackNo": "dm22rp2",
+  "CardName": "灰燼と天門の儀式(DM22RP2SP5/SP5)",
+  "CardType": "呪文",
+  "Element": "光/闇/火",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガーコスト８以下のクリーチャーを１体、自分の墓地から出す。次の自分のターンのはじめまで、そのクリーチャーに「ブロッカー」を与える。その後、相手のクリーチャーを１体選んでもよい。その２体をバトルさせる。"
+}

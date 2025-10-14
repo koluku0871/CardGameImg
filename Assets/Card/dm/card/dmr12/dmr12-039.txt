@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr12-039",
+  "PackNo": "dmr12",
+  "CardName": "アクア戦士バットマスク(DMR1239/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "リキッド・ピープル閃",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分の山札の上から２枚を見て、そのうちの１枚を山札の一番下に置く。"
+}

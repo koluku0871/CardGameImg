@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-045",
+  "PackNo": "dmx22b",
+  "CardName": "爆笑必至じーさん(DMX2245/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2130",
+  "CardCategory": "アウトレイジ",
+  "Text": "自分がゲームに負けそうな時、「うーむ、負けそうじゃ」と言いながら、自分の山札の上から３枚を見てもよい。そうしたら、自分はゲームに負ける。"
+}

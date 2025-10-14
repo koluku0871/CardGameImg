@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr03-037",
+  "PackNo": "dmr03",
+  "CardName": "ランボー・マンボー(DMR0337/54)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・クラスター/ハンター",
+  "Text": ""
+}

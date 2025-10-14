@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy19-spd709",
+  "PackNo": "promoy19",
+  "CardName": "シェル・キャリアー(DMSPDECK79/11)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "コロニー・ビートル",
+  "Text": "パワーアタッカー+3000（攻撃中、このクリーチャーのパワーを+3000する）"
+}

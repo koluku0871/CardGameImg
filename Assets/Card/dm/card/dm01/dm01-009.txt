@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-009",
+  "PackNo": "dm01",
+  "CardName": "シェル・タワー(DM19/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "コロニー・ビートル",
+  "Text": "このクリーチャーは、パワー4000以下のクリーチャーにブロックされない。"
+}

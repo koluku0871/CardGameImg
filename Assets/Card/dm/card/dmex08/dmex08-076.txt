@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-076",
+  "PackNo": "dmex08",
+  "CardName": "冥将ダムド(DMEX0876/???)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "ダークロード",
+  "Text": "このクリーチャーが破壊された時、パワー3000以下のクリーチャーをすべて破壊する。"
+}

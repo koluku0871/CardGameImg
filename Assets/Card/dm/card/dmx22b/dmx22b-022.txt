@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-022",
+  "PackNo": "dmx22b",
+  "CardName": "寝転ぶ猫ニャンニャン(DMX2222/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2222",
+  "CardCategory": "アウトレイジ猫",
+  "Text": "{CatSouls}バトルゾーンにある自分のクリーチャーがこのクリーチャーだけなら、パワーを+2222する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-020a",
+  "PackNo": "dmrp06",
+  "CardName": "凶鬼92号デンカ/世紀末ハンド(DMRP0620/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手は自身の手札を１枚選び、捨てる。"
+}

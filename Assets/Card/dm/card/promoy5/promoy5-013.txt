@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy5-013",
+  "PackNo": "promoy5",
+  "CardName": "デモニック・バイス(DMPROMOY5P13/Y5)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手は、自分自身の手札を２枚捨てる。"
+}

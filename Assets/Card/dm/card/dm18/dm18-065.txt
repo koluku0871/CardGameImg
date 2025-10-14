@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-065",
+  "PackNo": "dm18",
+  "CardName": "ネオ・ブレイン(DM1865/140)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)カードを２枚まで引く。"
+}

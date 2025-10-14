@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx21-051",
+  "PackNo": "dmx21",
+  "CardName": "アストラル・リーフ(DMX2151/70)",
+  "CardType": "進化クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "進化-自分のサイバー・ウイルス１体の上に置く。このクリーチャーがバトルゾーンに出た時、カードを３枚引いてもよい。"
+}

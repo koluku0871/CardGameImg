@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "sp-034",
+  "PackNo": "sp",
+  "CardName": "緑神龍ザールベルグ(DMSI/)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "9",
+  "CardSubType": "5000",
+  "CardCategory": "アース・ドラゴン",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手のマナゾーンからカードを２枚まで選び、持ち主の墓地に置く。"
+}

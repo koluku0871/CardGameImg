@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-040",
+  "PackNo": "dm18",
+  "CardName": "ドラグライド(DM1840/140)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "アーマード・ワイバーン",
+  "Text": "このクリーチャーは、可能であれば毎ターン攻撃する。"
+}

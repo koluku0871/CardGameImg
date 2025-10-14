@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp10-075",
+  "PackNo": "dmrp10",
+  "CardName": "大海賊コアンコ(DMRP1075/103)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ムートピア",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc61-086",
+  "PackNo": "dmc61",
+  "CardName": "炎のたてがみ(DMC6186/94)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビーストフォーク",
+  "Text": ""
+}

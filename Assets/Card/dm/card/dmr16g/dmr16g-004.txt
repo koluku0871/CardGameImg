@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16g-004",
+  "PackNo": "dmr16g",
+  "CardName": "熱血龍GENJI・XXX(DMR16極4/54)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "7000",
+  "CardCategory": "ガイアール・コマンド・ドラゴン",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手の「ブロッカー」を持つクリーチャーをすべて破壊する。スピードアタッカー（このクリーチャーは召喚酔いしない）W・ブレイカー"
+}

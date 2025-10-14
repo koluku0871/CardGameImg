@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm31-050",
+  "PackNo": "dm31",
+  "CardName": "爆獣工師ピーカプ・フィリッパ(DM3150/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "マシン・イーター/ナイト",
+  "Text": "自分が呪文を唱えた時、そのターン、このクリーチャーのパワーは+2000される。"
+}

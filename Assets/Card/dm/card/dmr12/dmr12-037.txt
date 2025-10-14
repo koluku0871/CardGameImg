@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr12-037",
+  "PackNo": "dmr12",
+  "CardName": "戦攻魔海アラジル(DMR1237/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "4000",
+  "CardCategory": "オラクル/アースイーター",
+  "Text": "ブロッカーこのクリーチャーが破壊された時、バトルゾーンにあるクリーチャーを１体選び、持ち主の手札に戻してもよい。"
+}

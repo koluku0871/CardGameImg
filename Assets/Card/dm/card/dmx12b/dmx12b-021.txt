@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12b-021",
+  "PackNo": "dmx12b",
+  "CardName": "偉大なる無駄(DMX1221/？？？)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "スペシャル・クライマックス",
+  "Text": ""
+}

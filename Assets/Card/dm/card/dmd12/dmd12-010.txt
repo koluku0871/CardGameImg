@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd12-010",
+  "PackNo": "dmd12",
+  "CardName": "犠心のイザナイ一休(DMD1210/21)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "オラクル",
+  "Text": "このクリーチャーが破壊された時、コスト７以下の、進化ではない無色クリーチャーを１体、自分の手札からバトルゾーンに出してもよい。"
+}

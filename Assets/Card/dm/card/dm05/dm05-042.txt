@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm05-042",
+  "PackNo": "dm05",
+  "CardName": "スチールアーム・クラスター(DM542/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・クラスター",
+  "Text": "火と自然のクリーチャーは、このクリーチャーを攻撃することができない。"
+}

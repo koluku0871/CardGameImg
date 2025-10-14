@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy12-069",
+  "PackNo": "promoy12",
+  "CardName": "高飛車姫プリン(DMPROMOY12P69/Y12)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ハンター/エイリアン",
+  "Text": "相手のクリーチャーが攻撃する時、そのターン、相手の他のクリーチャーは攻撃できない。"
+}

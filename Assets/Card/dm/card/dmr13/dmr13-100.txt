@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-100",
+  "PackNo": "dmr13",
+  "CardName": "爆斬刀ダルモア(DMR13100/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド爆",
+  "Text": ""
+}

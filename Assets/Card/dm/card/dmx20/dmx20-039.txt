@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx20-039",
+  "PackNo": "dmx20",
+  "CardName": "フォーチュン・ボール(DMX2039/68)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手のシールドが３つ以下であれば、カードを２枚まで引いてもよい。"
+}

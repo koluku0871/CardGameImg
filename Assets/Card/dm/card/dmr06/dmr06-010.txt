@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr06-010",
+  "PackNo": "dmr06",
+  "CardName": "偽りの名iFormulaX(DMR0610/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "グレートメカオー/アンノウン",
+  "Text": "自分のターンの終わりに、このクリーチャーがタップされていて、自分の手札が10枚以上あれば、自分はゲームに勝利する。W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

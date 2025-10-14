@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-102",
+  "PackNo": "dm10",
+  "CardName": "コロッサス・ブースター(DM10102/110)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のクリーチャー１体のパワーは、このターンの終わりまで+4000される。"
+}

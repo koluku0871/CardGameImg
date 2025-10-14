@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd17-teki002",
+  "PackNo": "dmbd17",
+  "CardName": "死海竜(DMBD17敵2/敵10)",
+  "CardType": "クリーチャー",
+  "Element": "水/闇/火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "12000",
+  "CardCategory": "レインボー・コマンド・ドラゴン/エイリアン",
+  "Text": ""
+}

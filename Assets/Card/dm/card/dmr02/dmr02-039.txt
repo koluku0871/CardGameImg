@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr02-039",
+  "PackNo": "dmr02",
+  "CardName": "アクア・スラッシュ(DMR0239/54)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "このクリーチャーをバトルゾーンに出した時、各プレイヤーは自身の手札を１枚選び、持ち主の山札の上に置く。"
+}

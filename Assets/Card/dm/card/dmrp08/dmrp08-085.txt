@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp08-085",
+  "PackNo": "dmrp08",
+  "CardName": "バブバブ・チュリス(DMRP0885/95)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "G・G・G：このクリーチャーがバトル中、自分の手札が１枚以下なら、このクリーチャーのパワーを+3000する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-117",
+  "PackNo": "dm18",
+  "CardName": "孤独の影ロンリー・ウォーカー(DM18117/140)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "ゴースト",
+  "Text": "自分のターンの終わりに、バトルゾーンにある自分のクリーチャーがこのクリーチャーだけであれば、破壊する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp22-057",
+  "PackNo": "dmrp22",
+  "CardName": "ウチカタハジメ(DMRP2257/76)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "コストを支払うかわりに、自分の水のタマシードを２枚タップして、この呪文を唱えてもよい。相手のクリーチャーを１体選び、持ち主の手札に戻す。"
+}

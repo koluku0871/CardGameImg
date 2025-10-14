@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex3-031",
+  "PackNo": "dm24ex3",
+  "CardName": "決戦！月と太陽!!(DM24EX331/80)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー次の自分のターンのはじめまで、相手のクリーチャーが自分のシールドをブレイクした時、相手のシールドを１つ選んで墓地に置く。"
+}

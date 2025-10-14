@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx14-033",
+  "PackNo": "dmx14",
+  "CardName": "斬斬人形コダマンマ(DMX1433/84)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "デスパペット/エイリアン",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分のシールドをひとつ手札に加える。ただし、その「S・トリガー」は使えない。"
+}

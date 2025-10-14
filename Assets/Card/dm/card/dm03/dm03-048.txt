@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm03-048",
+  "PackNo": "dm03",
+  "CardName": "爆炎野郎ジョー(DM348/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ヒューマノイド",
+  "Text": ""
+}

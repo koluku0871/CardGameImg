@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy23-spd1102",
+  "PackNo": "promoy23",
+  "CardName": "ジーペン＝ギーゼン(DMSPDECK112/11)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "6000",
+  "CardCategory": "アビスロイヤル",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）自分のタップしているクリーチャーが３体以上なければ、このクリーチャーは攻撃できない。"
+}

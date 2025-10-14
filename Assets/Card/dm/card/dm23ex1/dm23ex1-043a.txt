@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex1-043a",
+  "PackNo": "dm23ex1",
+  "CardName": "戦武の無限皇ジャッキー/「俺たちの夢は終わらねぇ！」(DM23EX143/84)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "アウトレイジMAX",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）相手の呪文を唱えるコストは無限のマナを必要とする。"
+}

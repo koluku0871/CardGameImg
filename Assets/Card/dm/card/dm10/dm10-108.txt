@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-108",
+  "PackNo": "dm10",
+  "CardName": "原始の棍棒(DM10108/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "パワーアタッカー+2000(攻撃中、このクリーチャーのパワーは+2000される)"
+}

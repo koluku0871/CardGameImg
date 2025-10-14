@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx20-067",
+  "PackNo": "dmx20",
+  "CardName": "一撃奪取ケラサス(DMX2067/68)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "アウトレイジ",
+  "Text": "各ターン、自分の自然のクリーチャー１体目の召喚コストを１少なくしてもよい。ただし、コストは０以下にならない。"
+}

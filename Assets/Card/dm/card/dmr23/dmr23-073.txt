@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr23-073",
+  "PackNo": "dmr23",
+  "CardName": "鯛焼の超人(DMR2373/74)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ジャイアント",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。このクリーチャーがバトルゾーンに出た時、自分のマナゾーンにあるカードを４枚アンタップする。"
+}

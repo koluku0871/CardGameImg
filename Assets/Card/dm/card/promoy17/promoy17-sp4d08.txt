@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-sp4d08",
+  "PackNo": "promoy17",
+  "CardName": "ヤッタレマン(DMCOROCOROY178/10)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "自分のジョーカーズを召喚するコストを１少なくする。ただし、コストは０以下にならない。"
+}

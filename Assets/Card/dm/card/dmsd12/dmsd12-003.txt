@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd12-003",
+  "PackNo": "dmsd12",
+  "CardName": "オーマ丙-二式(DMSD123/19)",
+  "CardType": "GRクリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング/デリートロン",
+  "Text": "このクリーチャーがバトルゾーンを離れた時、闇のクリーチャー１体または闇のオーラを１枚、自分の墓地から手札に戻してもよい。"
+}

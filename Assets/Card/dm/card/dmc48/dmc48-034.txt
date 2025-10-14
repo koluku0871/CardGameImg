@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc48-034",
+  "PackNo": "dmc48",
+  "CardName": "氷牙レオポル・ディーネ公(DMC4834/44)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "サイバー・ウイルス/ナイト",
+  "Text": "自分が呪文を唱えた時、カードを１枚引いてもよい。"
+}

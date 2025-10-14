@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-087",
+  "PackNo": "dmrp07",
+  "CardName": "おいも三兄弟(DMRP0787/94)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "Jチェンジ６（このクリーチャーが攻撃する時、このクリーチャーと自分のマナゾーンにあるコスト６以下のジョーカーズ１体を入れ替えてもよい）"
+}

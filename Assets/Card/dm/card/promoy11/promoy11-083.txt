@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-083",
+  "PackNo": "promoy11",
+  "CardName": "堂々終劇鬼丸「Ｅｎｄ」(DMPROMOY11P83/Y11)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "7",
+  "CardSubType": "7000",
+  "CardCategory": "ヒューマノイド/ハンター/エイリアン",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２枚ブレイクする）誰もゼニスを召喚できない。ゼニスとバトル中、このクリーチャーのパワーは+11000される。"
+}

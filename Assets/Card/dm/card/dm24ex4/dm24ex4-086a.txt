@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex4-086a",
+  "PackNo": "dm24ex4",
+  "CardName": "AQreplay/伝説チャンス(DM24EX486/100)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マジック・リキッド・ピープル",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）各ターン、自分が２枚目のカードを引いた時、カードを１枚引く。"
+}

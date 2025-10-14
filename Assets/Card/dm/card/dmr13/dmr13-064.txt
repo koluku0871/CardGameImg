@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-064",
+  "PackNo": "dmr13",
+  "CardName": "熱血トレーニング(DMR1364/110)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、バトルゾーンにある自分のクリーチャー１体は「攻撃中、このクリーチャーのパワーは、自分の墓地にある火のカード１枚につき+1000される」を得る。"
+}

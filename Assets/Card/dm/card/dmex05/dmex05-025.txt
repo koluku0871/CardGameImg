@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex05-025",
+  "PackNo": "dmex05",
+  "CardName": "HAJIKERO・バクチック(DMEX0525/87)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ビートジョッキー/ワンダフォース",
+  "Text": "このクリーチャーがバトルゾーンに出た時、または攻撃する時、GR召喚する。そのGRクリーチャーに「スピードアタッカー」を与える。そのターンの終わりに、そのGRクリーチャーを破壊する。"
+}

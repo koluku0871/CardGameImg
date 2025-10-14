@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm06-042",
+  "PackNo": "dm06",
+  "CardName": "光柱樹(DM642/110)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "スターライト・ツリー",
+  "Text": "バトルゾーンにある間、このクリーチャーのパワーは、自分のシールド１枚につき+2000される。"
+}

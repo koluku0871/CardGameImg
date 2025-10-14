@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm39-052",
+  "PackNo": "dm39",
+  "CardName": "怪力ネムノキ(DM3952/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "ツリーフォーク",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

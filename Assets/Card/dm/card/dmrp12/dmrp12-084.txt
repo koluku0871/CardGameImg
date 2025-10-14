@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp12-084",
+  "PackNo": "dmrp12",
+  "CardName": "砂遊び男(DMRP1284/104)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ヘドリアン",
+  "Text": ""
+}

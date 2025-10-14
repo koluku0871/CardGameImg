@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr19-077",
+  "PackNo": "dmr19",
+  "CardName": "音速ピード(DMR1977/87)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド爆/侵略者",
+  "Text": "相手のシールドが２つ以下なら、このクリーチャーのパワーを+3000し、種族にソニック・コマンドを追加する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy13-095",
+  "PackNo": "promoy13",
+  "CardName": "爆竜GENJI・XX(DMPROMOY13P95/Y13)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "7000",
+  "CardCategory": "アーマード・ドラゴン/フレイム・コマンド/サムライ",
+  "Text": "【K・ソウル】スピードアタッカー（このクリーチャーは召喚酔いしない）このクリーチャーが攻撃する時、相手の「ブロッカー」を持つクリーチャーを１体破壊する。W・ブレイカー（このクリーチャーはシールドを２枚ブレイクする）"
+}

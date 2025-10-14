@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-095",
+  "PackNo": "promoy16",
+  "CardName": "シディアン・ビーティス(DMPROMOY16P95/Y16)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のマナゾーンにあるカードの枚数よりコストが大きい相手の進化ではないクリーチャーをすべて、裏向きにして、それぞれ新らしいシールドとして持ち主のシールドゾーンに置く。"
+}

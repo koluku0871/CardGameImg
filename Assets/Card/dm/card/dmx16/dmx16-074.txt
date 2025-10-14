@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx16-074",
+  "PackNo": "dmx16",
+  "CardName": "ノウメン(DMX1674/84)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "6000",
+  "CardCategory": "トライストーン",
+  "Text": ""
+}

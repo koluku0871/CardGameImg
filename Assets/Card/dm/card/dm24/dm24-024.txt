@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24-024",
+  "PackNo": "dm24",
+  "CardName": "無神兵トッシンダー(DM2424/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "アーマロイド",
+  "Text": "自分の手札が１枚もない時、このクリーチャーのパワーは+3000される。"
+}

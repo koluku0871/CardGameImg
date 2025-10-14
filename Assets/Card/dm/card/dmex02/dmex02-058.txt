@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex02-058",
+  "PackNo": "dmex02",
+  "CardName": "ズバット戦車バチゴーン(DMEX0258/84)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "8",
+  "CardSubType": "15000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）T・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

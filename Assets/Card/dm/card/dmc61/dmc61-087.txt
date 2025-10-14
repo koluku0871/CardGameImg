@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc61-087",
+  "PackNo": "dmc61",
+  "CardName": "冒険妖精ポレゴン(DMC6187/94)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーがシールドをブレイクした時、そのターンの終わりにこのクリーチャーを自分の手札に戻す。"
+}

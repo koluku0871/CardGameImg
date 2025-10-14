@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm04-002",
+  "PackNo": "dm04",
+  "CardName": "アストラル・リーフ(DM42/55)",
+  "CardType": "進化クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "進化-自分のサイバー・ウイルス１体の上に置く。このクリーチャーがバトルゾーンに出たとき、カードを３枚引いてもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm05-s04",
+  "PackNo": "dm05",
+  "CardName": "グラディアン・レッド・ドラゴン(DM5S4/S5)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "SR",
+  "Cost": "10",
+  "CardSubType": "15000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "T(トリプル)・ブレイカー(シールドを攻撃したとき、このクリーチャーはシールドを３枚ブレイクする)"
+}

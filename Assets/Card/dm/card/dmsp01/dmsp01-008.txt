@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsp01-008",
+  "PackNo": "dmsp01",
+  "CardName": "ヘルコプ太(DMSP018/48)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーがバトルゾーンに出た時、バトルゾーンにある自分のジョーカーズ１体につき、カードを１枚引いてもよい。"
+}

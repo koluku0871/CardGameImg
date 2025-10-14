@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx16-047",
+  "PackNo": "dmx16",
+  "CardName": "コッコ・ルピア(DMX1647/84)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "自分のドラゴンの召喚コストを２少なくする。ただし、コストは２より少なくならない。"
+}

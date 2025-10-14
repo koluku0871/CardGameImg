@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy18-041",
+  "PackNo": "promoy18",
+  "CardName": "シニガミ丁-四式(DMPROMOY18P41/Y18)",
+  "CardType": "GRクリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "マフィ・ギャング/デリートロン",
+  "Text": "このクリーチャーがバトルゾーンを離れた時、自分の山札の上から２枚を墓地に置く。（ゲーム開始時、GRクリーチャーは山札には含めず、自分の超GRに置き、バトルゾーン以外のゾーンに行った場合、超GRの一番下に戻す）"
+}

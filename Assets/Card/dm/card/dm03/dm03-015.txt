@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm03-015",
+  "PackNo": "dm03",
+  "CardName": "ボルテール・ドラゴン(DM315/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "9000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "W(ダブル)・ブレイカー(シールドを攻撃したとき、このクリーチャーはシールドを２枚ブレイクする)"
+}

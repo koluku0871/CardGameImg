@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp2-062",
+  "PackNo": "dm23rp2",
+  "CardName": "ド:ニーワ(DM23RP262/74)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ノワールアビス",
+  "Text": "このクリーチャーが出た時または攻撃する時、コスト３以下のアビス・クリーチャーを１体、自分の墓地から出してもよい。"
+}

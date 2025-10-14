@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd26-009",
+  "PackNo": "dmd26",
+  "CardName": "モリノオウジャダケα(DMD269/17)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "バルーン・マッシュルーム/サバイバー",
+  "Text": "S・トリガー（このクリーチャーをシールドゾーンから手札に加える時、コストを支払わずにすぐ召喚してもよい）"
+}

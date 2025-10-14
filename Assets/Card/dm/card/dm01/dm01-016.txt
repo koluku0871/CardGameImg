@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-016",
+  "PackNo": "dm01",
+  "CardName": "レーザー・ウイング(DM116/110)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにある自分のクリーチャーを２体まで選ぶ。このターン、そのクリーチャーはブロックされない。"
+}

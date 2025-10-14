@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy21-906",
+  "PackNo": "promoy21",
+  "CardName": "貴星虫ドレインワーム(DMSPDECK96/11)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "パラサイトワーム/オリジン",
+  "Text": "このクリーチャーが出た時、相手のクリーチャーを１体選ぶ。そのターン、そのクリーチャーのパワーを－1000する。（パワー０以下のクリーチャーは破壊される）"
+}

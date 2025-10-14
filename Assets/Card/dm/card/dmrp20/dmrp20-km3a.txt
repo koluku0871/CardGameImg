@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp20-km3a",
+  "PackNo": "dmrp20",
+  "CardName": "新世界王の権威(DMRP20KM3/KM5)",
+  "CardType": "キング・セル",
+  "Element": "光/闇/火",
+  "CardRarity": "KGM",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライクこのカードを自分の手札からマナゾーンに置いた時、アンタップする。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc44-035",
+  "PackNo": "dmc44",
+  "CardName": "エマージェンシー・タイフーン(DMC4435/36)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)カードを２枚まで引いてもよい。その後、自分の手札を１枚捨てる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-005",
+  "PackNo": "dmx22b",
+  "CardName": "５月(DMX225/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "2016カレンダー",
+  "Text": ""
+}

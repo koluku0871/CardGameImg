@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-050",
+  "PackNo": "dm01",
+  "CardName": "アクア・ソルジャー(DM150/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "このクリーチャーがバトルゾーンから自分の墓地に置かれるとき、墓地に置くかわりに自分の手札に戻す。"
+}

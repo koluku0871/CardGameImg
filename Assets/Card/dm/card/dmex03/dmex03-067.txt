@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex03-067",
+  "PackNo": "dmex03",
+  "CardName": "ブラッディ・クロス(DMEX0367/69)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から２枚を墓地に置く。その後、相手は自身の山札の上から２枚を墓地に置く。"
+}

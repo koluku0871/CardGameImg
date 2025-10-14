@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy23-093",
+  "PackNo": "promoy23",
+  "CardName": "死神信徒バーロウ・ビリーバー(DMPROMOY23P93/Y23)",
+  "CardType": "クリーチャー",
+  "Element": "闇/自然",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "4000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "このクリーチャーが出た時、自分の山札の上から３枚を見る。そのうち１枚ずつ、マナゾーン、墓地、山札の下に置く。"
+}

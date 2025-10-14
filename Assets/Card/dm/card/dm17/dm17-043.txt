@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm17-043",
+  "PackNo": "dm17",
+  "CardName": "シナプス・キューブ(DM1743/55)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から４枚を見て、好きな順番で元に戻す。"
+}

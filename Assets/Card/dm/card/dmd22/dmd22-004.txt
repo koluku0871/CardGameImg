@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd22-004",
+  "PackNo": "dmd22",
+  "CardName": "暗黒鎧キラーアイ(DMD224/12)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ダーク・ナイトメア",
+  "Text": "スレイヤー（このクリーチャーがバトルする時、バトルの後、相手クリーチャーを破壊する）"
+}

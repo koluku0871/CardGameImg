@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-063",
+  "PackNo": "promoy11",
+  "CardName": "黒神龍ダダン・ダンダ・ダンス(DMPROMOY11P63/Y11)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ドラゴン・ゾンビ",
+  "Text": "このクリーチャーまたは自分の他のドラゴン・ゾンビが破壊された時、カードを１枚引いてもよい。"
+}

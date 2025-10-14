@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd22-007",
+  "PackNo": "dmbd22",
+  "CardName": "凶鬼000号ゼロヴォイド(DMBD227/25)",
+  "CardType": "GRクリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "マフィ・ギャング/デーモン・コマンド/デリートロン",
+  "Text": "自分の墓地にカードが10枚以上あれば、このクリーチャーは破壊されない。"
+}

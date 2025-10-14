@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-088",
+  "PackNo": "dmrp05",
+  "CardName": "シェル・フェイト(DMRP0588/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "コロニー・ビートル",
+  "Text": ""
+}

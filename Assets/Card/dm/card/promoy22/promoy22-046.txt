@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy22-046",
+  "PackNo": "promoy22",
+  "CardName": "飛工！デネビア&ドッペル(DMPROMOY22P46/Y22)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "メカ・デル・ステラ/アーマード・ワイバーン",
+  "Text": "ウルトラ・セイバー：メカまたはアーマード（自分のメカまたはアーマードが離れる時、かわりにこのクリーチャーを破壊してもよい）"
+}

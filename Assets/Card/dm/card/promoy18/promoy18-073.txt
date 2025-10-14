@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy18-073",
+  "PackNo": "promoy18",
+  "CardName": "メイプル超もみ人(DMPROMOY1873/Y18)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の山札の上から１枚目をマナゾーンに置く。"
+}

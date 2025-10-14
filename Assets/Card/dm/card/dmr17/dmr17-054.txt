@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr17-054",
+  "PackNo": "dmr17",
+  "CardName": "侵略者ジーブラ(DMR1754/94)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "ゲリラ・コマンド/侵略者",
+  "Text": "相手のシールドが２つ以下なら、自分の自然のクリーチャーすべてのパワーをバトル中+5000する。"
+}

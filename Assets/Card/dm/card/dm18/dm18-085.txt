@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-085",
+  "PackNo": "dm18",
+  "CardName": "樹界を守るパラダイス・ホーン(DM1885/140)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ホーン・ビースト",
+  "Text": "パワーアタッカー+2000(攻撃中、このクリーチャーのパワーは+2000される)"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-056",
+  "PackNo": "dmrp04m",
+  "CardName": "戌年の縁上者ブルドッグ(DMRP04M56/61)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2018",
+  "CardCategory": "アウトレイジ",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmpcd01-t15",
+  "PackNo": "dmpcd01",
+  "CardName": "青銅の鎧(DMPCD01天15/16)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の山札の上から１枚目をマナゾーンに置く。"
+}

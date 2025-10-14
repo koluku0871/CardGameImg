@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr14-039",
+  "PackNo": "dmr14",
+  "CardName": "アクア戦士ブルーマイティ(DMR1439/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "リキッド・ピープル閃",
+  "Text": "自分のドラグハートをバトルゾーンに出した時、カードを１枚引いてもよい。"
+}

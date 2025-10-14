@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex2-080",
+  "PackNo": "dm23ex2",
+  "CardName": "新世代の旅立ち(DM23EX280/112)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "各プレイヤーは自身の手札をすべて捨てる。その後、各プレイヤーはカードを５枚まで引く。"
+}

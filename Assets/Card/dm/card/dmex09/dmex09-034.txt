@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex09-034",
+  "PackNo": "dmex09",
+  "CardName": "プリンス・プンコー(DMEX0934/42)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ/チーム切札",
+  "Text": "「ブロッカー」を持つクリーチャーとバトル中、このクリーチャーのパワーを+5000する。"
+}

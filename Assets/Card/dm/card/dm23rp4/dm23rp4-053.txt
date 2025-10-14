@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp4-053",
+  "PackNo": "dm23rp4",
+  "CardName": "レディゴ・カリ・ゲルス(DM23RP453/74)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "5500",
+  "CardCategory": "メカ・エンジェル・コマンド",
+  "Text": "このクリーチャーが出た時、他のクリーチャーを１体選び、シールド化してもよい。"
+}

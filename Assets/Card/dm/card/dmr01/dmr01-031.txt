@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr01-031",
+  "PackNo": "dmr01",
+  "CardName": "ニドギリ・ドラゴン(DMR0131/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "アーマード・ドラゴン/ハンター",
+  "Text": "各ターン、このクリーチャーがはじめてタップした時、アンタップする。このクリーチャーは、可能なら各ターン２度攻撃する。"
+}

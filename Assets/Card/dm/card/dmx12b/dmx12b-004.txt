@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12b-004",
+  "PackNo": "dmx12b",
+  "CardName": "《パーロック～陰謀に立ち向かえ！～》(DMX124/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "サイバーロード/オリジン",
+  "Text": ""
+}

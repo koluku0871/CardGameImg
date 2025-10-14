@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm30-024",
+  "PackNo": "dm30",
+  "CardName": "シンカイマンモー(DM3024/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "6000",
+  "CardCategory": "ブルー・モンスター",
+  "Text": "ブロッカーこのクリーチャーは攻撃することができない。"
+}

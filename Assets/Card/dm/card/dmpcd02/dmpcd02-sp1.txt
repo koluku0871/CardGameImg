@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmpcd02-sp1",
+  "PackNo": "dmpcd02",
+  "CardName": "鼓動する石版(DMPCD02SP1/SP1)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から１枚目をマナゾーンに置く。そのカードがクリーチャーなら、このターン、自分のクリーチャーすべてのパワーを+2000する。"
+}

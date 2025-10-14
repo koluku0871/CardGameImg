@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-047a",
+  "PackNo": "promoy17",
+  "CardName": "S.Q.QX/5.S.U.(DMPROMOY17P47/Y17)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "SR",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "グランセクト",
+  "Text": "相手は自身の山札からカードを墓地に置くことはできない。"
+}

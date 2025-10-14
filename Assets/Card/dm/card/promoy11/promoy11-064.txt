@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-064",
+  "PackNo": "promoy11",
+  "CardName": "魔刻の斬将オルゼキア(DMPROMOY11P64/Y11)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分のクリーチャーを１体破壊する。その後、相手は自身のクリーチャーを２体選び、破壊する。Ｗ・ブレイカー（このクリーチャーはシールドを２枚ブレイクする）"
+}

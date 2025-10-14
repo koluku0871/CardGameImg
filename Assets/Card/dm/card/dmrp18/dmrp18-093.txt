@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp18-093",
+  "PackNo": "dmrp18",
+  "CardName": "Theパーコー漢(DMRP1893/95)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "ジョーカーズ",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-071",
+  "PackNo": "dmrp07",
+  "CardName": "堕呪バレッドゥ(DMRP0771/94)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "魔導具",
+  "Text": "カードを２枚引く。その後、自分の手札を１枚捨てる。"
+}

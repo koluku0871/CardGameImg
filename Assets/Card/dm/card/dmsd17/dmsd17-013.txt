@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd17-013",
+  "PackNo": "dmsd17",
+  "CardName": "パーリギリス(DMSD1713/14)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ/レクスターズ",
+  "Text": "シンカパワー：このクリーチャーが進化する時、自分の山札の上から１枚目をマナゾーンに置く。"
+}

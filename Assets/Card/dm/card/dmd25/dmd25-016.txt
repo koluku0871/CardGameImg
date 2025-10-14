@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd25-016",
+  "PackNo": "dmd25",
+  "CardName": "霞み妖精ジャスミン(DMD2516/17)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーがバトルゾーンに出た時、このクリーチャーを破壊してもよい。そうしたら、自分の山札の上から１枚目をマナゾーンに置く。"
+}

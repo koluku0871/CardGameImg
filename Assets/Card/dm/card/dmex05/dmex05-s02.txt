@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex05-s02",
+  "PackNo": "dmex05",
+  "CardName": "Mt.富士山ックス(DMEX05S2/S10)",
+  "CardType": "GRクリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "SR",
+  "Cost": "4",
+  "CardSubType": "1000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "バトルゾーンに自分の他の《Mt.富士山ックス》があれば、このクリーチャーのパワーを+11000し、「T・ブレイカー」を与える。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24bd6-006",
+  "PackNo": "dm24bd6",
+  "CardName": "偽りの希望修羅丸「終斗」(DM24BD66/60)",
+  "CardType": "クリーチャー",
+  "Element": "光/闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "6500",
+  "CardCategory": "アンノウン・セレス",
+  "Text": "ブロッカースレイヤーW・ブレイカー各ターン、はじめて相手のクリーチャーが出る時、そのクリーチャーはタップして出る。"
+}

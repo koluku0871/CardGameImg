@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy19-spd710",
+  "PackNo": "promoy19",
+  "CardName": "炎のたてがみ(DMSPDECK710/11)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビーストフォーク",
+  "Text": ""
+}

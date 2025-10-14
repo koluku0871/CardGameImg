@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy22-034",
+  "PackNo": "promoy22",
+  "CardName": "ド:ノラテップ(DMPROMOY22P34/Y22)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ノワールアビス",
+  "Text": "スレイヤー（このクリーチャーがバトルする時、バトルの後、相手クリーチャーを破壊する）各ターンに一度、自分のアビスを使うコストを１少なくしてもよい。ただし、コストは０以下にはならない。"
+}

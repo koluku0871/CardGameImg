@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy3-017",
+  "PackNo": "promoy3",
+  "CardName": "サイキック・ビジョン(DMPROMOY3P17/Y3)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "*自分の山札の上から４枚を表向きにする。その中の水のカードをすべて自分の手札に加え、それ以外のカードを自分の墓地に置く。"
+}

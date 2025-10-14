@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx19-s13",
+  "PackNo": "dmx19",
+  "CardName": "クリスタル・ツヴァイランサー(DMX19S13/S56)",
+  "CardType": "進化クリーチャー",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "8",
+  "CardSubType": "13000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "進化-自分のリキッド・ピープル１体の上に置く。このクリーチャーはブロックされない。T・ブレイカー"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd26-008",
+  "PackNo": "dmd26",
+  "CardName": "猛毒モクレンβ(DMD268/17)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ツリーフォーク/サバイバー",
+  "Text": "oSこのクリーチャーが攻撃する時、自分の山札の上から１枚目をマナゾーンに置いてもよい。サバイバー（自分のサバイバーはすべて、上のoS能力を持つ）"
+}

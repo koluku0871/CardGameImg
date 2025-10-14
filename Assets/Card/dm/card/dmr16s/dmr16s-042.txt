@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16s-042",
+  "PackNo": "dmr16s",
+  "CardName": "エマージェンシー・タイフーン(DMR16真42/54)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）カードを２枚まで引く。その後、自分の手札を１枚捨てる。"
+}

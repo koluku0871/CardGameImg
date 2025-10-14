@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex14-065",
+  "PackNo": "dmex14",
+  "CardName": "U・S・A・NNYAA(DMEX1465/110)",
+  "CardType": "クリーチャー",
+  "Element": "光/火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "500",
+  "CardCategory": "ビートジョッキー/チームボンバー",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の手札を１枚捨ててもよい。そうしたら、カードを２枚引く。"
+}

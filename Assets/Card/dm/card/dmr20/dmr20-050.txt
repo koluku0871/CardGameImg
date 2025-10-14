@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr20-050",
+  "PackNo": "dmr20",
+  "CardName": "宇宙トーパス(DMR2050/70)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "リキッド・ピープル閃/侵略者",
+  "Text": "このクリーチャーが破壊される時、かわりに《宇宙トーパス》を１体、自分の手札からバトルゾーンに出してもよい。"
+}

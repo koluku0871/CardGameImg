@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-Cho14",
+  "PackNo": "dm22ex1",
+  "CardName": "ザババン・ジョーカーズ(DM22EX1超14/超50)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "ジョーカーズ",
+  "Text": "カードを１枚引き、その後、自分の手札を１枚捨てる。捨てたカードがジョーカーズなら、カードを１枚引く。"
+}

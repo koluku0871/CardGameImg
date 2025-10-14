@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24-092",
+  "PackNo": "dm24",
+  "CardName": "死奏伯爵エルレウス(DM2492/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ダークロード",
+  "Text": "このクリーチャーが破壊された時、自分の闇以外のクリーチャーを１体破壊する。"
+}

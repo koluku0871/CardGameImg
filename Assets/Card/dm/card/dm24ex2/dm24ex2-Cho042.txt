@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex2-Cho042",
+  "PackNo": "dm24ex2",
+  "CardName": "愛魂憎男(DM24EX2超42/超47)",
+  "CardType": "GRクリーチャー",
+  "Element": "光/水/闇/火/自然",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ワンダフォース/トリックス/デリートロン/ヘドリアン/フィッシュ/ガーディアン/ジャイアント/ゼノパーツ",
+  "Text": ""
+}

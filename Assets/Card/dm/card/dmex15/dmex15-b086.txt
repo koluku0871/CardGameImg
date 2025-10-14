@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-b086",
+  "PackNo": "dmex15",
+  "CardName": "ブータン転生(DMEX1586/100)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のクリーチャーを１体破壊してもよい。そうしたら、自分の山札を見る。その中からクリーチャーを１体、相手に見せてから手札に加えてもよい。その後、山札をシャッフルする。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr01-077",
+  "PackNo": "dmr01",
+  "CardName": "ダブル・ディフェンス(DMR0177/110)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のターンの終わりに、バトルゾーンにある自分のクリーチャーを２体まで、アンタップする。"
+}

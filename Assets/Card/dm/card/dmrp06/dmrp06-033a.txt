@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-033a",
+  "PackNo": "dmrp06",
+  "CardName": "百全の備え品紅/モモンド・コール(DMRP0633/93)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "メタリカ",
+  "Text": "自分のターンの終わりに、このクリーチャーをアンタップする。"
+}

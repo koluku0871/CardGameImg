@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm19-051",
+  "PackNo": "dm19",
+  "CardName": "メディカル・アルナイル(DM1951/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ディープ・マリーン",
+  "Text": "自分のグランド・デビルが破壊される時、墓地に置くかわりに自分の手札に戻してもよい。"
+}

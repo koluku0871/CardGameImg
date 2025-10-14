@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex03-038",
+  "PackNo": "dmex03",
+  "CardName": "インビンシブル・フォートレス(DMEX0338/69)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "13",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のシールドを３つまで選び、持ち主の墓地に置く。"
+}

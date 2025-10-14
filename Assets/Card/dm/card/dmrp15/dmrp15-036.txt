@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp15-036",
+  "PackNo": "dmrp15",
+  "CardName": "ブレイン・ブック(DMRP1536/95)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）カードを２枚引く。その後、自分の手札を１枚、山札の上に置く。"
+}

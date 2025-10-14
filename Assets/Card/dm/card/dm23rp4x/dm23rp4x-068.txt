@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp4x-068",
+  "PackNo": "dm23rp4x",
+  "CardName": "ア:ロックロ(DM23RP4X68/74)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ヴェールアビス",
+  "Text": "このクリーチャーが出た時、自分の墓地と手札からカードを最大１枚ずつ、タップしてマナゾーンに置いてもよい。"
+}

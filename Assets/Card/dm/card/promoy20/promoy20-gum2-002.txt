@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy20-gum2-002",
+  "PackNo": "promoy20",
+  "CardName": "鬼人形ボーグ(DMGUM22/10)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット/ハンター/エイリアン",
+  "Text": "スレイヤー（このクリーチャーがバトルする時、バトルの後、相手クリーチャーを破壊する）"
+}

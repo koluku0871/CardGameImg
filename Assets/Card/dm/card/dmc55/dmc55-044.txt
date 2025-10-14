@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc55-044",
+  "PackNo": "dmc55",
+  "CardName": "クリスタル・フュージョン(DMC5544/84)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のマナゾーンにあるカードと同じ枚数のカードを、自分の山札の上からマナゾーンにタップして置く。"
+}

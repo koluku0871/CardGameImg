@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm36-091",
+  "PackNo": "dm36",
+  "CardName": "自爆虫バリキン・ワーム(DM3691/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "パラサイトワーム",
+  "Text": "自分のターンの終わりに、バトルゾーンに自分の他の(E・ソウル)クリーチャーがなければ、このクリーチャーを破壊する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp09-097",
+  "PackNo": "dmrp09",
+  "CardName": "でこぽんぽこ(DMRP0997/102)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "9",
+  "CardSubType": "13000",
+  "CardCategory": "グランセクト",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

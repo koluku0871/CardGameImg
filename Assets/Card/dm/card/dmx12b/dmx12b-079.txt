@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12b-079",
+  "PackNo": "dmx12b",
+  "CardName": "激竜王(DMX1279/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "25000",
+  "CardCategory": "レッド・コマンド・ドラゴン/ハンター",
+  "Text": ""
+}

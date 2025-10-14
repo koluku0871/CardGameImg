@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-103",
+  "PackNo": "dm01",
+  "CardName": "白銀の牙(DM1103/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ビーストフォーク",
+  "Text": ""
+}

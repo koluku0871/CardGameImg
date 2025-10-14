@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd7-005a",
+  "PackNo": "dm23bd7",
+  "CardName": "衒影の悪魔龍トゥルトゥル/封じられた真言(DM23BD75/60)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "7000",
+  "CardCategory": "デーモン・コマンド・ドラゴン/トゥルース",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、相手１人につきクリーチャーを１体、自分の墓地から手札に戻す。"
+}

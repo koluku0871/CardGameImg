@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm17-046",
+  "PackNo": "dm17",
+  "CardName": "トラブル・キーボード(DM1746/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ガーゴイル",
+  "Text": "他の闇のクリーチャーを召喚する時、支払うコストは１多くなる。"
+}

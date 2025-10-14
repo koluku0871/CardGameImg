@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-088",
+  "PackNo": "dm18",
+  "CardName": "シビレアシダケ(DM1888/140)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "バルーン・マッシュルーム",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分の手札を１枚、マナゾーンに置いてもよい。"
+}

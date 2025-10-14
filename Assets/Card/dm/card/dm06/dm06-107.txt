@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm06-107",
+  "PackNo": "dm06",
+  "CardName": "シェル・ラック(DM6107/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "コロニー・ビートル",
+  "Text": ""
+}

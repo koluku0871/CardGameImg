@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-053",
+  "PackNo": "dm18",
+  "CardName": "追跡の使徒ローク(DM1853/140)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "イニシエート",
+  "Text": ""
+}

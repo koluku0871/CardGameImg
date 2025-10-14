@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-006",
+  "PackNo": "dm01",
+  "CardName": "ギガルゴン(DM16/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "8",
+  "CardSubType": "3000",
+  "CardCategory": "キマイラ",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、自分の墓地からクリーチャー２体まで選び、自分の手札に戻してよい。"
+}

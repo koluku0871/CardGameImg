@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-063",
+  "PackNo": "dmrp01",
+  "CardName": "一番隊クリスタ(DMRP0163/93)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "メタリカ",
+  "Text": "自分のメタリカを召喚するコストを１少なくする。ただしコストは０以下にならない。"
+}

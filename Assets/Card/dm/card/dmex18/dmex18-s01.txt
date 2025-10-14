@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex18-s01",
+  "PackNo": "dmex18",
+  "CardName": "BlackLotus(DMEX18S1/S15)",
+  "CardType": "MonoArtifact",
+  "Element": "ゼロ",
+  "CardRarity": "SR",
+  "Cost": "0",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このArtifactが出た時、封印を３つ付ける。（カードを封印するには、自分の山札の上から１枚目を裏向きのままそのカードの上に置く）自分のターンのはじめに、このArtifactに付けた封印を１つ、自分の山札の下に置く。このArtifactの封印がすべてなくなった時、これを墓地に置く。このターン中、次にカードを使う時、そのコストを最大３少なくしてもよい。ただし、コストは０以下にはならない。"
+}

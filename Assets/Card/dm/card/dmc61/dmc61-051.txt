@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc61-051",
+  "PackNo": "dmc61",
+  "CardName": "火炎流星弾(DMC6151/94)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてよい)相手の「ブロッカー」を持つパワー6000以下のクリーチャーを１体破壊する。"
+}

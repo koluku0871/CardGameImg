@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd05-003",
+  "PackNo": "dmd05",
+  "CardName": "鬼人形ボーグ(DMD053/15)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット/ハンター/エイリアン",
+  "Text": "スレイヤー(このクリーチャーがバトルする時、バトルの後、相手クリーチャーを破壊する)"
+}

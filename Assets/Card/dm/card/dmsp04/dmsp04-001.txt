@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsp04-001",
+  "PackNo": "dmsp04",
+  "CardName": "ポクタマたま(DMSP041/12)",
+  "CardType": "GRクリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "このクリーチャーが出た時、相手の墓地にあるカードをすべてシャッフルさせ、持ち主の山札の下に置いてもよい。"
+}

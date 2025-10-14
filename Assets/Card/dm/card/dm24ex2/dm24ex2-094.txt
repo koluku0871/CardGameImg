@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex2-094",
+  "PackNo": "dm24ex2",
+  "CardName": "ラマト・カーン(DM24EX294/100)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ミステリー・トーテム/ツォルキン",
+  "Text": "このクリーチャーが出た時、自分の山札の上から１枚目をマナゾーンに置く。"
+}

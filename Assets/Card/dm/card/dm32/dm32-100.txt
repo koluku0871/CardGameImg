@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm32-100",
+  "PackNo": "dm32",
+  "CardName": "クック・ポロン(DM32100/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "このクリーチャーは攻撃されない。"
+}

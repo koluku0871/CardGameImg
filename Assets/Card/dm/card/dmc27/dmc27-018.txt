@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-018",
+  "PackNo": "dmc27",
+  "CardName": "夜明けの超人(DMC2718/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "11000",
+  "CardCategory": "ジャイアント",
+  "Text": "W(ダブル)・ブレイカー(シールドを攻撃したとき、このクリーチャーはシールドを２枚ブレイクする)このクリーチャーは、クリーチャーを攻撃できない。"
+}

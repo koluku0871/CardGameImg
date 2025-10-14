@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm20-020",
+  "PackNo": "dm20",
+  "CardName": "偉大なる恵み(DM2020/55)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)クリーチャーを３体まで、自分の墓地からマナゾーンに置く。"
+}

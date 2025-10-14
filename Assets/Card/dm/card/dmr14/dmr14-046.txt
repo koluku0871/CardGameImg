@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr14-046",
+  "PackNo": "dmr14",
+  "CardName": "強襲する髑髏月(DMR1446/55)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手の手札を２枚見ないで選び、捨てさせる。自分の闇のクリーチャーを１体破壊してもよい。そうした場合、この呪文を唱えた後、墓地に置くかわりに手札に戻す。"
+}

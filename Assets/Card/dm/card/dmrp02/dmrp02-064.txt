@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-064",
+  "PackNo": "dmrp02",
+  "CardName": "奇石キーロック(DMRP0264/93)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2500",
+  "CardCategory": "メタリカ",
+  "Text": ""
+}

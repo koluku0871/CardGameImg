@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-034a",
+  "PackNo": "dmex17",
+  "CardName": "龍装医ルギヌス/地獄のゴッド・ハンド(DMEX1734/138)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "8",
+  "CardSubType": "11000",
+  "CardCategory": "ドラゴンギルド/マフィ・ギャング",
+  "Text": "W・ブレイカーこのクリーチャーが出た時または攻撃する時、コスト７以下の進化ではないクリーチャーを１体、自分の墓地から出す。"
+}

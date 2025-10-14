@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex2-089",
+  "PackNo": "dm24ex2",
+  "CardName": "パンドラの記憶(DM24EX289/100)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを３枚引き、その後、自分の手札を１枚、超次元ゾーンに置く。"
+}

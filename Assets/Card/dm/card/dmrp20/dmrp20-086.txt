@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp20-086",
+  "PackNo": "dmrp20",
+  "CardName": "テテトテントン(DMRP2086/95)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "5000",
+  "CardCategory": "グランセクト/レクスターズ",
+  "Text": "ガードマン（このクリーチャーをタップして、相手クリーチャーの攻撃先を、自分の他のクリーチャーからこのクリーチャーに変更してもよい）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-101",
+  "PackNo": "dmx22b",
+  "CardName": "情熱のD・Hユウ(DMX22101/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ヒューマノイド/ヒーロー",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

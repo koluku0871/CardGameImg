@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-107",
+  "PackNo": "dm18",
+  "CardName": "アクア・ビークル(DM18107/140)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": ""
+}

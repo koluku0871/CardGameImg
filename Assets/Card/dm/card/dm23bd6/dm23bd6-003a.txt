@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd6-003a",
+  "PackNo": "dm23bd6",
+  "CardName": "アカシック・B/「バブルの泡に溺れるのヨ！」(DM23BD63/60)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "マジック・コマンド/マーメイド",
+  "Text": "相手のクリーチャーは出たターン、自分や自分のクリーチャーを攻撃できない。"
+}

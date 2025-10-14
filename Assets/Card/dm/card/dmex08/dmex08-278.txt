@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-278",
+  "PackNo": "dmex08",
+  "CardName": "トレジャー・ナスカ(DMEX08278/???)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を見る。その中からコスト１のカードを１枚表向きにし、手札に加えてもよい。その後、残りを好きな順序で山札の一番下に置く。"
+}

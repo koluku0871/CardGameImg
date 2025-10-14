@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp4-18A",
+  "PackNo": "dm23rp4",
+  "CardName": "忍式の聖沌y4kk0(DM23RP418A/20)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "メカ・デル・ステラ/シノビ",
+  "Text": ""
+}

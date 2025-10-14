@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23sd3-004",
+  "PackNo": "dm23sd3",
+  "CardName": "B.F.F.モーメント(DM23SD34/15)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）カードを１枚引く。自分の手札の枚数以下のコストを持つ相手のクリーチャーをすべて、持ち主の手札に戻す。"
+}

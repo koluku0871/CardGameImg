@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr01-106",
+  "PackNo": "dmr01",
+  "CardName": "ナナホシテントウ(DMR01106/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ジャイアント・インセクト",
+  "Text": "パワーアタッカー+2000(攻撃中、このクリーチャーのパワーは+2000される)"
+}

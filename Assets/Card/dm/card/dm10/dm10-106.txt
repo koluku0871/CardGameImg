@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-106",
+  "PackNo": "dm10",
+  "CardName": "プリーチ・トマト(DM10106/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ワイルド・ベジーズ",
+  "Text": ""
+}

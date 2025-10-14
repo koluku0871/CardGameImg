@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmart23-004",
+  "PackNo": "dmart23",
+  "CardName": "ボルバルザーク・エクス(DMART234/5)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "アーマード・ドラゴン/アース・ドラゴン/ハンター",
+  "Text": "スピードアタッカーW・ブレイカーこのクリーチャーが出た時、自分のマナゾーンにあるカードをすべてアンタップする。"
+}

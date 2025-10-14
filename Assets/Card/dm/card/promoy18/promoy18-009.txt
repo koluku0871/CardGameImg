@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy18-009",
+  "PackNo": "promoy18",
+  "CardName": "ランボルタッ君(DMPROMOY18P9/Y18)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "8",
+  "CardSubType": "12000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）T・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

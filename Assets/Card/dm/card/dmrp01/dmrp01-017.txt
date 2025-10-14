@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-017",
+  "PackNo": "dmrp01",
+  "CardName": "龍装者スペレート(DMRP0117/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ドラゴンギルド/ムートピア",
+  "Text": "このクリーチャーがバトルゾーンに出た時、カードを３枚引いてもよい。そうしたら、自分の手札を１枚捨てる。"
+}

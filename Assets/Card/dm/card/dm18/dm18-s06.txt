@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-s06",
+  "PackNo": "dm18",
+  "CardName": "混沌の獅子デスライガー(DM18S6/S10)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "9000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする。)"
+}

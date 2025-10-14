@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex06-026a",
+  "PackNo": "dmex06",
+  "CardName": "界王類咆哮目ジュラノキル/ジュラスティック・ハウル(DMEX0626/98)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "1",
+  "CardSubType": "12000",
+  "CardCategory": "ジュラシック・コマンド・ドラゴン",
+  "Text": "このクリーチャーは攻撃できない。"
+}

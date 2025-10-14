@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex3-TF26",
+  "PackNo": "dm24ex3",
+  "CardName": "コダマダンス・チャージャー(DM24EX3TF26/TF46)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のシールドを１つ手札に加える。ただし、その「S・トリガー」は使えない。チャージャー（この呪文を唱えた後、墓地のかわりにマナゾーンに置く）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-sp5d01",
+  "PackNo": "promoy17",
+  "CardName": "オウ禍武斗・ライジング(DMCOROCOROY181/10)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "グランセクト",
+  "Text": "マッハファイター（このクリーチャーは、バトルゾーンに出たターンの間、タップまたはアンタップしているクリーチャーを攻撃できる）W・ブレイカーこのクリーチャーがバトルに勝った時、相手のシールドを１つブレイクする。"
+}

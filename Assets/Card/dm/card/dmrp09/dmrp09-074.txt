@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp09-074",
+  "PackNo": "dmrp09",
+  "CardName": "フェイント・クロウラー(DMRP0974/102)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "5000",
+  "CardCategory": "アースイーター",
+  "Text": "このクリーチャーがバトルした時、バトルの後、勝ったクリーチャーを持ち主の手札に戻す。"
+}

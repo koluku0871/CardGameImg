@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex11-009",
+  "PackNo": "dmex11",
+  "CardName": "ファイナル・ストップ(DMEX119/42)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "次の相手のターンの終わりまで、相手は呪文を唱えられない。カードを１枚引く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp18-a08",
+  "PackNo": "dmrp18",
+  "CardName": "Disアイ・チョイス(DMRP188A/20)",
+  "CardType": "クリーチャー",
+  "Element": "水/闇/自然",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・コマンド/ディスタス",
+  "Text": "ブロッカースレイヤーこのクリーチャーが出た時、「S・トリガー」を持つカードを１枚、自分のマナゾーンからコストを支払わずに使ってもよい。"
+}

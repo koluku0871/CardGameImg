@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd03-010",
+  "PackNo": "dmd03",
+  "CardName": "お清めトラップ(DMD0310/15)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から１枚目をマナゾーンに置く。相手の墓地からカードを１枚以上選んでもよい。そうした場合、相手はこれを自身の山札に加えてシャッフルする。"
+}

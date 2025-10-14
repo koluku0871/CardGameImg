@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-105a",
+  "PackNo": "dm22ex1",
+  "CardName": "パーロック/蓄積された魔力の渦(DM22EX1105/130)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "サイバーロード/オリジン",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex03-023",
+  "PackNo": "dmex03",
+  "CardName": "松本大大大先生(DMEX0323/69)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ヒューマノイド",
+  "Text": "自分の、イラストレーター名がShigenobuMatsumotoのクリーチャーの召喚コストを１少なくしてもよい。ただし、コストは０以下にならない。"
+}

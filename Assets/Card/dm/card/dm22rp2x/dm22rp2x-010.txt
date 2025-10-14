@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2x-010",
+  "PackNo": "dm22rp2x",
+  "CardName": "ウルトラクイック・マホガニーハンドル(DM22RP2X10/74)",
+  "CardType": "タマシード",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このタマシードが出た時、カードを１枚引く。自分のターンの終わりに、自分のシールドが相手よりも少なければ、自分の山札の上から１枚目をシールド化してもよい。"
+}

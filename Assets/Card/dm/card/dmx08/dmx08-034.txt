@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx08-034",
+  "PackNo": "dmx08",
+  "CardName": "キリモミ・スラッシュ(DMX0834/37)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、バトルゾーンにある自分のクリーチャーはすべて「スピードアタッカー」を得る。(「スピードアタッカー」を得たクリーチャーは召喚酔いしない)"
+}

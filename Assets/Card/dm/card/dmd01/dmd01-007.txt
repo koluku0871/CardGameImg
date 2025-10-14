@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd01-007",
+  "PackNo": "dmd01",
+  "CardName": "襲撃者エグゼドライブ(DMD017/13)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "スピードアタッカー(このクリーチャーは召喚酔いしない）自分のターンの終わりに、このクリーチャーを自分の手札に戻す。"
+}

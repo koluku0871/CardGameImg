@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-012",
+  "PackNo": "dm10",
+  "CardName": "粛清者ポルタレスタ(DM1012/110)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "ソルトルーパー",
+  "Text": "ブロッカーS・トリガーこのクリーチャーは、相手プレイヤーを攻撃できない。"
+}

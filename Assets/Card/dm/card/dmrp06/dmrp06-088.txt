@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-088",
+  "PackNo": "dmrp06",
+  "CardName": "たぴおかぴ(DMRP0688/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "グランセクト",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）このクリーチャーは、これよりパワーが小さいクリーチャーにブロックされない。"
+}

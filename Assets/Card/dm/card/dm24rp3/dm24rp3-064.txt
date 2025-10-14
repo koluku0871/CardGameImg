@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp3-064",
+  "PackNo": "dm24rp3",
+  "CardName": "オペラグラス＝ドクラス(DM24RP364/76)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アビスロイヤル",
+  "Text": "このクリーチャーが出た時、自分の山札の上から２枚を見る。その中から好きな枚数を墓地に置き、残りを好きな順序で山札の上に戻してもよい。"
+}

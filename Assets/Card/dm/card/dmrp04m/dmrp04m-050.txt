@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-050",
+  "PackNo": "dmrp04m",
+  "CardName": "堕魔グリペイジ(DMRP04M50/61)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング/魔導具",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手の手札を見ないで１枚選び、捨てさせる。"
+}

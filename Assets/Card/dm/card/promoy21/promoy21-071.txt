@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy21-071",
+  "PackNo": "promoy21",
+  "CardName": "轟龍のギフト(DMPROMOY21P71/Y21)",
+  "CardType": "タマシード",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このタマシードが出た時、相手のクリーチャーを１体選び、タップする。そのクリーチャーは、次の相手のターンのはじめにアンタップしない。シールド・セイバー（自分のシールドがブレイクされる時、かわりにこのタマシードを破壊してもよい）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd7-054",
+  "PackNo": "dm23bd7",
+  "CardName": "インフェルノ・サイン(DM23BD754/60)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）コスト７以下の進化ではないクリーチャーを１体、自分の墓地から出す。"
+}

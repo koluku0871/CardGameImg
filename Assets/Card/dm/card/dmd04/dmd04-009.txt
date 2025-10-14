@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd04-009",
+  "PackNo": "dmd04",
+  "CardName": "デーモン・ハンド(DMD049/15)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)相手のクリーチャーを１体破壊する。"
+}

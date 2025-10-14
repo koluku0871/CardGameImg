@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy14-spd09",
+  "PackNo": "promoy14",
+  "CardName": "小さな勇者ゲット(DMCOROCOROY149/13)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド",
+  "Text": "パワーアタッカー+1000（攻撃中、このクリーチャーのパワーを+1000する）このクリーチャーは、可能なら毎ターン攻撃する。"
+}

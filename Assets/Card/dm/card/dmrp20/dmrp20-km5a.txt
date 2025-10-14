@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp20-km5a",
+  "PackNo": "dmrp20",
+  "CardName": "新世界王の闘気(DMRP20KM5/KM5)",
+  "CardType": "キング・セル",
+  "Element": "光/闇/自然",
+  "CardRarity": "KGM",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライクこのカードを自分の手札からマナゾーンに置いた時、アンタップする。"
+}

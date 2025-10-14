@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx08-027",
+  "PackNo": "dmx08",
+  "CardName": "氷牙フランツI世(DMX0827/37)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "サイバーロード/ナイト",
+  "Text": "自分の呪文を唱えるコストを１少なくしてもよい。ただし、コストは１より少なくならない。"
+}

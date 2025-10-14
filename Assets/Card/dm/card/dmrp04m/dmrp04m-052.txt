@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-052",
+  "PackNo": "dmrp04m",
+  "CardName": "死手医リンパ(DMRP04M52/61)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）このクリーチャーは攻撃できない。"
+}

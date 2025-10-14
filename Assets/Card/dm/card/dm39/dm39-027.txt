@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm39-027",
+  "PackNo": "dm39",
+  "CardName": "鉄球男爵マッセリーノ(DM3927/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ダークロード",
+  "Text": "このクリーチャーが破壊された時、相手のシールドを１枚ブレイクする。"
+}

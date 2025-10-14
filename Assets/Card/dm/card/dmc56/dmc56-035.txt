@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc56-035",
+  "PackNo": "dmc56",
+  "CardName": "フレイムバーン・ドラゴン(DMC5635/39)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手のパワー4000以下のクリーチャーを１体、破壊してもよい。"
+}

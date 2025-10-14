@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp21-048",
+  "PackNo": "dmrp21",
+  "CardName": "神託少女コットン(DMRP2148/76)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "5000",
+  "CardCategory": "オラクル",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）このクリーチャーは、相手プレイヤーを攻撃できない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex1-065",
+  "PackNo": "dm23ex1",
+  "CardName": "アシガ・ルピア(DM23EX165/84)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ファイアー・バード/サムライ",
+  "Text": "カードが自分のシールドゾーンから墓地に置かれた時、自分の山札の上から１枚目をシールド化する。"
+}

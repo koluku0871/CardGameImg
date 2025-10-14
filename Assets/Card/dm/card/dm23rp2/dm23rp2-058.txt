@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp2-058",
+  "PackNo": "dm23rp2",
+  "CardName": "TUBA・クロウラー(DM23RP258/74)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "マジック・アースイーター",
+  "Text": "このクリーチャーが出た時、相手のクリーチャーを３体まで選ぶ。次の自分のターンのはじめまで、それらのクリーチャーは攻撃もブロックもできない。"
+}

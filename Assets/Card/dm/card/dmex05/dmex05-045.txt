@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex05-045",
+  "PackNo": "dmex05",
+  "CardName": "補充CL-20(DMEX0545/87)",
+  "CardType": "GRクリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "トリックス/デリートロン",
+  "Text": "このクリーチャーがバトルゾーンを離れた時、カードを１枚引く。（ゲーム開始時、GRクリーチャーは山札には含めず、自分の超GRに置き、バトルゾーン以外のゾーンに行った場合、超GRの一番下に戻す）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx13-022",
+  "PackNo": "dmx13",
+  "CardName": "エナジー・ゼロ(DMX1322/36)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のマナゾーンにある無色カード１枚につき、カードを１枚引く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex1-039",
+  "PackNo": "dm25ex1",
+  "CardName": "ミラクルストップ(DM25EX139/89)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "G・ゼロ：自分のエンジェル・コマンド・ドラゴンがあれば、この呪文をコストを支払わずに唱えてもよい。次の自分のターンのはじめまで、相手は呪文を唱えられない。"
+}

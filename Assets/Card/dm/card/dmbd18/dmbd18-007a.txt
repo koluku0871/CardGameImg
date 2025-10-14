@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd18-007a",
+  "PackNo": "dmbd18",
+  "CardName": "幻緑の双月/母なる星域(DMBD187/14)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "このクリーチャーが出た時、自分の手札を１枚、マナゾーンに置いてもよい。"
+}

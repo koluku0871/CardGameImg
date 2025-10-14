@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx19-s26",
+  "PackNo": "dmx19",
+  "CardName": "黒神龍ブライゼナーガ(DMX19S26/S56)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "9000",
+  "CardCategory": "ドラゴン・ゾンビ",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分のシールドをすべて手札に加える。（その「S・トリガー」を使ってもよい）W・ブレイカー"
+}

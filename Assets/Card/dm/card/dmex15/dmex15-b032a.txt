@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-b032a",
+  "PackNo": "dmex15",
+  "CardName": "シビレアシダケ/インビンシブル・パワー(DMEX1532/100)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "バルーン・マッシュルーム",
+  "Text": "このクリーチャーが出た時、自分の手札を１枚マナゾーンに置いてもよい。"
+}

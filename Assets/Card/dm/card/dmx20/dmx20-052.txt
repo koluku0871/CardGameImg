@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx20-052",
+  "PackNo": "dmx20",
+  "CardName": "養卵類エッグザウラー(DMX2052/68)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ジュラシック・コマンド・ドラゴン",
+  "Text": "自分のパワー5000以上のクリーチャーがバトルゾーンに出た時、カードを１枚引いてもよい。"
+}

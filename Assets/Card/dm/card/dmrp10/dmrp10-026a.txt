@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp10-026a",
+  "PackNo": "dmrp10",
+  "CardName": "FASORASI・ドッカン/♪ドはドッカンのド(DMRP1026/103)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "ビートジョッキー/ワンダフォース",
+  "Text": "このクリーチャーまたは自分の他のGRではないクリーチャーが破壊された時、GR召喚する。（GR召喚：自分の超GRの上から１枚目を、コストを支払ったものとして召喚する）"
+}

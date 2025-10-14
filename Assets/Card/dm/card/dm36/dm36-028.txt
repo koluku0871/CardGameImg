@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm36-028",
+  "PackNo": "dm36",
+  "CardName": "アンラッキーダーツ(DM3628/110)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "数をひとつ選んで言う。その後、相手の手札を１枚見ないで選び、捨てさせる。そのカードのコストが、選んだ数と同じであれば、カードを１枚引く。"
+}

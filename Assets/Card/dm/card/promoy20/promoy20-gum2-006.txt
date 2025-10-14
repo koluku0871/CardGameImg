@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy20-gum2-006",
+  "PackNo": "promoy20",
+  "CardName": "光線人形イメリウム(DMGUM26/10)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "デスパペット",
+  "Text": ""
+}

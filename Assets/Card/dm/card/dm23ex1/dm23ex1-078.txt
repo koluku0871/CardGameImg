@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex1-078",
+  "PackNo": "dm23ex1",
+  "CardName": "レクタ・アイニー(DM23EX178/84)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "G・ゼロ：自分のドラゴンがあれば、このクリーチャーをコストを支払わずに召喚してもよい。"
+}

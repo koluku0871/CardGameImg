@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex18-s15",
+  "PackNo": "dmex18",
+  "CardName": "ニコル・ボーラス(DMEX18S15/S15)",
+  "CardType": "クリーチャー",
+  "Element": "水/闇/火",
+  "CardRarity": "SR",
+  "Cost": "8",
+  "CardSubType": "7000",
+  "CardCategory": "エルダー・ドラゴン/プレインズ・ウォーカー",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、相手は自身の手札を７枚選び、捨てる。このクリーチャーが攻撃する時、相手のクリーチャーを１体破壊する。"
+}

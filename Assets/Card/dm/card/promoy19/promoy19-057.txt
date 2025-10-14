@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy19-057",
+  "PackNo": "promoy19",
+  "CardName": "焔役者シュラバミエ(DMPROMOY19P57/Y19)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "4000",
+  "CardCategory": "ファイアー・バード/美孔麗王国",
+  "Text": "ビビッドロー[ff01]（自分のターン中、攻撃の前にこのクリーチャーをドローした時、表向きにしてもよい。そうしたら、このターンこのクリーチャーを[ff01]支払って召喚してもよい）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22sd1-014",
+  "PackNo": "dm22sd1",
+  "CardName": "オタカラ・アッタカラ(DM22SD114/14)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ファンキー・ナイトメア",
+  "Text": "このクリーチャーが出た時、自分の山札の上から２枚を墓地に置く。"
+}

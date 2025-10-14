@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm21-024",
+  "PackNo": "dm21",
+  "CardName": "装甲支援ガトリンガー(DM2124/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "6",
+  "CardSubType": "4000",
+  "CardCategory": "グレートメカオー",
+  "Text": "このクリーチャーをバトルゾーンに出した時、バトルゾーンにある自分のキカイヒーロー１体につきカードを１枚引いてもよい。"
+}

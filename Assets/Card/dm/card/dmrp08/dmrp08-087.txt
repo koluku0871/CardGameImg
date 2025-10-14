@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp08-087",
+  "PackNo": "dmrp08",
+  "CardName": "“Ｋ-狩”コンビ(DMRP0887/95)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のクリーチャーを１体選ぶ。次の相手のターン、そのクリーチャーは可能なら攻撃する。G・G・G：自分の手札が１枚以下なら、相手のクリーチャーは１体のかわりにすべて、次の相手のターンに可能なら攻撃する。"
+}

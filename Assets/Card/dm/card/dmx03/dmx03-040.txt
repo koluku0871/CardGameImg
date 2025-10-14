@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx03-040",
+  "PackNo": "dmx03",
+  "CardName": "マイキーのペンチ(DMX0340/42)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ゼノパーツ",
+  "Text": "バトルゾーンにある自分の闇と自然のクリーチャーは「スピードアタッカー」を得る。(「スピードアタッカー」を得たクリーチャーは召喚酔いしない)"
+}

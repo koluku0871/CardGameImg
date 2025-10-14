@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex2-031",
+  "PackNo": "dm24ex2",
+  "CardName": "ボルシャック・ドラゴンGR(DM24EX231/100)",
+  "CardType": "GRクリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "6000+",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "W・ブレイカー攻撃中、このクリーチャーのパワーを、自分の墓地にある火のカード１枚につき+1000する。"
+}

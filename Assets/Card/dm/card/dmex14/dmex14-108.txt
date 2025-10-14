@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex14-108",
+  "PackNo": "dmex14",
+  "CardName": "イタチ変怪(DMEX14108/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇/火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "デモニオ/鬼札王国",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

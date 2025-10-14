@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-sp2d10",
+  "PackNo": "promoy15",
+  "CardName": "双撃目アロサウロ(DMCOROCOROY1510/13)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "6000",
+  "CardCategory": "ジュラシック・コマンド・ドラゴン",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）"
+}

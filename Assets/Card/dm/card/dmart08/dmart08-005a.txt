@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmart08-005a",
+  "PackNo": "dmart08",
+  "CardName": "新世界王の破壊(DMART085/6)",
+  "CardType": "キング・セル",
+  "Element": "水/闇/自然",
+  "CardRarity": "VR",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライクこのカードを自分の手札からマナゾーンに置いた時、アンタップする。"
+}

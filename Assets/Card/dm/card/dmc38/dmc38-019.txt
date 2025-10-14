@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc38-019",
+  "PackNo": "dmc38",
+  "CardName": "剣舞の修羅ヴァシュナ(DMC3819/33)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "7000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)相手のシールドが１枚もない時、このクリーチャーは攻撃することができない。"
+}

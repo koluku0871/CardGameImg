@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-068",
+  "PackNo": "dmrp01",
+  "CardName": "突撃魚(DMRP0168/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "フィッシュ",
+  "Text": ""
+}

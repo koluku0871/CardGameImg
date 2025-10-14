@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy21-047",
+  "PackNo": "promoy21",
+  "CardName": "伊達人形ナスロスチャ(DMPROMOY21P47/Y21)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "4000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーが出た時、自分の山札を見て、その中からカードを１枚自分の墓地に置く。その後、自分の山札をシャッフルする。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-012",
+  "PackNo": "dmex08",
+  "CardName": "技師ピーポ(DMEX0812/???)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マシン・イーター",
+  "Text": "このクリーチャーが破壊された時、各プレイヤーはカードを１枚、自身のマナゾーンから選び、それぞれの墓地に置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm08-011",
+  "PackNo": "dm08",
+  "CardName": "マリン・スクランブル(DM811/55)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、自分のクリーチャーはブロックされない。"
+}

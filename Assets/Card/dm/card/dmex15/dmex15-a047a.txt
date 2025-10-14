@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-a047a",
+  "PackNo": "dmex15",
+  "CardName": "ボルシャック・ドラゴン/決闘者・チャージャー(DMEX1547/50)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "W・ブレイカー攻撃中、このクリーチャーのパワーを、自分の墓地にある火のカード１枚につき+1000する。"
+}

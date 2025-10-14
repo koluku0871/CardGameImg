@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr11-032",
+  "PackNo": "dmr11",
+  "CardName": "強奪者テラフォーム(DMR1132/55)",
+  "CardType": "クリーチャー",
+  "Element": "水/自然",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジ",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。相手がカードを引いた時、自分の山札の上から１枚目をマナゾーンに置いてもよい。"
+}

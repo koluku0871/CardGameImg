@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd6-055a",
+  "PackNo": "dm23bd6",
+  "CardName": "氷牙フランツI世/魔弾オープン・ブレイン(DM23BD655/60)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "サイバーロード/ナイト",
+  "Text": "自分の呪文を唱えるコストを１少なくしてもよい。ただし、コストは０以下にはならない。"
+}

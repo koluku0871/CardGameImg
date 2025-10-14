@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc44-027",
+  "PackNo": "dmc44",
+  "CardName": "インフェルノ・ゲート(DMC4427/36)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "進化ではないクリーチャーを１体、自分の墓地からバトルゾーンに出す。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp03-069",
+  "PackNo": "dmrp03",
+  "CardName": "メジャー・クラスター(DMRP0369/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "サイバー・クラスター",
+  "Text": ""
+}

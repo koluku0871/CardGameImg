@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-036",
+  "PackNo": "dm01",
+  "CardName": "群れを守るトライ・ホーン(DM136/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ホーン・ビースト",
+  "Text": ""
+}

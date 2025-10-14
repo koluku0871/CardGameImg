@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp2-063",
+  "PackNo": "dm24rp2",
+  "CardName": "掘々人形ジェニス(DM24RP263/75)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーが出た時、またはアンタップした時、クリーチャーを１体、自分の墓地から手札に戻す。"
+}

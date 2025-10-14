@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex09-041",
+  "PackNo": "dmex09",
+  "CardName": "虹彩奪取トップラサス(DMEX0941/42)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジ",
+  "Text": "各ターン、自分の火または自然のクリーチャー１体目の召喚コストを１少なくしてもよい。ただし、コストは０以下にはならない。"
+}

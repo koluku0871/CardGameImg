@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm02-034",
+  "PackNo": "dm02",
+  "CardName": "銀の拳(DM234/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "パワーアタッカー+2000(攻撃中、このクリーチャーのパワーは+2000される。)"
+}

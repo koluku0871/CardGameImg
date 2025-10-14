@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm15-020",
+  "PackNo": "dm15",
+  "CardName": "式神パイレーツ(DM1520/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ワンダー・トリック",
+  "Text": "自分のターン中、バトルゾーンにある自分の他のクリーチャーすべてのパワーは+2000される。"
+}

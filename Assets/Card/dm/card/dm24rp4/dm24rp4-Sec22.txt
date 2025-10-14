@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp4-Sec22",
+  "PackNo": "dm24rp4",
+  "CardName": "才能人形アリミ(DM24RP4㊙22/㊙24)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "マジック・デスパペット",
+  "Text": "ブロッカーこのクリーチャーが出た時、カードを２枚引いてもよい。そうしたら、自分の手札を１枚捨てる。"
+}

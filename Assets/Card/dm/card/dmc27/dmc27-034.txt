@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-034",
+  "PackNo": "dmc27",
+  "CardName": "無垢の宝剣(DMC2734/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "どんな種族の進化クリーチャーを、このクリーチャーの上に置いてもよい。"
+}

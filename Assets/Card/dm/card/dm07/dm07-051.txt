@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm07-051",
+  "PackNo": "dm07",
+  "CardName": "クック・ポロン(DM751/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "このクリーチャーは攻撃されない。"
+}

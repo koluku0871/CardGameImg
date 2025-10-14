@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp2-Sec21",
+  "PackNo": "dm25rp2",
+  "CardName": "我流TENSAY-G01&T02(DM25RP2㊙21/㊙24)",
+  "CardType": "NEOクリーチャー",
+  "Element": "光/火/自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "5500",
+  "CardCategory": "アーマード・ドラゴン/アース・ドラゴン/テクノ・サムライ",
+  "Text": "自分のエレメントが１つもなければ、このクリーチャーを[lfn03]支払って自分のマナゾーンから召喚してもよい。NEO進化：光、火、または自然のクリーチャー１体の上に置いてもよい。超魂レイド"
+}

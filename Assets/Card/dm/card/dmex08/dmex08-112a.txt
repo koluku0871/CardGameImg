@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-112a",
+  "PackNo": "dmex08",
+  "CardName": "激竜王/ガイアール流激烈竜王破・滅(DMEX08112/???)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "7",
+  "CardSubType": "25000",
+  "CardCategory": "レッド・コマンド・ドラゴン/ハンター",
+  "Text": ""
+}

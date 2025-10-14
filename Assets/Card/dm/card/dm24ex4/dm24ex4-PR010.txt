@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex4-PR010",
+  "PackNo": "dm24ex4",
+  "CardName": "幻双の絆(DM24EX4PR10/PR60)",
+  "CardType": "呪文",
+  "Element": "光/闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー光のコスト７以下のエンジェル・コマンドを１つ、自分の手札から出してもよい。闇のコスト７以下のデーモン・コマンドを１つ、自分の墓地から出してもよい。"
+}

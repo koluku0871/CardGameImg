@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-046",
+  "PackNo": "dm18",
+  "CardName": "暴走するロング・ホーン(DM1846/140)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ホーン・ビースト",
+  "Text": "このクリーチャーは、パワー3000以下のクリーチャーにブロックされない。"
+}

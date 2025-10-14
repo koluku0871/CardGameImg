@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp4-061",
+  "PackNo": "dm23rp4",
+  "CardName": "アイロン＝バイロン(DM23RP461/74)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アビスロイヤル",
+  "Text": "このクリーチャーが出た時、自分の手札を１枚捨ててもよい。そうしたら、相手は自身のクリーチャーを１体選び、破壊する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy20-thankyou20",
+  "PackNo": "promoy20",
+  "CardName": "ThankyouforDuelMasters20th!!(DMPROMOY20ThankYou20th!!/Y20)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "Shuffleyourhandandgraveyardintoyourdeck.ThenopenoneofyoursealedDuelMastersboosterpacksandputallcardsfromitintoyourhand.Thenuntapallcardsinyourmanazone.(自分の手札と墓地のカードをすべて山札に加えてシャッフルする。その後、自分のデュエマ未開封パックを１つ開け、その中のカードをすべて手札に加える。その後、自分のマナゾーンにあるカードをすべてアンタップする。)"
+}

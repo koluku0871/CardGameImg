@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-022",
+  "PackNo": "dmc27",
+  "CardName": "レインボー・アロー(DMC2722/55)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手の手札を見る。その中から光の呪文以外の呪文をすべて捨てさせる。"
+}

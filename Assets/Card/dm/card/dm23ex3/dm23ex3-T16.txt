@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex3-T16",
+  "PackNo": "dm23ex3",
+  "CardName": "ニヤリー(DM23EX3T16/T20)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "トライストーン",
+  "Text": "このクリーチャーが出た時、自分の山札の上から３枚を見る。その中から好きな枚数の無色カードを表向きにし、自分の手札に加えてもよい。残りを好きな順序で山札の下に置く。"
+}

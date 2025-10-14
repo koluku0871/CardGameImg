@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25bd2-004a",
+  "PackNo": "dm25bd2",
+  "CardName": "天海の精霊シリウス/W・チャージャー(DM25BD24/16)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "SR",
+  "Cost": "11",
+  "CardSubType": "12000",
+  "CardCategory": "エンジェル・コマンド",
+  "Text": "ブロッカーT・ブレイカー"
+}

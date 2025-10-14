@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr14-023",
+  "PackNo": "dmr14",
+  "CardName": "龍脈術水霊の計(DMR1423/55)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー次のうちいずれかひとつを選ぶ。▼バトルゾーンにある相手のカードを１枚選ぶ。相手はそれを自身の山札の一番下に置く。▼カードを３枚引く。"
+}

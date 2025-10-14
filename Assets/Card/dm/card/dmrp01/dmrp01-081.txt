@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-081",
+  "PackNo": "dmrp01",
+  "CardName": "ディーディのドライバー(DMRP0181/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ゼノパーツ",
+  "Text": ""
+}

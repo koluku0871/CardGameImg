@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-a038",
+  "PackNo": "dmex15",
+  "CardName": "アストラル・リーフ(DMEX1538/50)",
+  "CardType": "進化クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "進化：サイバー・ウイルス１体の上に置く。このクリーチャーが出た時、カードを３枚引いてもよい。"
+}

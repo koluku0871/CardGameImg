@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmpcd01-r08",
+  "PackNo": "dmpcd01",
+  "CardName": "無双竜機ドルザーク(DMPCD01竜8/17)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "7000",
+  "CardCategory": "アーマード・ドラゴン/アース・ドラゴン",
+  "Text": "W・ブレイカー自分の他のドラゴンが攻撃する時、バトルゾーンにある相手のパワー5000以下のクリーチャーを１体選び、持ち主のマナゾーンに置いてもよい。"
+}

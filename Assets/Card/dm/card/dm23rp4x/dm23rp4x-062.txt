@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp4x-062",
+  "PackNo": "dm23rp4x",
+  "CardName": "タンクリオ-L8(DM23RP4X62/74)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "メカ・デル・ディネロ",
+  "Text": "自分のメカ・クリーチャーを召喚する時、そのコストを２少なくしてもよい。そうしたら、このクリーチャーを破壊する。ただし、そのメカのコストは０以下にはならない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp12-085",
+  "PackNo": "dmrp12",
+  "CardName": "死神人形デスフェブラリー(DMRP1285/104)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーが破壊された時、相手は自身のクリーチャーを１体破壊する。"
+}

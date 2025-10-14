@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-083",
+  "PackNo": "dmex08",
+  "CardName": "フェアリー・シャワー(DMEX0883/???)",
+  "CardType": "呪文",
+  "Element": "水/自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー自分の山札の上から２枚を見る。そのうちの１枚を自分の手札に加え、もう１枚をマナゾーンに置く。"
+}

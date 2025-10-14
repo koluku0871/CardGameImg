@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-057",
+  "PackNo": "dmrp04m",
+  "CardName": "ホップ・チュリス(DMRP04M57/61)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "このターン、他のクリーチャーが攻撃していなければ、このクリーチャーは攻撃できない。"
+}

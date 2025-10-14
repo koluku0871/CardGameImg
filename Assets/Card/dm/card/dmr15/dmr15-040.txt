@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr15-040",
+  "PackNo": "dmr15",
+  "CardName": "アクア戦士ドリルゲッター2号(DMR1540/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "リキッド・ピープル閃",
+  "Text": "このクリーチャーは、ブロックされない。"
+}

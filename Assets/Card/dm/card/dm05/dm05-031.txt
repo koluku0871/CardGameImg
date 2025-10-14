@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm05-031",
+  "PackNo": "dm05",
+  "CardName": "猛爆軍曹ボンバット(DM531/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "スピードアタッカー(このクリーチャーは召喚酔いしない)"
+}

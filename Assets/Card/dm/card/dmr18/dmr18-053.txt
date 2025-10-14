@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr18-053",
+  "PackNo": "dmr18",
+  "CardName": "侵略者タンサンマン(DMR1853/71)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "リキッド・ピープル閃/侵略者",
+  "Text": ""
+}

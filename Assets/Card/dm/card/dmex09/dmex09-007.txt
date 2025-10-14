@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex09-007",
+  "PackNo": "dmex09",
+  "CardName": "洗脳センノー(DMEX097/42)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "4000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "相手は、自身のターン中、召喚以外の方法でクリーチャーをバトルゾーンに出せない。"
+}

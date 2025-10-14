@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy13-041",
+  "PackNo": "promoy13",
+  "CardName": "アクア操縦士ニュートン(DMPROMOY13P41/Y13)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "リキッド・ピープル閃",
+  "Text": "マナ武装３：このクリーチャーをバトルゾーンに出した時、自分のマナゾーンに水のカードが３枚以上あれば、カードを１枚引いてもよい。このクリーチャーはブロックされない。"
+}

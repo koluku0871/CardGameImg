@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp1-TF2",
+  "PackNo": "dm23rp1",
+  "CardName": "石像男(DM23RP1TF2/TF10)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "ヘドリアン",
+  "Text": "自分のクリーチャーで、すべての文明が揃っていれば、相手は自身の「S・トリガー」を使えない。"
+}

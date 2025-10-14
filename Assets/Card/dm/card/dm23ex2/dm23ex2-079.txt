@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex2-079",
+  "PackNo": "dm23ex2",
+  "CardName": "GIRIGIRI・チクタック(DM23EX279/112)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー/ワンダフォース",
+  "Text": "このクリーチャーが出た時、相手のシールドが４つ以下なら、GR召喚する。（GR召喚：自分の超GRの上から１枚目を、コストを支払ったものとして召喚する）"
+}

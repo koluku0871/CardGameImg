@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy23-091",
+  "PackNo": "promoy23",
+  "CardName": "インフェルノ・ポータル(DMPROMOY23P91/Y23)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "闇のクリーチャーを１体、自分の墓地から出す。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc34-024",
+  "PackNo": "dmc34",
+  "CardName": "フォーチュン・ボール(DMC3424/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手のシールドが３枚以下であれば、カードを２枚まで引いてもよい。"
+}

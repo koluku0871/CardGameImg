@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc61-052",
+  "PackNo": "dmc61",
+  "CardName": "跳躍の超人(DMC6152/94)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "7",
+  "CardSubType": "8000",
+  "CardCategory": "ジャイアント",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

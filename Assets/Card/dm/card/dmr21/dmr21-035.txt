@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr21-035",
+  "PackNo": "dmr21",
+  "CardName": "ワルスラS(DMR2135/94)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "リキッド・ピープル閃/イニシャルズ",
+  "Text": "G・ゼロ-バトルゾーンに自分の水のD２フィールドがあれば、このクリーチャーをコストを支払わずに召喚してもよい。"
+}

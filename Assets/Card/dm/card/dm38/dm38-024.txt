@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm38-024",
+  "PackNo": "dm38",
+  "CardName": "アクア・リアクター(DM3824/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分の手札を１枚、自分の山札の上から２枚目に置く。"
+}

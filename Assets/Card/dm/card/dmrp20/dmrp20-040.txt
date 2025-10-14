@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp20-040",
+  "PackNo": "dmrp20",
+  "CardName": "バベル・アゲイン(DMRP2040/95)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のクリーチャーを１体破壊してもよい。そうしたら、カードを３枚引く。こうして破壊したクリーチャーがディスタスなら、それを自分の墓地から出す。"
+}

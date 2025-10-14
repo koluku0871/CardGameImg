@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-059",
+  "PackNo": "dmrp02",
+  "CardName": "チョコっとハウス(DMRP0259/93)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーが攻撃する時、自分の手札を１枚、マナゾーンに置く。"
+}

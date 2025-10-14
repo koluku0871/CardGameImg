@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx26-012",
+  "PackNo": "dmx26",
+  "CardName": "熱血龍GENJI・XXX(DMX2612/54)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "7000",
+  "CardCategory": "ガイアール・コマンド・ドラゴン",
+  "Text": "スピードアタッカーW・ブレイカーこのクリーチャーがバトルゾーンに出た時、相手の「ブロッカー」を持つクリーチャーをすべて破壊する。"
+}

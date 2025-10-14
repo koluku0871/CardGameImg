@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25-024",
+  "PackNo": "dm25",
+  "CardName": "プリズム・ブレイン(DM2524/55)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを２枚引き、そのカードを見せる。その中に１枚でも多色カードがあれば、さらに１枚引く。"
+}

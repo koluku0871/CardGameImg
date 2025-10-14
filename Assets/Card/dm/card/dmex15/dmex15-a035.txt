@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex15-a035",
+  "PackNo": "dmex15",
+  "CardName": "無双と竜機の伝説(DMEX1535/50)",
+  "CardType": "呪文",
+  "Element": "火/自然",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "パワー6000のクリーチャーをすべて破壊する。このターンの後に自分のターンを追加する。追加ターンにこの呪文を唱えることはできない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx01-015",
+  "PackNo": "dmx01",
+  "CardName": "死海竜(DMX0115/40)",
+  "CardType": "クリーチャー",
+  "Element": "水/闇/火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "12000",
+  "CardCategory": "レインボー・コマンド・ドラゴン/エイリアン",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。"
+}

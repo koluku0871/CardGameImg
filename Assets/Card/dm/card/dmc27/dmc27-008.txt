@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-008",
+  "PackNo": "dmc27",
+  "CardName": "飛翔の精霊アリエス(DMC278/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "9000",
+  "CardCategory": "エンジェル・コマンド",
+  "Text": "このクリーチャーは、タップされていない闇のクリーチャーを攻撃できる。このクリーチャーは、相手プレイヤーを攻撃できない。"
+}

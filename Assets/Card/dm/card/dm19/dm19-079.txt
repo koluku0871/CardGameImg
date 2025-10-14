@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm19-079",
+  "PackNo": "dm19",
+  "CardName": "封魔マルコシャス(DM1979/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "グランド・デビル",
+  "Text": "相手のシールドが１枚もない時、このクリーチャーはブロックされない。"
+}

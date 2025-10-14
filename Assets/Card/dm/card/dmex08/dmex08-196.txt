@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-196",
+  "PackNo": "dmex08",
+  "CardName": "闇侯爵ハウクス(DMEX08196/???)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "5000",
+  "CardCategory": "ダークロード",
+  "Text": "このクリーチャーが破壊された時、各プレイヤーは自身の手札をすべて、それぞれの墓地に置く。"
+}

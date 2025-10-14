@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx10-012",
+  "PackNo": "dmx10",
+  "CardName": "ボーンおどり・チャージャー(DMX1012/56)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から２枚を墓地に置く。チャージャー(この呪文を唱えた後、墓地に置くかわりに自分のマナゾーンに置く)"
+}

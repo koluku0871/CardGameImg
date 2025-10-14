@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-087a",
+  "PackNo": "dmrp05",
+  "CardName": "ケタノッコ・タンク/ケタノビール・ランサー(DMRP0587/93)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "8",
+  "CardSubType": "13000",
+  "CardCategory": "グランセクト",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

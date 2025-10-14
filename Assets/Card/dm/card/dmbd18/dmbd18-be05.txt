@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd18-be05",
+  "PackNo": "dmbd18",
+  "CardName": "暴嵐竜Susano-O-Dragon(DMBD18BE5/BE10)",
+  "CardType": "クリーチャー",
+  "Element": "水/火/自然",
+  "CardRarity": "-",
+  "Cost": "10",
+  "CardSubType": "21000",
+  "CardCategory": "キング・コマンド・ドラゴン/オリジン",
+  "Text": "Q・ブレイカー自分のクリーチャーすべてに「スピードアタッカー」を与える。相手のクリーチャーが攻撃する時、可能ならクリーチャーを攻撃する。呪文によって相手がクリーチャーを選ぶ時、このクリーチャーは選べない。"
+}

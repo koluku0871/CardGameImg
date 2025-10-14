@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc48-010",
+  "PackNo": "dmc48",
+  "CardName": "邪眼の銃鬼イヴァンII世(DMC4810/44)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "デーモン・コマンド/ナイト",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)自分が呪文を唱えた時、相手は自分自身の手札を１枚選んで捨てる。"
+}

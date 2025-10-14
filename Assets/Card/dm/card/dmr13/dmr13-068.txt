@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-068",
+  "PackNo": "dmr13",
+  "CardName": "陽動の面ヒッヒー(DMR1368/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビーストフォーク號",
+  "Text": "相手のクリーチャーが攻撃する場合、可能であればこのクリーチャーを攻撃する。"
+}

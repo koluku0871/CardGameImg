@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex2-Cho032",
+  "PackNo": "dm23ex2",
+  "CardName": "マナ・クライシス(DM23EX2超32/超38)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）カードを１枚相手のマナゾーンから選び、持ち主の墓地に置く。"
+}

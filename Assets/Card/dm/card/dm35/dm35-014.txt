@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm35-014",
+  "PackNo": "dm35",
+  "CardName": "死神アトミック・デストロイヤー(DM3514/55)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにある自分のクリーチャーを１体選ぶ。そのクリーチャーに含まれるカード１枚につき、相手は自身のクリーチャーを１体選んで破壊する。"
+}

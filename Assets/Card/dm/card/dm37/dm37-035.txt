@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm37-035",
+  "PackNo": "dm37",
+  "CardName": "式神シシマイ(DM3735/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ワンダー・トリック",
+  "Text": "このクリーチャーがタップされている時、相手はクリーチャーの「S・トリガー」能力を使えない。"
+}

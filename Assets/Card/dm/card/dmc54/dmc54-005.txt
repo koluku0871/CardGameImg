@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc54-005",
+  "PackNo": "dmc54",
+  "CardName": "浄化の精霊ウルス(DMC545/20)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "エンジェル・コマンド",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)自分のターンの終わりに、このクリーチャーをアンタップしてもよい。"
+}

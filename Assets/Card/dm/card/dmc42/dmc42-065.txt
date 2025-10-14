@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc42-065",
+  "PackNo": "dmc42",
+  "CardName": "キャンディ・ドロップ(DMC4265/90)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "このクリーチャーはブロックされない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp03-093",
+  "PackNo": "dmrp03",
+  "CardName": "マドウ・スクラム(DMRP0393/93)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のパワー5000以下のクリーチャーを１体選び、持ち主のマナゾーンに置く。"
+}

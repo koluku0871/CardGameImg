@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy18-076",
+  "PackNo": "promoy18",
+  "CardName": "*/弐幻キューギョドリ/*(DMPROMOY1876/Y18)",
+  "CardType": "ギガ・オレガ・オーラ",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "2000",
+  "CardCategory": "トリックス/デリートロン",
+  "Text": "S・トリガー（このオーラをシールドゾーンから手札に加える時、コストを支払わずにすぐ使ってもよい）これをクリーチャーに付けた時、カードを１枚引く。"
+}

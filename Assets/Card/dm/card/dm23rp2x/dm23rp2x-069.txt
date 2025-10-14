@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp2x-069",
+  "PackNo": "dm23rp2x",
+  "CardName": "襲撃者「鎧」ドライブ(DM23RP2X69/74)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "アーマード・ドラゴノイド",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

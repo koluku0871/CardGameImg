@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex1-019",
+  "PackNo": "dm25ex1",
+  "CardName": "聖沌大忍者ムクジュメッド(DM25EX119/89)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "3500",
+  "CardCategory": "メカ・デル・ステラ/シノビ",
+  "Text": "ブロッカー自分のシノビが出た時、カードを１枚引いてもよい。各ターンに一度、自分のシノビが離れる時、かわりにとどまらせてもよい。"
+}

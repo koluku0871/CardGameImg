@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc43-021",
+  "PackNo": "dmc43",
+  "CardName": "スーパー・スパーク(DMC4321/36)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)バトルゾーンにある相手のクリーチャーをすべてタップする。"
+}

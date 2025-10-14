@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr09-037",
+  "PackNo": "dmr09",
+  "CardName": "高飛車姫プリン(DMR0937/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ハンター/エイリアン",
+  "Text": "相手のクリーチャーが攻撃する時、そのターン、相手の他のクリーチャーは攻撃できない。"
+}

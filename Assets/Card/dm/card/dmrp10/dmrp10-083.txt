@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp10-083",
+  "PackNo": "dmrp10",
+  "CardName": "光線人形イメリウム(DMRP1083/103)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "デスパペット",
+  "Text": ""
+}

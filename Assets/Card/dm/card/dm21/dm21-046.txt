@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm21-046",
+  "PackNo": "dm21",
+  "CardName": "爆炎のゴーバウダン(DM2146/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ブレイブ・スピリット",
+  "Text": "バトルゾーンに自分のティラノ・ドレイクが１体でもあれば、このクリーチャーのパワーは+2000される。"
+}

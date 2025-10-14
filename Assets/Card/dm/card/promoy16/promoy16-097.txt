@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-097",
+  "PackNo": "promoy16",
+  "CardName": "一番隊クリスタ(DMPROMOY16P97/Y16)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "メタリカ",
+  "Text": "自分のメタリカを召喚するコストを１少なくする。ただしコストは０以下にならない。"
+}

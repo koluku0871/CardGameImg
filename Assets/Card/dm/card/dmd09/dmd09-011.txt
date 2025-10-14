@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd09-011",
+  "PackNo": "dmd09",
+  "CardName": "フォーチュン・ボール(DMD0911/14)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手のシールドが３枚以下であれば、カードを２枚まで引いてもよい。"
+}

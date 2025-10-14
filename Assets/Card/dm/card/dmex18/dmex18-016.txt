@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex18-016",
+  "PackNo": "dmex18",
+  "CardName": "怒流牙忍法次元隠しの術(DMEX1816/75)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のクリーチャーを１体選び、持ち主の超次元ゾーンに置く。次の自分のターンのはじめまで、相手は、そのクリーチャーと同じコストを持つクリーチャーを出せない。"
+}

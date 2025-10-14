@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex13-045",
+  "PackNo": "dmex13",
+  "CardName": "シャイニング・近未来・シティ(DMEX1345/84)",
+  "CardType": "D2フィールド",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のターンの終わりに、自分のクリーチャーをすべてアンタップする。（他のD２フィールドがバトルゾーンに出た時、このD２フィールドを墓地に置く）"
+}

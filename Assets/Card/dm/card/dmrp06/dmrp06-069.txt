@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-069",
+  "PackNo": "dmrp06",
+  "CardName": "スプ・モーニ(DMRP0669/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "スプラッシュ・クイーン",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-sp4d02a",
+  "PackNo": "promoy17",
+  "CardName": "ガンバＧ/ガガン・ガン・ガガン(DMCOROCOROY172/10)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）このクリーチャーは、バトルゾーンに出たターンの間、相手プレイヤーを攻撃できる。"
+}

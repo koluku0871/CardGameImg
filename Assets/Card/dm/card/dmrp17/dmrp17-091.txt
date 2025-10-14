@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp17-091",
+  "PackNo": "dmrp17",
+  "CardName": "かぐやば姫(DMRP1791/95)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ/レクスターズ",
+  "Text": "このクリーチャーを自分のマナゾーンから召喚してもよい。"
+}

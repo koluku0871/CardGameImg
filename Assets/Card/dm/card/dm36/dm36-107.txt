@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm36-107",
+  "PackNo": "dm36",
+  "CardName": "キセル・カイワレ(DM36107/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ワイルド・ベジーズ",
+  "Text": "相手がバトルゾーンに自身のクリーチャーを出した時、このクリーチャーを自分のマナゾーンに置く。"
+}

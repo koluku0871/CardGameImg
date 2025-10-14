@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-117",
+  "PackNo": "dmex17",
+  "CardName": "ブレイン・ストーム(DMEX17117/138)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを３枚まで引く。その後、自分の手札を２枚、好きな順序で山札の上に置く。"
+}

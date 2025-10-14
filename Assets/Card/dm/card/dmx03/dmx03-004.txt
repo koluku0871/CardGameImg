@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx03-004",
+  "PackNo": "dmx03",
+  "CardName": "氷牙アクア・マルガレーテ卿(DMX034/42)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "4000",
+  "CardCategory": "リキッド・ピープル/ナイト",
+  "Text": "自分が呪文を唱えた時、バトルゾーンにある進化以外のカードを１枚、持ち主の手札に戻してもよい。"
+}

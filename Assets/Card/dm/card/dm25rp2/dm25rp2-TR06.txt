@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp2-TR06",
+  "PackNo": "dm25rp2",
+  "CardName": "古代楽園モアイランド(DM25RP2TR6/TR9)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "SR",
+  "Cost": "10",
+  "CardSubType": "18000",
+  "CardCategory": "グランセクト/スペシャルズ",
+  "Text": "Q・ブレイカー相手は、呪文またはフィールドを実行できない。このクリーチャーがバトルに勝った時、相手のシールドを３つまで選び、持ち主のマナゾーンに置く。"
+}

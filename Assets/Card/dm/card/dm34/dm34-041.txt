@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm34-041",
+  "PackNo": "dm34",
+  "CardName": "キューティー・ルピア(DM3441/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "名前に《NEX》とある自分のクリーチャーが破壊される時、そのクリーチャーを墓地に置くかわりに手札に戻す。"
+}

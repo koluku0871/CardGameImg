@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-133",
+  "PackNo": "dmex17",
+  "CardName": "神楽妖精パルティア(DMEX17133/138)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーが出た時、いずれかのプレイヤーの墓地からカードを３枚まで選ぶ。そのプレイヤーはそのカードを自身の山札に加えてシャッフルする。"
+}

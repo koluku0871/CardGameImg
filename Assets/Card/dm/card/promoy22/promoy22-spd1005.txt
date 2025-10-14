@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy22-spd1005",
+  "PackNo": "promoy22",
+  "CardName": "ハリート＝ハイホ(DMSPDECK105/11)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "アビスロイヤル",
+  "Text": "このクリーチャーの攻撃の終わりに、このクリーチャーを山札の下に置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr06-042",
+  "PackNo": "dmr06",
+  "CardName": "合身秘伝メカ・マシーン(DMR0642/55)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "Ωアタック・チャンス-グレートメカオー(自分のグレートメカオーが攻撃する時、この呪文をコストを支払わずに唱えてもよい)カードを２枚引く。"
+}

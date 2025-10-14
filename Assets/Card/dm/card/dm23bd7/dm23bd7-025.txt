@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd7-025",
+  "PackNo": "dm23bd7",
+  "CardName": "アポカリプス・デイ(DM23BD725/60)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガーバトルゾーンにクリーチャーが６体以上あれば、それらをすべて破壊する。"
+}

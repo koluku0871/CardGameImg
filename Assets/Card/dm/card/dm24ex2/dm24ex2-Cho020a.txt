@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex2-Cho020a",
+  "PackNo": "dm24ex2",
+  "CardName": "天体妖精エスメル/「お茶はいかがですか？」(DM24EX2超20/超47)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーが出た時、自分のシールドを１つマナゾーンに置いてもよい。"
+}

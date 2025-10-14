@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr05-101",
+  "PackNo": "dmr05",
+  "CardName": "希望の親衛隊クラップ(DMR05101/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ファイアー・バード/ハンター/エイリアン",
+  "Text": "パワーアタッカー+2000(攻撃中、このクリーチャーのパワーは+2000される)"
+}

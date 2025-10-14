@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc42-084",
+  "PackNo": "dmc42",
+  "CardName": "式神ガーデナー(DMC4284/90)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ワンダー・トリック",
+  "Text": "このクリーチャーをバトルゾーンに出した時、バトルゾーンにあるクロスギアを１枚選び、持ち主のマナゾーンに置いてもよい。"
+}

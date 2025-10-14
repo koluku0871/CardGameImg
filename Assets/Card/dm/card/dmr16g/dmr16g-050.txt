@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16g-050",
+  "PackNo": "dmr16g",
+  "CardName": "雪精ベルベール(DMR16極50/54)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "8",
+  "CardSubType": "5000",
+  "CardCategory": "スノーフェアリー風",
+  "Text": "マナ武装３：自分のマナゾーンに自然のカードが３枚以上あれば、このクリーチャーを召喚するコストは５少なくなる。"
+}

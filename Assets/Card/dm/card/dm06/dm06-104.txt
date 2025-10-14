@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm06-104",
+  "PackNo": "dm06",
+  "CardName": "幻惑ベリー(DM6104/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ツリーフォーク",
+  "Text": ""
+}

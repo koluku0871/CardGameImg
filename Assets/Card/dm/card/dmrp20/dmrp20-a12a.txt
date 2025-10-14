@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp20-a12a",
+  "PackNo": "dmrp20",
+  "CardName": "バーンメア・ザ・シルバー/オラオラ・スラッシュ(DMRP2012A/20)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、GR召喚を２回する。このターン、それらのGRクリーチャーに「スピードアタッカー」を与える。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex09-037",
+  "PackNo": "dmex09",
+  "CardName": "冒険妖精ポレゴン(DMEX0937/42)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "自分のターンの終わりに、そのターン、このクリーチャーがシールドをブレイクしていれば、このクリーチャーを手札に戻す。"
+}

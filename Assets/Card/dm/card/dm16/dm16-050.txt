@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm16-050",
+  "PackNo": "dm16",
+  "CardName": "旋風の闘士ヴィンジャー(DM1650/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "フェザーノイド",
+  "Text": ""
+}

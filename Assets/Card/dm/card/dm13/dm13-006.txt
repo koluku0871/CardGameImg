@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm13-006",
+  "PackNo": "dm13",
+  "CardName": "宣凶師ドロシア(DM136/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "グラディエーター",
+  "Text": "相手のターン中、自分の手札を捨てた時、捨てた枚数と同じ数のカードを引く。"
+}

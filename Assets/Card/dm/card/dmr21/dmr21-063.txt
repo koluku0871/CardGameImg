@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr21-063",
+  "PackNo": "dmr21",
+  "CardName": "龍素記号Odアイソトープ(DMR2163/94)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "クリスタル・ドラゴン/革命軍",
+  "Text": "このクリーチャーがバトルゾーンを離れた時、カードを１枚引く。"
+}

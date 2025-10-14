@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr20-069",
+  "PackNo": "dmr20",
+  "CardName": "雪精ホウホウ(DMR2069/70)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー風/革命軍",
+  "Text": "自分のクリーチャーが攻撃する時、それがそのターンはじめての攻撃であれば、そのターン、そのクリーチャーのパワーを+3000する。"
+}

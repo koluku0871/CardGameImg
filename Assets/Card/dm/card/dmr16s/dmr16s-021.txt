@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16s-021",
+  "PackNo": "dmr16s",
+  "CardName": "プロテクション・サークル(DMR16真21/54)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の手札を１枚、新しいシールドとして自分のシールドゾーンに裏向きにして加える。自分のシールドの数が相手のより多ければ、カードを１枚引いてもよい。"
+}

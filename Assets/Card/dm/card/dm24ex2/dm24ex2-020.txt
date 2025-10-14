@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex2-020",
+  "PackNo": "dm24ex2",
+  "CardName": "暴嵐竜Susano-O-Dragon(DM24EX220/100)",
+  "CardType": "クリーチャー",
+  "Element": "水/火/自然",
+  "CardRarity": "SR",
+  "Cost": "10",
+  "CardSubType": "21000",
+  "CardCategory": "キング・コマンド・ドラゴン/オリジン",
+  "Text": "Q・ブレイカー自分のクリーチャーすべてに「スピードアタッカー」を与える。相手のクリーチャーが攻撃する時、可能ならクリーチャーを攻撃する。相手はこのクリーチャーを呪文で選べない。"
+}

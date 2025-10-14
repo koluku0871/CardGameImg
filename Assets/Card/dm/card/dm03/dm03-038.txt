@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm03-038",
+  "PackNo": "dm03",
+  "CardName": "閃光の使徒レーナ(DM338/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "イニシエート",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、自分のマナゾーンから呪文を１枚選び、自分の手札に戻してよい。"
+}

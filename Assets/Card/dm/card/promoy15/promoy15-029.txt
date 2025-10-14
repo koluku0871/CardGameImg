@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-029",
+  "PackNo": "promoy15",
+  "CardName": "一族ダママ(DMPROMOY15P29/Y15)",
+  "CardType": "クリーチャー",
+  "Element": "光/自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "革命軍/ダママ団",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。このクリーチャーがバトルゾーンに出た時、相手のクリーチャーを１体選び、タップする。その後、自分の手札を１枚、マナゾーンに置いてもよい。"
+}

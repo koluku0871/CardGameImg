@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc27-040",
+  "PackNo": "dmc27",
+  "CardName": "コーライル(DMC2740/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "サイバーロード",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、バトルゾーンにある相手のクリーチャーを１体選び、持ち主の山札の１番上に置く。"
+}

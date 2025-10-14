@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-030",
+  "PackNo": "dmex08",
+  "CardName": "ボーン・ピアース(DMEX0830/???)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ブレインジャッカー",
+  "Text": "このクリーチャーが破壊された時、クリーチャーを１体、自分のマナゾーンから手札に戻してもよい。"
+}

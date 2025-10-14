@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm20-031",
+  "PackNo": "dm20",
+  "CardName": "お騒がせチューザ(DM2031/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ドリームメイト",
+  "Text": "このクリーチャーは、可能であれば毎ターン攻撃する。このクリーチャーがタップされている時、誰も呪文を唱えることはできない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex07-043",
+  "PackNo": "dmex07",
+  "CardName": "花美師ハナコ(DMEX0743/48)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分のシールドを１つ、手札に加える。ただし、その「S・トリガー」は使えない。"
+}

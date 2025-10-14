@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx21-052",
+  "PackNo": "dmx21",
+  "CardName": "黄昏地獄拳(DMX2152/70)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを２枚引く。バトルゾーンにある「ブロッカー」を持つクリーチャーをすべて持ち主の手札に戻す。"
+}

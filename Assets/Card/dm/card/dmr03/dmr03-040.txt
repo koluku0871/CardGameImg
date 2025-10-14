@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr03-040",
+  "PackNo": "dmr03",
+  "CardName": "ヤミノレオール(DMR0340/54)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ダーク・モンスター",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23-010",
+  "PackNo": "dm23",
+  "CardName": "封魔ガリエフ・イルゾール(DM2310/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "グランド・デビル",
+  "Text": "相手が「S・トリガー」を使った時、カードを２枚まで引いてもよい。"
+}

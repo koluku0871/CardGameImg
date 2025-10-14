@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex2-ChoG004",
+  "PackNo": "dm23ex2",
+  "CardName": "マーシャル・クロウラー(DM23EX2超G4/超G12)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "8",
+  "CardSubType": "8000",
+  "CardCategory": "アースイーター",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、自分の手札を好きな枚数シールド化してもよい。その後、このクリーチャーは同じ数の自分のシールドをブレイクする。"
+}

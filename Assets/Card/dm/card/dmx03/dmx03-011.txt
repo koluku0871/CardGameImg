@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx03-011",
+  "PackNo": "dmx03",
+  "CardName": "デーモン・ハンド(DMX0311/42)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)相手のクリーチャーを１体破壊する。"
+}

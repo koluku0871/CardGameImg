@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm37-016",
+  "PackNo": "dm37",
+  "CardName": "爆裂ガレラス・シドウ(DM3716/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "フレイム・コマンド",
+  "Text": "バトルゾーンにある自分の(K・ソウル)と(W・ソウル)クリーチャーはすべて「W・ブレイカー」を持つ。"
+}

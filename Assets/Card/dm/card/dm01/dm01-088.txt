@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-088",
+  "PackNo": "dm01",
+  "CardName": "切り裂く者ボーン・アサシン(DM188/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "リビング・デッド",
+  "Text": "スレイヤー(このクリーチャーとバトルした相手クリーチャーは、勝っても持ち主の墓地に置かれる。)"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-069",
+  "PackNo": "dm01",
+  "CardName": "シビレアシダケ(DM169/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "バルーン・マッシュルーム",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、自分の手札からカードを１枚選び、自分のマナゾーンに置いてよい。"
+}

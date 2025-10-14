@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex19-001",
+  "PackNo": "dmex19",
+  "CardName": "全能ゼンノー(DMEX191/68)",
+  "CardType": "GRクリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "相手のクリーチャーは、出たターン、攻撃できない。"
+}

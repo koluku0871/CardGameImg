@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-073",
+  "PackNo": "dmex08",
+  "CardName": "猿神兵アッシュ(DMEX0873/???)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "アーマロイド",
+  "Text": "このクリーチャーまたは自分の他のアーマロイドが破壊された時、相手はカードを１枚自身のマナゾーンから選び、墓地に置く。"
+}

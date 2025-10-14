@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex07-m04",
+  "PackNo": "dmex07",
+  "CardName": "FZゲイザーfeat.アアルカイト(DMEX07M4/M12)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "MSS",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "G・ゼロ：バトルゾーンに自分の水のGRクリーチャーが３体以上あれば、この呪文をコストを支払わずに唱えてもよい。次の自分のターンのはじめまで、相手のクリーチャーは攻撃もブロックもできず、自分の水のGRクリーチャーが攻撃する時、自分はカードを１枚引いてもよい。"
+}

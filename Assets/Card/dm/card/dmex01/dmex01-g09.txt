@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex01-g09",
+  "PackNo": "dmex01",
+  "CardName": "解体人形ジェニー(DMEX01G9/G10)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手の手札を見てその中から１枚選び、捨てさせる。"
+}

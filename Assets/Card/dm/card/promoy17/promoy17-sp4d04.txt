@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-sp4d04",
+  "PackNo": "promoy17",
+  "CardName": "ハクション・マスク(DMCOROCOROY174/10)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "S・トリガー（このクリーチャーをシールドゾーンから手札に加える時、コストを支払わずにすぐ召喚してもよい）このクリーチャーがバトルゾーンに出た時、相手は自身のパワーが一番小さいクリーチャーを１体選び、破壊する。"
+}

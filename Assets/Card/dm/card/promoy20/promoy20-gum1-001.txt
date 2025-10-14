@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy20-gum1-001",
+  "PackNo": "promoy20",
+  "CardName": "英雄龍モモキング(DMGUM11/10)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "8000",
+  "CardCategory": "ヒーロー・ドラゴン/ジョーカーズ",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）W・ブレイカー（このクリーチャーはシールドを２つブレイクする）"
+}

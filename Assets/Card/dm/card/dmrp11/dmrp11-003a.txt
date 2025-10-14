@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp11-003a",
+  "PackNo": "dmrp11",
+  "CardName": "スゴ腕プロジューサー/りんご娘はさんにんっ娘(DMRP113/102)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ/ワンダフォース",
+  "Text": "ブロッカーこのクリーチャーがバトルゾーンに出た時またはバトルゾーンを離れた時、GR召喚する。"
+}

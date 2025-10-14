@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm30-017",
+  "PackNo": "dm30",
+  "CardName": "ソフトナックル・ドラグーン(DM3017/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ティラノ・ドレイク",
+  "Text": "相手のクリーチャーがこのクリーチャーを攻撃した時、このクリーチャーを破壊する。"
+}

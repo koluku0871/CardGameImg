@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd6-026a",
+  "PackNo": "dm23bd6",
+  "CardName": "偽りの名13/種族選別(DM23BD626/60)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "10",
+  "CardSubType": "24000",
+  "CardCategory": "アンノウン",
+  "Text": "ワールド・ブレイカー（このクリーチャーは相手のシールドをすべてブレイクする）"
+}

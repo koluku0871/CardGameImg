@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm31-013",
+  "PackNo": "dm31",
+  "CardName": "魔弾ゴッド・ジェノサイダー(DM3113/55)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "ナイト",
+  "Text": "相手のクリーチャーを１体破壊する。そのクリーチャーがゴッドであれば、相手のクリーチャーをもう１体破壊してもよい。"
+}

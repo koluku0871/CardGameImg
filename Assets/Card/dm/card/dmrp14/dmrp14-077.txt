@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-077",
+  "PackNo": "dmrp14",
+  "CardName": "アシタモ・ハレッチ(DMRP1477/95)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "5000",
+  "CardCategory": "ファイアー・バード",
+  "Text": ""
+}

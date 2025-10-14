@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc39-028",
+  "PackNo": "dmc39",
+  "CardName": "無頼勇騎ゴンタ(DMC3928/33)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "ヒューマノイド/ビーストフォーク",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。"
+}

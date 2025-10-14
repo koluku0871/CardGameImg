@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25-033",
+  "PackNo": "dm25",
+  "CardName": "惨劇のアイオライト(DM2533/55)",
+  "CardType": "クリーチャー",
+  "Element": "水/闇/火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "5000",
+  "CardCategory": "スピリット・クォーツ",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。"
+}

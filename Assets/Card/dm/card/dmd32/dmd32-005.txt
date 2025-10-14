@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd32-005",
+  "PackNo": "dmd32",
+  "CardName": "天海の精霊シリウス(DMD325/15)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "SR",
+  "Cost": "11",
+  "CardSubType": "12000",
+  "CardCategory": "エンジェル・コマンド",
+  "Text": "ブロッカーT・ブレイカー"
+}

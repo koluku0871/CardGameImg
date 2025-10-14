@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22-054",
+  "PackNo": "dm22",
+  "CardName": "森の歌い手ケロディナンス(DM2254/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ドリームメイト",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分のマナゾーンにあるフェニックスをすべてアンタップする。"
+}

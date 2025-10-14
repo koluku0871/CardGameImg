@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd07-a-009",
+  "PackNo": "dmbd07",
+  "CardName": "ジョジョジョ・ジョーカーズ(DMBD07-a9/14)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "ジョーカーズ",
+  "Text": "自分の山札の上から４枚を見る。その中からジョーカーズ・クリーチャーを１体、相手に見せてから手札に加えてもよい。残りを好きな順序で自分の山札の一番下に置く。"
+}

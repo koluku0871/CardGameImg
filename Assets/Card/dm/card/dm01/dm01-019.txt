@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-019",
+  "PackNo": "dm01",
+  "CardName": "トロピコ(DM119/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "サイバーロード",
+  "Text": "バトルゾーンに自分のクリーチャーが他に２体以上出ているなら、このクリーチャーはブロックされない。"
+}

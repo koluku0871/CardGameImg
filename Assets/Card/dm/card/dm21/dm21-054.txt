@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm21-054",
+  "PackNo": "dm21",
+  "CardName": "秘護精ユニフォーク(DM2154/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "セイント・ヘッド",
+  "Text": "バトルゾーンに自分のアーク・セラフィムが１体でもあれば、このクリーチャーのパワーは+2000される。"
+}

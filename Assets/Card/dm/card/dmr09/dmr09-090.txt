@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr09-090",
+  "PackNo": "dmr09",
+  "CardName": "暗躍のサトリ山椒(DMR0990/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "オラクル",
+  "Text": "ウルトラ・セイバー：無色クリーチャー（自分の無色クリーチャーがバトルゾーンを離れる時、かわりにこのクリーチャーを破壊してもよい）"
+}

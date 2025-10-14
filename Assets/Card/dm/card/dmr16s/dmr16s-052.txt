@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16s-052",
+  "PackNo": "dmr16s",
+  "CardName": "熊姫の面ベアコダッシュ(DMR16真52/54)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ビーストフォーク號",
+  "Text": ""
+}

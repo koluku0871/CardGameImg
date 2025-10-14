@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-067",
+  "PackNo": "dmrp07",
+  "CardName": "貝獣チャック(DMRP0767/94)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ムートピア",
+  "Text": "各ターン、自分がはじめて呪文を唱えた時、そのターン、このクリーチャーのパワーを+4000する。"
+}

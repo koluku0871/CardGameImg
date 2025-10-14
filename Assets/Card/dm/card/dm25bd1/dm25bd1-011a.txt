@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25bd1-011a",
+  "PackNo": "dm25bd1",
+  "CardName": "ボルシャック・ドラゴン/決闘者・チャージャー(DM25BD111/17)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "6000+",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "W・ブレイカー攻撃中、このクリーチャーのパワーを、自分の墓地にある火のカード１枚につき+1000する。"
+}

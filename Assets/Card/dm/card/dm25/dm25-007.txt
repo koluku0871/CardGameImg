@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25-007",
+  "PackNo": "dm25",
+  "CardName": "スーパー・スパーク(DM257/55)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)バトルゾーンにある相手のクリーチャーをすべてタップする。"
+}

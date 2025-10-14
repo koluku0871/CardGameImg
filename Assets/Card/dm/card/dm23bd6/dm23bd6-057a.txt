@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd6-057a",
+  "PackNo": "dm23bd6",
+  "CardName": "配球の超人/記録的剛球(DM23BD657/60)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "8",
+  "CardSubType": "14000",
+  "CardCategory": "ジャイアント",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３つブレイクする）このクリーチャーが出た時、相手のクリーチャーを１体選び、持ち主のマナゾーンに置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd21-026",
+  "PackNo": "dmbd21",
+  "CardName": "終断αドルーター(DMBD2126/27)",
+  "CardType": "クリーチャー",
+  "Element": "闇/火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "イニシャルズX",
+  "Text": "このクリーチャーが出た時、自分のフィールドがあれば、自分の手札を１枚捨ててもよい。そうしたら、カードを２枚引く。"
+}

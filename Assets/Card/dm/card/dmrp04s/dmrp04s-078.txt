@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04s-078",
+  "PackNo": "dmrp04s",
+  "CardName": "凶器の雨(DMRP04S78/93)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手は自身のアンタップしているクリーチャーを１体選び、破壊する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-098a",
+  "PackNo": "dm22ex1",
+  "CardName": "天雷龍姫エリザベス/インビンシブル・フォートレス(DM22EX198/130)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "アポロニア・ドラゴン/メカ・デル・ソル/ナイト",
+  "Text": "自分のシールドゾーンから手札に加える呪文すべてに、「S・トリガー」を与える。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp1-TD2",
+  "PackNo": "dm24rp1",
+  "CardName": "龍世界～龍の降臨する地～(DM24RP1TD2/TD3)",
+  "CardType": "ドラゴニック・フィールド",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "ドラゴン・ワールド",
+  "Text": "自分のターンのはじめに、自分の山札の上から１枚目を墓地に置く。そのカードが進化ではないドラゴンなら、このフィールドを破壊してもよい。そうしたら、そのドラゴンを出す。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmart11-004",
+  "PackNo": "dmart11",
+  "CardName": "超竜バジュラズテラ(DMART114/5)",
+  "CardType": "進化クリーチャー",
+  "Element": "火",
+  "CardRarity": "SR",
+  "Cost": "9",
+  "CardSubType": "12000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "進化：ドラゴン１体の上に置く。このクリーチャーが出た時、各プレイヤーはドラゴンではないカードをすべて、自身のマナゾーンから墓地に置く。T・ブレイカー"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr01-081",
+  "PackNo": "dmr01",
+  "CardName": "アクア・ジェット(DMR0181/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "リキッド・ピープル/ハンター",
+  "Text": "このクリーチャーをバトルゾーンに出した時、バトルゾーンにある自分のハンター１体につき１枚、カードを引いてもよい。"
+}

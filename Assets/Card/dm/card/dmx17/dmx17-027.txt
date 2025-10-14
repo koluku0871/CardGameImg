@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx17-027",
+  "PackNo": "dmx17",
+  "CardName": "高貴の精霊龍ペトローズ(DMX1727/37)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "4500",
+  "CardCategory": "エンジェル・コマンド・ドラゴン",
+  "Text": "バトルゾーンにある自分の他のドラゴンすべてのパワーは+4000される。"
+}

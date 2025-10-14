@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp03-066",
+  "PackNo": "dmrp03",
+  "CardName": "幻想の魔手カレイド(DMRP0366/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ムートピア",
+  "Text": "このクリーチャーがバトルゾーンに出た時、呪文を１枚、自分の墓地から山札の一番下に置いてもよい。そうしたら、カードを２枚引く。"
+}

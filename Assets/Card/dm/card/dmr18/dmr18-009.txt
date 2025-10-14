@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr18-009",
+  "PackNo": "dmr18",
+  "CardName": "幻影ドン・サボテ(DMR189/71)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "11",
+  "CardSubType": "25000",
+  "CardCategory": "ミステリー・トーテム/侵略者",
+  "Text": "自分の自然のクリーチャーすべてに「ワールド・ブレイカー」を与える。"
+}

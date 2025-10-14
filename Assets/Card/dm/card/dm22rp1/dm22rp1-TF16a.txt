@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp1-TF16a",
+  "PackNo": "dm22rp1",
+  "CardName": "氷牙レオポル・ディーネ公/エマージェンシー・タイフーン(DM22RP1TF16/TF20)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "サイバー・ウイルス/ナイト",
+  "Text": "自分が呪文を唱えた時、カードを１枚引いてもよい。"
+}

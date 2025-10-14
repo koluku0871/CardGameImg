@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd09-011",
+  "PackNo": "dmbd09",
+  "CardName": "ナチュラトゥルー・トラップ(DMBD0911/20)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のクリーチャーを１体選び、持ち主のマナゾーンに置く。カードを１枚引く。"
+}

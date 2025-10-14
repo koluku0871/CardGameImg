@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-048a",
+  "PackNo": "dmrp06",
+  "CardName": "暴走ザクルマ/「緊急発進だ!!」(DMRP0648/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ソニック・コマンド",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

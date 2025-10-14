@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-188",
+  "PackNo": "dmex08",
+  "CardName": "自称辞書(DMEX08188/???)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ジョーカーズ/スペシャルズ",
+  "Text": ""
+}

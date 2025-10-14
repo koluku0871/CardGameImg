@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12b-019",
+  "PackNo": "dmx12b",
+  "CardName": "松本大先生(DMX1219/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド",
+  "Text": "自分の（ヒーロー・カード）を持つクリーチャーの召喚コストを１少なくしてもよい。ただし、コストは１より少なくならない。"
+}

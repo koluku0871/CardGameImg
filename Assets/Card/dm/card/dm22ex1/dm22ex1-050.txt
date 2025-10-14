@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-050",
+  "PackNo": "dm22ex1",
+  "CardName": "漂流大陸の復活(DM22EX150/130)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "各プレイヤーは、「ウェーブストライカー」を持つクリーチャー、サバイバー、ダイナモをすべて、自身の墓地から出す。"
+}

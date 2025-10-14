@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex1-054",
+  "PackNo": "dm23ex1",
+  "CardName": "ダーツ=デラアーツ(DM23EX154/84)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "アビスロイヤル",
+  "Text": "このクリーチャーが出た時、各プレイヤーは自身の手札を１枚選んで捨てる。こうして捨てられたカード１枚につき、自分はカードを１枚引いてもよい。"
+}

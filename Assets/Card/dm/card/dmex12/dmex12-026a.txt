@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex12-026a",
+  "PackNo": "dmex12",
+  "CardName": "奇石ミクセル/ジャミング・チャフ(DMEX1226/110)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "メタリカ",
+  "Text": "相手のマナゾーンにあるカードの枚数よりコストが大きいクリーチャーを相手がバトルゾーンに出した時、相手はそれを自身の山札の一番下に置く。"
+}

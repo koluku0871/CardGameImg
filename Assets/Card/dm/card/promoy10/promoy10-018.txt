@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy10-018",
+  "PackNo": "promoy10",
+  "CardName": "ニドギリ・ドラゴン(DMPROMOY10P18/Y10)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "アーマード・ドラゴン/ハンター",
+  "Text": "各ターン、このクリーチャーがはじめてタップした時、アンタップする。このクリーチャーは、可能なら各ターン２度攻撃する。"
+}

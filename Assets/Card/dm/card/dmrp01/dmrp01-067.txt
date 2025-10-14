@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-067",
+  "PackNo": "dmrp01",
+  "CardName": "カーム・クロウラー(DMRP0167/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "6000",
+  "CardCategory": "アースイーター",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）このクリーチャーは攻撃できない。"
+}

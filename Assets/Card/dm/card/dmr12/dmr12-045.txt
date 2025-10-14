@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr12-045",
+  "PackNo": "dmr12",
+  "CardName": "戦慄の取引ビッグ・パルサー(DMR1245/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "アウトレイジ",
+  "Text": "このクリーチャーが攻撃する時、自分の手札をすべて捨ててもよい。そうした場合、カードを２枚引く。"
+}

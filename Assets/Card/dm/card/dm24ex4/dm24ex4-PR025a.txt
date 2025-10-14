@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex4-PR025a",
+  "PackNo": "dm24ex4",
+  "CardName": "忘手人形ラビソング/たったひとつの冴えた歌(DM24EX4PR25/PR60)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーが出た時、カードを２枚引き、その後、自分の手札を１枚、超次元ゾーンに置く。"
+}

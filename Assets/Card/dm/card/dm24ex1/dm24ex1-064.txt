@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex1-064",
+  "PackNo": "dm24ex1",
+  "CardName": "完璧妖精ゴメスX(DM24EX164/89)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーが出た時、自分のクリーチャーを１体マナゾーンに置く。その後、相手は自身のクリーチャーを１体選び、マナゾーンに置く。"
+}

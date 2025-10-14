@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr09-098",
+  "PackNo": "dmr09",
+  "CardName": "無重力ナイン(DMR0998/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "アウトレイジMAX",
+  "Text": "G・ゼロ-バトルゾーンに自分のアウトレイジがあれば、このクリーチャーをコストを支払わずに召喚してもよい。"
+}

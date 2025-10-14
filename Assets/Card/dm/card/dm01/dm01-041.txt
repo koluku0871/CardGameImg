@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-041",
+  "PackNo": "dm01",
+  "CardName": "希望の使徒トール(DM141/110)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "イニシエート",
+  "Text": "自分のターンの終わりに、バトルゾーンにある自分のクリーチャーをすべてアンタップしてよい。"
+}

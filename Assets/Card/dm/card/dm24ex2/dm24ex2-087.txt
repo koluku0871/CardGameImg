@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex2-087",
+  "PackNo": "dm24ex2",
+  "CardName": "トロン(DM24EX287/100)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "サイバーロード/エイリアン",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）このクリーチャーは攻撃できない。"
+}

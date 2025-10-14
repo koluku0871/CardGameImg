@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp3-Sec023",
+  "PackNo": "dm24rp3",
+  "CardName": "万能バンノー(DM24RP3㊙23/㊙24)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーが出た時、カードを１枚引く。相手のクリーチャーが出た時、このターン、そのクリーチャーは攻撃できない。"
+}

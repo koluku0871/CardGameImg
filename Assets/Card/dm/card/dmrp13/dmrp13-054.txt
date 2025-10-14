@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp13-054",
+  "PackNo": "dmrp13",
+  "CardName": "コクヨウ童子(DMRP1354/95)",
+  "CardType": "クリーチャー",
+  "Element": "闇/火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "デモニオ/鬼札王国",
+  "Text": "鬼タイム：自分のターン中、自分と相手のシールドの数が合計６つ以下なら、このクリーチャーは破壊されない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd33-017",
+  "PackNo": "dmd33",
+  "CardName": "再誕の社(DMD3317/19)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを２枚まで、自分の墓地からマナゾーンに置く。"
+}

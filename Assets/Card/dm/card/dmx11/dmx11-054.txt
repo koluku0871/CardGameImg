@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx11-054",
+  "PackNo": "dmx11",
+  "CardName": "万象の超人(DMX1154/84)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ジャイアント",
+  "Text": "自分のターンのはじめに、自分の山札の上から１枚目をマナゾーンに置いてもよい。"
+}

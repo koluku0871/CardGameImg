@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp16-041",
+  "PackNo": "dmrp16",
+  "CardName": "”乱振“のハンマー(DMRP1641/95)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ゼノパーツ",
+  "Text": "このクリーチャーがバトルゾーンに出た時、バトルゾーンにある相手のコスト３以下のカードを１枚選び、持ち主の墓地に置く。"
+}

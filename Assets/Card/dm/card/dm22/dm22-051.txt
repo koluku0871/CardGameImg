@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22-051",
+  "PackNo": "dm22",
+  "CardName": "デコピン・クラッシュ(DM2251/55)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のパワー4000以下のクリーチャーを１体破壊する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-033",
+  "PackNo": "dmr13",
+  "CardName": "ミラクル・バーストショット(DMR1333/110)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のパワー3000以下のクリーチャーをすべて破壊する。"
+}

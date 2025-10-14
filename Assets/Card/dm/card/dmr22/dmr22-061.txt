@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr22-061",
+  "PackNo": "dmr22",
+  "CardName": "ドンスカレ・パンパン(DMR2261/74)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "カレーパン",
+  "Text": ""
+}

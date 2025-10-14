@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp16-035",
+  "PackNo": "dmrp16",
+  "CardName": "アクア・ウォッチャー(DMRP1635/95)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の山札の上から２枚を見る。そのうちの１枚を墓地に置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-048",
+  "PackNo": "dmex17",
+  "CardName": "DG-パルテノン～龍の創り出される地～(DMEX1748/138)",
+  "CardType": "DGフィールド",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このDGフィールドを出した時、カードを１枚引く。すべてのプレイヤーは、各ターン、クリーチャーを３体までしか出せない。すべてのプレイヤーは、各ターン、呪文を３枚までしか唱えられない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp2x-045a",
+  "PackNo": "dm23rp2x",
+  "CardName": "竹馬の超人/テイクバック・チャージャー(DM23RP2X45/74)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "7",
+  "CardSubType": "11000",
+  "CardCategory": "ジャイアント",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）このクリーチャーが出た時、自分の山札の上から２枚をタップしてマナゾーンに置く。"
+}

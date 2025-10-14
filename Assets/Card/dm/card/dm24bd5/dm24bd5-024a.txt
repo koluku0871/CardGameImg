@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24bd5-024a",
+  "PackNo": "dm24bd5",
+  "CardName": "マーチングドラムミドリ/ハーメルン・ハーモニー(DM24BD524/60)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ジャイアント・スノーフェアリー",
+  "Text": "このクリーチャーが出た時、自分の山札の上から２枚を見る。そのうちの１枚をマナゾーンに置く。"
+}

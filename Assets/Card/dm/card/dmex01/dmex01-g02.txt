@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex01-g02",
+  "PackNo": "dmex01",
+  "CardName": "メンデルスゾーン(DMEX01G2/G10)",
+  "CardType": "呪文",
+  "Element": "火/自然",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。自分の山札の上から２枚を表向きにする。その中のドラゴンをすべて、タップして自分のマナゾーンに置き、残りのカードを墓地に置く。"
+}

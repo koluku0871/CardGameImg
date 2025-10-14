@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex2-Cho019",
+  "PackNo": "dm24ex2",
+  "CardName": "キユリのASMラジオ(DM24EX2超19/超47)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を見る。その中から、コスト３以下のクリーチャーを２体まで出す。残りを好きな順序で山札の下に置く。"
+}

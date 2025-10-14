@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-094",
+  "PackNo": "dmrp07",
+  "CardName": "メゾン・ド・マタンゴ(DMRP0794/94)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のパワー6000以下のクリーチャーを１体選び、持ち主のマナゾーンに置く。"
+}

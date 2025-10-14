@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp1-036",
+  "PackNo": "dm23rp1",
+  "CardName": "♪ぬけがらの空蝉の術ここ撃つなや(DM23RP136/74)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "マジック・ソング",
+  "Text": "自分のクリーチャーを１体選ぶ、このターン、そのクリーチャーはブロックされない。このターン、自分のクリーチャーが攻撃する時、カードを１枚引く。"
+}

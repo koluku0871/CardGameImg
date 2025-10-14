@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp12-061",
+  "PackNo": "dmrp12",
+  "CardName": "τξタウテムン(DMRP1261/104)",
+  "CardType": "オレガ・オーラ",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "グランセクト/デリートロン",
+  "Text": "これをクリーチャーに付けた時、自分のマナゾーンにあるコスト５以下のオーラを１枚選び、そのクリーチャーに付けてもよい。"
+}

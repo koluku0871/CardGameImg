@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm05-014",
+  "PackNo": "dm05",
+  "CardName": "ファントム・ベール(DM514/55)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手の次のターンに、相手の攻撃できるクリーチャーはすべて、攻撃しなければならない。"
+}

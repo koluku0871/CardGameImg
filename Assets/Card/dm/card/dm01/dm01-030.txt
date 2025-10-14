@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-030",
+  "PackNo": "dm01",
+  "CardName": "ドラグライド(DM130/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "アーマード・ワイバーン",
+  "Text": "このクリーチャーは、毎ターン攻撃しなければならない。"
+}

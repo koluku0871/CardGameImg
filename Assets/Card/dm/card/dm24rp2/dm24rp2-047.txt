@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp2-047",
+  "PackNo": "dm24rp2",
+  "CardName": "ヨメイサンビョウダケ(DM24RP247/75)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "5000",
+  "CardCategory": "バルーン・マッシュルーム",
+  "Text": "自分のタップしているクリーチャーが３体以上あれば、相手のクリーチャーは自分を攻撃できない。"
+}

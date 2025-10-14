@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-018",
+  "PackNo": "dmrp04m",
+  "CardName": "グングン☆マグネットマン(DMRP04M18/61)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "カードが、その持ち主の手札以外のゾーンからマナゾーンに置かれた時、そのプレイヤーはカードを１枚、自身のマナゾーンから墓地に置く。"
+}

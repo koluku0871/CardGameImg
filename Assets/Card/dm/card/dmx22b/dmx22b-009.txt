@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-009",
+  "PackNo": "dmx22b",
+  "CardName": "９月(DMX229/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "9",
+  "CardSubType": "9000",
+  "CardCategory": "2016カレンダー",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）"
+}

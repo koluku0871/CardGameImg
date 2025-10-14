@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm33-053",
+  "PackNo": "dm33",
+  "CardName": "呪林の闘士フォクシー(DM3353/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "6000",
+  "CardCategory": "ドリームメイト/オリジン",
+  "Text": "このクリーチャーは、相手プレイヤーを攻撃できない。"
+}

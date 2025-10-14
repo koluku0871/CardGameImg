@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd03-009",
+  "PackNo": "dmsd03",
+  "CardName": "ナグナグ・チュリス(DMSD039/12)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手のクリーチャーを１体選んでもよい。その選んだクリーチャーとこのクリーチャーをバトルさせる。"
+}

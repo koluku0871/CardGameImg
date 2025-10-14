@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy14-030",
+  "PackNo": "promoy14",
+  "CardName": "禁術のカルマカレイコ(DMPROMOY14P30/Y14)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "オラクル",
+  "Text": "いずれかのプレイヤーの山札から、手札以外のゾーンにカードが置かれる時、そのプレイヤーはかわりにそのカードを自身の山札に加えてシャッフルする。"
+}

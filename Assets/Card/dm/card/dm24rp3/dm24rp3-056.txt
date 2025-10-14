@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp3-056",
+  "PackNo": "dm24rp3",
+  "CardName": "ゴルドラン・スパーク(DM24RP356/76)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）すべてのクリーチャーをタップする。"
+}

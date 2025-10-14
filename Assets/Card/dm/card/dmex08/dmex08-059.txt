@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-059",
+  "PackNo": "dmex08",
+  "CardName": "転々のサトリラシャ(DMEX0859/???)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "-",
+  "Cost": "1",
+  "CardSubType": "500",
+  "CardCategory": "オラクル",
+  "Text": "このクリーチャーがバトルゾーンに出た時、無色ではないクリーチャーをすべてタップする。"
+}

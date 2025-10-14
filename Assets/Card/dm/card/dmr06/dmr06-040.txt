@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr06-040",
+  "PackNo": "dmr06",
+  "CardName": "特急機装マウス・シットレイン(DMR0640/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "グレートメカオー/アンノイズ",
+  "Text": "自分のアンノウンをバトルゾーンに出した時、カードを１枚引いてもよい。"
+}

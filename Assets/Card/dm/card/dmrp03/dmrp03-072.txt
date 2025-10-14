@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp03-072",
+  "PackNo": "dmrp03",
+  "CardName": "龍装者ダクマ65号(DMRP0372/93)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ドラゴンギルド/マフィ・ギャング",
+  "Text": "このクリーチャーがバトルゾーンに出た時、またはバトルゾーンを離れた時、相手は自身の手札を１枚選び、捨てる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12b-102",
+  "PackNo": "dmx12b",
+  "CardName": "緊縛の影バインド・シャドウ(DMX12102/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "ゴースト",
+  "Text": "このクリーチャーはタップしてバトルゾーンに置かれる。闇のクリーチャーはタップしてバトルゾーンに置かれる。"
+}

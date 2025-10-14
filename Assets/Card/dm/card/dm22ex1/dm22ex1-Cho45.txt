@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-Cho45",
+  "PackNo": "dm22ex1",
+  "CardName": "アクア・ベララー(DM22EX1超45/超50)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "自分の他のクリーチャーが出た時、いずれかのプレイヤーの山札の上から１枚目を見る。そのカードを持ち主の山札の下に置いてもよい。"
+}

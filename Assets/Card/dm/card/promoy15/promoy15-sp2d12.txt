@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-sp2d12",
+  "PackNo": "promoy15",
+  "CardName": "霊騎幻獣チクタク・キューン(DMCOROCOROY1512/13)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ドリームメイト/アーク・セラフィム",
+  "Text": ""
+}

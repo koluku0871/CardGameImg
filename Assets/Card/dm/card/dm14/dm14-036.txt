@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-036",
+  "PackNo": "dm14",
+  "CardName": "結界するブロークン・ホーン(DM1436/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ホーン・ビースト",
+  "Text": "水または闇の呪文を唱える時、支払うコストは２多くなる。"
+}

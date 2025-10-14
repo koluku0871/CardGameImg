@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-122",
+  "PackNo": "dmex17",
+  "CardName": "堕魔ドゥザイコGR(DMEX17122/138)",
+  "CardType": "GRクリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング/魔導具",
+  "Text": "このカードは、２枚より多く超GRに入れることができる。"
+}

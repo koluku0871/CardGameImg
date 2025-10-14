@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-025",
+  "PackNo": "dm14",
+  "CardName": "外道秘宝ラングル(DM1425/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "パンドラボックス",
+  "Text": "相手は、自分自身の墓地にある自然または光の呪文と同じ名前の呪文を唱えることはできない。"
+}

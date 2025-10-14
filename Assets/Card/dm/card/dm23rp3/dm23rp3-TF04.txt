@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp3-TF04",
+  "PackNo": "dm23rp3",
+  "CardName": "トレジャー・マップ(DM23RP3TF4/TF10)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を見る。その中から自然のクリーチャーを１体、相手に見せてから手札に加えてもよい。残りを好きな順序で山札の下に置く。"
+}

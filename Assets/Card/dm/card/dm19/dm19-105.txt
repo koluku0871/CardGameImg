@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm19-105",
+  "PackNo": "dm19",
+  "CardName": "スライス・オニオン(DM19105/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ワイルド・ベジーズ",
+  "Text": "このクリーチャーのパワーは、バトルゾーンにある自分の他の《スライス・オニオン》１体につき+1000される。"
+}

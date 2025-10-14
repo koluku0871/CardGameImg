@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-089",
+  "PackNo": "promoy17",
+  "CardName": "ジョラゴン・リロード(DMPROMOY17P89/Y17)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "ジョーカーズ",
+  "Text": "カードを１枚引き、その後、自分の手札を１枚捨てる。"
+}

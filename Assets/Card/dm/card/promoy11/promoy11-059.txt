@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-059",
+  "PackNo": "promoy11",
+  "CardName": "「頂」の使者ゴールデンＫ(DMPROMOY11P59/Y11)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "8",
+  "CardSubType": "8000",
+  "CardCategory": "ヒューマノイド/ハンター/エイリアン",
+  "Text": "自分のゼニスの召喚コストを最大３少なくしてもよい。W・ブレイカー（このクリーチャーはシールドを２枚ブレイクする）"
+}

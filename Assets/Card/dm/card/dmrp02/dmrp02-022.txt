@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-022",
+  "PackNo": "dmrp02",
+  "CardName": "狂気と凶器の墓場(DMRP0222/93)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から２枚を墓地に置く。その後、コスト６以下の進化ではないクリーチャーを１体、自分の墓地からバトルゾーンに出す。"
+}

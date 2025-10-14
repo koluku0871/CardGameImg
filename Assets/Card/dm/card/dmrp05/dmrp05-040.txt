@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-040",
+  "PackNo": "dmrp05",
+  "CardName": "貝獣ギューホ(DMRP0540/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ムートピア",
+  "Text": "自分が呪文を唱えた時、相手のクリーチャーを１体選ぶ。次の自分のターンのはじめまで、そのクリーチャーは攻撃もブロックもできない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp3-070",
+  "PackNo": "dm24rp3",
+  "CardName": "ダック・アヒッチ(DM24RP370/76)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "4000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "コストが異なる自分のエレメントが３つ以上なければ、このクリーチャーは攻撃できない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex18-s08",
+  "PackNo": "dmex18",
+  "CardName": "凶鬼03号ガシャゴズラ(DMEX18S8/S15)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "3000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "このクリーチャーが出た時、コスト３以下の進化ではないクリーチャーを３体まで、自分の墓地から出す。自分のクリーチャーすべてに「スレイヤー」を与える。"
+}

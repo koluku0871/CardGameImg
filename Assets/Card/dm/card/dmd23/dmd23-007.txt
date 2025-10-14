@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd23-007",
+  "PackNo": "dmd23",
+  "CardName": "白騎士の霊騎ラジューヌ(DMD237/12)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "アーク・セラフィム",
+  "Text": "自分の光の進化クリーチャーの召喚コストを１少なくしてもよい。ただし、コストは０以下にならない。"
+}

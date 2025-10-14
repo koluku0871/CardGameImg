@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd4-054",
+  "PackNo": "dm23bd4",
+  "CardName": "爆流奥義紅蓮NEXTREME(DM23BD454/60)",
+  "CardType": "呪文",
+  "Element": "火/自然",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "ドラゴン",
+  "Text": "自分の山札の上から１枚目をマナゾーンに置く。コストの合計が、自分のマナゾーンにあるドラゴンの数以下になるよう、相手のクリーチャーを２体まで選び、破壊する。"
+}

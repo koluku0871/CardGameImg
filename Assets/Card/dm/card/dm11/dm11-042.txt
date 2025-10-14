@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm11-042",
+  "PackNo": "dm11",
+  "CardName": "タイム・スカウト(DM1142/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "マーフォーク",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手の山札の上から１枚目を見る。その後、それを元に戻す。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp15-058",
+  "PackNo": "dmrp15",
+  "CardName": "貴不の鎖マガタイル(DMRP1558/95)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5500",
+  "CardCategory": "イニシエート/暴拳王国",
+  "Text": "アバレチェーン：自分のクリーチャーが攻撃する時、それがこのターン最初の攻撃なら、このターンの終わりにそのクリーチャーをアンタップする。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm36-084",
+  "PackNo": "dm36",
+  "CardName": "チョウチン・クラスター(DM3684/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "サイバー・クラスター",
+  "Text": ""
+}

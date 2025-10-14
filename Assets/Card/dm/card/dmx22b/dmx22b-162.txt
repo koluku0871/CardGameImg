@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-162",
+  "PackNo": "dmx22b",
+  "CardName": "パラダイス・アロマ(DMX22162/？？？)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "G・ゼロ―バトルゾーンにサイバーロードがあれば、このクリーチャーをコストを支払わずに召喚してもよい。"
+}

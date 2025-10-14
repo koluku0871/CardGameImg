@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp15-074",
+  "PackNo": "dmrp15",
+  "CardName": "無慈悲な取り立て(DMRP1574/95)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のクリーチャーを１体破壊する。自分のシールドを１つ、墓地に置く。"
+}

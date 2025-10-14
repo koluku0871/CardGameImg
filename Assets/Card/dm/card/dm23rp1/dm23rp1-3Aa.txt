@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp1-3Aa",
+  "PackNo": "dm23rp1",
+  "CardName": "der'ZenMondo/♪必殺でつわものどもが夢の跡(DM23RP13A/20)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "マジック・コマンド",
+  "Text": "このクリーチャーが出た時、相手のエレメントを１つ選び、持ち主の手札に戻す。"
+}

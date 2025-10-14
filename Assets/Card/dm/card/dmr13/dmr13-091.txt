@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-091",
+  "PackNo": "dmr13",
+  "CardName": "チューシャ・ジューシャ(DMR1391/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ファンキー・ナイトメア",
+  "Text": "このクリーチャーが破壊された時、他のクリーチャーを１体、自分の墓地から手札に戻してもよい。"
+}

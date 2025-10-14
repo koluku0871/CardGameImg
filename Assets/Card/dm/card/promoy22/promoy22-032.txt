@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy22-032",
+  "PackNo": "promoy22",
+  "CardName": "キユリのASMラジオ(DMPROMOY22P32/Y22)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を見る。その中から、コスト３以下のクリーチャーを２体まで出す。残りを好きな順番で山札の下に置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22bd2-011a",
+  "PackNo": "dm22bd2",
+  "CardName": "機術士ディール/「本日のラッキーナンバー！」(DM22BD211/17)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "マジック・コマンド",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、数字を１つ選ぶ。その数字と同じコストの相手のクリーチャーをすべて、持ち主の手札に戻す。"
+}

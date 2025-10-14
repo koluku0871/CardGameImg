@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp13-065",
+  "PackNo": "dmrp13",
+  "CardName": "背水の野獣カメハラ(DMRP1365/95)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ムートピア",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）"
+}

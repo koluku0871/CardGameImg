@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm32-052",
+  "PackNo": "dm32",
+  "CardName": "アクア・エボリューター(DM3252/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "自分の水の進化クリーチャーを召喚するコストを１少なくしてもよい。ただし、コストは１より少なくならない。"
+}

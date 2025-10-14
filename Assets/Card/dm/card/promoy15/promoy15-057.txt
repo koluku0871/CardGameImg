@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-057",
+  "PackNo": "promoy15",
+  "CardName": "スパイラル・ゲート(DMPROMOY15P57/Y15)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてよい）クリーチャーを１体選び、持ち主の手札に戻す。"
+}

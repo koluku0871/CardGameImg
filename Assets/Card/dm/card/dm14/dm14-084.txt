@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-084",
+  "PackNo": "dm14",
+  "CardName": "ワープ・ライフル(DM1484/110)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにあるクロスギアを１枚選び、持ち主の手札に戻す。そのクロスギアをクロスしていたクリーチャーも持ち主の手札に戻す。"
+}

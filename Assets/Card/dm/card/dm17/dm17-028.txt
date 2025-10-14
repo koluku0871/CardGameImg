@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm17-028",
+  "PackNo": "dm17",
+  "CardName": "デンデン・パーカッション(DM1728/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ガーゴイル",
+  "Text": "相手の呪文の効果でこのクリーチャーがバトルゾーンから離れる時、バトルゾーンから離れずにとどまる。"
+}

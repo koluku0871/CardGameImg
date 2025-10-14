@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp2-TF4",
+  "PackNo": "dm22rp2",
+  "CardName": "灼熱の闘志テスタ・ロッサ(DM22RP2TF4/TF20)",
+  "CardType": "クリーチャー",
+  "Element": "水/火",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジMAX",
+  "Text": "このクリーチャーが出た時、カードを２枚まで引く。その後、こうして引いた枚数と同じ数、自分の手札を捨てる。"
+}

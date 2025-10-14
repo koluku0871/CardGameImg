@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd24-025",
+  "PackNo": "dmd24",
+  "CardName": "ガンヴィート・ブラスター(DMD2425/37)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のクリーチャーを１体破壊する。相手は自身の手札を２枚選んで捨てる。"
+}

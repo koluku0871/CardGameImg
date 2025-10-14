@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm09-s02",
+  "PackNo": "dm09",
+  "CardName": "アクア・マスター(DM9S2/S5)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "4000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "このクリーチャーが相手プレイヤーを攻撃してブロックされなかったとき、相手のシールドを１枚選び、表向きにしてプレイする。"
+}

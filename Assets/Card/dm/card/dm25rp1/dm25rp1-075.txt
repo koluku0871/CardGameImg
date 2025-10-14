@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp1-075",
+  "PackNo": "dm25rp1",
+  "CardName": "BARUGA-猿蒸86(DM25RP175/77)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "8000",
+  "CardCategory": "アース・ドラゴン/テクノ・サムライ",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）このクリーチャーが出た時、自分の他のドラゴンがなければ、このクリーチャーをマナゾーンに置く。"
+}

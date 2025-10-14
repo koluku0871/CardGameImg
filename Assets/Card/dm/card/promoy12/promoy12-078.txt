@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy12-078",
+  "PackNo": "promoy12",
+  "CardName": "無頼勇騎タイガ(DMPROMOY12P78/Y12)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド/ビーストフォーク",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

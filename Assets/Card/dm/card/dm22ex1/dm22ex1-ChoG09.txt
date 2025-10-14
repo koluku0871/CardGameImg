@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-ChoG09",
+  "PackNo": "dm22ex1",
+  "CardName": "ボルメテウス・サファイア・ドラゴン(DM22EX1超G9/超G10)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "10",
+  "CardSubType": "11000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "スピードアタッカーパワーアタッカー+3000T・ブレイカーこのクリーチャーがシールドをブレイクする時、相手はそのシールドを手札に加えるかわりに墓地に置く。"
+}

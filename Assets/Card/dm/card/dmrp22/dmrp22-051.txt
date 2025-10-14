@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp22-051",
+  "PackNo": "dmrp22",
+  "CardName": "ピカピカ・ジョーカーズ(DMRP2251/76)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "ジョーカーズ",
+  "Text": "自分の山札の上から４枚を見る。その中からタマシードを１枚相手に見せ、手札に加えてもよい。残りを好きな順序で山札の下に置く。"
+}

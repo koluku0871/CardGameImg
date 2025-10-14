@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp17-084",
+  "PackNo": "dmrp17",
+  "CardName": "U・S・A・BOX(DMRP1784/95)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー/レクスターズ",
+  "Text": "シンカパワー：このクリーチャーが進化する時、このターン、バトル中、このクリーチャーのパワーを+2000する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx14-011",
+  "PackNo": "dmx14",
+  "CardName": "転々のサトリラシャ(DMX1411/84)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "-",
+  "Cost": "1",
+  "CardSubType": "500",
+  "CardCategory": "オラクル",
+  "Text": "このクリーチャーをバトルゾーンに出した時、バトルゾーンにある無色ではないクリーチャーをすべてタップする。"
+}

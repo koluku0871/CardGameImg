@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22rp1-046",
+  "PackNo": "dm22rp1",
+  "CardName": "マルルの炎杖(DM22RP146/74)",
+  "CardType": "タマシード",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このタマシードが出た時、カードを１枚引く。セイバー：ドラゴン（自分のドラゴンが破壊される時、このタマシードをかわりに破壊してもよい）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp08-075",
+  "PackNo": "dmrp08",
+  "CardName": "チキン・マトン(DMRP0875/95)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ファンキー・ナイトメア",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手のコスト１のクリーチャーを１体破壊する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp17-031",
+  "PackNo": "dmrp17",
+  "CardName": "Disタルー(DMRP1731/95)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "ジャスティス・オーブ/ディスタス",
+  "Text": "このクリーチャーが出た時、カードを１枚引く。シールド・セイバー（自分のシールドがブレイクされる時、かわりにこのクリーチャーを破壊してもよい）"
+}

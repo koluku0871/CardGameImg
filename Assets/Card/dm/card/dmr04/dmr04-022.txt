@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr04-022",
+  "PackNo": "dmr04",
+  "CardName": "サイバー・S・リエス(DMR0422/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "サイバー・コマンド/エイリアン",
+  "Text": "自分の多色クリーチャーをバトルゾーンに出した時、カードを１枚引いてもよい。"
+}

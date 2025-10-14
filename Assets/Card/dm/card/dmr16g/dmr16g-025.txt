@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16g-025",
+  "PackNo": "dmr16g",
+  "CardName": "グーグー・ブーブー(DMR16極25/54)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "5000",
+  "CardCategory": "ファンキー・ナイトメア",
+  "Text": "自分の墓地にクリーチャーが５体以上なければ、このクリーチャーは攻撃できない。"
+}

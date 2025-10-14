@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy11-004",
+  "PackNo": "promoy11",
+  "CardName": "心機一転！云鬼バケル(DMPROMOY11P4/Y11)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド/ハンター/エイリアン",
+  "Text": "このクリーチャーが破壊された時、自分の山札を見る。その中からハンターを１体選び、相手に見せてから自分の手札に加えてもよい。その後、山札をシャッフルする。"
+}

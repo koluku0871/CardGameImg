@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm04-049",
+  "PackNo": "dm04",
+  "CardName": "悪魔の契約(DM449/55)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のマナゾーンから好きな枚数のカードを選び、自分の墓地に置く。その後、その枚数と同じ数のカードを引く。"
+}

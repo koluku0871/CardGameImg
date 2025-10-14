@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx20-036",
+  "PackNo": "dmx20",
+  "CardName": "雷鳴の守護者ミスト・リエス(DMX2036/68)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "ガーディアン",
+  "Text": "他のクリーチャーがバトルゾーンに出た時、カードを１枚引いてもよい。"
+}

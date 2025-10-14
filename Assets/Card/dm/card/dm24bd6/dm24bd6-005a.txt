@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24bd6-005a",
+  "PackNo": "dm24bd6",
+  "CardName": "シダン教皇バラモン/「我が言葉のみを信じるのだ！」(DM24BD65/60)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "5500",
+  "CardCategory": "オラクル・セレス",
+  "Text": "ブロッカーこのクリーチャーが出た時、相手の手札が自分のより多ければ、同じ枚数になるまでカードを引く。"
+}

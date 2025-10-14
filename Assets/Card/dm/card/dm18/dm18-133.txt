@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-133",
+  "PackNo": "dm18",
+  "CardName": "白銀の牙(DM18133/140)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ビーストフォーク",
+  "Text": ""
+}

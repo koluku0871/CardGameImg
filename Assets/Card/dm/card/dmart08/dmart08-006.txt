@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmart08-006",
+  "PackNo": "dmart08",
+  "CardName": "地龍神の魔陣(DMART086/6)",
+  "CardType": "呪文",
+  "Element": "水/自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライク自分の山札の上から３枚を見る。そのうちの１枚を手札に加えるかマナゾーンに置き、残りを好きな順序で山札の下に置く。"
+}

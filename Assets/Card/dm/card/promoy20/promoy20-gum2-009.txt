@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy20-gum2-009",
+  "PackNo": "promoy20",
+  "CardName": "封魔レラージェス(DMGUM29/10)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "グランド・デビル/ナイト",
+  "Text": ""
+}

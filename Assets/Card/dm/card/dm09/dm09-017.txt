@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm09-017",
+  "PackNo": "dm09",
+  "CardName": "サウザンド・スピア(DM917/55)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "バトルゾーンにあるパワー4000以下のクリーチャーをすべて持ち主の墓地に置く。"
+}

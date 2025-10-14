@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex4-PR006",
+  "PackNo": "dm24ex4",
+  "CardName": "機怪人形ガチャック2(DM24EX4PR6/PR60)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "2000",
+  "CardCategory": "デスパペット",
+  "Text": "S・トリガーこのクリーチャーが出た時、相手のアンタップしているクリーチャーを１体選び、破壊する。その後、選んだクリーチャー以下のコストのクリーチャーを１体、自分の墓地から出す。"
+}

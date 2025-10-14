@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-279",
+  "PackNo": "dmex08",
+  "CardName": "フォース・アゲイン(DMEX08279/???)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー自分のクリーチャーを１体破壊する。その後、そのクリーチャーを自分の墓地からバトルゾーンに出す。"
+}

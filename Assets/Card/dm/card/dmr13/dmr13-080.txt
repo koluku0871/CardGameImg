@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-080",
+  "PackNo": "dmr13",
+  "CardName": "龍素記号Puフィボナッチ(DMR1380/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "クリスタル・コマンド・ドラゴン",
+  "Text": "自分が呪文を唱えた時、そのターン、このクリーチャーのパワーは+4000され、「W・ブレイカー」を得る。"
+}

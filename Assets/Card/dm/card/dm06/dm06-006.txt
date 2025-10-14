@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm06-006",
+  "PackNo": "dm06",
+  "CardName": "インビンシブル・アビス(DM66/110)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "13",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手は、バトルゾーンにある自分自身のクリーチャーすべてを持ち主の墓地に置く。"
+}

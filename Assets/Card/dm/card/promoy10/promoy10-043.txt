@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy10-043",
+  "PackNo": "promoy10",
+  "CardName": "青銅の鎧(DMPROMOY10P43/Y10)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分の山札の上から１枚目をマナゾーンに置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd10-017",
+  "PackNo": "dmsd10",
+  "CardName": "越境の意志ドナート(DMSD1017/19)",
+  "CardType": "GRクリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2500",
+  "CardCategory": "メタリカ/ワンダフォース",
+  "Text": "このカードは、２枚より多く超GRに入れることができる。（ゲーム開始時、GRクリーチャーは山札には含めず、自分の超GRに置き、バトルゾーン以外のゾーンに行った場合、超GRの一番下に戻す）"
+}

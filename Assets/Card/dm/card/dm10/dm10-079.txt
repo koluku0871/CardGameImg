@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-079",
+  "PackNo": "dm10",
+  "CardName": "エレキチューブ・マンタ(DM1079/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "1000",
+  "CardCategory": "ゲル・フィッシュ",
+  "Text": "自分の光と闇のクリーチャーはブロックされない。"
+}

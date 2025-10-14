@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd08-a-004a",
+  "PackNo": "dmbd08",
+  "CardName": "ドンド・ラフーイ/ネオン・ジオング(DMBD08-a4/13)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "グランセクト",
+  "Text": "このクリーチャーがバトルゾーンに出た時、各プレイヤーは自身のクリーチャーを１体ずつ選び、マナゾーンに置く。"
+}

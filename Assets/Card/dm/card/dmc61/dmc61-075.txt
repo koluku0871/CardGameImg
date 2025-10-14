@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc61-075",
+  "PackNo": "dmc61",
+  "CardName": "ブラッディ・ドラグーン(DMC6175/94)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "ティラノ・ドレイク",
+  "Text": "ブロッカーこのクリーチャーは攻撃することができない。このクリーチャーがバトルする時、バトルの後、このクリーチャーを破壊する。"
+}

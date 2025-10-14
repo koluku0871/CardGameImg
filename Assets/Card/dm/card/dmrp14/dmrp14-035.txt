@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-035",
+  "PackNo": "dmrp14",
+  "CardName": "ワナビーワラビー(DMRP1435/95)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "トリックス/チームウェイブ",
+  "Text": "相手のコスト４以下のクリーチャーが、手札以外のどこからでもバトルゾーンに出る時、相手はかわりにそのクリーチャーを手札に加える。"
+}

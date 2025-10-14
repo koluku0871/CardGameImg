@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx16-065",
+  "PackNo": "dmx16",
+  "CardName": "薫風の面ニャス(DMX1665/84)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ビーストフォーク號",
+  "Text": "自分のマナゾーンにあるカードを、すべての文明のカードとして扱う。"
+}

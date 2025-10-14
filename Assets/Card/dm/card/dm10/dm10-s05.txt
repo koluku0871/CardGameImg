@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-s05",
+  "PackNo": "dm10",
+  "CardName": "コアクラッシュ・リザード(DM10S5/S10)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "メルト・ウォリアー",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手のシールドを１枚選び、持ち主の墓地に置く。(その「S・トリガー」は使えない)"
+}

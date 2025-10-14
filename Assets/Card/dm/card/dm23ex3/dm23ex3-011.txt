@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex3-011",
+  "PackNo": "dm23ex3",
+  "CardName": "水晶転生(DM23EX311/74)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガーエレメントを１つ選ぶ。その持ち主はそれを山札に加えてシャッフルし、その後、自身の山札の上から１枚目を表向きにする。それがエレメントなら出し、そうでなければ山札の下に置く。"
+}

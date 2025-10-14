@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-075",
+  "PackNo": "dm01",
+  "CardName": "予言者リュゾル(DM175/110)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ライトブリンガー",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-038",
+  "PackNo": "promoy17",
+  "CardName": "ヘブンズ・フォース(DMPROMOY17P38/Y17)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）コストの合計が４以下になるように、好きな数の進化ではないクリーチャーを自分の手札からバトルゾーンに出す。"
+}

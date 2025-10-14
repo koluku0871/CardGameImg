@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp1-18B",
+  "PackNo": "dm23rp1",
+  "CardName": "破壊兵タクヤ(DM23RP118B/22)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ヒューマノイド",
+  "Text": "相手がこのターンで２枚目以降のカードをマナゾーンに置いた時、相手は自身のクリーチャー１体または自身のマナゾーンにあるカードを１枚選び、墓地に置く。"
+}

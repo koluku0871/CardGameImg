@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-Cho32",
+  "PackNo": "dmex17",
+  "CardName": "ジョジョジョ・ジョーカーズ(DMEX17超32/超40)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "ジョーカーズ",
+  "Text": "自分の山札の上から４枚を見る。その中からジョーカーズ・クリーチャーを１体、相手に見せてから手札に加えてもよい。残りを好きな順序で自分の山札の下に置く。"
+}

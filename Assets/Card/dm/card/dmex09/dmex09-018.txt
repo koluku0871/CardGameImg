@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex09-018",
+  "PackNo": "dmex09",
+  "CardName": "BUTAA！チャットBB(DMEX0918/42)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "10",
+  "CardSubType": "24000",
+  "CardCategory": "トリックス/チームウェイブ",
+  "Text": "ワールド・ブレイカー（このクリーチャーは相手のシールドをすべてブレイクする）"
+}

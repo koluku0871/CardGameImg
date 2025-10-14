@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy14-001",
+  "PackNo": "promoy14",
+  "CardName": "ムテキ・バトラゴン(DMPROMOY14P1/Y14)",
+  "CardType": "進化クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "9000",
+  "CardCategory": "ガイアール・コマンド・ドラゴン",
+  "Text": "進化-自分の火のクリーチャー１体の上に置く。W・ブレイカー（このクリーチャーはシールドを２枚ブレイクする）自分の進化クリーチャーは攻撃されない。"
+}

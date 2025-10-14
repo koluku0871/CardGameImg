@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr01-018",
+  "PackNo": "dmr01",
+  "CardName": "ルナ・ヘドウィック(DMR0118/110)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・ムーン",
+  "Text": "S・トリガーブロッカーこのクリーチャーは攻撃することができない。このクリーチャーをバトルゾーンに出した時、カードを１枚引く。"
+}

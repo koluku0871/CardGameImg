@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd02-006",
+  "PackNo": "dmsd02",
+  "CardName": "奇石プラステ(DMSD026/12)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "メタリカ",
+  "Text": "ラビリンス：自分のシールドの数が相手より多ければ、このクリーチャーのパワーを+4000する。"
+}

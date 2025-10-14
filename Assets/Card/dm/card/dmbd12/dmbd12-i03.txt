@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd12-i03",
+  "PackNo": "dmbd12",
+  "CardName": "死神アトミック・デストロイヤー(DMBD12I3/I6)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のクリーチャーを１体選ぶ。そのクリーチャーに含まれるカード１枚につき、相手は自身のクリーチャーを１体選んで破壊する。"
+}

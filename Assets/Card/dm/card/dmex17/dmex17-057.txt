@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-057",
+  "PackNo": "dmex17",
+  "CardName": "凶鬼67号アゴクイ(DMEX1757/138)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "自分のクリーチャーがタップした時、それを破壊してもよい。そうしたら、カードを１枚引く。"
+}

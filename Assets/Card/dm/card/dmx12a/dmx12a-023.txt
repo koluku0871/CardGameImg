@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx12a-023",
+  "PackNo": "dmx12a",
+  "CardName": "スーパー獄門スマッシュ(DMX1223/38)",
+  "CardType": "呪文",
+  "Element": "闇/火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "マナゾーンに置く時、このカードはタップして置く。相手のクリーチャーを１体、破壊する。"
+}

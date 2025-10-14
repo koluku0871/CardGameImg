@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex19-056",
+  "PackNo": "dmex19",
+  "CardName": "ヤッタレマン(DMEX1956/68)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "自分のジョーカーズの召喚コストを１少なくする。ただし、コストは０以下にはならない。"
+}

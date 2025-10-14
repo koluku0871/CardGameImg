@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp14-087",
+  "PackNo": "dmrp14",
+  "CardName": "「機械の番犬」(DMRP1487/95)",
+  "CardType": "クリーチャー",
+  "Element": "光/水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2500",
+  "CardCategory": "メタリカ/チーム銀河",
+  "Text": "各ターン、はじめてカードが自分のシールドゾーンに置かれた時、カードを１枚引く。"
+}

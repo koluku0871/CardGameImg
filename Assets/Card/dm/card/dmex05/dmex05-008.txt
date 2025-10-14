@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex05-008",
+  "PackNo": "dmex05",
+  "CardName": "*/零幻トリムナー/*(DMEX058/87)",
+  "CardType": "オレガ・オーラ",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "0",
+  "CardCategory": "トリックス/デリートロン",
+  "Text": "S・トリガー（このオーラをシールドゾーンから手札に加える時、コストを支払わずにすぐ使ってもよい）"
+}

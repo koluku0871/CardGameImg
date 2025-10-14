@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx20-041",
+  "PackNo": "dmx20",
+  "CardName": "アクア・エボリューター(DMX2041/68)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "自分の水の進化クリーチャーの召喚コストを１少なくしてもよい。ただし、コストは０以下にならない。"
+}

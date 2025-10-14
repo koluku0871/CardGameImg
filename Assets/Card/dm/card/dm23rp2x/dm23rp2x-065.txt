@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp2x-065",
+  "PackNo": "dm23rp2x",
+  "CardName": "麗迭人形ジェニー(DM23RP2X65/74)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "デスパペット",
+  "Text": "このクリーチャーが出た時、相手は自身の手札を１枚選び、捨てる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-068",
+  "PackNo": "dm18",
+  "CardName": "腐食虫スワンプワーム(DM1868/140)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "7",
+  "CardSubType": "2000",
+  "CardCategory": "パラサイトワーム",
+  "Text": "このクリーチャーをバトルゾーンに出した時、相手は自分自身のクリーチャーを１体選び、破壊する。"
+}

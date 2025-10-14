@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy23-023",
+  "PackNo": "promoy23",
+  "CardName": "「伝説のサイバーパワー！」(DMPROMOY23P23/Y23)",
+  "CardType": "呪文",
+  "Element": "水/火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "美孔麗王国",
+  "Text": "ビビッドロー[wf02]（自分のターン中、攻撃の前にこの呪文をドローした時、表向きにしてもよい。そうしたら、このターンこの呪文を[wf02]支払って唱えてもよい）自分の手札を１枚捨て、カードを３枚引く。"
+}

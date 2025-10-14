@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-260a",
+  "PackNo": "dmex08",
+  "CardName": "STARSCREAM-ALTMODE-(DMEX08260/???)",
+  "CardType": "サイキック・クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ソニック・コマンド/エイリアン",
+  "Text": "スピードアタッカーこのクリーチャーが攻撃する時、相手とガチンコ・ジャッジする。自分が勝ったら、このクリーチャーを《STARSCREAM-BOTMODE-》側に裏返す。（ガチンコ・ジャッジ：各プレイヤーは自身の山札の上から１枚目を見せ、それを一番下に置く。そのカードのコストが相手以上であれば、自分の勝ちとする）"
+}

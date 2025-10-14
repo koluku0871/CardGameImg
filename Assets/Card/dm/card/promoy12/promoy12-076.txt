@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy12-076",
+  "PackNo": "promoy12",
+  "CardName": "コッコ・ルピア(DMPROMOY12P76/Y12)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "自分のドラゴンの召喚コストを２少なくする。ただし、コストは２より少なくならない。"
+}

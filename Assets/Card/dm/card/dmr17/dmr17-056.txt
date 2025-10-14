@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr17-056",
+  "PackNo": "dmr17",
+  "CardName": "獣軍隊ランキー(DMR1756/94)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク號/侵略者",
+  "Text": "このクリーチャーを自分のマナゾーンから召喚してもよい。"
+}

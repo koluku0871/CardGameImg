@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp2-Sec13",
+  "PackNo": "dm25rp2",
+  "CardName": "～凍てついた時間～(DM25RP2㊙13/㊙24)",
+  "CardType": "G-NEOクリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "リキッド・ピープル/スチーム・ナイト",
+  "Text": "G-NEO進化：光、水、または闇のクリーチャー１体の上に置いてもよい。ブロッカー相手のクリーチャーが召喚以外の方法で出た時、ターンの残りをとばしてもよい。"
+}

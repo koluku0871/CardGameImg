@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex3-TF01",
+  "PackNo": "dm24ex3",
+  "CardName": "ジャッジCREWニー(DM24EX3TF1/TF46)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "すべてのプレイヤーは、クリーチャーで攻撃する以外の方法でゲームに勝たず、負けない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-080",
+  "PackNo": "dmrp01",
+  "CardName": "爆裂マウナロア(DMRP0180/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "フレイム・コマンド",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手のパワー4000以下のクリーチャーを１体破壊する。"
+}

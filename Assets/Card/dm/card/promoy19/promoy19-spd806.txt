@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy19-spd806",
+  "PackNo": "promoy19",
+  "CardName": "デス・ハープ(DMSPDECK86/11)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "ガーゴイル",
+  "Text": "S・トリガー（このクリーチャーをシールドゾーンから手札に加える時、コストを支払わずにすぐ召喚してもよい）スレイヤー（このクリーチャーがバトルする時、バトルの後、相手クリーチャーを破壊する）"
+}

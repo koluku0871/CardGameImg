@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc42-014",
+  "PackNo": "dmc42",
+  "CardName": "インビンシブル・フォートレス(DMC4214/90)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "13",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のシールドを裏向きのまま３枚まで選び、持ち主の墓地に置く。"
+}

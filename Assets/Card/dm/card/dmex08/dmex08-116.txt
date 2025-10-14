@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-116",
+  "PackNo": "dmex08",
+  "CardName": "夢幻の影ダーク・バンディット(DMEX08116/???)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ゴースト",
+  "Text": "このクリーチャーが破壊される時、墓地に置くかわりに手札に戻してもよい。そうしたら、自分の手札を１枚、墓地に置く。"
+}

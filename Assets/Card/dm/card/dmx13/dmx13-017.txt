@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx13-017",
+  "PackNo": "dmx13",
+  "CardName": "空腹の超人(DMX1317/36)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ジャイアント/アンノイズ",
+  "Text": "無色クリーチャーを自分のマナゾーンから召喚してもよい。"
+}

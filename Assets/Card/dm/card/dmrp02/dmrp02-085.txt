@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-085",
+  "PackNo": "dmrp02",
+  "CardName": "魔神兵ズゴーン(DMRP0285/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アーマロイド",
+  "Text": ""
+}

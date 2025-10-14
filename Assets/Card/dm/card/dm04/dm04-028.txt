@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm04-028",
+  "PackNo": "dm04",
+  "CardName": "屑男(DM428/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "ヘドリアン",
+  "Text": "このクリーチャーがバトルゾーンにある間、他のクリーチャーがバトルゾーンから墓地に置かれるたびに、カードを１枚引いてもよい。"
+}

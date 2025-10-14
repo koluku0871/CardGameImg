@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm04-050",
+  "PackNo": "dm04",
+  "CardName": "ピッピ・クッピー(DM450/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "このクリーチャーがバトルゾーンにある間、バトルゾーンにあるアーマード・ドラゴンすべてのパワーはそれぞれ+1000される。"
+}

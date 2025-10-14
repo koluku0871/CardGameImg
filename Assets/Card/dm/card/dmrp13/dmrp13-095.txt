@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp13-095",
+  "PackNo": "dmrp13",
+  "CardName": "ノー千休(DMRP1395/95)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ/チーム切札",
+  "Text": "このクリーチャーは攻撃されない。"
+}

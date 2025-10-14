@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr01-093",
+  "PackNo": "dmr01",
+  "CardName": "ヤミノヤギージョ(DMR0193/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ダーク・モンスター/ハンター",
+  "Text": ""
+}

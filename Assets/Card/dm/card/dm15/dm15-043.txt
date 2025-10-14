@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm15-043",
+  "PackNo": "dm15",
+  "CardName": "スパイラル・ランス(DM1543/55)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)バトルゾーンにあるクロスギアを１枚選び、持ち主の手札に戻す。"
+}

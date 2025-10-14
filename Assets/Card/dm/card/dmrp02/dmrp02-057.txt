@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-057",
+  "PackNo": "dmrp02",
+  "CardName": "Theチャー漢(DMRP0257/93)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）"
+}

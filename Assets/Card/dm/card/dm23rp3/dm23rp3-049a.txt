@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp3-049a",
+  "PackNo": "dm23rp3",
+  "CardName": "竹刀の超人/サイバー免許皆伝(DM23RP349/74)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ジャイアント",
+  "Text": "マッハファイター（このクリーチャーは、出たターンの間、タップまたはアンタップしているクリーチャーを攻撃できる）"
+}

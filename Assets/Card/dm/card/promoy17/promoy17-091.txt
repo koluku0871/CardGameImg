@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-091",
+  "PackNo": "promoy17",
+  "CardName": "ツクっちょ(DMPROMOY17P91/Y17)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "3000",
+  "CardCategory": "グランセクト",
+  "Text": "マッハファイター（このクリーチャーは、バトルゾーンに出たターンの間、タップまたはアンタップしているクリーチャーを攻撃できる）このクリーチャーは、相手プレイヤーを攻撃できない。"
+}

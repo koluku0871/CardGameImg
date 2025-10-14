@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp08-022",
+  "PackNo": "dmrp08",
+  "CardName": "堕魔ドゥベル(DMRP0822/95)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "マフィ・ギャング/魔導具",
+  "Text": "自分の魔導具クリーチャーを召喚した時または魔導具を持つ呪文を唱えた時、このクリーチャーを自分の墓地からバトルゾーンに出してもよい。"
+}

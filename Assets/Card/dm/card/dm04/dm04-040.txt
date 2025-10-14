@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm04-040",
+  "PackNo": "dm04",
+  "CardName": "ライト・ディフェンス(DM440/55)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のターンの終わりに、バトルゾーンにある自分のクリ―チャーをすべてアンタップする。"
+}

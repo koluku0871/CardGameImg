@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24bd5-034",
+  "PackNo": "dm24bd5",
+  "CardName": "フェアリー・シャワー(DM24BD534/60)",
+  "CardType": "呪文",
+  "Element": "水/自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー自分の山札の上から２枚を見る。そのうちの１枚を手札に加え、もう１枚をマナゾーンに置く。"
+}

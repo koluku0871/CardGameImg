@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm02-002",
+  "PackNo": "dm02",
+  "CardName": "プラズマ・チェイサー(DM22/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "4000",
+  "CardCategory": "ゲル・フィッシュ",
+  "Text": "このクリーチャーが攻撃するとき、バトルゾーンにある相手のクリーチャーと同じ枚数のカードを引いてよい。"
+}

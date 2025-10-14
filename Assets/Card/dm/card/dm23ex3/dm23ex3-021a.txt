@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex3-021a",
+  "PackNo": "dm23ex3",
+  "CardName": "連射のカルマユキメ/ショット・水晶チャージャー(DM23EX321/74)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "オラクル・セレス/ヒューマノイド",
+  "Text": "相手のクリーチャーが召喚以外の方法で出た時、そのクリーチャーを破壊する。"
+}

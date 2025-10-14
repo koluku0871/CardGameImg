@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm30-050",
+  "PackNo": "dm30",
+  "CardName": "幻獣炎舞(DM3050/55)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このターン、自分のクリーチャーがブロックされた時、このターンの終わりまでそのクリーチャーのパワーは+4000される。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-098",
+  "PackNo": "promoy16",
+  "CardName": "一番隊ザエッサ(DMPROMOY16P98/Y16)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ムートピア",
+  "Text": "自分のムートピアを召喚するコストを１少なくする。ただし、コストは０以下にならない。"
+}

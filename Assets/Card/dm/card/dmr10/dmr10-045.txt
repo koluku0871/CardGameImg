@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr10-045",
+  "PackNo": "dmr10",
+  "CardName": "巳年の強襲者コブラ(DMR1045/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2013",
+  "CardCategory": "アウトレイジ",
+  "Text": ""
+}

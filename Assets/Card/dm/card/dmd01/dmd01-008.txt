@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd01-008",
+  "PackNo": "dmd01",
+  "CardName": "凶戦士ブレイズ・クロー(DMD018/13)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "ドラゴノイド",
+  "Text": "このクリーチャーは、可能であれば毎ターン攻撃する。"
+}

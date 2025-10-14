@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmbd07-a-006a",
+  "PackNo": "dmbd07",
+  "CardName": "ガンバＧ/ガガン・ガン・ガガン(DMBD07-a6/14)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）このクリーチャーは、バトルゾーンに出たターンの間、相手プレイヤーを攻撃できる。"
+}

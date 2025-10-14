@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp18-090",
+  "PackNo": "dmrp18",
+  "CardName": "Disドーン(DMRP1890/95)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "12000",
+  "CardCategory": "ジャイアント/ディスタス",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３つブレイクする）バトルゾーンに自分のディスペクターがなければ、このクリーチャーは相手プレイヤーを攻撃できない。"
+}

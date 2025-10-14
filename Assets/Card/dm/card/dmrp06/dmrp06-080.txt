@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp06-080",
+  "PackNo": "dmrp06",
+  "CardName": "ポリスワン(DMRP0680/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手のアンタップしているクリーチャーを１体選ぶ。そのターン、自分の他のクリーチャーはそのクリーチャーを攻撃できる。"
+}

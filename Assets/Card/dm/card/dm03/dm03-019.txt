@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm03-019",
+  "PackNo": "dm03",
+  "CardName": "マボロシキリダケ(DM319/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "バルーン・マッシュルーム",
+  "Text": "このクリーチャーが攻撃するとき、自分の墓地から自然のカードを１枚選び、自分のマナゾーンに置いてよい。"
+}

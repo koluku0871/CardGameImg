@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm01-099",
+  "PackNo": "dm01",
+  "CardName": "職人ピコラ(DM199/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "2000",
+  "CardCategory": "マシン・イーター",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、自分のマナゾーンからカードを１枚選び、自分の墓地に置く。"
+}

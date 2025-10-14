@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr19-066",
+  "PackNo": "dmr19",
+  "CardName": "不死デッド(DMR1966/87)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "デーモン・コマンド/侵略者",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分の山札の上から４枚を墓地に置いてもよい。"
+}

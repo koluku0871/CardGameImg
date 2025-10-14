@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx10-053",
+  "PackNo": "dmx10",
+  "CardName": "ダーク・ルピア(DMX1053/56)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "自分のドラゴンが破壊された時、相手のクリーチャーを１体破壊してもよい。"
+}

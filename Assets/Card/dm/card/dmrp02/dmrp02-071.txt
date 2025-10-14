@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp02-071",
+  "PackNo": "dmrp02",
+  "CardName": "フォーマル・ハウト(DMRP0271/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ディープ・マリーン",
+  "Text": ""
+}

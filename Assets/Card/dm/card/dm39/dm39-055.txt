@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm39-055",
+  "PackNo": "dm39",
+  "CardName": "獅子妖精サンジ(DM3955/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "バトル中、このクリーチャーのパワーは+3000される。"
+}

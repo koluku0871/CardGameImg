@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm19-077",
+  "PackNo": "dm19",
+  "CardName": "霊騎マリクス(DM1977/110)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "アーク・セラフィム",
+  "Text": "このクリーチャーのパワーは、バトルゾーンにある自分の他のアーク・セラフィム１体につき+1000される。"
+}

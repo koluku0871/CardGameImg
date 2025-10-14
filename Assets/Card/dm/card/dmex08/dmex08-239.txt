@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-239",
+  "PackNo": "dmex08",
+  "CardName": "からみカズラ(DMEX08239/???)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ツリーフォーク",
+  "Text": "このクリーチャーが破壊された時、自分のマナゾーンに置く。"
+}

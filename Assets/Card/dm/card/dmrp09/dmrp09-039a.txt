@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp09-039a",
+  "PackNo": "dmrp09",
+  "CardName": "プロト・コア/暗黒の不法侵入(DMRP0939/102)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "トリックス/デリートロン",
+  "Text": "自分の呪文を唱えるコストまたはオーラを使うコストを最大２少なくする。ただし、コストは０以下にはならない。"
+}

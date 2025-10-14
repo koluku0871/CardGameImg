@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-097",
+  "PackNo": "dm10",
+  "CardName": "城神兵バガッシュ(DM1097/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "アーマロイド",
+  "Text": "攻撃中、このクリーチャーのパワーは、バトルゾーンにある自分の他のタップされているクリーチャー１体につき+1000される。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp15-080",
+  "PackNo": "dmrp15",
+  "CardName": "ひょうたん(DMRP1580/95)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "7",
+  "CardSubType": "13000",
+  "CardCategory": "グランセクト",
+  "Text": "T・ブレイカー（このクリーチャーはシールドを３つブレイクする）"
+}

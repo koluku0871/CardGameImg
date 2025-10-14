@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-006",
+  "PackNo": "dm18",
+  "CardName": "アクア・レンジャー(DM186/140)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "3000",
+  "CardCategory": "リキッド・ピープル",
+  "Text": "このクリーチャーはブロックされない。このクリーチャーが破壊される時、墓地に置くかわりに自分の手札に戻す。"
+}

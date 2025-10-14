@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-Cho26",
+  "PackNo": "dm22ex1",
+  "CardName": "ロイヤル・ドリアン(DM22EX1超26/超50)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "1000",
+  "CardCategory": "ワイルド・ベジーズ",
+  "Text": "S・トリガーこのクリーチャーが出た時、すべての進化クリーチャーの一番上のカードを、持ち主のマナゾーンに置く。"
+}

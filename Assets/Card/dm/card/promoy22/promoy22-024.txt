@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy22-024",
+  "PackNo": "promoy22",
+  "CardName": "レクタ・アイニー(DMPROMOY22P24/Y22)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "G・ゼロ：自分のドラゴンがあれば、このクリーチャーをコストを支払わずに召喚してもよい。"
+}

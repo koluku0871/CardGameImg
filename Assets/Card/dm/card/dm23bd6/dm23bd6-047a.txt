@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd6-047a",
+  "PackNo": "dm23bd6",
+  "CardName": "ドンド・ラフーイ/ネオン・ジオング(DM23BD647/60)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "グランセクト",
+  "Text": "このクリーチャーが出た時、各プレイヤーは自身のクリーチャーを１体ずつ選び、マナゾーンに置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy23-102a",
+  "PackNo": "promoy23",
+  "CardName": "ボルザード・スーパーヒーロー/超帝王タイム(DMPROMOY23P102/Y23)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "スピードアタッカーW・ブレイカーこのクリーチャーが攻撃する時、相手のコスト６以下のドラゴンではないエレメントを１つ選び、破壊してもよい。"
+}

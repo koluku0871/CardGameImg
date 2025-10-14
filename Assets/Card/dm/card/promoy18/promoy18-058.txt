@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy18-058",
+  "PackNo": "promoy18",
+  "CardName": "ゼッキョーすらい太(DMPROMOY18P58/Y18)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "-",
+  "Cost": "6",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "S・トリガー（このクリーチャーをシールドゾーンから手札に加える時、コストを支払わずにすぐ召喚してもよい）このクリーチャーがバトルゾーンに出た時、相手のクリーチャーを１体選び、持ち主の手札に戻す。"
+}

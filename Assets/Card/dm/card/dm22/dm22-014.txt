@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22-014",
+  "PackNo": "dm22",
+  "CardName": "連龍毒(DM2214/55)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "相手のクリーチャーを１体破壊する。その後、バトルゾーンにある自分のドラゴンまたはフェニックス１体につき、相手のクリーチャーを１体、追加で破壊する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy13-094",
+  "PackNo": "promoy13",
+  "CardName": "絶叫の影ガナル・スクリーム(DMPROMOY13P94/Y13)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "ゴースト/アンノイズ",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分の山札の上から４枚を墓地に置いてもよい。そうした場合、クリーチャーを１体、自分の墓地から手札に戻す。"
+}

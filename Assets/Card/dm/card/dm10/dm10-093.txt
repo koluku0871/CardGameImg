@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm10-093",
+  "PackNo": "dm10",
+  "CardName": "デス・スモーク(DM1093/110)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "タップされていない相手のクリーチャーを１体選び、破壊する。"
+}

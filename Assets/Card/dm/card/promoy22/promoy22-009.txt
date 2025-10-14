@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy22-009",
+  "PackNo": "promoy22",
+  "CardName": "赤い稲妻テスタ・ロッサ(DMPROMOY22P9/Y22)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジ",
+  "Text": "バトル中、このクリーチャーのパワーを+2000する。相手のターン中に、召喚以外の方法で相手のクリーチャーが出る時、相手はかわりにそのクリーチャーを墓地に置く。"
+}

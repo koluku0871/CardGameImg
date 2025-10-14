@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24bd6-039",
+  "PackNo": "dm24bd6",
+  "CardName": "支配のオラクルジュエル(DM24BD639/60)",
+  "CardType": "呪文",
+  "Element": "光/闇",
+  "CardRarity": "R",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー相手のアンタップしているクリーチャーを１体選び、破壊する。相手のクリーチャーをすべてタップする。"
+}

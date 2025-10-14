@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp07-068",
+  "PackNo": "dmrp07",
+  "CardName": "同じ釜の仲間ジーラス(DMRP0768/94)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "ムートピア",
+  "Text": "ブロッカー（このクリーチャーをタップして、相手クリーチャーの攻撃先をこのクリーチャーに変更してもよい）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm32-043",
+  "PackNo": "dm32",
+  "CardName": "黙示聖者ファル・レーゼ(DM3243/110)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ライトブリンガー/ガーディアン/オリジン",
+  "Text": "このクリーチャーをバトルゾーンに出した時、呪文を１枚、自分の墓地から手札に戻してもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr06-054",
+  "PackNo": "dmr06",
+  "CardName": "賭博結社シーノミーズ(DMR0654/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ワイルド・ベジーズ/エイリアン",
+  "Text": ""
+}

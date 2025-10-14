@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-s04",
+  "PackNo": "dmrp04m",
+  "CardName": "凶鬼07号ジャバランガ(DMRP04MS4/S7)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "マフィ・ギャング/デーモン・コマンド",
+  "Text": "W・ブレイカーこのクリーチャーまたは自分の他のクリーチャーが破壊された時、それよりコストが１だけ大きい闇のクリーチャーを１体、自分の墓地からバトルゾーンに出してもよい。"
+}

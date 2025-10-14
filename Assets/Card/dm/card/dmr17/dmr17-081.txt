@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr17-081",
+  "PackNo": "dmr17",
+  "CardName": "轟速ザ・レッド(DMR1781/94)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ソニック・コマンド/侵略者",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

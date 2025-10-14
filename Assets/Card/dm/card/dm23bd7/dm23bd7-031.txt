@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd7-031",
+  "PackNo": "dm23bd7",
+  "CardName": "アクアン(DM23BD731/60)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "サイバーロード",
+  "Text": "このクリーチャーが出た時、自分の山札の上から５枚を表向きにしてもよい。その中から光のカードと闇のカードをすべて手札に加え、残りを墓地に置く。"
+}

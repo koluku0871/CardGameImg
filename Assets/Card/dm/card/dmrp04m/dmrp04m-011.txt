@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp04m-011",
+  "PackNo": "dmrp04m",
+  "CardName": "神々の逆流(DMRP04M11/61)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "9",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "各プレイヤーは、自身のマナゾーンにあるカードをすべて手札に戻す。"
+}

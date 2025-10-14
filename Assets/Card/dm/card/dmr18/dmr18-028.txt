@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr18-028",
+  "PackNo": "dmr18",
+  "CardName": "知識の玉ロンロン(DMR1828/71)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "ジャスティス・オーブ",
+  "Text": "自分のコスト４以下のクリーチャーがバトルゾーンに出た時、カードを１枚引いてもよい。"
+}

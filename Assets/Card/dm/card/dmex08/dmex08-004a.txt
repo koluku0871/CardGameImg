@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-004a",
+  "PackNo": "dmex08",
+  "CardName": "蓮根の槌/番長大号令(DMEX084/???)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "ビーストフォーク/ハンター",
+  "Text": ""
+}

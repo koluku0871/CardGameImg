@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy18-071",
+  "PackNo": "promoy18",
+  "CardName": "龍素記号Bgニュートン専用パンツァー(DMPROMOY1871/Y18)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "クリスタル・コマンド・ドラゴン",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）相手がカードを引いた時、同じ枚数のカードを引いてもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex1-062",
+  "PackNo": "dm24ex1",
+  "CardName": "恋愛妖精アジサイ(DM24EX162/89)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "自分のスノーフェアリーが出た時、カードを１枚引いてもよい。このクリーチャーが破壊される時、墓地に置くかわりにマナゾーンに置く。"
+}

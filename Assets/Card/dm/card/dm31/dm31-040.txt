@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm31-040",
+  "PackNo": "dm31",
+  "CardName": "蒼狼アクア・ブレイド(DM3140/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "リキッド・ピープル/ナイト/サムライ",
+  "Text": ""
+}

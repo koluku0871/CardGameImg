@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm17-013",
+  "PackNo": "dm17",
+  "CardName": "ギガデウス(DM1713/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "キマイラ",
+  "Text": "相手の呪文の効果でこのクリーチャーがバトルゾーンから離れる時、バトルゾーンから離れずにとどまる。"
+}

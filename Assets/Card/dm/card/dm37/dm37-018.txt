@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm37-018",
+  "PackNo": "dm37",
+  "CardName": "緑神龍ガルザマグドラン(DM3718/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "7000",
+  "CardCategory": "アース・ドラゴン",
+  "Text": "W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)このクリーチャーは攻撃されない。"
+}

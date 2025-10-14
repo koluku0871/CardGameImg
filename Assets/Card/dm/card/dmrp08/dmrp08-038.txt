@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp08-038",
+  "PackNo": "dmrp08",
+  "CardName": "堕呪ルアグリ(DMRP0838/95)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "魔導具",
+  "Text": "このターン、自分のクリーチャー１体はブロックされず、相手がクリーチャーを選ぶ時、そのクリーチャーを選べない。"
+}

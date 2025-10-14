@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm17-012",
+  "PackNo": "dm17",
+  "CardName": "魔后メイガス(DM1712/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ダークロード",
+  "Text": "このクリーチャーをバトルゾーンに出した時、クリーチャーにクロスしてあるクロスギアをすべて、クリーチャーから外す。"
+}

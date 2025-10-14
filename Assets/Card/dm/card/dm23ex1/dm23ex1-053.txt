@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23ex1-053",
+  "PackNo": "dm23ex1",
+  "CardName": "プロジェクト・ゴッド(DM23EX153/84)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を墓地に置く。その中にゴッドがあり、自分のゴッドとリンクできるなら、そのカードを出してリンクしてもよい。"
+}

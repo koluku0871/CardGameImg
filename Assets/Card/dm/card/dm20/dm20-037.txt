@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm20-037",
+  "PackNo": "dm20",
+  "CardName": "反骨鉄拳バーニアン(DM2037/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "グレートメカオー",
+  "Text": "このクリーチャーのパワーは、バトルゾーンにある相手のクリーチャーの種族ひとつにつき+2000される。"
+}

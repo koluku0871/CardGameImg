@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex12-027",
+  "PackNo": "dmex12",
+  "CardName": "アポカリプス・デイ(DMEX1227/110)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）バトルゾーンにクリーチャーが６体以上あれば、それをすべて破壊する。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22-017",
+  "PackNo": "dm22",
+  "CardName": "ザ・ユニバース・ゲート(DM2217/55)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から３枚を表向きにする。その中にフェニックスがあれば、１体につき１ターン、このターンの後にもう一度自分のターンを行う。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp2x-073",
+  "PackNo": "dm23rp2x",
+  "CardName": "幕間の妖精(DM23RP2X73/74)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "6000",
+  "CardCategory": "ジャイアント・スノーフェアリー",
+  "Text": "このクリーチャーが相手プレイヤーを攻撃する時、このクリーチャーをマナゾーンに置く。"
+}

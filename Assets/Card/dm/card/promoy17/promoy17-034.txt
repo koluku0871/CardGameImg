@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy17-034",
+  "PackNo": "promoy17",
+  "CardName": "轟車“Ｇ-突”(DMPROMOY17P34/Y17)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "ビートジョッキー",
+  "Text": "パワーアタッカー+2000（攻撃中、このクリーチャーのパワーを+2000する）W・ブレイカーG・G・G：自分の手札が１枚以下でなければ、このクリーチャーは攻撃できない。"
+}

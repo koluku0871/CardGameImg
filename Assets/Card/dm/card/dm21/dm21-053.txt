@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm21-053",
+  "PackNo": "dm21",
+  "CardName": "パタパタ・バタフライ(DM2153/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ビークル・ビー",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm36-106",
+  "PackNo": "dm36",
+  "CardName": "マタタビ・ダケオ(DM36106/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ワイルド・ベジーズ",
+  "Text": "このクリーチャーのパワーは、バトルゾーンにある自分の他の(W・ソウル)クリーチャー１体につき+1000される。"
+}

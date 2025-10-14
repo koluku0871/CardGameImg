@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy4-024",
+  "PackNo": "promoy4",
+  "CardName": "レオパルド・グローリーソード(DMPROMOY4P24/Y4)",
+  "CardType": "クロスギア",
+  "Element": "自然",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "クロスギアこれをクロスしたクリーチャーに、好きな種族の進化クリーチャーを置いてもよい。このクロスギアに、好きな文明の進化クロスギアを置いてもよい。"
+}

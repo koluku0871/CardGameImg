@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy18-083",
+  "PackNo": "promoy18",
+  "CardName": "終末の時計ザ・クロック(DMPROMOY18P83/Y18)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "アウトレイジMAX",
+  "Text": "S・トリガー（このクリーチャーをシールドゾーンから手札に加える時、コストを支払わずにすぐ召喚してもよい）このクリーチャーがバトルゾーンに出た時、ターンの残りをとばす。（次のプレイヤーのターンをすぐに始める）"
+}

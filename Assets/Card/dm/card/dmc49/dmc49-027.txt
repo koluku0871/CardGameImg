@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc49-027",
+  "PackNo": "dmc49",
+  "CardName": "チッタ・ペロル(DMC4927/30)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "バトルゾーンにあるドラゴンはすべて、タップされていないクリーチャーを攻撃できる。"
+}

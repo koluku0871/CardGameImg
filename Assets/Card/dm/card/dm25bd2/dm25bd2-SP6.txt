@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25bd2-SP6",
+  "PackNo": "dm25bd2",
+  "CardName": "天翔と紋章の門(DM25BD2SP6/SP7)",
+  "CardType": "呪文",
+  "Element": "光/自然",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライク自分のクリーチャーを１体、タップしてマナゾーンに置く。その後、自分のマナゾーンにあるカードの枚数以下のコストのエンジェル・コマンド・クリーチャーを１体、自分のマナゾーンから出す。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsp01-036",
+  "PackNo": "dmsp01",
+  "CardName": "ムッシュ・メガネール(DMSP0136/48)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "1000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "各ターン、はじめてクリーチャーが攻撃する時、そのクリーチャーはシールドをさらに１つブレイクする。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc55-037",
+  "PackNo": "dmc55",
+  "CardName": "封魔妖スーパー・クズトレイン(DMC5537/84)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ヘドリアン/グランド・デビル",
+  "Text": "他のクリーチャーが破壊された時、カードを１枚引いてもよい。"
+}

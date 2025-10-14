@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp03-035",
+  "PackNo": "dmrp03",
+  "CardName": "貝獣ヒヨク(DMRP0335/93)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ムートピア",
+  "Text": "このカードを自分の手札から捨てる時、墓地に置くかわりに自分のNEOクリーチャー１体の下に置いてもよい。"
+}

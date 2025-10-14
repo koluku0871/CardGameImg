@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp05-051",
+  "PackNo": "dmrp05",
+  "CardName": "バッドドッグ・スクラッパー(DMRP0551/93)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）相手のクリーチャーを２体選び、バトルさせる。"
+}

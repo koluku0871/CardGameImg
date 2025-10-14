@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm03-040",
+  "PackNo": "dm03",
+  "CardName": "シュトラ(DM340/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "サイバーロード",
+  "Text": "このクリーチャーがバトルゾーンに出たとき、各プレイヤーは自分自身のマナゾーンからカードを１枚ずつ選び、それぞれの手札に戻す。"
+}

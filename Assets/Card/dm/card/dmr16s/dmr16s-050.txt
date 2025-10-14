@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr16s-050",
+  "PackNo": "dmr16s",
+  "CardName": "青銅目ブロンズザウルス(DMR16真50/54)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ジュラシック・コマンド・ドラゴン",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分の山札の上から１枚目をマナゾーンに置く。"
+}

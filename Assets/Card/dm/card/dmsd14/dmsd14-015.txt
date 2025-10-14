@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd14-015",
+  "PackNo": "dmsd14",
+  "CardName": "ノー千休(DMSD1415/15)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ジョーカーズ/チーム切札",
+  "Text": "このクリーチャーは攻撃されない。"
+}

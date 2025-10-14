@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm05-028",
+  "PackNo": "dm05",
+  "CardName": "角男(DM528/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "3000",
+  "CardCategory": "ヘドリアン",
+  "Text": "このクリーチャーがバトルゾーンにある間、自然のクリーチャーを召喚するコストと自然の呪文を唱えるコストは、それぞれ+１される。"
+}

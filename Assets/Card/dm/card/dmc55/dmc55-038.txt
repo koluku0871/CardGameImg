@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc55-038",
+  "PackNo": "dmc55",
+  "CardName": "デーモン・ハンド(DMC5538/84)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "R",
+  "Cost": "6",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー(この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい)相手のクリーチャーを１体破壊する。"
+}

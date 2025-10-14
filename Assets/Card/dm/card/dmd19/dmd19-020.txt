@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd19-020",
+  "PackNo": "dmd19",
+  "CardName": "虚構の影バトウ・ショルダー(DMD1920/22)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ゴースト",
+  "Text": "相手の呪文を唱えるコストは、相手の墓地にある呪文１枚につき１多くなる。"
+}

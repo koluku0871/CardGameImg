@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr10-047",
+  "PackNo": "dmr10",
+  "CardName": "奔々の信徒オシャマンベ(DMR1047/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "オラクル/スノーフェアリー",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２枚ブレイクする）"
+}

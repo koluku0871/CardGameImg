@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp3-SP2",
+  "PackNo": "dm24rp3",
+  "CardName": "邪眼教皇ロマノフⅡ世(DM24RP3SP2/SP5)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "8000",
+  "CardCategory": "ダークロード/ドラゴン・ゾンビ/ナイト",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、自分の山札の上から５枚を墓地に置く。その中から、コスト６以下の呪文を１枚、コストを支払わずに唱えてもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc64-038",
+  "PackNo": "dmc64",
+  "CardName": "氷牙フランツI世(DMC6438/42)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "サイバーロード/ナイト",
+  "Text": "自分の呪文を唱えるコストを１少なくしてもよい。ただし、コストは１より少なくならない。"
+}

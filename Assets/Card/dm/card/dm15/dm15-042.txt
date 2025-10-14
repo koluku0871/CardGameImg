@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm15-042",
+  "PackNo": "dm15",
+  "CardName": "バブル・ランプ(DM1542/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "このクリーチャーをバトルゾーンに出した時、自分の墓地に《バブル・ランプ》が１枚でもあれば、カードを１枚引いてもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd06-006",
+  "PackNo": "dmsd06",
+  "CardName": "堕魔ドゥンブレ(DMSD066/15)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "-",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング/魔導具",
+  "Text": "このクリーチャーがバトルゾーンに出た時、カードを１枚、自分のシールドゾーンから手札に加える。ただし、その「S・トリガー」は使えない。"
+}

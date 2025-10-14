@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc68-021",
+  "PackNo": "dmc68",
+  "CardName": "マッド・ギター(DMC6821/22)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ガーゴイル",
+  "Text": "G・ゼロ-バトルゾーンにデーモン・コマンドが１体でもあれば、このクリーチャーをコストを支払わずに召喚してもよい。"
+}

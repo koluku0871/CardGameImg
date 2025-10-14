@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24ex3-074",
+  "PackNo": "dm24ex3",
+  "CardName": "熱愛妖精バニタス(DM24EX374/80)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーが出た時または離れた時、自分の山札の上から１枚目をタップしてマナゾーンに置く。"
+}

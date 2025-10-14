@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp08-s04",
+  "PackNo": "dmrp08",
+  "CardName": "月下卍壊ガ・リュミーズ卍(DMRP08S4/S10)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "99",
+  "CardSubType": "",
+  "CardCategory": "ドルスザク",
+  "Text": "ドルスザクを４体まで、自分の手札または墓地からコストを支払わずに召喚してもよい。このターンの後で自分のターンをもう一度行う。"
+}

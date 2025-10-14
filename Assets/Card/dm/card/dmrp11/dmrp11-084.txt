@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp11-084",
+  "PackNo": "dmrp11",
+  "CardName": "凶鬼55号ジュジュ(DMRP1184/102)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "マフィ・ギャング",
+  "Text": "このクリーチャーが破壊された時、カードを２枚引く。"
+}

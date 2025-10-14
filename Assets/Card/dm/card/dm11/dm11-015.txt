@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm11-015",
+  "PackNo": "dm11",
+  "CardName": "タリスマン・リザード(DM1115/55)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "メルト・ウォリアー",
+  "Text": "誰も、自分自身のクリーチャーの能力を使うことはできない。"
+}

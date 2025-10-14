@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23bd4-004",
+  "PackNo": "dm23bd4",
+  "CardName": "ドラゴカリプス・デイ(DM23BD44/60)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "ドラゴン",
+  "Text": "このゲームが２人以上の相手がいる状態で始まっていて、この呪文がシールドゾーンにあれば、この呪文に「S・トリガー」を与える。ドラゴンではないクリーチャーをすべて破壊する。"
+}

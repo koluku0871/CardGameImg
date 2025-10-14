@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24bd6-028",
+  "PackNo": "dm24bd6",
+  "CardName": "天運ゼニスクラッチ(DM24BD628/60)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー自分の山札をシャッフルし、その後、上から１枚目を表向きにする。それがゼニス・クリーチャーなら、コストを支払わずに召喚してもよい。それ以外なら、手札に加える。"
+}

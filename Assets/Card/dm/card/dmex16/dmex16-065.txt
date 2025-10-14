@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex16-065",
+  "PackNo": "dmex16",
+  "CardName": "堕魔ドゥリンリ(DMEX1665/100)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マフィ・ギャング/魔導具",
+  "Text": "自分のターンの終わりに、自分の山札の上から１枚目を墓地に置いてもよい。"
+}

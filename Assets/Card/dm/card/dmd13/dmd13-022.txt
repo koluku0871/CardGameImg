@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmd13-022",
+  "PackNo": "dmd13",
+  "CardName": "フェアリー・ライフ(DMD1322/22)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）自分の山札の上から１枚目を、自分のマナゾーンに置く。"
+}

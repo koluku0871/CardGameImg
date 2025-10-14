@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx11-009",
+  "PackNo": "dmx11",
+  "CardName": "偽りの王ナンバーナイン(DMX119/84)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "-",
+  "Cost": "9",
+  "CardSubType": "9000",
+  "CardCategory": "キング・コマンド・ドラゴン/アンノウン",
+  "Text": "相手は呪文を唱えることができない。W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

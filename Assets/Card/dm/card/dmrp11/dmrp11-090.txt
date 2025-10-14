@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp11-090",
+  "PackNo": "dmrp11",
+  "CardName": "キャワ癒車チューズデー(DMRP1190/102)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "6",
+  "CardSubType": "4000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "S・トリガー（このクリーチャーをシールドゾーンから手札に加える時、コストを支払わずにすぐ召喚してもよい）"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy20-081",
+  "PackNo": "promoy20",
+  "CardName": "月光電人オボロカゲロウ(DMPROMOY20P81/Y20)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "グレートメカオー",
+  "Text": "このクリーチャーが出た時、自分のマナゾーンにある文明１つにつき、カードを１枚引いてもよい。その後、引いたカードと同じ枚数の手札を、好きな順序で山札の下に置く。"
+}

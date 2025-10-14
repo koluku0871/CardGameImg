@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex14-006",
+  "PackNo": "dmex14",
+  "CardName": "毘盛伽ジョウ骨キ(DMEX146/110)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "マフィ・ギャング/チーム零",
+  "Text": "スレイヤーレインボーナス：クリーチャーが破壊された時、バトルゾーンに自分の多色クリーチャーがあれば、カードを１枚引いてもよい。"
+}

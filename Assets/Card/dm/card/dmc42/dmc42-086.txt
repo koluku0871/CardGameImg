@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc42-086",
+  "PackNo": "dmc42",
+  "CardName": "怒髪の豪腕(DMC4286/90)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "他のクリーチャーがバトルゾーンに出た時、そのターン、このクリーチャーのパワーは+3000される。"
+}

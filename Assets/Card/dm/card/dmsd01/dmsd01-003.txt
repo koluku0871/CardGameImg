@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsd01-003",
+  "PackNo": "dmsd01",
+  "CardName": "ドツキ万次郎(DMSD013/12)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "-",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーがバトルゾーンに出た時、相手のタップしているクリーチャーを１体選び、相手はそれを自身の山札の一番下に置く。"
+}

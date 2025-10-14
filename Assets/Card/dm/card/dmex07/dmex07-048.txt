@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex07-048",
+  "PackNo": "dmex07",
+  "CardName": "鯛焼の超人(DMEX0748/48)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ジャイアント",
+  "Text": "このクリーチャーがバトルゾーンに出た時、自分のマナゾーンにあるカードを４枚アンタップする。"
+}

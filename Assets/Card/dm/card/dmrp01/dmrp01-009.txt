@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-009",
+  "PackNo": "dmrp01",
+  "CardName": "ボワー汽艦ゴリンゴリ(DMRP019/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "スピードアタッカーこのクリーチャーの攻撃の終わりに、自分の手札をすべて捨ててもよい。そうしたら、カードを３枚引く。"
+}

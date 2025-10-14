@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp22-TF20",
+  "PackNo": "dmrp22",
+  "CardName": "赤い稲妻テスタ・ロッサ(DMRP22TF20/TF20)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アウトレイジ",
+  "Text": "バトル中、このクリーチャーのパワーを+2000する。相手のターン中に、相手が召喚以外の方法でクリーチャーを出す時、相手はかわりにそのクリーチャーを墓地に置く。"
+}

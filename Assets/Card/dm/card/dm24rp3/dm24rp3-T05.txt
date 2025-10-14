@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm24rp3-T05",
+  "PackNo": "dm24rp3",
+  "CardName": "ビックラボックス(DM24RP3T5/T12)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーが出た時、自分の山札の上から１枚目を表向きにする。それがコスト６以下のジョーカーズ・クリーチャーなら出す。それ以外なら、自分の手札に加える。"
+}

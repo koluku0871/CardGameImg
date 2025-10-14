@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp20-b11",
+  "PackNo": "dmrp20",
+  "CardName": "オールデリート(DMRP2011B/20)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "11",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "各プレイヤーは、バトルゾーン、手札、シールドゾーン、墓地にある自身のカードをすべて山札に加えてシャッフルする。"
+}

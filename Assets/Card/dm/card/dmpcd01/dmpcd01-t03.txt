@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmpcd01-t03",
+  "PackNo": "dmpcd01",
+  "CardName": "ルナ・ブリッツホーク(DMPCD01天3/16)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "SR",
+  "Cost": "6",
+  "CardSubType": "3000",
+  "CardCategory": "サイバー・ムーン",
+  "Text": "このクリーチャーがバトルゾーンに出た時、または自分のターンのはじめに、カードを１枚引く。"
+}

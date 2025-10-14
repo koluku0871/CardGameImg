@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy15-016",
+  "PackNo": "promoy15",
+  "CardName": "フェアリー・ライフ(DMPROMOY15P16/Y15)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（この呪文をシールドゾーンから手札に加える時、コストを支払わずにすぐ唱えてもよい）自分の山札の上から１枚目をマナゾーンに置く。"
+}

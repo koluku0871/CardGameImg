@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm23rp3-056",
+  "PackNo": "dm23rp3",
+  "CardName": "滑奏！Eine&氷駆(DM23RP356/74)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "マジック・スプラッシュ・クイーン/ジャイアント・スノーフェアリー",
+  "Text": "このクリーチャーが出た時、カードを３枚引いてもよい。"
+}

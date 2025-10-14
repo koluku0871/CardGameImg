@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp10-m02",
+  "PackNo": "dmrp10",
+  "CardName": "WaveAllウェイボール(DMRP10M2/M3)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "MAS",
+  "Cost": "2",
+  "CardSubType": "5000",
+  "CardCategory": "トリックス/ワンダフォース",
+  "Text": "このクリーチャーは攻撃できない。各ターン、自分がはじめて呪文を唱えた時、GR召喚する。クリーチャーの能力によって、相手がクリーチャーを選ぶ時、このクリーチャーは選べない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmc42-031",
+  "PackNo": "dmc42",
+  "CardName": "ピーカプのドライバー(DMC4231/90)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ゼノパーツ",
+  "Text": "このクリーチャーで攻撃するかわりに、タップして次の能力を使ってもよい。相手の「ブロッカー」を持つクリーチャーを１体破壊する。"
+}

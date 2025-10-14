@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm38-036",
+  "PackNo": "dm38",
+  "CardName": "巡礼者アムド(DM3836/55)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "3500",
+  "CardCategory": "コスモ・ウォーカー",
+  "Text": "バトルゾーンにある自分のエンジェル・コマンドとデーモン・コマンドはすべて「ブロッカー」を得る。"
+}

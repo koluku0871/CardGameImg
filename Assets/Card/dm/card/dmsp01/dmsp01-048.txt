@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmsp01-048",
+  "PackNo": "dmsp01",
+  "CardName": "一番隊ルグンドド(DMSP0148/48)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "グランセクト",
+  "Text": "自分のグランセクトの召喚コストを１少なくする。ただし、コストは０以下にならない。"
+}

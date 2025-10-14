@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy13-089",
+  "PackNo": "promoy13",
+  "CardName": "爆襲アイラ・ホップ(DMPROMOY13P89/Y13)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ヒューマノイド爆",
+  "Text": "S・バック-火（火のカードを自分のシールドゾーンから手札に加える時、そのカードを捨ててもよい。そうした場合、コストを支払わずにこのクリーチャーを召喚する）"
+}

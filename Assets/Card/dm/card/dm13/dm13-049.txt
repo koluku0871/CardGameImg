@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm13-049",
+  "PackNo": "dm13",
+  "CardName": "反撃妖精ポコペン(DM1349/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーが攻撃された時、相手は自分自身のマナゾーンからカードを１枚選び、持ち主の墓地に置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm18-019",
+  "PackNo": "dm18",
+  "CardName": "予言者ミキュート(DM1819/140)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ライトブリンガー",
+  "Text": "自分のガーディアンをバトルゾーンに出した時、バトルゾーンにある相手のクリーチャーを１体選び、タップしてもよい。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmrp01-084",
+  "PackNo": "dmrp01",
+  "CardName": "一番隊チュチュリス(DMRP0184/93)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ビートジョッキー",
+  "Text": "自分のビートジョッキーを召喚するコストを１少なくする。ただしコストは０以下にならない。"
+}

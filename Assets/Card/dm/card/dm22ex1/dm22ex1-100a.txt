@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22ex1-100a",
+  "PackNo": "dm22ex1",
+  "CardName": "雪溶の鎖/堕牛の一撃(DM22EX1100/130)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ビーストフォーク",
+  "Text": "このクリーチャーが破壊された時、自分の山札の上から１枚目をマナゾーンに置く。"
+}

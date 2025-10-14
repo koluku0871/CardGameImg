@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr15-042",
+  "PackNo": "dmr15",
+  "CardName": "無垢の悪魔龍ワザガナッシン(DMR1542/55)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "デーモン・コマンド・ドラゴン",
+  "Text": ""
+}

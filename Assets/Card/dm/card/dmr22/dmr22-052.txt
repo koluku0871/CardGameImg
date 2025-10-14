@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr22-052",
+  "PackNo": "dmr22",
+  "CardName": "J・ゴーン(DMR2252/74)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "サイバー・ウイルス",
+  "Text": "マナ武装２：このクリーチャーが攻撃する時、自分のマナゾーンに多色カードが２枚以上あれば、カードを１枚引く。"
+}

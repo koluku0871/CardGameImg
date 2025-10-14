@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-061",
+  "PackNo": "dmr13",
+  "CardName": "爆打者猛トラック(DMR1361/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "3000",
+  "CardCategory": "ヒューマノイド爆",
+  "Text": "自分の火のクリーチャーがバトルに勝った時、カードを１枚引いてもよい。"
+}

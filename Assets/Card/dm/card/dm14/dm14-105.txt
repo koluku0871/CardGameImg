@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-105",
+  "PackNo": "dm14",
+  "CardName": "式神ユウキ(DM14105/110)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ワンダー・トリック",
+  "Text": ""
+}

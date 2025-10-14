@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm14-033",
+  "PackNo": "dm14",
+  "CardName": "放浪兵エルジージョ(DM1433/110)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "4000",
+  "CardCategory": "アーマロイド",
+  "Text": "このクリーチャーが破壊された時、カードを１枚、自分のマナゾーンから自分の墓地に置く。"
+}

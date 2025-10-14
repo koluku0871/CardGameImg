@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr04-011",
+  "PackNo": "dmr04",
+  "CardName": "偽りの名13(DMR0411/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "10",
+  "CardSubType": "24000",
+  "CardCategory": "アンノウン",
+  "Text": "ワールド・ブレイカー(このクリーチャーは相手のシールドをすべてブレイクする)"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy16-sp3d10",
+  "PackNo": "promoy16",
+  "CardName": "撃墜団長メッツアー(DMCOROCOROY1610/14)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "2000",
+  "CardCategory": "ヒューマノイド",
+  "Text": "スピードアタッカー（このクリーチャーは召喚酔いしない）"
+}

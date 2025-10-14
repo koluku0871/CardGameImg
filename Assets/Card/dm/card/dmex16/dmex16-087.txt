@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex16-087",
+  "PackNo": "dmex16",
+  "CardName": "龍装者バーナイン(DMEX1687/100)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "2500",
+  "CardCategory": "ドラゴンギルド/メタリカ",
+  "Text": "自分のメタリカが出た時、カードを１枚引いてもよい。"
+}

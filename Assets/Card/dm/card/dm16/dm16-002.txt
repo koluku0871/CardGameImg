@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm16-002",
+  "PackNo": "dm16",
+  "CardName": "ガイアクラッシュ・クロウラー(DM162/55)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "アースイーター",
+  "Text": "誰も、自分自身のマナゾーンの呪文カードをアンタップできない。W・ブレイカー(このクリーチャーはシールドを２枚ブレイクする)"
+}

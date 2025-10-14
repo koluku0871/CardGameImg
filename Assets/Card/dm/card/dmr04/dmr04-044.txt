@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr04-044",
+  "PackNo": "dmr04",
+  "CardName": "食べてクルシメジ(DMR0444/55)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "2000",
+  "CardCategory": "ワイルド・ベジーズ/エイリアン",
+  "Text": "セイバー:多色クリーチャー(自分の多色クリーチャーが破壊される時、このクリーチャーをかわりに破壊してもよい)"
+}

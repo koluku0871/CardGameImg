@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx17-037",
+  "PackNo": "dmx17",
+  "CardName": "土隠類ハコオシディーディ(DMX1737/37)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "4000",
+  "CardCategory": "ジュラシック・コマンド・ドラゴン",
+  "Text": "このクリーチャーまたは自分の他のドラゴンが破壊される時、墓地に置くかわりに自分のマナゾーンに置いてもよい。"
+}

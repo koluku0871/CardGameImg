@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-041a",
+  "PackNo": "dmex17",
+  "CardName": "オブラディ・ホーネット/「LetitBee！」(DMEX1741/138)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "グランセクト",
+  "Text": "マッハファイター（このクリーチャーは、出たターンの間、タップまたはアンタップしているクリーチャーを攻撃できる）このクリーチャーが破壊される時、墓地に置くかわりにマナゾーンに置く。"
+}
