@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX10-002_P1",
+  "PackNo": "EX10",
+  "CardName": "コロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]アタックの対象が変更されたとき、≪1ドロー≫。\n",
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型"
+}

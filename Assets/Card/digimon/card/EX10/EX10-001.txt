@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "EX10-001",
+  "PackNo": "EX10",
+  "CardName": "フリックモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]このデジモンのリンクカードが効果で破棄されたとき、メモリー+1。\n",
+  "Element": "緑",
+  "CardCategory": "アプモン",
+  "CardType": "システム",
+  "CardSubType": "フリック"
+}

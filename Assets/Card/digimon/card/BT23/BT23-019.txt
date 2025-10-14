@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT23-019",
+  "PackNo": "BT23",
+  "CardName": "ゲコモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 青／2"
+  ],
+  "Text": "[特殊進化]\n〔進化〕特徴に「CS」を持つLv.3:コスト2\n[効果]\n【登場時】【進化時】相手のデジモンの進化元を選んで2枚破棄する。\n[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n",
+  "Element": "青",
+  "CardCategory": "成熟期",
+  "CardType": "ウィルス種",
+  "CardSubType": "両生類型/CS"
+}

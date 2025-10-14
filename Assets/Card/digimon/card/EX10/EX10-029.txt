@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "EX10-029",
+  "PackNo": "EX10",
+  "CardName": "ワープモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黒／2"
+  ],
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。≪ブロッカー≫\n",
+  "Element": "黒",
+  "CardCategory": "超/アプモン",
+  "CardType": "システム",
+  "CardSubType": "転送"
+}

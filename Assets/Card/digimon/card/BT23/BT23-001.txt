@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "BT23-001",
+  "PackNo": "BT23",
+  "CardName": "フリックモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが特徴に「アプモン」を持つなら、≪1ドロー≫。\n",
+  "Element": "青",
+  "CardCategory": "アプモン",
+  "CardType": "ゲーム",
+  "CardSubType": "フリック"
+}

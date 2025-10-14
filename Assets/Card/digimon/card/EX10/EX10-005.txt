@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX10-005",
+  "PackNo": "EX10",
+  "CardName": "パグモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]相手のデッキが破棄されたとき、≪1ドロー≫。\n",
+  "Element": "紫",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型"
+}

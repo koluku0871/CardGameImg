@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT23-007",
+  "PackNo": "BT23",
+  "CardName": "マッスルモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Text": "[特殊進化]\n〔進化〕特徴に「アプモン」を持つLv.2:コスト0\n[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。\n",
+  "Element": "赤",
+  "CardCategory": "並/アプモン",
+  "CardType": "ライフ",
+  "CardSubType": "筋トレ"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT23-003",
+  "PackNo": "BT23",
+  "CardName": "モチモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]バトルエリアに特徴に「CS」を持つ自分のオプションカードが置かれたとき、このデジモンでアタックできる。\n",
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/CS"
+}
