@@ -5,3 +5,7 @@ obj/
 UserSettings/
 Temp/
 AssetBundles/
+Assembly-CSharp-Editor.csproj
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/ProjectVersion.txt
