@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP05-074_C",
+  "PackNo": "hBP05",
+  "CardName": "フレンドリーパソコン",
+  "CardType": "サポート・アイテム",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-044_SR",
+  "PackNo": "hBP06",
+  "CardName": "ハコス・ベールズ",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>ホイールオブフォーチュン30+<spanclass=\"tokkou\"></span></span>このゲーム中に、自分のSP推しスキル「🎲ƎNOZN∩ℲƎH⊥O⊥ƎWOϽ˥ƎM🎲」を使っていたなら、サイコロを1回振る。出た目の数1につき、このアーツ+10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>ありがチュー！70<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

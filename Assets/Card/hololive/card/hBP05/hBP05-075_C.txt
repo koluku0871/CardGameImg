@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP05-075_C",
+  "PackNo": "hBP05",
+  "CardName": "牛丼",
+  "CardType": "サポート・イベント",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

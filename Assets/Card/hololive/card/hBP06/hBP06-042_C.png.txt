@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-042_C",
+  "PackNo": "hBP06",
+  "CardName": "ハコス・ベールズ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>StrawberryPrincess</span>自分の手札1枚をアーカイブする。その後、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>イチゴで彩る誕生日40+<spanclass=\"tokkou\"></span></span>自分の手札2枚をアーカイブできる：このアーツ+20。</p></div></div>"
+}

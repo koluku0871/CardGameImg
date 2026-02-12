@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-032_SR",
+  "PackNo": "hBP06",
+  "CardName": "セシリア・イマーグリーン",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>FOR!JUSTICE!</span>自分のエールデッキの上から1枚をこのホロメン以外の自分の#Justiceを持つホロメンに送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>春の思い出20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

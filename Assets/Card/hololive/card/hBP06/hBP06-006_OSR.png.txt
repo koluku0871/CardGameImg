@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP06-006_OSR",
+  "PackNo": "hBP06",
+  "CardName": "ムーナ・ホシノヴァ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "青",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-1]<span>満月の輝き</span>[ターンに1回]相手のホロメン1人に特殊ダメージを与えた時に使える：相手のセンターホロメンとコラボホロメンに特殊ダメージ20を与える。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>双月の斉唱</span>[ゲームに1回]お互いのステージのエールが合計6枚以上あるなら、自分のエールデッキから、エール1～3枚を公開し、自分の#ID1期生を持つホロメンに割り振って送る。そしてエールデッキをシャッフルする。</p></div></div>"
+}

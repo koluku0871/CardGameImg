@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP05-087_U",
+  "PackNo": "hBP05",
+  "CardName": "Jailbird",
+  "CardType": "サポート・ファン",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

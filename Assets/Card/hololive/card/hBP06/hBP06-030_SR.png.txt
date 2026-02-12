@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-030_SR",
+  "PackNo": "hBP06",
+  "CardName": "姫森ルーナ",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>みんなへ感謝の気持ち</span>[コラボポジション限定]相手のターンで、自分のセンターホロメンに付いている〈ルーナイト〉をアーカイブする時、アーカイブするかわりに、自分のバックホロメンの〈姫森ルーナ〉に付け替えられる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>届けたいのら！20<spanclass=\"tokkou\"></span></span>自分のアーカイブの〈ルーナイト〉1枚を自分の〈姫森ルーナ〉に付けられる。</p></div></div>"
+}

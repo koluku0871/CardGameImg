@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP05-079_S",
+  "PackNo": "hBP05",
+  "CardName": "み俺恥",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

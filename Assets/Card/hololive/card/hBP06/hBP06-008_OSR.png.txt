@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP06-008_OSR",
+  "PackNo": "hBP06",
+  "CardName": "夏色まつり",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "黄",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>おまつりわっしょーい！！！</span>[ターンに1回]サイコロを1回振る。出た目の数が自分のライフ以上なら、自分のデッキから、カード1枚を手札に加える。そしてデッキをシャッフルする。出た目の数が自分のライフ以下なら、自分のデッキの上から1枚をホロパワーにする。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-1]<span>絶対勝ちたい！！！！！！！</span>[ゲームに1回]自分のセンターホロメンが〈夏色まつり〉なら、このターンの間、自分が使えるLIMITEDのサポートカードの枚数は2枚になる。</p></div></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP05-078_S",
+  "PackNo": "hBP05",
+  "CardName": "晩酌配信",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

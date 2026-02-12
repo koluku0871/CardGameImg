@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP05-082_U",
+  "PackNo": "hBP05",
+  "CardName": "アキ・ローゼンタールの斧",
+  "CardType": "サポート・ツール",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

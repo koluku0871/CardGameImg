@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-013_SR",
+  "PackNo": "hBP06",
+  "CardName": "ラオーラ・パンテーラ",
+  "CardType": "Buzzホロメン",
+  "CardRarity": "SR",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>CATCHALLCHATTINIAROUNDTHEWORLD!!!</span>自分のデッキから、〈Chattino〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>一緒に世界を征服しよう！30<spanclass=\"tokkou\"></span></span>[センターポジション限定]このターンの間、自分の#絵を持つコラボホロメンのアーツ+20。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンがダウンした時、自分のライフ-2</p></div></div>"
+}

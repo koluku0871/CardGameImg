@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP06-001_OUR",
+  "PackNo": "hBP06",
+  "CardName": "ラオーラ・パンテーラ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "白",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>BIGCATmeans…</span>[ターンに1回]自分のセンターホロメンが〈ラオーラ・パンテーラ〉なら、自分のデッキから、自分のコラボホロメンと同じカード名のホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-1]<span>BIGTROUBLE!!</span>[ゲームに1回]このゲームの間、自分の〈ラオーラ・パンテーラ〉全員は、リセットステップでお休みしない。</p></div></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP05-076_U",
+  "PackNo": "hBP05",
+  "CardName": "ちょこのビーフストロガノフ",
+  "CardType": "サポート・イベント",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

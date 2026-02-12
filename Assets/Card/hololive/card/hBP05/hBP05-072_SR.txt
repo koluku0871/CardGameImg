@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP05-072_SR",
+  "PackNo": "hBP05",
+  "CardName": "角巻わため",
+  "CardType": "Buzzホロメン",
+  "CardRarity": "SR",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>君と色違いのリュック50+<spanclass=\"tokkou\"></span></span>[センターポジション限定]このホロメンにエールが4枚以上付いているなら、このターンの間、このホロメンと自分のコラボホロメンのアーツ+50。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>わためと海辺デート80<spanclass=\"tokkou\"></span></span>自分の推しホロメンが〈角巻わため〉なら、自分のエールデッキの上から1枚を自分の〈角巻わため〉に送れる。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンがダウンした時、自分のライフ-2</p></div></div>"
+}

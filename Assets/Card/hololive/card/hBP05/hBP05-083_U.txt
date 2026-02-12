@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP05-083_U",
+  "PackNo": "hBP05",
+  "CardName": "ネリッサ・レイヴンクロフトの杖",
+  "CardType": "サポート・ツール",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

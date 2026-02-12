@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP05-084_S",
+  "PackNo": "hBP05",
+  "CardName": "角巻わためのハープ",
+  "CardType": "サポート・ツール",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

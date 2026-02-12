@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-019_R",
+  "PackNo": "hBP06",
+  "CardName": "響咲リオナ",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ストイック負けず嫌い王</span>自分の推しホロメンが〈響咲リオナ〉なら、自分のデッキの上から1枚をアーカイブできる：自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>意外と熱血タイプ？40<spanclass=\"tokkou\"></span></span>自分のデッキの上から1枚をアーカイブする。</p></div></div>"
+}

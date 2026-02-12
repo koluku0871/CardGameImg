@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-053_SR",
+  "PackNo": "hBP06",
+  "CardName": "ムーナ・ホシノヴァ",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>星の運命</span>相手のセンターホロメンかコラボホロメンを選ぶ。選んだホロメンに、選んだホロメンが受けているダメージと同じ数値の特殊ダメージを与える。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>TidalEclipse90<spanclass=\"tokkou\"><imgalt=\"白+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_white.png\"/></span></span>このホロメンにエールが4枚以上付いているなら、相手のセンターホロメンかコラボホロメンに特殊ダメージ90を与える。</p></div></div>"
+}

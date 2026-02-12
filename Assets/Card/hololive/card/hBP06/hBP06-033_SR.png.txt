@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-033_SR",
+  "PackNo": "hBP06",
+  "CardName": "儒烏風亭らでん",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>濡羽色のほころび</span>このターンに自分が#きのこを持つイベントを使っていたなら、自分のデッキを2枚引く。自分のブルームエフェクト「濡羽色のほころび」はターンに1回しか使えない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>茸（くさびら）40<spanclass=\"tokkou\"></span></span>自分のアーカイブのエール1枚を自分の#ReGLOSSを持つホロメンに送れる。</p></div></div>"
+}

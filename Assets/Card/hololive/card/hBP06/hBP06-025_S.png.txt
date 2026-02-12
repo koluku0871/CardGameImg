@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-025_S",
+  "PackNo": "hBP06",
+  "CardName": "風真いろは",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>のんびり過ごす記念日</span>[センターポジション・コラボポジション限定]自分のステージのこのホロメン以外の#秘密結社holoXを持つホロメン全員のアーツ+20。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ツンツンツン…50<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

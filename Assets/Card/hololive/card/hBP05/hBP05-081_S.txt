@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP05-081_S",
+  "PackNo": "hBP05",
+  "CardName": "白銀ノエルのメイス",
+  "CardType": "サポート・ツール",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

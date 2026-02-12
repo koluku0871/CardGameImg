@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP01-007_P_03",
+  "PackNo": "hPR",
+  "CardName": "星街すいせい",
+  "CardType": "推しホロメン",
+  "CardRarity": "P",
+  "Element": "青",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>ほうき星</span>[ターンに１回]この推しホロメンか自分の青ホロメンが相手のバックホロメンにダメージを与えた時に使える：その相手のバックホロメン１人に特殊ダメージ50を与える。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>シューティングスター</span>[ゲームに１回]自分の青ホロメンが相手のセンターホロメンかコラボホロメンにダメージを与えた時に使える：相手のバックホロメン１人にそれと同じ数値の特殊ダメージを与える。</p></div></div>"
+}

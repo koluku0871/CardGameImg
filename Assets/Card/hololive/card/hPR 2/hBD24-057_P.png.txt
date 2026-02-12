@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBD24-057_P",
+  "PackNo": "hPR",
+  "CardName": "小鳥遊キアラ",
+  "CardType": "推しホロメン",
+  "CardRarity": "P",
+  "Element": "赤",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>レッドエンハンス</span>[ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>BirthdayGift～Red～</span>[ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div></div>"
+}

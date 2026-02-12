@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-015_HR",
+  "PackNo": "hBP06",
+  "CardName": "響咲リオナ",
+  "CardType": "ホロメン",
+  "CardRarity": "HR",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>おかえりおな～30<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
+}

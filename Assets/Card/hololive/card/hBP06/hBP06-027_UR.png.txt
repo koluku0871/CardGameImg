@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-027_UR",
+  "PackNo": "hBP06",
+  "CardName": "風真いろは",
+  "CardType": "ホロメン",
+  "CardRarity": "UR",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>伝えたい想い</span>このホロメンが相手のセンターホロメンをダウンさせた時、自分のこのターンにBloomした〈風真いろは〉1人を、自分の手札のホロメンを使って、もう1回Bloomできる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>一緒にすてっぷ160+<spanclass=\"tokkou\"><imgalt=\"白+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_white.png\"/></span></span>自分の推しホロメンが〈風真いろは〉で、自分のコラボホロメンがいるなら、このアーツ+40。さらに、このホロメンがBuzzホロメンからBloomしているなら、このアーツダメージは軽減されない。</p></div></div>"
+}

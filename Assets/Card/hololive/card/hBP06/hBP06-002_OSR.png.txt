@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP06-002_OSR",
+  "PackNo": "hBP06",
+  "CardName": "響咲リオナ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "白",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>やりたいように、私は私らしく</span>[ターンに1回]自分のデッキの上から2枚をアーカイブする。その後、このターンの間、自分の#FLOWGLOWを持つ[センターホロメンとコラボホロメン]のアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-1]<span>生き抜いていくんです！</span>[ゲームに1回]自分のデッキの枚数が5枚以下で、自分の#FLOWGLOWを持つホロメンが相手のセンターホロメンをダウンさせた時に使える：相手のライフ-1。</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP05-073_R",
+  "PackNo": "hBP05",
+  "CardName": "アユンダ・リス",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>BRRRR</span>自分のエールデッキの上から3枚を見る。その中から、エール1枚を公開し、自分の〈アユンダ・リス〉に送る。そして残ったエールを好きな順でエールデッキの下に戻す。その後、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>IT'sTimetoRE4GE!!!!!50+<spanclass=\"tokkou\"><imgalt=\"白+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_white.png\"/></span></span>自分の推しホロメンが〈アユンダ・リス〉なら、自分の#ID1期生を持つホロメン全員のエール1枚につき、このアーツ+10。ただし、数える枚数は10枚まで。</p></div></div>"
+}

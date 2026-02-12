@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP06-003_OUR",
+  "PackNo": "hBP06",
+  "CardName": "風真いろは",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "緑",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>迷ったらまず実行！</span>[ターンに1回]自分のエールデッキの上から1枚を自分の[BuzzホロメンかBuzzホロメンからBloomしている〈風真いろは〉]に送る。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>アルティメットつよつよござる</span>[ゲームに1回]このターンの間、自分のステージのエール1枚につき、自分のステージの〈風真いろは〉全員のアーツ+10。その後、自分のステージにBuzzホロメンがいるなら、自分のデッキを3枚引く。</p></div></div>"
+}

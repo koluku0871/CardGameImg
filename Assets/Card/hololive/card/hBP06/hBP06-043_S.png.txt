@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-043_S",
+  "PackNo": "hBP06",
+  "CardName": "ハコス・ベールズ",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>OnceaPeasant,</span>自分の手札の#Promiseを持つホロメン1枚をアーカイブできる：相手のセンターホロメンかコラボホロメンに特殊ダメージ30を与える。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>ALWAYSAPEASANT.30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

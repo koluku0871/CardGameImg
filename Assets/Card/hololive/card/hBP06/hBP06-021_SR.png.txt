@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-021_SR",
+  "PackNo": "hBP06",
+  "CardName": "博衣こより",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>君に届けっ</span>このターンの間、自分のステージの#秘密結社holoXを持つホロメン1人のアーツ+30。このホロメンに#こよラボを持つサポートカードが付いているなら、かわりに、そのホロメンのアーツ+50。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>青春の１ページ90+<spanclass=\"tokkou\"><imgalt=\"赤+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_red.png\"/></span></span>自分のアーカイブの#こよラボを持つサポートカード1枚をデッキの下に戻せる：このアーツ+40。</p></div></div>"
+}
