@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex3-TF09",
+  "PackNo": "dm25ex3",
+  "CardName": "時空の庭園(DM25EX3TF9/TF40)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から１枚をマナゾーンに置く。その後、クリーチャーを１体、自分のマナゾーンから自分の進化クリーチャーの下に置いてもよい。"
+}

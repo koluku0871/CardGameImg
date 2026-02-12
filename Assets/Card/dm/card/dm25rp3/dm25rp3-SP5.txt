@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp3-SP5",
+  "PackNo": "dm25rp3",
+  "CardName": "とこしえの超人(DM25RP3SP5/SP5)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "4000",
+  "CardCategory": "ジャイアント",
+  "Text": "{GS}G・ストライクこのクリーチャーは、相手プレイヤーを攻撃できない。相手が自身の手札以外からカードを出す時、かわりにマナゾーンに置く。"
+}

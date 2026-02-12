@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex3-TD17a",
+  "PackNo": "dm25ex3",
+  "CardName": "新世界王の破壊(DM25EX3TD17/TD23)",
+  "CardType": "キング・セル",
+  "Element": "水/闇/自然",
+  "CardRarity": "VR",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライクこのカードを自分の手札からマナゾーンに置いた時、アンタップする。"
+}

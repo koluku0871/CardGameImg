@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex3-066",
+  "PackNo": "dm25ex3",
+  "CardName": "蒸熱のタイフーン(DM25EX366/80)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "カードを２枚引く。自分の進化クリーチャーがなければ、自分の手札を１枚捨てる。"
+}

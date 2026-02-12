@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp3-037",
+  "PackNo": "dm25rp3",
+  "CardName": "NEWECHOWHISPER(DM25RP337/77)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "D・D・D[ww02]（自分のクリーチャーが攻撃する時、このカードを[ww02]支払って自分の手札から実行してもよい）カードを１枚引く。コスト３以下の、クリーチャーではないカードを１枚、自分の手札からコストを支払わずに実行してもよい。"
+}

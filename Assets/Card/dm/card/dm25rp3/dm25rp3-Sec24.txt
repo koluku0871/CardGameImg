@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp3-Sec24",
+  "PackNo": "dm25rp3",
+  "CardName": "危識:この先、レッドゾーンあり(DM25RP3㊙24/㊙24)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "D・D・D[nn02]自分のマナゾーンにあるカードを５枚アンタップする。"
+}

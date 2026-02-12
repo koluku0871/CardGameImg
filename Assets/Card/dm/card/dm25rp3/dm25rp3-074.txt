@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp3-074",
+  "PackNo": "dm25rp3",
+  "CardName": "AQrotation(DM25RP374/77)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "マジック・リキッド・ピープル",
+  "Text": "マッハファイター（このクリーチャーは、出たターンの間、タップまたはアンタップしているクリーチャーを攻撃できる）このクリーチャーが破壊される時、墓地のかわりにマナゾーンに置いてもよい。"
+}

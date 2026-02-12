@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp3-077",
+  "PackNo": "dm25rp3",
+  "CardName": "危識:この先、レッドゾーンあり(DM25RP377/77)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "D・D・D[nn02]（自分のクリーチャーが攻撃する時、このカードを[nn02]支払って自分の手札から実行してもよい）自分のマナゾーンにあるカードを５枚アンタップする。"
+}

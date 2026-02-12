@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex3-TD11",
+  "PackNo": "dm25ex3",
+  "CardName": "黒神龍グールジェネレイド(DM25EX3TD11/TD23)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "ドラゴン・ゾンビ",
+  "Text": "W・ブレイカー自分の、《黒神龍グールジェネレイド》ではないドラゴンが破壊された時、このクリーチャーを自分の墓地から出してもよい。"
+}

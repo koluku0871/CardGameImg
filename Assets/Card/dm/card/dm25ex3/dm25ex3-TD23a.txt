@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex3-TD23a",
+  "PackNo": "dm25ex3",
+  "CardName": "ネオ・ボルシャック・ドラゴン/ボルシャックゾーン(DM25EX3TD23/TD23)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "8",
+  "CardSubType": "11000+",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "パワーアタッカー+4000T・ブレイカー"
+}

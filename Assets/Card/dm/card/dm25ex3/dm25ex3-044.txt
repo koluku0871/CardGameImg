@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex3-044",
+  "PackNo": "dm25ex3",
+  "CardName": "愛・爆・発(DM25EX344/80)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "3",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から２枚を墓地に置く。その後、闇のコスト４以下の、クリーチャーまたはタマシードを１つ、自分の墓地から出してもよい。"
+}

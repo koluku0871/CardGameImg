@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp3-036",
+  "PackNo": "dm25rp3",
+  "CardName": "OLDLIMITEDDEPTH(DM25RP336/77)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（このカードをシールドゾーンから手札に加える時、コストを支払わずにすぐ実行してもよい）D・D・D[ww03]（自分のクリーチャーが攻撃する時、このカードを[ww03]支払って自分の手札から実行してもよい）クリーチャーを２体まで選び、持ち主の手札に戻す。その後、カードを１枚引く。"
+}

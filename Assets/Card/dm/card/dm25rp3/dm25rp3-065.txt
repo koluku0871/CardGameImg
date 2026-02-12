@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp3-065",
+  "PackNo": "dm25rp3",
+  "CardName": "～魔の夕暮れ～(DM25RP365/77)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ダークロード/スチーム・ナイト",
+  "Text": "このクリーチャーが出た時、自分の手札を１枚捨ててもよい。そうしたら、相手の手札を１枚見ないで選び、捨てさせる。"
+}

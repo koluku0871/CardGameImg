@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex3-031",
+  "PackNo": "dm25ex3",
+  "CardName": "golDe’d’Ramar(DM25EX331/80)",
+  "CardType": "クリーチャー",
+  "Element": "光/水/自然",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "5500",
+  "CardCategory": "マジック・コマンド・ドラゴン",
+  "Text": "S・トリガーこのクリーチャーが出た時、コスト４以下の呪文を１枚、自分の、手札または墓地からコストを支払わずに唱えてもよい。そうしたら、それを唱えた後、墓地のかわりにマナゾーンに置く。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex3-TD22",
+  "PackNo": "dm25ex3",
+  "CardName": "ドラゴカリプス・デイ(DM25EX3TD22/TD23)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "ドラゴン",
+  "Text": "ゲーム開始時に２人以上の相手がいたなら、自分のシールドゾーンにあるこの呪文に「S・トリガー」を与える。ドラゴンではないクリーチャーをすべて破壊する。"
+}

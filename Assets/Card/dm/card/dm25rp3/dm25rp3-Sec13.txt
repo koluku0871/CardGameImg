@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp3-Sec13",
+  "PackNo": "dm25rp3",
+  "CardName": "ARTIFICIALREALITYCHARGER(DM25RP3㊙13/㊙24)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "9",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライク相手のエレメントをすべて持ち主の手札に戻す。次の自分のターンのはじめまで、相手は呪文を唱えられない。チャージャー"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp3-TD3",
+  "PackNo": "dm25rp3",
+  "CardName": "闇王ゼーロ(DM25RP3TD3/TD5)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "コストを支払うかわりに、自分の手札から闇のカードを３枚捨て、自分の闇のクリーチャーを３体破壊して、この呪文を唱えてもよい。自分の山札の上から４枚を墓地に置く。その後、闇のクリーチャーを１体、自分の墓地から出す。"
+}
