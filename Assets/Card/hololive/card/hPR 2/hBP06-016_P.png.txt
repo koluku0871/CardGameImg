@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-016_P",
+  "PackNo": "hPR",
+  "CardName": "響咲リオナ",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>一緒に共闘しよ</span>自分が後攻で最初のターンなら、自分のデッキから、[コラボエフェクトと#FLOWGLOWを持つホロメン]1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>おつりおなああああ！20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD11-004_U_re",
+  "PackNo": "hSD11",
+  "CardName": "虎金妃笑虎",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>人を笑顔にするためならば</span>自分のステージのエール2枚をアーカイブできる：自分のアーカイブの〈虎金妃笑虎〉1枚を手札に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>自分の人生すらも捧げられる30<spanclass=\"tokkou\"></span></span>自分のエールデッキの上から1枚を自分の〈虎金妃笑虎〉に送れる。</p></div></div>"
+}

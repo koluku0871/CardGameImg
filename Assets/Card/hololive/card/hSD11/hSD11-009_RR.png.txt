@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD11-009_RR",
+  "PackNo": "hSD11",
+  "CardName": "水宮枢",
+  "CardType": "ホロメン",
+  "CardRarity": "RR",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>感情の伝令者</span>相手のセンターポジションのホロメン1人は、次の相手のターンが終了するまでバトンタッチに必要な無色+3。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>スゥイートオブセッション100<spanclass=\"tokkou\"><imgalt=\"紫+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_purple.png\"/></span></span>このアーツの対象のホロメンに、そのホロメンのバトンタッチに必要な無色1つにつき、特殊ダメージ10を与える。</p></div></div>"
+}

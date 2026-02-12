@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-090_P",
+  "PackNo": "hPR",
+  "CardName": "ブルームステージ",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

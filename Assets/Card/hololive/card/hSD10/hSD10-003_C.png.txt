@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD10-003_C",
+  "PackNo": "hSD10",
+  "CardName": "輪堂千速",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>エンジン全開演じない自然体30<spanclass=\"tokkou\"></span></span></p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>全身全霊越えてく限界80<spanclass=\"tokkou\"></span></span></p></div></div>"
+}
