@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25bd3-001a",
+  "PackNo": "dm25bd3",
+  "CardName": "闘将銀河城ハートバーン(DM25BD31/20)",
+  "CardType": "ドラグハート・フォートレス",
+  "Element": "火",
+  "CardRarity": "WVC",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分のドラゴンすべてに「スピードアタッカー」を与える。龍解：自分のドラゴンがアンタップした時、このドラグハートをクリーチャー側に裏返す。"
+}

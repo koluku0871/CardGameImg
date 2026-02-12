@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-100",
+  "PackNo": "dm25ex2",
+  "CardName": "王道ダチキャンベロ(DM25EX2100/105)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ジョーカーズ/チーム切札",
+  "Text": "このクリーチャーが出た時、自分の手札を１枚捨て、カードを１枚引く。こうしてジョーカーズ・カードを捨てたら、カードをもう１枚引く。"
+}

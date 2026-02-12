@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-Cho020",
+  "PackNo": "dm25ex2",
+  "CardName": "ヨビニオン・フレイムバーン(DM25EX2超20/超50)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "スピードアタッカーヨビニオンこのクリーチャーが出た時、自分の手札を１枚捨ててもよい。そうしたら、カードを２枚引く。"
+}

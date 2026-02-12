@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-062a",
+  "PackNo": "dm25ex2",
+  "CardName": "静かなる龍跡B=G=W(DM25EX262/105)",
+  "CardType": "ドラグハート・フォートレス",
+  "Element": "光/水/自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このドラグハートが出た時、自分の山札の上から３枚を見る。その中から１枚をシールド化し、１枚を手札に加え、残りの１枚をマナゾーンに置く。"
+}

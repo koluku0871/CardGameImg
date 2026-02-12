@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-Cho042",
+  "PackNo": "dm25ex2",
+  "CardName": "ルピア&ガ:ナテハ(DM25EX2超42/超50)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "アーマード・ファイアー・バード/ノワールアビス",
+  "Text": "自分のターンの終わりに、自分のシールドを１つ墓地に置く。その後、カードを１枚引く。"
+}

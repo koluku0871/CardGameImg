@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-Cho049",
+  "PackNo": "dm25ex2",
+  "CardName": "緊縛の影バインド・シャドウ(DM25EX2超49/超50)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "ゴースト",
+  "Text": "このクリーチャーはタップして出る。闇のクリーチャーはタップして出る。"
+}

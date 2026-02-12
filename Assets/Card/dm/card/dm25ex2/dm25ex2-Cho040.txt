@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-Cho040",
+  "PackNo": "dm25ex2",
+  "CardName": "異端流しオニカマス(DM25EX2超40/超50)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ムートピア",
+  "Text": "このクリーチャーは相手に選ばれない。相手のターン中に、相手が召喚以外の方法でクリーチャーを出した時、そのクリーチャーを持ち主の手札に戻してもよい。"
+}

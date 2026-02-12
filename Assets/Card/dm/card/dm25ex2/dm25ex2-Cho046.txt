@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-Cho046",
+  "PackNo": "dm25ex2",
+  "CardName": "秘密結社アウトレイジ(DM25EX2超46/超50)",
+  "CardType": "呪文",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "G・ゼロ：自分のアウトレイジがあれば、この呪文をコストを支払わずに唱えてもよい。このターン、自分のクリーチャー１体に「パワーアタッカー+1000000」を与える。"
+}

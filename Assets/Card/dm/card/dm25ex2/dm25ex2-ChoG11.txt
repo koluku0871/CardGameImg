@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-ChoG11",
+  "PackNo": "dm25ex2",
+  "CardName": "真聖霊王アルカヴァイン(DM25EX2超G11/超G11)",
+  "CardType": "G-NEOクリーチャー",
+  "Element": "光",
+  "CardRarity": "VR",
+  "Cost": "5",
+  "CardSubType": "9500",
+  "CardCategory": "エンジェル・コマンド",
+  "Text": "G-NEO進化：光のクリーチャー１体の上に置いてもよい。W・ブレイカープレイヤーは手札以外からエレメントを出せない。自分の光のクリーチャーの召喚コストを１少なくする。ただし、コストは０以下にはならない。"
+}

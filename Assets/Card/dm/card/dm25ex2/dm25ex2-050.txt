@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-050",
+  "PackNo": "dm25ex2",
+  "CardName": "トレジャー・マップ(DM25EX250/105)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を見る。その中から自然のクリーチャーを１体表向きにし、手札に加えてもよい。残りを好きな順序で山札の下に置く。"
+}

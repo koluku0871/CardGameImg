@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-002",
+  "PackNo": "dm25ex2",
+  "CardName": "鬼ヶ大王ジャオウガ(DM25EX22/105)",
+  "CardType": "クリーチャー",
+  "Element": "闇/火",
+  "CardRarity": "KGM",
+  "Cost": "5",
+  "CardSubType": "7000",
+  "CardCategory": "デモニオ/鬼札王国",
+  "Text": "スピードアタッカーW・ブレイカーこのクリーチャーが出た時、自分のシールドをすべて手札に加えてもよい。ただし、その「S・トリガー」は使えない。"
+}

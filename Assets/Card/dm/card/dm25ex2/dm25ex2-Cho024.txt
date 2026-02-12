@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-Cho024",
+  "PackNo": "dm25ex2",
+  "CardName": "DG-パルテノン～龍の創り出される地～(DM25EX2超24/超50)",
+  "CardType": "DGフィールド",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "このDGフィールドが出た時、カードを１枚引く。すべてのプレイヤーは、各ターン、クリーチャーを３体までしか出せない。すべてのプレイヤーは、各ターン、呪文を３枚までしか唱えられない。"
+}

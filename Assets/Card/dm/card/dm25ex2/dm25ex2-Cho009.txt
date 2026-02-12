@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex2-Cho009",
+  "PackNo": "dm25ex2",
+  "CardName": "ヨビニオン・マルル(DM25EX2超9/超50)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "SR",
+  "Cost": "4",
+  "CardSubType": "5000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "ヨビニオン各ターン、自分の２体目のクリーチャーが出た時、自分の山札の上から１枚を見る。そのカードを手札に加えるか、タップしてマナゾーンに置く。"
+}
