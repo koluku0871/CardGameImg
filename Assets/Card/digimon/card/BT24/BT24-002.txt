@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT24-002",
+  "PackNo": "BT24",
+  "CardName": "プカモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン終了時】[ターンに1回]1コスト支払うことで、特徴に「TS」を持つ青のこのデジモンをアクティブにする。\n",
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/イリアス/TS"
+}

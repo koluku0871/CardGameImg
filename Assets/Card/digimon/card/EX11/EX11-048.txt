@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "EX11-048",
+  "PackNo": "EX11",
+  "CardName": "ゴースモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Text": "[効果]\n【移動時】【登場時】相手のターン終了まで、特徴に「ゴースト型」を持つ自分のデジモン1体は≪道連れ≫を得る。\n[進化元効果]\n【消滅時】メモリー+1。\n",
+  "Element": "紫",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "ゴースト型/リベレイター"
+}

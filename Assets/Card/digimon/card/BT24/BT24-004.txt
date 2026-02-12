@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT24-004",
+  "PackNo": "BT24",
+  "CardName": "ワニャモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]特徴に「イリアス」を持つ自分のデジモンが登場したとき、≪1ドロー≫。\n",
+  "Element": "緑",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/イリアス/TS"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT24-036",
+  "PackNo": "BT24",
+  "CardName": "メディックモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】【消滅時】ターン終了まで、相手のデジモン1体をDP-3000。\n",
+  "Element": "黄",
+  "CardCategory": "超/アプモン",
+  "CardType": "ライフ",
+  "CardSubType": "メディカル"
+}
