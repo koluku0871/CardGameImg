@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-033a_b",
+  "PackNo": "dmex08",
+  "CardName": "激竜王ガイアール・オウドラゴン(DMEX0833/???)",
+  "CardType": "",
+  "Element": "火",
+  "CardRarity": "VIC",
+  "Cost": "24",
+  "CardSubType": "",
+  "CardCategory": "キング・コマンド・ドラゴン/ハンター",
+  "Text": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp4-Sec23",
+  "PackNo": "dm25rp4",
+  "CardName": "蛇誕怪人ギャスカ(DM25RP4㊙23/㊙24)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "1000",
+  "CardCategory": "デビルマスク",
+  "Text": "D・D・D：火のカード１枚を自分の手札から捨てるスピードアタッカー"
+}

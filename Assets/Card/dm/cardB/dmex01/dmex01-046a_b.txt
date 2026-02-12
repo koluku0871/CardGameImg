@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex01-046a_b",
+  "PackNo": "dmex01",
+  "CardName": "激竜王ガイアール・オウドラゴン{sideB}{Top}(DMEX0146/80)",
+  "CardType": "",
+  "Element": "火",
+  "CardRarity": "VIC",
+  "Cost": "24",
+  "CardSubType": "",
+  "CardCategory": "キング・コマンド・ドラゴン/ハンター",
+  "Text": "サイキック・セル"
+}

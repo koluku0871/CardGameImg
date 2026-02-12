@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22bd1-007a_b",
+  "PackNo": "dm22bd1",
+  "CardName": "最強龍オウギンガ・ゼロ(DM22BD17/19)",
+  "CardType": "ドラグハート・クリーチャー",
+  "Element": "火",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "9000",
+  "CardCategory": "ガイアール・コマンド・ドラゴン",
+  "Text": "W・ブレイカーバトル中、このクリーチャーのパワーを+4000する。"
+}

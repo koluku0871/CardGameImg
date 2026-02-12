@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmpcd03-a02a_b",
+  "PackNo": "dmpcd03",
+  "CardName": "激竜王ガイアール・オウドラゴンP'S(DMPCD03激2/激17)",
+  "CardType": "サイキック・スーパー・クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": ""
+}

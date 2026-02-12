@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmr13-051a_b",
+  "PackNo": "dmr13",
+  "CardName": "龍素記号nbライプニッツ(DMR1351/110)",
+  "CardType": "ドラグハート・クリーチャー",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "クリスタル・コマンド・ドラゴン",
+  "Text": "このクリーチャーは攻撃もブロックもされない。"
+}

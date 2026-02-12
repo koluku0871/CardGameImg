@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp4-ChoSec03",
+  "PackNo": "dm25rp4",
+  "CardName": "LOVE＆ABYSS(DM25RP4超㊙3/超㊙10)",
+  "CardType": "呪文",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "9",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "プレイヤーを１人選ぶ。そのプレイヤーはバトルゾーン、手札、墓地にある自身のカードをすべて山札に加えてシャッフルする。"
+}

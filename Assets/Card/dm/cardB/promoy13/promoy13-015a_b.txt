@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy13-015a_b",
+  "PackNo": "promoy13",
+  "CardName": "星龍解ガイギンガ・ソウル(DMPROMOY13P15/Y13)",
+  "CardType": "ドラグハート・クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "7",
+  "CardSubType": "8000",
+  "CardCategory": "ガイアール・コマンド・ドラゴン",
+  "Text": "このクリーチャーが各ターンはじめてタップした時、アンタップする。W・ブレイカー"
+}

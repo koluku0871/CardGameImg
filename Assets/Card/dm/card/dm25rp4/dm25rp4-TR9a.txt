@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp4-TR9a",
+  "PackNo": "dm25rp4",
+  "CardName": "雷撃の冥将クーゼン/ダーク・ライフ(DM25RP4TR9/TR9)",
+  "CardType": "クリーチャー",
+  "Element": "闇/自然",
+  "CardRarity": "VR",
+  "Cost": "5",
+  "CardSubType": "6000",
+  "CardCategory": "デーモン・コマンド",
+  "Text": "フシギバース[dn08]マッハファイタースレイヤーW・ブレイカーラスト・バースト"
+}

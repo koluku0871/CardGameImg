@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx25-v10a_b",
+  "PackNo": "dmx25",
+  "CardName": "絶対絶命ガロウズ・ゴクドラゴン(DMX25V10/V12)",
+  "CardType": "",
+  "Element": "光/水/闇/火/自然",
+  "CardRarity": "VIC",
+  "Cost": "30",
+  "CardSubType": "",
+  "CardCategory": "レインボー・コマンド・ドラゴン/エイリアン",
+  "Text": ""
+}

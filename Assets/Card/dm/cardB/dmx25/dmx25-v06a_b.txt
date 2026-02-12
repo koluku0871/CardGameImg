@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx25-v06a_b",
+  "PackNo": "dmx25",
+  "CardName": "雷獣ヴォルグ・ティーガー(DMX25V6/V12)",
+  "CardType": "",
+  "Element": "闇",
+  "CardRarity": "VIC",
+  "Cost": "12",
+  "CardSubType": "",
+  "CardCategory": "デーモン・コマンド/ハンター",
+  "Text": ""
+}

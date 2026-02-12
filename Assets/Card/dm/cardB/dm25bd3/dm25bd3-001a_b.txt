@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25bd3-001a_b",
+  "PackNo": "dm25bd3",
+  "CardName": "超戦覇龍ガイNEXT(DM25BD31/20)",
+  "CardType": "ドラグハート・クリーチャー",
+  "Element": "火",
+  "CardRarity": "WVC",
+  "Cost": "10",
+  "CardSubType": "17000",
+  "CardCategory": "ガイアール・コマンド・ドラゴン",
+  "Text": "T・ブレイカー自分のクリーチャーすべてに「スピードアタッカー」を与える。龍回避：このクリーチャーが離れる時、かわりにフォートレス側に裏返す。"
+}

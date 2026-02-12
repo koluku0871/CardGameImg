@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-029a_b",
+  "PackNo": "dmx22b",
+  "CardName": "激竜王ガイアール・オウドラゴン(DMX2229/？？？)",
+  "CardType": "",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "24",
+  "CardSubType": "",
+  "CardCategory": "キング・コマンド・ドラゴン/ハンター",
+  "Text": ""
+}

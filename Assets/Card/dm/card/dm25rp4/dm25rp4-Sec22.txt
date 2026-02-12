@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp4-Sec22",
+  "PackNo": "dm25rp4",
+  "CardName": "オア:ナテハ(DM25RP4㊙22/㊙24)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ノワールアビス",
+  "Text": "このクリーチャーが出た時、相手の手札を１枚見ないで選び、捨てさせる。このクリーチャーが破壊された時、相手はカードを１枚引く。"
+}

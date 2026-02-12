@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25rp4-054",
+  "PackNo": "dm25rp4",
+  "CardName": "撃機音愛クルーカ(DM25RP454/78)",
+  "CardType": "NEOクリーチャー",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "4500",
+  "CardCategory": "マジック・マーメイド",
+  "Text": "NEO進化：光、水、または自然のクリーチャー１体の上に置いてもよい。（カードが下にあれば、これをNEO進化クリーチャーとして扱う）自分のターンの終わりに、このクリーチャーをアンタップする。"
+}

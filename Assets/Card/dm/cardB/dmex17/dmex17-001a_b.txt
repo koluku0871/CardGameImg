@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-001a_b",
+  "PackNo": "dmex17",
+  "CardName": "雷獣ヴォルグ・ティーガー(DMEX171/138)",
+  "CardType": "",
+  "Element": "闇",
+  "CardRarity": "VIC",
+  "Cost": "12",
+  "CardSubType": "",
+  "CardCategory": "デーモン・コマンド/ハンター",
+  "Text": ""
+}

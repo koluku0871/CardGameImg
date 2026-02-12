@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "promoy13-040a_b",
+  "PackNo": "promoy13",
+  "CardName": "熱血龍リトルビッグホーン(DMPROMOY13P40/Y13)",
+  "CardType": "ドラグハート・クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ガイアール・コマンド・ドラゴン",
+  "Text": "このクリーチャーは、タップされていないクリーチャーを攻撃できる。"
+}

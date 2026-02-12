@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm22bd1-002a_b",
+  "PackNo": "dm22bd1",
+  "CardName": "勝利の覇闘ガイラオウ(DM22BD12/19)",
+  "CardType": "ドラグハート・クリーチャー",
+  "Element": "火",
+  "CardRarity": "VIC",
+  "Cost": "9",
+  "CardSubType": "11000",
+  "CardCategory": "ガイアール・コマンド・ドラゴン",
+  "Text": "スピードアタッカーW・ブレイカー各ターン、はじめて自分が攻撃された時、このクリーチャーとその攻撃クリーチャーをバトルさせてもよい。"
+}

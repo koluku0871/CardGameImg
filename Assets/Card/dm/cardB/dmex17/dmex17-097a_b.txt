@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex17-097a_b",
+  "PackNo": "dmex17",
+  "CardName": "熱血龍リトルビッグホーン(DMEX1797/138)",
+  "CardType": "ドラグハート・クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "5",
+  "CardSubType": "5000",
+  "CardCategory": "ガイアール・コマンド・ドラゴン",
+  "Text": "このクリーチャーは、タップしていないクリーチャーを攻撃できる。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmex08-111a_b",
+  "PackNo": "dmex08",
+  "CardName": "{撃墜王ガイアール・キラードラゴン}Bottom(DMEX08111/???)",
+  "CardType": "サイキック・スーパー・クリーチャー",
+  "Element": "闇/火",
+  "CardRarity": "-",
+  "Cost": "",
+  "CardSubType": "9000",
+  "CardCategory": "",
+  "Text": "ブロッカーW・ブレイカー各ターン、相手のクリーチャーがはじめて破壊された時、このクリーチャーをアンタップする。"
+}

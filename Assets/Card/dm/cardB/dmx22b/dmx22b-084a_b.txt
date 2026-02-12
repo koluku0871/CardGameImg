@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dmx22b-084a_b",
+  "PackNo": "dmx22b",
+  "CardName": "最強龍オウギンガ・ゼロ(DMX2284/？？？)",
+  "CardType": "ドラグハート・クリーチャー",
+  "Element": "火",
+  "CardRarity": "-",
+  "Cost": "7",
+  "CardSubType": "9000",
+  "CardCategory": "ガイアール・コマンド・ドラゴン",
+  "Text": "W・ブレイカー（このクリーチャーはシールドを２つブレイクする）バトル中、このクリーチャーのパワーを+4000する。"
+}
