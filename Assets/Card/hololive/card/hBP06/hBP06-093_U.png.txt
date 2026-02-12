@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-093_U",
+  "PackNo": "hBP06",
+  "CardName": "山田ルイ54世",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

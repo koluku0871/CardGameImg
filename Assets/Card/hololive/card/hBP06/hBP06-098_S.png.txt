@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-098_S",
+  "PackNo": "hBP06",
+  "CardName": "鬼神刀「阿修羅」",
+  "CardType": "サポート・ツール",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

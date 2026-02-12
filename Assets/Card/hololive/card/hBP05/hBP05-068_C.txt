@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP05-068_C",
+  "PackNo": "hBP05",
+  "CardName": "白上フブキ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>ゆるゆる休養日</span>このホロメンにマスコットが付いているなら、自分のデッキの上から1枚を見る。そのカードをデッキの上か下に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>おやつ食べてゲーム最高！20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

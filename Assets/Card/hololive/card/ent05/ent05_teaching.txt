@@ -1,0 +1,7 @@
+﻿{
+  "CardNo": "ent05_teaching",
+  "PackNo": "ent05",
+  "CardName": "デッキ構築ルール",
+  "CardType": "サポート",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

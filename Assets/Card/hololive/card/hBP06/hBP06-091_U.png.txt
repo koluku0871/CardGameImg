@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-091_U",
+  "PackNo": "hBP06",
+  "CardName": "ホロライブ1期生",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

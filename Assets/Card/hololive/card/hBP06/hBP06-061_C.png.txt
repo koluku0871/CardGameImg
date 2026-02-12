@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-061_C",
+  "PackNo": "hBP06",
+  "CardName": "ロボ子さん",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ボクと過ごす甘いひと時20<spanclass=\"tokkou\"></span></span>このホロメンに〈ろぼさー〉が付いているなら、相手のセンターホロメンに特殊ダメージ20を与える。</p></div></div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP05-004_OSR",
+  "PackNo": "hBP05",
+  "CardName": "猫又おかゆ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "青",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-1]<span>いっくよー</span>[ターンに1回]自分のセンターホロメンが〈猫又おかゆ〉なら使える：相手のホロメン1人に特殊ダメージ10を与える。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-3]<span>ウマウマ！</span>[ゲームに1回]相手のセンターホロメンとHPが減っているバックホロメン1人を交代できる。その後、自分のセンターホロメンが〈猫又おかゆ〉なら、自分のデッキを3枚引く。</p></div></div>"
+}

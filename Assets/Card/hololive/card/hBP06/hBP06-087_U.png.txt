@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-087_U",
+  "PackNo": "hBP06",
+  "CardName": "しめじダンス",
+  "CardType": "サポート・イベント",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

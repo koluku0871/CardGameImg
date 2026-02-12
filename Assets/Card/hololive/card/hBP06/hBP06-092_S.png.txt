@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-092_S",
+  "PackNo": "hBP06",
+  "CardName": "マヨネーズちゅっちゅっ",
+  "CardType": "サポート・イベント",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

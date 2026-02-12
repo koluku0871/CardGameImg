@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-096_U",
+  "PackNo": "hBP06",
+  "CardName": "2人あわせてラムダック！",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

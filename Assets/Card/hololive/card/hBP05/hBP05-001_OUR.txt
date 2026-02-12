@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP05-001_OUR",
+  "PackNo": "hBP05",
+  "CardName": "白銀ノエル",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "白",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>白銀の騎士達</span>[ターンに1回]自分のホロメンが相手のホロメンをダウンさせた時に使える：自分のデッキから、#3期生を持つホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>スーパーまずった太郎</span>[ゲームに1回]相手のターンで、自分の#3期生を持つホロメンがダウンした時に使える：自分の減るライフ-1。その後、そのホロメンがBuzzホロメンか2ndホロメンなら、自分のデッキを2枚引く。</p></div></div>"
+}

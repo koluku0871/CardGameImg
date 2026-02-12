@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-097_C",
+  "PackNo": "hBP06",
+  "CardName": "カワイイスタジャン",
+  "CardType": "サポート・ツール",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

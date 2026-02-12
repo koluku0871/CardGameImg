@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP05-005_OUR",
+  "PackNo": "hBP05",
+  "CardName": "癒月ちょこ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "紫",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-1]<span>ちょこまみれになっちゃえっ！</span>[ターンに1回]自分のデッキから、#食べ物を持つイベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>ちょこっとクッキング</span>[ゲームに1回]自分のアーカイブの#食べ物を持つイベント1～4枚を手札に戻す。その後、このターンの間、自分のステージの#料理を持つホロメン全員のアーツ+40。</p></div></div>"
+}

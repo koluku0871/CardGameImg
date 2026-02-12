@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP05-003_SEC",
+  "PackNo": "hBP05",
+  "CardName": "尾丸ポルカ",
+  "CardType": "推しホロメン",
+  "CardRarity": "SEC",
+  "Element": "赤",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>ポルカの伝説</span>[ターンに1回]自分の手札が自分のステージの〈座員〉の枚数と同じになるまで、自分のデッキを引く。ただし、引ける枚数は4枚まで。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>成功体験－！！！</span>[ゲームに1回]自分のデッキの上から7枚を見る。その中から、[〈尾丸ポルカ〉とスタッフ]1枚ずつを公開し、公開した[〈尾丸ポルカ〉とスタッフ]を手札に加える。そして残ったカードをアーカイブする。</p></div></div>"
+}

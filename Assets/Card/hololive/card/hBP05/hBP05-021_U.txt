@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP05-021_U",
+  "PackNo": "hBP05",
+  "CardName": "アイラニ・イオフィフティーン",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>Hellobeb!</span>自分のアーカイブのエール1枚をこのホロメンに送れる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>抹茶めっちゃ好き(´ڡ`*)40<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

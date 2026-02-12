@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP05-008_S",
+  "PackNo": "hBP05",
+  "CardName": "白銀ノエル",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>まっするまっする</span>[コラボポジション限定]自分の#3期生を持つDebutホロメンがセンターポジションで受けるダメージ-20。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>楽しく！20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

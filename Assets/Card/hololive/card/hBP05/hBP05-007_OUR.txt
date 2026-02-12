@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP05-007_OUR",
+  "PackNo": "hBP05",
+  "CardName": "不知火フレア",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "黄",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>キミの力になりたいから</span>[ターンに1回]自分のコラボポジションの[Debutホロメンか1stホロメンかSpotホロメン]と、バックホロメンの〈不知火フレア〉1人を交代させる。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>みんなで盛り上がろう！</span>[ゲームに1回]自分のステージのエール1～5枚を自分の〈不知火フレア〉1人に付け替えられる。その後、このターンの間、自分のセンターホロメンのエール1枚につき、自分のステージのホロメン全員のアーツ+10。</p></div></div>"
+}

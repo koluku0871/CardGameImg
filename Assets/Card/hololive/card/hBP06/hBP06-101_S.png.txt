@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-101_S",
+  "PackNo": "hBP06",
+  "CardName": "ムーナびと",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

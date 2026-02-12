@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-074_S",
+  "PackNo": "hBP06",
+  "CardName": "夏色まつり",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>天使界隈</span>このターンに自分が使っていたサポートカード1枚につき、このターンの間、自分のセンターホロメンのアーツ+10。ただし、数える枚数は3枚まで。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>CUREPALE30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

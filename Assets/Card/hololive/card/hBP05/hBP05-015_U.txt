@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP05-015_U",
+  "PackNo": "hBP05",
+  "CardName": "兎田ぺこら",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>にんじん…30<spanclass=\"tokkou\"></span></span>自分のステージに#3期生を持つホロメンが3人以上いるなら、自分のエールデッキの上から1枚をこのホロメンに送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>いらないぺこ？30<spanclass=\"tokkou\"></span></span>自分の推しホロメンの色が白なら、自分のデッキを1枚引く。</p></div></div>"
+}

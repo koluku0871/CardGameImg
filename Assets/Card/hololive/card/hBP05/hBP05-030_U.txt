@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP05-030_U",
+  "PackNo": "hBP05",
+  "CardName": "尾丸ポルカ",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>まばゆい日常を君と</span>このターンの間、自分のファンが付いているセンターホロメンのアーツ+10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>うたたねの記念日20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

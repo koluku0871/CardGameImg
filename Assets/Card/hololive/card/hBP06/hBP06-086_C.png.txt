@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-086_C",
+  "PackNo": "hBP06",
+  "CardName": "愛情いっぱい召し上がれ♪",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}
