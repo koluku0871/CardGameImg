@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT7-002_P2",
+  "PackNo": "BT7",
+  "CardName": "プカモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]自分のデジモンの進化元からデジモンが登場したとき、メモリー+1。\n",
+  "Element": "青",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT21-037_P2",
+  "PackNo": "BT21",
+  "CardName": "ライドラモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 青緑／3"
+  ],
+  "Text": "[特殊進化]\n〔進化〕「ブイモン」:コスト2\n[効果]\n≪貫通≫≪アーマー解除≫【進化時】相手のデジモン1体をレストさせる。その後、相手のターン終了まで、このデジモンをDP+2000。\n",
+  "Element": "青緑",
+  "CardCategory": "アーマー体",
+  "CardType": "フリー",
+  "CardSubType": "獣型"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT6-021_P2",
+  "PackNo": "BT6",
+  "CardName": "モドキベタモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 青／0"
+  ],
+  "Text": "[効果]\n【お互いのターン】相手はテイマーの効果以外でメモリーをプラスできない。\n",
+  "Element": "青",
+  "CardCategory": "成長期",
+  "CardType": "データ種",
+  "CardSubType": "両生類型"
+}

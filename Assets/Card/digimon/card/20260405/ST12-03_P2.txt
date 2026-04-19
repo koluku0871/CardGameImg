@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST12-03_P2",
+  "PackNo": "ST12",
+  "CardName": "ソーラーモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "Lv": [
+    "LV2 : 赤／0"
+  ],
+  "Text": "[効果]\n【お互いのターン】お互いは支払う登場コストをマイナスできない。\n",
+  "Element": "赤",
+  "CardCategory": "成長期",
+  "CardType": "ワクチン種",
+  "CardSubType": "マシーン型"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "BT20-072_P2",
+  "PackNo": "BT20",
+  "CardName": "ファントモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "Lv": [],
+  "Text": "",
+  "Element": "紫",
+  "CardCategory": "完全体",
+  "CardType": "ウィルス種",
+  "CardSubType": "ゴースト型/リベレイター"
+}

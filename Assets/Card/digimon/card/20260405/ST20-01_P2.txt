@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "ST20-01_P2",
+  "PackNo": "ST20",
+  "CardName": "コロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "Lv": [],
+  "Text": "[進化元効果]\n【お互いのターン】特徴に「アドベンチャー」を持つこのデジモンをDP+1000。\n",
+  "Element": "黒",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型/アドベンチャー"
+}

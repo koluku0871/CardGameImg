@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT14-001_P4",
+  "PackNo": "BT14",
+  "CardName": "コロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]相手のセキュリティが減ったとき、≪1ドロー≫。\n",
+  "Element": "赤",
+  "CardCategory": "幼年期",
+  "CardSubType": "レッサー型"
+}

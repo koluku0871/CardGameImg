@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST9-09_P2",
+  "PackNo": "ST9",
+  "CardName": "スティングモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "Lv": [
+    "LV3 : 緑青／2"
+  ],
+  "Text": "[効果]\n手札のこのカードが登場するとき、青の自分のデジモンがいるなら、支払う登場コスト-1。\n[進化元効果]\n【アタック時】青の自分のデジモンがいるなら、≪1ドロー≫。\n",
+  "Element": "緑",
+  "CardCategory": "成熟期",
+  "CardType": "フリー",
+  "CardSubType": "昆虫型"
+}
