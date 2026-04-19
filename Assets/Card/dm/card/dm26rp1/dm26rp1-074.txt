@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26rp1-074",
+  "PackNo": "dm26rp1",
+  "CardName": "ノーガルディ・ネギオ＆ガルダンディ・ナスオ(DM26RP174/77)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "3000",
+  "CardCategory": "ワイルド・ベジーズ",
+  "Text": "このクリーチャーがブロックされた時、このクリーチャーは相手のシールドを２つブレイクする。"
+}

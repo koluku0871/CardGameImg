@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26rp1-T008",
+  "PackNo": "dm26rp1",
+  "CardName": "ヤット・パウル(DM26RP1T8/T10)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "このクリーチャーが出た時、自分のシールドを１つ手札に加える。その「S・トリガー」は使えない。"
+}

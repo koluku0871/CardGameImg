@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26sd1-p012",
+  "PackNo": "dm26sd1",
+  "CardName": "デデカブラ(DM26SD112/12)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "12000",
+  "CardCategory": "グランセクト",
+  "Text": "このクリーチャーは攻撃できない。"
+}

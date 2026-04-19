@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26sd1-n009",
+  "PackNo": "dm26sd1",
+  "CardName": "ヘルトッQ(DM26SD19/12)",
+  "CardType": "クリーチャー",
+  "Element": "ゼロ",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5050",
+  "CardCategory": "ジョーカーズ",
+  "Text": "このクリーチャーは、出たターンに相手プレイヤーを攻撃できる。このクリーチャーが出た時、自分のジョーカーズ・クリーチャー１体につき、カードを１枚引いてもよい。"
+}

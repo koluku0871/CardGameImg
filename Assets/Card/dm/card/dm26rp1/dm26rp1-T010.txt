@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26rp1-T010",
+  "PackNo": "dm26rp1",
+  "CardName": "ポップ・ルビン(DM26RP1T10/T10)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ファイアー・バード",
+  "Text": "このクリーチャーで攻撃するかわりに、タップして次のt能力を使ってもよい。t自分のドラゴン・クリーチャーを１体アンタップする。"
+}

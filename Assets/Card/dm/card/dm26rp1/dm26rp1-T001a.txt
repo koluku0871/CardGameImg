@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26rp1-T001a",
+  "PackNo": "dm26rp1",
+  "CardName": "霊騎コルテオ/プロテクション・サークル(DM26RP1T1/T10)",
+  "CardType": "クリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "2000",
+  "CardCategory": "アーク・セラフィム/オリジン",
+  "Text": "S・トリガーこのクリーチャーが出た時、自分のクリーチャー１体につき、相手のクリーチャーを１体選び、タップしてもよい。"
+}

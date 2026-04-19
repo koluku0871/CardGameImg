@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26sd1-v006a",
+  "PackNo": "dm26sd1",
+  "CardName": "清浄のカルマインカ/オキヨメ・水晶チャージャー(DM26SD16/12)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "オラクル・セレス/スノーフェアリー",
+  "Text": "相手のクリーチャーは、相手の手札以外から出ない。"
+}

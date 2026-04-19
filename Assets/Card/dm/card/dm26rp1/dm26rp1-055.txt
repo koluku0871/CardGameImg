@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26rp1-055",
+  "PackNo": "dm26rp1",
+  "CardName": "プラスワン・スパーク(DM26RP155/77)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー（このカードを自分のシールドゾーンから手札に加える時、コストを支払わずにすぐ実行してもよい）相手のクリーチャーをすべてタップする。カードを１枚引く。"
+}

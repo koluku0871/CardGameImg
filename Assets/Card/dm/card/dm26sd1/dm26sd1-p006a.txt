@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26sd1-p006a",
+  "PackNo": "dm26sd1",
+  "CardName": "界王類咆哮目ジュラノキル/ジュラスティック・ハウル(DM26SD16/12)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "1",
+  "CardSubType": "12000",
+  "CardCategory": "ジュラシック・コマンド・ドラゴン",
+  "Text": "このクリーチャーは攻撃できない。"
+}

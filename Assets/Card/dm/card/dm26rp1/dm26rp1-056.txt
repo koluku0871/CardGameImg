@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26rp1-056",
+  "PackNo": "dm26rp1",
+  "CardName": "アドベント・チャージャー(DM26RP156/77)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "コスト３以下の、クリーチャーではないカードを１枚、自分の手札からコストを支払わずに実行してもよい。チャージャー（この呪文を唱えた後、墓地のかわりにマナゾーンに置く）"
+}
