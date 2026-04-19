@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex4-T09a",
+  "PackNo": "dm25ex4",
+  "CardName": "STARSCREAM-ALTMODE-(DM25EX4T9/T30)",
+  "CardType": "サイキック・クリーチャー",
+  "Element": "闇/火",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ソニック・コマンド/エイリアン",
+  "Text": "スピードアタッカーこのクリーチャーが攻撃する時、相手とガチンコ・ジャッジする。自分が勝ったら、このクリーチャーを《STARSCREAM-BOTMODE-》側に裏返す。（ガチンコ・ジャッジ：自分と相手は自身の山札の上から１枚を表向きにし、それを下に置く。そのカードのコストが相手以上なら、自分の勝ちとする）"
+}

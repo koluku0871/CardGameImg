@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex4-057a",
+  "PackNo": "dm25ex4",
+  "CardName": "鬼人形ブソウ＆ボーグ/ヒーハー・ブースト(DM25EX457/65)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "3000",
+  "CardCategory": "デスパペット/ハンター/エイリアン",
+  "Text": "クリーチャーが自分の超次元ゾーンから出た時、このクリーチャーを自分の墓地から出してもよい。"
+}

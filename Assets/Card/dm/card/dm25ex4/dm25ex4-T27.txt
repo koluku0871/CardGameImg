@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex4-T27",
+  "PackNo": "dm25ex4",
+  "CardName": "次元流の豪力(DM25EX4T27/T30)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "C",
+  "Cost": "5",
+  "CardSubType": "2000",
+  "CardCategory": "ビーストフォーク/エイリアン",
+  "Text": "このクリーチャーが出た時、光、火、または自然の、コスト６以下のサイキック・クリーチャーを１体、自分の超次元ゾーンから出す。"
+}

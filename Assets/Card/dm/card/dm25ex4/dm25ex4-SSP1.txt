@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex4-SSP1",
+  "PackNo": "dm25ex4",
+  "CardName": "メンデルスゾーン(DM25EX4SSP1/SSP1)",
+  "CardType": "呪文",
+  "Element": "火/自然",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から２枚を表向きにする。その中からドラゴン・カードをすべて、タップしてマナゾーンに置き、残りを墓地に置く。"
+}

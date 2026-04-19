@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex4-TR03a",
+  "PackNo": "dm25ex4",
+  "CardName": "勝利のガイアール・カイザー(DM25EX4TR3/TR21)",
+  "CardType": "サイキック・クリーチャー",
+  "Element": "闇/火/自然",
+  "CardRarity": "VIC",
+  "Cost": "7",
+  "CardSubType": "5000",
+  "CardCategory": "レッド・コマンド・ドラゴン/ハンター",
+  "Text": "スピードアタッカーこのクリーチャーが出た時、そのターン、このクリーチャーはアンタップしているクリーチャーを攻撃できる。"
+}

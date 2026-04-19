@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex4-051",
+  "PackNo": "dm25ex4",
+  "CardName": "アカシック・マップ(DM25EX451/65)",
+  "CardType": "呪文",
+  "Element": "ゼロ",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を見る。その中からデュエリストを１つ表向きにし、手札に加えてもよい。残りを好きな順序で山札の下に置く。"
+}

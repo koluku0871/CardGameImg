@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex4-020",
+  "PackNo": "dm25ex4",
+  "CardName": "最高にして彩光なる再興(DM25EX420/65)",
+  "CardType": "呪文",
+  "Element": "光/水/闇/火/自然",
+  "CardRarity": "VR",
+  "Cost": "12",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "名前が異なる、コスト15以下のサイキック・クリーチャーを好きな数、自分の超次元ゾーンから出す。"
+}

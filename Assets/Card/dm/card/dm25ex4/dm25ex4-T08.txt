@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex4-T08",
+  "PackNo": "dm25ex4",
+  "CardName": "超次元ガード・ホール(DM25EX4T8/T30)",
+  "CardType": "呪文",
+  "Element": "光/闇",
+  "CardRarity": "R",
+  "Cost": "7",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "進化ではないクリーチャーを１体選び、シールド化する。光または闇の、コスト10以下のコマンド・サイキック・クリーチャーを１体、自分の超次元ゾーンから出す。"
+}

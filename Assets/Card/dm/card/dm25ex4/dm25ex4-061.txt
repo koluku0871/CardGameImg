@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex4-061",
+  "PackNo": "dm25ex4",
+  "CardName": "ワンダフルな腕韻リローデッド(DM25EX461/65)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "C",
+  "Cost": "1",
+  "CardSubType": "1000",
+  "CardCategory": "マジック・アウトレイジ",
+  "Text": "このクリーチャーが出た時、自分の超次元ゾーンに火のクリーチャーがなければ、このクリーチャーを超次元ゾーンに置く。"
+}

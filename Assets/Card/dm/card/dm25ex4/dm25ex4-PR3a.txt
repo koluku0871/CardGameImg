@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm25ex4-PR3a",
+  "PackNo": "dm25ex4",
+  "CardName": "豚葬槍ブータン(DM25EX4PR3/PR5)",
+  "CardType": "サイキック・クリーチャー",
+  "Element": "闇",
+  "CardRarity": "SPR",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "アウトレイジMAX",
+  "Text": "スレイヤーこのクリーチャーが攻撃する時、相手の手札を１枚見ないで選び、捨てさせてもよい。覚醒：相手が各ターン自身の２枚目の手札を捨てた時、このクリーチャーをコストが次に大きいほうに裏返す。"
+}
