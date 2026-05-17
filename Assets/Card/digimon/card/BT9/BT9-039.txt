@@ -4,13 +4,13 @@
   "CardName": "ダークスーパースターモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黄黒／3"
   ],
   "Text": "",
   "Element": "黄黒",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "突然変異型"
 }

@@ -4,13 +4,13 @@
   "CardName": "バクモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒赤／0"
   ],
   "Text": "[進化元効果]\n【お互いのターン】このデジモンが2色以上の間、このデジモンをDP+1000。\n",
   "Element": "黒",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "聖獣型"
 }

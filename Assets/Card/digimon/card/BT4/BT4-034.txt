@@ -4,13 +4,13 @@
   "CardName": "レガレクスモン",
   "CardLevel": "Lv.6",
   "CardRarity": "C",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 青／3"
   ],
   "Text": "[効果]\n【アタック時】相手のデジモン1体の進化元を、下から1枚破棄する。そうしたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）して、メモリーを+1する。\n",
   "Element": "青",
   "Cost": "11",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "水棲型"
 }

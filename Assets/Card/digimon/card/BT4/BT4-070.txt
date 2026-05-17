@@ -4,13 +4,13 @@
   "CardName": "インセキモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／3"
   ],
   "Text": "[効果]\n≪再起動≫（相手のアクティブフェイズに、このデジモンをアクティブにする）\n",
   "Element": "黒",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "鉱石型"
 }

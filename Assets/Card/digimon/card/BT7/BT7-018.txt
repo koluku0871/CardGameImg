@@ -4,13 +4,13 @@
   "CardName": "ゴマモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[効果]\n【登場時】進化元から登場したとき、≪2ドロー≫（自分のデッキからカードを2枚引く）。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "海獣型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ヴォルクドラモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 赤／3"
   ],
   "Text": "[進化元効果]\n≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）\n",
   "Element": "赤",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "竜型"
 }

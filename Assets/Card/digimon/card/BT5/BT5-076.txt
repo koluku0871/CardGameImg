@@ -4,13 +4,13 @@
   "CardName": "ブラックグラウモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 紫／2"
   ],
   "Text": "[進化元効果]\n【自分のターン】［ターンに1回］他の自分のデジモンが消滅したとき、このターンの間、このデジモンは≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）を得る。\n",
   "Element": "紫",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "魔竜型"
 }

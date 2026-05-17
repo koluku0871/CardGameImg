@@ -4,8 +4,8 @@
   "CardName": "グリモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンがDP6000以上のとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n",
-  "Element": "赤",
-  "CardCategory": "幼年期"
+  "Element": "赤"
 }

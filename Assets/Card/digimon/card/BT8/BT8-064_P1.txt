@@ -4,13 +4,13 @@
   "CardName": "グレイモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黒赤／2"
   ],
   "Text": "[進化元効果]\n【相手のターン】赤の自分のデジモンがいる間、このデジモンは≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンをレストさせることでアタックの対象をこのデジモンにする）を得る。\n",
   "Element": "黒",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "恐竜型"
 }

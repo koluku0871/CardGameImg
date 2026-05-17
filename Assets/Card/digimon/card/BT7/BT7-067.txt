@@ -4,13 +4,13 @@
   "CardName": "ゴースモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 紫／1"
   ],
   "Text": "",
   "Element": "紫",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "ゴースト型"
 }

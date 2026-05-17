@@ -4,13 +4,13 @@
   "CardName": "グラウモンX抗体",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 赤／2"
   ],
   "Text": "[特殊進化]\n〔進化〕「グラウモン」から0\n[進化元効果]\n【自分のターン】自分の発揮するDP消滅効果の上限+1000。\n",
   "Element": "赤",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "魔竜型/X抗体"
 }

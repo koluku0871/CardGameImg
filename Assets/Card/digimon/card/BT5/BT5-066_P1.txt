@@ -4,13 +4,13 @@
   "CardName": "ワルもんざえモン",
   "CardLevel": "Lv.5",
   "CardRarity": "R",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／2"
   ],
   "Text": "",
   "Element": "黒",
   "Cost": "5",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "パペット型"
 }

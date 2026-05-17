@@ -4,13 +4,13 @@
   "CardName": "ケルビモン",
   "CardLevel": "Lv.6",
   "CardRarity": "R",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 黄／3"
   ],
   "Text": "[効果]\n【アタック時】自分のセキュリティが3枚以下のとき、自分のトラッシュから、黄のデジモンカード1枚を自分のセキュリティの上に裏向きで置く。\n",
   "Element": "黄",
   "Cost": "11",
-  "CardCategory": "究極体",
   "CardType": "ワクチン種",
   "CardSubType": "智天使型/三大天使"
 }

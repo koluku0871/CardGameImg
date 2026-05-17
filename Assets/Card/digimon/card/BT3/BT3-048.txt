@@ -4,13 +4,13 @@
   "CardName": "ガルゴモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／1"
   ],
   "Text": "[進化元効果]\n【自分のターン】レスト状態の相手のデジモン1体ごとに、このデジモンのDPを+1000する。\n",
   "Element": "緑",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "獣人型"
 }

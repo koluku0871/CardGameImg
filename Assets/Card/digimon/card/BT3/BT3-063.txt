@@ -4,13 +4,13 @@
   "CardName": "スカモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黒／2"
   ],
   "Text": "[効果]\n【消滅時】自分のデッキの上から3枚オープンする。その中の「チューモン」1枚をコストを支払わずに登場できる。残ったカードは好きな順番でデッキの下に戻す。\n",
   "Element": "黒",
   "Cost": "3",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "ミュータント型"
 }

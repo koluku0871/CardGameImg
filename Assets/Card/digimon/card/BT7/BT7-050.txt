@@ -4,13 +4,13 @@
   "CardName": "トリケラモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 緑／2"
   ],
   "Text": "",
   "Element": "緑",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "角竜型"
 }

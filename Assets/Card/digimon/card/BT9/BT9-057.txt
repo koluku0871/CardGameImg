@@ -4,13 +4,13 @@
   "CardName": "ベアモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒／0"
   ],
   "Text": "",
   "Element": "黒",
   "Cost": "2",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "獣型"
 }

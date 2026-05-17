@@ -4,13 +4,13 @@
   "CardName": "バクモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分のセキュリティが減ったとき、≪1ドロー≫。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "聖獣型"
 }

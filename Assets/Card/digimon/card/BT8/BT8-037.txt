@@ -4,13 +4,13 @@
   "CardName": "ディノヒューモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黄赤／2"
   ],
   "Text": "[進化元効果]\n【アタック時】このターンの間、相手のデジモン1体をDP-1000。\n",
   "Element": "黄赤",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "竜人型"
 }

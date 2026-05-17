@@ -4,13 +4,13 @@
   "CardName": "マッハモン",
   "CardLevel": "Lv.4",
   "CardRarity": "R",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黒／2"
   ],
   "Text": "[効果]\n≪デコイ《黒》≫（他の黒の自分のデジモンが相手の効果で消滅するとき、このデジモンを消滅させることで、その中の黒のデジモン1体は消滅しない）\n",
   "Element": "黒",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "サイボーグ型"
 }

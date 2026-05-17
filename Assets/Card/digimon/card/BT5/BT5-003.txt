@@ -4,9 +4,9 @@
   "CardName": "ピックモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【アタック時】自分のデジモンが3体以上いるとき、このターンの間、相手のデジモン1体のDPを-1000する。\n",
   "Element": "黄",
-  "CardCategory": "幼年期",
   "CardSubType": "マイナー型"
 }

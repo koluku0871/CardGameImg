@@ -4,13 +4,13 @@
   "CardName": "キウイモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[効果]\n【登場時】自分のデッキの上から3枚オープンする。その中の≪吸収進化≫を持つデジモンカード全てを手札に加える。残ったカードは好きな順番でデッキの下に戻す。\n",
   "Element": "緑",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "古代鳥型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ヴォルフモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "ハイブリッド体",
   "Lv": [
     "LV3 : 青／2"
   ],
   "Text": "[効果]\n手札のこのカードは、青の自分のテイマーを青のLv.3のデジモンとして扱い進化できる。\n",
   "Element": "青",
   "Cost": "5",
-  "CardCategory": "ハイブリッド体",
   "CardType": "ヴァリアブル種",
   "CardSubType": "戦士型"
 }

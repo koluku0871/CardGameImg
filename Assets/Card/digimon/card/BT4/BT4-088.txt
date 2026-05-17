@@ -4,13 +4,13 @@
   "CardName": "ダンデビモン",
   "CardLevel": "Lv.6",
   "CardRarity": "SR",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 紫／4"
   ],
   "Text": "[効果]\n【相手のターン】［ターンに1回］自分のセキュリティが減ったとき、相手のセキュリティを上から1枚破棄する。【消滅時】相手は、相手の手札を2枚破棄する。\n",
   "Element": "紫",
   "Cost": "12",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "堕天使型"
 }

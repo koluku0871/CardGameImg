@@ -4,12 +4,12 @@
   "CardName": "コクワモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒／0"
   ],
   "Text": "[効果]\n【お互いのターン】お互いは進化条件を無視できない。\n",
   "Element": "黒",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "マシーン型"
 }

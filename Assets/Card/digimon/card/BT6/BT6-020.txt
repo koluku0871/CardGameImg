@@ -4,13 +4,13 @@
   "CardName": "ギザモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[進化元効果]\n【自分のターン】進化元を持つ相手のデジモンがいない間、このデジモンのDPを+2000する。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "水棲哺乳類型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ホークモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "",
   "Element": "赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "フリー",
   "CardSubType": "鳥型"
 }

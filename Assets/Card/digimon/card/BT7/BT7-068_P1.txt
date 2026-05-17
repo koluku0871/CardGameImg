@@ -4,13 +4,13 @@
   "CardName": "ロップモン",
   "CardLevel": "Lv.3",
   "CardRarity": "R",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 紫／0"
   ],
   "Text": "[進化元効果]\n【自分のターン】［ターンに1回］自分のテイマーが登場したとき、メモリーを+1する。\n",
   "Element": "紫",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "獣型"
 }

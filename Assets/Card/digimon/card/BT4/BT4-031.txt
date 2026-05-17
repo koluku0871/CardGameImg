@@ -4,13 +4,13 @@
   "CardName": "マリンキメラモン",
   "CardLevel": "Lv.5",
   "CardRarity": "R",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 青／3"
   ],
   "Text": "[効果]\n【登場時】他の自分のデジモン1体を手札に戻すことで、進化元を持たない相手のデジモン1体を手札に戻す。そのデジモンの持つ進化元は破棄する。\n",
   "Element": "青",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "合成型"
 }

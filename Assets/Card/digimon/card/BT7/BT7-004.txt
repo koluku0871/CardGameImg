@@ -4,9 +4,9 @@
   "CardName": "コロモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【アタック時】自分のデッキの上から1枚オープンして、そのカードをデッキの上か下に戻す。\n",
   "Element": "緑",
-  "CardCategory": "幼年期",
   "CardSubType": "レッサー型"
 }

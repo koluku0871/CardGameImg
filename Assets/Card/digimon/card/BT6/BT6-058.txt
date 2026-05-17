@@ -4,13 +4,13 @@
   "CardName": "ナニモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黒／2"
   ],
   "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。\n",
   "Element": "黒",
   "Cost": "3",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "インベイド型"
 }

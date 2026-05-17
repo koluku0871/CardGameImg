@@ -4,13 +4,13 @@
   "CardName": "フェアリモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "ハイブリッド体",
   "Lv": [
     "LV3 : 黄／2"
   ],
   "Text": "[効果]\n手札のこのカードは、黄の自分のテイマーを黄のLv.3のデジモンとして扱い進化できる。\n",
   "Element": "黄",
   "Cost": "5",
-  "CardCategory": "ハイブリッド体",
   "CardType": "ヴァリアブル種",
   "CardSubType": "妖精型"
 }

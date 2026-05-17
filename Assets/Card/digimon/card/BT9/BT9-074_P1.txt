@@ -4,13 +4,13 @@
   "CardName": "メイクーモン",
   "CardLevel": "Lv.4",
   "CardRarity": "R",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 紫黄／3"
   ],
   "Text": "[効果]\n【セキュリティ】バトル終了時、このデジモンをコストを支払わずに登場させる。\n[進化元効果]\n【消滅時】このデジモンが2色以上だったとき、メモリー+2。\n",
   "Element": "紫黄",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "不明",
   "CardSubType": "不明"
 }

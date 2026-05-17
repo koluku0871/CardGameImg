@@ -4,13 +4,13 @@
   "CardName": "ジュエルビーモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 緑／3"
   ],
   "Text": "",
   "Element": "緑",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "昆虫型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ギルモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 紫／0"
   ],
   "Text": "[効果]\n【消滅時】効果で消滅していたなら、メモリー+1。\n",
   "Element": "紫",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "爬虫類型"
 }

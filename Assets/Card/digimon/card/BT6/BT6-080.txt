@@ -4,13 +4,13 @@
   "CardName": "オニスモン",
   "CardLevel": "Lv.6",
   "CardRarity": "U",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 紫／4"
   ],
   "Text": "[効果]\n≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）【登場時】Lv.5以下の相手のデジモン1体を消滅させる。\n",
   "Element": "紫",
   "Cost": "12",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "古代鳥型"
 }

@@ -4,13 +4,13 @@
   "CardName": "サングルゥモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 紫／2"
   ],
   "Text": "[進化元効果]\n【アタック時】このデジモンを、自分のトラッシュの特徴に「アンデッド型」か「魔獣型」を持つデジモンカード1枚に進化コストを支払って進化できる。\n",
   "Element": "紫",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "魔獣型"
 }

@@ -4,13 +4,13 @@
   "CardName": "メイクラックモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黄／3"
   ],
   "Text": "[効果]\n【相手のターン】自分のセキュリティが3枚以下の間、自分のセキュリティデジモン全てのDPを+4000する。\n",
   "Element": "黄",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "獣人型"
 }

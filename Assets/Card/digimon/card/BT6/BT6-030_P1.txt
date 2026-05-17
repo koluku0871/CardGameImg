@@ -4,13 +4,13 @@
   "CardName": "ガブモン-友情の絆-",
   "CardLevel": "Lv.7",
   "CardRarity": "SR",
+  "CardCategory": "究極体",
   "Lv": [
     "LV6 : 青／3"
   ],
   "Text": "[効果]\n【アタック時】［ターンに1回］自分のテイマーがいるとき、このデジモンをアクティブにできる。【アタック時】Lv.5以下の相手のデジモン1体をデッキの下に戻す。そのデジモンの持つ進化元は破棄する。\n",
   "Element": "青",
   "Cost": "14",
-  "CardCategory": "究極体",
   "CardType": "不明",
   "CardSubType": "不明"
 }

@@ -4,13 +4,13 @@
   "CardName": "シャウトモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが≪進撃≫を持つとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n",
   "Element": "赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "小竜型"
 }

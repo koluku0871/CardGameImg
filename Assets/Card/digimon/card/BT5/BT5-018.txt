@@ -4,13 +4,13 @@
   "CardName": "ドルビックモン",
   "CardLevel": "Lv.6",
   "CardRarity": "C",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 赤／3"
   ],
   "Text": "[効果]\n【アタック時】自分の手札から、赤のデジモンカード1枚を破棄することで、このターンの間、破棄したデジモンカードのDPをこのデジモンのDPにプラスする。\n",
   "Element": "赤",
   "Cost": "12",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "竜人型/ビッグデスターズ"
 }

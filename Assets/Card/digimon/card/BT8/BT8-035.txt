@@ -4,13 +4,13 @@
   "CardName": "キャンドモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄紫／0"
   ],
   "Text": "[進化元効果]\n【自分のターン】[ターンに1回]他の紫の自分のデジモンが登場したとき、メモリー+1。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "火炎型"
 }

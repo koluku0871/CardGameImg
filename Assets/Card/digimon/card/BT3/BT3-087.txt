@@ -4,13 +4,13 @@
   "CardName": "マミーモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 紫／3"
   ],
   "Text": "[効果]\n【アタック時】メモリーを-3することで、自分のトラッシュから、「ベリアルヴァンデモン」1枚をコストを支払わず登場させる。その後、このデジモンを消滅させる。\n",
   "Element": "紫",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "アンデッド型"
 }

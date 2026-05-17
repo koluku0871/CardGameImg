@@ -4,9 +4,9 @@
   "CardName": "パグモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【消滅時】自分のデッキの上から1枚オープンする。そのカードが黒のデジモンカードなら手札に加える。残ったカードはデッキの下に戻す。\n",
   "Element": "黒",
-  "CardCategory": "幼年期",
   "CardSubType": "レッサー型"
 }

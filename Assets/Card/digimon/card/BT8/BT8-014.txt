@@ -4,13 +4,13 @@
   "CardName": "デスメラモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 赤／2"
   ],
   "Text": "",
   "Element": "赤",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "火炎型"
 }

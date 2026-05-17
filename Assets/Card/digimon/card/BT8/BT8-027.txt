@@ -4,13 +4,13 @@
   "CardName": "アノマロカリモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 青／2"
   ],
   "Text": "",
   "Element": "青",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "古代甲殻類型"
 }

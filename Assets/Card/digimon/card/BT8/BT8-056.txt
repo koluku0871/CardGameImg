@@ -4,13 +4,13 @@
   "CardName": "スピノモン",
   "CardLevel": "Lv.6",
   "CardRarity": "C",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 緑赤／3"
   ],
   "Text": "",
   "Element": "緑赤",
   "Cost": "10",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "恐竜型"
 }

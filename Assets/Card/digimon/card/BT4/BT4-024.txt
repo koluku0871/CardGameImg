@@ -4,13 +4,13 @@
   "CardName": "トビウモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青／1"
   ],
   "Text": "",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "水棲型"
 }

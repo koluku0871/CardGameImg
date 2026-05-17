@@ -4,13 +4,13 @@
   "CardName": "テリアモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 緑／0"
   ],
   "Text": "[効果]\n【登場時】自分のデッキの上から5枚オープンできる。その中の名称に「ガルゴモン」/「ラピッドモン」を含むカード1枚を手札に加える。残りはデッキの下に戻す。\n",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "獣型"
 }

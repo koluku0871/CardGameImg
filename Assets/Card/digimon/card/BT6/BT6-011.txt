@@ -4,13 +4,13 @@
   "CardName": "バオハックモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 赤／2"
   ],
   "Text": "[進化元効果]\n【アタック時】［ターンに1回］名称に「シスタモン」を含む自分のデジモンがいるとき、DP5000以下の相手のデジモン1体を消滅させる。\n",
   "Element": "赤",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "恐竜型"
 }

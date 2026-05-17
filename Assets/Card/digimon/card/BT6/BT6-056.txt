@@ -4,13 +4,13 @@
   "CardName": "チクリモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒／0"
   ],
   "Text": "[効果]\n【セキュリティ】バトル終了時、相手のデジモン1体を≪退化1≫（相手のデジモンに重ねられたカードを、上から1枚破棄する。進化元がなくなるか、Lv.3のデジモンになったらそれ以上破棄できない）する。\n",
   "Element": "黒",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "機雷型"
 }

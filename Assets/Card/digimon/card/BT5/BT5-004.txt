@@ -4,9 +4,9 @@
   "CardName": "ピョコモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【自分のターン】このデジモンが発揮した≪デジバースト≫でこのカードが破棄されたとき、このターンの間、自分のデジモン1体のDPを+2000する。\n",
   "Element": "緑",
-  "CardCategory": "幼年期",
   "CardSubType": "球根型"
 }

@@ -4,13 +4,13 @@
   "CardName": "アシュラモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 赤／3"
   ],
   "Text": "[効果]\n【進化時】≪進撃≫（メモリーが相手側の1以上のとき、このデジモンはアタックできる）\n",
   "Element": "赤",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "魔人型"
 }

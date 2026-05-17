@@ -4,13 +4,13 @@
   "CardName": "アイズモン：スキャッターモード",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 紫／2"
   ],
   "Text": "[効果]\n【消滅時】≪3ドロー≫（自分のデッキからカードを3枚引く）。その後、自分の手札を2枚破棄する。\n",
   "Element": "紫",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "魔竜型"
 }

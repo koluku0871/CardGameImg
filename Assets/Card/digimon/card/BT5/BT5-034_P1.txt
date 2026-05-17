@@ -4,13 +4,13 @@
   "CardName": "コテモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[効果]\n【登場時】自分のデッキの上から5枚オープンする。その中の特徴に「戦士型」/「聖騎士型」を持つ黄のデジモンカード2枚までを手札に加える。残りはデッキの下に戻す。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "爬虫類型"
 }

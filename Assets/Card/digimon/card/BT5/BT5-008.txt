@@ -4,13 +4,13 @@
   "CardName": "ガオスモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "[効果]\n【自分のターン】他の自分の「ガオスモン」全てのDPを+3000する。【相手のターン】相手は支払う進化コストをマイナスできない。\n",
   "Element": "赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "爬虫類型"
 }

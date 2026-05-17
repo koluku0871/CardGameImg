@@ -4,13 +4,13 @@
   "CardName": "エキサモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[効果]\n【進化時】自分のデジモン1体をレストさせることで、相手のデジモン1体をレストさせる。\n[進化元効果]\n【お互いのターン】他のレスト状態の自分のデジモン1体ごとに、このデジモンをDP+1000。\n",
   "Element": "緑",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "昆虫型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ペイルドラモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青／2"
   ],
   "Text": "[効果]\n【進化時】相手のデジモン1体の進化元を、下から2枚まで破棄する。\n",
   "Element": "青",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "竜型"
 }

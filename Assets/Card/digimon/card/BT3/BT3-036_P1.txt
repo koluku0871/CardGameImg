@@ -4,13 +4,13 @@
   "CardName": "アンキロモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黄／2"
   ],
   "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。\n",
   "Element": "黄",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "フリー",
   "CardSubType": "鎧竜型"
 }

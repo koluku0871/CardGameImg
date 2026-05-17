@@ -4,13 +4,13 @@
   "CardName": "パンジャモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 青／3"
   ],
   "Text": "[進化元効果]\n【アタック時】［ターンに1回］メモリーを+1する。\n",
   "Element": "青",
   "Cost": "5",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "獣人型"
 }

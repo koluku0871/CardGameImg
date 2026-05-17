@@ -4,13 +4,13 @@
   "CardName": "ブリンプモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黒／2"
   ],
   "Text": "",
   "Element": "黒",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "マシーン型"
 }

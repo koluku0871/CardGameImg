@@ -4,13 +4,13 @@
   "CardName": "ブラックウォーグレイモン",
   "CardLevel": "Lv.6",
   "CardRarity": "R",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 黒／4"
   ],
   "Text": "[効果]\n≪セキュリティアタック+1≫（このデジモンがチェックする枚数+1）≪再起動≫（相手のアクティブフェイズに、このデジモンをアクティブにする）\n",
   "Element": "黒",
   "Cost": "11",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "竜人型"
 }

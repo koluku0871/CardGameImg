@@ -4,13 +4,13 @@
   "CardName": "プロットモン",
   "CardLevel": "Lv.3",
   "CardRarity": "R",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[進化元効果]\n【アタック時】このターンの間、相手のデジモン1体のDPを-1000する。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "哺乳類型"
 }

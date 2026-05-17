@@ -4,13 +4,13 @@
   "CardName": "ドクグモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[効果]\n【登場時】自分のデッキの上から3枚オープンする。その中のLv.5とLv.6のデジモンカード1枚ずつを手札に加える。残ったカードは破棄する。\n",
   "Element": "緑",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "昆虫型"
 }

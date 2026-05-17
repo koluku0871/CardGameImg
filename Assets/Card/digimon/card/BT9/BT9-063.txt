@@ -4,13 +4,13 @@
   "CardName": "ローダーレオモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／2"
   ],
   "Text": "",
   "Element": "黒",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "マシーン型"
 }

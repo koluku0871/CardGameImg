@@ -4,13 +4,13 @@
   "CardName": "グロットモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "ハイブリッド体",
   "Lv": [
     "LV3 : 黒／2"
   ],
   "Text": "[効果]\n手札のこのカードは、黒の自分のテイマーを黒のLv.3のデジモンとして扱い進化できる。\n",
   "Element": "黒",
   "Cost": "5",
-  "CardCategory": "ハイブリッド体",
   "CardType": "ヴァリアブル種",
   "CardSubType": "鬼人型"
 }

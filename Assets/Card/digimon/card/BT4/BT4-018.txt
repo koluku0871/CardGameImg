@@ -4,13 +4,13 @@
   "CardName": "スピノモン",
   "CardLevel": "Lv.6",
   "CardRarity": "U",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 赤／2"
   ],
   "Text": "[効果]\n【自分のターン】このデジモンのDPを+3000する。\n",
   "Element": "赤",
   "Cost": "10",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "恐竜型"
 }

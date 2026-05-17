@@ -4,13 +4,13 @@
   "CardName": "レオモンX抗体",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑青／2"
   ],
   "Text": "[特殊進化]\n〔進化〕「レオモン」：コスト0\n[効果]\n【お互いのターン】このデジモンがバトルで消滅するとき、このデジモンの進化元から、「レオモン」1枚をコストを支払わずに登場できる。\n",
   "Element": "緑青",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "獣人型/X抗体"
 }
