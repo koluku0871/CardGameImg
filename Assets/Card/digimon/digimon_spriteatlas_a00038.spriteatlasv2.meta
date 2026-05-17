@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 20c9153fa3d14e947b1bd7ffdc6c3a88
+guid: 69930a1d5f112a84f9b65f6fdbd97de5
 SpriteAtlasImporter:
   externalObjects: {}
   textureSettings:
@@ -37,7 +37,7 @@ SpriteAtlasImporter:
     enableAlphaDilation: 0
   secondaryTextureSettings: {}
   variantMultiplier: 1
-  bindAsDefault: 0
+  bindAsDefault: 1
   userData: 
   assetBundleName: digimon_spriteatlas_
-  assetBundleVariant: a00001
+  assetBundleVariant: a00038
