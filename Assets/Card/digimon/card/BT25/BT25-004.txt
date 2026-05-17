@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "BT25-004",
+  "PackNo": "BT25",
+  "CardName": "タップモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "CardCategory": "アプモン",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターン1回]このデジモンに特徴「ソーシャル」/「ツール」/「ゲーム」を持つカードがリンクするとき、支払うコスト-1できる。\n",
+  "Element": "緑",
+  "CardType": "ツール",
+  "CardSubType": "タップ"
+}

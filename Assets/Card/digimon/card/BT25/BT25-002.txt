@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT25-002",
+  "PackNo": "BT25",
+  "CardName": "ワニャモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "CardCategory": "幼年期",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターン1回]特徴「セイバーズ」を持つ自分のテイマーが登場したとき、お互いは≪1ドロー≫。\n",
+  "Element": "青",
+  "CardSubType": "レッサー型/セイバーズ"
+}
