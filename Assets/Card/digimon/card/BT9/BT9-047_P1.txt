@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT9-047_P1",
+  "PackNo": "BT9",
+  "CardName": "ポームモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "CardCategory": "成長期",
+  "Lv": [
+    "LV2 : 緑／0"
+  ],
+  "Text": "[効果]\n【お互いのターン】お互いはデジモンを効果で登場できない。\n",
+  "Element": "緑",
+  "CardType": "データ種",
+  "CardSubType": "植物型"
+}

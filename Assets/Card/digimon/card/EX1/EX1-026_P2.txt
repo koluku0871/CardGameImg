@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "EX1-026_P2",
+  "PackNo": "EX1",
+  "CardName": "テイルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "CardCategory": "成熟期",
+  "Lv": [
+    "LV3 : 黄／2"
+  ],
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]自分のセキュリティが3枚以上なら、ターン終了まで、相手のデジモン1体をDP-2000。\n",
+  "Element": "黄",
+  "CardType": "ワクチン種",
+  "CardSubType": "聖獣型"
+}

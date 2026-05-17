@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX2-001_P3",
+  "PackNo": "EX2",
+  "CardName": "ギギモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "CardCategory": "幼年期",
+  "Lv": [],
+  "Text": "[進化元効果]\n【アタック時】[ターンに1回]このデジモンが名称に「ギルモン」/「グラウモン」/「デュークモン」を含むなら、≪1ドロー≫。\n",
+  "Element": "赤",
+  "CardSubType": "レッサー型"
+}

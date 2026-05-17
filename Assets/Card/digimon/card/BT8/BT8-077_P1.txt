@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT8-077_P1",
+  "PackNo": "BT8",
+  "CardName": "ブラックテイルモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "CardCategory": "成熟期",
+  "Lv": [
+    "LV3 : 紫黄／3"
+  ],
+  "Text": "[効果]\n≪速攻≫（このデジモンは登場したターンでもアタックできる）\n[進化元効果]\n≪道連れ≫（このデジモンだけがバトルで消滅したとき、バトルした相手のデジモンを消滅させる）\n",
+  "Element": "紫黄",
+  "CardType": "ウィルス種",
+  "CardSubType": "魔獣型"
+}

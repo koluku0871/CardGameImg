@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "P-178_P2",
+  "PackNo": "P",
+  "CardName": "サジタリモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "P",
+  "CardCategory": "アーマー体",
+  "Lv": [
+    "LV3 : 赤黄／3"
+  ],
+  "Text": "[特殊進化]\n〔進化〕「ブイモン」:コスト2\n[効果]\n≪アーマー解除≫【進化時】ターン終了まで、相手のデジモン1体をDP-3000。【アタック時】DP4000以下の相手のデジモン1体を消滅させる。\n",
+  "Element": "赤黄",
+  "CardType": "フリー",
+  "CardSubType": "幻獣型"
+}

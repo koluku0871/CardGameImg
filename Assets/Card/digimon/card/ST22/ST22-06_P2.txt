@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "ST22-06_P2",
+  "PackNo": "ST22",
+  "CardName": "サクヤモン：巫女モード",
+  "CardLevel": "Lv.6",
+  "CardRarity": "SR",
+  "CardCategory": "究極体",
+  "Lv": [],
+  "Text": "",
+  "Element": "黄",
+  "CardType": "データ種",
+  "CardSubType": "神人型"
+}

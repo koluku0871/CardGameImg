@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "ST9-06_P3",
+  "PackNo": "ST9",
+  "CardName": "インペリアルドラモン：ドラゴンモード",
+  "CardLevel": "Lv.6",
+  "CardRarity": "SR",
+  "CardCategory": "究極体",
+  "Lv": [
+    "LV5 : 青緑／4"
+  ],
+  "Text": "[効果]\n【進化時】このデジモンの進化元から、Lv.4以下の、青と緑のデジモンカード1枚ずつをコストを支払わずに登場できる。\n",
+  "Element": "青緑",
+  "CardType": "フリー",
+  "CardSubType": "古代竜型"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT3-037_P1",
+  "PackNo": "BT3",
+  "CardName": "トゥルイエモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "CardCategory": "成熟期",
+  "Lv": [
+    "LV3 : 黄／1"
+  ],
+  "Text": "",
+  "Element": "黄",
+  "CardType": "データ種",
+  "CardSubType": "獣人型"
+}

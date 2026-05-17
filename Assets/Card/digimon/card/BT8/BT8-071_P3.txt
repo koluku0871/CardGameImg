@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT8-071_P3",
+  "PackNo": "BT8",
+  "CardName": "サイケモン",
+  "CardLevel": "Lv.3",
+  "CardRarity": "C",
+  "CardCategory": "成長期",
+  "Lv": [
+    "LV2 : 紫／0"
+  ],
+  "Text": "[効果]\n【お互いのターン】お互いは支払う登場コストをマイナスできない。\n",
+  "Element": "紫",
+  "CardType": "データ種",
+  "CardSubType": "爬虫類型"
+}
