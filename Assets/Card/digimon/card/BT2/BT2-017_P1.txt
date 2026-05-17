@@ -4,13 +4,13 @@
   "CardName": "メガログラウモン",
   "CardLevel": "Lv.5",
   "CardRarity": "R",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 赤／3"
   ],
   "Text": "[効果]\n【進化時】赤の自分のテイマーがいるとき、DP3000以下の相手のデジモン1体を消滅させる。\n[進化元効果]\n【自分のターン】相手のトラッシュが5枚以上の間、このデジモンのDPを+1000する。\n",
   "Element": "赤",
   "Cost": "8",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "サイボーグ型"
 }

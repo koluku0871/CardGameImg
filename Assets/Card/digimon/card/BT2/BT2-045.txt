@@ -4,13 +4,13 @@
   "CardName": "アルゴモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[効果]\n≪吸収進化-2≫（自分のデジモンが手札のこのカードに進化するとき、自分のデジモン1体をレストさせることで、支払う進化コストを-2する）\n",
   "Element": "緑",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "突然変異型"
 }

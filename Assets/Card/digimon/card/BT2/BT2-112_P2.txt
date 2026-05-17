@@ -4,13 +4,13 @@
   "CardName": "ブラックウォーグレイモン",
   "CardLevel": "Lv.6",
   "CardRarity": "SEC",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 黒／4"
   ],
   "Text": "[効果]\nDP10000以上の相手のデジモンがいる間、手札のこのカードを登場させるとき、支払う登場コスト-6。【アタック時】最もDPの高い相手のデジモンにアタックしていたなら、このデジモンをアクティブにする。\n",
   "Element": "黒",
   "Cost": "13",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "竜人型"
 }

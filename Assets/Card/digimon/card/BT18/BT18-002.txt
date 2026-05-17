@@ -4,9 +4,9 @@
   "CardName": "チャップモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【お互いのターン】青の他の自分のデジモンがいる間、このデジモンをDP+1000。\n",
   "Element": "青",
-  "CardCategory": "幼年期",
   "CardSubType": "レッサー型"
 }

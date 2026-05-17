@@ -4,13 +4,13 @@
   "CardName": "バードラモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 赤／2"
   ],
   "Text": "[効果]\n【進化時】自分のトラッシュから、特徴に「鳥」/「獣」を含む赤のデジモンカード1枚を手札に戻す。\n[進化元効果]\n【自分のターン】［ターンに1回］相手のセキュリティが減ったとき、メモリー+1。\n",
   "Element": "赤",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "巨鳥型"
 }

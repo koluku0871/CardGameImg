@@ -4,13 +4,13 @@
   "CardName": "アグモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[効果]\n【アタック時】黄の自分のテイマー1体をレストさせることで、≪1ドロー≫。\n[進化元効果]\n【自分のターン】相手のセキュリティデジモン全てをDP-3000。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "恐竜型"
 }

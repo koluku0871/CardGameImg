@@ -4,13 +4,13 @@
   "CardName": "ガルダモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 赤／3"
   ],
   "Text": "[効果]\n【アタック時】プレイヤーにアタックしたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n",
   "Element": "赤",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "鳥人型"
 }

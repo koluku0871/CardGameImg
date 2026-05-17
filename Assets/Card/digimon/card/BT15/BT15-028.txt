@@ -4,13 +4,13 @@
   "CardName": "ハンギョモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 青／3"
   ],
   "Text": "[効果]\n【登場時】相手のデジモン1体の進化元を下から3枚破棄する。その後、進化元を持つ相手のデジモンがいないなら、自分の手札から、青のテイマーカード1枚をコストを支払わずに登場できる。\n",
   "Element": "青",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "水棲獣人型"
 }

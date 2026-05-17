@@ -4,13 +4,13 @@
   "CardName": "アカトリモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 赤／2"
   ],
   "Text": "[効果]\n【自分のターン】［ターンに1回］自分のデジモンがプレイヤーにアタックしたとき、DP3000以下の相手のデジモン1体を消滅させる。\n",
   "Element": "赤",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "巨鳥型"
 }

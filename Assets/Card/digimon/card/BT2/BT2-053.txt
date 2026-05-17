@@ -4,13 +4,13 @@
   "CardName": "ケラモン",
   "CardLevel": "Lv.3",
   "CardRarity": "R",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒／0"
   ],
   "Text": "[進化元効果]\n【自分のターン】このデジモンと同じ名称の他の自分のデジモンが登場したとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n",
   "Element": "黒",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "不明",
   "CardSubType": "種族不明"
 }

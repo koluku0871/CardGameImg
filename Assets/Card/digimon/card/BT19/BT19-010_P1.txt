@@ -4,11 +4,11 @@
   "CardName": "シャウトモンX4",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [],
   "Text": "[効果]\n【お互いのターン】このデジモンがバトルエリアを離れるとき、このデジモンの進化元から、特徴に「クロスハート」を持つデジモンカード3枚までを自分のテイマー1体の下に置ける。\n",
   "Element": "赤黄",
   "Cost": "8",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "合成型/クロスハート"
 }

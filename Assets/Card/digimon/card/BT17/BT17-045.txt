@@ -4,13 +4,13 @@
   "CardName": "アルゴモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑紫／3"
   ],
   "Text": "[特殊進化]\n〔進化〕Lv.3の「アルゴモン」:コスト2\n[効果]\n【進化時】自分の「リズム」がいないなら、自分の手札から、「リズム」1枚をコストを支払わずに登場できる。\n[進化元効果]\n【消滅時】メモリー+1。\n",
   "Element": "緑紫",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "突然変異型"
 }

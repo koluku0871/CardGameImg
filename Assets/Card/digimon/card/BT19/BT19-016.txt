@@ -4,13 +4,13 @@
   "CardName": "ガオスモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[効果]\n【登場時】【消滅時】自分の手札から、特徴に「ブルーフレア」を持つデジモンカード1枚を自分のテイマーの下に置くことで、≪1ドロー≫。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "爬虫類型/ブルーフレア"
 }

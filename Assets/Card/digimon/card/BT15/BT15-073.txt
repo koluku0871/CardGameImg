@@ -4,13 +4,13 @@
   "CardName": "バケモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 紫／2"
   ],
   "Text": "[効果]\n【進化時】【消滅時】≪1ドロー≫。その後、自分の手札を1枚破棄する。\n[進化元効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n",
   "Element": "紫",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "ゴースト型"
 }

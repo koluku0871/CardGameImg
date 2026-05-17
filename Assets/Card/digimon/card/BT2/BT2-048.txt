@@ -4,13 +4,13 @@
   "CardName": "ジュレイモン",
   "CardLevel": "Lv.5",
   "CardRarity": "U",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 緑／2"
   ],
   "Text": "[効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンがアクティブ状態ならレストさせることでアタックの対象をこのデジモンにする）\n",
   "Element": "緑",
   "Cost": "8",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "植物型"
 }

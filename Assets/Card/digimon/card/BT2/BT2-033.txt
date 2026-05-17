@@ -4,13 +4,13 @@
   "CardName": "アグモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[進化元効果]\n【アタック時】黄の自分のテイマーが3体以上いるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "恐竜型"
 }

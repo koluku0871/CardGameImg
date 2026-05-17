@@ -4,13 +4,13 @@
   "CardName": "デッドリーアックスモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黒紫／3"
   ],
   "Text": "[効果]\n≪道連れ≫【消滅時】≪セーブ≫\n[進化元効果]\n≪再起動≫（このデジモンは相手のアクティブフェイズでもアクティブになる）\n",
   "Element": "黒紫",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "魔獣型/トワイライト"
 }

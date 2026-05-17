@@ -4,13 +4,13 @@
   "CardName": "ピヨモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "[効果]\n【消滅時】自分のターンのとき、メモリー+1。\n",
   "Element": "赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "ヒナ鳥型"
 }

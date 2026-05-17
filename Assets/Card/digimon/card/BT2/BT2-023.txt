@@ -4,13 +4,13 @@
   "CardName": "ゴマモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[効果]\n手札のこのカードを登場させるとき、進化元を持たない相手のデジモン1体ごとに、支払う登場コストを-1する。\n",
   "Element": "青",
   "Cost": "4",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "海獣型"
 }

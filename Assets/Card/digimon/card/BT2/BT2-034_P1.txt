@@ -4,13 +4,13 @@
   "CardName": "プロットモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[効果]\n【消滅時】自分のセキュリティが3枚以下のとき、≪リカバリー+1《デッキ》≫（自分のデッキの上からカードを1枚セキュリティの上に置く）。\n",
   "Element": "黄",
   "Cost": "4",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "哺乳類型"
 }

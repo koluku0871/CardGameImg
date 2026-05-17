@@ -4,9 +4,9 @@
   "CardName": "ミノモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【お互いのターン】[ターンに1回]このデジモンがバトルで相手のデジモンを消滅させたとき、このデジモンが2色以上なら、メモリー+1。\n",
   "Element": "緑",
-  "CardCategory": "幼年期",
   "CardSubType": "幼虫型"
 }

@@ -4,9 +4,9 @@
   "CardName": "モチモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【自分のターン終了時】このデジモンが特徴に「昆虫型」を持つなら、このデジモンで相手のデジモンにアタックできる。\n",
   "Element": "緑",
-  "CardCategory": "幼年期",
   "CardSubType": "レッサー型"
 }

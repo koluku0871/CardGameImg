@@ -4,13 +4,13 @@
   "CardName": "オニスモン",
   "CardLevel": "Lv.6",
   "CardRarity": "U",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 紫黄／5"
   ],
   "Text": "[効果]\n【登場時】【進化時】アクティブ状態の相手のデジモン1体を消滅させる。【お互いのターン】Lv.6の他の自分のデジモンがいる間、このデジモンをDP+2000し、≪Sアタック+1≫を得る。\n",
   "Element": "紫",
   "Cost": "13",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "古代鳥型"
 }

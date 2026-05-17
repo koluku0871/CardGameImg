@@ -4,13 +4,13 @@
   "CardName": "アンドロモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／3"
   ],
   "Text": "[効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンがアクティブ状態ならレストさせることでアタックの対象をこのデジモンにする）\n",
   "Element": "黒",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "サイボーグ型"
 }

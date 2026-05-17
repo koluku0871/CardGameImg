@@ -4,13 +4,13 @@
   "CardName": "ヌメモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黒／1"
   ],
   "Text": "",
   "Element": "黒",
   "Cost": "3",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "軟体型"
 }

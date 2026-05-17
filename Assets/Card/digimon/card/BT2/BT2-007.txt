@@ -4,9 +4,9 @@
   "CardName": "パグモン",
   "CardLevel": "Lv.2",
   "CardRarity": "C",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【アタック時】自分のデッキの上から1枚破棄する。\n",
   "Element": "紫",
-  "CardCategory": "幼年期",
   "CardSubType": "レッサー型"
 }

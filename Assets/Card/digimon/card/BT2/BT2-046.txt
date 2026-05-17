@@ -4,13 +4,13 @@
   "CardName": "メタルティラノモン",
   "CardLevel": "Lv.5",
   "CardRarity": "R",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 緑／2"
   ],
   "Text": "[進化元効果]\n【自分のターン】このデジモンがバトルでLv.6以上の相手のデジモンだけを消滅させたとき、このデジモンをアクティブにする。\n",
   "Element": "緑",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "サイボーグ型"
 }
