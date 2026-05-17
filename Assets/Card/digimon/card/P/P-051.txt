@@ -4,13 +4,13 @@
   "CardName": "メタルガルルモン",
   "CardLevel": "Lv.6",
   "CardRarity": "P",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 青／3"
   ],
   "Text": "[効果]\n【進化時】自分のテイマーがいるとき、≪2ドロー≫（自分のデッキからカードを2枚引く）。【相手のターン】このデジモンはアタックされない。\n",
   "Element": "青",
   "Cost": "11",
-  "CardCategory": "究極体",
   "CardType": "データ種",
   "CardSubType": "サイボーグ型"
 }

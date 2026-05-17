@@ -4,13 +4,13 @@
   "CardName": "ヘラクルカブテリモン",
   "CardLevel": "Lv.6",
   "CardRarity": "P",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 緑／3"
   ],
   "Text": "[効果]\n【進化時】自分のテイマーがいるとき、相手のデジモン1体をレストさせる。【自分のターン】このデジモンがバトルで相手のデジモンだけを消滅させたとき、メモリーを+1する。\n",
   "Element": "緑",
   "Cost": "12",
-  "CardCategory": "究極体",
   "CardType": "ワクチン種",
   "CardSubType": "昆虫型"
 }

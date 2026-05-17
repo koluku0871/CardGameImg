@@ -4,13 +4,13 @@
   "CardName": "ガブモン",
   "CardLevel": "Lv.3",
   "CardRarity": "P",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[効果]\n【登場時】相手のデジモン1体の進化元を、下から1枚破棄する。\n",
   "Element": "青",
   "Cost": "4",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "爬虫類型"
 }

@@ -4,13 +4,13 @@
   "CardName": "デルタモン",
   "CardLevel": "Lv.4",
   "CardRarity": "P",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黒赤／3"
   ],
   "Text": "[効果]\n【自分のターン】このデジモンが特徴に「合成型」を持つか、2色のカードに進化するとき、支払う進化コスト-2。\n[進化元効果]\n【アタック時】このデジモンの色1色ごとに、DP3000以下の相手のデジモン1体を消滅させる。\n",
   "Element": "黒赤",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "合成型"
 }

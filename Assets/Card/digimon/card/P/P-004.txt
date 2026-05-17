@@ -4,13 +4,13 @@
   "CardName": "ゴマモン",
   "CardLevel": "Lv.3",
   "CardRarity": "P",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[進化元効果]\n【自分のターン】［ターンに1回］相手のデジモンの進化元を破棄したとき、メモリーを+1する。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "海獣型"
 }

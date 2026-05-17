@@ -4,13 +4,13 @@
   "CardName": "アグモン",
   "CardLevel": "Lv.3",
   "CardRarity": "P",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "[進化元効果]\n【自分のターン】このデジモンが名称に「グレイモン」を含む間、このデジモンのDPを+2000する。\n",
   "Element": "赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "爬虫類型"
 }

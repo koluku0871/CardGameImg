@@ -4,13 +4,13 @@
   "CardName": "ウィザーモン",
   "CardLevel": "Lv.4",
   "CardRarity": "P",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 紫／2"
   ],
   "Text": "[効果]\nこのカードがデッキから破棄されたとき、メモリー+1。\n[進化元効果]\n【アタック時】自分の手札から、紫のカード1枚をオープンしてデッキの上に戻せる。\n",
   "Element": "紫",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "魔人型"
 }

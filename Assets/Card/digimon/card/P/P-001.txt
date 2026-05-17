@@ -4,13 +4,13 @@
   "CardName": "アグモン",
   "CardLevel": "Lv.3",
   "CardRarity": "P",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "[効果]\n【登場時】DP3000以下の相手のデジモン1体を消滅させる。\n",
   "Element": "赤",
   "Cost": "5",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "爬虫類型"
 }

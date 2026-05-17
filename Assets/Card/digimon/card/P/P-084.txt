@@ -4,13 +4,13 @@
   "CardName": "ロップモン",
   "CardLevel": "Lv.3",
   "CardRarity": "P",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[効果]\n【登場時】黄の自分のテイマーがいるとき、次の相手のターン終了まで、相手のデジモン1体に≪セキュリティアタック-1≫（このデジモンがチェックするセキュリティの枚数-1）を与える。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "獣型"
 }

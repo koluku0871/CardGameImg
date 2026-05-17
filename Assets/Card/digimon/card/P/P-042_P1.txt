@@ -4,13 +4,13 @@
   "CardName": "ガブモン",
   "CardLevel": "Lv.3",
   "CardRarity": "P",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[効果]\n【登場時】自分のデッキの上から5枚オープンする。その中のテイマーカード1枚を手札に加える。残りはデッキの下に戻す。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "爬虫類型"
 }

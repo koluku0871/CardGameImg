@@ -4,13 +4,13 @@
   "CardName": "ドクグモン",
   "CardLevel": "Lv.4",
   "CardRarity": "P",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[特殊進化]\n〔進化〕特徴に「NSo」を持つLv.3:コスト2\n[効果]\n【登場時】【消滅時】相手のデジモン1体をレストさせる。\n",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "昆虫型/NSo"
 }

@@ -4,13 +4,13 @@
   "CardName": "ブラックウォーグレイモン",
   "CardLevel": "Lv.6",
   "CardRarity": "P",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 黒／3"
   ],
   "Text": "[効果]\n【メイン】≪デジバースト2≫（このデジモンの進化元を、選んで2枚破棄することで、以下の効果を発揮する）・このデジモンをアクティブにする。\n",
   "Element": "黒",
   "Cost": "11",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "竜人型"
 }
