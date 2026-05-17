@@ -4,13 +4,13 @@
   "CardName": "ゴシップモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "超/アプモン",
   "Lv": [
     "LV3 : 紫／2"
   ],
   "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】【進化時】自分のトラッシュから、特徴に「アプモン」を持つデジモンカード1枚を手札に戻せる。\n",
   "Element": "紫",
   "Cost": "4",
-  "CardCategory": "超/アプモン",
   "CardType": "ソーシャル",
   "CardSubType": "ゴシップ"
 }

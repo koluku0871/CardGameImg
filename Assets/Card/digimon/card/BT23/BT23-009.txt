@@ -4,12 +4,12 @@
   "CardName": "コーチモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "超/アプモン",
   "Lv": [
     "LV3 : 赤／2"
   ],
   "Text": "[効果]\n【自分のターン】[ターンに1回]このデジモンがリンクしたとき、ターン終了まで、自分のデジモン1体をDP+4000。\n",
   "Element": "赤",
-  "CardCategory": "超/アプモン",
   "CardType": "ゲーム",
   "CardSubType": "育成/リヴァイアサン"
 }

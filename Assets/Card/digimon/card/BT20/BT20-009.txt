@@ -4,13 +4,13 @@
   "CardName": "ブイモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤紫／0"
   ],
   "Text": "[効果]\n【自分のターン】紫の自分のデジモンが登場したとき、このデジモンを手札の特徴に「フリー」を持つデジモンカードに支払う進化コスト-1で進化できる。\n[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n",
   "Element": "赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "フリー",
   "CardSubType": "小竜型"
 }

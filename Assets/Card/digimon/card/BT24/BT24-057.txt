@@ -4,12 +4,12 @@
   "CardName": "ドクモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "超/アプモン",
   "Lv": [
     "LV3 : 黒／2"
   ],
   "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】【消滅時】相手のターン終了まで、相手のデジモン1体はプレイヤーにアタックできない。\n",
   "Element": "黒",
-  "CardCategory": "超/アプモン",
   "CardType": "ライフ",
   "CardSubType": "ドクター"
 }

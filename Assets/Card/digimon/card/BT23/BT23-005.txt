@@ -4,12 +4,12 @@
   "CardName": "エリザモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "[効果]\n【自分のターン】このデジモンが特徴に「爬虫類型」/「竜人型」を持つデジモンカードに進化するとき、支払う進化コスト-1。\n[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n",
   "Element": "赤",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "爬虫類型/リベレイター"
 }

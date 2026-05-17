@@ -4,9 +4,9 @@
   "CardName": "プチメラモン",
   "CardLevel": "Lv.2",
   "CardRarity": "C",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【消滅時】相手のターン終了まで、特徴に「ゴースト型」を持つ自分のデジモン1体は≪ブロッカー≫と≪道連れ≫を得る。\n",
   "Element": "紫",
-  "CardCategory": "幼年期",
   "CardSubType": "火炎型/リベレイター"
 }

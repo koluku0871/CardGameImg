@@ -4,9 +4,9 @@
   "CardName": "ムンモン",
   "CardLevel": "Lv.2",
   "CardRarity": "C",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【自分のターン】[ターンに1回]このデジモンに重ねられているカードが上から1枚このデジモンの進化元の下に効果で置かれたとき、≪1ドロー≫し、自分の手札1枚を破棄する。\n",
   "Element": "紫",
-  "CardCategory": "幼年期",
   "CardSubType": "レッサー型/ナイトクロウ"
 }

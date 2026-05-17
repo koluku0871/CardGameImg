@@ -4,12 +4,12 @@
   "CardName": "シードラモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青紫／3"
   ],
   "Text": "[特殊進化]\n〔進化〕特徴に「CS」を持つLv.3:コスト2\n[効果]\n≪連携≫【お互いのターン】[ターンに1回]このデジモンがレストしたとき、≪1ドロー≫。\n",
   "Element": "青紫",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "水棲型/フーディエ/CS"
 }

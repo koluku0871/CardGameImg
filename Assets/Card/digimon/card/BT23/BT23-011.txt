@@ -4,12 +4,12 @@
   "CardName": "バードラモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 赤／2"
   ],
   "Text": "[特殊進化]\n〔進化〕特徴に「CS」を持つLv.3:コスト2\n[効果]\n【登場時】【進化時】DP4000以下の相手のデジモン1体を消滅させる。\n[進化元効果]\n【消滅時】自分の手札から、特徴に「CS」を持つか赤のテイマーカード1枚をコストを支払わずに登場できる。\n",
   "Element": "赤",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "巨鳥型/CS"
 }

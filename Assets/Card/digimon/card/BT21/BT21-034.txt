@@ -4,13 +4,13 @@
   "CardName": "キウイモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青／2"
   ],
   "Text": "[特殊進化]\n〔進化〕特徴に「WG」を持つLv.3:コスト2\n[効果]\n【お互いのターン】このデジモンがレストしたとき、≪1ドロー≫。\n[進化元効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルで消滅しない）\n",
   "Element": "青",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "古代鳥型/WG"
 }

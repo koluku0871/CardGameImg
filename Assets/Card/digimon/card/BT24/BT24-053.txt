@@ -4,12 +4,12 @@
   "CardName": "プロテクモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "並/アプモン",
   "Lv": [
     "LV2 : 黒／0"
   ],
   "Text": "[特殊進化]\n〔進化〕特徴に「アプモン」を持つLv.2:コスト0\n[効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n",
   "Element": "黒",
-  "CardCategory": "並/アプモン",
   "CardType": "システム",
   "CardSubType": "セキュリティ"
 }
