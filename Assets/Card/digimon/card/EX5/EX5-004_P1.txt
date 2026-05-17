@@ -4,9 +4,9 @@
   "CardName": "フリモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが名称に「レオモン」を含むなら、≪1ドロー≫。\n",
   "Element": "緑",
-  "CardCategory": "幼年期",
   "CardSubType": "レッサー型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ガオモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[効果]\n【登場時】お互いは、デッキの上からカードを1枚引く。\n[進化元効果]\n【自分のターン】［ターンに1回］相手の手札が効果で増えたとき、メモリー＋1。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "獣型"
 }

@@ -4,13 +4,13 @@
   "CardName": "カブテリモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[特殊進化]\n〔進化〕特徴に「NSp」を持つLv.3:コスト2\n[効果]\n【登場時】【進化時】デジモン1体をレストできる。\n[進化元効果]\n【自分のターン】このデジモンをDP+2000。\n",
   "Element": "緑",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "昆虫型/NSp"
 }

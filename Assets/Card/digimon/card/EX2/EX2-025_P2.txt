@@ -4,13 +4,13 @@
   "CardName": "テリアモン",
   "CardLevel": "Lv.3",
   "CardRarity": "R",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 緑／0"
   ],
   "Text": "[効果]\n【自分のターン】[ターンに1回]緑の自分のテイマーが登場したとき、メモリー+1。\n[進化元効果]\n【自分のターン】[ターンに1回]相手のデジモンがレストしたとき、このターンの間、このデジモンをDP+2000。\n",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "獣型"
 }

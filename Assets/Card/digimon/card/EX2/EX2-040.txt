@@ -4,13 +4,13 @@
   "CardName": "デビドラモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 紫／2"
   ],
   "Text": "[効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）\n[進化元効果]\n【アタック時】自分のデッキの上から2枚破棄できる。\n",
   "Element": "紫",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "邪竜型"
 }

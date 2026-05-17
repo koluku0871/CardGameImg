@@ -4,13 +4,13 @@
   "CardName": "ジャザモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒赤／0"
   ],
   "Text": "[効果]\n【自分のターン】［ターンに1回］自分の「栗原ヒナ」が登場したとき、メモリー+1。\n[進化元効果]\n【お互いのターン】このデジモンが【登場時】効果を持つ間、このデジモンをDP+1000。\n",
   "Element": "黒",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "鳥竜型"
 }

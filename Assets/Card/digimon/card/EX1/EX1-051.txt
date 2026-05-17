@@ -4,13 +4,13 @@
   "CardName": "インフェルモン",
   "CardLevel": "Lv.5",
   "CardRarity": "R",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／3"
   ],
   "Text": "[効果]\n【相手のターン】［ターンに1回］相手のデジモンがLv.5以上のデジモンに進化したとき、メモリーを+1する。\n[進化元効果]\n【お互いのターン】このデジモンと同じ名称の他の自分のデジモン全てのDPを+2000する。\n",
   "Element": "黒",
   "Cost": "8",
-  "CardCategory": "完全体",
   "CardType": "不明",
   "CardSubType": "種族不明"
 }

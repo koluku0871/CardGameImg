@@ -4,13 +4,13 @@
   "CardName": "アグモン博士",
   "CardLevel": "Lv.3",
   "CardRarity": "R",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[効果]\n【相手のターン】［ターンに1回］相手のデジモンが登場したとき、自分の手札から、そのデジモンと同じLv.のカード1枚をオープンすることで、そのカードをセキュリティの上に裏向きで置く。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "恐竜型"
 }

@@ -4,13 +4,13 @@
   "CardName": "デュークモン：クリムゾンモード",
   "CardLevel": "Lv.7",
   "CardRarity": "SEC",
+  "CardCategory": "究極体",
   "Lv": [
     "LV6 : 赤／6"
   ],
   "Text": "[効果]\n【進化時】最もDPが高い相手のデジモン全てを消滅させる。【アタック時】相手のセキュリティを上から1枚破棄する。相手のトラッシュ10枚ごとに、この効果で破棄する枚数を+1する。\n",
   "Element": "赤",
   "Cost": "15",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "聖騎士型"
 }

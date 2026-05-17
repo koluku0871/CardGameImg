@@ -4,10 +4,10 @@
   "CardName": "ADR-06=ホーンストライカー",
   "CardLevel": "Lv.-",
   "CardRarity": "C",
+  "CardCategory": "デ・リーパー",
   "Lv": [],
   "Text": "[効果]\n【自分のターン】自分の「マザーデ・リーパー」がいる間、このデジモンは≪速攻≫（このデジモンは登場したターンでもアタックできる）を得る。\n",
   "Element": "白",
   "Cost": "7",
-  "CardCategory": "デ・リーパー",
   "CardSubType": "武将タイプ"
 }

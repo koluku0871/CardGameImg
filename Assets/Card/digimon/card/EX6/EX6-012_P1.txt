@@ -4,13 +4,13 @@
   "CardName": "ピヨモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n[進化元効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルで消滅しない）\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "ヒナ鳥型"
 }

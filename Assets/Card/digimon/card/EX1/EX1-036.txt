@@ -4,13 +4,13 @@
   "CardName": "トゲモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[進化元効果]\n【自分のターン】［ターンに1回］相手のデジモンがレストしたとき、このターンの間、このデジモンのDPを+2000する。\n",
   "Element": "緑",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "植物型"
 }

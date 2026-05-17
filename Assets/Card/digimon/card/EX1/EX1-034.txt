@@ -4,13 +4,13 @@
   "CardName": "パルモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 緑／0"
   ],
   "Text": "[効果]\n【消滅時】DP5000以下の相手のデジモン1体をレストさせる。\n",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "植物型"
 }

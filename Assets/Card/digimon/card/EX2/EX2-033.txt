@@ -4,13 +4,13 @@
   "CardName": "ロコモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／3"
   ],
   "Text": "[効果]\n【自分のターン】このデジモンが手札の「グランドロコモン」に進化するときに支払う進化コスト-1。\n",
   "Element": "黒",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "マシーン型"
 }

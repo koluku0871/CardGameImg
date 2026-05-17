@@ -4,13 +4,13 @@
   "CardName": "ニセアグモン博士",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 紫／0"
   ],
   "Text": "[効果]\n【自分のターン】[ターンに1回]相手のデジモンが消滅したとき、自分の手札から、消滅したデジモンと同じLv.のカード1枚を破棄することで、≪2ドロー≫（自分のデッキからカードを2枚引く）。\n",
   "Element": "紫",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "恐竜型"
 }

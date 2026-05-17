@@ -4,13 +4,13 @@
   "CardName": "ピヨモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "[進化元効果]\n【アタック時】［ターンに1回］プレイヤーにアタックしたとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n",
   "Element": "赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "ヒナ鳥型"
 }

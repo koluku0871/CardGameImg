@@ -4,12 +4,12 @@
   "CardName": "サクシモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "超/アプモン",
   "Lv": [
     "LV3 : 紫／2"
   ],
   "Text": "[効果]\n【登場時】【進化時】Lv.3の相手のデジモン1体を消滅させる。【お互いのターン】[ターンに1回]このデジモンのリンクカードが効果で破棄されたとき、メモリー+1。\n",
   "Element": "紫",
-  "CardCategory": "超/アプモン",
   "CardType": "ゲーム",
   "CardSubType": "シミュレーション/リヴァイアサン"
 }

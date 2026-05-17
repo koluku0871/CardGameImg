@@ -4,13 +4,13 @@
   "CardName": "モノクロモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／1"
   ],
   "Text": "[特殊進化]\n〔進化〕特徴に「NSp」を持つLv.3:コスト1\n[効果]\n〈ルール〉特徴:タイプ「恐竜型」を持つ。\n[進化元効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンを消滅させたとき、アタック終了前にチェックする）\n",
   "Element": "緑",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "鎧竜型/NSp"
 }

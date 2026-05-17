@@ -4,9 +4,9 @@
   "CardName": "ベビドモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【お互いのターン】［ターンに1回］名称に「ドラモン」か「エグザモン」を含むこのデジモンがアクティブになったとき、このターンの間、このデジモンをDP+1000。\n",
   "Element": "青",
-  "CardCategory": "幼年期",
   "CardSubType": "幼竜型"
 }

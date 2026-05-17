@@ -4,13 +4,13 @@
   "CardName": "パタモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[効果]\n【登場時】自分のデッキの上から4枚オープンする。その中の特徴に「天使型」か「大天使型」か「三大天使」を持つデジモンカード1枚を手札に加える。残りは好きな順番でデッキの下に戻す。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "哺乳類型"
 }

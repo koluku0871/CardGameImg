@@ -4,13 +4,13 @@
   "CardName": "カブテリモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[効果]\n【アタック時】このデジモンは手札の特徴に「昆虫型」を持つデジモンカードにコストを支払って進化できる。\n",
   "Element": "緑",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "昆虫型"
 }

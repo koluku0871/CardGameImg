@@ -4,13 +4,13 @@
   "CardName": "スナリザモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "[効果]\n【アタック時】自分のデッキの上から3枚オープンする。その中の特徴に「竜」を含むデジモンカード1枚を手札に加える。残りは好きな順番でデッキの下に戻す。\n",
   "Element": "赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "爬虫類型"
 }

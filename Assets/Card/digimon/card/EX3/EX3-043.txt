@@ -4,13 +4,13 @@
   "CardName": "エントモン",
   "CardLevel": "Lv.5",
   "CardRarity": "R",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 緑／4"
   ],
   "Text": "[効果]\n≪吸収進化-3≫（手札のこのカードに進化するとき、自分のデジモン1体をレストさせることで、支払う進化コスト-3）【進化時】レスト状態の自分のデジモンが2体以上いるとき、このデジモンをアクティブにする。\n",
   "Element": "緑",
   "Cost": "8",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "植物型"
 }

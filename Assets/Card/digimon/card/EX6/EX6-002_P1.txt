@@ -4,9 +4,9 @@
   "CardName": "ピョコモン",
   "CardLevel": "Lv.2",
   "CardRarity": "C",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【アタック時】[ターンに1回]自分の手札から、青のLv.3のデジモンカード1枚をこのデジモンの進化元の下に置ける。\n",
   "Element": "青",
-  "CardCategory": "幼年期",
   "CardSubType": "球根型"
 }

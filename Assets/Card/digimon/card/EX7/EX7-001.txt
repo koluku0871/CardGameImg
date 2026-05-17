@@ -4,9 +4,9 @@
   "CardName": "プチメラモン",
   "CardLevel": "Lv.2",
   "CardRarity": "C",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【自分のターン】相手のデジモンが1体以下の間、このデジモンをDP+2000。\n",
   "Element": "赤",
-  "CardCategory": "幼年期",
   "CardSubType": "火炎型"
 }

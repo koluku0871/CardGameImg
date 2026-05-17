@@ -4,13 +4,13 @@
   "CardName": "エンジェモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黄／2"
   ],
   "Text": "[進化元効果]\n【アタック時】［ターンに1回］自分のセキュリティが3枚以上のとき、次の相手のターン終了時まで、このデジモンのDPを+1000する。\n",
   "Element": "黄",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "天使型"
 }

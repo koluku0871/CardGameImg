@@ -4,9 +4,9 @@
   "CardName": "カッキンモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【自分のメインフェイズ開始時】このデジモンの進化元から、特徴に「Legend-Arms」を持つカード1枚を手札に戻すことで、メモリー+1。\n",
   "Element": "黒",
-  "CardCategory": "幼年期",
   "CardSubType": "防具型"
 }

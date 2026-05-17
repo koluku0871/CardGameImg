@@ -4,13 +4,13 @@
   "CardName": "ユキアグモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[進化元効果]\n【相手のターン】進化元を持たない相手のデジモンが進化するとき、支払う進化コスト+1。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "恐竜型"
 }

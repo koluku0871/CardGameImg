@@ -4,13 +4,13 @@
   "CardName": "ルカモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青／1"
   ],
   "Text": "[特殊進化]\n〔進化〕特徴に「DS」を持つLv.3:コスト1\n[進化元効果]\n【アタック時】[ターンに1回]自分の手札が7枚以下なら、≪1ドロー≫。\n",
   "Element": "青",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "水棲哺乳類型/DS"
 }

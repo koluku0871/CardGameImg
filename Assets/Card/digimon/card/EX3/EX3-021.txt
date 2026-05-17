@@ -4,13 +4,13 @@
   "CardName": "クリスペイルドラモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 青／3"
   ],
   "Text": "[効果]\n【進化時】相手のデジモン1体の進化元を、選んで2枚破棄する。その後、次の相手のターン終了まで、進化元を持たない相手のデジモン1体はアタックとブロックができない。\n",
   "Element": "青",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "竜人型"
 }

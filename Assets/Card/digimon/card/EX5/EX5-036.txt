@@ -4,13 +4,13 @@
   "CardName": "アクィラモン",
   "CardLevel": "Lv.4",
   "CardRarity": "R",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[効果]\n≪不屈≫(進化元を持つこのデジモンが消滅したとき、このカードをコストを支払わずに登場させる)\n[進化元効果]\n【お互いのターン】このデジモンがレスト状態の間、このデジモンをDP+1000。\n",
   "Element": "緑",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "フリー",
   "CardSubType": "巨鳥型"
 }

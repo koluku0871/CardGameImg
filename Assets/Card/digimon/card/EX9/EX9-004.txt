@@ -4,9 +4,9 @@
   "CardName": "タネモン",
   "CardLevel": "Lv.2",
   "CardRarity": "C",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【自分のターン】[ターンに1回]特徴に「Ver.4」を持つ自分のデジモンが登場したとき、このデジモンの裏向きの進化元を下から1枚破棄することで、メモリー+1。\n",
   "Element": "緑",
-  "CardCategory": "幼年期",
   "CardSubType": "球根型/DM/Ver.4"
 }

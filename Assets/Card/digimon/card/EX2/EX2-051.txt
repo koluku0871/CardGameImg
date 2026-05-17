@@ -4,10 +4,10 @@
   "CardName": "ADR-07=パラティスヘッド",
   "CardLevel": "Lv.-",
   "CardRarity": "C",
+  "CardCategory": "デ・リーパー",
   "Lv": [],
   "Text": "[効果]\n【メイン】自分の「マザーデ・リーパー」がいるとき、このデジモンをレストさせることで、このデジモンのDP以下の相手のデジモン1体を消滅させる。\n",
   "Element": "白",
   "Cost": "6",
-  "CardCategory": "デ・リーパー",
   "CardSubType": "威力偵察タイプ"
 }

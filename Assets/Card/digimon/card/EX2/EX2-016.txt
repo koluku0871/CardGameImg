@@ -4,13 +4,13 @@
   "CardName": "ゴリモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青／2"
   ],
   "Text": "[効果]\n【登場時】青の自分のデジモン1体の進化元から、Lv.3のデジモンカード1枚をコストを支払わずに登場できる。\n",
   "Element": "青",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "獣人型"
 }

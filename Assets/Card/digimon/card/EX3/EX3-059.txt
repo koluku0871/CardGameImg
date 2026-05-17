@@ -4,13 +4,13 @@
   "CardName": "ダークティラノモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 紫緑／2"
   ],
   "Text": "[進化元効果]\n【消滅時】相手のデジモン1体をレストさせる。\n",
   "Element": "紫緑",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "恐竜型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ゲコモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青／2"
   ],
   "Text": "[特殊進化]\n〔進化〕特徴に「NSp」を持つLv.3:コスト2\n[効果]\n【登場時】【進化時】≪1ドロー≫（自分のデッキからカードを1枚引く）\n[進化元効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n",
   "Element": "青",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "両生類型/NSp"
 }
