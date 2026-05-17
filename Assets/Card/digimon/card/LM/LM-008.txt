@@ -4,13 +4,13 @@
   "CardName": "アンゴラモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 緑／0"
   ],
   "Text": "[効果]\n【自分のメインフェイズ開始時】自分のテイマーがいるなら、メモリー＋1。\n[進化元効果]\n【自分のターン】このデジモンに「アンゴラモン」の記述がある間、このデジモンをDP+2000。\n",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "獣型"
 }

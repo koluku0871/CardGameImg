@@ -4,13 +4,13 @@
   "CardName": "ガブモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[進化元効果]\n【お互いのターン】自分の手札が8枚以上の間、このデジモンのDPを+1000する。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "爬虫類型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ナイトモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／3"
   ],
   "Text": "[効果]\n【登場時】登場コスト5以下の相手のデジモン1体を消滅させる。\n",
   "Element": "黒",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "戦士型"
 }

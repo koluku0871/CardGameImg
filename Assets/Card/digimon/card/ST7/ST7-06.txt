@@ -4,13 +4,13 @@
   "CardName": "ジオグレイモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 赤／2"
   ],
   "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】DP4000以下の相手のデジモン1体を消滅させる。\n",
   "Element": "赤",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "恐竜型"
 }

@@ -4,13 +4,13 @@
   "CardName": "キウイモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[効果]\n【登場時】【消滅時】相手のデジモン1体をレストさせる。〈ルール〉特徴:タイプ「植物型」を持つ。\n",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "古代鳥型"
 }

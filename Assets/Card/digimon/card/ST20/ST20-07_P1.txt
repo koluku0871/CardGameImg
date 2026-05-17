@@ -4,13 +4,13 @@
   "CardName": "テントモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 緑／0"
   ],
   "Text": "[特殊進化]\n〔進化〕特徴に「アドベンチャー」を持つLv.2:コスト0\n[効果]\n【相手のターン】相手は支払う進化コストをマイナスできない。\n",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "昆虫型/アドベンチャー"
 }

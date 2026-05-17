@@ -4,13 +4,13 @@
   "CardName": "ブイドラモン",
   "CardLevel": "Lv.4",
   "CardRarity": "R",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青／2"
   ],
   "Text": "[進化元効果]\n【アタック時】自分の手札が8枚以上のとき、Lv.3の相手のデジモン1体を手札に戻す。そのデジモンの持つ進化元は破棄する。\n",
   "Element": "青",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "幻竜型"
 }

@@ -4,13 +4,13 @@
   "CardName": "イッカクモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青／2"
   ],
   "Text": "",
   "Element": "青",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "海獣型"
 }

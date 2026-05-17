@@ -4,13 +4,13 @@
   "CardName": "パンダモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黄／3"
   ],
   "Text": "[効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）【消滅時】自分の手札から、特徴に「パペット型」を持つLv.3のデジモンカード1枚をコストを支払わずに登場できる。\n",
   "Element": "黄",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "パペット型"
 }

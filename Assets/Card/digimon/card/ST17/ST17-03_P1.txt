@@ -4,13 +4,13 @@
   "CardName": "ロップモン",
   "CardLevel": "Lv.3",
   "CardRarity": "SR",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 緑／0"
   ],
   "Text": "[特殊進化]\n〔進化〕「チョコモン」:コスト0\n[効果]\n【メイン】［ターンに1回］ターン終了まで、自分のデジモン1体は≪連携≫を得る。\n[進化元効果]\n【お互いのターン】このデジモンがレスト状態の間、このデジモンをDP+1000。\n",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "獣型"
 }

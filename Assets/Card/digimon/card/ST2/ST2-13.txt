@@ -3,6 +3,7 @@
   "PackNo": "ST2",
   "CardName": "ハンマースパーク",
   "CardRarity": "C",
+  "CardCategory": "オプション",
   "Lv": [],
   "Text": "[効果]\n【メイン】メモリーを+1する。\n[セキュリティ効果]\n【セキュリティ】メモリーを+2する。\n",
   "Element": "青",

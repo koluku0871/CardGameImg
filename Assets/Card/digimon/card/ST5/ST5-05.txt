@@ -4,13 +4,13 @@
   "CardName": "コマンドラモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒／0"
   ],
   "Text": "",
   "Element": "黒",
   "Cost": "4",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "サイボーグ型/D-ブリガード"
 }

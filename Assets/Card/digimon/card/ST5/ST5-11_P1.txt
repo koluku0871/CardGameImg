@@ -4,13 +4,13 @@
   "CardName": "メガドラモン",
   "CardLevel": "Lv.5",
   "CardRarity": "R",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／3"
   ],
   "Text": "[進化元効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンをレストさせることでアタックの対象をこのデジモンにする)\n",
   "Element": "黒",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "サイボーグ型"
 }

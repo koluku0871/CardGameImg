@@ -4,13 +4,13 @@
   "CardName": "ズバイガーモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 赤黒／2"
   ],
   "Text": "[効果]\n【登場時】このデジモンを特徴に「Legend-Arms」を持つか黒の他の自分のデジモン1体の進化元の下に置くことで、DP5000以下の相手のデジモン1体を消滅させる。\n[進化元効果]\n【アタック時】特徴に「Legend-Arms」を持つか黒の自分のデジモンがいるとき、DP3000以下の相手のデジモン1体を消滅させる。\n",
   "Element": "赤",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "武器型/Legend-Arms"
 }

@@ -4,13 +4,13 @@
   "CardName": "ギュウキモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 紫／3"
   ],
   "Text": "[効果]\n【登場時】Lv.4以下のデジモン1体を消滅させる。そうしたなら、「ギュウキモン」（デジモン・7コスト・Lv.5・紫・完全体・ウィルス種・魔獣型・DP3000）のトークン1体をコストを支払わずに登場できる。\n",
   "Element": "紫",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "魔獣型"
 }

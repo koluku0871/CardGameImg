@@ -4,13 +4,13 @@
   "CardName": "コアドラモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青／2"
   ],
   "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【登場時】≪2ドロー≫\n",
   "Element": "青",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "竜型"
 }

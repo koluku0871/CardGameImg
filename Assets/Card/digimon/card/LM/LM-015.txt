@@ -4,13 +4,13 @@
   "CardName": "リュウダモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒／0"
   ],
   "Text": "[効果]\n【アタック時】自分のテイマーがいるなら、このデジモンを手札の「ギンリュウモン」にコストを支払わずに進化できる。\n[進化元効果]\n【自分のターン】このデジモンが特徴に「X抗体」を持つ間、このデジモンをDP+1000。\n",
   "Element": "黒",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "獣型/X抗体"
 }

@@ -4,13 +4,13 @@
   "CardName": "パブリモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黄／2"
   ],
   "Text": "[効果]\n【セキュリティ】バトル終了時、このカードをコストを支払わずに登場させる。【アタック終了時】このデジモンを自分のセキュリティの上に置く。\n",
   "Element": "黄",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "突然変異型"
 }

@@ -4,13 +4,13 @@
   "CardName": "グランクワガーモン",
   "CardLevel": "Lv.6",
   "CardRarity": "R",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 緑／3"
   ],
   "Text": "[効果]\n≪セキュリティアタック+1≫（このデジモンがチェックするセキュリティの枚数+1）【進化時】このターンの間、このデジモンのDPを+4000する。\n",
   "Element": "緑",
   "Cost": "12",
-  "CardCategory": "究極体",
   "CardType": "フリー",
   "CardSubType": "昆虫型"
 }

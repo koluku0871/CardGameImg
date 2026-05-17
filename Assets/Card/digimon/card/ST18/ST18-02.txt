@@ -4,13 +4,13 @@
   "CardName": "ピヨモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 緑赤／1"
   ],
   "Text": "[効果]\n≪不屈≫（進化元を持つこのデジモンが消滅したとき、このカードをコストを支払わずに登場させる）\n",
   "Element": "緑赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "ヒナ鳥型"
 }

@@ -4,13 +4,13 @@
   "CardName": "チクリモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒／0"
   ],
   "Text": "[効果]\n【お互いのターン】お互いは支払う登場コストをマイナスできない。\n",
   "Element": "黒",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "機雷型"
 }

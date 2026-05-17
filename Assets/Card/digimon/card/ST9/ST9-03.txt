@@ -4,13 +4,13 @@
   "CardName": "べタモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青緑／0"
   ],
   "Text": "",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "両生類型"
 }

@@ -4,13 +4,13 @@
   "CardName": "エレキモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 紫／0"
   ],
   "Text": "[効果]\n【登場時】≪1ドロー≫（自分のデッキからカードを1枚引く）。その後、自分の手札を1枚破棄する。\n",
   "Element": "紫",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "哺乳類型"
 }

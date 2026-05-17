@@ -4,13 +4,13 @@
   "CardName": "プレシオモン",
   "CardLevel": "Lv.6",
   "CardRarity": "R",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 青／2"
   ],
   "Text": "",
   "Element": "青",
   "Cost": "10",
-  "CardCategory": "究極体",
   "CardType": "データ種",
   "CardSubType": "首長竜型"
 }

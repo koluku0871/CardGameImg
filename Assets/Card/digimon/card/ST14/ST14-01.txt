@@ -4,9 +4,9 @@
   "CardName": "ヤーモン",
   "CardLevel": "Lv.2",
   "CardRarity": "U",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【アタック時】［ターンに1回］このデジモンが特徴に「魔人型」か「魔王型」を持つとき、自分のデッキの上から2枚破棄する。\n",
   "Element": "紫",
-  "CardCategory": "幼年期",
   "CardSubType": "レッサー型"
 }

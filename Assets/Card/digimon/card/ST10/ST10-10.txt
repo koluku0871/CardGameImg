@@ -4,13 +4,13 @@
   "CardName": "ウィザーモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 紫黄／2"
   ],
   "Text": "",
   "Element": "紫黄",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "魔人型"
 }

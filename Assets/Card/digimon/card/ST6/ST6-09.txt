@@ -4,13 +4,13 @@
   "CardName": "キュウキモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 紫／3"
   ],
   "Text": "",
   "Element": "紫",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "妖獣型"
 }

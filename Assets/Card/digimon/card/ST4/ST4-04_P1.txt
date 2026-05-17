@@ -4,13 +4,13 @@
   "CardName": "パルモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 緑／0"
   ],
   "Text": "[進化元効果]\n【アタック時】相手のデジモンにアタックしたとき、このターンの間、このデジモンのDPを+2000する。\n",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "植物型"
 }

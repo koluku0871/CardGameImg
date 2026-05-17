@@ -4,13 +4,13 @@
   "CardName": "ワーガルルモン",
   "CardLevel": "Lv.5",
   "CardRarity": "R",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 紫／3"
   ],
   "Text": "[進化元効果]\n【自分のターン】自分のトラッシュが5枚以上の間、このデジモンのDPを+2000する。\n",
   "Element": "紫",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "獣人型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ソーラーモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒／0"
   ],
   "Text": "[効果]\n【登場時】自分のデッキの上から1枚オープンする。そのカードが黒のカードなら手札に加える。残りは破棄する。\n",
   "Element": "黒",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "マシーン型"
 }

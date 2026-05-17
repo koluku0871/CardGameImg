@@ -4,13 +4,13 @@
   "CardName": "スティングモン",
   "CardLevel": "Lv.4",
   "CardRarity": "U",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑青／2"
   ],
   "Text": "[効果]\n手札のこのカードを登場させるとき、青の自分のデジモンがいるなら、支払う登場コストを-1する。\n[進化元効果]\n【アタック時】青の自分のデジモンがいるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n",
   "Element": "緑",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "フリー",
   "CardSubType": "昆虫型"
 }
