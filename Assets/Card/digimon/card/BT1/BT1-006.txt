@@ -4,9 +4,9 @@
   "CardName": "キュピモン",
   "CardLevel": "LV.2",
   "CardRarity": "R",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【アタック時】自分のセキュリティが5枚以上あるとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n",
   "Element": "黄",
-  "CardCategory": "幼年期",
   "CardSubType": "小天使型"
 }

@@ -4,13 +4,13 @@
   "CardName": "メタルティラノモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 赤／3"
   ],
   "Text": "",
   "Element": "赤",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "サイボーグ型"
 }

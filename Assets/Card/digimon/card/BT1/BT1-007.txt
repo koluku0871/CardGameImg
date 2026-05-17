@@ -4,9 +4,9 @@
   "CardName": "タネモン",
   "CardLevel": "LV.2",
   "CardRarity": "R",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【アタック時】このターンに自分がデジモンを1回以上進化させている場合、このターンの間、このデジモンのDPを+1000する。\n",
   "Element": "緑",
-  "CardCategory": "幼年期",
   "CardSubType": "球根型"
 }

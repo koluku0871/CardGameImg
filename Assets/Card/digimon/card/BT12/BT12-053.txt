@@ -4,13 +4,13 @@
   "CardName": "メタリフェクワガーモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 緑／3"
   ],
   "Text": "[特殊進化]\n〔進化〕≪セーブ≫の記述があるLv.4から3\n[進化元効果]\n【自分のターン】[ターンに1回]このデジモンがバトルで相手のデジモンを消滅させたとき、メモリー+1。\n",
   "Element": "緑",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "昆虫型"
 }

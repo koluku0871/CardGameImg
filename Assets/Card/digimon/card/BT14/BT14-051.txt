@@ -4,13 +4,13 @@
   "CardName": "オオクワモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 緑／3"
   ],
   "Text": "[効果]\n【相手のターン終了時】［ターンに1回］自分のデジモン1体をレストさせることで、自分のデッキの上から5枚オープンする。その中の緑のデジモンカード2枚を手札に加える。残りはデッキの下に戻す。\n",
   "Element": "緑",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "昆虫型"
 }

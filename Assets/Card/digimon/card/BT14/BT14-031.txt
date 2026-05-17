@@ -4,13 +4,13 @@
   "CardName": "エレキモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[進化元効果]\n【アタック時】［ターンに1回］ターン終了まで、相手のデジモン1体をDP-2000。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "哺乳類型"
 }

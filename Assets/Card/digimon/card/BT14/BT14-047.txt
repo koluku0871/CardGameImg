@@ -4,13 +4,13 @@
   "CardName": "ドクグモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[効果]\n【登場時】【進化時】相手のデジモン1体をレストさせる。次の相手のアクティブフェイズではDP5000以下の相手のデジモン全てはアクティブにならない。\n",
   "Element": "緑",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "昆虫型"
 }

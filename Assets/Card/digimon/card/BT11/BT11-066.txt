@@ -4,13 +4,13 @@
   "CardName": "テッカモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／3"
   ],
   "Text": "[効果]\n≪再起動≫（相手のアクティブフェイズに、このデジモンをアクティブにする）\n",
   "Element": "黒",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "マシーン型"
 }

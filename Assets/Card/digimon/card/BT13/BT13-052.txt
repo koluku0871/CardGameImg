@@ -4,13 +4,13 @@
   "CardName": "ジンバーアンゴラモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／2"
   ],
   "Text": "[効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n[進化元効果]\n【お互いのターン】アクティブ状態の相手のデジモンがいない間、このデジモンをDP+1000。\n",
   "Element": "緑",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "獣人型"
 }

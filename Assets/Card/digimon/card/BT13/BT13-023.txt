@@ -4,13 +4,13 @@
   "CardName": "ジェリーモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[効果]\n≪回避≫（このデジモンが消滅するとき、このデジモンをレストさせることで、消滅しない)\n[進化元効果]\n【アタック時】相手のデジモン1体の進化元を、下から1枚破棄する。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "軟体型"
 }

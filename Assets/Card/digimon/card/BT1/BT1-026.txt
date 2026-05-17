@@ -4,13 +4,13 @@
   "CardName": "ブレイクドラモン",
   "CardLevel": "Lv.6",
   "CardRarity": "U",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 赤／3"
   ],
   "Text": "[効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンだけを消滅させたとき、このデジモンはセキュリティをチェックする）\n",
   "Element": "赤",
   "Cost": "12",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "機竜型"
 }

@@ -3,6 +3,7 @@
   "PackNo": "BT1",
   "CardName": "グラビティプレス",
   "CardRarity": "C",
+  "CardCategory": "オプション",
   "Lv": [],
   "Text": "[効果]\n【メイン】メモリーを+2する。このターン終了時、メモリーを-2する。\n",
   "Element": "赤",

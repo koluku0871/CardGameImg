@@ -4,13 +4,13 @@
   "CardName": "ダークティラノモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 赤／1"
   ],
   "Text": "",
   "Element": "赤",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "恐竜型"
 }

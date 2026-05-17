@@ -4,13 +4,13 @@
   "CardName": "アトラーカブテリモン",
   "CardLevel": "Lv.5",
   "CardRarity": "U",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 緑／2"
   ],
   "Text": "[進化元効果]\n【アタック時】レスト状態の相手のデジモンが2体以上いるとき、メモリーを+1する。\n",
   "Element": "緑",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "昆虫型"
 }

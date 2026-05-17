@@ -4,13 +4,13 @@
   "CardName": "マーメイモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 青／3"
   ],
   "Text": "[効果]\n【登場時】【進化時】他の青の自分のデジモン1体をこのデジモンの進化元の下に置くことで、メモリー+2。\n",
   "Element": "青",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "データ種",
   "CardSubType": "水棲獣人型"
 }

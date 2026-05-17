@@ -4,13 +4,13 @@
   "CardName": "ゴグマモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／3"
   ],
   "Text": "",
   "Element": "黒",
   "Cost": "5",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "鉱石型"
 }

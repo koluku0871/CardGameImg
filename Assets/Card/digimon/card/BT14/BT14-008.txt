@@ -4,13 +4,13 @@
   "CardName": "ギザモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "[進化元効果]\n【アタック時】［ターンに1回］DP3000以下の相手のデジモン1体を消滅させる。\n",
   "Element": "赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "水棲哺乳類型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ピロモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／1"
   ],
   "Text": "",
   "Element": "黄",
   "Cost": "2",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "哺乳類型"
 }

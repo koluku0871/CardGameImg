@@ -4,13 +4,13 @@
   "CardName": "レッドベジーモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／1"
   ],
   "Text": "",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "植物型"
 }

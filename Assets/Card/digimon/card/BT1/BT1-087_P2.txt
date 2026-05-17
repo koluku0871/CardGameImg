@@ -3,6 +3,7 @@
   "PackNo": "BT1",
   "CardName": "高石タケル",
   "CardRarity": "R",
+  "CardCategory": "テイマー",
   "Lv": [],
   "Text": "[セキュリティ効果]\n【セキュリティ】このカードをコストを支払わずに登場させる。\n",
   "Element": "黄"

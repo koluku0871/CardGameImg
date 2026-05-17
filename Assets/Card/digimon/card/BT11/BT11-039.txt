@@ -4,13 +4,13 @@
   "CardName": "ケンタルモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 黄／2"
   ],
   "Text": "[効果]\n【進化時】他の黄の自分のデジモン1体をセキュリティの上に裏向きで置ける。\n",
   "Element": "黄",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "獣人型"
 }

@@ -4,13 +4,13 @@
   "CardName": "グランクワガーモン",
   "CardLevel": "Lv.6",
   "CardRarity": "SR",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 緑／4"
   ],
   "Text": "[効果]\n≪貫通≫（このデジモンがアタックしたバトルで相手のデジモンだけを消滅させたとき、このデジモンはセキュリティをチェックする）【自分のターン】このデジモンのDPを+4000する。\n",
   "Element": "緑",
   "Cost": "13",
-  "CardCategory": "究極体",
   "CardType": "フリー",
   "CardSubType": "昆虫型"
 }

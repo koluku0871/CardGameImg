@@ -4,13 +4,13 @@
   "CardName": "ティラノモン",
   "CardLevel": "Lv.4",
   "CardRarity": "R",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 赤／2"
   ],
   "Text": "[効果]\n≪ジャミング≫（このデジモンはセキュリティデジモンとのバトルでは消滅しない）\n",
   "Element": "赤",
   "Cost": "4",
-  "CardCategory": "成熟期",
   "CardType": "データ種",
   "CardSubType": "恐竜型"
 }

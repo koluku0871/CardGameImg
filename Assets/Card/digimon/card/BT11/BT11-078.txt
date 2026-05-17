@@ -4,13 +4,13 @@
   "CardName": "ソウルモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 紫／2"
   ],
   "Text": "[効果]\n≪道連れ≫（バトルでこのデジモンだけが消滅したとき、バトルした相手のデジモンを消滅させる）【お互いのターン】≪道連れ≫を持つ自分のデジモン全てをDP+2000。\n",
   "Element": "紫",
   "Cost": "5",
-  "CardCategory": "成熟期",
   "CardType": "ウィルス種",
   "CardSubType": "ゴースト型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ドンドコモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 赤／0"
   ],
   "Text": "[特殊進化]\n〔進化〕『特徴に「クロスハート」を持つLv.2』から0\n",
   "Element": "赤",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "楽器型/クロスハート"
 }

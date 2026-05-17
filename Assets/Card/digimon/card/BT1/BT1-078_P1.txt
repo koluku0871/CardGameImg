@@ -4,13 +4,13 @@
   "CardName": "ジャガモン",
   "CardLevel": "Lv.5",
   "CardRarity": "U",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 緑／3"
   ],
   "Text": "[効果]\n【アタック時】自分のデッキの上から3枚オープンする。その中の緑のLv.6のデジモンカード1枚に、このデジモンからコストを支払わずに進化できる。残りは好きな順番でデッキの下に戻す。\n",
   "Element": "緑",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "植物型"
 }

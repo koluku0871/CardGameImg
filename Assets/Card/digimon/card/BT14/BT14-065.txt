@@ -4,13 +4,13 @@
   "CardName": "ベーダモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 黒／3"
   ],
   "Text": "[効果]\n【登場時】【進化時】相手のデッキの上から3枚オープンする。相手のデジモン1体を、その中のデジモンカード1枚ごとに≪退化1≫。オープンしたカードはデッキの上か下だけに戻す。\n",
   "Element": "黒",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "宇宙人型"
 }

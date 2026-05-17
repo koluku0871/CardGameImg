@@ -3,6 +3,7 @@
   "PackNo": "BT1",
   "CardName": "第一曲≪ポリフォニー≫",
   "CardRarity": "R",
+  "CardCategory": "オプション",
   "Lv": [],
   "Text": "[効果]\n【メイン】このターンの間、相手のデジモン1体のDPを-7000する。\n",
   "Element": "黄",

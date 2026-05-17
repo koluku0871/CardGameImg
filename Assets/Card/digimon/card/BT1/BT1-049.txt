@@ -4,13 +4,13 @@
   "CardName": "ラブラモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黄／0"
   ],
   "Text": "[進化元効果]\n【自分のターン】相手のデジモンがDP0になって消滅したとき、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n",
   "Element": "黄",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "獣型"
 }

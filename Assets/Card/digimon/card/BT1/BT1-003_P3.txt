@@ -4,9 +4,9 @@
   "CardName": "ウパモン",
   "CardLevel": "Lv.2",
   "CardRarity": "R",
+  "CardCategory": "幼年期",
   "Lv": [],
   "Text": "[進化元効果]\n【アタック時】［ターンに1回］進化元を持たない相手のデジモンがいるなら、≪1ドロー≫（自分のデッキからカードを1枚引く）。\n",
   "Element": "青",
-  "CardCategory": "幼年期",
   "CardSubType": "両生類型"
 }

@@ -4,13 +4,13 @@
   "CardName": "ブイドラモン",
   "CardLevel": "Lv.4",
   "CardRarity": "SEC",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 青／3"
   ],
   "Text": "[効果]\n【アタック時】［ターンに1回］自分のテイマーがいるとき、このデジモンをアクティブにする。\n[進化元効果]\n【お互いのターン】青の自分のテイマーがいる間、このデジモンのDPを+1000する。\n",
   "Element": "青",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "幻竜型"
 }

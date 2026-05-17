@@ -4,13 +4,13 @@
   "CardName": "ポテモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "成熟期",
   "Lv": [
     "LV3 : 緑／1"
   ],
   "Text": "",
   "Element": "緑",
   "Cost": "6",
-  "CardCategory": "成熟期",
   "CardType": "ワクチン種",
   "CardSubType": "食物型"
 }

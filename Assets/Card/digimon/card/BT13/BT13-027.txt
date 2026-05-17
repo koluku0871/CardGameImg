@@ -4,13 +4,13 @@
   "CardName": "シャウジンモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 青／3"
   ],
   "Text": "[効果]\n≪ブロッカー≫【相手のターン】相手のデジモンがアタックしたとき、このデジモンの進化元から、Lv.4以下のデジモンカード1枚をコストを支払わずに登場できる。\n",
   "Element": "青",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ウィルス種",
   "CardSubType": "魔人型"
 }

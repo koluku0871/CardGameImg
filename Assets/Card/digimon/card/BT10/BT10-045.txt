@@ -4,13 +4,13 @@
   "CardName": "コクワモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 緑／0"
   ],
   "Text": "[進化元効果]\n【自分のターン】［ターンに1回］このデジモンがバトルで相手のデジモンを消滅させたとき、メモリー+1。\n",
   "Element": "緑",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "マシーン型"
 }

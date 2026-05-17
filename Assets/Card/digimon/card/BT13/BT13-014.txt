@@ -4,13 +4,13 @@
   "CardName": "ガルダモン",
   "CardLevel": "Lv.5",
   "CardRarity": "U",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 赤／3"
   ],
   "Text": "[効果]\n【登場時】【進化時】自分の手札から、登場コスト3以下の赤のテイマーカード1枚をコストを支払わずに登場できる。\n[進化元効果]\n【消滅時】DP6000以下の相手のデジモン1体を消滅させる。\n",
   "Element": "赤",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "鳥人型"
 }

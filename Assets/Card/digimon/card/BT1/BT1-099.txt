@@ -3,6 +3,7 @@
   "PackNo": "BT1",
   "CardName": "ラブリーアタック",
   "CardRarity": "C",
+  "CardCategory": "オプション",
   "Lv": [],
   "Text": "[効果]\n【メイン】相手のデジモン1体の進化元を全て破棄する。\n",
   "Element": "青",

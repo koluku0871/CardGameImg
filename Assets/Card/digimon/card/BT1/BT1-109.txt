@@ -3,6 +3,7 @@
   "PackNo": "BT1",
   "CardName": "スマッシュポテト",
   "CardRarity": "C",
+  "CardCategory": "オプション",
   "Lv": [],
   "Text": "[効果]\n【メイン】このターンの間、次に緑の自分のデジモンがLv.5からLv.6に進化するときに支払う進化コストを-4する。\n",
   "Element": "緑",

@@ -4,13 +4,13 @@
   "CardName": "クアトルモン",
   "CardLevel": "Lv.4",
   "CardRarity": "C",
+  "CardCategory": "アーマー体",
   "Lv": [
     "LV3 : 紫／2"
   ],
   "Text": "[効果]\n≪アーマー解除≫(このデジモンが消滅するとき、このデジモンに重ねられているカードを上から1枚破棄することで、消滅しない)\n",
   "Element": "紫",
   "Cost": "4",
-  "CardCategory": "アーマー体",
   "CardType": "フリー",
   "CardSubType": "幻獣型"
 }

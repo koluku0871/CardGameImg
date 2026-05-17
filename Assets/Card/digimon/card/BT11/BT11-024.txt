@@ -4,13 +4,13 @@
   "CardName": "ペンモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[効果]\n【登場時】自分の手札から、青のLv.3のデジモンカードか特徴に「水棲」を含むデジモンカード1枚をこのデジモンの進化元の下に置くことで、≪1ドロー≫。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ワクチン種",
   "CardSubType": "鳥型"
 }

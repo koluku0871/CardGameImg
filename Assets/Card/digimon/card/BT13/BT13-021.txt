@@ -4,13 +4,13 @@
   "CardName": "ガオモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／0"
   ],
   "Text": "[効果]\n【アタック時】［ターンに1回］お互いは、デッキからカードを1枚引く。\n[進化元効果]\n【お互いのターン】相手の手札が8枚以上の間、このデジモンをDP+1000。\n",
   "Element": "青",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "獣型"
 }

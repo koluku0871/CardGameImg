@@ -4,13 +4,13 @@
   "CardName": "ブルコモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／2"
   ],
   "Text": "",
   "Element": "青",
   "Cost": "2",
-  "CardCategory": "成長期",
   "CardType": "データ種",
   "CardSubType": "小竜型"
 }

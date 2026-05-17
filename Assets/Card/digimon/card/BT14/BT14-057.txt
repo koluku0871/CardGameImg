@@ -4,13 +4,13 @@
   "CardName": "チューチューモン",
   "CardLevel": "Lv.3",
   "CardRarity": "C",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 黒紫／1"
   ],
   "Text": "[効果]\n【消滅時】≪セーブ≫（このカードを自分のテイマーの下に置ける）\n[進化元効果]\n≪ブロッカー≫（このデジモンはブロックタイミングでブロックできる）\n",
   "Element": "黒紫",
   "Cost": "3",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "獣型/バグラ軍/トワイライト"
 }

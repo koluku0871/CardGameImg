@@ -4,13 +4,13 @@
   "CardName": "コエモン",
   "CardLevel": "Lv.3",
   "CardRarity": "U",
+  "CardCategory": "成長期",
   "Lv": [
     "LV2 : 青／1"
   ],
   "Text": "[効果]\n≪ブロッカー≫（相手のデジモンがアタックしたとき、このデジモンがアクティブ状態ならレストさせることでアタックの対象をこのデジモンにする）\n",
   "Element": "青",
   "Cost": "4",
-  "CardCategory": "成長期",
   "CardType": "ウィルス種",
   "CardSubType": "獣型"
 }

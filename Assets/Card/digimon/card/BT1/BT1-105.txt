@@ -3,6 +3,7 @@
   "PackNo": "BT1",
   "CardName": "ブラストファイア",
   "CardRarity": "C",
+  "CardCategory": "オプション",
   "Lv": [],
   "Text": "[効果]\n【メイン】次の相手のターン終了時まで、相手のデジモン1体の元々のDPを3000に変更する。\n",
   "Element": "黄",

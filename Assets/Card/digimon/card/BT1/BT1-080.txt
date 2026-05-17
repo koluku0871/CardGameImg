@@ -4,13 +4,13 @@
   "CardName": "タイタモン",
   "CardLevel": "Lv.6",
   "CardRarity": "U",
+  "CardCategory": "究極体",
   "Lv": [
     "LV5 : 緑／2"
   ],
   "Text": "",
   "Element": "緑",
   "Cost": "10",
-  "CardCategory": "究極体",
   "CardType": "ウィルス種",
   "CardSubType": "神人型"
 }

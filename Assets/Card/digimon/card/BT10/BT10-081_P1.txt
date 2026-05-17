@@ -4,13 +4,13 @@
   "CardName": "バアルモン",
   "CardLevel": "Lv.5",
   "CardRarity": "C",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 紫／3"
   ],
   "Text": "[効果]\n【アタック時】自分のデッキの上から3枚まで破棄できる。【消滅時】自分のトラッシュが10枚以上なら、自分のトラッシュから、「ベルゼブモン」1枚をコストを支払わずに登場できる。\n",
   "Element": "紫",
   "Cost": "7",
-  "CardCategory": "完全体",
   "CardType": "フリー",
   "CardSubType": "魔人型/バグラ軍"
 }

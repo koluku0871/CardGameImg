@@ -4,13 +4,13 @@
   "CardName": "メタルグレイモン",
   "CardLevel": "Lv.5",
   "CardRarity": "U",
+  "CardCategory": "完全体",
   "Lv": [
     "LV4 : 赤／3"
   ],
   "Text": "[効果]\n【アタック時】メモリーを+3する。このターン終了時、メモリーを-3する。\n",
   "Element": "赤",
   "Cost": "6",
-  "CardCategory": "完全体",
   "CardType": "ワクチン種",
   "CardSubType": "サイボーグ型"
 }
