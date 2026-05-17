@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT21-004_P2",
+  "PackNo": "BT21",
+  "CardName": "コロモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "CardCategory": "幼年期",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターンに1回]黄/赤の自分のテイマーがレストしたとき、≪1ドロー≫。\n",
+  "Element": "黄",
+  "CardSubType": "レッサー型/ヒーロー"
+}

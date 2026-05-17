@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "BT13-093_P2",
+  "PackNo": "BT13",
+  "CardName": "オメカモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "U",
+  "CardCategory": "成熟期",
+  "Lv": [],
+  "Text": "[効果]\n【登場時】≪1ドロー≫【消滅時】自分の手札から、特徴に「ロイヤルナイツ」を持つデジモンカード1枚を育成エリアの自分の「イグドラシル_7D6」の進化元の下に置ける。\n",
+  "Element": "白",
+  "CardType": "データ種",
+  "CardSubType": "パペット型/X抗体"
+}

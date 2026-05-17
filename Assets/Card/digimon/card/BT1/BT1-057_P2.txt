@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT1-057_P2",
+  "PackNo": "BT1",
+  "CardName": "セイレーンモン",
+  "CardLevel": "Lv.5",
+  "CardRarity": "U",
+  "CardCategory": "完全体",
+  "Lv": [
+    "LV4 : 黄／2"
+  ],
+  "Text": "",
+  "Element": "黄",
+  "CardType": "データ種",
+  "CardSubType": "神人型"
+}

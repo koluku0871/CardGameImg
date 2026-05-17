@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "BT22-064_P2",
+  "PackNo": "BT22",
+  "CardName": "ディアボロモン",
+  "CardLevel": "Lv.6",
+  "CardRarity": "R",
+  "CardCategory": "究極体",
+  "Lv": [],
+  "Text": "",
+  "Element": "黒",
+  "CardType": "不明",
+  "CardSubType": "種族不明/CS"
+}

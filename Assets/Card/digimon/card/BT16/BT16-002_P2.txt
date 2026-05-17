@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT16-002_P2",
+  "PackNo": "BT16",
+  "CardName": "チビモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "CardCategory": "幼年期",
+  "Lv": [],
+  "Text": "[進化元効果]\n【お互いのターン】多色のこのデジモンをDP+1000。\n",
+  "Element": "青",
+  "CardSubType": "幼竜型"
+}
