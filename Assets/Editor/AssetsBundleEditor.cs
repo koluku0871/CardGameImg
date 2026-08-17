@@ -50,6 +50,22 @@ public class AssetBundleEditor
         BuildAssetBundles(target_platform, output_path, asset_bundle_build_list);
     }
 
+    [MenuItem("AssetBundles/Windows64_Pokemon", false)]
+    static private void BuildAssetBundlesForWindows64ToPokemon()
+    {
+        (var target_platform, var output_path) = CreateDirectoryForWindows64();
+        var asset_bundle_build_list = GetAssetBundleBuild(output_path, "pokemon_");
+        BuildAssetBundles(target_platform, output_path, asset_bundle_build_list);
+    }
+
+    [MenuItem("AssetBundles/Windows64_Yugioh", false)]
+    static private void BuildAssetBundlesForWindows64ToYugioh()
+    {
+        (var target_platform, var output_path) = CreateDirectoryForWindows64();
+        var asset_bundle_build_list = GetAssetBundleBuild(output_path, "yugioh_");
+        BuildAssetBundles(target_platform, output_path, asset_bundle_build_list);
+    }
+
     private static (UnityEditor.BuildTarget, String) CreateDirectoryForWindows64()
     {
         // 他プラットフォームを対象にする場合はここを変更する(今回は Windows64 向け)
