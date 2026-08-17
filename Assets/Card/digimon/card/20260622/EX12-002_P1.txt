@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "EX12-002_P1",
+  "PackNo": "EX12",
+  "CardName": "モココモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "U",
+  "CardCategory": "幼年期",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターン1回]特徴「SW」を持つ他の自分のデジモンが登場したとき、このデジモンを手札の特徴「SW」を持つデジモンカードに支払うコスト-2で進化できる。\n",
+  "Element": "黄",
+  "CardSubType": "スモーク型/シャンバラ/SW"
+}
