@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex1-SECN006a",
+  "PackNo": "dm26ex1",
+  "CardName": "ガチャンコガジェロボ/ガチャンコ・チャージャー(DM26EX1㊙N6/㊙N25)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "VR",
+  "Cost": "8",
+  "CardSubType": "9000",
+  "CardCategory": "グレートメカオー/侵略者",
+  "Text": "{GS}G・ストライクW・ブレイカー相手のクリーチャーが出た時、自分のクリーチャーが３体以上あれば、そのターン、相手のクリーチャーは攻撃もブロックもできない。"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26sd1-v009a",
+  "PackNo": "dm26sd1",
+  "CardName": "応援妖精エール/「みんな一緒に応援してね！」(DM26SD19/12)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーが出た時、自分のマナゾーンにあるカードを２枚までアンタップする。"
+}

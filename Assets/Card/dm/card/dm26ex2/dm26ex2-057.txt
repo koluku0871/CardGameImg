@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex2-057",
+  "PackNo": "dm26ex2",
+  "CardName": "プロジェクト・ゴッド(DM26EX257/89)",
+  "CardType": "呪文",
+  "Element": "水",
+  "CardRarity": "U",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "自分の山札の上から５枚を墓地に置く。その中から、バトルゾーンにある自分のゴッドとリンクできるゴッドを、好きな数リンクして出してもよい。"
+}

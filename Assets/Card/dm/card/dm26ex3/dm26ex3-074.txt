@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex3-074",
+  "PackNo": "dm26ex3",
+  "CardName": "ミステリー・キューブ(DM26EX374/100)",
+  "CardType": "呪文",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー自分の山札をシャッフルし、その後、上から１枚を表向きにする。それがクリーチャーなら出してもよい。それ以外ならマナゾーンに置く。"
+}

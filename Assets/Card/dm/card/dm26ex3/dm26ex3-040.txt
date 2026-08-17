@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex3-040",
+  "PackNo": "dm26ex3",
+  "CardName": "行くよー！生徒会、ハイチーズ！(DM26EX340/100)",
+  "CardType": "呪文",
+  "Element": "光/水/闇/火/自然",
+  "CardRarity": "VR",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "ドラゴン娘の絆/生徒会組",
+  "Text": "S・トリガー好きな枚数の生徒会組カードを、自分の墓地からマナゾーンに置く。相手のクリーチャーをすべてタップする。"
+}

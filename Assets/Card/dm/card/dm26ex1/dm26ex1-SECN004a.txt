@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex1-SECN004a",
+  "PackNo": "dm26ex1",
+  "CardName": "邪幽ジャヴェール/「ヤベーのを見たいか？」(DM26EX1㊙N4/㊙N25)",
+  "CardType": "クリーチャー",
+  "Element": "闇/自然",
+  "CardRarity": "SR",
+  "Cost": "5",
+  "CardSubType": "8000",
+  "CardCategory": "アビスドラゴン",
+  "Text": "アビスラッシュマッハファイターW・ブレイカー各ターンに１度、自分のアビスが離れた時、相手は自身の手札を１枚選び、捨てる。スマッシュ・バースト"
+}

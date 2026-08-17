@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26rp2-SEC020",
+  "PackNo": "dm26rp2",
+  "CardName": "連射のラクシャユキメ(DM26RP2㊙20/㊙24)",
+  "CardType": "クリーチャー",
+  "Element": "火",
+  "CardRarity": "U",
+  "Cost": "1",
+  "CardSubType": "4000",
+  "CardCategory": "オラクル/ヒューマノイド",
+  "Text": "このクリーチャーが出た時、相手とパワー・ガチンコ・ジャッジする。自分が負けたら、このクリーチャーを破壊する。{SG}シールド・ゴー"
+}

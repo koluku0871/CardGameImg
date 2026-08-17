@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex1-003a",
+  "PackNo": "dm26ex1",
+  "CardName": "新世界王の権威(DM26EX13/50)",
+  "CardType": "キング・セル",
+  "Element": "光/闇/火",
+  "CardRarity": "KGM",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライクこのカードを自分の手札からマナゾーンに置いた時、アンタップする。"
+}

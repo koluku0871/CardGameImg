@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex3-DCR007",
+  "PackNo": "dm26ex3",
+  "CardName": "超竜バジュラズテラ(DM26EX3DCR7/DCR15)",
+  "CardType": "進化クリーチャー",
+  "Element": "火",
+  "CardRarity": "SR",
+  "Cost": "9",
+  "CardSubType": "12000",
+  "CardCategory": "アーマード・ドラゴン",
+  "Text": "進化：ドラゴン・クリーチャー１体の上に置く。T・ブレイカーこのクリーチャーが出た時、各プレイヤーはドラゴン・カード以外をすべて、自身のマナゾーンから墓地に置く。"
+}

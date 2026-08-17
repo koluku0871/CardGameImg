@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex1-040",
+  "PackNo": "dm26ex1",
+  "CardName": "若頭鬼流院刃(DM26EX140/50)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "10",
+  "CardSubType": "17000",
+  "CardCategory": "ガイア・コマンド/ビーストフォーク/ハンター",
+  "Text": "T・ブレイカーこのクリーチャーが出た時、自然のハンター・クリーチャーを好きな数、自分のマナゾーンからタップして出してもよい。"
+}

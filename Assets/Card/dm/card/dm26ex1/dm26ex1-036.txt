@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex1-036",
+  "PackNo": "dm26ex1",
+  "CardName": "堕魔ジグス★ガルビ(DM26EX136/50)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "6",
+  "CardSubType": "6000",
+  "CardCategory": "マフィ・ギャング/魔導具/ムーゲッツ",
+  "Text": "W・ブレイカー自分の「無月の門」使った時、このクリーチャーを自分の墓地からタップして出してもよい。"
+}

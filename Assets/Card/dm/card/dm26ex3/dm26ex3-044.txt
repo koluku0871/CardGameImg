@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex3-044",
+  "PackNo": "dm26ex3",
+  "CardName": "ドラゴンズ・サイン(DM26EX344/100)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガー光のコスト７以下の、進化ではないドラゴン・クリーチャーを１体、自分の手札から出す。次の自分のターンのはじめまで、そのクリーチャーに「ブロッカー」を与える。"
+}

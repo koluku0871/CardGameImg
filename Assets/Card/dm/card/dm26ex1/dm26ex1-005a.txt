@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex1-005a",
+  "PackNo": "dm26ex1",
+  "CardName": "新世界王の闘気(DM26EX15/50)",
+  "CardType": "キング・セル",
+  "Element": "光/闇/自然",
+  "CardRarity": "KGM",
+  "Cost": "",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "{GS}G・ストライクこのカードを自分の手札からマナゾーンに置いた時、アンタップする。"
+}

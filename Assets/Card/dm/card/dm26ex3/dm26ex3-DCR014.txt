@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex3-DCR014",
+  "PackNo": "dm26ex3",
+  "CardName": "悪魔龍ダークマスターズ(DM26EX3DCR14/DCR15)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "VR",
+  "Cost": "7",
+  "CardSubType": "7000",
+  "CardCategory": "デーモン・コマンド・ドラゴン",
+  "Text": "W・ブレイカーこのクリーチャーが出た時、相手の手札を見て３枚まで選び、捨てさせる。"
+}

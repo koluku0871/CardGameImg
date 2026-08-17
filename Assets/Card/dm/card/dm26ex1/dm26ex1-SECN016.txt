@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex1-SECN016",
+  "PackNo": "dm26ex1",
+  "CardName": "「正義の記念碑」(DM26EX1㊙N16/㊙N25)",
+  "CardType": "タマシード",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "8",
+  "CardSubType": "",
+  "CardCategory": "メタリカ/エンジェル・コマンド/レクスターズ",
+  "Text": "Ｓ・トリガーシンカライズこのタマシードが出た時、エレメントが６つ以上あれば、他の進化ではないエレメントをすべて破壊する。"
+}

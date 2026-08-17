@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex3-045",
+  "PackNo": "dm26ex3",
+  "CardName": "スローリー・チェーン(DM26EX345/100)",
+  "CardType": "呪文",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "4",
+  "CardSubType": "",
+  "CardCategory": "",
+  "Text": "S・トリガーこのターン、クリーチャーは攻撃できない。この呪文をシールド化する。その後、自分のシールドを１つ墓地に置く。"
+}

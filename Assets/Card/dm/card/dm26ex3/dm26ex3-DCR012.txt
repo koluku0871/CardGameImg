@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex3-DCR012",
+  "PackNo": "dm26ex3",
+  "CardName": "ボルバルザーク・エクス(DM26EX3DCR12/DCR15)",
+  "CardType": "クリーチャー",
+  "Element": "火/自然",
+  "CardRarity": "SR",
+  "Cost": "7",
+  "CardSubType": "6000",
+  "CardCategory": "アーマード・ドラゴン/アース・ドラゴン/ハンター",
+  "Text": "スピードアタッカーW・ブレイカーこのクリーチャーが出た時、自分のマナゾーンにあるカードをすべてアンタップする。"
+}

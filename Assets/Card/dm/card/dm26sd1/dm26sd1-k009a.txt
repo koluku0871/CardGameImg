@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26sd1-k009a",
+  "PackNo": "dm26sd1",
+  "CardName": "シビレアシダケ/インビンシブル・パワー(DM26SD19/10)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "U",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "バルーン・マッシュルーム",
+  "Text": "このクリーチャーが出た時、自分の手札を１枚マナゾーンに置いてもよい。"
+}

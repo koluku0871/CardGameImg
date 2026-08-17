@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26rp2-TR002a",
+  "PackNo": "dm26rp2",
+  "CardName": "GodofDream/GrenadeofD-moll(DM26RP2TR2/TR9)",
+  "CardType": "NEOクリーチャー",
+  "Element": "光",
+  "CardRarity": "SR",
+  "Cost": "9",
+  "CardSubType": "15500",
+  "CardCategory": "エンジェル・コマンド/侵略者",
+  "Text": "NEO進化：光のコスト９のクリーチャー１体の上に置いてもよい。T・ブレイカーこのクリーチャーが出た時、それが進化クリーチャーなら、光のコスト９のクリーチャーを９体まで、自分の手札または墓地から出す。"
+}

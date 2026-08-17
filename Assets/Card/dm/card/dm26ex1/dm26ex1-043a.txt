@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex1-043a",
+  "PackNo": "dm26ex1",
+  "CardName": "天体妖精エスメル/「お茶はいかがですか？」(DM26EX143/50)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "VR",
+  "Cost": "2",
+  "CardSubType": "2000",
+  "CardCategory": "スノーフェアリー",
+  "Text": "このクリーチャーが出た時、自分のシールドを１つマナゾーンに置いてもよい。"
+}

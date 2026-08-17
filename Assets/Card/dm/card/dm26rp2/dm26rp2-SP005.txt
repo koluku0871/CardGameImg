@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26rp2-SP005",
+  "PackNo": "dm26rp2",
+  "CardName": "天彩の精霊ミルディアス(DM26RP2SP5/SP5)",
+  "CardType": "クリーチャー",
+  "Element": "光/水/自然",
+  "CardRarity": "R",
+  "Cost": "3",
+  "CardSubType": "4500",
+  "CardCategory": "エンジェル・コマンド",
+  "Text": "ブロッカーこのクリーチャーが出た時、自分の山札の上から１枚をマナゾーンに置く。その後、相手のエレメントを１つ選び、持ち主の手札に戻してもよい。"
+}

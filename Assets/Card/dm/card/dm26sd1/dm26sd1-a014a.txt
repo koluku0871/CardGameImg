@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26sd1-a014a",
+  "PackNo": "dm26sd1",
+  "CardName": "蒼狼の豊穣ワクムテラス/オリジナル・ライフ(DM26SD114/16)",
+  "CardType": "クリーチャー",
+  "Element": "水",
+  "CardRarity": "C",
+  "Cost": "4",
+  "CardSubType": "4000",
+  "CardCategory": "ナイト/サムライ/オリジン",
+  "Text": "このクリーチャーが出た時、カードを２枚引く。"
+}

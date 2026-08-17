@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex1-SECN021a",
+  "PackNo": "dm26ex1",
+  "CardName": "チアスイートアカネ/「ファーーー！甘い甘い!!」(DM26EX1㊙N21/㊙N25)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "1000",
+  "CardCategory": "ジャイアント・スノーフェアリー",
+  "Text": "{GS}G・ストライクガードマンこのクリーチャーが破壊される時、墓地のかわりにマナゾーンに置く。"
+}

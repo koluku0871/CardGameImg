@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex2-PR006CHO",
+  "PackNo": "dm26ex2",
+  "CardName": "一音の妖精(DM26EX2PR6超/PR10)",
+  "CardType": "NEOクリーチャー",
+  "Element": "光",
+  "CardRarity": "R",
+  "Cost": "2",
+  "CardSubType": "2500",
+  "CardCategory": "ジャイアント・スノーフェアリー",
+  "Text": "{GS}G・ストライクNEO進化：光、水、または自然のクリーチャー１体の上に置いてもよい。相手は各ターン１回までしか呪文を唱えられない。これが進化クリーチャーなら、相手は各ターン１体までしかクリーチャーを出せない。"
+}

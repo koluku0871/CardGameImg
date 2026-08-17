@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26ex3-SEC019a",
+  "PackNo": "dm26ex3",
+  "CardName": "帝哲人＜声出していけヨ！＞(DM26EX3㊙19/㊙20)",
+  "CardType": "クリーチャー",
+  "Element": "自然",
+  "CardRarity": "R",
+  "Cost": "5",
+  "CardSubType": "5000+",
+  "CardCategory": "ジュラシック・コマンド・ドラゴン",
+  "Text": "マッハファイター自分のドラゴンがバトルする時、このターン、そのクリーチャーのパワーを２倍にする。Zラッシュ"
+}

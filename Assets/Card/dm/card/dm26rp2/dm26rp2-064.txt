@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "dm26rp2-064",
+  "PackNo": "dm26rp2",
+  "CardName": "革命αドルーター(DM26RP264/77)",
+  "CardType": "クリーチャー",
+  "Element": "闇",
+  "CardRarity": "C",
+  "Cost": "3",
+  "CardSubType": "4000",
+  "CardCategory": "ソニック・コマンド/イニシャルズW",
+  "Text": "自分の封印が墓地に置かれた時、そのカードを自分の墓地から手札に戻してもよい。"
+}
