@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "049442_T_MACHISUNOTORIHIKI",
+  "PackNo": "MC",
+  "CardName": "マチスの取引",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>「おたがいのプレイヤーは、それぞれサイドを1枚とる。」をのぞむか、相手にたずねる。相手がのぞむなら、おたがいのプレイヤーは、それぞれサイドを1枚とる。のぞまないなら、自分は山札を4枚引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

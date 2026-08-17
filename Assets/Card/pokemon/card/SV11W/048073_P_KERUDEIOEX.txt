@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "048073_P_KERUDEIOEX",
+  "PackNo": "SV11W",
+  "CardName": "ケルディオex",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "210",
+  "Element": "<span class=\"icon-water icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span>しっぷうづき<span class=\"f_right Text-fjalla\">30＋</span></h4>\n<p>この番に、このポケモンがベンチからバトル場に出ていたなら、90ダメージ追加。</p>\n<h4><span class=\"icon-water icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span>ソニックエッジ<span class=\"f_right Text-fjalla\">120</span></h4>\n<p>このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-electric icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

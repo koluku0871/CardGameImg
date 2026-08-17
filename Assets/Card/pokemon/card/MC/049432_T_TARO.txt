@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "049432_T_TARO",
+  "PackNo": "MC",
+  "CardName": "タロ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分の手札をすべて山札にもどして切る。その後、山札を4枚引く。相手のサイドの残り枚数が3枚以下なら、引く枚数は8枚になる。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

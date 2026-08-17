@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "049443_T_MATSUBANOKAKUSHIN",
+  "PackNo": "MC",
+  "CardName": "マツバの確信",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードは、自分の手札を1枚トラッシュしなければ使えない。<br/>\n<br/>\n相手のベンチポケモンの数ぶん、自分の山札を引く。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

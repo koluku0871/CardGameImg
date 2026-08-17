@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "049401_T_NAMONOMI",
+  "PackNo": "MC",
+  "CardName": "ナモのみ",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>このカードをつけているポケモンが、相手の<span class=\"icon-dark icon\"></span>ポケモンからワザのダメージを受けるとき、そのダメージは「-60」され、このカードをトラッシュする。</p>\n<p>ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p>\n</div>"
+}
