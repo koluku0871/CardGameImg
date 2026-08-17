@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "050401_T_OISHIIOMUSUBI",
+  "PackNo": "M6",
+  "CardName": "おいしいおむすび",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分のバトルポケモンのHPを「30」回復する。自分のトラッシュにある「おいしいおむすび」（このカードをのぞく）1枚につき、回復するHPは「30」多くなる。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

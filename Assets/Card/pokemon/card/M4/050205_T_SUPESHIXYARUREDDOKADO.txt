@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "050205_T_SUPESHIXYARUREDDOKADO",
+  "PackNo": "M4",
+  "CardName": "スペシャルレッドカード",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、相手のサイドの残り枚数が3枚以下のときにしか使えない。<br/>\n<br/>\n相手は相手自身の手札をすべてウラにして切り、山札の下にもどす。その後、相手は山札を3枚引く。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

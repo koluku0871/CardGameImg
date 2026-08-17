@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "050250_P_KAGEBOUZU",
+  "PackNo": "M5",
+  "CardName": "カゲボウズ",
+  "CardCategory": "特性",
+  "CardType": "特性",
+  "Cost": "50",
+  "Element": "<span class=\"icon-psychic icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特性</h2>\n<h4>ばけがくれ</h4>\n<p>このポケモンは、相手のワザや特性の効果を受けない。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-psychic icon\"></span>ぶらさがる<span class=\"f_right Text-fjalla\">10</span></h4>\n<p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B8%E3%83%A5%E3%83%9A%E3%83%83%E3%82%BF\">ジュペッタ</a></div><div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B8%E3%83%A5%E3%83%9A%E3%83%83%E3%82%BFGX\">ジュペッタGX</a></div></div>\n<div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B8%E3%83%A5%E3%83%9A%E3%83%83%E3%82%BFex&amp;sc_pm_ex3=1\">ジュペッタex</a></div></div>\n<div class=\"evolution ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%AB%E3%82%B2%E3%83%9C%E3%82%A6%E3%82%BA\">カゲボウズ</a><div class=\"arrow_on\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-dark icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-fighting icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

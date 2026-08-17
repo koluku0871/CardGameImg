@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "050403_T_TOKUCHIXYUUCHIXYOKKI",
+  "PackNo": "M6",
+  "CardName": "とくちゅうチョッキ",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>このカードをつけているポケモン（「メガシンカex」をのぞく）が、相手の「メガシンカex」から受けるワザのダメージは「-60」される。</p>\n<p>ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "048670_T_KAIZOUHANMA",
+  "PackNo": "M2a",
+  "CardName": "改造ハンマー",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>相手の場のポケモンについている特殊エネルギーを1個選び、トラッシュする。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

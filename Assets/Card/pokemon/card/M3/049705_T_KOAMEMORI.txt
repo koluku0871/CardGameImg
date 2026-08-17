@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "049705_T_KOAMEMORI",
+  "PackNo": "M3",
+  "CardName": "コアメモリ",
+  "CardCategory": "ポケモンのどうぐ",
+  "CardType": "ポケモンのどうぐ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ポケモンのどうぐ</h2>\n<p>このカードをつけている「メガジガルデex」は、このカードに書かれているワザを使える。［ワザを使うためのエネルギーは必要。］</p>\n<p>ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。</p>\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span>ジオバスター<span class=\"f_right Text-fjalla\">350</span></h4>\n<p>このポケモンについているエネルギーを、すべてトラッシュする。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "049124_P_MASHIXYADO",
+  "PackNo": "MC",
+  "CardName": "マーシャドー",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "90",
+  "Element": "<span class=\"icon-fighting icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-fighting icon\"></span><span class=\"icon-fighting icon\"></span>シャドーソバット<span class=\"f_right Text-fjalla\">60</span></h4>\n<p>このワザのダメージで、相手のポケモンがきぜつしたなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。</p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-psychic icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

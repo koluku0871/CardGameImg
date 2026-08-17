@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "050294_T_KASUMINOGENKI",
+  "PackNo": "M5",
+  "CardName": "カスミの元気",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードを使ったなら、自分の番は終わる。<br/>\n<br/>\n自分の山札から「基本<span class=\"icon-water icon\"></span>エネルギー」を4枚まで選び、自分のポケモン1匹につける。そして山札を切る。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "049270_P_TAKERURAIKOEX",
+  "PackNo": "MC",
+  "CardName": "タケルライコex",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "240",
+  "Element": "<span class=\"icon-dragon icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-none icon\"></span>はじけるほうこう </h4>\n<p>自分の手札をすべてトラッシュし、山札を6枚引く。</p>\n<h4><span class=\"icon-electric icon\"></span><span class=\"icon-fighting icon\"></span>きょくらいごう<span class=\"f_right Text-fjalla\">70×</span></h4>\n<p>自分の場のポケモンについている基本エネルギーを好きなだけトラッシュし、その枚数×70ダメージ。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td>--</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

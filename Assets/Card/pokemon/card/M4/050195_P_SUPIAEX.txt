@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "050195_P_SUPIAEX",
+  "PackNo": "M4",
+  "CardName": "スピアーex",
+  "CardCategory": "ワザ",
+  "CardType": "2 進化",
+  "Cost": "310",
+  "Element": "<span class=\"icon-grass icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-grass icon\"></span>ビーランブル<span class=\"f_right Text-fjalla\">110×</span></h4>\n<p>自分の場の「スピアー（『ポケモンex』をふくむ）」の数×110ダメージ。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>ポケモンexがきぜつしたとき、相手はサイドを2枚とる。</p><p></p>\n\n<h2 class=\"mt20\">進化</h2><div class=\"evolution evbox\">\n<div class=\"in-box ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B9%E3%83%94%E3%82%A2%E3%83%BC\">スピアー</a></div><div class=\"in-box ev_on\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B9%E3%83%94%E3%82%A2%E3%83%BCex&amp;sc_pm_ex3=1\">スピアーex</a></div></div>\n<div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%82%B3%E3%82%AF%E3%83%BC%E3%83%B3\">コクーン</a><div class=\"arrow_off\"></div></div><div class=\"evolution ev_off\"><a href=\"/card-search/index.php?regulation_detail=all&amp;pokemon=%E3%83%93%E3%83%BC%E3%83%89%E3%83%AB\">ビードル</a><div class=\"arrow_off\"></div></div>\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td>--</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

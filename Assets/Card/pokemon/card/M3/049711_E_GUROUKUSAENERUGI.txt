@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "049711_E_GUROUKUSAENERUGI",
+  "PackNo": "M3",
+  "CardName": "グロウ草エネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、ポケモンについているかぎり、<span class=\"icon-grass icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードをつけている<span class=\"icon-grass icon\"></span>ポケモンは、最大HPが「＋20」される。</p>\n</div>"
+}

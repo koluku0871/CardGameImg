@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "050296_T_SABIGUMINOSHITAPPA",
+  "PackNo": "M5",
+  "CardName": "サビ組のしたっぱ",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>このカードは、前の相手の番に、自分のポケモンがきぜつしていなければ使えない。<br/>\n<br/>\n相手の場のポケモンについているエネルギーを1個選び、トラッシュする。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

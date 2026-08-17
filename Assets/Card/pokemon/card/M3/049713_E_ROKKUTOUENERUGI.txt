@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "049713_E_ROKKUTOUENERUGI",
+  "PackNo": "M3",
+  "CardName": "ロック闘エネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、ポケモンについているかぎり、<span class=\"icon-fighting icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードをつけている<span class=\"icon-fighting icon\"></span>ポケモンは、相手のポケモンが使うワザの効果を受けない。（すでに受けている効果は、なくならない。）</p>\n</div>"
+}

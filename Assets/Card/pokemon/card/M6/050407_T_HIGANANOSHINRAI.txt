@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "050407_T_HIGANANOSHINRAI",
+  "PackNo": "M6",
+  "CardName": "ヒガナの信頼",
+  "CardCategory": "サポート",
+  "CardType": "サポート",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">サポート</h2>\n<p>自分のバトルポケモンをベンチポケモンと入れ替える。その後、ベンチに入れ替えたポケモンについているエネルギーを1個選び、新しいバトルポケモンにつけ替える。</p>\n<p>サポートは、自分の番に1枚しか使えない。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "050289_T_DAKUBERU",
+  "PackNo": "M5",
+  "CardName": "ダークベル",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>おたがいのバトルポケモン（<span class=\"icon-dark icon\"></span>ポケモンをのぞく）を、それぞれこんらんにする。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "049712_E_TEREPASUCHIXYOUENERUGI",
+  "PackNo": "M3",
+  "CardName": "テレパス超エネルギー",
+  "CardCategory": "特殊エネルギー",
+  "CardType": "特殊エネルギー",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">特殊エネルギー</h2>\n<p>このカードは、ポケモンについているかぎり、<span class=\"icon-psychic icon\"></span>エネルギー1個ぶんとしてはたらく。<br/>\n<br/>\nこのカードを手札から<span class=\"icon-psychic icon\"></span>ポケモンにつけたとき、自分の山札から<span class=\"icon-psychic icon\"></span>タイプのたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。</p>\n</div>"
+}

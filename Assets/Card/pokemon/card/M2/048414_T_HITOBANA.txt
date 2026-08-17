@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "048414_T_HITOBANA",
+  "PackNo": "M2",
+  "CardName": "ヒートバーナー",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>このカードは、自分の手札から「基本<span class=\"icon-fire icon\"></span>エネルギー」を1枚トラッシュしなければ使えない。<br/>\n<br/>\n相手の場のポケモンについている「ポケモンのどうぐ」「特殊エネルギー」と場に出ている「スタジアム」の中から1枚選び、トラッシュする。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "048437_P_MKUCHITOEX",
+  "PackNo": "M1L",
+  "CardName": "メガクチートex",
+  "CardCategory": "ワザ",
+  "CardType": "たね",
+  "Cost": "270",
+  "Element": "<span class=\"icon-steel icon\"></span>",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">ワザ</h2>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span>がっつく<span class=\"f_right Text-fjalla\">80×</span></h4>\n<p>自分がすでにとったサイドの枚数×80ダメージ。</p>\n<h4><span class=\"icon-steel icon\"></span><span class=\"icon-steel icon\"></span><span class=\"icon-none icon\"></span>ビッグバイト<span class=\"f_right Text-fjalla\">260</span></h4>\n<p>相手のバトルポケモンにダメカンがのっているなら、このワザのダメージは「30」になる。</p><h2 class=\"mt20\">特別なルール</h2>\n<p></p><p>メガシンカexがきぜつしたとき、相手はサイドを3枚とる。</p><p></p>\n\n</div><s><th>弱点</th><v><td><span class=\"icon-fire icon\"></span>×2</td><$$$><th>抵抗力</th><v><td><span class=\"icon-grass icon\"></span>－30</td><$$$><th>にげる</th><v><td class=\"escape\"><span class=\"icon-none icon\"></span><span class=\"icon-none icon\"></span></td><$$$></s>"
+}

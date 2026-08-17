@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "048679_T_MUSHITORISETTO",
+  "PackNo": "M2a",
+  "CardName": "むしとりセット",
+  "CardCategory": "グッズ",
+  "CardType": "グッズ",
+  "Cost": "",
+  "Element": "None",
+  "Text": "<div class=\"RightBox-inner\">\n\n<h2 class=\"mt20\">グッズ</h2>\n<p>自分の山札を上から7枚見て、その中から<span class=\"icon-grass icon\"></span>ポケモンと「基本<span class=\"icon-grass icon\"></span>エネルギー」を合計2枚まで選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。</p>\n<p>グッズは、自分の番に何枚でも使える。</p>\n</div>"
+}
