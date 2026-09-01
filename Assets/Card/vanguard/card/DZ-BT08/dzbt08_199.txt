@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_199",
+  "PackNo": "DZ-BT08",
+  "CardName": "妙なる調べは悠々と",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【エネルギーブラスト】(2)]することでプレイできる！あなたの山札を上から５枚見て、「仙女」を含むノーマルユニットを１枚まで選び、(R)にコールし、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

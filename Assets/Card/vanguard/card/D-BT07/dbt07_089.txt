@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_089",
+  "PackNo": "D-BT07",
+  "CardName": "トライジェミナル・アサルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットがブーストしたバトル終了時、【コスト】[【ソウルブラスト】(2)]することで、このユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

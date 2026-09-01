@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_053",
+  "PackNo": "BT17",
+  "CardName": "解放者ホーリー・アコライト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがヴァンガードにアタックした時、他のあなたのカード名に「解放者」を含む、ヴァンガードかリアガードが４枚以上なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

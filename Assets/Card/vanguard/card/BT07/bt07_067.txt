@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_067",
+  "PackNo": "BT07",
+  "CardName": "ドリーミー・フォートレス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "キメラ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：相手のターン中、このユニットが(R)からドロップゾーンに置かれた時、あなたのソウルから「ドリーミー・フォートレス」を１枚選び、(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

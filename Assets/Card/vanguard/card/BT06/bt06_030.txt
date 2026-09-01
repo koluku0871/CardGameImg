@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_030",
+  "PackNo": "BT06",
+  "CardName": "三ツ星シェフピエトロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "スケルトン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《グランブルー》のヴァンガードがいるなら、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

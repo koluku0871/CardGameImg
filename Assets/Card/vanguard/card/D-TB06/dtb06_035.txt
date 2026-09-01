@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_035",
+  "PackNo": "D-TB06",
+  "CardName": "神なる正義の体現者カマエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "妖精",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、あなたのヴァンガードが“天界の守護者”なら、あなたのドロップから“天界の守護者”のユニットカードを１枚選び、ソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

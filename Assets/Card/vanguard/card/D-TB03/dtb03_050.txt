@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_050",
+  "PackNo": "D-TB03",
+  "CardName": "竜の仲間たち",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "竜の仲間",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】：「竜の仲間たち」はデッキに９枚まで入れられる。【永】【(R)】：あなたの、「木刀の竜」を含むユニットか他の「竜の仲間たち」がアタックされたバトル中、このユニットは『インターセプト』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

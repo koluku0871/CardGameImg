@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_152",
+  "PackNo": "DZ-BT04",
+  "CardName": "世界に秤の均衡を",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=あなたのヴァンガードが「アルグリーヴラ」を含むなら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたのドロップから、それぞれ別名の過充填能力を持つグレード３以下を２枚まで選び、(R)にコールする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

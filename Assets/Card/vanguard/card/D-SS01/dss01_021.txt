@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_021",
+  "PackNo": "D-SS01",
+  "CardName": "ディアブロスオフィサーキリアン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

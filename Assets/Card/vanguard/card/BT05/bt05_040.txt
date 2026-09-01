@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_040",
+  "PackNo": "BT05",
+  "CardName": "デビルチャイルド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットが《ダークイレギュラーズ》のヴァンガードを【ブースト】した時、あなたのソウルの《ダークイレギュラーズ》が６枚以上なら、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

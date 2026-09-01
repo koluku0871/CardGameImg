@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_059",
+  "PackNo": "BT16",
+  "CardName": "天昇の喧嘩屋ヨウゼン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

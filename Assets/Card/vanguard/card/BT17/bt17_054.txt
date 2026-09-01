@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_054",
+  "PackNo": "BT17",
+  "CardName": "解放者ブレッシングアロー・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【自】【(R)】：あなたのヴァンガードが【双闘】した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

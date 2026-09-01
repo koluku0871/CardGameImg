@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_162",
+  "PackNo": "D-BT03",
+  "CardName": "天発の騎士フルップ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【永】【(G)】：グレード３のあなたのユニットすべてのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

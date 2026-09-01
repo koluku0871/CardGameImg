@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_101",
+  "PackNo": "D-BT08",
+  "CardName": "桜舞う星空の下でmiComet",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ホロライブ",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=【永】：このカードは「午後のダンスレッスンミチュ」としても扱う。【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

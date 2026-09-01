@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_165",
+  "PackNo": "D-BT02",
+  "CardName": "悲恋の妖精",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヴァンガードにヒットした時、【コスト】[このユニットをバインドする]ことで、あなたのバインドゾーンからオーダーカードを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

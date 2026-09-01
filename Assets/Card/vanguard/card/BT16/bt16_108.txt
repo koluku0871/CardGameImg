@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_108",
+  "PackNo": "BT16",
+  "CardName": "喧嘩屋ビッグバンスラッシュ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：あなたのカード名に「喧嘩屋」を含むヴァンガードのアタックがヒットした時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_061",
+  "PackNo": "D-BT03",
+  "CardName": "フレアスカージ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのリアガードが登場した時、【オーバードレス】したなら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

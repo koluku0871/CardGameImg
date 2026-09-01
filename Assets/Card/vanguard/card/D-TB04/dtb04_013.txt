@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_013",
+  "PackNo": "D-TB04",
+  "CardName": "降魔調伏恐山アンナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、あなたの山札から「式神前鬼」と「式神後鬼」をそれぞれ１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

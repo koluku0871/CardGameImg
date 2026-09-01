@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_052",
+  "PackNo": "D-BT12",
+  "CardName": "聖なるかな、救いの刃よ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=そのターン中、あなたのリアガードすべては『ブースト』を得る。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

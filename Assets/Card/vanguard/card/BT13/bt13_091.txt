@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_091",
+  "PackNo": "BT13",
+  "CardName": "アビサル・スナイパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、あなたのリアガードが相手のリアガードより多いなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

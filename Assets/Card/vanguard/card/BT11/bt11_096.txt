@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt11_096",
+  "PackNo": "BT11",
+  "CardName": "遊撃のブレイブ・シューター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたの《アクアフォース》のヴァンガードがいて、あなたの【レスト】しているリアガードが２枚以下なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

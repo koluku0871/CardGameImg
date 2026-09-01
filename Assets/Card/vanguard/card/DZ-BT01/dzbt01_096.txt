@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_096",
+  "PackNo": "DZ-BT01",
+  "CardName": "FancyNightParade！",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【エネルギーブラスト】(2)]することでプレイできる！あなたのソウルから【超】以外の、守護者を持たないユニットカードを１枚選び、(G)にコールし、そのバトル中、シールド＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

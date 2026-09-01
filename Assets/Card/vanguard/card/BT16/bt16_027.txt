@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_027",
+  "PackNo": "BT16",
+  "CardName": "喧嘩屋ヨウジン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードが【双闘】した時、相手の前列のリアガードを１枚まで選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

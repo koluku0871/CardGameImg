@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_465",
+  "PackNo": "D-PR",
+  "CardName": "ケッパー・コンパニオン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

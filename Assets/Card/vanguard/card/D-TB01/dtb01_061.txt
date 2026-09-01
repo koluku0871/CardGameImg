@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_061",
+  "PackNo": "D-TB01",
+  "CardName": "千子村正",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【ソウルブラスト】(1)，他のリアガードを２枚【レスト】させる]ことで、相手は自分のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

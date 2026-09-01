@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_037",
+  "PackNo": "BT07",
+  "CardName": "スカイウィッチナナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)】：あなたのターン中、あなたのソウルにカードがないなら、このユニットのパワー＋3000。【永】【(R)】：あなたのターン中、あなたのソウルにカードがないなら、このユニットのパワー＋１000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_491",
+  "PackNo": "D-PR",
+  "CardName": "翔風の運び手ラクチェ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【後列の(R)】：あなたのターン終了時、「グラムグレイス」を含むあなたのヴァンガードがいるなら、【コスト】[このユニットを退却させる]ことで、あなたのソウルからグレード３のユニットカードを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

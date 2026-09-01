@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_063",
+  "PackNo": "DZ-BT06",
+  "CardName": "あるがおん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【後列の(R)】【ターン1回】：「ソルレアロン」を含むあなたのヴァンガードがアタックした時、このユニットと同じ縦列にあなたの龍樹マーカーがあるなら、このユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

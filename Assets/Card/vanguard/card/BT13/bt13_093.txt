@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_093",
+  "PackNo": "BT13",
+  "CardName": "海流教兵のウミガメ兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(V)か(R)に登場した時、あなたの山札の上を公開する。そのカードがグレード１かグレード２の、《アクアフォース》なら、そのカードを(R)にコールし、違うなら、その山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

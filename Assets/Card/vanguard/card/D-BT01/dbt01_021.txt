@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_021",
+  "PackNo": "D-BT01",
+  "CardName": "ペインキラー・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、【コスト】[【ソウルブラスト】(1)，このユニットを退却させる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

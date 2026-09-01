@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_454",
+  "PackNo": "D-PR",
+  "CardName": "デュアルプレッシャー・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

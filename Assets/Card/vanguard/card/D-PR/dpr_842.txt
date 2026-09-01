@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_842",
+  "PackNo": "D-PR",
+  "CardName": "Divinez伊勢木マサノリ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

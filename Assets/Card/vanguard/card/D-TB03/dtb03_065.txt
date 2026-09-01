@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_065",
+  "PackNo": "D-TB03",
+  "CardName": "感激！馬孫",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

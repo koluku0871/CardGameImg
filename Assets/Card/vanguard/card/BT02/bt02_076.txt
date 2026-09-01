@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_076",
+  "PackNo": "BT02",
+  "CardName": "レディ・ボム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【カウンターブラスト】(2)]このユニットが(V)か(R)に登場した時、コストを払ってよい。払ったら、相手のリアガードを１枚選び、そのユニットは、次の相手のスタンドフェイズ中、【スタンド】できない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

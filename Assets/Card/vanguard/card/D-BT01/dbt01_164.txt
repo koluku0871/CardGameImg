@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_164",
+  "PackNo": "D-BT01",
+  "CardName": "プラナプリベント・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ネイチャードラゴン",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【永】：守護者【自】：このユニットが(G)に置かれた時、あなたのユニットを１枚選び、そのバトル中、ヒットされない。あなたの手札が２枚以上なら、手札から１枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "0"
+}

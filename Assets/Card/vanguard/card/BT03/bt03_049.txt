@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_049",
+  "PackNo": "BT03",
+  "CardName": "腹ぺこピエロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヒットした時、あなたの《ペイルムーン》のヴァンガードがいるなら、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

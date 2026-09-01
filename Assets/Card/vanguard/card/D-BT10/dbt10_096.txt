@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_096",
+  "PackNo": "D-BT10",
+  "CardName": "森閑の狩猟者レパーディア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、このユニットが龍樹マーカーのある(R)にいるなら、あなたの前列のリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

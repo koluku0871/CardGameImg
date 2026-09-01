@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_098",
+  "PackNo": "DZ-BT09",
+  "CardName": "湾流の水将トクティス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【後列の(R)】：あなたのターン中、あなたのドロップが６枚以上なら、このユニットは『ブースト』を得て、相手のヴァンガードがグレード３以上なら、さらにパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

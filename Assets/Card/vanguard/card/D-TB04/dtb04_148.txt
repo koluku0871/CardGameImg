@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_148",
+  "PackNo": "D-TB04",
+  "CardName": "底知れぬ巫力ハオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【自】：このユニットが「無慈悲な笑みハオ」にライドされた時、あなたの山札を上から７枚見て、「スピリットオブファイア」を含むカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

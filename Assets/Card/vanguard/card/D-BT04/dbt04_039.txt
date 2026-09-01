@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_039",
+  "PackNo": "D-BT04",
+  "CardName": "急転直下のギアイーグル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヒットした時、【コスト】[このユニットを退却させる]ことで、あなたのソウルからグレード１を１枚選び、(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

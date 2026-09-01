@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd04_025",
+  "PackNo": "D-TTD04",
+  "CardName": "具現化した姿エリザ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【永】【(R)】：このユニットが「ファウストⅧ世」を含むユニットをブーストしたバトル中、このユニットのパワー＋5000。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

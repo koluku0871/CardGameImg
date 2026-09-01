@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_041",
+  "PackNo": "D-BT12",
+  "CardName": "砲煙弾雨の時空巨兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアコロッサス",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、【コスト】[【ソウルブラスト】(2)]することで、あなたのバインドゾーンのトリガーアイコン１種類につき、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_085",
+  "PackNo": "BT13",
+  "CardName": "腐蝕竜コラプトドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゾンビ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがドロップゾーンから(R)に登場した時、あなたの《グランブルー》のヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

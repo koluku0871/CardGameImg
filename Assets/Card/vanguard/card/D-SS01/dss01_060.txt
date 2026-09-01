@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_060",
+  "PackNo": "D-SS01",
+  "CardName": "焔の巫女ゾンネ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

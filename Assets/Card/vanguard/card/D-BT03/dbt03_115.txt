@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_115",
+  "PackNo": "D-BT03",
+  "CardName": "腐肉捌き",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)，このユニットをバインドする]ことで、あなたのドロップからオーダーカードを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

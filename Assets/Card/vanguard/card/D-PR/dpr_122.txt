@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_122",
+  "PackNo": "D-PR",
+  "CardName": "大蛇の魔女ソラリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

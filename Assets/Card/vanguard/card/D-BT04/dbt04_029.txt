@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_029",
+  "PackNo": "D-BT04",
+  "CardName": "転魄の剪竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "スケルトン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：あなたのターン終了時、このターンにあなたがオーダーを魔合成してプレイしているか、合計５回以上アタックしているなら、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

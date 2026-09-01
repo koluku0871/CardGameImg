@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_039",
+  "PackNo": "D-BT13",
+  "CardName": "閃砲竜ヴェロアンラーシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【カウンターブラスト】(1)，ソウルかドロップから、ライドデッキにしたグレード３を１枚ライドデッキに表で置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

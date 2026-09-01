@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_106",
+  "PackNo": "DZ-BT06",
+  "CardName": "トマンネーヨ・トマティーヨ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ドリアード",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[【エネルギーブラスト】(2)，このユニットを【レスト】させる]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

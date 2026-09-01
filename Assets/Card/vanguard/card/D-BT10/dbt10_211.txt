@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_211",
+  "PackNo": "D-BT10",
+  "CardName": "トランケイトブレス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの山札を上から１枚見て、山札の上か下に置く。下に置いたら、あなたの山札を上から１枚見る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

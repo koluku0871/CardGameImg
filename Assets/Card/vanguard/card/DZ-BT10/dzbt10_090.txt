@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_090",
+  "PackNo": "DZ-BT10",
+  "CardName": "粘液怪獣ネバジュワー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが「怪獣」を含むグレード３以上のヴァンガードをブーストした時、【ソウルチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

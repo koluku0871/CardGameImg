@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_101",
+  "PackNo": "D-BT04",
+  "CardName": "天捌の騎士コンテニオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、「バスティオン」を含むあなたのヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

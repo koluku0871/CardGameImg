@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_065",
+  "PackNo": "BT01",
+  "CardName": "ラウンドガールクララ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れられない。）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

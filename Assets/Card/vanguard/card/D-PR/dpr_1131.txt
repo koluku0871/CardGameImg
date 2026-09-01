@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1131",
+  "PackNo": "D-PR",
+  "CardName": "悠久なる凍土へ還れ",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！アタックされているあなたのユニットを１枚選び、あなたのオーダーゾーンの【レスト】しているセットオーダー１枚につき、そのバトル中、パワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

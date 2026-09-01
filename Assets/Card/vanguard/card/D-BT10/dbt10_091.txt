@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_091",
+  "PackNo": "D-BT10",
+  "CardName": "飽食の海魔",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたがグレード３以上のノーマルオーダーをプレイした時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

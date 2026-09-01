@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs02_072",
+  "PackNo": "D-VS02",
+  "CardName": "コンパス・ライオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(V)/(R)】：あなたのターン終了時、あなたのリアガードを１枚選び、退却させる。（この効果は強制）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "13000",
+  "Defense": "5000"
+}

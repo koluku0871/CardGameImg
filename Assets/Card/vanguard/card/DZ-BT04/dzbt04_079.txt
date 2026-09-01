@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_079",
+  "PackNo": "DZ-BT04",
+  "CardName": "スキルフル・エンターテイナー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのヴァンガードが「オセラジェスト」を含むグレード３以上なら、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップから３枚選び、ソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

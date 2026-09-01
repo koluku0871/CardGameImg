@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_592",
+  "PackNo": "D-PR",
+  "CardName": "凶眼獣アマナオウルズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「凶眼獣アマナクロウグ」からライドして登場した時、あなたの山札からトリガーユニットを１枚まで探し、ソウルに置き、山札をシャッフルする。ソウルに置いたら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

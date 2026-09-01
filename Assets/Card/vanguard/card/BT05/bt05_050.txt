@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_050",
+  "PackNo": "BT05",
+  "CardName": "ダンガン・マロン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

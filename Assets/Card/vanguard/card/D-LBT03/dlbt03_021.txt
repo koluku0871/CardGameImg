@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_021",
+  "PackNo": "D-LBT03",
+  "CardName": "すうぇるてぃんぐひーとルクレティア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【起】【(R)】：【コスト】[【ソウルブラスト】(1)]することで、あなたの山札を上から１枚見る。（確認したら元に戻す）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

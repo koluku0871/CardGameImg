@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_068",
+  "PackNo": "D-BT02",
+  "CardName": "いつか届く祈り",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！【オーバードレス】能力を持つあなたのリアガードがいるなら、あなたのユニットを１枚選び、そのバトル中、パワー＋15000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

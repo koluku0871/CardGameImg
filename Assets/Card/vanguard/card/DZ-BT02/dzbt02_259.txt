@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_259",
+  "PackNo": "DZ-BT02",
+  "CardName": "柩機の兵グラフィム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【後列の(R)】：あなたの夜影兵・トークンがこのユニットと同じ縦列の他の(R)に登場した時、あなたのヴァンガードが「オルフィスト」を含むグレード３以上なら、このユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

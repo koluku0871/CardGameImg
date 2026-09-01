@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_517",
+  "PackNo": "D-PR",
+  "CardName": "プラント",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/プラント",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "0"
+}

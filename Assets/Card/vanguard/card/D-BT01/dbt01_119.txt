@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_119",
+  "PackNo": "D-BT01",
+  "CardName": "ゴースト・チェイス",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=あなたのユニットを１枚選び、そのバトル中、パワー＋5000。アタックされていないあなたのリアガードを１枚選び、手札に戻す。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

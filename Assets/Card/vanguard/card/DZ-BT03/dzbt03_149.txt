@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_149",
+  "PackNo": "DZ-BT03",
+  "CardName": "TriggerHappy",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ぶいすぽっ！",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

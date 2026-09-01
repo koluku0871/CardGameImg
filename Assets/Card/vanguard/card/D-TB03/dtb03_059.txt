@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_059",
+  "PackNo": "D-TB03",
+  "CardName": "シルバーアームズシルバーシールド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：「シルバ」を含むあなたのリアガードがいるなら、このユニットのシールド＋5000。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

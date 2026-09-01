@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_090",
+  "PackNo": "BT10",
+  "CardName": "獣神ヘルアーティ・デストロイヤー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：[あなたの手札から１枚選び、捨てる]このユニットのアタックがヴァンガードにヒットした時、あなたのカード名に「獣神」を含むヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

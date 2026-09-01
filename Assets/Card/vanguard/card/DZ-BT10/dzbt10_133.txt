@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_133",
+  "PackNo": "DZ-BT10",
+  "CardName": "10thanniversaryPastel＊Palettes氷川日菜",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Pastel＊Palettes",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_818",
+  "PackNo": "D-PR",
+  "CardName": "シルキィスカイ・アクトレス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

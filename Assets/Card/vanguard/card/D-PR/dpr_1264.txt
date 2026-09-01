@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1264",
+  "PackNo": "D-PR",
+  "CardName": "急行竜スティルディロフォ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=（トリガーで出たら、１枚引く！さらにあなたのユニットを１枚選び、そのターン中、パワー＋10000！）,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_019",
+  "PackNo": "D-TB04",
+  "CardName": "可憐に舞い遊ぶモルフィン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが【オーバーソウル】のコストで(R)からソウルに置かれた時、あなたの山札を上から１枚見て、(R)にコールするか、手札に加える。手札に加えたら、あなたの手札から１枚選び、捨てる。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

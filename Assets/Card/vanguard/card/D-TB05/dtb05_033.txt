@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_033",
+  "PackNo": "D-TB05",
+  "CardName": "終末の番人ヘイムダル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "神",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたと相手は、【カウンターチャージ】(1)。（必ず行う）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

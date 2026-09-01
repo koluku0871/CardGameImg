@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_051",
+  "PackNo": "BT03",
+  "CardName": "ダイナマイト・ジャグラー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

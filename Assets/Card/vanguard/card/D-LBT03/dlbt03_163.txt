@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_163",
+  "PackNo": "D-LBT03",
+  "CardName": "眩く爆ぜ舞う呪符",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "呪術演出",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=「ルーテシア」を含むあなたのヴァンガードがいるならプレイできる！このカードをソウルに置き、あなたのユニットを１枚選び、そのバトル中、パワー＋15000。あなたのソウルに呪術演出カードが４枚以上なら、１枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

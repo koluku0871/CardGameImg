@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_126",
+  "PackNo": "D-TB05",
+  "CardName": "表れた本性ポセイドン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "神",
+  "Cost": "2",
+  "CardRarity": "RGR",
+  "Text": "effect=【自】：このユニットが「大海の暴君ポセイドン」にライドされた時、このカードを(R)にコールする。【永】：あなたのヴァンガードの能力が、そのコストで退却させたユニットを数える際、このカードは２枚として数える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

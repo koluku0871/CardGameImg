@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_916",
+  "PackNo": "D-PR",
+  "CardName": "期待の鍛冶師ゼドランス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「ゼドランス」を含むグレード０からライドして登場した時、あなたの山札を上から５枚見て、「錬鉄」を含むカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

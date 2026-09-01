@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs03_076",
+  "PackNo": "D-VS03",
+  "CardName": "バブルボール・コーパラル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(V)/(R)】：このユニットが、アタックかブーストしたアタックがヴァンガードにヒットした時、あなたの山札を上から７枚見て、「メイルストローム」を含むカードを１枚まで公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_076",
+  "PackNo": "D-BT04",
+  "CardName": "スチームパフォーマールーガルザ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのソウルにグレード３が２枚以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

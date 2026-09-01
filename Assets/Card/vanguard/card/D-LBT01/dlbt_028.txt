@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_028",
+  "PackNo": "D-LBT01",
+  "CardName": "愛嬌最強リージャ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがアタックしたバトル終了時、【コスト】[【カウンターブラスト】(1)，このユニットを山札の下に置く]ことで、１枚引き、「Earnescorrect」を含むあなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

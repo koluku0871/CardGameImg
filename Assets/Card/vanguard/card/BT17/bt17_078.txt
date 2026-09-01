@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_078",
+  "PackNo": "BT17",
+  "CardName": "気合の喧嘩屋コウキン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがヴァンガードにアタックした時、相手の前列にリアガードがいないなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

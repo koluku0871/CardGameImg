@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_029",
+  "PackNo": "D-BT01",
+  "CardName": "争闘の忍鬼フドウマル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、【コスト】[手札から１枚捨てる]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

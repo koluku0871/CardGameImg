@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_044",
+  "PackNo": "BT05",
+  "CardName": "カローラ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

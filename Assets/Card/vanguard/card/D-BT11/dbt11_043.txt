@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_043",
+  "PackNo": "D-BT11",
+  "CardName": "麗魔館の饗応",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【ソウルチャージ】(1)してよい。あなたのユニットを１枚選び、そのターン中、パワー＋5000。そのターン終了時、【コスト】[手札から１枚捨てる]ことで、あなたのドロップから「麗魔館の饗応」を１枚選び、手札に加える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

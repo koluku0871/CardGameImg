@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_083",
+  "PackNo": "BT07",
+  "CardName": "逢魔ヶ刻の魔走バイク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたのソウルの「逢魔ヶ刻の魔走バイク」１枚につき、このカードのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

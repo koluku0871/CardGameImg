@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_132",
+  "PackNo": "D-TB05",
+  "CardName": "心躍る観戦張飛益徳",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "人類",
+  "Cost": "1",
+  "CardRarity": "RGR",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのヴァンガードが「中華最強の英雄呂布奉先」なら、【コスト】[【ソウルブラスト】(2)]することで、あなたの山札を上から１枚見て、(G)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

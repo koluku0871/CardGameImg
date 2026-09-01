@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_096",
+  "PackNo": "DZ-BT07",
+  "CardName": "MegaЯoManiA",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "楽装",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【永】：このカードは、プレイできず、「アルティサリア」を含むユニットの能力以外であなたのオーダーゾーンに置けない。【自】：このカードがあなたのオーダーゾーンに置かれた時、相手のヴァンガードがグレード３以上なら、相手のリアガードを１枚まで選び、呪縛する。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

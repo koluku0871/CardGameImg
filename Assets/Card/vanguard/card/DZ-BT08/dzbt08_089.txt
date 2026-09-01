@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_089",
+  "PackNo": "DZ-BT08",
+  "CardName": "スクラブ・フォウミィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのセットオーダーがあなたのオーダーゾーンから、ソウルかドロップに置かれた時、【コスト】[このユニットを退却させる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_077",
+  "PackNo": "BT14",
+  "CardName": "炎星の封竜騎士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)/(R)】：[【カウンターブラスト】(1)]あなたのカード名に「封竜」を含むヴァンガードがいるなら、そのターン中、相手のリアガードすべては【インターセプト】できない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

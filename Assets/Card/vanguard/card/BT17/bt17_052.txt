@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_052",
+  "PackNo": "BT17",
+  "CardName": "解放者ブライト・バイコーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードの『【リミットブレイク】(4)』はあなたのダメージゾーンのカードが３枚以下でも有効になる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

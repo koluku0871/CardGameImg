@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_208",
+  "PackNo": "DZ-BT11",
+  "CardName": "翻弄の騎士クアン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)】：このユニットがアタックしたバトル中、あなたのヴァンガードがグレード３以上で、このターンにこのユニットがあなたのカードの能力で(R)に登場しているなら、相手はインターセプトできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

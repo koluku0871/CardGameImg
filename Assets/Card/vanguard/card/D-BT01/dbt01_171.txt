@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_171",
+  "PackNo": "D-BT01",
+  "CardName": "恨み鉈",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゾンビ",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

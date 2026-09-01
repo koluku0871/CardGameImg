@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_112",
+  "PackNo": "D-BT02",
+  "CardName": "乱射怪人バレットワスプ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットは後列からでもインターセプトできる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

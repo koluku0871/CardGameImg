@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_085",
+  "PackNo": "BT07",
+  "CardName": "ミラージュ・メーカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《ダークイレギュラーズ》を【ブースト】したバトル中、アタックがヴァンガードにヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

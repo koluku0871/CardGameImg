@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_130",
+  "PackNo": "DZ-BT01",
+  "CardName": "今日は畑で運動会！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【エネルギーブラスト】(2)]することでプレイできる！あなたのリアガードを１枚選び、そのターン中、『【自】【(R)】：あなたのターン終了時、このターン合計４回以上アタックしているなら、１枚引く。』を与え、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

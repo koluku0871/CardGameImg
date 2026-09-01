@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_076",
+  "PackNo": "D-BT13",
+  "CardName": "開明の尖端インフラレドス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、あなたのライドデッキに、あなたのヴァンガードと同名の表のカードがあるなら、【カウンターチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

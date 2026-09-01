@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_721",
+  "PackNo": "D-PR",
+  "CardName": "迎幽の歌姫ロズリータ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「ラブラドル」を含むユニットにライドされた時、あなたの手札から「PR♥ISM」を含むユニットカードを１枚まで選び、(R)にコールする。コールしたら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

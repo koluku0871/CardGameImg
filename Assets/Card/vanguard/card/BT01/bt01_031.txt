@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_031",
+  "PackNo": "BT01",
+  "CardName": "クイーン・オブ・ハート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットが「キング・オブ・ソード」を【ブースト】した時、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

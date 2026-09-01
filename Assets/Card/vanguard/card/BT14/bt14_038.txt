@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_038",
+  "PackNo": "BT14",
+  "CardName": "必殺の抹消者オウエイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[このユニットをソウルに置く]あなたのグレード３の《なるかみ》が(V)に登場した時、コストを払ってよい。払ったら、相手の前列のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

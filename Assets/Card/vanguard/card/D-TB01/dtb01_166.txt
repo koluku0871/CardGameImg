@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_166",
+  "PackNo": "D-TB01",
+  "CardName": "浦島虎徹",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列にあなたの他のユニットがいるなら、このユニットのパワー＋5000,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

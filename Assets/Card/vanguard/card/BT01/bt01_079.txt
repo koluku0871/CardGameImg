@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_079",
+  "PackNo": "BT01",
+  "CardName": "カルマ・クイーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【カウンターブラスト】(2)]このユニットが(V)か(R)に登場した時、コストを払ってよい。払ったら、相手のリアガードを１枚選び、そのユニットは、次の相手のスタンドフェイズ中、【スタンド】できない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

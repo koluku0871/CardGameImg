@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_134",
+  "PackNo": "D-TB03",
+  "CardName": "兄と歩む夢ピリカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【起】【中央後列の(R)】：「ホロホロ」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)，このユニットを【レスト】させる]ことで、あなたのドロップからホロホロオーダーを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

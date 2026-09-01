@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1662",
+  "PackNo": "D-PR",
+  "CardName": "白銀に茂る森で",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=あなたのリアガードを１枚選び、グレード１以下のあなたのリアガード１枚につき、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd03_022",
+  "PackNo": "D-TD03",
+  "CardName": "あくるみゃー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（トリガーで出たら、１枚引く！さらにあなたのユニットを１枚選び、そのターン中、パワー＋10000！）,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

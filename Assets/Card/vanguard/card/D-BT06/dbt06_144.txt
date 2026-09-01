@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_144",
+  "PackNo": "D-BT06",
+  "CardName": "ディサイシブアクス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)】：このユニットがアタックしたバトル中、このターンにあなたのヴァンガードがカードの効果でライドしているなら、相手は手札からノーマルユニットを(G)にコールできない。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

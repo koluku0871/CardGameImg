@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_080",
+  "PackNo": "D-BT07",
+  "CardName": "遺恨の騎士アイネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがいずれかのカードの能力で(R)から退却した時、あなたの手札が３枚以下なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

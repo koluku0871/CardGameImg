@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_050",
+  "PackNo": "D-SS01",
+  "CardName": "友情の騎士サイラス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(2)]することで、あなたの山札を上から１枚公開し、それがユニットカードなら、(R)にコールし、違うなら、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

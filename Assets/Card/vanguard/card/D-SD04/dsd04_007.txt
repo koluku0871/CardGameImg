@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd04_007",
+  "PackNo": "D-SD04",
+  "CardName": "ルーティングペタルストマリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "SD",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、そのターン中、このユニットは『ブースト』を得て、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_111",
+  "PackNo": "DZ-BT03",
+  "CardName": "貫穿の騎士影潜者ゾイス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのオーダーゾーンに「監視された密会」が２枚以上なら、このユニットのパワー＋5000し、相手のカードの効果で退却しない。（相手ターンも有効）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

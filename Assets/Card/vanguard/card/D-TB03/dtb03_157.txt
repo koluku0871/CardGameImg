@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_157",
+  "PackNo": "D-TB03",
+  "CardName": "エムシノキペコンル",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "ホロホロ",
+  "Cost": "3",
+  "CardRarity": "SKR",
+  "Text": "effect=「ホロホロ」を含むあなたのユニットがいるなら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！１枚引き、「ホロホロ」を含むあなたのヴァンガードを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

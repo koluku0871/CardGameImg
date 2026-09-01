@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_037",
+  "PackNo": "BT01",
+  "CardName": "モンスター・フランク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【起】【ドロップゾーン】：[【カウンターブラスト】(3)]あなたのグレード２のヴァンガードがいるなら、このカードをライドする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

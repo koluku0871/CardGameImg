@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_108",
+  "PackNo": "D-BT11",
+  "CardName": "ゴホンヅノカブト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ムシ",
+  "Cost": "1",
+  "CardRarity": "EX",
+  "Text": "effect=必殺わざ：ダゲキ超必殺わざ：ダンガン【体長】７３ミリメートル【生まれたところ】タイ・マレー半島【せいかく】バランスタイプ【学名】EupatorusGracilicornisたいりょく：120ダゲキわざ：60ハサミわざ：30ナゲわざ：30テクニック：90つよさ：120,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_083",
+  "PackNo": "D-BT03",
+  "CardName": "グラビディア・プシブラム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、あなたの山札から隕石カードを１枚まで探し、オーダーゾーンに置き、山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

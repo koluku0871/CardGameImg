@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_025",
+  "PackNo": "BT08",
+  "CardName": "次元ロボダイランダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、他のあなたのカード名に「次元ロボ」を含むユニットを１枚選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

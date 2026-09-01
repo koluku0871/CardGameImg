@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_102",
+  "PackNo": "D-BT03",
+  "CardName": "天穿の騎士エザルタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンにこのカードが、(R)に登場した時か手札から捨てられた時、あなたの後列のリアガードを１枚選び、【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

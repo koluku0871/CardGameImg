@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1395",
+  "PackNo": "D-PR",
+  "CardName": "烏輪の幻真獣レヴノローグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "幻真獣",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】：「烏輪の幻真獣レヴノローグ」はデッキに16枚まで入れられる。【永】【(R)】：あなたのヴァンガードが「ヴェイズルーグ」を含むグレード３以上なら、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

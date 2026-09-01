@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_049",
+  "PackNo": "BT07",
+  "CardName": "マルチメーター・ジラフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、相手のダメージゾーンの表のカードが２枚以上なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

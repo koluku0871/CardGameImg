@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_058",
+  "PackNo": "BT14",
+  "CardName": "碧斧の騎士タリエシン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのグレード３の《ゴールドパラディン》が(V)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

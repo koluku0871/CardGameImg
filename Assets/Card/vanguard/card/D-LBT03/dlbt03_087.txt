@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_087",
+  "PackNo": "D-LBT03",
+  "CardName": "藤棚に背を寄せてウェプル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置き、手札からブリッツオーダーを１枚ソウルに置く]ことで、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

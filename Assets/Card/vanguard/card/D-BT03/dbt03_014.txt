@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_014",
+  "PackNo": "D-BT03",
+  "CardName": "スチームメイジアシュルダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(G)】：あなたのソウルが７枚以上なら、このユニットのシールド＋5000。【自】：このユニットが(G)から退却した時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_117",
+  "PackNo": "D-BT03",
+  "CardName": "樹角獣ヘジック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたの他のリアガードが登場した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

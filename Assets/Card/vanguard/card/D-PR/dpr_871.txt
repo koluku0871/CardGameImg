@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_871",
+  "PackNo": "D-PR",
+  "CardName": "凶星の檻",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【ソウルチャージ】(1)し、あなたのソウルからグレード３以下を１枚選び、(R)にコールし、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

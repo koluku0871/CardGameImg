@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_031",
+  "PackNo": "BT09",
+  "CardName": "獣神ヤマタノドレイク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズ中、このユニットが【スタンド】した時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

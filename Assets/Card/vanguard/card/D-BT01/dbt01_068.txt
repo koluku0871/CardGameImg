@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_068",
+  "PackNo": "D-BT01",
+  "CardName": "燃え盛れ、清らかなる祈りよ",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=あなたのダメージゾーンが３枚以上なら、あなたのユニットを１枚選び、そのバトル中、パワー＋15000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

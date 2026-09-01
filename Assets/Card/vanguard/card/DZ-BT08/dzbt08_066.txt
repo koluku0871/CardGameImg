@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_066",
+  "PackNo": "DZ-BT08",
+  "CardName": "キミに届け、私の歌",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=あなたのリアガードを１枚選び、そのターン中、『【自】【(R)】：バトルフェイズにあなたのユニットが(R)に登場した時、そのターン中、このユニットのパワー＋5000。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

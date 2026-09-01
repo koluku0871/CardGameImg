@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_023",
+  "PackNo": "BT03",
+  "CardName": "熱望の悪魔アモン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)／(R)】：あなたのターン中、あなたのソウルの《ダークイレギュラーズ》が６枚以上なら、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

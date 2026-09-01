@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_052",
+  "PackNo": "BT12",
+  "CardName": "曇天の解放者ゲライント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：他のあなたの《ゴールドパラディン》が山札から(R)に登場した時、あなたのカード名に「解放者」を含むヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

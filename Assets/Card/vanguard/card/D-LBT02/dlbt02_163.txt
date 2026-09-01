@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_163",
+  "PackNo": "D-LBT02",
+  "CardName": "目指すは頂上カトレイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【カウンターブラスト】(1)，手札から２枚捨てる]ことで、２枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

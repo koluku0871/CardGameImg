@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_184",
+  "PackNo": "D-PR",
+  "CardName": "軽快な旋律シャーレット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、あなたのヴァンガードがグレード３以上なら、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップから曲カードを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

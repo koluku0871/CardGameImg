@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs06_096",
+  "PackNo": "D-VS06",
+  "CardName": "プラント",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/プラント",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=（これは特別な能力によってコールされる強化後のプラント・トークンを表すカードであり、デッキには入れられない。ブーストとインターセプトを両方持つ）,critical=クリティカル1,skill=ブースト/インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

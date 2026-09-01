@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt11_026",
+  "PackNo": "BT11",
+  "CardName": "礎の守護天使ハスデヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたのダメージゾーンに表の「団結の守護天使ザラキエル」があるなら、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

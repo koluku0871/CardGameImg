@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_888",
+  "PackNo": "D-PR",
+  "CardName": "エゼルヴァ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ギャラクシアン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【メイトユニット】－「ヴァージルア」（このカードはライドできず、あなたのヴァンガードが「ヴァージルア」を含むなら(R)や(G)にコールできる）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "15000",
+  "Defense": "15000"
+}

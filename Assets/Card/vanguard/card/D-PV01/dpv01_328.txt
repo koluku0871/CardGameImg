@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_328",
+  "PackNo": "D-PV01",
+  "CardName": "コマンダーローレル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)，リアガードを４枚【レスト】させる]ことで、あなたのユニットを１枚選び、そのターン中、パワーを２倍にし、クリティカル＋１。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

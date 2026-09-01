@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_089",
+  "PackNo": "BT06",
+  "CardName": "呪詛魔砲のワイバーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、相手のダメージゾーンが３枚以上なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

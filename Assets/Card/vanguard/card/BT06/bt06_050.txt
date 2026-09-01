@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_050",
+  "PackNo": "BT06",
+  "CardName": "ランセット・シューター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)/(R)】：[【カウンターブラスト】(1)]そのターン中、このユニットのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

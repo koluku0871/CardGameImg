@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd03_028",
+  "PackNo": "D-TD03",
+  "CardName": "天砕く激情",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【レヴォルドレス】能力を持つあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたの山札から「ユースベルク“反抗黎騎・紅蓮”」を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

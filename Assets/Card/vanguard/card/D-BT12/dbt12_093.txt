@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_093",
+  "PackNo": "D-BT12",
+  "CardName": "バリスティック・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：このターン４回目以降のバトル中、「フラッグバーグ」を含むあなたのヴァンガードがいるなら、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb07_143",
+  "PackNo": "D-TB07",
+  "CardName": "大倶利伽羅極",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】真剣必殺：このユニットがブーストされないでアタックした時、そのバトル中、このユニットのパワー＋10000。あなたの表のダメージゾーンがないなら、＋10000ではなく＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

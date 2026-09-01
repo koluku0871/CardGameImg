@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_022",
+  "PackNo": "D-TB02",
+  "CardName": "巡り逢う想いのチカラTwoforall",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人族",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットがライドされた時、【コスト】[手札から１枚ソウルに置く]ことで、このカードを(R)にコールしてよい。【永】【(R)】：あなたのターン中、あなたのユニットが３枚以上なら、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_026",
+  "PackNo": "BT09",
+  "CardName": "戦場の歌姫テレサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたの《アクアフォース》のヴァンガードがいて、そのターンで３回目以降のバトル中なら、あなたのヴァンガードを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

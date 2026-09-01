@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_047",
+  "PackNo": "D-BT02",
+  "CardName": "饗応の魔女ブラーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：「ブラスター」を含むあなたのヴァンガードがいるなら、あなたのカードのコストでこのユニットを退却させる際、２枚分として退却させてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

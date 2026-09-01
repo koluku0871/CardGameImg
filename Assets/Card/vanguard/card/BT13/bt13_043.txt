@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_043",
+  "PackNo": "BT13",
+  "CardName": "弾幕包帯サハリエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：[あなたの手札から１枚選び、捨てる]このユニットのアタックがヒットした時、あなたの《エンジェルフェザー》のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

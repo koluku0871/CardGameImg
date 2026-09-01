@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_105",
+  "PackNo": "D-BT01",
+  "CardName": "円環の女魔術師",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

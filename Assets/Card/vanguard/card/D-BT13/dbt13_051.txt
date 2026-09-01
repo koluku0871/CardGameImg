@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_051",
+  "PackNo": "D-BT13",
+  "CardName": "気勢の運び手リール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットがあなたのカードの能力で(R)に登場した時、【ソウルチャージ】(2)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

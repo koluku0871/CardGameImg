@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt11_077",
+  "PackNo": "BT11",
+  "CardName": "ランチャーマンモス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《たちかぜ》のヴァンガードがいるなら、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

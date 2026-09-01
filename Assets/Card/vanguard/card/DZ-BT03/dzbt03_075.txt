@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_075",
+  "PackNo": "DZ-BT03",
+  "CardName": "裁鎌の騎士イドゥアル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【前列の(R)】【ターン1回】：あなたのヴァンガードが登場した時、そのターン中、あなたの前列のユニットすべてのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

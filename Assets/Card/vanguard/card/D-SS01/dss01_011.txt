@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_011",
+  "PackNo": "D-SS01",
+  "CardName": "焔の巫女ローナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

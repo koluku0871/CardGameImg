@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_072",
+  "PackNo": "D-TB06",
+  "CardName": "希望を届けし爆走の鍛冶神ヘパイストス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "神",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

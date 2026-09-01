@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_058",
+  "PackNo": "DZ-BT11",
+  "CardName": "隆昌の騎士シゲリック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが「レザエル」を含むグレード３以上のあなたのヴァンガードの能力で(R)に登場した時、あなたのドロップから１枚選び、ソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

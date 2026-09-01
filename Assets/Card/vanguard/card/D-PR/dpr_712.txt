@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_712",
+  "PackNo": "D-PR",
+  "CardName": "MiMishリカシェンナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=フレンド－【永】【(V)/(R)】：このユニットと同じ縦列にあなたの他のユニットがいるなら、そのユニットとこのユニットは“友達”になる。【永】【(V)】：あなたの他の“友達”がいるなら、あなたがライドデッキから「MiMishフォルティア」にライドする際、手札から１枚捨てずにライドできる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

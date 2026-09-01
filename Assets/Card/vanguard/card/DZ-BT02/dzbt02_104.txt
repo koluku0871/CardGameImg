@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_104",
+  "PackNo": "DZ-BT02",
+  "CardName": "疾く翔けよ、尊き命を救うために",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたのドロップから、あなたのユニットいずれかと同名のノーマルユニットを合計３枚まで選び、山札の下に望む順で置き、３枚以上選んだなら、１枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

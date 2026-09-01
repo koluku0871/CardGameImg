@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_129",
+  "PackNo": "D-LBT03",
+  "CardName": "天日の雫ニノン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、「メディエール」を含むあなたのヴァンガードがいるなら、あなたの山札を上から１枚見て、山札の上かソウルに置く。ソウルに置いたら、あなたの山札を上から１枚見る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

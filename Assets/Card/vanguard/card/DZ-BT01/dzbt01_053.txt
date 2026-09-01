@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_053",
+  "PackNo": "DZ-BT01",
+  "CardName": "忍竜クデンムスビ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたのライドフェイズにこのカードが手札から捨てられた時、このカードを(R)に【レスト】でコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

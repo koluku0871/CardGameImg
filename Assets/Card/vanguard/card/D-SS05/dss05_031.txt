@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss05_031",
+  "PackNo": "D-SS05",
+  "CardName": "Earnescorrectフォロワーペイトン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このカードが手札から捨てられた時、「クラリッサ」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップから「Earnescorrectフォロワーペイトン」以外の「Earnescorrect」を含むグレード２以下を１枚選び、手札に加えてよい。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

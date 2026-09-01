@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_132",
+  "PackNo": "DZ-BT07",
+  "CardName": "天空の秘蹟",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=（セットオーダーはプレイ後、オーダーゾーンに置く）【自】【オーダーゾーン】：あなたのユニットがアタックされた時、【コスト】[このカードをドロップに置く]ことで、アタックされているユニットを１枚選び、そのバトル中、パワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

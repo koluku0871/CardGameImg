@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_215",
+  "PackNo": "D-BT04",
+  "CardName": "ヘルブラスト・フルダイブ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "SP",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！１枚引き、あなたの手札から１枚選び、(R)にコールする。その後、あなたが“一気呵勢”なら、そのターン中、あなたの前列のユニットすべてのパワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

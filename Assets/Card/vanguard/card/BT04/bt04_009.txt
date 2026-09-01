@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_009",
+  "PackNo": "BT04",
+  "CardName": "ダークメタル・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)】：このユニットのドライブチェックで《シャドウパラディン》がでた時、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

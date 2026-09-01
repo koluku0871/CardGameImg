@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_075",
+  "PackNo": "D-LBT01",
+  "CardName": "愛を見つめてティルスエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=黒翼（バインドに偶数グレードのみで有効）－【自】：このユニットが(G)に置かれた時、相手の後列のリアガードを１枚選び、【レスト】させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

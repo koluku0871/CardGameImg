@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1055",
+  "PackNo": "D-PR",
+  "CardName": "オシャレ魔女ベリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "オシャレ魔女",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「ベリー」を含むグレード１の〈オシャレ魔女〉にライドされた時、そのユニットがライドデッキから登場したなら、あなたは「オシャレ魔女ラブandベリー筐体」のクレストを得て、【エネルギーチャージ】(3)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

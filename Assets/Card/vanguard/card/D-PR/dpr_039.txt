@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_039",
+  "PackNo": "D-PR",
+  "CardName": "閃鋏怪獣シザズバー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのオーダーゾーンにセットオーダーがあるなら、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

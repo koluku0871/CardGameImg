@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_573",
+  "PackNo": "D-PR",
+  "CardName": "五等分の花嫁",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "五つ子",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットがグレード１の〈五つ子〉にライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

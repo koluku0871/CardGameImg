@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_060",
+  "PackNo": "D-LBT01",
+  "CardName": "のんびりおしゃべりフィロメナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたはこのターンにオーダーを追加で１回プレイできる。（発動するたびにプレイ回数が増える）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

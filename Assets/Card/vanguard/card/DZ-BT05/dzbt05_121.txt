@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_121",
+  "PackNo": "DZ-BT05",
+  "CardName": "DoItMyself!",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=アタックされているあなたのユニットを１枚選び、そのバトル中、パワー＋10000。アタックしている相手のユニットがリアガードなら、＋10000ではなく＋20000。その後、相手のＧゾーンに表のカードがあるなら、さらにパワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

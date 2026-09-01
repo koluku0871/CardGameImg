@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1563",
+  "PackNo": "D-PR",
+  "CardName": "響きつづける、私たちのバンド活動！",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=追加効果－あなたのドロップから１枚選び、手札に加え、あなたのユニットを１枚選び、そのターン中、クリティカル＋１。,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

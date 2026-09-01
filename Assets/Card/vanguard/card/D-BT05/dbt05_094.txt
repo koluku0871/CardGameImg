@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_094",
+  "PackNo": "D-BT05",
+  "CardName": "縁由の忍鬼ツムギ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【ソウルブラスト】(1)]することで、あなたのドロップから、【煌求者】か「忍」を含む、ノーマルユニットを１枚選び、ソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

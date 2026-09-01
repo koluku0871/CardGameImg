@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_087",
+  "PackNo": "BT10",
+  "CardName": "神槍の抹消者ポルックス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

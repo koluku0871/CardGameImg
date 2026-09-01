@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_139",
+  "PackNo": "D-TB06",
+  "CardName": "銀河を狂わせし契約者エーテル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "ユニバース",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】【(R)】：あなたのモンスターBOXにカードが10枚以上なら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

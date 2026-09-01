@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_204",
+  "PackNo": "D-PV01",
+  "CardName": "ヒストリーメーカー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=時翔-【自】【(R)】【Gブレイク】(1)：このユニットがヴァンガードにアタックした時、【コスト】[【カウンターブラスト】(1)]することで、あなたの他のリアガードを１枚まで選び、タイムリープさせる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

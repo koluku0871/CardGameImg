@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_037",
+  "PackNo": "D-TB02",
+  "CardName": "光と影の大魔法少女レンブラント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人族",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックかブーストした時、【コスト】[手札から１枚捨てる]ことで、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

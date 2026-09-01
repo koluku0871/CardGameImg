@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_089",
+  "PackNo": "DZ-BT01",
+  "CardName": "闘刻破断の時空巨兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアコロッサス",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのライドフェイズにこのカードが手札から捨てられた時、【コスト】[【ソウルブラスト】(2)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

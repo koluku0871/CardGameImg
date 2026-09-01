@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_039",
+  "PackNo": "D-LBT01",
+  "CardName": "広がる世界ウィリスタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】【ターン1回】：あなたが宝石カードをプレイした時、１枚引く。【永】【(G)】：あなたのドロップの宝石カード２枚につき、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

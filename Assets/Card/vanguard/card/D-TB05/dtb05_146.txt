@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_146",
+  "PackNo": "D-TB05",
+  "CardName": "天上の調べ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "RGR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

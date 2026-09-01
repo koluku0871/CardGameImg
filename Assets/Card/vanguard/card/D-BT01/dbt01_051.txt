@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_051",
+  "PackNo": "D-BT01",
+  "CardName": "樹角獣アーレイオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを退却させる]ことで、あなたのユニットを２枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

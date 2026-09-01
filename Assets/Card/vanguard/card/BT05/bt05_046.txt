@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_046",
+  "PackNo": "BT05",
+  "CardName": "木漏れ日の貴婦人",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)/(R)】：[このユニットを【レスト】する，あなたの手札から１枚選び、捨てる]１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

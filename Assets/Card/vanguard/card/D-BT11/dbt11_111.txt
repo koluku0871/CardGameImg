@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_111",
+  "PackNo": "D-BT11",
+  "CardName": "甲虫王者ムシキング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=【自】：このユニットがグレード１の〈ムシ〉にライドされた時、あなたは「甲虫王者ムシキング筐体」のクレストを得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

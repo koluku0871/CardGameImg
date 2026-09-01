@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_139",
+  "PackNo": "D-LBT04",
+  "CardName": "親衛隊員カルロッタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)】：「フェルティローザ」を含むグレード３以上のあなたのヴァンガードがいるなら、このユニットは『インターセプト』を得て、後列からでもインターセプトでき、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

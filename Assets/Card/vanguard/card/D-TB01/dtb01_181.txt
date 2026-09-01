@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_181",
+  "PackNo": "D-TB01",
+  "CardName": "篭手切江",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードがアタックされた時、【コスト】[【ソウルブラスト】(1)]することで、このユニットを(G)に移動させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

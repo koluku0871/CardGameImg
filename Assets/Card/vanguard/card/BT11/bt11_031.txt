@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt11_031",
+  "PackNo": "BT11",
+  "CardName": "封竜ハンガーヘル・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

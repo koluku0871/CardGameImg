@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_026",
+  "PackNo": "BT03",
+  "CardName": "バーキング・マンティコア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "キメラ",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)】：あなたのターン中、あなたのソウルに「クリムゾン・ビーストテイマー」があるなら、このユニットのパワー＋3000。【自】：このユニットが(V)に登場した時、１枚引き、あなたの手札から１枚選び、ソウルに置く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

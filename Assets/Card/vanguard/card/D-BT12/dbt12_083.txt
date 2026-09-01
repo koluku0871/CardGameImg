@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_083",
+  "PackNo": "D-BT12",
+  "CardName": "インダミタブル・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、相手のヴァンガードのグレードがあなたのヴァンガードのグレードより高いなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

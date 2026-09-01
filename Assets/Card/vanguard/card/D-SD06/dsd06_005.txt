@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd06_005",
+  "PackNo": "D-SD06",
+  "CardName": "封焔竜ウーサルラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "SD",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップから装備カードを１枚選び、手札に加える。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

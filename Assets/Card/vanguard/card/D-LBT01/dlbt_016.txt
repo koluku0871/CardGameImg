@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_016",
+  "PackNo": "D-LBT01",
+  "CardName": "Earnescorrectサポーターリオナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：相手のターンに「Earnescorrect」を含むあなたの他のリアガードが退却した時、このユニットが(R)にいるなら、【コスト】[【ソウルブラスト】(1)，手札から１枚捨てる]ことで、その退却したカードを手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

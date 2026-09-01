@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_150",
+  "PackNo": "D-TB06",
+  "CardName": "至福なる蒼海の竜宮麗姫乙姫",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人",
+  "Cost": "0",
+  "CardRarity": "MSR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

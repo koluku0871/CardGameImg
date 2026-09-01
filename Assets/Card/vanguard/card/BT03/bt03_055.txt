@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_055",
+  "PackNo": "BT03",
+  "CardName": "バキュームマンモス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)】：他のあなたの《たちかぜ》が(R)に登場した時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

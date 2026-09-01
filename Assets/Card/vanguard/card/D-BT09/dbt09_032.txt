@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_032",
+  "PackNo": "D-BT09",
+  "CardName": "破弓の騎士スフィルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【中央後列の(R)】：あなたのヴァンガードが【レヴォルドレス】能力で(V)に登場した時、このユニットを【スタンド】させ、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

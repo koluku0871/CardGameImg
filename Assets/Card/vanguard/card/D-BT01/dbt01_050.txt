@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_050",
+  "PackNo": "D-BT01",
+  "CardName": "黒涙の骸竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "スケルトン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(V)に登場した時、あなたのドロップからノーマルオーダーを１枚まで選び、手札に加える。【永】【(R)】：このターンにあなたがオーダーをプレイしているなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

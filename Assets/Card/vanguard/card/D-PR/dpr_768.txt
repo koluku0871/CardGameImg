@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_768",
+  "PackNo": "D-PR",
+  "CardName": "ドラグリッターミドハト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのユニットがあなたのカードの能力で【スタンド】した時、【コスト】[このユニットを退却させる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

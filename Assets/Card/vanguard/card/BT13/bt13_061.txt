@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_061",
+  "PackNo": "BT13",
+  "CardName": "デスアーミー・コマンダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードのドライブチェックでグレード３の《ノヴァグラップラー》がでた時、このユニットを【スタンド】する。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

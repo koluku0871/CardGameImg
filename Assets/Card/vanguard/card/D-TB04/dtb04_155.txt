@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_155",
+  "PackNo": "D-TB04",
+  "CardName": "間一髪の生還馬孫",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "SKR",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

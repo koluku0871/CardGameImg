@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_199",
+  "PackNo": "DZ-BT09",
+  "CardName": "虹に煌めく宝杖",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=あなたの山札を上から３枚見て、山札の上に望む順で置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

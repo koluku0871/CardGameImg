@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_084",
+  "PackNo": "BT06",
+  "CardName": "小さな闘士トロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《ゴールドパラディン》のヴァンガードを【ブースト】した時、あなたのリアガードが相手のリアガードより多いなら、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

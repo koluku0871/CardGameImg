@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_156",
+  "PackNo": "DZ-BT02",
+  "CardName": "Roselia氷川紗夜",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Roselia",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

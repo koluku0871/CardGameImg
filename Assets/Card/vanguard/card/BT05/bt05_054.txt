@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_054",
+  "PackNo": "BT05",
+  "CardName": "忍獣ホワイトメイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《むらくも》のヴァンガードがいるなら、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

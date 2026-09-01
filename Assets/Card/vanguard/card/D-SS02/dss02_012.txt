@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_012",
+  "PackNo": "D-SS02",
+  "CardName": "封焔竜イダム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたの(V)の装備１枚につき、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

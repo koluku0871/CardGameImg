@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_064",
+  "PackNo": "D-BT09",
+  "CardName": "焔の巫女マディソン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが「焔の巫女アディソン」をブーストした時、【ソウルチャージ】(2)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

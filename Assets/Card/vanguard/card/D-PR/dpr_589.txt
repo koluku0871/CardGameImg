@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_589",
+  "PackNo": "D-PR",
+  "CardName": "直情径行のギアライノス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアビースト",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(V)】：あなたがライドデッキからライドする際、『手札から１枚選び、捨てる』ではなく『【ソウルブラスト】(1)』でもライドできる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_078",
+  "PackNo": "D-LBT04",
+  "CardName": "リヴンアップライトクロティルド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、「LèVre♡SœurS」を含むあなたのヴァンガードがいるなら、【コスト】[このユニットをソウルに置く]ことで、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

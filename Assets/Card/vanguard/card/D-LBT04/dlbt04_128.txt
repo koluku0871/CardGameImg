@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_128",
+  "PackNo": "D-LBT04",
+  "CardName": "超絶映える！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！そのターン中、あなたは『あなたのリアガードすべてのパワー＋5000。』を得る。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_060",
+  "PackNo": "D-BT04",
+  "CardName": "罪過に廃絶の美酒を",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！１枚引き、あなたのユニットを１枚選び、あなたの、ドロップとバインドゾーンのオーダーカード合計１種類につき、そのバトル中、パワー＋5000。（カード名の種類数を数える）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

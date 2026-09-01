@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_120",
+  "PackNo": "D-LBT02",
+  "CardName": "流麗の美姫マレイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットは『全力－【永】【(R)】：あなたのソウルが０枚なら、このユニットのパワー＋2000。』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

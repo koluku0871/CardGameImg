@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_075",
+  "PackNo": "D-BT01",
+  "CardName": "ディープ・ソニッカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(V)に登場した時、【ソウルチャージ】(1)。【永】【(R)】：あなたのターン中、あなたのソウルが10枚以上なら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

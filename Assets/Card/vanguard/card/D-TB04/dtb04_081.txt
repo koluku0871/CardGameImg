@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_081",
+  "PackNo": "D-TB04",
+  "CardName": "粛然たる法の裁きシャマシュ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

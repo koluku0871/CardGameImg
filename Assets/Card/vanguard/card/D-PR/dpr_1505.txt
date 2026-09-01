@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1505",
+  "PackNo": "D-PR",
+  "CardName": "Divinez明導ヒカリ(現在)",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【永】：このカードは「ディアブロスガールズナタリア」として扱う。【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

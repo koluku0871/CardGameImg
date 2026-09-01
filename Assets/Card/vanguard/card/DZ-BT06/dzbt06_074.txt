@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_074",
+  "PackNo": "DZ-BT06",
+  "CardName": "魔竜導師サンキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたと相手の、バインドゾーンが合計５枚以上なら、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

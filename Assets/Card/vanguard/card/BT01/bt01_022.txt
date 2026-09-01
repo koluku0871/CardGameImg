@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_022",
+  "PackNo": "BT01",
+  "CardName": "ドラゴンナイトネハーレン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

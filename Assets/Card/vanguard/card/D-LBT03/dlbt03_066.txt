@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_066",
+  "PackNo": "D-LBT03",
+  "CardName": "蒼穹へ響く潔白アルヴィエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットが“友達”なら、『【自】：このユニットがインターセプトした時、そのバトル中、このユニットのシールド＋10000。』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

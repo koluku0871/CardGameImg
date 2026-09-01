@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_082",
+  "PackNo": "D-BT03",
+  "CardName": "柩機の竜シュティルユーゲ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが夜影兵・トークンにブーストされた時、【コスト】[【ソウルブラスト】(1)]することで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

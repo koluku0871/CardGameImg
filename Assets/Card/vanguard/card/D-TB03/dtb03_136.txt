@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_136",
+  "PackNo": "D-TB03",
+  "CardName": "ファウスト家のペットフランケンシュタイニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、「ファウストⅧ世」を含むあなたのヴァンガードがいるなら、あなたの山札を上から２枚見て、「ファウストⅧ世」か「エリザ」を含むカードをそれぞれ１枚まで選び、公開して手札に加え、残りを捨てる。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

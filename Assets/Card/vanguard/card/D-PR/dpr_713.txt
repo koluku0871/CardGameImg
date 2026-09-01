@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_713",
+  "PackNo": "D-PR",
+  "CardName": "MiMishアズハチル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=フレンド－【永】【(V)/(R)】：このユニットと同じ縦列にあなたの他のユニットがいるなら、そのユニットとこのユニットは“友達”になる。【自】：このユニットが「MiMishリカシェンナ」にライドされた時、このカードを(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

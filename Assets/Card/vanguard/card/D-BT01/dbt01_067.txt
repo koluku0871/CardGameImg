@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_067",
+  "PackNo": "D-BT01",
+  "CardName": "サンライト・パニッシュメント",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[１枚以上、望む枚数【カウンターブラスト】する]ことでプレイできる！このコストで払った【カウンターブラスト】(1)につき、相手のリアガードを１枚選び、退却させる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

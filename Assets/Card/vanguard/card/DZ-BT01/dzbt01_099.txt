@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_099",
+  "PackNo": "DZ-BT01",
+  "CardName": "ズィンガー・レイザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが「アシュトルム」を含むあなたのグレード３以上の能力で【スタンド】した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

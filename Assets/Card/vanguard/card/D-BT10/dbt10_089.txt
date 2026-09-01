@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_089",
+  "PackNo": "D-BT10",
+  "CardName": "アサーテイン・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、このユニットが龍樹マーカーのある(R)にいるなら、このユニットは『ブースト』を得て、パワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_439",
+  "PackNo": "D-PR",
+  "CardName": "焔の念僧ハクメー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

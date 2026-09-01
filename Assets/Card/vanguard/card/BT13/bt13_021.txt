@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_021",
+  "PackNo": "BT13",
+  "CardName": "執刀の守護天使アルメン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたのダメージゾーンの表の「執刀の守護天使アルメン」１枚につき、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

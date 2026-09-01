@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_106",
+  "PackNo": "DZ-BT11",
+  "CardName": "蒼奏の歌姫リファーニア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他のユニットがアタックした時、このターン５回目のバトルなら、【コスト】[このユニットをソウルに置く]ことで、そのバトル中、相手はブリッツオーダーをプレイできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

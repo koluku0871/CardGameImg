@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_099",
+  "PackNo": "D-BT02",
+  "CardName": "ディヴァインシスターぷちふーる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：グレード３のあなたのユニットが３枚以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

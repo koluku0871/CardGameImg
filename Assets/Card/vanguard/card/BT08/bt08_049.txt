@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_049",
+  "PackNo": "BT08",
+  "CardName": "怪軍提督ゴゴート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《ディメンジョンポリス》をブーストしたバトル中、アタックがヴァンガードにヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

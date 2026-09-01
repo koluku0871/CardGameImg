@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd02_005",
+  "PackNo": "D-TD02",
+  "CardName": "魔石竜ジュエルニール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

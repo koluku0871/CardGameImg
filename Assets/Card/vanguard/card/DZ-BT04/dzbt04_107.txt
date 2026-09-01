@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_107",
+  "PackNo": "DZ-BT04",
+  "CardName": "スコルピアサー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)】：あなたのソウルに「スタグニッパー・ドラゴン」があるなら、あなたがライドデッキから「マンティサイス・ドラゴン」にライドする際、手札から１枚捨てずにライドできる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

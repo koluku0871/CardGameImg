@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_209",
+  "PackNo": "D-PV01",
+  "CardName": "とびきりの新入生シズク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：♪♪【自】【(R)】【ターン1回】【Gブレイク】(1)：このユニットが♪♪状態になった時、あなたの山札を上から５枚見て、グレード３以上を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

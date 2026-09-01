@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_058",
+  "PackNo": "BT16",
+  "CardName": "鳳雛の喧嘩屋コウテンショウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【自】【(R)】：あなたのヴァンガードが【双闘】した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

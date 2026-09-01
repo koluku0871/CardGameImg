@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_194",
+  "PackNo": "D-PV01",
+  "CardName": "モーニング・タイマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズ開始時、【コスト】[このユニットを退却させる]ことで、あなたのリアガードすべてを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

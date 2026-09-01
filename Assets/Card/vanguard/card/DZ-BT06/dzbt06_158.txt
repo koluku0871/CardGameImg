@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_158",
+  "PackNo": "DZ-BT06",
+  "CardName": "忍妖フタクチヨ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが(G)から退却した時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "15000"
+}

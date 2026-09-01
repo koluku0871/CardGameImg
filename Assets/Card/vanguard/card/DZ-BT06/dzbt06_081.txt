@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_081",
+  "PackNo": "DZ-BT06",
+  "CardName": "スチームファイターエンヘガル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがグレード３以上のヴァンガードにアタックした時、【コスト】[【ソウルブラスト】(3)]することで、そのバトル中、このユニットのパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

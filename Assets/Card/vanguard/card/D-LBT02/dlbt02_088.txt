@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_088",
+  "PackNo": "D-LBT02",
+  "CardName": "晴天の恵光ラーシエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=白翼－【永】【(R)/(G)】：あなたのターン中、このユニットのパワー＋5000。相手のターン中、このユニットは『インターセプト』を得て、シールド＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

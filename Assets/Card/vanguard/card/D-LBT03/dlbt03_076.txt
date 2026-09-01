@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_076",
+  "PackNo": "D-LBT03",
+  "CardName": "オオモノを探しに！ブレア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、あなたのソウルに呪術演出カードが２枚以上なら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_834",
+  "PackNo": "D-PR",
+  "CardName": "止まぬ歓声に応えてダーチェ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

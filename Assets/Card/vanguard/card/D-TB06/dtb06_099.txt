@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_099",
+  "PackNo": "D-TB06",
+  "CardName": "邪妖を滅す聡慧なる指導者聖徳太子",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人",
+  "Cost": "1",
+  "CardRarity": "MSR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、あなたの手札からユニットカードを１枚まで選び、公開する。公開したら、あなたのモンスターBOXからそれと同じグレードのユニットカードを１枚選び、それらを入れ替える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

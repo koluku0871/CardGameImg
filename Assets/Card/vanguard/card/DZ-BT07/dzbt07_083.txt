@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_083",
+  "PackNo": "DZ-BT07",
+  "CardName": "半円経常の女魔術師",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：あなたのヴァンガードが「女魔術師」を含むグレード３以上なら、【コスト】[このユニットをソウルに置く]ことで、あなたの山札を上から２枚見て、山札の上に望む順で置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

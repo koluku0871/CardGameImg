@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_069",
+  "PackNo": "D-BT12",
+  "CardName": "アパセティック・ユザーパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのターン終了時、このユニットが龍樹マーカーのある(R)にいるなら、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

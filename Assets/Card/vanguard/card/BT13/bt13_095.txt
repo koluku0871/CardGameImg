@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_095",
+  "PackNo": "BT13",
+  "CardName": "ヘヴィラッシュ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、あなたの《アクアフォース》のヴァンガードがいて、そのターンで２回目のバトル中なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

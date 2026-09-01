@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_535",
+  "PackNo": "D-PR",
+  "CardName": "社員をブースト！木谷高明",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

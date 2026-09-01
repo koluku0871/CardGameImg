@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_192",
+  "PackNo": "D-LBT01",
+  "CardName": "Earnescorrectメンバーエブリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、あなたのヴァンガードが「Earnescorrectリーダークラリッサ」なら、【コスト】[【カウンターブラスト】(1)]することで、あなたの山札から「Earnescorrect」を含むグレード２以下を１枚まで探して公開し、そのカードと同名のあなたのリアガードがいないなら、ユニットのいない(R)にコールする。山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

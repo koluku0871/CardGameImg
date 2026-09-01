@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_098",
+  "PackNo": "DZ-BT06",
+  "CardName": "澄明の騎士マルガーヌ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、あなたのヴァンガードがグレード３以上なら、そのバトル中、このユニットのパワー＋5000してよい。そうしたなら、そのバトル終了時、このユニットをソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_075",
+  "PackNo": "DZ-BT06",
+  "CardName": "ドラグリッターターリク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、このターンにあなたのカードの能力のコストで同時に【エネルギーブラスト】(3)以上しているなら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

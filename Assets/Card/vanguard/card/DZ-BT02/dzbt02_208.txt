@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_208",
+  "PackNo": "DZ-BT02",
+  "CardName": "夢中のひととき",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "EXP",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

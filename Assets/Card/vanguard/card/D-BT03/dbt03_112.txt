@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_112",
+  "PackNo": "D-BT03",
+  "CardName": "樹角獣バロメツ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：このユニットは前列からアタックできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

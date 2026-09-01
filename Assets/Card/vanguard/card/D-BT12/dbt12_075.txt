@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_075",
+  "PackNo": "D-BT12",
+  "CardName": "グラビディア・ウィラメーテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが「ゴアグラビディアネルトリンガー・マスクス」なら、このユニットのパワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

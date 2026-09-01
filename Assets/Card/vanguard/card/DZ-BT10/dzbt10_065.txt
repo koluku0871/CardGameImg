@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_065",
+  "PackNo": "DZ-BT10",
+  "CardName": "遠く空へ想いを馳せてアンシティーフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが「リシアフェール」を含むグレード３以上のあなたのヴァンガードの能力で(R)からソウルに置かれた時、【ソウルチャージ】(1)/【エネルギーチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

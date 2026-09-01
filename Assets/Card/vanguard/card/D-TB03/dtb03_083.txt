@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_083",
+  "PackNo": "D-TB03",
+  "CardName": "骨の兵隊",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "トークンユニット/骨",
+  "Cost": "0",
+  "CardRarity": "T",
+  "Text": "effect=（これは骨の兵隊・トークンを表すカードであり、デッキには入れられない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "0"
+}

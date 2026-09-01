@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_348",
+  "PackNo": "D-PR",
+  "CardName": "樹角獣モモルナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：相手のターンにこのユニットが(R)から退却した時、あなたのヴァンガードがグレード３以上なら、あなたの山札からこのカードと同名のカードを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

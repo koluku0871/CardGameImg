@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_147",
+  "PackNo": "D-BT04",
+  "CardName": "柩機の兵ネグリタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【永】【(R)】：あなたの夜影兵・トークンは相手のカードの効果で選べず、相手のカードの効果で退却しない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

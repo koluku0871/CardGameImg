@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_074",
+  "PackNo": "BT06",
+  "CardName": "鉤手のゾンビ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゾンビ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

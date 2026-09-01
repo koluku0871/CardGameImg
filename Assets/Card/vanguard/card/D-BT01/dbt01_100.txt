@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_100",
+  "PackNo": "D-BT01",
+  "CardName": "天風の剣士ヴェーチェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

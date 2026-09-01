@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_153",
+  "PackNo": "D-TB04",
+  "CardName": "式神後鬼",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【永】【(R)】：「恐山アンナ」を含むあなたのユニットと、このユニットと同じ縦列にあなたの「式神前鬼」がいるなら、このユニットのパワー＋10000。【自】【(R)】：各ターン終了時、「恐山アンナ」を含むあなたのユニットがいないなら、このユニットを退却させる。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

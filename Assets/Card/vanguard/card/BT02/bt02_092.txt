@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_092",
+  "PackNo": "BT02",
+  "CardName": "トップアイドルアクア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_052",
+  "PackNo": "D-LBT01",
+  "CardName": "フルフィルスウィーツアンゼルマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【後列の(R)】【ターン1回】：あなたのバトルフェイズにあなたの他のユニットが(R)に登場した時、【コスト】[【ソウルブラスト】(2)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

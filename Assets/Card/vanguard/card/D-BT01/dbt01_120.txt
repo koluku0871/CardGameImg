@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_120",
+  "PackNo": "D-BT01",
+  "CardName": "封じられし道",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【カウンターブラスト】(2)]することでプレイできる！相手のヴァンガードを１枚選び、そのバトル中、そのユニットのクリティカル－１。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

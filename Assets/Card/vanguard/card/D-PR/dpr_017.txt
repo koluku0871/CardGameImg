@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_017",
+  "PackNo": "D-PR",
+  "CardName": "ディヴァインシスターふぁしあーた",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのドライブチェックでトリガーユニットが出た時、【コスト】[【ソウルブラスト】(2)]することで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

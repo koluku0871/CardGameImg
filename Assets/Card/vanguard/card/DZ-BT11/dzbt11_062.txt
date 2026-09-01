@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_062",
+  "PackNo": "DZ-BT11",
+  "CardName": "新緑の爪牙ドノラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたのターンにこのカードが、あなたのカードの能力でソウルに置かれた時、あなたのヴァンガードが「レヴィドラス」を含むグレード３以上なら、【カウンターチャージ】(1)か【エネルギーチャージ】(3)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

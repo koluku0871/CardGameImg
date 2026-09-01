@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_018",
+  "PackNo": "D-BT08",
+  "CardName": "スタティクラック・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：あなたのターンに、あなたの他のユニットがこのユニットと同じ縦列の(R)に登場した時、そのターン中、その登場したユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

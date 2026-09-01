@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_021",
+  "PackNo": "D-LBT01",
+  "CardName": "目指せ！最強のアイドル！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=「Earnescorrect」を含むあなたのユニットが５種類以上ならプレイできる！そのターン中、「Earnescorrect」を含むあなたのユニットすべてのパワー＋5000。相手のヴァンガードがグレード３以上なら、あなたの「Earnescorrectリーダークラリッサ」を１枚選び、そのターン中、『【永】【(V)】：このユニットがアタックする際、相手の、(V)か(R)を３つ選び、選んだサークルのユニットすべてとバトルする。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

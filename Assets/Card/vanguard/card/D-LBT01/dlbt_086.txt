@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_086",
+  "PackNo": "D-LBT01",
+  "CardName": "儚げ乙女ハンネローレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットと同じ縦列に、あなたの他のリアガードが登場した時、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

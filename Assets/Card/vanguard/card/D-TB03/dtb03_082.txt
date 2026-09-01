@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_082",
+  "PackNo": "D-TB03",
+  "CardName": "ゴルドバからの指令",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=以下を１つ行う。・１枚引く。・あなたの山札を上から２枚公開し、その中から「シルバ」を含むカードすべてを手札に加え、残りを捨てる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

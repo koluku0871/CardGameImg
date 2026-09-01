@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_095",
+  "PackNo": "D-BT09",
+  "CardName": "モールディ・シューター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：「フラッグバーグ」を含むあなたのヴァンガードがいるなら、このユニットのパワー＋2000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_191",
+  "PackNo": "D-BT05",
+  "CardName": "3000年後の世界でロロワ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：このユニットが(V)に登場した時、【コスト】[リアガードを１枚退却させる]ことで、プラント・トークンを２枚まで(R)にコールする。【煌求者】,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

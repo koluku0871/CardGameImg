@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_069",
+  "PackNo": "D-BT09",
+  "CardName": "アイラム・カプリコルヌス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "キメラ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、「星刻姫」を含むあなたのヴァンガードがいるなら、あなたの、手札かドロップからトリガーユニットを１枚まで選び、ソウルに置く。手札から置いたら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

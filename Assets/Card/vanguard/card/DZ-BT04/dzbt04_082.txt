@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_082",
+  "PackNo": "DZ-BT04",
+  "CardName": "月白の死歌ウヴァル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「アマナグルジオ」を含むグレード３以上のあなたのヴァンガードの能力で(R)からソウルに置かれた時、あなたのユニットを２枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

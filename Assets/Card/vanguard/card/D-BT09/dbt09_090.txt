@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_090",
+  "PackNo": "D-BT09",
+  "CardName": "バーリィ・アクスビートル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたの(R)に「バルキィ・ソウスタッグ」がいるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

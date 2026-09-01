@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_076",
+  "PackNo": "BT17",
+  "CardName": "古代竜の炎術巫女",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_153",
+  "PackNo": "DZ-BT03",
+  "CardName": "Respawn",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ぶいすぽっ！",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=（【治】はデッキに合計４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

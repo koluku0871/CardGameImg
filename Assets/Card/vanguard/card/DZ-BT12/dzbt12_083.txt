@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt12_083",
+  "PackNo": "DZ-BT12",
+  "CardName": "エイミアブル・リサイクラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、あなたのオーダーゾーンにセットオーダーが２枚以上なら、【コスト】[手札からセットオーダーを１枚捨てる]ことで、１枚引き、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_082",
+  "PackNo": "DZ-BT05",
+  "CardName": "スチームメイデンティグラット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがグレード０からライドして登場した時、【コスト】[ライドデッキから「リィエル」を含むグレード３を１枚公開する]ことで、あなたのオーダーゾーンに時辰儀・宿命之翼・トークンを１枚置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

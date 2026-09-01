@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_089",
+  "PackNo": "D-BT02",
+  "CardName": "柩機の姫アルテポー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたの世界が黒夜なら、【ソウルチャージ】(1)。深淵黒夜なら、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_112",
+  "PackNo": "DZ-BT11",
+  "CardName": "Elegant-reposeナサティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの他のリアガードがいないなら、このユニットは相手のカードの効果で選べない。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

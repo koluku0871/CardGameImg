@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_118",
+  "PackNo": "DZ-BT07",
+  "CardName": "宙域の贈り手",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのオーダーゾーンにセットオーダーがあるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

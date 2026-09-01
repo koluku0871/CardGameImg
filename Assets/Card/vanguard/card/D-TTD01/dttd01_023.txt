@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd01_023",
+  "PackNo": "D-TTD01",
+  "CardName": "博多藤四郎",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "TRR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

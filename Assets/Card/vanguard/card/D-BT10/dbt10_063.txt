@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_063",
+  "PackNo": "D-BT10",
+  "CardName": "緋炎弓兵バウセン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【後列の(R)】：「ガーンデーヴァ」を含むあなたのヴァンガードがアタックした時、あなたのバインドゾーンが３枚以上なら、【コスト】[このユニットを裏でバインドする]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

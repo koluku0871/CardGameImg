@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_059",
+  "PackNo": "D-BT07",
+  "CardName": "断空の魔刃トランスローター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)】【ターン1回】：【コスト】[グレード０を【ソウルブラスト】(6)]することで、【ソウルチャージ】(6)し、あなたのユニットを６枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

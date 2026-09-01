@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_052",
+  "PackNo": "D-TB01",
+  "CardName": "平野藤四郎",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

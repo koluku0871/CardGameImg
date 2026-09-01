@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_151",
+  "PackNo": "D-BT01",
+  "CardName": "柩機の姫ナビレム",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

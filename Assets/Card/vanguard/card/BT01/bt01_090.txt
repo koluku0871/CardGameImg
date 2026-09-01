@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_090",
+  "PackNo": "BT01",
+  "CardName": "メイデン・オブ・ライブラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(2)]このユニットのアタックがヒットした時、あなたの《オラクルシンクタンク》のヴァンガードがいれば、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_093",
+  "PackNo": "DZ-BT09",
+  "CardName": "策応の騎士ジョーリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのユニットが後列からアタックした時、そのターン中、このユニットのパワー＋5000。【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

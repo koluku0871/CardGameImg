@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_058",
+  "PackNo": "BT15",
+  "CardName": "魔竜戦鬼ホウケンヤシャ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：[あなたの手札から１枚選び、捨てる]このユニットのアタックがヒットした時、あなたの《かげろう》のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

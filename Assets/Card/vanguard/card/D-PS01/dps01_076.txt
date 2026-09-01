@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dps01_076",
+  "PackNo": "D-PS01",
+  "CardName": "超原子の合いの子",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【手札】：あなたが【超越】のコストを払う際、このカードをグレード３として捨ててよい。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_042",
+  "PackNo": "D-BT10",
+  "CardName": "オクワード・ラヴィジャー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】：このカードはライドできない。【永】【(R)】：このターンにあなたのカードの能力のコストで同時に【ソウルブラスト】(3)以上していないなら、このユニットはアタックもブーストもできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "15000",
+  "Defense": "5000"
+}

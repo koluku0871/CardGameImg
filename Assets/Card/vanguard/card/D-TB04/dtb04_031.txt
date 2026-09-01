@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_031",
+  "PackNo": "D-TB04",
+  "CardName": "老鉄のアシュクロフト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットと同じ縦列のあなたの「エクトプラズマーカンナ・ビスマルク」がアタックされた時、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、そのユニットはヒットされない。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

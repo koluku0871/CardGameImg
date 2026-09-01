@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_369",
+  "PackNo": "D-PR",
+  "CardName": "特大のお部屋リルファ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ジャイアント",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「リルファ」を含むグレード２にライドされた時、あなたの手札からグレード２以上を１枚まで選び、中央後列の(R)にコールし、そのターン中、『ブースト』を与える。コールしたら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

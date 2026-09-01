@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_262",
+  "PackNo": "DZ-BT07",
+  "CardName": "夜空に光る詩コプルニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【起】【(R)】：あなたのヴァンガードが「リシアフェール」を含むグレード３以上なら、【コスト】[このユニットをソウルに置く]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

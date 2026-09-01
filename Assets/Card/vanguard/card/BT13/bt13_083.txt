@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_083",
+  "PackNo": "BT13",
+  "CardName": "星輝兵カオスビート・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが「星輝兵カオスブレイカー・ドラゴン」を【ブースト】した時、相手の呪縛カードがあるなら、そのバトル中、【ブースト】されたユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

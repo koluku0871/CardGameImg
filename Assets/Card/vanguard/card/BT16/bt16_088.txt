@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_088",
+  "PackNo": "BT16",
+  "CardName": "鋼闘機・オペレーターキリカ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの(V)にいるユニットを２枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

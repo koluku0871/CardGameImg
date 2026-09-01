@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd01_020",
+  "PackNo": "D-TD01",
+  "CardName": "純粋の騎士テオドール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：あなたのライドフェイズにこのカードが手札から捨てられた時、このカードを(R)にコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

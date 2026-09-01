@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_071",
+  "PackNo": "D-TB04",
+  "CardName": "精霊進化蜥蜴郎",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる）,critical=クリティカル0,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

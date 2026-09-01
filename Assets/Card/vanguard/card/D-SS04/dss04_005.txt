@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss04_005",
+  "PackNo": "D-SS04",
+  "CardName": "アスリープ・メサイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "メサイア",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが「ネオンメサイア」からライドして登場した時、１枚引き、あなたは「オルターエゴ・メサイア」のクレストを得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

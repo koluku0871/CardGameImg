@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_085",
+  "PackNo": "D-BT13",
+  "CardName": "翔破の大鷹ハルヴィーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンにこのカードがカードの能力で手札から捨てられた時、【コスト】[【ソウルブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_081",
+  "PackNo": "BT12",
+  "CardName": "ディメンジョン・クリーパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ソウル】：[このカードをドロップゾーンに置く]あなたの《ダークイレギュラーズ》のヴァンガードがいるなら、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_099",
+  "PackNo": "DZ-BT10",
+  "CardName": "光駕の騎士エメラウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：クリティカル２以上のあなたのユニットがアタックした時、【コスト】[このユニットを退却させる]ことで、そのターン中、そのユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

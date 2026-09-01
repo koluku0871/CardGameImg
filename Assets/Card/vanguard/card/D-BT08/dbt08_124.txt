@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_124",
+  "PackNo": "D-BT08",
+  "CardName": "玲鱗の槍騎士リムズヴィート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが、(R)か(G)から退却した時、あなたのヴァンガードが【煌求者】なら、このカードをソウルに置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

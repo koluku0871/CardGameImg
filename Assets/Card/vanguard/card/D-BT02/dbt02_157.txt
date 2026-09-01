@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_157",
+  "PackNo": "D-BT02",
+  "CardName": "天音の楽士アルパック",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

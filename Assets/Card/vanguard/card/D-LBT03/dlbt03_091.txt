@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_091",
+  "PackNo": "D-LBT03",
+  "CardName": "幸運を詰め込んでロレーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのドロップに雑誌カードがあるなら、このユニットのパワー＋2000/シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

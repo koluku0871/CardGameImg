@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_058",
+  "PackNo": "D-TB04",
+  "CardName": "ビッグタッチダウンビッグガイ・ビル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「ハオ」を含むあなたのヴァンガードの能力で(R)からバインドされた時、【コスト】[【ソウルブラスト】(1)]することで、相手の前列のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

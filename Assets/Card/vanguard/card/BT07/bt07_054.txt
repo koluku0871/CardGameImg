@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_054",
+  "PackNo": "BT07",
+  "CardName": "エレメント・グライダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《グレートネイチャー》を【ブースト】したバトル中、アタックがヴァンガードにヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

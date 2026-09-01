@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_166",
+  "PackNo": "D-BT09",
+  "CardName": "柩機の竜エンバイロ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "0",
+  "CardRarity": "Re",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

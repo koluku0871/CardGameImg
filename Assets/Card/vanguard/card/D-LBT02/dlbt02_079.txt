@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_079",
+  "PackNo": "D-LBT02",
+  "CardName": "ほっと一息ファビオラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

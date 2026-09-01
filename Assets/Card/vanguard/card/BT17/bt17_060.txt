@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_060",
+  "PackNo": "BT17",
+  "CardName": "煉獄竜騎士サバー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがヴァンガードにアタックした時、このユニットと同じ縦列に相手のリアガードがいないなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

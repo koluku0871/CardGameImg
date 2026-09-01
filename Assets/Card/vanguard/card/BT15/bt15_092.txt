@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_092",
+  "PackNo": "BT15",
+  "CardName": "蒼嵐兵ミサイル・トルーパー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_023",
+  "PackNo": "BT15",
+  "CardName": "カースド・ランサー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《シャドウパラディン》のヴァンガードがいるなら、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

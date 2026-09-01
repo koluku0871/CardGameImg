@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_077",
+  "PackNo": "DZ-BT01",
+  "CardName": "砂塵の勇弾コンラッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、【コスト】[【エネルギーブラスト】(4)]することで、相手のリアガードを１枚選び、バインドする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

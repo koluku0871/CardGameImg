@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_061",
+  "PackNo": "D-TB03",
+  "CardName": "いたずら大好きコンチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、あなたのドロップから「いたずら大好きポンチ」を１枚まで選び、(R)にコールする。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

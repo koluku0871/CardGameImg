@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_030",
+  "PackNo": "BT04",
+  "CardName": "イニグマン・フロー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：「イニグマン・リプル」がこのユニットにライドした時、あなたの山札から「イニグマン・ウェーブ」を１枚まで探し、相手に見せ、手札に加え、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_109",
+  "PackNo": "D-PR",
+  "CardName": "ふぃでがおん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを【レスト】させる]ことで、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

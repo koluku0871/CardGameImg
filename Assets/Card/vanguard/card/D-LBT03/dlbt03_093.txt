@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_093",
+  "PackNo": "D-LBT03",
+  "CardName": "部員募集中！ミリセント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたのドロップからグレード２以上のユニットカードを１枚まで選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

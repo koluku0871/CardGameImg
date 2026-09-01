@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_116",
+  "PackNo": "D-LBT01",
+  "CardName": "果てしなき蒼",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "宝石",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=あなたのユニットを１枚選び、そのターン中、パワー＋5000。このカードをソウルに置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

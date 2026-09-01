@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd01_014",
+  "PackNo": "D-TD01",
+  "CardName": "斬獲怪人ブルスラッシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

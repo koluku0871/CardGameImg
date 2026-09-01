@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_044",
+  "PackNo": "BT03",
+  "CardName": "ブリッツ・リッター",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

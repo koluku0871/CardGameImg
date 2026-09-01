@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_472",
+  "PackNo": "D-PR",
+  "CardName": "overDress近導ユウユ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=【永】：このカードは「焔の巫女パラマ」としても扱う。【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_037",
+  "PackNo": "BT03",
+  "CardName": "オラクルガーディアンブルーアイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットが【ブースト】した時、あなたのソウルの《オラクルシンクタンク》が６枚以上なら、１枚引き、あなたの手札から１枚選び、山札の下に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

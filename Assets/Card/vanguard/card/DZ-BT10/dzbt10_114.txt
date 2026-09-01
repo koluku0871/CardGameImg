@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_114",
+  "PackNo": "DZ-BT10",
+  "CardName": "ピーサブルランチタイムプラシェ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードが「クリスレイン」を含むグレード３以上なら、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

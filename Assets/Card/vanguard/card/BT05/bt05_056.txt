@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_056",
+  "PackNo": "BT05",
+  "CardName": "忍獣リーフラクーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《むらくも》のヴァンガードを【ブースト】した時、あなたの手札が相手の手札より多いなら、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

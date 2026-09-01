@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_226",
+  "PackNo": "DZ-BT03",
+  "CardName": "ホッカホカ・ユズーユ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ドリアード",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【カウンターブラスト】(1)]することで、プラント・トークンを２枚まで(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_028",
+  "PackNo": "BT02",
+  "CardName": "大いなる賢者バロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのメインフェイズ中、あなたのカードがソウルに置かれた時、あなたの《ロイヤルパラディン》のヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

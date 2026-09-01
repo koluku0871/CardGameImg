@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_067",
+  "PackNo": "D-LBT01",
+  "CardName": "親衛隊長マルレーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたの(R)の〈ゴースト〉が３枚以上なら、このユニットのパワー＋2000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1762",
+  "PackNo": "D-PR",
+  "CardName": "シャルサーナの加護",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "防御",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=〈ダンジョンワールド〉【永】：守護者【コスト】[手札から１枚捨てる]ことでプレイできる！あなたのユニットを１枚選び、そのバトル中、ヒットされない。１枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

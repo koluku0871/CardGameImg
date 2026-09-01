@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs04_011",
+  "PackNo": "D-VS04",
+  "CardName": "フォールンダイブ・イーグル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：このユニットがインターセプトした時、相手のリアガードがアタックしているなら、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

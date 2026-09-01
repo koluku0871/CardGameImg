@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_082",
+  "PackNo": "DZ-BT02",
+  "CardName": "ダイアフルドールざいら",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、あなたのヴァンガードが「ダイアフルドール」を含むグレード３以上なら、【コスト】[このユニットをバインドする]ことで、【エネルギーチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

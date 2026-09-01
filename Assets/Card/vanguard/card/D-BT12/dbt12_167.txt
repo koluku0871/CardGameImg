@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_167",
+  "PackNo": "D-BT12",
+  "CardName": "ミッドナイト・リサイクリーナーズ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=あなたの山札を上から、あなたのオーダーゾーンのセットオーダーと同じ枚数見て、１枚選び、裏でバインドし、山札をシャッフルする。そのターン終了時、この効果でバインドされたカードを手札に加える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

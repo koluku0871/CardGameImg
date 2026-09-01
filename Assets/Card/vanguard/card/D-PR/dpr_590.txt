@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_590",
+  "PackNo": "D-PR",
+  "CardName": "ダイヴァゲイティング・チョッパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットがライドされた時、１枚引き、あなたの手札から１枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

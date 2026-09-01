@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "cg01_003",
+  "PackNo": "CG01",
+  "CardName": "神技の騎士ボーマン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_076",
+  "PackNo": "D-BT05",
+  "CardName": "ディヴァインシスターさんとのーれ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、【コスト】[【ソウルブラスト】(1)，手札からノーマルユニットを１枚公開し、山札の下に置く]ことで、１枚引く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

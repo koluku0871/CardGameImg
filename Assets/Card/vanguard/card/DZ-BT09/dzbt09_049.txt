@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_049",
+  "PackNo": "DZ-BT09",
+  "CardName": "異次元針の古代時計",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=あなたの手札からグレード１以上のユニットカードを１枚まで選び、公開して山札の下に置く。あなたの山札を上から７枚見て、公開されたカードのグレード－１のユニットカードを１枚まで選び、(R)にコールし、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

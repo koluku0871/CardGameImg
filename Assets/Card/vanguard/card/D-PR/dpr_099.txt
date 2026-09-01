@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_099",
+  "PackNo": "D-PR",
+  "CardName": "明察の魔法ププリラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのドライブチェックでトリガーユニットが出たバトル終了時、【コスト】[【カウンターブラスト】(1)，手札から２枚捨てる]ことで、２枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

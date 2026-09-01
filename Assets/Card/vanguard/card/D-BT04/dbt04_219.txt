@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_219",
+  "PackNo": "D-BT04",
+  "CardName": "樹角獣クースィー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【永】：このカードはライドできず、中央後列以外にコールできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "15000",
+  "Defense": "0"
+}

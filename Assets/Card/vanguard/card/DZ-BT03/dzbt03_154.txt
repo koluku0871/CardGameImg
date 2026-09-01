@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_154",
+  "PackNo": "DZ-BT03",
+  "CardName": "It'sallright.",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ぶいすぽっ！",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "EXC",
+  "Text": "effect=【ソウルチャージ】(1)してよい。あなたのユニットを１枚選び、そのターン中、パワー＋5000。そのターン終了時、【コスト】[手札から１枚捨てる]ことで、あなたのドロップから「It'sallright.」を１枚選び、手札に加える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

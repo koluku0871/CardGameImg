@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_104",
+  "PackNo": "D-TB02",
+  "CardName": "終極に至りし立身の天下人豊臣秀吉",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "サムライ",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストされた時、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(2)]することで、１枚引き、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

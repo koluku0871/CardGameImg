@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_051",
+  "PackNo": "BT16",
+  "CardName": "探索者ハロウドブレス・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

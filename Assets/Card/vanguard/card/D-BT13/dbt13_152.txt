@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_152",
+  "PackNo": "D-BT13",
+  "CardName": "明日に香る蕾を信じて",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=グレード１以下のあなたのリアガードが２枚以上ならプレイできる！アタックされているユニットを１枚選び、そのバトル中、パワー＋15000。このターンに相手のヴァンガードがカードの能力で登場しているなら、＋15000ではなく＋30000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_201",
+  "PackNo": "DZ-BT04",
+  "CardName": "エネルギー",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "SER",
+  "Text": "effect=-,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

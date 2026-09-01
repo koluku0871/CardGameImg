@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_080",
+  "PackNo": "D-BT04",
+  "CardName": "スチームハンターナヌール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのソウルが５枚以上なら、あなたのヴァンガードすべてのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

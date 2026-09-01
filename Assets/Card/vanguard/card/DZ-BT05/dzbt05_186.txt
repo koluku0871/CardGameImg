@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_186",
+  "PackNo": "DZ-BT05",
+  "CardName": "メガヴァーブ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが「トライアンフ・ドラゴン」を含むグレード３以上なら、このユニットは『インターセプト』を得て、後列からでもインターセプトでき、シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

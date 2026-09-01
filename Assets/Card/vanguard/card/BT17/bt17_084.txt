@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_084",
+  "PackNo": "BT17",
+  "CardName": "輝線の星輝兵アンチモン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、相手の呪縛カードが２枚以上なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

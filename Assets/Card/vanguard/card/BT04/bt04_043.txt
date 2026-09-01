@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_043",
+  "PackNo": "BT04",
+  "CardName": "黒の賢者カロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

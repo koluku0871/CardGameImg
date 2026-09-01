@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_055",
+  "PackNo": "BT16",
+  "CardName": "魔竜喧嘩屋カドルー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたのヴァンガードが【双闘】しているなら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

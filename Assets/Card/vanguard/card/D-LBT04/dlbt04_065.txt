@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_065",
+  "PackNo": "D-LBT04",
+  "CardName": "ブチアゲアテンションカーリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのライドデッキに、あなたのヴァンガードと同名の表のカードがあるなら、このユニットのパワー＋10000。（相手ターンも有効）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

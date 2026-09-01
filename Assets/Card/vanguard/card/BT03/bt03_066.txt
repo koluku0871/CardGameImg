@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_066",
+  "PackNo": "BT03",
+  "CardName": "ぼーるがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたのソウルの《ロイヤルパラディン》が６枚以上なら、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

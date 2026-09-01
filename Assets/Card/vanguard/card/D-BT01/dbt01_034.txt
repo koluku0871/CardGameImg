@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_034",
+  "PackNo": "D-BT01",
+  "CardName": "シャドウリーク・マジシャン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このユニットは相手のカードの効果で選べない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

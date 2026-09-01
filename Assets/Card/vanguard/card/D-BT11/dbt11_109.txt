@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_109",
+  "PackNo": "D-BT11",
+  "CardName": "ヒラタクワガタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ムシ",
+  "Cost": "1",
+  "CardRarity": "EX",
+  "Text": "effect=必殺わざ：ハサミ超必殺わざ：カワセミハッグ【体長】７５ミリメートル【生まれたところ】日本【せいかく】アタックタイプ【学名】DorcusTitanusたいりょく：100ダゲキわざ：35ハサミわざ：70ナゲわざ：35テクニック：90つよさ：120,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

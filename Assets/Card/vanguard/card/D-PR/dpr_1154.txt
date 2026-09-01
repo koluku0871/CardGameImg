@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1154",
+  "PackNo": "D-PR",
+  "CardName": "ダイアフルドールべさにー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

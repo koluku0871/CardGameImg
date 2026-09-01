@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_128",
+  "PackNo": "DZ-BT07",
+  "CardName": "尋常の騎士フェルグス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、あなたのヴァンガードがグレード３以上で、あなたのユニットが５枚以上なら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_107",
+  "PackNo": "D-LBT02",
+  "CardName": "染み入る優しさパライネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】：あなたのバトルフェイズにこのユニットが(R)に登場した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

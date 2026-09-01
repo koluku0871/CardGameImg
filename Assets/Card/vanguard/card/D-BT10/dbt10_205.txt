@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_205",
+  "PackNo": "D-BT10",
+  "CardName": "出動！お掃除三姉妹！",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【オーダーゾーン】：あなたのターン中、あなたの前列のユニットすべてのパワー＋2000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

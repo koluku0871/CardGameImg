@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_073",
+  "PackNo": "BT03",
+  "CardName": "ビクトリー・メーカー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_074",
+  "PackNo": "BT16",
+  "CardName": "サブリミナル・グレイ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[【ソウルブラスト】(1)，このユニットを山札の下に置く]１枚引き、あなたの山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_068",
+  "PackNo": "BT04",
+  "CardName": "ガーネット・ドラゴン“閃光”",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《かげろう》を１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

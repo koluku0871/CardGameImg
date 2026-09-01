@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs02_073",
+  "PackNo": "D-VS02",
+  "CardName": "テーピング・キャット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：このユニットが(R)から退却した時か、このカードが山札から捨てられた時、【コスト】[【ソウルブラスト】(1)]することで、以下のどちらかを行う。・１枚引く。・あなたのリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

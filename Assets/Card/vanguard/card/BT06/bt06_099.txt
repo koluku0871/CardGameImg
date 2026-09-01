@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_099",
+  "PackNo": "BT06",
+  "CardName": "マーベラス・ハニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、他のあなたの《ノヴァグラップラー》のリアガードが４枚以上なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

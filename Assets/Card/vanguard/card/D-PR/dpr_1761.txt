@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1761",
+  "PackNo": "D-PR",
+  "CardName": "闘気四方陣",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "闘気",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=〈デンジャーワールド〉【永】：守護者【コスト】[手札から１枚捨てる]ことでプレイできる！あなたのユニットを１枚選び、そのバトル中、ヒットされない。そのターン中、あなたのヴァンガードのパワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

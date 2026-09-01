@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_183",
+  "PackNo": "D-BT12",
+  "CardName": "花めく蕾に祝福を",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=そのターン中、元々のパワーが5000以下のあなたのユニットすべてのパワー＋10000し、『【自】【(R)】：このユニットのアタックがヒットした時、このユニットを手札に戻してよい。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

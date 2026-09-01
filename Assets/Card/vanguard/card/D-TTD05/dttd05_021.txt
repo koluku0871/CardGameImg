@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd05_021",
+  "PackNo": "D-TTD05",
+  "CardName": "巨大な慈愛アダム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "人類",
+  "Cost": "2",
+  "CardRarity": "RGR",
+  "Text": "effect=【永】【(G)】：あなたのヴァンガードがグレード３以上の、〈人類〉か〈戦乙女〉なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

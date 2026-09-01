@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_057",
+  "PackNo": "DZ-BT10",
+  "CardName": "グルガオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【後列の(R)】：あなたの後列にグレード１以下のリアガードが３枚以上なら、このユニットのパワー＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

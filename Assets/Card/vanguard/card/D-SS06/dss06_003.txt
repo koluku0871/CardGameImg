@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss06_003",
+  "PackNo": "D-SS06",
+  "CardName": "インシジョン・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットがライドされた時、１枚引き、あなたの手札から１枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

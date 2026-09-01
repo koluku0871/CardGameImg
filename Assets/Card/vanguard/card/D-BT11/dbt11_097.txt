@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_097",
+  "PackNo": "D-BT11",
+  "CardName": "ブレスドレイン・フェアリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ドロップ】：「シュルドフィッシャー」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)]することで、このカードを(R)にコールし、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

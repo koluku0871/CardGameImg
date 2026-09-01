@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_097",
+  "PackNo": "DZ-BT08",
+  "CardName": "走破の獣牙スーヴリンド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのバインドゾーンに「反抗黎騎」を含むカードがあるなら、このユニットは『インターセプト』を得て、後列からでもインターセプトでき、パワー＋2000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

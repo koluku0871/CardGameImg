@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_053",
+  "PackNo": "D-BT02",
+  "CardName": "袖引く麗人",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのバインドゾーンのカードすべてをドロップに置いてよい。置いたら、置いたカード１枚につき、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

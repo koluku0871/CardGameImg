@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_935",
+  "PackNo": "D-PR",
+  "CardName": "ホロウ・ラプター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「ヴェイカント・ファング」にライドされた時、あなたの山札を上から３枚公開し、その中からグレード１以上すべてをソウルに置き、残りを山札の下に望む順で置く。２枚以上ソウルに置いたなら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

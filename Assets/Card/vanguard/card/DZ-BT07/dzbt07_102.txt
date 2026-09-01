@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_102",
+  "PackNo": "DZ-BT07",
+  "CardName": "魔竜仙女カダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：このターンにあなたがブリッツオーダーをプレイしているなら、このユニットは『インターセプト』を得て、後列からでもインターセプトでき、シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_050",
+  "PackNo": "DZ-BT08",
+  "CardName": "三人寄らば悪鬼の悪知恵",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=あなたのドロップから１枚まで選び、そのカードとこのカードをソウルに置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

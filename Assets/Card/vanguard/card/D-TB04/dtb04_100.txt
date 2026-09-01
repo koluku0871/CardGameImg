@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_100",
+  "PackNo": "D-TB04",
+  "CardName": "ウルトラリーゼントによろしく木刀の竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "SKR",
+  "Text": "effect=【自】【(R)】【ターン1回】：「麻倉葉」か「ファウストⅧ世」を含む、グレード３以上のあなたのヴァンガードのアタックがヴァンガードにヒットした時、【コスト】[【ソウルブラスト】(2)]することで、このユニットを【スタンド】させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

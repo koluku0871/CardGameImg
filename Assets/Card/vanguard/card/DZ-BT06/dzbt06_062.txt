@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_062",
+  "PackNo": "DZ-BT06",
+  "CardName": "前駆の騎士テルアンティウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【前列の(R)】：あなたのバトルフェイズ開始時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、あなたの中央列のグレード３以上のユニットすべてのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

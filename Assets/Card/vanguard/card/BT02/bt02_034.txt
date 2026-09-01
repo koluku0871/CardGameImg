@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_034",
+  "PackNo": "BT02",
+  "CardName": "翼竜スカイプテラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(R)からドロップゾーンに置かれた時、あなたの《たちかぜ》のヴァンガードがいるなら、コストを払ってよい。払ったら、このカードを手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

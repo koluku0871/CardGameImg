@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_056",
+  "PackNo": "BT09",
+  "CardName": "忍妖リバーチャイルド",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ギルマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れられない。）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_019",
+  "PackNo": "D-BT05",
+  "CardName": "パーフォレイトバーナー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：あなたのバトルフェイズにこのカードが手札から捨てられた時、このカードをソウルに置き、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

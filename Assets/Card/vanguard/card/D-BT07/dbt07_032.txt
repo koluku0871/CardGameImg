@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_032",
+  "PackNo": "D-BT07",
+  "CardName": "装突竜ヴァルサヴル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "プレアドラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このカードがドレス元になった時、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップからグレード１以下の〈プレアドラゴン〉を１枚選び、(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

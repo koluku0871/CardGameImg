@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_054",
+  "PackNo": "D-BT07",
+  "CardName": "焔の巫女シエンナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、ドレス元を２枚以上持つあなたのリアガードがいるなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

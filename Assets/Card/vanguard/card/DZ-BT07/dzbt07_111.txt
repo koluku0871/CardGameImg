@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_111",
+  "PackNo": "DZ-BT07",
+  "CardName": "クワーキィ・スクレイパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのヴァンガードがグレード３以上で、このターンにいずれかのカードがあなたのカードの能力でソウルに置かれているなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

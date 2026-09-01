@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_125",
+  "PackNo": "DZ-BT03",
+  "CardName": "ラフティング・フェアリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたのリアガードがあなたのカードの能力で３枚以上登場しているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

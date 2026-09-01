@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_034",
+  "PackNo": "BT17",
+  "CardName": "閃銃の星輝兵オスミウム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、相手の呪縛カードを１枚選び、そのカードは、次の相手のエンドフェイズ中、解呪されない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_051",
+  "PackNo": "D-LBT03",
+  "CardName": "赫い咲き荒ぶ呪華",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "呪術演出",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=「ルーテシア」を含むあなたのヴァンガードがいるならプレイできる！このカードをソウルに置き、【ソウルチャージ】(1)。あなたのソウルから、あなたのヴァンガードのグレード以下を１枚まで選び、(R)にコールし、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

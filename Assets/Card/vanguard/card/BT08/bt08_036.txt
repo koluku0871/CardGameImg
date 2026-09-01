@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_036",
+  "PackNo": "BT08",
+  "CardName": "ティアーナイトラザロス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

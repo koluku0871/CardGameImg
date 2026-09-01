@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_066",
+  "PackNo": "BT16",
+  "CardName": "キャノンライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「ライザー」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

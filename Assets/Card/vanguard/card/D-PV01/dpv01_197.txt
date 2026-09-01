@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_197",
+  "PackNo": "D-PV01",
+  "CardName": "磁気嵐のレディボンバー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのヴァンガードが〈メサイア〉なら、【コスト】[手札からグレード１以上を１枚(R)に呪縛カードとして置く]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

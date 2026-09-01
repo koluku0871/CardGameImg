@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_112",
+  "PackNo": "DZ-BT02",
+  "CardName": "虚空を満たせよ屍の呪印",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたのヴァンガードが「ゾルガ」を含み【ディヴァインスキル】を持つならプレイできる！あなたのヴァンガードを１枚選び、そのターン中、『【永】【(V)】：このターンにドロップから登場したあなたのリアガードすべてのパワー＋5000。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

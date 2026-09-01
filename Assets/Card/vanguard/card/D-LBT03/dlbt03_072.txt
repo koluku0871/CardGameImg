@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_072",
+  "PackNo": "D-LBT03",
+  "CardName": "リフレッシュブリーズアイル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：「メディエール」を含むあなたのヴァンガードがアタックされているバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

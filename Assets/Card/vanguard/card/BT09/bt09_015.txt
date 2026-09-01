@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_015",
+  "PackNo": "BT09",
+  "CardName": "風魔天神ヴァーユ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ノーブル",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)】：[【カウンターブラスト】(1)]このユニットがアタックした時、コストを払ってよい。払ったら、そのバトル中、あなたの(R)の「風魔天神ヴァーユ」１枚につき、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

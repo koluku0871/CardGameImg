@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_100",
+  "PackNo": "BT17",
+  "CardName": "蒼嵐兵テンペスト・ボーダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが【ブースト】したバトルの終了時、あなたのヴァンガードが【双闘】しているなら、あなたのリアガードを２枚選び、位置を交換する。（カードの向きは変わらない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

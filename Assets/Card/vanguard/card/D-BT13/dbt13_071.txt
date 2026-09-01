@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_071",
+  "PackNo": "D-BT13",
+  "CardName": "クラフティ・ロード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)からソウルに置かれた時、【コスト】[【カウンターブラスト】(1)]することで、あなたの山札から「フィアロウ・リテイナー」を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

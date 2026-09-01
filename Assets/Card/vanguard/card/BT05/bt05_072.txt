@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_072",
+  "PackNo": "BT05",
+  "CardName": "マシラドロイド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[【カウンターブラスト】(1)]あなたの《ノヴァグラップラー》のヴァンガードがいるなら、このユニットを【スタンド】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

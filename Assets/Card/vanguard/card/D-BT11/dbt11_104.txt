@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_104",
+  "PackNo": "D-BT11",
+  "CardName": "ヘルクレスオオカブト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ムシ",
+  "Cost": "3",
+  "CardRarity": "EX",
+  "Text": "effect=必殺わざ：ナゲ超必殺わざ：ローリングドライバー【体長】１７５ミリメートル【生まれたところ】ブラジル【せいかく】バランスタイプ【学名】DynastesHerculesたいりょく：200ダゲキわざ：50ハサミわざ：50ナゲわざ：100テクニック：30つよさ：200,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

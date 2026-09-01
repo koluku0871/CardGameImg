@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_132",
+  "PackNo": "DZ-BT09",
+  "CardName": "一緒に叫ぶぞ必殺技の名を!!勇気一刀流奥義！ブレイブゥウウザァーーン!!",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "勇気爆発バーンブレイバーン",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt11_035",
+  "PackNo": "BT11",
+  "CardName": "古代竜クリオロフォール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

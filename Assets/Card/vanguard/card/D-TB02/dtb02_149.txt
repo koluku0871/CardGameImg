@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_149",
+  "PackNo": "D-TB02",
+  "CardName": "光をもたらす者ルシファー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "妖精族",
+  "Cost": "0",
+  "CardRarity": "MSR極",
+  "Text": "effect=追加効果－以下を１つ行う。・そのターン中、あなたのリアガードすべてのパワー＋10000。・あなたのダメージゾーンから１枚選び、回復する。,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

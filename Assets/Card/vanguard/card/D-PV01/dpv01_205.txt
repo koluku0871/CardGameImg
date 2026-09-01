@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_205",
+  "PackNo": "D-PV01",
+  "CardName": "チクタク・ワーカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆時翔-【自】【(R)】【Gブレイク】(1)：あなたの他のリアガードがアタックしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、そのユニットをタイムリープさせる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

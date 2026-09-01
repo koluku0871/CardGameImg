@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_085",
+  "PackNo": "DZ-BT08",
+  "CardName": "存在指標の繋ぎ手",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが手札から(G)に置かれた時、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップから【超】以外のトリガーユニットを１枚選び、(G)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

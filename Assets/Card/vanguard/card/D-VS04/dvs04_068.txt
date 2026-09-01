@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs04_068",
+  "PackNo": "D-VS04",
+  "CardName": "スケルトンの航海士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "スケルトン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【(R)】：【コスト】[リアガードを２枚【レスト】させる]ことで、あなたの山札を上から５枚捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

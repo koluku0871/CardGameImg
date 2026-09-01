@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_036",
+  "PackNo": "BT07",
+  "CardName": "求愛のサキュバス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットが《ダークイレギュラーズ》を【ブースト】したバトル中、アタックがヴァンガードにヒットした時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

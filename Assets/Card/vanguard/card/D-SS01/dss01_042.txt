@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_042",
+  "PackNo": "D-SS01",
+  "CardName": "天裂の騎士リーヴ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

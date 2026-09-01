@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd03_009",
+  "PackNo": "D-TTD03",
+  "CardName": "傾国の妖狐姫妲己",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "魔人",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットがブーストされた時、ヴァンガードにアタックしているなら、【コスト】[【カウンターブラスト】(1)]することで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

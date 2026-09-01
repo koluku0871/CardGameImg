@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_113",
+  "PackNo": "DZ-BT07",
+  "CardName": "ビヘッド・ブルアンガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたが合計【エネルギーチャージ】(4)以上しているなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_095",
+  "PackNo": "D-BT10",
+  "CardName": "クウェン・サーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ドリアード",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、グレード０のあなたのリアガードがいるなら、【ソウルチャージ】(1)し、グレード０のあなたのリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

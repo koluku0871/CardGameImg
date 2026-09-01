@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_039",
+  "PackNo": "BT03",
+  "CardName": "デスアーミー・レディ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードのドライブチェックでグレード３の《ノヴァグラップラー》がでた時、このユニットを【スタンド】する。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

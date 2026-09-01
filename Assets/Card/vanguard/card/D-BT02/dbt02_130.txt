@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_130",
+  "PackNo": "D-BT02",
+  "CardName": "ドラゴンモンクゴジョー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ギルマン",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードをブーストしたアタックがヒットした時、【コスト】[このユニットを退却させる]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

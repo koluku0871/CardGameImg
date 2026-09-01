@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_090",
+  "PackNo": "DZ-BT03",
+  "CardName": "忍獣ロクライ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、あなたのヴァンガードが「猩々童子」を含むグレード３以上なら、【コスト】[手札から１枚ソウルに置く]ことで、相手の表のバインドゾーンから１枚選び、ドロップに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

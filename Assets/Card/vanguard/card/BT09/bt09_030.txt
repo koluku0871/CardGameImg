@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_030",
+  "PackNo": "BT09",
+  "CardName": "戦巫女サヨリヒメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「アマテラス」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

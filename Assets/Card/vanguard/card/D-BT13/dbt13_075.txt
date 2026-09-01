@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_075",
+  "PackNo": "D-BT13",
+  "CardName": "ブリッツセキュリティチーフヘルムージ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたがプロダクトを稼働させた時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

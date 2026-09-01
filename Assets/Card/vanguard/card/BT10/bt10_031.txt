@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_031",
+  "PackNo": "BT10",
+  "CardName": "戦巫女タツタヒメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[【カウンターブラスト】(2)]このユニットが《ジェネシス》を【ブースト】したバトル中、アタックがヴァンガードにヒットした時、コストを払ってよい。払ったら、【ソウルチャージ】(3)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

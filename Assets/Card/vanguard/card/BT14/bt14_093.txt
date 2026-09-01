@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_093",
+  "PackNo": "BT14",
+  "CardName": "轟く雷弓ザフラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《なるかみ》のヴァンガードがいるなら、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1242",
+  "PackNo": "D-PR",
+  "CardName": "エネルギー",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

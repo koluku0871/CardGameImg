@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_075",
+  "PackNo": "D-BT04",
+  "CardName": "渦雷を帯びるギアイランド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：あなたのソウルにグレード３が２枚以上なら、【コスト】[手札から１枚捨てる]ことで、そのターン中、このユニットのパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

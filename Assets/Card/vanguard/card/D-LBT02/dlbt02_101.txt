@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_101",
+  "PackNo": "D-LBT02",
+  "CardName": "心弾む指先エデルガルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、〈ゴースト〉のあなたの他のリアガード１枚につき、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

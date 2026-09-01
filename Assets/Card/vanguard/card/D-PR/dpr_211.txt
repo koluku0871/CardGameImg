@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_211",
+  "PackNo": "D-PR",
+  "CardName": "ボルトシェイカー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのターンに相手のリアガードが退却した時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

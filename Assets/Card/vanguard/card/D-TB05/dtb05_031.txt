@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_031",
+  "PackNo": "D-TB05",
+  "CardName": "破壊＆創造の神シヴァ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "神",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(G)】：あなたのヴァンガードが〈神〉で、相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

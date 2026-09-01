@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_095",
+  "PackNo": "D-BT13",
+  "CardName": "散華の騎士アルレス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、「グリフォギィラ」を含むあなたのヴァンガードがいるなら、【コスト】[手札から１枚捨てる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

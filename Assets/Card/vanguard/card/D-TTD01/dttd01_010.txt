@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd01_010",
+  "PackNo": "D-TTD01",
+  "CardName": "にっかり青江",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

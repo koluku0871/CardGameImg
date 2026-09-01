@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_105",
+  "PackNo": "DZ-BT07",
+  "CardName": "浄界の神楽鈴",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=（セットオーダーはプレイ後、オーダーゾーンに置く）【起】【オーダーゾーン】：【コスト】[【ソウルブラスト】(1)，このカードを【レスト】させる]ことで、あなたのリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

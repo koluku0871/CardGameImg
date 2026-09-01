@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_092",
+  "PackNo": "D-BT06",
+  "CardName": "二角月灯の女魔術師",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：「女魔術師」を含むあなたのヴァンガードがいるなら、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

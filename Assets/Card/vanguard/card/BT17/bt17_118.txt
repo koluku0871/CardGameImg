@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_118",
+  "PackNo": "BT17",
+  "CardName": "煉獄竜ワールウインド・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "LR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「煉獄」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

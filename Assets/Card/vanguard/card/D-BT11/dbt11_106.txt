@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_106",
+  "PackNo": "D-BT11",
+  "CardName": "セアカフタマタクワガタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ムシ",
+  "Cost": "2",
+  "CardRarity": "EX",
+  "Text": "effect=必殺わざ：ハサミ超必殺わざ：ローリングクラッチホールド【体長】９２ミリメートル【生まれたところ】タイ・マレー半島【せいかく】アタックタイプ【学名】HexarthriusParryiたいりょく：140ダゲキわざ：45ハサミわざ：90ナゲわざ：45テクニック：60つよさ：160,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

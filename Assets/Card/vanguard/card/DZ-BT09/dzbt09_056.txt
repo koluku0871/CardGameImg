@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_056",
+  "PackNo": "DZ-BT09",
+  "CardName": "イミュナイジング・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたがブリッツオーダーをプレイした時、【コスト】[【エネルギーブラスト】(2)]することで、このユニットを(G)に移動させ、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_149",
+  "PackNo": "DZ-BT05",
+  "CardName": "あみあげブーツ",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "オシャレまほうカード",
+  "Cost": "1",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

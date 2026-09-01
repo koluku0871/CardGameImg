@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss05_097",
+  "PackNo": "D-SS05",
+  "CardName": "戦禍の騎士フォサド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "Re",
+  "Text": "effect=【永】【(R)】：このユニットは相手のカードの効果で選べない。【自】【(R)】：このユニットのアタックがヒットした時、【カウンターチャージ】(1)/【ソウルチャージ】(1)。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

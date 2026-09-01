@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_163",
+  "PackNo": "D-TB03",
+  "CardName": "待ってて！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたの山札を上から２枚見て、１枚選び、手札に加え、残りをソウルに置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

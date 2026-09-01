@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_724",
+  "PackNo": "D-PR",
+  "CardName": "揺魂の歌姫モネット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「パシフィカ」を含むグレード３にライドされた時、あなたのヴァンガードを１枚選び、そのターン中、そのユニットが元々持つ【起】能力のコストは【カウンターブラスト】(1)減る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

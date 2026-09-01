@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_072",
+  "PackNo": "BT03",
+  "CardName": "バトルシスターばにら",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に登場した時、あなたのソウルの《オラクルシンクタンク》が６枚以上なら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

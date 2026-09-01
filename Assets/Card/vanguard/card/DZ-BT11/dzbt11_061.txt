@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_061",
+  "PackNo": "DZ-BT11",
+  "CardName": "幸運の響鳴シャレアンス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットが、アタックかブーストした時、あなたのヴァンガードが【ユニゾンドレス】状態なら、このユニットと同じ縦列のあなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

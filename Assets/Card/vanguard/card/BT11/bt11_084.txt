@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt11_084",
+  "PackNo": "BT11",
+  "CardName": "古代竜ディノダイル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《たちかぜ》のヴァンガードがいるなら、あなたのダメージゾーンから１枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

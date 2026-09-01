@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_076",
+  "PackNo": "D-LBT04",
+  "CardName": "燈霊の歌姫アナイス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたの山札を上から７枚見て、「パシフィカ」を含むカードを２枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

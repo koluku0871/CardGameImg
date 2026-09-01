@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_098",
+  "PackNo": "BT09",
+  "CardName": "封神童子ソウコウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【永】【(V)/(R)】：拘束（このユニットはアタックできない。）【永】【(R)】：このユニットはリアガードを【ブースト】できない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

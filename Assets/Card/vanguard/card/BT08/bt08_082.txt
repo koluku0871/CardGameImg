@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_082",
+  "PackNo": "BT08",
+  "CardName": "竜鳥ファイヤープテリクス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

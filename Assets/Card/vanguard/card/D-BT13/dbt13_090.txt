@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_090",
+  "PackNo": "D-BT13",
+  "CardName": "歩み続ける結束エンレイザ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが【ユニゾンドレス】状態なら、このユニットは相手のカードの効果で選べず、パワー＋10000/シールド＋10000。(相手ターンも有効),critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

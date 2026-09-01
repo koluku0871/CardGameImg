@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss05_035",
+  "PackNo": "D-SS05",
+  "CardName": "忍竜ヤミタグリ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

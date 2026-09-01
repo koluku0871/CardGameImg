@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_669",
+  "PackNo": "D-PR",
+  "CardName": "爆砲竜ブラキオフォース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、【コスト】[このユニットを退却させる]ことで、１枚引き、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

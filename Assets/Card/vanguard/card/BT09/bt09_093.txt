@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_093",
+  "PackNo": "BT09",
+  "CardName": "烈風の神聖魔道士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、他のあなたのグレード３の《ゴールドパラディン》を１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

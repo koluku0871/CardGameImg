@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_052",
+  "PackNo": "D-TB06",
+  "CardName": "愛を成すものシュリンガーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "幻妖",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのソウルの“轟絶-異形なる感情-”のユニットカードの枚数により、このユニットは以下すべてを得る。・３枚以上-パワー＋5000。・６枚以上-『ブースト』。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

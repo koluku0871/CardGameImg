@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_142",
+  "PackNo": "DZ-BT01",
+  "CardName": "星が瞬く、こんな夜には",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【エネルギーブラスト】(2)]することでプレイできる！このターンにあなたのリアガードが相手のカードの効果で(R)以外に置かれているなら、アタックされているあなたのユニットを１枚選び、そのバトル中、パワー＋25000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

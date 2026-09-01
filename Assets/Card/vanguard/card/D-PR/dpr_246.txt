@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_246",
+  "PackNo": "D-PR",
+  "CardName": "デザイアデビルヒーコウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【ソウル】：「グリードン」を含むグレード３以上のあなたのヴァンガードがアタックした時、【コスト】[ソウルから他の「デザイアデビルヒーコウ」を１枚表でバインドする]ことで、このカードを後列の(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

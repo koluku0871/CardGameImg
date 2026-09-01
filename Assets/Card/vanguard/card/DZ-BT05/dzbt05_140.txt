@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_140",
+  "PackNo": "DZ-BT05",
+  "CardName": "マリンヘア",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "オシャレまほうカード",
+  "Cost": "3",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

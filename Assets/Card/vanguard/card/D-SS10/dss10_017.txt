@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss10_017",
+  "PackNo": "D-SS10",
+  "CardName": "プリザヴェイション・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(R)/(G)】儀式３（あなたのドロップにグレード１が３枚以上で有効）：このユニットは『インターセプト』を得て、シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

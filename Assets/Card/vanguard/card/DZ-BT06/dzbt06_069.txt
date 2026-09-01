@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_069",
+  "PackNo": "DZ-BT06",
+  "CardName": "高貴の乙女ジェルミーユ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのユニットがアタックされた時、【コスト】[アタックされていないトークンユニットを１枚退却させる]ことで、アタックされているユニットを１枚選び、そのバトル中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

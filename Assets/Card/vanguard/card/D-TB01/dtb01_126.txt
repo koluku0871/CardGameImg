@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_126",
+  "PackNo": "D-TB01",
+  "CardName": "信濃藤四郎",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヒットした時、【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

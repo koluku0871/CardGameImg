@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1384",
+  "PackNo": "D-PR",
+  "CardName": "ミニキャラ六王院スズネぷんすか",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【永】：このカードは「TwoOfUsライム」として扱う。【自】：このユニットが(G)に置かれた時、アタックしている相手のユニットが、このターン２回以上アタックしているなら、そのバトル中、このユニットのシールド＋15000。,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

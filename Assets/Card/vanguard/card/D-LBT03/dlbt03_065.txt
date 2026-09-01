@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_065",
+  "PackNo": "D-LBT03",
+  "CardName": "情報通フェデルマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：このターンにあなたが雑誌オーダーをプレイしているなら、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

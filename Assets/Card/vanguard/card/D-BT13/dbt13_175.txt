@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_175",
+  "PackNo": "D-BT13",
+  "CardName": "進む決意高松燈",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "MyGO!!!!!",
+  "Cost": "2",
+  "CardRarity": "EXC",
+  "Text": "effect=【自】：このユニットが「イノセントクライ高松燈」にライドされた時、あなたの山札を上から７枚見て、〈MyGO!!!!!〉を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

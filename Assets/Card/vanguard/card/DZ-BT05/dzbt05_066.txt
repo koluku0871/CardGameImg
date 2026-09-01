@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_066",
+  "PackNo": "DZ-BT05",
+  "CardName": "明々海遊ナージェイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが「マリレーン」を含むグレード３以上なら、このユニットは『インターセプト』を得て、後列からでもインターセプトでき、シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

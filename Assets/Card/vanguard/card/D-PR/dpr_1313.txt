@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1313",
+  "PackNo": "D-PR",
+  "CardName": "輝く光彩桐ヶ谷透子",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Morfonica",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【左前列の(R)】：「倉田ましろ」を含むあなたのヴァンガードがアタックした時か、あなたのドライブチェックでトリガーユニットが出た時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

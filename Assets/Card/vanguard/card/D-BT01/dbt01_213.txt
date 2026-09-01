@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_213",
+  "PackNo": "D-BT01",
+  "CardName": "夜影兵",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "トークンユニット/夜影兵",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=（これは夜影兵・トークンを表すカードであり、デッキには入れられない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "15000",
+  "Defense": "0"
+}

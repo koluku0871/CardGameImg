@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_057",
+  "PackNo": "D-LBT02",
+  "CardName": "うぇいきー・わーるどエリサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、このターンにあなたの「爛漫はぴねす」が歌われているなら、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

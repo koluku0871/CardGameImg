@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_128",
+  "PackNo": "D-LBT02",
+  "CardName": "ピクチャレスクルアーナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

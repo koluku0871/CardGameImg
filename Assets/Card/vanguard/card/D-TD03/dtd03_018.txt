@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd03_018",
+  "PackNo": "D-TD03",
+  "CardName": "影弓の射手リサーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

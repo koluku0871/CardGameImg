@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_113",
+  "PackNo": "D-TB04",
+  "CardName": "X-LAWSミイネ・モンゴメリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "SKR",
+  "Text": "effect=【永】【(R)】：「ジャンヌ」を含むあなたのヴァンガードがいるなら、このユニットは後列からでもインターセプトできる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

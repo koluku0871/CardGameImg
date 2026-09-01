@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_094",
+  "PackNo": "D-LBT04",
+  "CardName": "アンシアブル・エクステリア",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=ユニットのいないあなたの(R)が３つ以上ならプレイできる！アタックされているユニットを１枚選び、そのバトル中、パワー＋15000。このターンに相手のヴァンガードがカードの能力で登場しているなら、＋15000ではなく＋30000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

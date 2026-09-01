@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt12_092",
+  "PackNo": "DZ-BT12",
+  "CardName": "高遠の騎士サブリーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【前列の(R)】：あなたの前列に他のリアガードがいないなら、このユニットは相手のカードの効果で選べず、アタックされない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

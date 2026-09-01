@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd06_008",
+  "PackNo": "D-SD06",
+  "CardName": "護衛忍竜ハヤシカゼ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "SD",
+  "Text": "effect=【永】：守護者（守護者を持つカードはデッキに合計４枚まで入れられる）【自】：このユニットが(G)に置かれた時、【コスト】[手札から１枚捨てる]ことで、あなたのユニットを１枚選び、そのバトル中、ヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "0"
+}

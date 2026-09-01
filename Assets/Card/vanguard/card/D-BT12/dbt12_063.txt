@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_063",
+  "PackNo": "D-BT12",
+  "CardName": "月に願いを",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたのドロップから「トリクムーン」を１枚選び、(R)にコールし、そのターン中、『【自】：このカードがドレス元になった時、このカードのドレス先のユニットを１枚選び、そのターン中、パワー＋10000。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

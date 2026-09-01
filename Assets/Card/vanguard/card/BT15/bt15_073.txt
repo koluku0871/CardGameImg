@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_073",
+  "PackNo": "BT15",
+  "CardName": "刻印の星輝兵プラセオジム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの《リンクジョーカー》のヴァンガードがいるなら、あなたのカード名に「Я」を含むリアガードのカード名１種につき、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

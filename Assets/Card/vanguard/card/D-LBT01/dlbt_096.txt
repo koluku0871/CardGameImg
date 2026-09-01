@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_096",
+  "PackNo": "D-LBT01",
+  "CardName": "元気爆発ユスティネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、【コスト】[【ソウルブラスト】(1)]することで、このカードをユニットのいない(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

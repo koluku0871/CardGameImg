@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_114",
+  "PackNo": "D-BT04",
+  "CardName": "暗晦潜り",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "スケルトン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが、(V)か(R)に登場した時か(G)に置かれた時、【コスト】[【ソウルブラスト】(1)，手札からオーダーカードを１枚捨てる]ことで、１枚引き、そのターン中、このユニットのパワー＋5000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

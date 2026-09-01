@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_218",
+  "PackNo": "D-LBT01",
+  "CardName": "憧れのお姉様フェルティローザ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

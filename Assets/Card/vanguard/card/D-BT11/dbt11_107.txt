@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_107",
+  "PackNo": "D-BT11",
+  "CardName": "ネプチューンオオカブト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ムシ",
+  "Cost": "2",
+  "CardRarity": "EX",
+  "Text": "effect=必殺わざ：ナゲ超必殺わざ：サイドスクリュースロー【体長】１５３ミリメートル【生まれたところ】コロンビア【せいかく】バランスタイプ【学名】DynastesNeptunusたいりょく：160ダゲキわざ：40ハサミわざ：40ナゲわざ：80テクニック：60つよさ：160,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

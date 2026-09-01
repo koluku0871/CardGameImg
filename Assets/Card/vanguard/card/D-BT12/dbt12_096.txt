@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_096",
+  "PackNo": "D-BT12",
+  "CardName": "薔薇領の住人チップマース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのカードの能力のコストで、プラントゲージが同時に３枚以上捨てられた時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

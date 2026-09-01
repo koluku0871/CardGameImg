@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd01_019",
+  "PackNo": "D-TTD01",
+  "CardName": "今剣",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】：守護者【自】：このユニットが(G)に置かれた時、【コスト】[手札から１枚捨てる]ことで、あなたのユニットを１枚選び、そのバトル中、ヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "0"
+}

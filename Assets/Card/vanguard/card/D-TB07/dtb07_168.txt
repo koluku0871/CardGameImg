@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb07_168",
+  "PackNo": "D-TB07",
+  "CardName": "日向正宗極",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、このターンにあなたのヴァンガードがアタックしていないなら、あなたの山札を上から１枚見て、山札の上か下に置く。下に置いたら、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

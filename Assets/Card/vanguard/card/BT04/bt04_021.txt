@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_021",
+  "PackNo": "BT04",
+  "CardName": "銀槍の魔神グシオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(V)/(R)】：[【カウンターブラスト】(2)]そのターン中、このユニットのパワー＋4000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

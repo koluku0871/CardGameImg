@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_048",
+  "PackNo": "D-TB01",
+  "CardName": "小狐丸",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：このユニットがパワー13000以下なら、このユニットはアタックできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "13000",
+  "Defense": "5000"
+}

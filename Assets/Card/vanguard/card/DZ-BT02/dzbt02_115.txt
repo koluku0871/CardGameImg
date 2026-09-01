@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_115",
+  "PackNo": "DZ-BT02",
+  "CardName": "フライアップ・マイハート！プルソン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、【コスト】[ドロップから「FL∀MMe-G」を含むカードを１枚山札の下に置く]ことで、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

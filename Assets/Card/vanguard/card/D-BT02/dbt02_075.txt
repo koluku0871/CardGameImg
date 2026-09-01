@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_075",
+  "PackNo": "D-BT02",
+  "CardName": "ペスティレント・タロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【前列の(R)】：あなたのヴァンガードが登場した時、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

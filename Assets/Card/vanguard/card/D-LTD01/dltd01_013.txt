@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dltd01_013",
+  "PackNo": "D-LTD01",
+  "CardName": "常習サボリ魔ペラゲーヤ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（トリガーで出たら、そのターン中、あなたの前列のユニットすべてのパワー＋10000！）,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

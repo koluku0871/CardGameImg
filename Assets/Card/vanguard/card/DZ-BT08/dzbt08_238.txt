@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_238",
+  "PackNo": "DZ-BT08",
+  "CardName": "やっと来た来た♪コムストゥーネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【後列の(R)】【ターン1回】：あなたのバトルフェイズにあなたのユニットがこのユニットと同じ縦列の(R)に登場した時、【コスト】[【エネルギーブラスト】(3)]することで、このユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

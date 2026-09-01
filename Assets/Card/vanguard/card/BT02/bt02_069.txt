@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_069",
+  "PackNo": "BT02",
+  "CardName": "混沌竜ディノカオス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【手札】：[あなたの《たちかぜ》のリアガードを２枚選び、退却させる]あなたのグレード２のヴァンガードがいるなら、このカードを公開してよい。公開したら、このカードをライドする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

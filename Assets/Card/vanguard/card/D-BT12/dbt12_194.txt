@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_194",
+  "PackNo": "D-BT12",
+  "CardName": "龍樹",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "T",
+  "Text": "effect=（これは龍樹マーカーを表すためのものであり、デッキには入れられない）あなたのターン中、「龍樹」か「マスクス」を含むあなたのヴァンガードがいるなら、このサークルにいるユニットすべてのパワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

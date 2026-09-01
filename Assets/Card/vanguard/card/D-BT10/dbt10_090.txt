@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_090",
+  "PackNo": "D-BT10",
+  "CardName": "スクリューバレット・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、このターン４回目以降のバトルなら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

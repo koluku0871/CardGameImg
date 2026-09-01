@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd01_030",
+  "PackNo": "D-TTD01",
+  "CardName": "大和守安定",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットのパワー＋5000。あなたのヴァンガードが「加州清光極」なら、＋5000ではなく＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

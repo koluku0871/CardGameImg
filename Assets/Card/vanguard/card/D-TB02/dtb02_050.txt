@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_050",
+  "PackNo": "D-TB02",
+  "CardName": "無へ傾ける死の国の観測者ヘルヘイム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "魔人",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)]することで、あなたのユニットが相手より少ないなら、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

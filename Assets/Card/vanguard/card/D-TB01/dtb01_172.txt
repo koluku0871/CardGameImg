@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_172",
+  "PackNo": "D-TB01",
+  "CardName": "小烏丸",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】【前列の(R)】：あなたの【超】トリガーがそのトリガー効果で除外される際、除外ではなく手札に加えてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

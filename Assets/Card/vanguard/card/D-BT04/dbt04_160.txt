@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_160",
+  "PackNo": "D-BT04",
+  "CardName": "フォーチュン・リーディング",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたの山札を上から１枚見て、山札の上か下に置き、１枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

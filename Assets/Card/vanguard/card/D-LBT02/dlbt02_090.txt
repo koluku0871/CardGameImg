@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_090",
+  "PackNo": "D-LBT02",
+  "CardName": "ナチュラルチャープメルリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【起】【(R)】：「Earnescorrect」を含むあなたのユニットが５種類以上なら、【コスト】[このユニットを【レスト】させる]ことで、あなたのドロップからオーダーカードを１枚選び、手札に加え、このユニットを山札の下に置く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

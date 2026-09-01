@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_106",
+  "PackNo": "DZ-BT04",
+  "CardName": "シャンシャン・ラビット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズ開始時、あなたのヴァンガードが「リアノーン」を含むグレード３以上なら、あなたの後列のリアガードを１枚選び、そのターン中、『ブースト』を与える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_718",
+  "PackNo": "D-PR",
+  "CardName": "ありのままの笑顔でフェネル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットがグレード１からライドして登場した時、あなたの山札を上から７枚見て、「Trick＆Treat！」を２枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

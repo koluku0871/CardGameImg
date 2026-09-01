@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_464",
+  "PackNo": "D-PR",
+  "CardName": "ワイアプル・サブジュゲイター",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_035",
+  "PackNo": "D-BT08",
+  "CardName": "サブリメイトランス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【カウンターブラスト】(2)]することで、相手の(R)を１つ選び、選んだ(R)にあるカードすべてをバインドする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

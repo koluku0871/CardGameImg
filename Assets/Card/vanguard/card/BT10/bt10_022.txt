@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_022",
+  "PackNo": "BT10",
+  "CardName": "友愛の宝石騎士トレーシー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、他のあなたのカード名に「宝石騎士」を含むリアガードが３枚以上なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

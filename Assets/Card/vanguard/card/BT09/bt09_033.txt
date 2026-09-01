@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_033",
+  "PackNo": "BT09",
+  "CardName": "獣神ゴールデン・アングレット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズ中、このユニットが【スタンド】した時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb07_152",
+  "PackNo": "D-TB07",
+  "CardName": "御手杵極",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-槍",
+  "Cost": "3",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列の相手の前列にユニットがいるなら、このユニットはアタックできない。【永】【(R)】：あなたのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

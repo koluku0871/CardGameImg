@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_078",
+  "PackNo": "BT03",
+  "CardName": "マスクドポリスグレンダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたの《ディメンジョンポリス》のヴァンガードがいるなら、そのターン中、あなたのヴァンガードのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs03_074",
+  "PackNo": "D-VS03",
+  "CardName": "タイダル・アサルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットがアタックした時、【コスト】[【ソウルブラスト】(1)]することで、このユニットを【スタンド】させ、このターン２回目以降のバトルなら、そのターン中、パワー－5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

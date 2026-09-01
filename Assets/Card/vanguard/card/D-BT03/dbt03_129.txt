@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_129",
+  "PackNo": "D-BT03",
+  "CardName": "爆砲竜ブラキオフォース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、【コスト】[このユニットを退却させる]ことで、１枚引き、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

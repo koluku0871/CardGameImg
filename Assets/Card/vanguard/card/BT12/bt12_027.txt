@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_027",
+  "PackNo": "BT12",
+  "CardName": "ライジング・フェニックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[【ソウルブラスト】(2)]このユニットが(R)に登場した時、あなたの《なるかみ》のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

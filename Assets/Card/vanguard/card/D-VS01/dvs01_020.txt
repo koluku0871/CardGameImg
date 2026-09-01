@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs01_020",
+  "PackNo": "D-VS01",
+  "CardName": "気魂の魔術師クルート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：このユニットが、(V)か(R)に登場した時、あなたのユニット１枚につき、【ソウルチャージ】(1)。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

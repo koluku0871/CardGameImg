@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_132",
+  "PackNo": "D-LBT01",
+  "CardName": "友情交友イルダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、「Earnescorrect」を含むあなたのリアガードを１枚まで選び、手札に戻す。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

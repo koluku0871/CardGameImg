@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_058",
+  "PackNo": "D-BT12",
+  "CardName": "グラウンドゴージ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アースドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：クリティカル２以上のあなたのヴァンガードがいるなら、このユニットのパワー＋10000。（相手ターンも有効）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

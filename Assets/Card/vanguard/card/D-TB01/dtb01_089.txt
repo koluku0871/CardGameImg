@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_089",
+  "PackNo": "D-TB01",
+  "CardName": "治金丸",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップから「千代金丸」を１枚選び、ユニットのいない(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

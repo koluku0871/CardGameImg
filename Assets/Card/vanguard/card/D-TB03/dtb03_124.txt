@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_124",
+  "PackNo": "D-TB03",
+  "CardName": "立ちはだかる強敵",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "ハオ",
+  "Cost": "3",
+  "CardRarity": "SKR",
+  "Text": "effect=あなたの(V)か(R)に、「ハオ」を含むユニットと「五大精霊スピリットオブファイア」がそれぞれ１枚以上なら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！相手のリアガードすべてを退却させる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_044",
+  "PackNo": "D-BT04",
+  "CardName": "柩機の姫ラクタァト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットが夜影兵・トークンをブーストしたバトル終了時、夜影兵・トークンを１枚、このユニットのいる(R)に【レスト】でコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

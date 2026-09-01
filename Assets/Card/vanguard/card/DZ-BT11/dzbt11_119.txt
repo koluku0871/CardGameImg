@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_119",
+  "PackNo": "DZ-BT11",
+  "CardName": "スターリング・ボイスラミング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがトークンユニットをブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

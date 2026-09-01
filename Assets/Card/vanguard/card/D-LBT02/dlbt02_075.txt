@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_075",
+  "PackNo": "D-LBT02",
+  "CardName": "ぷかぷかゲーミングジゼル",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_054",
+  "PackNo": "BT12",
+  "CardName": "五月雨の解放者ブルーノ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：他のあなたの《ゴールドパラディン》が山札から(R)に登場した時、あなたのカード名に「解放者」を含むヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

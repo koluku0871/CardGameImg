@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd03_008",
+  "PackNo": "D-TD03",
+  "CardName": "駈出す決意ユース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

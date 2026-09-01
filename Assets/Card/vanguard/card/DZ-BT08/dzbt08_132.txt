@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_132",
+  "PackNo": "DZ-BT08",
+  "CardName": "暴かれた秘密オブリビオニス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "AveMujica",
+  "Cost": "1",
+  "CardRarity": "EXC",
+  "Text": "effect=【自】：このユニットが「運命の始まりオブリビオニス」からライドして登場した時、あなたの山札からグレード１の〈AveMujica〉の楽曲カードを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_184",
+  "PackNo": "D-BT02",
+  "CardName": "忍竜トガチラシ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

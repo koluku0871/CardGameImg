@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_020",
+  "PackNo": "D-SS02",
+  "CardName": "柩機の獣ダダイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの世界が深淵黒夜なら、【コスト】[【カウンターブラスト】(1)]することで、夜影兵・トークンを１枚(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

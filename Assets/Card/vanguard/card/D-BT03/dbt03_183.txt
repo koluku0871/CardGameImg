@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_183",
+  "PackNo": "D-BT03",
+  "CardName": "忍竜フシマチマドカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(R)/(G)】：相手のドロップが４枚以上なら、このユニットのパワー＋2000/シールド＋5000。８枚以上なら、さらにシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

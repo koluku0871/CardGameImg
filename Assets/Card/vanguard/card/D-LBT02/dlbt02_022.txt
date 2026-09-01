@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_022",
+  "PackNo": "D-LBT02",
+  "CardName": "次へのステップラプラム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、「Astesice」を含むあなたのヴァンガードがいるなら、あなたのソウルから「Astesice」を含むグレード２以下を１枚選び、ユニットのいない(R)に【レスト】でコールしてよい。あなたのバトルフェイズにコールしたら、そのコールされたユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

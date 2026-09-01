@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_110",
+  "PackNo": "D-TB02",
+  "CardName": "幻影ノ忍猿飛佐助",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人族",
+  "Cost": "1",
+  "CardRarity": "MSR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、このユニットのパワー＋5000し、そのバトル終了時、このユニットを手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

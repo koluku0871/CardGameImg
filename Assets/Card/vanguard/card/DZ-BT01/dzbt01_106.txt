@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_106",
+  "PackNo": "DZ-BT01",
+  "CardName": "リフューアリング・スタンド",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【エネルギーブラスト】(2)]することでプレイできる！あなたの山札を上から２枚見て、１枚選び、手札に加え、残りをソウルに置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

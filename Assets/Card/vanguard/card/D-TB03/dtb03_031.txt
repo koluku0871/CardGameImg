@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_031",
+  "PackNo": "D-TB03",
+  "CardName": "道家当主道円",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【カウンターブラスト】(2)]することで、あなたの山札から「道家先祖の魂」を４枚まで探し、ソウルに置き、山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

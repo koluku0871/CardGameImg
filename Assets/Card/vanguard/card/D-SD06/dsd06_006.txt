@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd06_006",
+  "PackNo": "D-SD06",
+  "CardName": "エレクブロウ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "SD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

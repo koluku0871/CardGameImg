@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_141",
+  "PackNo": "DZ-BT01",
+  "CardName": "日常を切り取って",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【エネルギーブラスト】(2)]することでプレイできる！それぞれ別名のあなたのリアガードを３枚選び、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

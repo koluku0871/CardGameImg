@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_068",
+  "PackNo": "BT13",
+  "CardName": "獣神ブライトコブラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

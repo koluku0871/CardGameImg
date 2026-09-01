@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_068",
+  "PackNo": "D-LBT02",
+  "CardName": "朝の鍛錬エイラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヴァンガードにヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

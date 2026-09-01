@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_085",
+  "PackNo": "BT17",
+  "CardName": "光線の星輝兵サマリウム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、相手の呪縛カードが２枚以上なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

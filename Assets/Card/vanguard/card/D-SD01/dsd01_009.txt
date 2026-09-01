@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd01_009",
+  "PackNo": "D-SD01",
+  "CardName": "トリクスタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "タリスマン",
+  "Cost": "0",
+  "CardRarity": "SD",
+  "Text": "effect=【永】【(R)】：このユニットは相手のカードの効果で選べない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

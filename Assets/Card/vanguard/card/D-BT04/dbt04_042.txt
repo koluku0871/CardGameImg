@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_042",
+  "PackNo": "D-BT04",
+  "CardName": "ヘルヘイム・フェルベントレイジ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[手札から１枚捨てる]ことでプレイできる！【カウンターチャージ】(1)。あなたが“一気呵勢”なら、２枚引き、手札から２枚選び、(R)にコールし、そのターン中、それらのパワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

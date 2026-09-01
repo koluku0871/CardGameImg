@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_132",
+  "PackNo": "DZ-BT05",
+  "CardName": "オシャレ魔女ラブ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "オシャレ魔女",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=【自】：このユニットが「ラブ」を含むグレード１の〈オシャレ魔女〉にライドされた時、そのユニットがライドデッキから登場したなら、あなたは「オシャレ魔女ラブandベリー筐体」のクレストを得て、【エネルギーチャージ】(3)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

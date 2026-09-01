@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_062",
+  "PackNo": "DZ-BT08",
+  "CardName": "或る庭師の宝物",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=以下を１つ行う。・プラント・トークンを１枚(R)にコールする。・【コスト】[プラント・トークンを１枚退却させる]ことで、あなたの山札を上から３枚見て、あなたのヴァンガードのグレード以下を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

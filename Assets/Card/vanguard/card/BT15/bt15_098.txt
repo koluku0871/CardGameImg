@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_098",
+  "PackNo": "BT15",
+  "CardName": "マシニング・ブラックソルジャー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「マシニング」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

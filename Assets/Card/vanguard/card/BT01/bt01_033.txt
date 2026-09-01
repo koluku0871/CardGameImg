@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_033",
+  "PackNo": "BT01",
+  "CardName": "暴君デスレックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：このユニットがアタックした時、そのバトル中、このユニットのパワー＋5000。【自】【(V)】：このユニットのアタックがヒットした時、あなたのリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

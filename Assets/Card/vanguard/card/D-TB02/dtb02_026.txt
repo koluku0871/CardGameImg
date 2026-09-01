@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_026",
+  "PackNo": "D-TB02",
+  "CardName": "闇を超えし黒炎の真闘士リン・ツー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "聖騎士",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)/(R)】：このターンにあなたがペルソナライドしているなら、このユニットがアタックする際、相手の前列のユニットすべてとバトルする。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

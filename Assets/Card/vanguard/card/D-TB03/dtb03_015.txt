@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_015",
+  "PackNo": "D-TB03",
+  "CardName": "夢は世界一のコメディアンチョコラブ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、そのターン中、相手はインターセプトできない。さらに【コスト】[【ソウルブラスト】(2)]することで、あなたの山札から「ジャガーミック」を１枚まで探し、このユニットと同じ縦列の(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

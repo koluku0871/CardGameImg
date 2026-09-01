@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_033",
+  "PackNo": "D-BT04",
+  "CardName": "堅鋭竜ゲイツフォート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【後列の(R)】【ターン1回】：あなたのターンに相手のリアガードが退却した時、このユニットを【スタンド】させ、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

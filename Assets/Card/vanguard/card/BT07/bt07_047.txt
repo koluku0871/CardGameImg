@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_047",
+  "PackNo": "BT07",
+  "CardName": "グローブ・アルマジロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがインターセプトした時、あなたの《グレートネイチャー》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_077",
+  "PackNo": "BT05",
+  "CardName": "ヒステリック・シャーリー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《ダークイレギュラーズ》のヴァンガードがいるなら、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

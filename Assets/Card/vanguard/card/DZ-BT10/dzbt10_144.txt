@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_144",
+  "PackNo": "DZ-BT10",
+  "CardName": "10thanniversaryハロー、ハッピーワールド！北沢はぐみ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "ハロー、ハッピーワールド！",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

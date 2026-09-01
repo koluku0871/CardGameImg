@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs05_048",
+  "PackNo": "D-VS05",
+  "CardName": "次元ロボダイジャッカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：アタックかブーストしたバトル終了時、【コスト】[このユニットを退却させる]ことで、そのターン中、あなたのヴァンガード１枚のクリティカル＋１。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

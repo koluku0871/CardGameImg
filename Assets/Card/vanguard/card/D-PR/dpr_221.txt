@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_221",
+  "PackNo": "D-PR",
+  "CardName": "スロゥキッス―♡→ノンナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、【ソウルチャージ】(2)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

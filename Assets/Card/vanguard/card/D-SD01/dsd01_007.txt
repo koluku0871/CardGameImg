@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd01_007",
+  "PackNo": "D-SD01",
+  "CardName": "鉄球竜アンキボーラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "SD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_211",
+  "PackNo": "D-BT03",
+  "CardName": "ブレードフェザー・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

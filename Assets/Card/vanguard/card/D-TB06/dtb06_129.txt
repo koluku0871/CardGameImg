@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_129",
+  "PackNo": "D-TB06",
+  "CardName": "心願を利用せし契約主タキオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "ユニバース",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのオーダーゾーンに【スタンド】している「ガチャリドラ」があるなら、あなたのドロップから１枚選び、モンスターBOXに表で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

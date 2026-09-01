@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_058",
+  "PackNo": "BT03",
+  "CardName": "草食竜ブルートザウルス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

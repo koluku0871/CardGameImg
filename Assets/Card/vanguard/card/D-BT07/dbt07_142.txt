@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_142",
+  "PackNo": "D-BT07",
+  "CardName": "SympathizedB",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！１枚引き、あなたの手札から１枚選び、(R)にコールするか、捨てる。コールしたら、そのターン中、そのコールされたユニットはアタックできず、パワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

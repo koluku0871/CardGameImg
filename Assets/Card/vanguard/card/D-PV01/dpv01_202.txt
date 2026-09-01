@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_202",
+  "PackNo": "D-PV01",
+  "CardName": "ナイトメアドールれすりー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの「ナイトメアドールありす」が(R)からソウルに置かれた時、このユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

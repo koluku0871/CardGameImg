@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_140",
+  "PackNo": "D-BT07",
+  "CardName": "考古学者アンティ・エルター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【ソウルブラスト】(2)]することで、このユニットと同じ縦列のあなたの他のユニットを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_178",
+  "PackNo": "D-TB01",
+  "CardName": "御手杵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-槍",
+  "Cost": "3",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】【(R)】：相手のヴァンガードがグレード３以上なら、このユニットがアタックする際、相手の、縦列１つのユニットすべてとバトルする。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_078",
+  "PackNo": "D-LBT01",
+  "CardName": "緊張の瞬間ケイティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：相手のターン中、このユニットのパワー－2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

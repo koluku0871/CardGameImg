@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_060",
+  "PackNo": "D-BT09",
+  "CardName": "砂塵の跳弾ハナーディー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが山札から(R)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

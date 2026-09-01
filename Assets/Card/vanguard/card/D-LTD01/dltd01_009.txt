@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dltd01_009",
+  "PackNo": "D-LTD01",
+  "CardName": "モグモグ娘シーヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【ソウルブラスト】(1)]することで、あなたの山札を上から１枚見て、ユニットのいない(R)にコールするか、手札に加える。手札に加えたら、あなたの手札から１枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

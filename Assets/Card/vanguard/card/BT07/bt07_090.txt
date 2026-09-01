@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_090",
+  "PackNo": "BT07",
+  "CardName": "悪夢の国の腹ぺこエッグ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

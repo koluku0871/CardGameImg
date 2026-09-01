@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_119",
+  "PackNo": "DZ-BT01",
+  "CardName": "天来せしは奇跡の階",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【エネルギーブラスト】(2)]することでプレイできる！あなたの山札を上から１枚見て、(G)にコールするか、山札の上に置く。コールしたなら、そのバトル中、そのコールされたユニットのシールド＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

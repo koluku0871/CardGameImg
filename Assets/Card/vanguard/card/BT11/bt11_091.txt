@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt11_091",
+  "PackNo": "BT11",
+  "CardName": "雷神の御旗コルポサント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "シルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【起】【(R)】：[このユニットをソウルに置く]あなたの《なるかみ》を１枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

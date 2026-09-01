@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_141",
+  "PackNo": "D-PR",
+  "CardName": "トリクスタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "タリスマン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：このユニットは相手のカードの効果で選べない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

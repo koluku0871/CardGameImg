@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_114",
+  "PackNo": "D-BT03",
+  "CardName": "樹角獣モールモーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他のリアガードが後列からアタックした時、【コスト】[このユニットを【レスト】させる]ことで、そのバトル中、そのアタックしたユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

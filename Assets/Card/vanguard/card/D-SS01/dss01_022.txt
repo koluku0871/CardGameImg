@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_022",
+  "PackNo": "D-SS01",
+  "CardName": "ディアブロスガールズアリアナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "サキュバス",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

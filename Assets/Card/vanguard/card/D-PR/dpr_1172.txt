@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1172",
+  "PackNo": "D-PR",
+  "CardName": "クーレストグランスヴィレア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「マチュアルアーズルティカ」にライドされた時、１枚引き、あなたの、(R)か手札から１枚選び、ソウルに置き、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

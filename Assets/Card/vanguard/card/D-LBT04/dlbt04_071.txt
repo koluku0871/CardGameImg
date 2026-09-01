@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_071",
+  "PackNo": "D-LBT04",
+  "CardName": "私だけの装いウィルマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのユニットすべてがそれぞれ別名なら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

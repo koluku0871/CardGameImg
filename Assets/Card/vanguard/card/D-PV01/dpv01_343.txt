@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_343",
+  "PackNo": "D-PV01",
+  "CardName": "ライトエレメンタルピーカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "クレイエレメンタル",
+  "CardSubType": "エレメンタル",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(R)】：このユニットは相手のカードの効果で選べない。【自】【(R)】【Gブレイク】(1)：パワー11000以下のあなたのヴァンガードがアタックされた時、あなたのヴァンガードを１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dg01_011",
+  "PackNo": "DG01",
+  "CardName": "れんどがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=【自】：このユニットが山札から(R)に登場した時、あなたの《ロイヤルパラディン》のヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

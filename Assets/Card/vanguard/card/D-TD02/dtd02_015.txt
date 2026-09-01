@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd02_015",
+  "PackNo": "D-TD02",
+  "CardName": "アヴィド・ヒーパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットがグレード２以上をブーストした時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_142",
+  "PackNo": "DZ-BT07",
+  "CardName": "お掃除の舞台ミダルハ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、そのバトル中、このユニットのパワー＋5000してよい。そうしたなら、そのバトル終了時、このユニットをソウルに置く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

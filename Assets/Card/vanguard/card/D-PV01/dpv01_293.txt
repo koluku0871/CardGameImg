@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_293",
+  "PackNo": "D-PV01",
+  "CardName": "恐慌の撃退者フリッツ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがライドされた時、１枚引く。さらに、相手のヴァンガードがグレード１以上なら、あなたはクイックシールド・チケットを１枚手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

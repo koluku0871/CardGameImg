@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss08_014",
+  "PackNo": "D-SS08",
+  "CardName": "柩機の獣フルグルス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

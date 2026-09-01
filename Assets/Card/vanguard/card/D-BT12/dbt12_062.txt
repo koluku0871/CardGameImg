@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_062",
+  "PackNo": "D-BT12",
+  "CardName": "焔の武僧ザンショウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列の、ドレス元を持つあなたのユニットすべてのパワー＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

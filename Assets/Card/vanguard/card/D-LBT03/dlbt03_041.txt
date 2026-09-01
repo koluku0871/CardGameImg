@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_041",
+  "PackNo": "D-LBT03",
+  "CardName": "エスペシャル・デイズファウスティーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたの他のユニット１枚につき、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

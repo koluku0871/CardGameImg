@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_073",
+  "PackNo": "DZ-BT10",
+  "CardName": "魔竜仙女ラクヒン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【後列の(R)】【ターン1回】：このユニットと同じ縦列の「仙女」を含むあなたのリアガードが【スタンド】した時、このユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

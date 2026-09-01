@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_079",
+  "PackNo": "DZ-BT09",
+  "CardName": "綱渡りの申し子コスミエーレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがソウルから(R)に登場した時、そのターン中、このユニットは『【自】【(R)】：あなたのターン終了時、このユニットをソウルに置いてよい。』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

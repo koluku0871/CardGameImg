@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_050",
+  "PackNo": "BT08",
+  "CardName": "サイキック・グレイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《ディメンジョンポリス》のヴァンガードをブーストした時、ブーストされたユニットのバトル相手のパワーが8000以下なら、そのバトル中、ブーストされたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

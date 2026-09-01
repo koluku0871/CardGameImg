@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_106",
+  "PackNo": "D-LBT02",
+  "CardName": "ぐるぐるリリックアシュリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【永】【(R)】：あなたの前列に他のリアガードがいないなら、このユニットは相手のカードの効果で選べず、アタックされない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

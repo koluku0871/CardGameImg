@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_054",
+  "PackNo": "DZ-BT03",
+  "CardName": "加護の魔法プロロビ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "R+",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

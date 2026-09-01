@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_052",
+  "PackNo": "D-BT07",
+  "CardName": "轟砲竜サルヴォレックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、このユニットのパワー＋10000し、相手の前列にリアガードがいるなら、このユニットはヴァンガードにアタックできない。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

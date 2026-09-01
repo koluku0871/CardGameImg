@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_011",
+  "PackNo": "BT08",
+  "CardName": "桜の銃士アウグスト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「銃士」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

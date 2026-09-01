@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_088",
+  "PackNo": "BT17",
+  "CardName": "星輝兵アトムルーター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【ソウルブラスト】(1)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、他のあなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

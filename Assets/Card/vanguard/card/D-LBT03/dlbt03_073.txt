@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_073",
+  "PackNo": "D-LBT03",
+  "CardName": "アタシonStage！ロノウェア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのオーダーゾーンに「準備は万端！」があるなら、このユニットのパワー＋5000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

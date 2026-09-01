@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_107",
+  "PackNo": "D-BT02",
+  "CardName": "崇高なる意志",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=グレード３のあなたのユニットが３枚以上なら、あなたのヴァンガードを１枚選び、そのバトル中、パワー＋20000。（(G)も含む）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

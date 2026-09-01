@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_084",
+  "PackNo": "D-BT07",
+  "CardName": "誠心の騎士アルフォンソ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたの後列にグレード１以下のリアガードが２枚以上なら、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

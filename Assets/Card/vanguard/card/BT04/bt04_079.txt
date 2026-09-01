@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_079",
+  "PackNo": "BT04",
+  "CardName": "すのうがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたの、(V)か(R)の、他の「すのうがる」１枚につき、このユニットのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

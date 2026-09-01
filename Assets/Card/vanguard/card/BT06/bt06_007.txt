@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_007",
+  "PackNo": "BT06",
+  "CardName": "デザートガンナーシデン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：このユニットが(V)か(R)に登場した時、あなたの《なるかみ》のヴァンガードがいるなら、相手のリアガードを１枚選び、そのターン中、そのユニットは【インターセプト】できない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

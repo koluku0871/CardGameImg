@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_046",
+  "PackNo": "DZ-BT10",
+  "CardName": "ロックピック・ドラコキッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アースドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがグレード３以上のヴァンガードにヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

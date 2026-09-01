@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_151",
+  "PackNo": "D-LBT01",
+  "CardName": "夢見る瞳エメライン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【永】【(R)】：あなたの他のリアガードが３枚以上なら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

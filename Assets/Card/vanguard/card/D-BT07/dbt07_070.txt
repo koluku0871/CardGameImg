@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_070",
+  "PackNo": "D-BT07",
+  "CardName": "ブリッツセキュリティヴェヒテン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたの、オーダーゾーンにプロダクトがあるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

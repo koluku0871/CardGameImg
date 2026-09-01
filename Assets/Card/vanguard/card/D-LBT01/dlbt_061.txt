@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_061",
+  "PackNo": "D-LBT01",
+  "CardName": "胸に募る慕情フロレンツィア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが手札以外から(R)に登場した時、そのターン中、このユニットがアタックしたバトルでは、相手は手札から(G)にコールする際、２枚以上同時にコールしない限りコールできない。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

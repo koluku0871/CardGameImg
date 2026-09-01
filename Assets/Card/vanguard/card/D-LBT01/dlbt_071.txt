@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_071",
+  "PackNo": "D-LBT01",
+  "CardName": "感情込めてエベリナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、【コスト】[【ソウルブラスト】(1)]することで、「Earnescorrect」を含むあなたのユニットを１枚選び、そのバトル中、パワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

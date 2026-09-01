@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_053",
+  "PackNo": "BT06",
+  "CardName": "ライトニング・チャージャー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(1)]このユニットが「回転する剣キリエル」を【ブースト】した時、コストを払ってよい。払ったら、そのバトル中、【ブースト】されたユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

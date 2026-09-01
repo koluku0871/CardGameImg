@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_065",
+  "PackNo": "D-TB04",
+  "CardName": "護法山神シガラキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが相手のカードの効果で(R)から退却した時、【コスト】[【ソウルブラスト】(1)]することで、このカードを(R)にコールする。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_152",
+  "PackNo": "D-BT03",
+  "CardName": "リファブリッシュメント・ドック",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！【自】：このカードがオーダーゾーンに置かれた時、１枚引く。【永】【オーダーゾーン】：グレード２のあなたのリアガードすべてに『ブースト』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

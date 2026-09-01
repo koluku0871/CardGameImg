@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_115",
+  "PackNo": "D-TB04",
+  "CardName": "トリック・オア・トリートジャック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの(R)に「ウゥドゥ・マエルマチルダ・マティス」がいるなら、１枚引いてよい。引いたら、あなたの手札から１枚選び、ソウルに置く。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

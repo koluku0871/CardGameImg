@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_096",
+  "PackNo": "DZ-BT05",
+  "CardName": "還槍の騎士アイノス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他のユニットが「レザエル」を含むグレード３以上のあなたのヴァンガードの能力でこのユニットのいる(R)に登場した時、そのターン中、そのユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

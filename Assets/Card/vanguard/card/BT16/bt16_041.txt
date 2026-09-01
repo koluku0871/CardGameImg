@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_041",
+  "PackNo": "BT16",
+  "CardName": "マシンガン・グロリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[【カウンターブラスト】(1)]このユニットがグレード１以上のリアガードを【ブースト】したバトルの終了時、コストを払ってよい。払ったら、１枚引き、【ブースト】されたユニットを山札の下に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

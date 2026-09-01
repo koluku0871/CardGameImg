@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_012",
+  "PackNo": "D-TB03",
+  "CardName": "人情厚き男木刀の竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上で、「木刀の竜」を含むあなたのヴァンガードがいないなら、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

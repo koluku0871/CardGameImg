@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_100",
+  "PackNo": "DZ-BT11",
+  "CardName": "すぱがおん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、グレード３のあなたのリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

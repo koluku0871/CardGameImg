@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_082",
+  "PackNo": "D-BT04",
+  "CardName": "ディアブロスジェッターウェイド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：「ブルース」を含むあなたのヴァンガードがいるなら、【コスト】[このユニットをソウルに置く]ことで、あなたのヴァンガードを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

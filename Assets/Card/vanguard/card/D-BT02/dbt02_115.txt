@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_115",
+  "PackNo": "D-BT02",
+  "CardName": "樹角獣ティアルヴ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】：このカードは前列にライドもコールも移動もできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "11000",
+  "Defense": "5000"
+}

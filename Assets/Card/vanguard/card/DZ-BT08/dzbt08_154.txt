@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_154",
+  "PackNo": "DZ-BT08",
+  "CardName": "みんなで一緒に",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=【永】：「みんなで一緒に」はデッキに８枚まで入れられる。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

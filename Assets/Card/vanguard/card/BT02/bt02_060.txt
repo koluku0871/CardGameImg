@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_060",
+  "PackNo": "BT02",
+  "CardName": "ドラゴンナイトベルガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、あなたの《かげろう》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt11_063",
+  "PackNo": "BT11",
+  "CardName": "魔竜戦鬼クバンダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、あなたの【リミットブレイク】(4)を持つ《かげろう》の、ヴァンガードかリアガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

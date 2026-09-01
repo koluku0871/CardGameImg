@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_067",
+  "PackNo": "DZ-BT02",
+  "CardName": "インペルキャリッジ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックしたバトル終了時、【コスト】[このユニットを裏でバインドする]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

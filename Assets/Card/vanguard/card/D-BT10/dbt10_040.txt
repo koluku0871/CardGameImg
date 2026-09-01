@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_040",
+  "PackNo": "D-BT10",
+  "CardName": "掃滅の緋炎弓",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！縦列を１つ選び、その縦列の相手のリアガードすべてを退却させる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

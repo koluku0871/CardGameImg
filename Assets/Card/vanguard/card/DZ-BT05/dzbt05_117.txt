@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_117",
+  "PackNo": "DZ-BT05",
+  "CardName": "アピアランスチェックティルニエ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【ドロップ】：あなたのターンに「ペトラルカ」を含むグレード３以上のあなたのヴァンガードが登場した時、【コスト】[【エネルギーブラスト】(3)]することで、このカードを後列の(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

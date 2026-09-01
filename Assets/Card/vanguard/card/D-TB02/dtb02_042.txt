@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_042",
+  "PackNo": "D-TB02",
+  "CardName": "快刀繚乱の戦乙女大和",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "アクシス",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがブーストされた時、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

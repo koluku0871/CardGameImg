@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_139",
+  "PackNo": "D-TB02",
+  "CardName": "無慈悲なる魔物殲滅の英雄ペルセウス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "神",
+  "Cost": "0",
+  "CardRarity": "MSR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

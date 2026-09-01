@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_123",
+  "PackNo": "D-LBT01",
+  "CardName": "パワフルダッシュアンドーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、【コスト】[【カウンターブラスト】(2)]することで、そのターン中、このユニットのクリティカル＋１。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

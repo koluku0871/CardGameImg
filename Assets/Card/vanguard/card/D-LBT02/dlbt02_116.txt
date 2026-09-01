@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_116",
+  "PackNo": "D-LBT02",
+  "CardName": "真剣な眼差しイヴェッタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=フレンド－【永】【(R)】：このユニットと同じ縦列にあなたの他のユニットがいるなら、そのユニットとこのユニットは“友達”になる。【永】【(R)】：あなたの他の“友達”がいるなら、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

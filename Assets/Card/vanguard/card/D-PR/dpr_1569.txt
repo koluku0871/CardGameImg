@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1569",
+  "PackNo": "D-PR",
+  "CardName": "エレキレイク・ドラコキッド",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

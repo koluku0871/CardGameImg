@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_136",
+  "PackNo": "D-BT05",
+  "CardName": "グリントブレス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【永】【(R)/(G)】：あなたのソウルに「ブラスター」を含むグレード２が２種類以上なら、このユニットのパワー＋2000/シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

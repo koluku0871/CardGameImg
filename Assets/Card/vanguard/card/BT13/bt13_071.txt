@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_071",
+  "PackNo": "BT13",
+  "CardName": "電撃怪獣ヴィップル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、あなたの【リミットブレイク】(4)を持つ《ディメンジョンポリス》の、ヴァンガードかリアガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

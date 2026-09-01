@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_174",
+  "PackNo": "DZ-BT04",
+  "CardName": "流天の騎士ジェルメント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットがインターセプトした時、あなたのヴァンガードが「オールデン」を含むグレード３以上なら、そのバトル中、このユニットのシールド＋20000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

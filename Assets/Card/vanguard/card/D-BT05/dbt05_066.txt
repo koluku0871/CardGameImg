@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_066",
+  "PackNo": "D-BT05",
+  "CardName": "慈悲深き者ケイオス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

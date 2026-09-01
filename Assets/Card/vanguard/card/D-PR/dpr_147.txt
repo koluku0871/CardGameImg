@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_147",
+  "PackNo": "D-PR",
+  "CardName": "リターンストローク・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【カウンターブラスト】(1)]することで、相手の前列のリアガードを１枚選び、退却させ、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

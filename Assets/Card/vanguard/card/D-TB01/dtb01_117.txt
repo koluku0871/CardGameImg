@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_117",
+  "PackNo": "D-TB01",
+  "CardName": "大典太光世",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、このターンにあなたがペルソナライドしているなら、【コスト】[【カウンターブラスト】(1)]することで、あなたのダメージゾーンから１枚選び、回復する。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

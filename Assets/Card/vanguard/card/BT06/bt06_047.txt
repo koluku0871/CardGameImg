@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_047",
+  "PackNo": "BT06",
+  "CardName": "光の弾幕ベスネル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

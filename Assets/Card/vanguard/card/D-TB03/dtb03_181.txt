@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_181",
+  "PackNo": "D-TB03",
+  "CardName": "未来王ハオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "SSR",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(3)]することで、相手のリアガードを１枚選び、退却させ、そのターン中、このユニットのクリティカル＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

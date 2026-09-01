@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_079",
+  "PackNo": "BT15",
+  "CardName": "銀の茨アップライト・ライオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "キメラ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：他のあなたのカード名に「銀の茨」を含むユニットがソウルから(R)に登場した時、あなたの《ペイルムーン》のヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

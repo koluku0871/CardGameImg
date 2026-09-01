@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_108",
+  "PackNo": "DZ-BT04",
+  "CardName": "貪喰の廃甲",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゾンビ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが「ゾルガ」を含み【ディヴァインスキル】を持つなら、このユニットのパワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_124",
+  "PackNo": "D-BT05",
+  "CardName": "エナジーリフィル・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【ソウルブラスト】(1)]することで、あなたの他のユニット１枚につき、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

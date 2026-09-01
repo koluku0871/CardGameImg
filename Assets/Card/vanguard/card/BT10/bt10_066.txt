@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_066",
+  "PackNo": "BT10",
+  "CardName": "戦巫女ミヒカリヒメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

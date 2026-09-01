@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_066",
+  "PackNo": "D-BT03",
+  "CardName": "ディフレクトパルス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、グレード０のあなたのリアガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

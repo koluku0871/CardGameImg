@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_196",
+  "PackNo": "D-LBT01",
+  "CardName": "挫けぬ才能ヘンリエッタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：このユニットがブーストされた時、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、このユニットのパワーを、このユニットをブーストしているユニットの元々のシールド分、増やす。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

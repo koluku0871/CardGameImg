@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_314",
+  "PackNo": "D-PV01",
+  "CardName": "宵月夜の陰陽師",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【ソウルブラスト】(1)，手札から１枚捨てる]ことで、あなたの山札を下から１枚手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

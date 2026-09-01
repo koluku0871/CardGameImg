@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_022",
+  "PackNo": "BT02",
+  "CardName": "至宝ブラックパンサー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

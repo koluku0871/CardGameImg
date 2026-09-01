@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_104",
+  "PackNo": "D-TB06",
+  "CardName": "瑞光なる天下五剣・真打大典太光世",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "サムライ",
+  "Cost": "1",
+  "CardRarity": "MSR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックかブーストしたバトル終了時、あなたのヴァンガードが“天下五剣”なら、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

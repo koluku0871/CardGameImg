@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_065",
+  "PackNo": "D-BT11",
+  "CardName": "咆え猛る防衛本能",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=守護者を持たないあなたのガーディアンを１枚選び、そのバトル中、『【自】：このユニットが(G)から退却した時、このカードを手札に加える。』を与え、シールド＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

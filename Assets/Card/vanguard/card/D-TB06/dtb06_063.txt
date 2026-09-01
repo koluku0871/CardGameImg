@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_063",
+  "PackNo": "D-TB06",
+  "CardName": "清澄なる花ノ国の精紫陽花",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "妖精",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにこのユニットが手札以外から(R)に登場しているなら、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

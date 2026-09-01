@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_067",
+  "PackNo": "DZ-BT05",
+  "CardName": "仲良し三人組",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[【ソウルブラスト】(2)]することでプレイできる！あなたの山札を上から７枚見て、「アミカル・パティシエール」を含むそれぞれ別名のユニットカードを２枚まで選び、(R)にコールし、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

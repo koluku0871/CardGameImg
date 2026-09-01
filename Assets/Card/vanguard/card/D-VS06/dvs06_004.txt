@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs06_004",
+  "PackNo": "D-VS06",
+  "CardName": "天罰の守護天使ラグエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：手札から登場した時、このターンにあなたのダメージゾーンに新たなカードが置かれているなら、【コスト】[【カウンターブラスト】(1)]することで、ドロップゾーンから１枚(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

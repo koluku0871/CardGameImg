@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_015",
+  "PackNo": "D-TB02",
+  "CardName": "異世界の魔法皇帝ナポレオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "聖騎士",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがブーストされた時、あなたのユニットが３枚以上なら、【コスト】[【カウンターブラスト】(2)]することで、そのバトル中、このユニットのクリティカル＋１。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

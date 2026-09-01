@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_138",
+  "PackNo": "D-TB06",
+  "CardName": "長政を支えし尽愛の戦国姫お市",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人",
+  "Cost": "3",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】【(R)/(G)】：あなたのソウルに、あなたのヴァンガードと同名のカードがあるなら、このユニットは『インターセプト』を得て、シールド＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_109",
+  "PackNo": "D-BT05",
+  "CardName": "スチームリーパーナンニア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】：このユニットがインターセプトした時、あなたのソウルが５枚以上なら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

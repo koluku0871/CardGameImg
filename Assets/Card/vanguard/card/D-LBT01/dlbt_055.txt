@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_055",
+  "PackNo": "D-LBT01",
+  "CardName": "揺るぎなき緋",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "宝石",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！２枚引き、あなたの手札から１枚選び、捨てる。このカードをソウルに置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd04_013",
+  "PackNo": "D-TTD04",
+  "CardName": "葉に似てきた？阿弥陀丸",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（トリガーで出たら、１枚引く！さらにあなたのユニットを１枚選び、そのターン中、パワー＋10000！）,critical=クリティカル0,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

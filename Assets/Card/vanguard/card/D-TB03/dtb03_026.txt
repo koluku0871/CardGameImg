@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_026",
+  "PackNo": "D-TB03",
+  "CardName": "ビッグになった男木刀の竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(V)】：【コスト】[「木刀の竜」を含むカードを【ソウルブラスト】(1)]することで、あなたの山札から「竜の仲間たち」を１枚まで探し、(R)にコールし、山札をシャッフルする。【永】【(R)】：あなたのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

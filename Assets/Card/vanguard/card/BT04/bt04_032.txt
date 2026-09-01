@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_032",
+  "PackNo": "BT04",
+  "CardName": "ヴァイオレント・ヴェスパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(V)か(R)に登場した時、あなたの山札の上を公開する。そのカードが《メガコロニー》なら、そのカードを(R)にコールし、違うなら、その山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

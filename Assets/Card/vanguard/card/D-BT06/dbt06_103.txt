@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_103",
+  "PackNo": "D-BT06",
+  "CardName": "リズミカ・キウイ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ドリアード",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

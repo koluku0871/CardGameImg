@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_043",
+  "PackNo": "D-BT12",
+  "CardName": "ブリンクロック・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)からソウルに置かれた時、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

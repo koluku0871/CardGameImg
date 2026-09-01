@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_187",
+  "PackNo": "DZ-BT03",
+  "CardName": "烈風の舞姫エインズリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのオーダーゾーンにセットオーダーが１枚以上なら、そのバトル中、このユニットのパワー＋5000。３枚以上なら、＋5000ではなく＋15000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

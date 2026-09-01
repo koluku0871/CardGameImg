@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd01_031",
+  "PackNo": "D-TTD01",
+  "CardName": "へし切長谷部",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの山札を上から２枚見て、山札の上に望む順で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

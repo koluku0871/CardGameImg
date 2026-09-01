@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_097",
+  "PackNo": "D-LBT02",
+  "CardName": "名流の翼エルナエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=黒翼－【自】：このユニットが(R)に登場した時、【ソウルチャージ】(2)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_134",
+  "PackNo": "D-TB04",
+  "CardName": "絶対なる法の裁きアイアンメイデン・ジャンヌ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "SKR",
+  "Text": "effect=【自】：このユニットが「救世の誓いアイアンメイデン・ジャンヌ」にライドされた時、あなたの山札を上から１枚ダメージゾーンに裏で置き、あなたのダメージゾーンから１枚選び、手札に加える。【永】【(R)】：あなたのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

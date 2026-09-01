@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_097",
+  "PackNo": "D-BT02",
+  "CardName": "厚志の天杖コルテーゼ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このカードがあなたのドライブチェックで出た時、このカードをユニットのいない(R)にコールしてよい。そうしたら、そのターン中、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

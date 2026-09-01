@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_098",
+  "PackNo": "DZ-BT07",
+  "CardName": "クラグブロー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アースドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのターンに相手のリアガードがあなたのカードの効果で(R)から退却した時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

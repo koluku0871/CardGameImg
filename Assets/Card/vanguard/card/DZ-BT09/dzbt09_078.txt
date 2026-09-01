@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_078",
+  "PackNo": "DZ-BT09",
+  "CardName": "スチームファイターキッシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、あなたのヴァンガードがグレード３以上なら、【コスト】[手札から１枚ソウルに置く]ことで、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

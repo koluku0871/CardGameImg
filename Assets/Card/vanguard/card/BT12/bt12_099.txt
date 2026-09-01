@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_099",
+  "PackNo": "BT12",
+  "CardName": "銀の茨バーキング・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

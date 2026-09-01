@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_174",
+  "PackNo": "DZ-BT10",
+  "CardName": "AveMujicaティモリス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "AveMujica",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

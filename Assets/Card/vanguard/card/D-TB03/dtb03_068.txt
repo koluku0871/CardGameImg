@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_068",
+  "PackNo": "D-TB03",
+  "CardName": "意思無き一撃エリザ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

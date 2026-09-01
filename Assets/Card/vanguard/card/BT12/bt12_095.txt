@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_095",
+  "PackNo": "BT12",
+  "CardName": "タイトロープ・タンブラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴブリン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがソウルから(R)に登場した時、あなたの《ペイルムーン》のヴァンガードがいるなら、【ソウルチャージ】(2)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

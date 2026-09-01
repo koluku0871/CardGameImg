@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_126",
+  "PackNo": "D-BT06",
+  "CardName": "装剣竜ガロンダイト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "プレアドラゴン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このカードがドレス元になった時、このカードのドレス先のユニットを１枚選び、そのターン中、パワー＋5000し、ドレス先が「武装宝剣ガロウヴェルリーナ」なら、さらにパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

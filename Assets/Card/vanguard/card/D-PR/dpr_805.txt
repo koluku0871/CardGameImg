@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_805",
+  "PackNo": "D-PR",
+  "CardName": "ヴァイブラント・シンフォニー",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=このターンにあなたのヴァンガードにアタックがヒットしているなら、アタックされているユニットを１枚選び、そのバトル中、パワー＋30000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_133",
+  "PackNo": "D-BT10",
+  "CardName": "Roselia宇田川あこ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Roselia",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

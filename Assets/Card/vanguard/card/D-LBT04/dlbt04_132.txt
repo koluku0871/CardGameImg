@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_132",
+  "PackNo": "D-LBT04",
+  "CardName": "完璧主義者リュッカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが、(R)か(G)から退却した時、「Astesice」を含むあなたのヴァンガードがいるなら、このカードをソウルに置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

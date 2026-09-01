@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_173",
+  "PackNo": "DZ-BT08",
+  "CardName": "慈愛のアモーリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "AveMujica",
+  "Cost": "1",
+  "CardRarity": "EXS",
+  "Text": "effect=【永】【左後列の(R)/(G)】：あなたのヴァンガードが〈AveMujica〉なら、このユニットのパワー＋5000/シールド＋5000。【自】【左後列の(R)】：あなたのバトルフェイズにこのユニットが解呪された時、【コスト】[【カウンターブラスト】(1)]することで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

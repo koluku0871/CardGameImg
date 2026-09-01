@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_068",
+  "PackNo": "DZ-BT06",
+  "CardName": "ギディ・プラシファラス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたが経文オーダーをプレイした時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

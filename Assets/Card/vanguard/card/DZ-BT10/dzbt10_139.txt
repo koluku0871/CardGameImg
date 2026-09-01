@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_139",
+  "PackNo": "DZ-BT10",
+  "CardName": "10thanniversaryRoselia今井リサ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Roselia",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

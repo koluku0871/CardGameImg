@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_083",
+  "PackNo": "D-TB04",
+  "CardName": "灼熱の蹂躙スピリットオブファイア",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

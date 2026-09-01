@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_014",
+  "PackNo": "D-TB02",
+  "CardName": "まほろばの国の女王卑弥呼",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "聖騎士",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(R)】：このユニットが「邪馬台国の女神まほろば」にブーストされているなら、このユニットのパワー＋5000。このターンにあなたがペルソナライドしているなら、＋5000ではなく＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

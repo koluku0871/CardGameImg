@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_095",
+  "PackNo": "DZ-BT06",
+  "CardName": "長方伸展の女魔術師",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのターン終了時、このターンにあなたのドライブチェックでトリガーユニットが出ているなら、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

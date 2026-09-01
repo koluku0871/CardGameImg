@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_194",
+  "PackNo": "DZ-BT03",
+  "CardName": "ウィンサム・クラウン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)】：このターンにいずれかのカードがあなたのカードの能力でソウルに合計３枚以上置かれているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

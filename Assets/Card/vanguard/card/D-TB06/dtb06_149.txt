@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_149",
+  "PackNo": "D-TB06",
+  "CardName": "魔を握りし悪魔殺しダーク・ロミオ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "魔王",
+  "Cost": "0",
+  "CardRarity": "MSR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_046",
+  "PackNo": "D-LBT04",
+  "CardName": "きまぐれ↔すきっぷロペラート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(G)】：あなたのドロップの「Trick＆Treat！」３枚につき、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

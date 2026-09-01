@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_135",
+  "PackNo": "DZ-BT09",
+  "CardName": "ブレイブゥウウウゥシュババババババババババババババババーーン!!",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "勇気爆発バーンブレイバーン",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

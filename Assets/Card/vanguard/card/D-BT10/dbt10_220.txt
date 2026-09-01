@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_220",
+  "PackNo": "D-BT10",
+  "CardName": "忘失の勇士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットがあなたのオーダーカードの能力で(R)に登場した時、２枚引いてよい。引いたら、あなたの手札から２枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

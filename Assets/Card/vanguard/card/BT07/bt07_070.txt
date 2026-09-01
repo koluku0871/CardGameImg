@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_070",
+  "PackNo": "BT07",
+  "CardName": "ジャンピング・グレーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがソウルから(R)に登場した時、あなたの《ペイルムーン》のヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_094",
+  "PackNo": "D-BT10",
+  "CardName": "羅針廻し",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたがオーダーを魔合成してプレイした時、【コスト】[手札から１枚捨てる]ことで、あなたのドロップからグレード１以下を１枚選び、このユニットと同じ縦列の(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

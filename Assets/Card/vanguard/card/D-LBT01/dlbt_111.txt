@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_111",
+  "PackNo": "D-LBT01",
+  "CardName": "走り出す青春ハイダ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

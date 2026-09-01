@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_332",
+  "PackNo": "D-PV01",
+  "CardName": "ビッグブロー・テッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[ドロップからグレード２以上を１枚山札の下に置く]ことで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

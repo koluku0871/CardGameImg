@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_077",
+  "PackNo": "BT01",
+  "CardName": "伊達男ロマリオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゾンビ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

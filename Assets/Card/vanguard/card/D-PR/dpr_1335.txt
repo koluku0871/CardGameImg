@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1335",
+  "PackNo": "D-PR",
+  "CardName": "ドラグリッターアズハール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「ヴィルベイル」を含むグレード３にライドされた時、あなたのヴァンガードを１枚選び、そのターン中、そのユニットが元々持つ【自】能力のコストは【カウンターブラスト】(1)減る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

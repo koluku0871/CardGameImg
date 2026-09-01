@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_110",
+  "PackNo": "DZ-BT10",
+  "CardName": "ブルーエディ・ドラコキッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【後列の(R)】：あなたのユニットがアタックした時、あなたのヴァンガードがグレード３以上なら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd03_017",
+  "PackNo": "D-TD03",
+  "CardName": "スターディネス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットがインターセプトした時、あなたのソウルに「反抗黎騎」を含むカードがあるなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

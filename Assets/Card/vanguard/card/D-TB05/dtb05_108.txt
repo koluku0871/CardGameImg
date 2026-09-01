@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_108",
+  "PackNo": "D-TB05",
+  "CardName": "覚醒雷槌",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "トール",
+  "Cost": "2",
+  "CardRarity": "RGR",
+  "Text": "effect=「トール」を含むあなたのヴァンガードがいるならプレイできる！１枚引き、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

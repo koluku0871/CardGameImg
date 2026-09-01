@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_072",
+  "PackNo": "DZ-BT08",
+  "CardName": "魔竜仙女ジャミ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヴァンガードにヒットした時、【コスト】[【エネルギーブラスト】(3)]することで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

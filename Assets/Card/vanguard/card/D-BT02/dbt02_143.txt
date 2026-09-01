@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_143",
+  "PackNo": "D-BT02",
+  "CardName": "柩機の兵プラスティア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：夜影兵・トークンにブーストされているこのユニットのアタックがヒットした時、１枚引く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

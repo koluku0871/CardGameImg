@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_103",
+  "PackNo": "D-BT04",
+  "CardName": "天救の御旗サリーネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがあなたのヴァンガードの能力で【スタンド】した時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

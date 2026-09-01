@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_054",
+  "PackNo": "D-PR",
+  "CardName": "眩きランプの聖天使ナイチンゲール",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人族",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

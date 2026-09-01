@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1175",
+  "PackNo": "D-PR",
+  "CardName": "五線譜を微風に乗せてリアンヌ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

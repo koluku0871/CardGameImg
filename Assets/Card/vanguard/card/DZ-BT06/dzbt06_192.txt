@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_192",
+  "PackNo": "DZ-BT06",
+  "CardName": "其は命を預ける相棒なれば",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！あなたの山札を上から３枚見て、ユニットカードを１枚まで選び、(R)にコールし、残りを山札の下に望む順で置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

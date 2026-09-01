@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_083",
+  "PackNo": "DZ-BT04",
+  "CardName": "ピークァント・ミアズマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「サングィナリィ・テイマー」にライドされた時、【ソウルチャージ】(2)し、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

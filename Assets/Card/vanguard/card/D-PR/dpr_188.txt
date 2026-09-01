@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_188",
+  "PackNo": "D-PR",
+  "CardName": "光耀の騎士エトギア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、グレード３以上のあなたの他のユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

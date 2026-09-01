@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_073",
+  "PackNo": "D-TB05",
+  "CardName": "天上の調べ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

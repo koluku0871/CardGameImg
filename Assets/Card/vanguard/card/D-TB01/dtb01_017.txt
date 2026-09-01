@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_017",
+  "PackNo": "D-TB01",
+  "CardName": "太鼓鐘貞宗",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのヴァンガードがグレード３以上なら、【コスト】[【カウンターブラスト】(1)]することで、あなたの手札から２枚まで選び、ユニットのいない(R)にコールする。２枚コールしたら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

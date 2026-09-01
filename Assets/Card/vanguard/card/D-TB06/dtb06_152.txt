@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_152",
+  "PackNo": "D-TB06",
+  "CardName": "香り立つ幸福の妄想乙女紫式部",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "魔人",
+  "Cost": "0",
+  "CardRarity": "MSR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

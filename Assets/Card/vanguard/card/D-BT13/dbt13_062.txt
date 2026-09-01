@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_062",
+  "PackNo": "D-BT13",
+  "CardName": "カレンザッパー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：「グリフォギィラ」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

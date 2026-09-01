@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd01_015",
+  "PackNo": "D-TD01",
+  "CardName": "イールド・エルフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(R)】【ターン1回】：あなたのヴァンガードがグレード３以上なら、【コスト】[【カウンターブラスト】(2)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

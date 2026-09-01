@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_087",
+  "PackNo": "D-LBT02",
+  "CardName": "あたふたパニックフローチェ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【永】【(R)】：このターンにあなたの「六花ふらくたる」が歌われているなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

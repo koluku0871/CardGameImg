@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_205",
+  "PackNo": "D-BT04",
+  "CardName": "晴朗の乙女レェナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

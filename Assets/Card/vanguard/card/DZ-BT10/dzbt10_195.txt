@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_195",
+  "PackNo": "DZ-BT10",
+  "CardName": "10thanniversaryRoselia宇田川あこ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Roselia",
+  "Cost": "0",
+  "CardRarity": "EXS",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

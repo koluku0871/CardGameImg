@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_043",
+  "PackNo": "BT10",
+  "CardName": "爆斧の騎士ゴルヌマン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのグレード３の《ロイヤルパラディン》が(V)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

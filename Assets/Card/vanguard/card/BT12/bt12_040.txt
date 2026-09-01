@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_040",
+  "PackNo": "BT12",
+  "CardName": "銀の茨の操り人形りりあん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

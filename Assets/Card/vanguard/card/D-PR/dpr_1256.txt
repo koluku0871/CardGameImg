@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1256",
+  "PackNo": "D-PR",
+  "CardName": "装甲竜マウントキャノン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【前列の(R)】：グレード０のあなたのユニットがアタックした時、そのターン中、そのアタックしたユニットとこのユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

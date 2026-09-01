@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_066",
+  "PackNo": "D-BT13",
+  "CardName": "カラプトゥリィ・ピーア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックしたバトル終了時、このユニットをユニットのいない後列の(R)に移動させてよい。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

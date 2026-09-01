@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_089",
+  "PackNo": "DZ-BT06",
+  "CardName": "コルドレイド・ガンモービル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのオーダーゾーンにセットオーダーが２枚以上なら、このユニットのパワー＋5000。３枚以上なら、＋5000ではなく＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

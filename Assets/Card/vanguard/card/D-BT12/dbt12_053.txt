@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_053",
+  "PackNo": "D-BT12",
+  "CardName": "逍遥する忠義",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "スケルトン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのターン終了時、このユニットが龍樹マーカーのある(R)にいるなら、【コスト】[このユニットを退却させる]ことで、あなたのドロップからグレード３以上のユニットカードを１枚選び、手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_090",
+  "PackNo": "DZ-BT06",
+  "CardName": "プレリオーン・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "スペースドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたの(R)に龍樹マーカーがあるなら、そのバトル中、このユニットは『【自】：このユニットが(G)から退却した時、このカードをソウルに置いてよい。』を得て、シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

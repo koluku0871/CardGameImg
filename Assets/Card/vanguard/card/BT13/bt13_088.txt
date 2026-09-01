@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_088",
+  "PackNo": "BT13",
+  "CardName": "慧眼のスカイトルーパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)】：このユニットのドライブチェックでグレード３の《アクアフォース》がでた時、あなたのリアガードを１枚選び、【スタンド】する。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

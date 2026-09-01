@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_049",
+  "PackNo": "D-LBT02",
+  "CardName": "万全の私でフィアンマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

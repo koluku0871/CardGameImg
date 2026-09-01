@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_054",
+  "PackNo": "BT08",
+  "CardName": "宝石怪獣ジュエルマイン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss05_105",
+  "PackNo": "D-SS05",
+  "CardName": "感銘の乙女ウルジュラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "Re",
+  "Text": "effect=【永】【(R)】：あなたがメインフェイズにリアガードを移動や入れ替えさせる際、横列にも動かせる。【永】【(R)】：このユニットの前にいるあなたのユニットは相手の効果で選べない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd01_029",
+  "PackNo": "D-TD01",
+  "CardName": "FunFunMarching！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "TDR",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！そのターン中、グレード１以下のあなたのリアガードすべてのパワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

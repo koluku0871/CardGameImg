@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_052",
+  "PackNo": "D-LBT03",
+  "CardName": "雨は乙女心に似てリズリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたがノーマルオーダーをプレイしているなら、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

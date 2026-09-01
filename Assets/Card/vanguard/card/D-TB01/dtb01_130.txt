@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_130",
+  "PackNo": "D-TB01",
+  "CardName": "包丁藤四郎",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】【(R)】：あなたのターン中、「藤四郎」を含むあなたの他のユニットがいるなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

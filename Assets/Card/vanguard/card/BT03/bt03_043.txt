@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_043",
+  "PackNo": "BT03",
+  "CardName": "漆黒の詩人アモン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたのソウルの《ダークイレギュラーズ》が６枚以上なら、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

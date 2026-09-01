@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_020",
+  "PackNo": "D-BT13",
+  "CardName": "碩鱗の支援者ロヴァニア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【中央後列の(R)】：このターンにあなたのヴァンガードの能力で登場したあなたのリアガードすべてのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

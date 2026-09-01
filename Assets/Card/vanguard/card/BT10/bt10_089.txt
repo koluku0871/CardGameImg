@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_089",
+  "PackNo": "BT10",
+  "CardName": "ブラッディ・レイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、あなたの【リミットブレイク】(4)を持つ《ノヴァグラップラー》の、ヴァンガードかリアガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

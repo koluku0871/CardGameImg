@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss11_089",
+  "PackNo": "D-SS11",
+  "CardName": "見習い鍛冶師ゼドランス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

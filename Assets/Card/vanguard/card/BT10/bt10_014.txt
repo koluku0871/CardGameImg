@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_014",
+  "PackNo": "BT10",
+  "CardName": "箒の魔女キャラウェイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(2)]このユニットのアタックがヒットした時、あなたの《ジェネシス》のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_169",
+  "PackNo": "DZ-BT09",
+  "CardName": "天に轟く竜の産声",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=グレード１以下のあなたのユニットを１枚選び、ユニットのいない相手の(R)１つにつき、そのターン中、パワー＋2000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

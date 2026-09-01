@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_196",
+  "PackNo": "DZ-BT01",
+  "CardName": "メディカルショット・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：あなたのライドフェイズにこのカードが手札から捨てられた時、このカードを(R)に【レスト】でコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

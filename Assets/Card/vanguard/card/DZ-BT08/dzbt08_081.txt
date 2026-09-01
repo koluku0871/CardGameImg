@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_081",
+  "PackNo": "DZ-BT08",
+  "CardName": "アブレイシヴ・ディゾナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【後列の(R)】：あなたのヴァンガードがアタックされた時、【コスト】[このユニットを退却させる]ことで、あなたのヴァンガードを１枚選び、そのバトル中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

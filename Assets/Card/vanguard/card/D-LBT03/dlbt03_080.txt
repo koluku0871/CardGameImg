@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_080",
+  "PackNo": "D-LBT03",
+  "CardName": "紅刻の帰り道メリリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、このターンにあなたのリアガードが山札の下に置かれているなら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

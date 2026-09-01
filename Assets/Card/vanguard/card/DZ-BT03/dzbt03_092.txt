@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_092",
+  "PackNo": "DZ-BT03",
+  "CardName": "聖焔眼エンリューイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_727",
+  "PackNo": "D-PR",
+  "CardName": "LèVre♡SœurSカルミナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "サキュバス",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(V)】：あなたのソウルの「LèVre♡SœurS」を含むそれぞれ別名のグレード１以下が２枚以上なら、あなたがライドデッキから「LèVre♡SœurS」を含むグレード３にライドする際、手札から１枚捨てずにライドできる。【自】【(R)】：このユニットが「LèVre♡SœurS」を含むパワー23000以上のあなたのヴァンガードの能力で選ばれた時、【カウンターチャージ】(1)/【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

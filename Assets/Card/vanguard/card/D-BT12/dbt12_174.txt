@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_174",
+  "PackNo": "D-BT12",
+  "CardName": "廻風の魔法パリリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードがアタックされた時、このターン５回目以降のバトルなら、【コスト】[このユニットをバインドする]ことで、あなたのユニットを１枚選び、そのバトル中、ヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_200",
+  "PackNo": "DZ-BT10",
+  "CardName": "10thanniversaryハロー、ハッピーワールド！松原花音",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "ハロー、ハッピーワールド！",
+  "Cost": "0",
+  "CardRarity": "EXS",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

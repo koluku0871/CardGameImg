@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_170",
+  "PackNo": "D-LBT01",
+  "CardName": "爛漫はぴねす",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "曲",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【自】【オーダーゾーン】：この曲が歌われた時、１枚引き、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

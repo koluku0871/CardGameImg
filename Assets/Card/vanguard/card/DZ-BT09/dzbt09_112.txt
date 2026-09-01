@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_112",
+  "PackNo": "DZ-BT09",
+  "CardName": "AlliedTaskForce",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "EXRRR",
+  "Text": "effect=あなたのヴァンガードが〈勇気爆発バーンブレイバーン〉ならプレイできる！あなたの、山札かドロップから、「“TS”」か「“ブレイブナイツ”」を含む、カードを合計２枚まで探し、(R)にコールし、山札から探したなら、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_158",
+  "PackNo": "D-TB03",
+  "CardName": "シルバのテスト",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シルバ",
+  "Cost": "2",
+  "CardRarity": "SKR",
+  "Text": "effect=「シルバ」を含む〈シャーマン〉のあなたのユニットがいるなら、【コスト】[「シルバーアームズ」を含むそれぞれ別名のユニットカードを【ソウルブラスト】(5)]することでプレイできる！「シルバ」を含む〈シャーマン〉のあなたのユニットを１枚選び、そのターン中、パワー＋50000/クリティカル＋５。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

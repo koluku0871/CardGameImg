@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs01_084",
+  "PackNo": "D-VS01",
+  "CardName": "クリヤード・ブリーズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：このユニットが、(V)か(R)に登場した時、【コスト】[手札から１枚捨てる]ことで、１枚引き、このコストでグレード３を捨てたら、暗黒繭マーカーが置かれていない相手のリアガードを１枚選び、暗黒繭マーカーを１つ置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_200",
+  "PackNo": "D-TB01",
+  "CardName": "古今伝授の太刀",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)]することで、あなたのリアガードを１枚選び、【スタンド】させ、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_078",
+  "PackNo": "D-BT08",
+  "CardName": "コーイグジステンス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【山札/(R)】：あなたのヴァンガードが【煌求者】なら、このカードのパワー＋5000/グレード－１。（相手ターンも有効）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

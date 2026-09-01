@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_020",
+  "PackNo": "D-BT05",
+  "CardName": "忍妖フォークテイル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの山札を上から７枚見てよい。そうしたら、その見た中から【煌求者】か「忍」を含む、ノーマルユニットを１枚まで選び、ソウルに置き、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

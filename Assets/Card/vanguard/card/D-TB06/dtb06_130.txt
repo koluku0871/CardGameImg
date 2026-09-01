@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_130",
+  "PackNo": "D-TB06",
+  "CardName": "絶対公平の裁判官包青天",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人",
+  "Cost": "0",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

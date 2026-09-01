@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_089",
+  "PackNo": "BT13",
+  "CardName": "怒涛の水将ミルトス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがヴァンガードにアタックした時、あなたの《アクアフォース》のヴァンガードがいるなら、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

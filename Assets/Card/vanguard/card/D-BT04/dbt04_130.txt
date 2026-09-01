@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_130",
+  "PackNo": "D-BT04",
+  "CardName": "孤高の霊宝",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【コスト】[【カウンターブラスト】(2)]することでプレイできる！あなたのドロップから装備カードを２枚選び、手札に加える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

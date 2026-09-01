@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_039",
+  "PackNo": "D-LBT04",
+  "CardName": "インパルシブ・スケーターミューギュン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが山札から(R)に登場した時、「ウィリスタ」を含むあなたのヴァンガードがいるなら、あなたのドロップから宝石カードを１枚選び、手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

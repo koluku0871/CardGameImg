@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_033",
+  "PackNo": "BT04",
+  "CardName": "ウォーター・ギャング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(2)]このユニットのアタックがヒットした時、あなたの《メガコロニー》のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

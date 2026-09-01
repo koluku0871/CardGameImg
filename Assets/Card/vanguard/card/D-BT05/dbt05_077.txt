@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_077",
+  "PackNo": "D-BT05",
+  "CardName": "剛勇の騎士レデキウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたがグレード３以上にライドしているなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_081",
+  "PackNo": "D-BT01",
+  "CardName": "タルタロス・ビートスクラム",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=あなたのソウルが５枚以上なら、あなたのユニットを１枚選び、そのバトル中、パワー＋15000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

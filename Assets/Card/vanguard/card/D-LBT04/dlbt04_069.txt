@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_069",
+  "PackNo": "D-LBT04",
+  "CardName": "祝祭への案内役ペラギア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：このターンにあなたがブリッツオーダーをプレイしているなら、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

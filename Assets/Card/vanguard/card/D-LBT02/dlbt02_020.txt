@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_020",
+  "PackNo": "D-LBT02",
+  "CardName": "風の中の音デュケイラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットと同じ縦列にフレンド能力を持つあなたのユニットが登場した時、あなたの他の“友達”が３枚以上なら、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

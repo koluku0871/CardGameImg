@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_084",
+  "PackNo": "D-BT10",
+  "CardName": "感興の学士インティラス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが山札から(R)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_129",
+  "PackNo": "D-TB01",
+  "CardName": "薬研藤四郎",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "TRR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

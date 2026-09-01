@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_081",
+  "PackNo": "D-BT10",
+  "CardName": "ユラジスティーク・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのヴァンガードのグレードが、相手のヴァンガードのグレードより大きいなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

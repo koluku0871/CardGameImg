@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_250",
+  "PackNo": "D-PR",
+  "CardName": "繊美の乙女カンデラリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのターン終了時、【コスト】[このユニットを退却させる]ことで、プラント・トークンを２枚まで(R)にコールする。（プラントはグレード０/パワー5000/クリティカル１でブーストを持つ）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_043",
+  "PackNo": "D-BT04",
+  "CardName": "極光戦姫テイザー・ラージュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【前列の(R)】【ターン1回】：相手のリアガードが手札以外から登場した時、そのユニットを【レスト】させる。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

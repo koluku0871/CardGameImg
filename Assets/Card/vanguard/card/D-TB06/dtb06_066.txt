@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_066",
+  "PackNo": "D-TB06",
+  "CardName": "追憶なる花ノ国の精紫苑",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "妖精",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

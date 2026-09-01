@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_076",
+  "PackNo": "BT01",
+  "CardName": "レッドシュー・ミリィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)からドロップゾーンに置かれた時、このカードをソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_052",
+  "PackNo": "D-PR",
+  "CardName": "雄麗なる君主ツタンカーメン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人族",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

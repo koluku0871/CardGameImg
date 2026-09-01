@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_056",
+  "PackNo": "DZ-BT10",
+  "CardName": "アージェントプランジャー・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットと同じ縦列にあなたの他のユニットが登場した時、あなたのヴァンガードがグレード３以上なら、そのターン中、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

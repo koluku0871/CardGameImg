@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_080",
+  "PackNo": "BT04",
+  "CardName": "ぶるうがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたの、(V)か(R)の、他の「ぶるうがる」１枚につき、このユニットのパワー＋1000。【自】：他の《ロイヤルパラディン》がこのユニットにライドした時、このカードを(R)にコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1253",
+  "PackNo": "D-PR",
+  "CardName": "強撃竜スピノアサルター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【ターン1回】：相手のリアガードがグレード３以上のあなたのヴァンガードの能力で退却した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

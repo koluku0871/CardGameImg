@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_069",
+  "PackNo": "BT17",
+  "CardName": "煉獄の精霊フレアルーパー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サラマンダー",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

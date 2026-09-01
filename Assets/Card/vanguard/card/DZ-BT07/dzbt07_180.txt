@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_180",
+  "PackNo": "DZ-BT07",
+  "CardName": "それぞれの夢",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=【永】：「それぞれの夢」はデッキに８枚まで入れられる。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

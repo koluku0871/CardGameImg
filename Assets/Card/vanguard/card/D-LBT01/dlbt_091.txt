@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_091",
+  "PackNo": "D-LBT01",
+  "CardName": "小さな平和プラエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=白翼（バインドに奇数グレードのみで有効）－【永】【(R)/(G)】：このユニットのパワー＋2000/シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

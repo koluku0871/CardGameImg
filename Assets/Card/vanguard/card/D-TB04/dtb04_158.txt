@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_158",
+  "PackNo": "D-TB04",
+  "CardName": "あなたとならどこまでもエリザ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "SKR",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_144",
+  "PackNo": "D-TB05",
+  "CardName": "殴り合いこそ漢の闘い",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "RGR",
+  "Text": "effect=【永】：「殴り合いこそ漢の闘い」はデッキに８枚まで入れられる。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

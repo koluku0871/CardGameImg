@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_066",
+  "PackNo": "D-BT04",
+  "CardName": "砂塵の擲弾オーリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのメインフェイズに相手のリアガードが退却した時、あなたの(R)の「砂塵の擲砲ドーリー」を１枚選び、手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

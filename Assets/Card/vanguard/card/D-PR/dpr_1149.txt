@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1149",
+  "PackNo": "D-PR",
+  "CardName": "サングィナリィ・テイマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「バロウマグネス」を含むグレード３にライドされた時、【ソウルチャージ】(2)。その後、あなたのソウルからグレード３以下を１枚選び、(R)にコールしてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

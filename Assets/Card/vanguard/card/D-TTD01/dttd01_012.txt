@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd01_012",
+  "PackNo": "D-TTD01",
+  "CardName": "厚藤四郎",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（トリガーで出たら、あなたのユニットを１枚選び、そのターン中、クリティカル＋１！さらにあなたのユニットを１枚選び、そのターン中、パワー＋10000！）,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

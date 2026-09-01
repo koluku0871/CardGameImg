@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_081",
+  "PackNo": "D-TB01",
+  "CardName": "静形薙刀",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-薙刀",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたの表のダメージゾーンがないなら、【コスト】[手札から１枚捨てる]ことで、そのバトル中、このユニットのパワー＋15000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

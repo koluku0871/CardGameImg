@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_035",
+  "PackNo": "D-BT13",
+  "CardName": "スプーフ・シェイド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【手札】：あなたのカードの能力で手札からオーダーカードを捨てる際、このカードをオーダーカードとして捨ててよい。【永】【後列の(R)】：このターンにあなたが魔合成しているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

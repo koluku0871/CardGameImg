@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1693",
+  "PackNo": "D-PR",
+  "CardName": "コロドラシュート",
+  "CardCategory": "必殺技",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/シュート",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=（このカードは必殺技デッキにしか入れられず、同名カードは２枚まで入れられる）使用条件－前列のユニット【自】【必殺技ゾーン】：この必殺技が使われた時、そのバトル中、この必殺技を使ったユニットのパワー＋5656。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

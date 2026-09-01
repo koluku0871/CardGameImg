@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_076",
+  "PackNo": "D-BT06",
+  "CardName": "アドバンスドクロック・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

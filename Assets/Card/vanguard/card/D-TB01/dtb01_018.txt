@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_018",
+  "PackNo": "D-TB01",
+  "CardName": "江雪左文字",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、【コスト】[手札から１枚捨てる]ことで、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

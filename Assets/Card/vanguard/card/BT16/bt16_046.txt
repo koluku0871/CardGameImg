@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_046",
+  "PackNo": "BT16",
+  "CardName": "天弓の探索者モルヴィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがヴァンガードにアタックした時、他のあなたのカード名に「探索者」を含むユニットが４枚以上なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

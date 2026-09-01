@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_064",
+  "PackNo": "D-LBT04",
+  "CardName": "ねぎらいの甘露カサンドラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが、(R)か(G)から退却した時、「LèVre♡SœurS」を含むあなたのヴァンガードがいるなら、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

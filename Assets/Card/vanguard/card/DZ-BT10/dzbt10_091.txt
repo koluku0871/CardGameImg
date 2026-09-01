@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_091",
+  "PackNo": "DZ-BT10",
+  "CardName": "モディファイング・アレンジャー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【後列の(R)】【ターン1回】：このユニットと同じ縦列のあなたのリアガードがカードの能力で【スタンド】した時、【コスト】[【エネルギーブラスト】(3)]することで、このユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

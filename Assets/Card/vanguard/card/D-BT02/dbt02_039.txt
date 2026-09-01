@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_039",
+  "PackNo": "D-BT02",
+  "CardName": "柩機の獣マリズマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの山札を上から３枚見て、世界カードを１枚まで選び、公開して手札に加え、残りを山札の下に望む順で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

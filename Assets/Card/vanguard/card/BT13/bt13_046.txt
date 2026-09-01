@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_046",
+  "PackNo": "BT13",
+  "CardName": "麻酔の守護天使ルマエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたのダメージゾーンの表の「執刀の守護天使アルメン」１枚につき、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

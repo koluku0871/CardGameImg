@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_189",
+  "PackNo": "DZ-BT10",
+  "CardName": "10thanniversaryPastel＊Palettes白鷺千聖",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Pastel＊Palettes",
+  "Cost": "0",
+  "CardRarity": "EXS",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

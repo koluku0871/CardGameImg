@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_070",
+  "PackNo": "DZ-BT06",
+  "CardName": "白銀に茂る森で",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=あなたのリアガードを１枚選び、グレード１以下のあなたのリアガード１枚につき、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

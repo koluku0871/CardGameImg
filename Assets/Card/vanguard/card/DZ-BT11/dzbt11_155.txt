@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_155",
+  "PackNo": "DZ-BT11",
+  "CardName": "プラント",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/プラント",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=（これはプラント・トークンを表すカードであり、デッキには入れられない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "0"
+}

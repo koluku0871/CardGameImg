@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd04_003",
+  "PackNo": "D-TTD04",
+  "CardName": "シャーマン麻倉葉",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが「麻倉葉」からライドして(V)に登場した時、あなたの山札から「伝説の侍阿弥陀丸」を１枚まで探し、中央後列の(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

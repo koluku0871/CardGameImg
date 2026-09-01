@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs03_035",
+  "PackNo": "D-VS03",
+  "CardName": "妖刀の忍鬼マサムラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】：守護者（守護者を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "30000"
+}

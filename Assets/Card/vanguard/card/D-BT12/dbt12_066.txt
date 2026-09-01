@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_066",
+  "PackNo": "D-BT12",
+  "CardName": "アンファザマブル・ジャグラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたのリアガードがあなたのヴァンガードの能力でソウルに置かれているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

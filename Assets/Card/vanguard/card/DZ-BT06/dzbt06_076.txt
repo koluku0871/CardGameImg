@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_076",
+  "PackNo": "DZ-BT06",
+  "CardName": "ドリフタードリル・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アースドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットがブーストした時、相手のヴァンガードがグレード３以上で、相手のリアガードがいないなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

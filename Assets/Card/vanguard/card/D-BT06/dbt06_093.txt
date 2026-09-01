@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_093",
+  "PackNo": "D-BT06",
+  "CardName": "豪胆の騎士サウェル",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

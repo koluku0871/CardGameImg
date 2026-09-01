@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_148",
+  "PackNo": "D-BT13",
+  "CardName": "死縛の冥令",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=あなたの山札を上から１枚捨て、あなたのドロップから、あなたのヴァンガードのグレード以下を１枚選び、ユニットカードなら(R)にコールし、「死縛の冥令」以外のノーマルオーダーなら手札に加える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

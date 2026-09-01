@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_080",
+  "PackNo": "DZ-BT06",
+  "CardName": "ボンカーズ・ボルトキメラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "キメラ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【エネルギーブラスト】(3)]することで、そのターン中、このユニットは『ブースト』を得て、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

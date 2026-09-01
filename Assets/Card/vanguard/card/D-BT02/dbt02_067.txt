@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_067",
+  "PackNo": "D-BT02",
+  "CardName": "火竜爆撃",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=あなたのヴァンガードを１枚選び、そのターン中、『【永】【(V)】：あなたのユニットすべては、アタックする際、相手の後列のリアガードにアタックできる。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

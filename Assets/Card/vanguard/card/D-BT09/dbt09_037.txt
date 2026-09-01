@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_037",
+  "PackNo": "D-BT09",
+  "CardName": "緑鱗の炎騎士ステイドル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【前列の(R)】：このターンにあなたのヴァンガードがアタックされていないなら、あなたのリアガードすべてはヒットされない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

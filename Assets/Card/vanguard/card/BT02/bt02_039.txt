@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_039",
+  "PackNo": "BT02",
+  "CardName": "科学者モンキー・ルー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(V)/(R)】：[カウンターブラスト(2)]あなたの《グレートネイチャー》のリアガードを１枚選び、そのターン中、パワー＋4000し、そのターンのエンドフェイズ開始時、そのユニットを退却させる。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

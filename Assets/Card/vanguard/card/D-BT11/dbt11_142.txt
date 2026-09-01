@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_142",
+  "PackNo": "D-BT11",
+  "CardName": "翼竜カノネイドプテラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたがノーマルオーダーをプレイした時、【コスト】[【ソウルブラスト】(2)]することで、あなたのユニットを２枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

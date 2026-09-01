@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_041",
+  "PackNo": "BT17",
+  "CardName": "蒼嵐水将イアニス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、そのターンで３回目以降のバトル中なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

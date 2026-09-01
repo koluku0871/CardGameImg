@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_069",
+  "PackNo": "D-BT10",
+  "CardName": "ギフォーズ・ケートス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "キメラ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：「星刻姫」を含むあなたのヴァンガードがいるなら、【コスト】[このユニットを退却させる]ことで、あなたのバインドゾーンから【クリティカル】トリガーを２枚まで選び、ソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

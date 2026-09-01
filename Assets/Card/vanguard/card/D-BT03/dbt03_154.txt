@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_154",
+  "PackNo": "D-BT03",
+  "CardName": "幸甚の魔法ナナフル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：あなたのドライブチェックでトリガーユニットが出た時、【コスト】[手札から１枚ソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

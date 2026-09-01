@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss05_089",
+  "PackNo": "D-SS05",
+  "CardName": "ステムディヴィエイト・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "0",
+  "CardRarity": "Re",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

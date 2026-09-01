@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_050",
+  "PackNo": "D-BT02",
+  "CardName": "樹角獣アイライータ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、このユニットの前にいるユニットが２枚以上なら、そのバトル中、このユニットのパワー＋5000し、３枚以上なら、さらに【ソウルチャージ】(1)。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

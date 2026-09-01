@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_032",
+  "PackNo": "BT02",
+  "CardName": "魔竜導師キンナラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：[【カウンターブラスト】(1)，このユニットをソウルに置く]あなたの《かげろう》のヴァンガードがいるなら、相手のグレード１のリアガードを１枚まで選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

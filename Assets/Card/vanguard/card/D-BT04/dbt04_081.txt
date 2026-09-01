@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_081",
+  "PackNo": "D-BT04",
+  "CardName": "ディアブロスガールズステファニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたが“一気呵勢”なら、このユニットと同じ縦列の、あなたの他のユニットすべてのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

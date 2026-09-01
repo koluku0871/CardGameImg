@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_023",
+  "PackNo": "DZ-BT04",
+  "CardName": "コンセクエンス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【前列の(R)】：あなたのターン中、相手のインターセプトでは【自】能力は発動せず、(R)から(G)に置かれた相手のユニットすべては、【永】能力と【自】能力すべてを失う。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_039",
+  "PackNo": "D-BT09",
+  "CardName": "忍妖テマリヒメ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのヴァンガードのグレードが、相手のヴァンガードのグレードより低いなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

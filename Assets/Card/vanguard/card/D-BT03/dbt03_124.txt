@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_124",
+  "PackNo": "D-BT03",
+  "CardName": "焔の巫女トレッサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップから【オーバードレス】能力を持つカードを１枚選び、手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

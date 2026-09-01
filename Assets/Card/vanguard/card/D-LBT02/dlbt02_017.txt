@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_017",
+  "PackNo": "D-LBT02",
+  "CardName": "笑顔を共にジーズヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(G)】：「Earnescorrect」を含むあなたのユニットすべてのシールド＋10000。【永】【(G)】：「Earnescorrect」を含むあなたのリアガードすべてはヒットされない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

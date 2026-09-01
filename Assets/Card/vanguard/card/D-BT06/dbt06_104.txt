@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_104",
+  "PackNo": "D-BT06",
+  "CardName": "HappyDreamingFesta！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=「リアノーン」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたの山札を上から７枚見て、グレード１以下のユニットカードを２枚まで選び、(R)にコールし、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

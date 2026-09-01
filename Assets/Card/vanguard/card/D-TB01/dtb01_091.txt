@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_091",
+  "PackNo": "D-TB01",
+  "CardName": "太閤左文字",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードが登場した時、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

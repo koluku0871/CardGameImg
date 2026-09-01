@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_078",
+  "PackNo": "BT14",
+  "CardName": "ドラゴンナイトレザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのグレード３の《かげろう》が(V)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_138",
+  "PackNo": "D-TB01",
+  "CardName": "物吉貞宗",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】【後列の(R)】：あなたのトリガー効果で、このユニットのパワーが増える際、その増える値が２倍になる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

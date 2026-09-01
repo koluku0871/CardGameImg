@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_017",
+  "PackNo": "D-BT12",
+  "CardName": "ドラグリッターバースラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：あなたのバトルフェイズにこのカードが手札から捨てられた時、このカードをソウルに置き、相手の後列のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

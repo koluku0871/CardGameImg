@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_027",
+  "PackNo": "D-TB02",
+  "CardName": "愛を貫く高潔の戦乙女ブリュンヒルデ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "聖騎士",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがブーストされた時、【コスト】[【カウンターブラスト】(1)]することで、相手の後列のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

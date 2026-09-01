@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_040",
+  "PackNo": "D-LBT01",
+  "CardName": "ミスティックボイスレナータ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのドロップからそれぞれ同名の宝石カードを２枚まで選び、１枚を山札の下に置き、残りをソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

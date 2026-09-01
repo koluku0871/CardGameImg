@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_206",
+  "PackNo": "DZ-BT11",
+  "CardName": "ピュリティスケーラー・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、あなたのリアガードが２枚以下なら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

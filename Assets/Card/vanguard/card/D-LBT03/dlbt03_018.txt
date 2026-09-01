@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_018",
+  "PackNo": "D-LBT03",
+  "CardName": "夜を染める大輪パルミラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

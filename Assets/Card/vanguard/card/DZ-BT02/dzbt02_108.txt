@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_108",
+  "PackNo": "DZ-BT02",
+  "CardName": "双角の脚撃スタッギン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがドロップから(R)に登場した時、【コスト】[【エネルギーブラスト】(3)]することで、そのターン中、このユニットのパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

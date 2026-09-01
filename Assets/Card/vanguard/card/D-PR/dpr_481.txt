@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_481",
+  "PackNo": "D-PR",
+  "CardName": "will+DressSeason2狐芝ライカ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=【永】：このカードは「天音の楽士アルパック」としても扱う。【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

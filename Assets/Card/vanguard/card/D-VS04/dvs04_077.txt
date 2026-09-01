@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs04_077",
+  "PackNo": "D-VS04",
+  "CardName": "実践研究員ポンベリー",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】：守護者（守護者を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "30000"
+}

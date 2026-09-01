@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_044",
+  "PackNo": "D-TB05",
+  "CardName": "神超えの予感呂布奉先",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "人類",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「中華最強の英雄呂布奉先」にライドされた時、１枚引き、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

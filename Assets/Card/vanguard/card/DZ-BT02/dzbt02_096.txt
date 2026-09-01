@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_096",
+  "PackNo": "DZ-BT02",
+  "CardName": "ディヴァインシスターびゅーにゅ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが山札から(R)に登場した時、そのターン中、このユニットのパワー＋15000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

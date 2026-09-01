@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_079",
+  "PackNo": "D-TB03",
+  "CardName": "GAGWIND",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "チョコラブ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=「チョコラブ」を含むあなたのユニットがいるなら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！そのターン中、相手の前列のユニットすべてのパワー－5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_064",
+  "PackNo": "DZ-BT05",
+  "CardName": "想いを一緒に編み込んでシェンクル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが「リシアフェール」を含むグレード３以上のあなたのヴァンガードの能力で(R)からソウルに置かれた時、このカードを手札に加えてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

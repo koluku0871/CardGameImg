@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_067",
+  "PackNo": "BT02",
+  "CardName": "E・アラーマー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

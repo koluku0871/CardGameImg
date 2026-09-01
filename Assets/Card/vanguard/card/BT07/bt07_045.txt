@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_045",
+  "PackNo": "BT07",
+  "CardName": "レッドペンシル・リノ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたの(V)に、「真理の守護者ロックス」か「護法官ロックス」がいないなら、このユニットのパワー－5000。【自】【(V)/(R)】：このユニットがアタックした時、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

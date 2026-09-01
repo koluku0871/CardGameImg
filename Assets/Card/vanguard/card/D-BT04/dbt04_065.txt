@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_065",
+  "PackNo": "D-BT04",
+  "CardName": "ラーヴァワイヤ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【前列の(R)】：あなたのユニットすべてはアタックする際、そのアタックするあなたのユニットと同じ縦列の相手の後列のユニットにもアタックできる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

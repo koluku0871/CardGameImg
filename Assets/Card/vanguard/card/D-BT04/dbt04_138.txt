@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_138",
+  "PackNo": "D-BT04",
+  "CardName": "ディアブロスマドンナリース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、【ソウルチャージ】(2)。あなたが“一気呵勢”なら、あなたのユニットを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

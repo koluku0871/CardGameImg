@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_126",
+  "PackNo": "D-BT04",
+  "CardName": "封焔竜シクシャニーヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[手札から装備カードを１枚捨てる]ことで、１枚引き、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

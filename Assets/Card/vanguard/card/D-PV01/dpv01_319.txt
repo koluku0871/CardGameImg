@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_319",
+  "PackNo": "D-PV01",
+  "CardName": "彩筆の魔術師カザンデ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[【ソウルブラスト】(2)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

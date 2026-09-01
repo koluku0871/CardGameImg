@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_064",
+  "PackNo": "D-BT03",
+  "CardName": "砂塵の曲射アラスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、アタックしている相手のユニットがブーストされていないなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

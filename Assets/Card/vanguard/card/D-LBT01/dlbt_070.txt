@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_070",
+  "PackNo": "D-LBT01",
+  "CardName": "結い上げた憧憬ハイルヴィヒ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのバトルフェイズにこのユニットが(R)に登場した時、【コスト】[このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

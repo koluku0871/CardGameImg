@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_068",
+  "PackNo": "BT14",
+  "CardName": "葡萄の魔女グラッパ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このカードがソウルからドロップゾーンに置かれた時、あなたの《ジェネシス》のヴァンガードがいるなら、【ソウルチャージ】(2)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_028",
+  "PackNo": "D-BT01",
+  "CardName": "ドラグリッターダッバーフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【カウンターブラスト】(2)]することで、【ソウルチャージ】(1)し、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

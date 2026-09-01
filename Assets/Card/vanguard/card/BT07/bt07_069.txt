@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_069",
+  "PackNo": "BT07",
+  "CardName": "ドローイング・ドレッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、他のあなたの《ペイルムーン》のリアガードが４枚以上なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

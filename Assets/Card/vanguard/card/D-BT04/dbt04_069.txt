@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_069",
+  "PackNo": "D-BT04",
+  "CardName": "封焔竜イーシタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたの(V)にあるカード１枚につき、このユニットのパワー＋2000。（装備も含む。ソウルは含まない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

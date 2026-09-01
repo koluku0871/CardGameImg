@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_058",
+  "PackNo": "D-BT10",
+  "CardName": "装削竜ドリライズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "プレアドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、【クロスオーバードレス】状態のあなたのユニットがいるなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_371",
+  "PackNo": "D-PR",
+  "CardName": "微笑みを咲かせてメディエール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「メディエール」を含むグレード３にライドされた時、あなたの山札を上から３枚見て、１枚まで選び、山札の上に置き、残りを捨てる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

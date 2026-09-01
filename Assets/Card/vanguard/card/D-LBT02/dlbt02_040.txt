@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_040",
+  "PackNo": "D-LBT02",
+  "CardName": "交わし合う視線フェオドラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】【ターン1回】：「ウィリスタ」を含むあなたのヴァンガードがいるなら、【コスト】[ドロップから宝石カードを１枚山札の下に置く]ことで、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

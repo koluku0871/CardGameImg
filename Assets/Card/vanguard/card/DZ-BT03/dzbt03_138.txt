@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_138",
+  "PackNo": "DZ-BT03",
+  "CardName": "初めてのマップ藍沢エマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ぶいすぽっ！",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

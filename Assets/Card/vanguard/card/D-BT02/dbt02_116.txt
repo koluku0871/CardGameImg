@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_116",
+  "PackNo": "D-BT02",
+  "CardName": "レディ・デモリッシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヴァンガードにヒットした時、あなたの山札を上から５枚捨ててよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

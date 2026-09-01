@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_047",
+  "PackNo": "D-TB02",
+  "CardName": "純美なる水精の女王テキーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "妖精族",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、このターンにあなたがペルソナライドしているなら、相手のヴァンガードを１枚選び、そのターン中、パワー－10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_0031",
+  "PackNo": "BT03",
+  "CardName": "冥界の支配人",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：他の《ペイルムーン》がこのユニットにライドした時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

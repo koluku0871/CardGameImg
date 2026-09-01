@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_102",
+  "PackNo": "BT12",
+  "CardName": "銀の茨のお手玉師ナディア",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れることができない）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

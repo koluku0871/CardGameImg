@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_010",
+  "PackNo": "D-SS01",
+  "CardName": "焔の拳僧ニッコー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_149",
+  "PackNo": "D-BT04",
+  "CardName": "グラビディア・ルルイーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、あなたの、山札かドロップから隕石カードを１枚まで探し、オーダーゾーンに置き、山札から探したら、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

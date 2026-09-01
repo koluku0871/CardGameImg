@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_043",
+  "PackNo": "BT14",
+  "CardName": "鋭気の騎士エクター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)】：このユニットのドライブチェックで《ロイヤルパラディン》がでた時、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

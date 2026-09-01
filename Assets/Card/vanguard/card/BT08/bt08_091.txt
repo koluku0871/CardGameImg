@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_091",
+  "PackNo": "BT08",
+  "CardName": "ストリーム・トルーパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《アクアフォース》を【ブースト】したバトル中、アタックがヴァンガードにヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

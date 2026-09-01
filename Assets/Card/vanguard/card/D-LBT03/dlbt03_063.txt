@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_063",
+  "PackNo": "D-LBT03",
+  "CardName": "クレプスキュールアグレア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=全力－【自】【(R)】：このユニットがアタックした時、あなたのソウルが０枚なら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

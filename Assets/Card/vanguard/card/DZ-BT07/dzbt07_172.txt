@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_172",
+  "PackNo": "DZ-BT07",
+  "CardName": "天才的な才能広町七深",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Morfonica",
+  "Cost": "1",
+  "CardRarity": "EXC",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)かトリガーユニットを【ソウルブラスト】(1)]することで、あなたのドロップから〈Morfonica〉のユニットカードを１枚選び、それと同名のあなたのリアガードがいないなら、(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

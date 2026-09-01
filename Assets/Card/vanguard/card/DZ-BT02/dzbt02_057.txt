@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_057",
+  "PackNo": "DZ-BT02",
+  "CardName": "闇然の騎士マーガッハ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【ドロップ】：あなたのバトルフェイズにあなたのヴァンガードが登場した時、【コスト】[【エネルギーブラスト】(3)]することで、このカードを後列の(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

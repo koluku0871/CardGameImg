@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_166",
+  "PackNo": "D-TB03",
+  "CardName": "骨の兵隊",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "トークンユニット/骨",
+  "Cost": "0",
+  "CardRarity": "SKR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "0"
+}

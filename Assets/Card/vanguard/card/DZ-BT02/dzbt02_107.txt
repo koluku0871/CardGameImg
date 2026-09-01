@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_107",
+  "PackNo": "DZ-BT02",
+  "CardName": "忍耐の騎士ルイス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、【コスト】[【エネルギーブラスト】(3)]することで、あなたのドロップからオーダーカードを１枚選び、手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

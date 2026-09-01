@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_182",
+  "PackNo": "DZ-BT11",
+  "CardName": "重射竜パタゴヘフティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが、「荒牙之衆」を含むか〈ディノドラゴン〉の、グレード３以上のあなたのヴァンガードの能力で前列の(R)から退却した時、相手のリアガードを１枚選び、退却させてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

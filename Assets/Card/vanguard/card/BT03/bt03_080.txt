@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_080",
+  "PackNo": "BT03",
+  "CardName": "ワーカポッドサタデー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

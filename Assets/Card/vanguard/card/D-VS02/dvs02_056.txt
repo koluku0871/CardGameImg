@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs02_056",
+  "PackNo": "D-VS02",
+  "CardName": "ヴェアヴォルフ・ケッツァー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：このユニットが(G)から退却した時、このカードをソウルに置いてよい。【起】【ソウル】：【コスト】[このカードをバインドする]ことで、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

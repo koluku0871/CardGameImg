@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_283",
+  "PackNo": "DZ-BT02",
+  "CardName": "樹上の唱歌エディータ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストされた時、【コスト】[【ソウルブラスト】(1)]することで、あなたの他のリアガードを１枚選び、そのターン中、『ブースト』を与える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

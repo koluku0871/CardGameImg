@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_104",
+  "PackNo": "D-TB03",
+  "CardName": "太陽と正義の神シャマシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【自】【(R)】：このユニットが「ジャンヌ」を含むユニットをブーストした時、【コスト】[手札から１枚ソウルに置く]ことで、相手は自分の手札から１枚選び、捨ててよい。捨てなかったら、あなたは相手のリアガードを２枚選び、退却させ、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_063",
+  "PackNo": "DZ-BT02",
+  "CardName": "数多の全落ちを越えてアムドゥキア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの山札を上から３枚見て、「FL∀MMe-G」を含むカードを１枚まで選び、公開して手札に加え、残りを山札の下に望む順で置く。【永】【(R)】：あなたのヴァンガードが「FL∀MMe-G」を含むなら、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

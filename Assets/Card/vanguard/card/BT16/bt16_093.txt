@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_093",
+  "PackNo": "BT16",
+  "CardName": "オアシス・ボーイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードを【ブースト】した時、あなたのヴァンガードが【双闘】しているなら、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

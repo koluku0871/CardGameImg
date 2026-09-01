@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_161",
+  "PackNo": "D-LBT02",
+  "CardName": "永遠に別たぬ夜明曲イレーネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：このユニットが〈ゴースト〉のノーマルユニットのリアガードをブーストした時、そのバトル中、このユニットのパワー＋2000。そのバトル終了時、そのブーストされたリアガードを山札の下に置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_057",
+  "PackNo": "D-BT12",
+  "CardName": "インテンスレイジ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの(V)に装備が２枚以上か、ドレス元を２枚以上持つあなたのリアガードがいるなら、このユニットのパワー＋10000。（相手ターンも有効）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

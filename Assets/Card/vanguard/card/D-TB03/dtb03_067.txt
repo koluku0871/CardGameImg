@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_067",
+  "PackNo": "D-TB03",
+  "CardName": "元気を出して！コロロ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる）,critical=クリティカル0,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

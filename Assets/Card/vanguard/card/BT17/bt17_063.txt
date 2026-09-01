@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_063",
+  "PackNo": "BT17",
+  "CardName": "煉獄闘士マレイセイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのメインフェイズ中、このユニットと同じ縦列にいる相手のリアガードがドロップゾーンに置かれた時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

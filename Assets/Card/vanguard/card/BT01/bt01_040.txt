@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_040",
+  "PackNo": "BT01",
+  "CardName": "ブラッディ・ヘラクレス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

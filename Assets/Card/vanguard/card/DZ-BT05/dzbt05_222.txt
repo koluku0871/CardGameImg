@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_222",
+  "PackNo": "DZ-BT05",
+  "CardName": "グローニング・ベースネブロエーリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【ドロップ】：「FL∀MMe-G」を含むあなたのユニットがカードの能力で(R)から退却した時、【コスト】[このカードをバインドする]ことで、その退却したカードを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd03_015",
+  "PackNo": "D-SD03",
+  "CardName": "聖裁の刻、来たれり",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "SD",
+  "Text": "effect=【コスト】[【カウンターブラスト】(2)]することでプレイできる！２枚引き、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

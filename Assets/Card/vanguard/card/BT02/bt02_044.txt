@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_044",
+  "PackNo": "BT02",
+  "CardName": "スパイクブラザーズ突撃部隊",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴブリン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《スパイクブラザーズ》を【ブースト】したバトル中、アタックがヒットした時、このユニットを【スタンド】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_038",
+  "PackNo": "D-LBT03",
+  "CardName": "晴れ待ちの紫陽花フィリーネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットがグレード３以上のあなたのヴァンガードの能力で(R)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

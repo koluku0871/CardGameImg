@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_052",
+  "PackNo": "BT14",
+  "CardName": "宝石騎士オプト・ハーピスト",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

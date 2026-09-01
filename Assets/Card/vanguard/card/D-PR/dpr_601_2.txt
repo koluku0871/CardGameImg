@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_601_2",
+  "PackNo": "D-PR",
+  "CardName": "カイザルシルエット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「シルエット」を含むグレード３にライドされた時、あなたのドロップから「アームド・アームズ」を含むそれぞれ別名を２枚まで選び、ユニットのいない(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

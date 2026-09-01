@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_043",
+  "PackNo": "D-LBT03",
+  "CardName": "才華の歌姫アストリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【ドロップ】：あなたのリアガードが「メディエール」を含むグレード３以上のヴァンガードの能力で登場した時、【コスト】[【カウンターブラスト】(1)]することで、このカードをユニットのいない(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

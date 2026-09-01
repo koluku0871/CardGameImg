@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_068",
+  "PackNo": "D-BT13",
+  "CardName": "同期信号のギアライオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのライドデッキに、あなたのヴァンガードと同名の表のカードがあるなら、【ソウルチャージ】(1)し、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

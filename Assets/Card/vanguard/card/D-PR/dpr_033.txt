@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_033",
+  "PackNo": "D-PR",
+  "CardName": "月兎の魔女ルビニア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【カウンターブラスト】(1)]することで、あなたの手札から１枚選び、ソウルに置き、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

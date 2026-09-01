@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_117",
+  "PackNo": "DZ-BT04",
+  "CardName": "路地裏ひとりご飯パニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、このターンにあなたがオーダーを２回以上プレイしているなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

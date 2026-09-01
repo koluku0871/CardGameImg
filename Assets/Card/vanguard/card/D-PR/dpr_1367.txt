@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1367",
+  "PackNo": "D-PR",
+  "CardName": "始原の来臨",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "福音",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたの山札から福音カードを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

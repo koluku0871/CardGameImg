@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_104",
+  "PackNo": "DZ-BT10",
+  "CardName": "プロパネス・ペア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ドリアード",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの(R)にトークンユニットがいるなら、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

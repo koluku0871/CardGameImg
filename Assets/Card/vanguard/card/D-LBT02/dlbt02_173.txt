@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_173",
+  "PackNo": "D-LBT02",
+  "CardName": "清爽の歌姫ベランジェール",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "WO",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

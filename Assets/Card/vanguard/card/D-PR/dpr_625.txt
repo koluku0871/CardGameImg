@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_625",
+  "PackNo": "D-PR",
+  "CardName": "禍々しき変容",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "災厄",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたの山札から災厄カードを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

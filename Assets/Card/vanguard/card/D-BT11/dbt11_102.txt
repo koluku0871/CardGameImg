@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_102",
+  "PackNo": "D-BT11",
+  "CardName": "タランドゥスツヤクワガタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ムシ",
+  "Cost": "3",
+  "CardRarity": "EX",
+  "Text": "effect=必殺わざ：ダゲキ超必殺わざ：ヒャクレツケン【体長】９６ミリメートル【生まれたところ】アフリカ・コンゴ盆地【せいかく】アタックタイプ【学名】MesotopusTarandusたいりょく：180ダゲキわざ：110ハサミわざ：55ナゲわざ：55テクニック：30つよさ：200,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

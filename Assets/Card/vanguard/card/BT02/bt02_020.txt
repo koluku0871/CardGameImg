@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_020",
+  "PackNo": "BT02",
+  "CardName": "トップアイドルフローレス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：[【ソウルブラスト】(2)]このユニットのアタックがヒットした時、コストを払ってよい。払ったら、あなたの《バミューダ△》のリアガードを１枚選び、手札に戻す。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

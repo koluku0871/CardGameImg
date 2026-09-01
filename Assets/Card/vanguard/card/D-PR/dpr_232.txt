@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_232",
+  "PackNo": "D-PR",
+  "CardName": "粘着怪獣ヌルベトロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、【コスト】[【ソウルブラスト】(1)]することで、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

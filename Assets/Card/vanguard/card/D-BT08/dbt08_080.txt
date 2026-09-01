@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_080",
+  "PackNo": "D-BT08",
+  "CardName": "惨慄の騎士ドゥーフタッハ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがあなたのヴァンガードの能力で山札から(R)に登場した時、そのターン中、このユニットは『ブースト』を得て、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

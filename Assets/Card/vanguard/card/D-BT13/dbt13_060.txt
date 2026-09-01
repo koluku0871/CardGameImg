@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_060",
+  "PackNo": "D-BT13",
+  "CardName": "忍妖ヒトリマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【ソウルチャージ】(1)し、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

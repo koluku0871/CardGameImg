@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_111",
+  "PackNo": "DZ-BT01",
+  "CardName": "プラスパラース・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、あなたのユニットが４枚以上なら、【コスト】[【エネルギーブラスト】(4)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

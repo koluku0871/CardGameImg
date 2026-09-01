@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd03_022",
+  "PackNo": "D-TTD03",
+  "CardName": "煌く星読みの大魔術師マーリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "魔王",
+  "Cost": "1",
+  "CardRarity": "MSR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

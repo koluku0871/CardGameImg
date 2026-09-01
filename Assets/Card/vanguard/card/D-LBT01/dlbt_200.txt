@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_200",
+  "PackNo": "D-LBT01",
+  "CardName": "静謐なる慈愛エリヴィラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：あなたが「果てしなき蒼」をプレイした時、あなたのヴァンガードが「煌めく光彩ウィリスタ」なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

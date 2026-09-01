@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_223",
+  "PackNo": "DZ-BT08",
+  "CardName": "憩いの止まり木",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたのドロップから守護者を持たないグレード１のノーマルユニットを３枚まで選び、山札の下に望む順で置く。３枚選んだなら、１枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

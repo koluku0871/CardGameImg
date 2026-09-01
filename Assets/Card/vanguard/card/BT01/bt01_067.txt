@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_067",
+  "PackNo": "BT01",
+  "CardName": "鉄壁竜シールドン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

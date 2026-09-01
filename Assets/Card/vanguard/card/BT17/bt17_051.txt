@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_051",
+  "PackNo": "BT17",
+  "CardName": "ねいるがる・解放者",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたのヴァンガードが【双闘】しているなら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

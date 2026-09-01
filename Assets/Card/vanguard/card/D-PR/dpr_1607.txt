@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1607",
+  "PackNo": "D-PR",
+  "CardName": "RaiZ:BlaZクーラント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「RaiZ:BlaZタランテラ」にライドされた時、あなたのソウルに「RaiZ:BlaZポルカ」があるなら、あなたの山札を上から５枚見て、守護者を持たない〈ドラゴロイド〉かノーマルオーダーを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

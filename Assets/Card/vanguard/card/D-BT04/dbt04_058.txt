@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_058",
+  "PackNo": "D-BT04",
+  "CardName": "樹角獣アルヴァン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【後列の(R)】：このユニットがアタックしたバトル中、相手は手札から(G)にコールする際、２枚以上同時にコールしない限りコールできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

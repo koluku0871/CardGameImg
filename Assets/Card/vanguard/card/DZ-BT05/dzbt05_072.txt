@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_072",
+  "PackNo": "DZ-BT05",
+  "CardName": "砂塵の彩撃カラレス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「砂塵の轟弾ロアノード」にライドされた時、あなたの山札を上から５枚見て、「砂塵」を含むカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_062",
+  "PackNo": "DZ-BT05",
+  "CardName": "ヴェレーノ・ファミリアフラウトリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、あなたのヴァンガードが「ラスカリア」を含むなら、【コスト】[【ソウルブラスト】(1)]することで、このカードを(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

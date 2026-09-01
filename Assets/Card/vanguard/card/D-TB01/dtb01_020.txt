@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_020",
+  "PackNo": "D-TB01",
+  "CardName": "堀川国広",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットが〈刀剣男士-打刀〉をブーストした時、【コスト】[【ソウルブラスト】(1)，手札から１枚捨てる]ことで、１枚引き、「和泉守兼定」をブーストしているなら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

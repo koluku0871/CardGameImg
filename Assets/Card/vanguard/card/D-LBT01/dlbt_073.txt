@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_073",
+  "PackNo": "D-LBT01",
+  "CardName": "舞い踊る五線譜エルメル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、【コスト】[【ソウルブラスト】(1)]することで、あなたのオーダーゾーンにあるあなたのカード１枚につき、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

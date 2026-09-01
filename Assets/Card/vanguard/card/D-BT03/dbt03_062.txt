@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_062",
+  "PackNo": "D-BT03",
+  "CardName": "スタンボルテック・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたのヴァンガードのアタックがヒットしているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

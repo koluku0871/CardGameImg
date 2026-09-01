@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_079",
+  "PackNo": "D-BT07",
+  "CardName": "寸断の騎士テウタテス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：クリティカル２以上のあなたのヴァンガードがアタックした時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、そのユニットとこのユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

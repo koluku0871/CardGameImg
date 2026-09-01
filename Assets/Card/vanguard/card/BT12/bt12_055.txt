@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_055",
+  "PackNo": "BT12",
+  "CardName": "サンライズ・ユニコーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットを【レスト】する]他のあなたの《ゴールドパラディン》を１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

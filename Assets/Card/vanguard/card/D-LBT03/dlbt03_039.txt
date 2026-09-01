@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_039",
+  "PackNo": "D-LBT03",
+  "CardName": "虹を目指してテオファニア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットがインターセプトした時、あなたのダメージゾーンが相手より多いなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

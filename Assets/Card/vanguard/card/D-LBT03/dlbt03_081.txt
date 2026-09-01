@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_081",
+  "PackNo": "D-LBT03",
+  "CardName": "ミニマルスタイルフーカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、このユニットのパワー＋5000し、あなたのソウルが１枚以上なら、このユニットはアタックもブーストもできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

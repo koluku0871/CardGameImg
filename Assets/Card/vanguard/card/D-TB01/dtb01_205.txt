@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_205",
+  "PackNo": "D-TB01",
+  "CardName": "五月雨江",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットしたバトル終了時、【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

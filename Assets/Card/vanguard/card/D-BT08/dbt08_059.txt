@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_059",
+  "PackNo": "D-BT08",
+  "CardName": "ヒートブレス・ワイバーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが【煌求者】をブーストした時、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

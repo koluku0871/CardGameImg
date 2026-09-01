@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_133",
+  "PackNo": "DZ-BT07",
+  "CardName": "ハガクレン・ボーゴスチン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ドリアード",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：プラント・トークンにブーストされているこのユニットのアタックがヒットした時、【コスト】[【エネルギーブラスト】(3)]することで、１枚引く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

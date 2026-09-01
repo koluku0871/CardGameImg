@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_048",
+  "PackNo": "BT01",
+  "CardName": "鎧の化身バー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

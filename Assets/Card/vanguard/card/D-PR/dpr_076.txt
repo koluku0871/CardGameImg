@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_076",
+  "PackNo": "D-PR",
+  "CardName": "カノーネ・シュネルクリーガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、あなたのオーダーゾーンにセットオーダーがあるなら、【コスト】[【ソウルブラスト】(2)]することで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

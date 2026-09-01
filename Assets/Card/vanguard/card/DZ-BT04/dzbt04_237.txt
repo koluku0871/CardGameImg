@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_237",
+  "PackNo": "DZ-BT04",
+  "CardName": "深冥の海鋏",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "SR",
+  "Text": "effect=【起】【(R)】【ターン1回】：あなたのヴァンガードが「ゾルガ」を含むグレード３以上なら、【コスト】[他のリアガードを２枚退却させる]ことで、あなたのドロップからノーマルオーダーを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

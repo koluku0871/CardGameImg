@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt12_065",
+  "PackNo": "DZ-BT12",
+  "CardName": "忍獣シャックルキャット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットがブーストされないでグレード３以上にアタックした時、そのバトル中、このユニットのパワー＋5000し、相手はインターセプトできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

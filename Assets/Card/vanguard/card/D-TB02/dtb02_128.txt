@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_128",
+  "PackNo": "D-TB02",
+  "CardName": "最高神の可憐なる妻ヘラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "神",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【自】【(V)】：このユニットのアタックがヒットした時、あなたのユニットが３枚以上なら、そのターン中、あなたの前列のリアガードすべてのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_080",
+  "PackNo": "D-LBT04",
+  "CardName": "私だけの魅力の在処はフェネル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがグレード０からライドして登場した時、あなたの山札を上から７枚見て、「Trick＆Treat！」を２枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

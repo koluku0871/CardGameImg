@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_056",
+  "PackNo": "D-BT08",
+  "CardName": "砂塵の雷弾サディード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが、(R)に登場した時か(G)に置かれた時、あなたのリアガードの枚数が相手のリアガードより多いなら、そのターン中、このユニットのパワー＋5000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

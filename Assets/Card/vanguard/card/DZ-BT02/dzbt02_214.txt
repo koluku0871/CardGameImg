@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_214",
+  "PackNo": "DZ-BT02",
+  "CardName": "寄る辺のSunny,Sunny",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "楽曲/Morfonica",
+  "Cost": "3",
+  "CardRarity": "EXP",
+  "Text": "effect=【永】【(R)】：「倉田ましろ」を含むあなたのヴァンガードがアタックしたバトル中、相手は手札から(G)にコールする際、２枚以上同時にコールしない限りコールできない。【自】【(R)】：「倉田ましろ」を含むあなたのヴァンガードがアタックした時、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

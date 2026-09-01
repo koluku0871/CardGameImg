@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_087",
+  "PackNo": "D-LBT01",
+  "CardName": "張り切るお昼シャンタル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)]することで、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

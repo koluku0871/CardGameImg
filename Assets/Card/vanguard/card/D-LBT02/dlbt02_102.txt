@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_102",
+  "PackNo": "D-LBT02",
+  "CardName": "篤実な瞳リリアナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=全力－【自】【(R)】：このユニットがアタックした時、あなたのソウルが０枚なら、【コスト】[【カウンターブラスト】(1)]することで、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

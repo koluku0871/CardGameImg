@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd02_028",
+  "PackNo": "D-TTD02",
+  "CardName": "獣神ゴッドストライク・烈",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "神",
+  "Cost": "0",
+  "CardRarity": "MSR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

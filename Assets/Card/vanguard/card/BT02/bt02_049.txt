@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_049",
+  "PackNo": "BT02",
+  "CardName": "スケルトンの剣士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "スケルトン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、あなたの《グランブルー》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

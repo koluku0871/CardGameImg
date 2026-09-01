@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_017",
+  "PackNo": "D-SS02",
+  "CardName": "ディアブロスボーイズナイル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(G)】：このターンに「ブルース」を含むあなたのヴァンガードにアタックがヒットしているなら、このユニットのシールド＋15000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

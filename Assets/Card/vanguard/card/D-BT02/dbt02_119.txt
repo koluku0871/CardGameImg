@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_119",
+  "PackNo": "D-BT02",
+  "CardName": "実りの季節",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=そのターン中、あなたの後列のリアガードすべてのパワー＋5000し、あなたはリアガードを他の(R)に移動できず、ブーストできない。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

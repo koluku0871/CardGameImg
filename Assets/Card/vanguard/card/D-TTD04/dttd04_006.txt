@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd04_006",
+  "PackNo": "D-TTD04",
+  "CardName": "有名なワル木刀の竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：「麻倉葉」を含むあなたのヴァンガードのアタックがヒットした時、【コスト】[【カウンターブラスト】(2)]することで、このユニットを【スタンド】させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

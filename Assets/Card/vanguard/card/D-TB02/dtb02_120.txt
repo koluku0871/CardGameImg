@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_120",
+  "PackNo": "D-TB02",
+  "CardName": "逆夢に誘いしものノクターン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "幻妖",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】：このカードはライドできず、あなたの他のユニットはこのカードをブーストできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "13000",
+  "Defense": "5000"
+}

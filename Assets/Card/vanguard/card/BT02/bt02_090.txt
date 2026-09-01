@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_090",
+  "PackNo": "BT02",
+  "CardName": "深淵の呪術師ネグロマール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：[【カウンターブラスト】(2)]このユニットが(V)か(R)に登場した時、あなたの《グランブルー》のヴァンガードがいるなら、コストを払ってよい。払ったら、あなたのドロップゾーンから１枚選び、(R)にコールする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "8000",
+  "Defense": "0"
+}

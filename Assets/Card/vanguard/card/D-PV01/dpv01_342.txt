@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_342",
+  "PackNo": "D-PV01",
+  "CardName": "レインエレメンタルピチャン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "クレイエレメンタル",
+  "CardSubType": "エレメンタル",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【Gブレイク】(1)：あなたのターンにこのユニットが(R)に登場した時、そのターン中、このユニットと同じ縦列の相手のリアガードすべては能力すべてを失い、得られない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

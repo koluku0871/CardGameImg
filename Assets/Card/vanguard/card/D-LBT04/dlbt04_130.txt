@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_130",
+  "PackNo": "D-LBT04",
+  "CardName": "夢にまで見た大人買いラモナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【起】【(R)】：「LèVre♡SœurS」を含むグレード３以上のあなたのヴァンガードがいるなら、【コスト】[このユニットと他のリアガードを１枚ソウルに置く]ことで、１枚引き、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_023",
+  "PackNo": "BT04",
+  "CardName": "暗闇の騎士ルゴス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

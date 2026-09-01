@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_070",
+  "PackNo": "D-PR",
+  "CardName": "円環の女魔術師",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

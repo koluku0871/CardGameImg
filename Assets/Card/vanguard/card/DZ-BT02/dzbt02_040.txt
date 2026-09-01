@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_040",
+  "PackNo": "DZ-BT02",
+  "CardName": "躍動する作詞家アプッチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットがユニットカードの能力以外で(R)に登場した時、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップからノーマルオーダーを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

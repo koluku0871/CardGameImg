@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_123",
+  "PackNo": "D-TB04",
+  "CardName": "地獄の特訓の成果",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "SKR",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

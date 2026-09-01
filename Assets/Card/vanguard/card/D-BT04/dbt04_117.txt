@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_117",
+  "PackNo": "D-BT04",
+  "CardName": "樹角獣レムレア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【前列の(R)】：あなたの他のリアガードがアタックした時、そのターン中、このユニットのパワー＋5000し、【コスト】[【カウンターブラスト】(1)]することで、さらにパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

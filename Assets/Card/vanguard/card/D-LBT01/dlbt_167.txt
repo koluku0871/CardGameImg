@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_167",
+  "PackNo": "D-LBT01",
+  "CardName": "柔らかな光プルエル",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_028",
+  "PackNo": "D-BT13",
+  "CardName": "ブリッツアシスタントゾアティン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：グレード２以上のプロダクトがあなたのオーダーゾーンに置かれた時、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

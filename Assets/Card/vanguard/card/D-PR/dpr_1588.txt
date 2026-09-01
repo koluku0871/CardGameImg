@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1588",
+  "PackNo": "D-PR",
+  "CardName": "悠音の運び手アラウヌス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

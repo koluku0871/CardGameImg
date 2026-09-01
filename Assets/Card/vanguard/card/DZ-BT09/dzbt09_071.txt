@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_071",
+  "PackNo": "DZ-BT09",
+  "CardName": "ドラグリッターカーズィム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンにこのユニットが【精神汚染】状態になった時、そのターン中、このユニットは『【自】：このユニットが(R)から退却した時、ソウルに置いてよい。』を得て、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

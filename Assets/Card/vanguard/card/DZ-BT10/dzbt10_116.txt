@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_116",
+  "PackNo": "DZ-BT10",
+  "CardName": "よかったら使ってハルニア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたがノーマルオーダーをプレイした時、【コスト】[このユニットをソウルに置く]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

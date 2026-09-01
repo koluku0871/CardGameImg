@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_099",
+  "PackNo": "D-BT11",
+  "CardName": "水想幻獣ウサザスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが「水想幻獣」を含むユニットをブーストした時、あなたの裏のダメージゾーンが３枚以上で、このターンにあなたが【カウンターチャージ】していないなら、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

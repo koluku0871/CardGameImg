@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt11_102",
+  "PackNo": "BT11",
+  "CardName": "マスプロ・セイラー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】：「マスプロ・セイラー」はデッキに16枚まで入れることができる。【永】【(R)】：あなたのターン中、あなたの、(V)か(R)の、他の「マスプロ・セイラー」１枚につき、このユニットのパワー＋1000,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

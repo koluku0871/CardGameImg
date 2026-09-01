@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_080",
+  "PackNo": "DZ-BT11",
+  "CardName": "スチームカッターサミウム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【手札】：【コスト】[【ソウルブラスト】(1)，このカードを捨てる]ことで、あなたのドロップから「因果歪曲・断罪」を１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

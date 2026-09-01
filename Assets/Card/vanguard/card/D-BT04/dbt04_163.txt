@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_163",
+  "PackNo": "D-BT04",
+  "CardName": "潮風攫い",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヴァンガードにヒットした時、【コスト】[ドロップからオーダーカードを１枚バインドする]ことで、あなたのドロップからオーダーカードを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

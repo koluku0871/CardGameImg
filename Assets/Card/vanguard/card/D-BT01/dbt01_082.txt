@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_082",
+  "PackNo": "D-BT01",
+  "CardName": "盗電怪獣ジャバッテール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの世界が深淵黒夜なら、このユニットがアタックする際、相手の、縦列１つのユニットすべてとバトルする。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

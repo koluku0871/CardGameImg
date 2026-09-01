@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_002",
+  "PackNo": "D-SS01",
+  "CardName": "荒食竜ハンガーザウルス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(R)】：あなたのターン中、このユニットのパワー＋5000し、相手の前列にリアガードがいるなら、このユニットはヴァンガードにアタックできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

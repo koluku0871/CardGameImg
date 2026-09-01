@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_132",
+  "PackNo": "D-TB06",
+  "CardName": "邪を砕きし救世の大聖女ジャンヌ・ダルク",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "聖騎士",
+  "Cost": "0",
+  "CardRarity": "MSR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_054",
+  "PackNo": "D-TB03",
+  "CardName": "キョンシー李白竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "キョンシー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたがノーマルオーダーをプレイした時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

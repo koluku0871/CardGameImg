@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_092",
+  "PackNo": "DZ-BT06",
+  "CardName": "光鱗竜コンファーズスケール・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが相手のカードの能力で(R)から退却した時、【コスト】[【ソウルブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

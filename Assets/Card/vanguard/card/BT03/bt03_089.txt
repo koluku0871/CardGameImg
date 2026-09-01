@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_089",
+  "PackNo": "BT03",
+  "CardName": "クリムゾン・ビーストテイマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたのソウルに「クリムゾン・ビーストテイマー」があるなら、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

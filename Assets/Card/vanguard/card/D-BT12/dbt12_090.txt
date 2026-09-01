@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_090",
+  "PackNo": "D-BT12",
+  "CardName": "スライヴィング・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、プラント・トークンを１枚まで(R)に【レスト】でコールする。（プラントはグレード０/パワー5000/クリティカル１でブーストを持つ）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

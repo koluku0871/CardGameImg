@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_072",
+  "PackNo": "BT09",
+  "CardName": "バーストライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)/(R)】：[【カウンターブラスト】(1)]そのターン中、このユニットのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

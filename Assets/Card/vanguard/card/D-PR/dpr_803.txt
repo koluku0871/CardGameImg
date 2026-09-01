@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_803",
+  "PackNo": "D-PR",
+  "CardName": "棺桶撃ち",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【ドロップ】【ターン1回】：【コスト】[【ソウルブラスト】(1)，ドロップからオーダーカードを１枚バインドする]ことで、このカードをユニットのいない(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

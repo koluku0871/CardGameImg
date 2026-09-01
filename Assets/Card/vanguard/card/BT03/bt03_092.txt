@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_092",
+  "PackNo": "BT03",
+  "CardName": "超次元ロボダイユーシャ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "3",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(V)】：あなたのアタックステップ開始時、このユニットのパワーが14000以上なら、そのバトル中、このユニットのクリティカル＋１。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

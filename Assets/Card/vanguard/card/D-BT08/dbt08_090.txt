@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_090",
+  "PackNo": "D-BT08",
+  "CardName": "サインポスト・フェアリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがあなたのカードの能力で(R)から退却した時、あなたのヴァンガードが【煌求者】なら、グレード１以下のあなたのリアガードを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

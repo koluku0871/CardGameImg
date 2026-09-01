@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd04_015",
+  "PackNo": "D-SD04",
+  "CardName": "獣を呼ぶ声",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "SD",
+  "Text": "effect=（ブリッツオーダーはガーディアンをコールするタイミングでのみプレイできる）あなたのユニットを１枚選び、そのバトル中、パワー＋5000。あなたの後列のリアガードが３枚以上なら、＋5000ではなく＋15000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

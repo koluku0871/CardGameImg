@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_032",
+  "PackNo": "D-BT05",
+  "CardName": "禁覧の魔女エルンマス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：あなたのターンにこのユニットが「ブラスター」を含むあなたのヴァンガードの能力で(R)から退却した時、【コスト】[【ソウルブラスト】(2)]することで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_619",
+  "PackNo": "D-PR",
+  "CardName": "未来の領主グランフィア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「俊英の賢狼グランフィア」にライドされた時、プラント・トークンを１枚(R)にコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

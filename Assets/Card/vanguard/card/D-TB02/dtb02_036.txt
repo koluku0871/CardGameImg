@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_036",
+  "PackNo": "D-TB02",
+  "CardName": "真なる魂を告白する者ゲーテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "魔人",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたのダメージゾーンが３枚以上なら、相手のヴァンガードを１枚選び、そのターン中、パワー－5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

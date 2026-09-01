@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_074",
+  "PackNo": "DZ-BT09",
+  "CardName": "奸悪の笑みヤーツ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【後列の(R)】：あなたのターン中、あなたのソウルが６枚以上なら、このユニットは『ブースト』を得て、相手のヴァンガードがグレード３以上なら、さらにパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

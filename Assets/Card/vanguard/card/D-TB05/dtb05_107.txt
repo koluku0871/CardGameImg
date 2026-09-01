@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_107",
+  "PackNo": "D-TB05",
+  "CardName": "北欧の最高神オーディン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "神",
+  "Cost": "1",
+  "CardRarity": "RGR",
+  "Text": "effect=【永】：守護者【自】：このユニットが(G)に置かれた時、あなたのユニットを１枚選び、そのバトル中、ヒットされない。あなたの手札が２枚以上なら、手札から１枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "0"
+}

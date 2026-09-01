@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_105",
+  "PackNo": "D-BT03",
+  "CardName": "リムーバル・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[手札から守護者を１枚捨てる]ことで、【カウンターチャージ】(1)か【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

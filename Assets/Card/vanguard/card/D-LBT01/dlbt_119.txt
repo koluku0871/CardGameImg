@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_119",
+  "PackNo": "D-LBT01",
+  "CardName": "ルミネセンス・ファウンテン",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたのリアガードが３枚以上なら、そのバトル中、アタックされているユニットすべてのパワー＋15000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

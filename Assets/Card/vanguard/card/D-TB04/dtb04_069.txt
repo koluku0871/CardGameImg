@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_069",
+  "PackNo": "D-TB04",
+  "CardName": "全身全霊の魂をかけて阿弥陀丸",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる）,critical=クリティカル0,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

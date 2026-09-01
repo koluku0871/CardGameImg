@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_141",
+  "PackNo": "D-TB04",
+  "CardName": "忠実なしもべブラムロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【永】【(R)】：このユニットが「串刺しの刑ボリス゠ツェペシュ゠ドラキュラ」をブーストしたバトル中、このユニットのパワー＋10000。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

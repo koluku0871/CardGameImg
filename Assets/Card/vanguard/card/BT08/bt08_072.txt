@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_072",
+  "PackNo": "BT08",
+  "CardName": "ハイビスカスの銃士ハンナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れられない。）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

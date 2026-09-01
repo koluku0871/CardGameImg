@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_130",
+  "PackNo": "DZ-BT09",
+  "CardName": "孤高のヒーローイサミ・アオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "勇気爆発バーンブレイバーン",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。【永】【ソウル】：あなたのヴァンガードが「ブレイバーン」を含むなら、このカードはカードの能力でソウルから離れない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_097",
+  "PackNo": "D-LBT01",
+  "CardName": "空震わせる躍動マリブエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=白翼（バインドに奇数グレードのみで有効）－【永】【(R)】：あなたのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

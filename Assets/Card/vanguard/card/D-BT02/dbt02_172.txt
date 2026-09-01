@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_172",
+  "PackNo": "D-BT02",
+  "CardName": "非業の死を乗り越えて",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！このカードをバインドし、あなたのドロップからオーダーカードを２枚まで選び、手札に加える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

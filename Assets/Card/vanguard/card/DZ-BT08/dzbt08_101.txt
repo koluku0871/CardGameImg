@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_101",
+  "PackNo": "DZ-BT08",
+  "CardName": "クノイダルフルード・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが手札から(G)に置かれた時、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップから【超】以外のトリガーユニットを１枚選び、(G)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

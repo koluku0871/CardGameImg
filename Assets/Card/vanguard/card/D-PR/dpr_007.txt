@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_007",
+  "PackNo": "D-PR",
+  "CardName": "ダイアフルドールゔぃおれった",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【ソウル】：あなたのソウルが10枚以上なら、【コスト】[【カウンターブラスト】(1)]することで、このカードを(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_075",
+  "PackNo": "DZ-BT11",
+  "CardName": "魔竜仙女ジョアイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットがブーストした時、あなたのヴァンガードがグレード３以上で、このターンにあなたがノーマルオーダーをプレイしているなら、そのバトル中、相手はインターセプトできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

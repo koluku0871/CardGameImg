@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt12_089",
+  "PackNo": "DZ-BT12",
+  "CardName": "パーセプト・メガバイザー",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたのリアガードを１枚選び、そのターン中、『【自】【(R)】【ターン1回】：このユニットがグレード３以上にアタックした時、相手は自分の手札から３枚選び、公開する。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

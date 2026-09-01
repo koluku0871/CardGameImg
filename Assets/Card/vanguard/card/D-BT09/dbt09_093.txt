@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_093",
+  "PackNo": "D-BT09",
+  "CardName": "樹角獣レサライ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターンの、このターン６回目以降のバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

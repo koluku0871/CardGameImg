@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd04_012",
+  "PackNo": "D-TTD04",
+  "CardName": "執念深い蜥蜴郎",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（トリガーで出たら、そのターン中、あなたの前列のユニットすべてのパワー＋10000！）,critical=クリティカル0,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_095",
+  "PackNo": "DZ-BT07",
+  "CardName": "ShoutinShadow",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "楽装",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【永】：このカードは、プレイできず、「アルティサリア」を含むユニットの能力以外であなたのオーダーゾーンに置けない。【自】：このカードがあなたのオーダーゾーンに置かれた時、１枚引き、夜影兵・トークンを１枚まで(R)にコールする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd03_013",
+  "PackNo": "D-TD03",
+  "CardName": "インターナライズ・メイジ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(R)】【ターン1回】：「ユースベルク」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(2)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

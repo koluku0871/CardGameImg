@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_124",
+  "PackNo": "D-LBT03",
+  "CardName": "アーリーアダプターロヴィーサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを退却させる]ことで、あなたのドロップから「LyricalShootingStarS」を１枚選び、手札に加える。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

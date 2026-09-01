@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_188",
+  "PackNo": "DZ-BT03",
+  "CardName": "極震剣・霹靂",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！相手のリアガードを１枚選び、退却させる。あなたのヴァンガードが〈サンダードラゴン〉なら、退却ではなくバインドする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

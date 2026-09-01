@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_074",
+  "PackNo": "D-BT03",
+  "CardName": "メタライズ・イロジオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのソウルが７枚以上なら、このユニットと同じ縦列の、相手のリアガードすべては『インターセプト』と『ブースト』を失い、得られない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

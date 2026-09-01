@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_098",
+  "PackNo": "BT08",
+  "CardName": "紫電魔剣の呪禁騎士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットのパワー－4000。【自】【(V)/(R)】：このユニットがアタックした時、あなたの《なるかみ》のヴァンガードがいるなら、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

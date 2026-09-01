@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_070",
+  "PackNo": "DZ-BT10",
+  "CardName": "巧爆竜エウディモランチャー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが、「荒牙之衆」を含むか〈ディノドラゴン〉の、あなたのヴァンガードの能力で(R)から退却した時、このカードをソウルに置き、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_086",
+  "PackNo": "D-TB05",
+  "CardName": "神VS人類最終闘争",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "RGR",
+  "Text": "effect=追加効果－そのターン中、あなたの前列の〈神〉すべてのパワー＋10000し、あなたのリアガードを１枚選び、スタンドさせる！,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

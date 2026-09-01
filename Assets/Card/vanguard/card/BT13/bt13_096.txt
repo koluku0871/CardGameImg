@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_096",
+  "PackNo": "BT13",
+  "CardName": "巡回遊泳のアザラシ兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットを【レスト】する]他のあなたの《アクアフォース》を１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

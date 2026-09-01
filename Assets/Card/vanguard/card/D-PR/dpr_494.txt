@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_494",
+  "PackNo": "D-PR",
+  "CardName": "涙する悪意",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【コスト】[リアガードを２枚退却させる]ことでプレイできる！１枚引き、このカードをソウルに置き、【カウンターチャージ】(1)。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

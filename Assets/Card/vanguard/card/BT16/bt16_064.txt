@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_064",
+  "PackNo": "BT16",
+  "CardName": "ウイングライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、このユニットと同じ縦列に他のあなたのカード名に「ライザー」を含むユニットがいるなら、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

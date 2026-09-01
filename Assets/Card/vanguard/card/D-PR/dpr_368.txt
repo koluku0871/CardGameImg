@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_368",
+  "PackNo": "D-PR",
+  "CardName": "大好きな時間リルファ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「リルファ」を含むグレード３にライドされた時、グレード２以上のあなたのリアガードを１枚選び、手札に戻してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

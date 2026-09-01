@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_108",
+  "PackNo": "D-BT07",
+  "CardName": "装破竜ウルバーゴ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "プレアドラゴン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このカードがドレス元になった時、【コスト】[【カウンターブラスト】(1)]することで、【ソウルチャージ】(1)し、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

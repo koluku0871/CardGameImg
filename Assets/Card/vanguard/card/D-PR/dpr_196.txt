@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_196",
+  "PackNo": "D-PR",
+  "CardName": "魂の運び手ゲル",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "ゲル",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=あなたの山札を上から１枚公開し、それがあなたのヴァンガードのグレード以下のユニットカードなら、(R)にコールし、違うなら、山札の下に置き、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

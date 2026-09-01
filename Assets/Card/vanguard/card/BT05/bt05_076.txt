@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_076",
+  "PackNo": "BT05",
+  "CardName": "ダークソウル・コンダクター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)からドロップゾーンに置かれた時、あなたの《ダークイレギュラーズ》のヴァンガードがいるなら、【ソウルチャージ】(2)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_061",
+  "PackNo": "D-TB05",
+  "CardName": "鼓舞する長男カイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "人類",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、「アダム」を含むあなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

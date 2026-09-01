@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_209",
+  "PackNo": "DZ-BT05",
+  "CardName": "ふぁんがおん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：あなたの他のユニットがこのユニットと同じ縦列の、ユニットのいる(R)に登場した時、【コスト】[【カウンターブラスト】(1)]することで、相手の後列のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

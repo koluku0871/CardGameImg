@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_068",
+  "PackNo": "BT03",
+  "CardName": "セクレタリー・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、あなたのソウルの《オラクルシンクタンク》が６枚以上なら、１枚引き、あなたの手札から１枚選び、山札の下に置く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd02_013",
+  "PackNo": "D-SD02",
+  "CardName": "ディアブロスオフィサーキリアン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "SD",
+  "Text": "effect=（トリガーで出たら、そのターン中、あなたの前列のユニットすべてのパワー＋10000！）,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_111",
+  "PackNo": "DZ-BT05",
+  "CardName": "豊年満咲エイピース・ラックルン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：「豊年満咲」を含むあなたの他のリアガードがいるなら、【コスト】[プラント・トークンを１枚退却させる]ことで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

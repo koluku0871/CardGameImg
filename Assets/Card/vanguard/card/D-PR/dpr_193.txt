@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_193",
+  "PackNo": "D-PR",
+  "CardName": "魂の運び手ブリュンヒルデ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "ブリュンヒルデ",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=「ブリュンヒルデ」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたの山札から〈人類〉を１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

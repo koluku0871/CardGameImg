@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_057",
+  "PackNo": "D-BT05",
+  "CardName": "忍竜ハダンレッソウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがあなたのヴァンガードの能力で(R)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

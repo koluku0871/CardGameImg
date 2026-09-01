@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1337",
+  "PackNo": "D-PR",
+  "CardName": "リザードソルジャージセン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

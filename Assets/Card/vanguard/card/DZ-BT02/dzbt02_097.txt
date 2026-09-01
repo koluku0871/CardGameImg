@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_097",
+  "PackNo": "DZ-BT02",
+  "CardName": "細剣の舞い手ディアナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたの他のユニットが山札から(R)に登場しているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

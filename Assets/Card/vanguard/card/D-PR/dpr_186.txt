@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_186",
+  "PackNo": "D-PR",
+  "CardName": "スネークチャーム・ポイズナー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたのソウルが７枚以上なら、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

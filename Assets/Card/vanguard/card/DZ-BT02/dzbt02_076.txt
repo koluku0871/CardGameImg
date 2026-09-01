@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_076",
+  "PackNo": "DZ-BT02",
+  "CardName": "竜魂共鳴",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたのヴァンガードを１枚選び、そのターン中、『【自】【(V)】【ターン1回】：このユニットが【スタンド】した時、そのターン中、あなたの前列のユニットすべてのパワー＋10000。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

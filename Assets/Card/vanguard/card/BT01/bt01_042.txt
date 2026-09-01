@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_042",
+  "PackNo": "BT01",
+  "CardName": "小さな賢者マロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

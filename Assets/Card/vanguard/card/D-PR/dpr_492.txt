@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_492",
+  "PackNo": "D-PR",
+  "CardName": "フレイミング・ポニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "キメラ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【ソウル】：【コスト】[このカードをバインドする]ことで、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_070",
+  "PackNo": "D-BT08",
+  "CardName": "ハドロンアクス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのオーダーゾーンに研究が置かれた時、【コスト】[このユニットを退却させる]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

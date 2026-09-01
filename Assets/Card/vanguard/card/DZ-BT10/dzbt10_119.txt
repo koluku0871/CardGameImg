@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_119",
+  "PackNo": "DZ-BT10",
+  "CardName": "Juicy-Fruityアップ・ルンルン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドリアード",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「Juicy-Fruityマンダ・リンダ」からライドして登場した時、【コスト】[ライドデッキから「Juicy-Fruity」を含むグレード３を１枚公開する]ことで、プラント・トークンを１枚(R)にコールする。（プラントはグレード０/パワー5000/クリティカル１でブーストを持つ）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

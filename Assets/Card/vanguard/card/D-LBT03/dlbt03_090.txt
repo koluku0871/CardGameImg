@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_090",
+  "PackNo": "D-LBT03",
+  "CardName": "#Ready_To_Goキョウカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「キョウカ」を含むグレード２にライドされた時、あなたはグレード１～３の中から１つ選び、宣言し、あなたの山札を上から５枚見て、宣言されたグレードのユニットカードか雑誌カードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

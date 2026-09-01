@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_055",
+  "PackNo": "BT05",
+  "CardName": "静寂の忍鬼シジママル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

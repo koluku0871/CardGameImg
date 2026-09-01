@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_105",
+  "PackNo": "D-BT04",
+  "CardName": "天兆の騎士グランディール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/トリガーゾーン】：あなたのヴァンガードが「頂を超える剣バスティオン・プライム」なら、このカードのグレード＋２/パワー＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

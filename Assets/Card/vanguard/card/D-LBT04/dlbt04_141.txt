@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_141",
+  "PackNo": "D-LBT04",
+  "CardName": "出会いを夢見てヘスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)，このユニットを退却させる]ことで、あなたの山札を上から３枚公開し、「Earnescorrect」を含むカードを２枚まで選び、手札に加え、山札をシャッフルする。それぞれ同名のカードを２枚選んだら、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_036",
+  "PackNo": "D-BT07",
+  "CardName": "影に潜む死神ゼイルモート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、あなたの山札を上から２枚見て、１枚まで選び、(R)にコールし、残りをソウルに置く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

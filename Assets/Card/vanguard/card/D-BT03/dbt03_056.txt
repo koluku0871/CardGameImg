@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_056",
+  "PackNo": "D-BT03",
+  "CardName": "豪傑竜ムサシドアーマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】：このユニットは別名のユニットに手札からノーマルライドされてもペルソナライドになる。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

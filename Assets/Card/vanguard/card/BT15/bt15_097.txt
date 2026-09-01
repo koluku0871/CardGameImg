@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_097",
+  "PackNo": "BT15",
+  "CardName": "マシニング・パピリオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの《メガコロニー》のヴァンガードがいるなら、相手のリアガードを１枚選び、そのユニットは、次の相手のスタンドフェイズ中、【スタンド】できない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

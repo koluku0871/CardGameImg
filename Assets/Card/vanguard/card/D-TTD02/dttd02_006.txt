@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd02_006",
+  "PackNo": "D-TTD02",
+  "CardName": "優雅なる花ノ国の精プルメリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "妖精族",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=（【インターセプト】を持つユニットは、前列のリアガードサークルからガーディアンサークルに移動し、ガードとして使える。ガードしたら、ドロップに置く）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

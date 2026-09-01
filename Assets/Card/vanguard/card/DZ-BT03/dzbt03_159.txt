@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_159",
+  "PackNo": "DZ-BT03",
+  "CardName": "エネルギー",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

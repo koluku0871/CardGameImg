@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_063",
+  "PackNo": "D-BT09",
+  "CardName": "忍竜レイジャスピア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、相手のバインドゾーンにカードがあるなら、【ソウルチャージ】(1)し、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

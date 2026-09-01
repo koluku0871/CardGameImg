@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_063",
+  "PackNo": "DZ-BT05",
+  "CardName": "バスィビクハープン・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが「クリスティアノス」を含むグレード３以上なら、このユニットは『インターセプト』を得て、後列からでもインターセプトでき、シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

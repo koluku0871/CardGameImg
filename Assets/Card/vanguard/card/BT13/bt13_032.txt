@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_032",
+  "PackNo": "BT13",
+  "CardName": "次元ロボダイマグナム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【起】【(R)】：[このユニットをソウルに置く]あなたの《ディメンジョンポリス》のヴァンガードを１枚選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

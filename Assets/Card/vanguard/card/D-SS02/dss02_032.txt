@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_032",
+  "PackNo": "D-SS02",
+  "CardName": "大渓谷の探究家C・K・ザカット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【中央後列の(R)】：このユニットは後列からでもインターセプトできる。【自】：このユニットが後列からインターセプトした時、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_064",
+  "PackNo": "D-TB05",
+  "CardName": "宮本武蔵の養子宮本伊織",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "人類",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：相手のバインドゾーン２枚につき、このユニットのパワー＋2000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

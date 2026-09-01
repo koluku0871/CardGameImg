@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_043",
+  "PackNo": "D-SS01",
+  "CardName": "天杖の癒し手アーシェス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

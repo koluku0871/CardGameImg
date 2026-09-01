@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_157",
+  "PackNo": "D-TB04",
+  "CardName": "イクパスイに込める手向けコロロ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "SKR",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

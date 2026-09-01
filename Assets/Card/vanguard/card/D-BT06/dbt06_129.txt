@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_129",
+  "PackNo": "D-BT06",
+  "CardName": "貫く想い",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)，手札から１枚捨てる]ことでプレイできる！あなたのドロップから【クロスオーバードレス】能力を持つカードを２枚選び、手札に加える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_118",
+  "PackNo": "D-BT02",
+  "CardName": "樹角獣クロコッテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックかブーストした時、【コスト】[【ソウルブラスト】(1)]することで、あなたのリアガード１枚につき、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

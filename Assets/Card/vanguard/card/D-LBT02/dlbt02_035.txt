@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_035",
+  "PackNo": "D-LBT02",
+  "CardName": "オーセンティックメロディエスメラルダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、このターンにあなたの「茜色らんうぇい」が歌われているなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

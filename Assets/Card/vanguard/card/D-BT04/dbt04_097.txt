@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_097",
+  "PackNo": "D-BT04",
+  "CardName": "轟然の天斬ゲトゥーゼ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがあなたのヴァンガードの能力で【スタンド】した時、あなたの他のリアガードを１枚選び、そのターン中、そのユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

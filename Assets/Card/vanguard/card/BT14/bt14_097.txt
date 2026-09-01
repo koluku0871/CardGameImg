@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_097",
+  "PackNo": "BT14",
+  "CardName": "祈願成就のジン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【起】【(R)】：[このユニットをソウルに置く，あなたの手札から１枚選び、捨てる]あなたの《なるかみ》のヴァンガードがいるなら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

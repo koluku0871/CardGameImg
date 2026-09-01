@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_045",
+  "PackNo": "BT03",
+  "CardName": "冥界のパペットマスター",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

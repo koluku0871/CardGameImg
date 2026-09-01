@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_155",
+  "PackNo": "D-BT09",
+  "CardName": "誉れ高き信義の方陣",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=グレード２以下のあなたのリアガードが５枚以上なら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！相手は自分の前列のリアガードすべてを山札の下に望む順で置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

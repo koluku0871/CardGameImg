@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_136",
+  "PackNo": "D-TB06",
+  "CardName": "磁力を掌握せし契約者オド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "ユニバース",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】【(G)】：あなたのモンスターBOXにカードが10枚以上なら、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

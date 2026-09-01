@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_200",
+  "PackNo": "D-PV01",
+  "CardName": "ディメンジョン・クリーパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ソウル】：【コスト】[このカードをドロップに置く]ことで、あなたのヴァンガードが《ダークイレギュラーズ》なら、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

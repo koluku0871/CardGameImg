@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_185",
+  "PackNo": "DZ-BT11",
+  "CardName": "焔の巫女アルトーレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが「ニルヴァーナ」を含むグレード３以上なら、グレード０のあなたの〈タリスマン〉のユニットすべてのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

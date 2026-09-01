@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_105",
+  "PackNo": "D-LBT02",
+  "CardName": "ビーティングハートカミラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【永】【前列の(R)】：このターンにあなたの「潮騒とわいらいと」が歌われているなら、あなたの前列のユニットすべてのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

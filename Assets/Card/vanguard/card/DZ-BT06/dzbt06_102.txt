@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_102",
+  "PackNo": "DZ-BT06",
+  "CardName": "歓送の乙女センディ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのターンにあなたのリアガードが、あなたのカードの能力で退却した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

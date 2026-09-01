@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_0025",
+  "PackNo": "BT03",
+  "CardName": "ヴァーミリオン・ゲートキーパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：他の《ダークイレギュラーズ》がこのユニットにライドした時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

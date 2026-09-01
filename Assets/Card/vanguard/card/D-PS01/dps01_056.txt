@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dps01_056",
+  "PackNo": "D-PS01",
+  "CardName": "邪槍の騎士ギリング",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【手札】：あなたが【超越】のコストを払う際、このカードをグレード３として捨ててよい。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

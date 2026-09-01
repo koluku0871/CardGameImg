@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_064",
+  "PackNo": "DZ-BT10",
+  "CardName": "アバンダンドロウジーウェリネーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがトークンユニットをブーストしたバトル終了時、【コスト】[【ソウルブラスト】(1)]することで、そのブーストされたユニットを手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

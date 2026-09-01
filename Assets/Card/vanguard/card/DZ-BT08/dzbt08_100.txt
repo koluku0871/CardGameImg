@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_100",
+  "PackNo": "DZ-BT08",
+  "CardName": "愛幸の乙女ラーレィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのヴァンガードが「リアノーン」を含むグレード３以上で、グレード１以下のあなたのリアガードが１枚以上なら、このユニットのシールド＋5000。３枚以上なら、＋5000ではなく＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_019",
+  "PackNo": "BT04",
+  "CardName": "ブラウクリューガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(V)】：あなたのソウルに「ブラウパンツァー」があるなら、このユニットのパワー＋1000。【自】【(V)】：このユニットのアタックがヴァンガードにヒットした時、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

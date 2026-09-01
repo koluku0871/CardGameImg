@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_080",
+  "PackNo": "BT13",
+  "CardName": "撃滅の星輝兵タングステン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、相手の呪縛カードがあるなら、そのバトル中、このユニットのパワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

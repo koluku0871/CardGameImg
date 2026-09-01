@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_103",
+  "PackNo": "DZ-BT10",
+  "CardName": "コンフォートラミナペチュニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのダメージゾーンが４枚以上なら、このユニットのパワー＋10000/シールド＋10000。（相手ターンも有効）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

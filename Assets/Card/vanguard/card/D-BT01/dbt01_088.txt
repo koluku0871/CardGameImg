@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_088",
+  "PackNo": "D-BT01",
+  "CardName": "柩機の竜バルビゾンデ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

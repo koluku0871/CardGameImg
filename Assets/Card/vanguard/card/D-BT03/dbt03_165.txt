@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_165",
+  "PackNo": "D-BT03",
+  "CardName": "死招きの黒呪術",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=このコストは、あなたのバインドゾーン１枚につき、【カウンターブラスト】(1)減る。【コスト】[【カウンターブラスト】(4)]することでプレイできる！２枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

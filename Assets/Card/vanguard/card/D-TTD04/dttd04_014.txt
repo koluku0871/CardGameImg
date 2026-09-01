@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd04_014",
+  "PackNo": "D-TTD04",
+  "CardName": "幸福な思い出エリザ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（【治】トリガーはデッキに合計４枚まで入れられる。トリガーで出たら、あなたのユニットを１枚選び、そのターン中、パワー＋10000！さらにあなたのダメージゾーンの枚数が相手のダメージゾーンの枚数以上なら、あなたのダメージゾーンから１枚選び、回復する！）,critical=クリティカル0,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

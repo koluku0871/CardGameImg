@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_057",
+  "PackNo": "BT05",
+  "CardName": "忍獣ムーンエッジ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

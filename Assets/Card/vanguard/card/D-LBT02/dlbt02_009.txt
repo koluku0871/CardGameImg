@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_009",
+  "PackNo": "D-LBT02",
+  "CardName": "驚異の急成長ルジェナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：このユニットが「Earnescorrect」を含むユニットをブーストしたバトル終了時、「クラリッサ」を含むあなたのヴァンガードがいるなら、【コスト】[【ソウルブラスト】(1)，このユニットを退却させる]ことで、あなたの山札から「Earnescorrect」を含むグレード３以下を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

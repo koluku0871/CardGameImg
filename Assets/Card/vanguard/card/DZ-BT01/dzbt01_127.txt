@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_127",
+  "PackNo": "DZ-BT01",
+  "CardName": "鍛錬の日々ラスカリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「ラスカリア」を含むグレード２にライドされた時、あなたの山札から【レガリスピース】を持たないグレード２以上のブリッツオーダーを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

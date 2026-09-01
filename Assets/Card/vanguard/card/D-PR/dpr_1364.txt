@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1364",
+  "PackNo": "D-PR",
+  "CardName": "WitchingVibratoライフェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「DynamicExciterエスティラ」からライドして登場した時、【コスト】[ライドデッキから「アルティサリア」を含むグレード３を１枚公開する]ことで、あなたの山札から楽装カードを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

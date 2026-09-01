@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_014",
+  "PackNo": "BT08",
+  "CardName": "睡蓮の銃士ルース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「銃士」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

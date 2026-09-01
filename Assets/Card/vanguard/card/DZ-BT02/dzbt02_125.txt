@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_125",
+  "PackNo": "DZ-BT02",
+  "CardName": "Poppin'Party戸山香澄",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Poppin'Party",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

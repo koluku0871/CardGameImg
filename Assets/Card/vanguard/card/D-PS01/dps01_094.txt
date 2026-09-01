@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dps01_094",
+  "PackNo": "D-PS01",
+  "CardName": "爆裂博士エゾノシン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【手札】：あなたが【超越】のコストを払う際、このカードをグレード３として捨ててよい。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

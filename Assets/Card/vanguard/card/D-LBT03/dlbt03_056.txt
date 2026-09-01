@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_056",
+  "PackNo": "D-LBT03",
+  "CardName": "羽ばたきの風音クリシェ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがドロップから(R)に登場した時、「メディエール」を含むあなたのヴァンガードを１枚選び、そのターン中、そのユニットとこのユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

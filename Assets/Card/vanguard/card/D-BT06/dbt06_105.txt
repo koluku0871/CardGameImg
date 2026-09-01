@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_105",
+  "PackNo": "D-BT06",
+  "CardName": "甘美なるは悪しき夢",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！１枚引き、あなたの山札を上から１枚見て、山札の上に置くか、捨てる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

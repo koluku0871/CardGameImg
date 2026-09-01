@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_048",
+  "PackNo": "D-TB03",
+  "CardName": "やんのかコラ木刀の竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「木刀の竜」からライドして(V)に登場した時、あなたの山札を上から５枚見て、「ベストプレイスを求めて」か「竜の仲間たち」を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

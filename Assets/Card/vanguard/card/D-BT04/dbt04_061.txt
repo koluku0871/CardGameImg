@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_061",
+  "PackNo": "D-BT04",
+  "CardName": "ライトニングハウル・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードのアタックがヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

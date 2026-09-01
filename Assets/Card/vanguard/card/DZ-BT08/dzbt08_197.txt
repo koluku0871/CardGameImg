@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_197",
+  "PackNo": "DZ-BT08",
+  "CardName": "スピニングショット・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウインドドラゴン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【後列の(R)】：あなたのターン中、あなたのヴァンガードが【邪竜解放】状態で、あなたの後列にこのユニットと同名の他のリアガードがいないなら、このユニットはカードの効果で退却せず、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

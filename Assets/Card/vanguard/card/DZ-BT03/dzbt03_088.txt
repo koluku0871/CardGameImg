@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_088",
+  "PackNo": "DZ-BT03",
+  "CardName": "砂塵の凛弾マロリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが、アタックかブーストした時、相手のヴァンガードがグレード３以上で、相手のリアガードが１枚以下なら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

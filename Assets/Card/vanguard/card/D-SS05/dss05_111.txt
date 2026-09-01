@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss05_111",
+  "PackNo": "D-SS05",
+  "CardName": "食べ過ぎ注意！アイリーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "Re",
+  "Text": "effect=【自】【(R)】：このユニットがリアガードをブーストした時、あなたの山札を上から１枚見て、山札の上か下に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

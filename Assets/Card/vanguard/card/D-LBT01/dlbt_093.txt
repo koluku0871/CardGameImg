@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_093",
+  "PackNo": "D-LBT01",
+  "CardName": "頼れる最上級生アリエス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：ユニットのいないあなたの(R)が３つ以上なら、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

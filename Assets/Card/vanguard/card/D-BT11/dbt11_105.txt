@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_105",
+  "PackNo": "D-BT11",
+  "CardName": "エレファスゾウカブト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ムシ",
+  "Cost": "2",
+  "CardRarity": "EX",
+  "Text": "effect=必殺わざ：ダゲキ超必殺わざ：ドラゴンアタック【体長】１３２ミリメートル【生まれたところ】メキシコ【せいかく】バランスタイプ【学名】MegasomaElephasたいりょく：160ダゲキわざ：80ハサミわざ：40ナゲわざ：40テクニック：60つよさ：160,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

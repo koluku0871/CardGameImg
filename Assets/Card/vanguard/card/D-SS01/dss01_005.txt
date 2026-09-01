@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_005",
+  "PackNo": "D-SS01",
+  "CardName": "焔の巫女ミリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：【オーバードレス】能力を持つあなたのユニットがアタックした時、【コスト】[このユニットをソウルに置く]ことで、【オーバードレス】能力を持つあなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

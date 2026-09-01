@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_064",
+  "PackNo": "D-LBT03",
+  "CardName": "極楽漂揺リュディヴィーヌ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：あなたのソウルに呪術演出カードが２枚以上なら、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

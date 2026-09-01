@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_072",
+  "PackNo": "DZ-BT11",
+  "CardName": "忍獣ジュソギンコ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：バトルフェイズにこのユニットが、いずれかのカードの能力で(R)から退却した時、【コスト】[【ソウルブラスト】(1)]することで、このカードを手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

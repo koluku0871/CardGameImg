@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_069",
+  "PackNo": "D-LBT02",
+  "CardName": "アウェイティングスマイルマルエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=黒翼（バインドに偶数グレードのみで有効）－【自】【(R)】：このユニットがブーストしたバトル終了時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

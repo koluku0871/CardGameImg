@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_066",
+  "PackNo": "DZ-BT03",
+  "CardName": "スチームファイターエミスム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、【コスト】[【エネルギーブラスト】(3)]することで、アタックしている相手のヴァンガードを１枚選び、そのターン中、パワー－5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

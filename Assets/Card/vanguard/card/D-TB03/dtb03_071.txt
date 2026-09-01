@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_071",
+  "PackNo": "D-TB03",
+  "CardName": "戦闘用呪符装着",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "道潤",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=「道潤」を含むあなたのユニットがいるならプレイできる！「李白竜」を含むあなたのユニットを１枚選び、そのターン中、パワー＋10000。相手のヴァンガードがグレード３以上なら、あなたはこのターン追加でもう１回オーダーをプレイできる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

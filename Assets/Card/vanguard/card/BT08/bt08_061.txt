@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_061",
+  "PackNo": "BT08",
+  "CardName": "世界を支える亀アクバーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《ネオネクタール》を１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

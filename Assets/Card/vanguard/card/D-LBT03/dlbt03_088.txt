@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_088",
+  "PackNo": "D-LBT03",
+  "CardName": "モフり名人トゥーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、【コスト】[【ソウルブラスト】(1)]することで、あなたの他の“友達”１枚につき、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_081",
+  "PackNo": "BT10",
+  "CardName": "魔竜導師マジラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、他のあなたの《なるかみ》を１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

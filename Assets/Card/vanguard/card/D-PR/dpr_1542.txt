@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1542",
+  "PackNo": "D-PR",
+  "CardName": "平和を目指す“勇者”ヒンメル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "葬送のフリーレン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

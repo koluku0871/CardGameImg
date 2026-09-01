@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_017",
+  "PackNo": "D-TB03",
+  "CardName": "コロポックルコロロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【起】【ドロップ】：「ホロホロ」を含むあなたのヴァンガードがいて、このターンにそのユニットが【オーバーソウル】していないなら、【コスト】[このカードをバインドする]ことで、あなたのドロップから「コロロ」を含むトリガーユニットを１枚選び、(R)にコールする。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

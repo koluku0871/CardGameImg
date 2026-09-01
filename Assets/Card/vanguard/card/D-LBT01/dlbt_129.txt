@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_129",
+  "PackNo": "D-LBT01",
+  "CardName": "天上リサイタルエマエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=黒翼－【自】【(R)】：このユニットがブーストされてアタックしたバトル終了時、あなたの、リアガードかソウルから１枚選び、手札に戻してよい。ソウルから選んだら、このユニットをソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

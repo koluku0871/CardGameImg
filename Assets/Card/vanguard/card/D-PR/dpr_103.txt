@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_103",
+  "PackNo": "D-PR",
+  "CardName": "こっそり自主練中メイジー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたの他のユニットが、(V)か(R)に登場した時、相手のヴァンガードがグレード３以上なら、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

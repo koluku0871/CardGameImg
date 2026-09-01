@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_135",
+  "PackNo": "D-TB03",
+  "CardName": "史上最強の名馬の霊黒桃",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【自】【(R)】：このユニットが、「道蓮」か「馬孫」を含む、ユニットをブーストした時、相手の前列にリアガードがいないなら、そのバトル中、そのブーストされたユニットのパワー＋10000。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

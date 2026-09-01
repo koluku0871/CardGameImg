@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_043",
+  "PackNo": "DZ-BT09",
+  "CardName": "ドラグリッターシャウク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【後列の(R)】【ターン1回】：このユニットと同じ縦列のあなたのユニットが【スタンド】した時、このユニットが【精神汚染】状態なら、このユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

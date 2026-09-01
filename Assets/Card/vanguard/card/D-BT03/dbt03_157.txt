@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_157",
+  "PackNo": "D-BT03",
+  "CardName": "守るべき誇り",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【コスト】[手札から１枚捨てる]ことでプレイできる！【永】【オーダーゾーン】：グレード３のあなたのリアガードすべてに『ブースト』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

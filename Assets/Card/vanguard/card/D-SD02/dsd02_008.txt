@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd02_008",
+  "PackNo": "D-SD02",
+  "CardName": "アクロバット・プレゼンター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "SD",
+  "Text": "effect=【自】【(R)】：このユニットがアタックかブーストした時、あなたのヴァンガードが「ディアブロス“暴虐”ブルース」なら【ソウルチャージ】(1)し、あなたが“一気呵勢”なら、さらに【ソウルチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

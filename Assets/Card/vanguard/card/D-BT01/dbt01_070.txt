@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_070",
+  "PackNo": "D-BT01",
+  "CardName": "入魂の操獣師メーガン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたが【ソウルチャージ】しているなら、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

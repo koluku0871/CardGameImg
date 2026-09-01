@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_109",
+  "PackNo": "D-BT04",
+  "CardName": "悪食拵え",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがドロップから(R)に登場した時、あなたのドロップからブリッツオーダーを１枚選び、手札に加えてよい。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

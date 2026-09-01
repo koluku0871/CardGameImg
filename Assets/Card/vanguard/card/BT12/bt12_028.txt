@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_028",
+  "PackNo": "BT12",
+  "CardName": "鳴動魔槌の呪禁騎士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(1)]このユニットがカード名に「ダンガリー」を含むユニットを【ブースト】した時、コストを払ってよい。払ったら、そのバトル中、【ブースト】されたユニットのパワー＋6000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

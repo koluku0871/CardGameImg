@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_169",
+  "PackNo": "D-TB04",
+  "CardName": "素霊状態スピリットオブファイア",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "SKR",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

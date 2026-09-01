@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_030",
+  "PackNo": "D-TB03",
+  "CardName": "星の男ハオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットと同じ縦列のあなたの「五大精霊スピリットオブファイア」がアタックした時、【コスト】[このユニットを【レスト】させる]ことで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

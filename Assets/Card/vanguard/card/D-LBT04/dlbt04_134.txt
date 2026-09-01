@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_134",
+  "PackNo": "D-LBT04",
+  "CardName": "賑やかな街並みオルハ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(G)】：グレード２以上のあなたのリアガードが３枚以上なら、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

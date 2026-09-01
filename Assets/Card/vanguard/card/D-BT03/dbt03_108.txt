@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_108",
+  "PackNo": "D-BT03",
+  "CardName": "廃滅の虚竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "スケルトン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(V)に登場した時、あなたのドロップからノーマルオーダーを１枚選び、そのコストを払わずにプレイしてよい。（このプレイも、プレイ回数に含む）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

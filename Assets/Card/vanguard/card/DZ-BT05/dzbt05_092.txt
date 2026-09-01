@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_092",
+  "PackNo": "DZ-BT05",
+  "CardName": "サーカムスペクト・メカニック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを【レスト】させる]ことで、このユニットと同じ縦列のあなたの他のリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

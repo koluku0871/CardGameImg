@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_054",
+  "PackNo": "D-BT13",
+  "CardName": "彩流のブレイブ・シューター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがあなたのカードの能力で【スタンド】した時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

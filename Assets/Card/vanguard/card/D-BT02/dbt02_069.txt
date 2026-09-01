@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_069",
+  "PackNo": "D-BT02",
+  "CardName": "スチームナイトパシャルタタル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：あなたのソウルが４枚以下なら、【コスト】[このユニットをソウルに置く]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

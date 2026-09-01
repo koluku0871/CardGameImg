@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_054",
+  "PackNo": "BT02",
+  "CardName": "お化けのりっく",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れられない。）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

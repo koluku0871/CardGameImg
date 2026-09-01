@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_086",
+  "PackNo": "BT03",
+  "CardName": "究極生命体コスモロード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "SP",
+  "Text": "effect=【起】【(V)】：[あなたの《ノヴァグラップラー》のリアガードを１枚選び、【レスト】する]そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

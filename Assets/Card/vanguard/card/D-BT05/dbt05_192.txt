@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_192",
+  "PackNo": "D-BT05",
+  "CardName": "眠りからの目覚めロロワ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：このユニットが「バイオロイドの少年ロロワ」からライドして登場した時、プラント・トークンを１枚まで中央後列の(R)にコールする。【煌求者】,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

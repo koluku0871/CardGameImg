@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd01_015",
+  "PackNo": "D-SD01",
+  "CardName": "サンバースト・エヴォリューション",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "SD",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたのユニットを１枚選び、そのターン中、パワー＋5000。あなたのドロップから「ヴェルリーナ」を１枚選び、手札に加える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

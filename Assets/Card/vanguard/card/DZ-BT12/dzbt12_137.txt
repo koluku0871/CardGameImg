@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt12_137",
+  "PackNo": "DZ-BT12",
+  "CardName": "天才的予言ポップバンド終末運命共同隊",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

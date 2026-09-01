@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_090",
+  "PackNo": "DZ-BT11",
+  "CardName": "スヌープ・センシェント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、【コスト】[【エネルギーブラスト】(3)]することで、アタックしているユニットのグレード１につき、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

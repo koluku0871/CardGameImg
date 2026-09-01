@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_569",
+  "PackNo": "D-PR",
+  "CardName": "怨恨の冥竜神ゴルマギエルド",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=追加効果－このファイト中、あなたは『あなたのターン中、あなたのヴァンガードすべてのパワー＋10000/クリティカル＋１』を得る！,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

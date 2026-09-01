@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_050",
+  "PackNo": "D-TB04",
+  "CardName": "拷問姫アイアンメイデン・ジャンヌ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「絶対なる法の裁きアイアンメイデン・ジャンヌ」にライドされた時、あなたの山札を上から５枚見て、「シャマシュ」か「X-LAWS」を含む、ユニットカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

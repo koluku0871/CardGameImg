@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1160",
+  "PackNo": "D-PR",
+  "CardName": "ブリッツデザイナーギード",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

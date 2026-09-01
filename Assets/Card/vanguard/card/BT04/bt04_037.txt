@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_037",
+  "PackNo": "BT04",
+  "CardName": "アンバー・ドラゴン“暁”",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：「アンバー・ドラゴン“白日”」がこのユニットにライドした時、あなたの山札から「アンバー・ドラゴン“黄昏”」を１枚まで探し、相手に見せ、手札に加え、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

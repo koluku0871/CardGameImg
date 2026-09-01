@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_170",
+  "PackNo": "D-BT02",
+  "CardName": "樹角獣ボジャルコン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットは『【永】【後列の(R)】：このユニットがアタックする際、相手の前列のユニットすべてとバトルする。』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_058",
+  "PackNo": "D-BT13",
+  "CardName": "ドラグリッターカターダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのライドデッキに、あなたのヴァンガードと同名の表のカードがあるなら、このユニットのパワー＋10000。（相手ターンも有効）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_148",
+  "PackNo": "DZ-BT08",
+  "CardName": "進み始める五人の迷子",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=追加効果－あなたのドロップからそれぞれ別名の、あなたのヴァンガードと共通の種族を持つノーマルユニットを５枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

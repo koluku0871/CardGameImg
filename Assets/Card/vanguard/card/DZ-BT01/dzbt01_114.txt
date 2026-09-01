@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_114",
+  "PackNo": "DZ-BT01",
+  "CardName": "がるがおん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが「レザエル」を含むグレード３以上なら、このユニットのパワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

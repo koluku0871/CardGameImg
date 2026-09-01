@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_113",
+  "PackNo": "D-PR",
+  "CardName": "月夜に寄り添う二人",
+  "CardCategory": "トリガーオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=追加効果－相手のヴァンガードを１枚選び、１ダメージ！プレイ時効果－このターンにあなたのヴァンガードが【オーバーソウル】しているなら、相手のリアガードすべてを退却させる。,critical=クリティカル-,skill=-,gift=オーバートリガー＋100000000,",
+  "Attack": "0",
+  "Defense": "0"
+}

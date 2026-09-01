@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_225",
+  "PackNo": "DZ-BT03",
+  "CardName": "パージスト・クロロフォラス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：このユニットが、アタックかブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、あなたの山札を上から７枚見て、経文カードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

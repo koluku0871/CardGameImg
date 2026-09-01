@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_021",
+  "PackNo": "D-SS02",
+  "CardName": "極光戦姫バラージ・ルトラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックしたバトル中に相手のユニットが、(R)か(G)から退却した時、その退却したカードをあなたの監獄に収容する。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

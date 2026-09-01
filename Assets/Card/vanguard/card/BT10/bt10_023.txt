@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_023",
+  "PackNo": "BT10",
+  "CardName": "宝石騎士ぷりずみー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[あなたの手札から１枚選び、捨てる]このユニットが(R)に登場した時、他のあなたのカード名に「宝石騎士」を含むリアガードが３枚以上なら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

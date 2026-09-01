@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd03_019",
+  "PackNo": "D-TTD03",
+  "CardName": "目覚めし衆生の救済者ミロク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "神",
+  "Cost": "1",
+  "CardRarity": "MSR",
+  "Text": "effect=【自】：このユニットがライドされた時、このカードを(R)にコールしてよい。【自】【(R)】：このユニットがブーストした時、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

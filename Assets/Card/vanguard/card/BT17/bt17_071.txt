@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_071",
+  "PackNo": "BT17",
+  "CardName": "煉獄武僧ハッカイ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「煉獄」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_152",
+  "PackNo": "D-BT09",
+  "CardName": "クリスタライズ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットがインターセプトした時、あなたの後列のリアガードを１枚選び、(G)に移動させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_099",
+  "PackNo": "D-BT06",
+  "CardName": "リコーダー・ラクーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、「リアノーン」を含むあなたのヴァンガードがいるなら、そのバトル中、相手はインターセプトできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

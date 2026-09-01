@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_221",
+  "PackNo": "D-BT04",
+  "CardName": "ドラグリッターサルマー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "WO",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

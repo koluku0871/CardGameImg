@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_159",
+  "PackNo": "D-LBT01",
+  "CardName": "破顔の竜鱗イルゼ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

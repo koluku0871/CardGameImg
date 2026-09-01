@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_050",
+  "PackNo": "D-PR",
+  "CardName": "希望を導く天聖ビナー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "妖精族",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_170",
+  "PackNo": "D-PR",
+  "CardName": "注目株ミュゼパアル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットと同じ縦列に、あなたの他のリアガードが登場した時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

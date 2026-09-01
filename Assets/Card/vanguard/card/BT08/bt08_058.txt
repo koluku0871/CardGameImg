@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_058",
+  "PackNo": "BT08",
+  "CardName": "黒百合の銃士ヘルマン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットが《ネオネクタール》にブーストされた時、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

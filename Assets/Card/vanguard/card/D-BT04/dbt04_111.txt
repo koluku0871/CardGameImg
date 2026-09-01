@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_111",
+  "PackNo": "D-BT04",
+  "CardName": "純然の乙女ベランカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのヴァンガードがグレード３以上なら、このユニットのシールド＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_100",
+  "PackNo": "D-BT04",
+  "CardName": "天閃の騎士エクレシア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットがアタックした時、このユニットと同じ縦列にあなたの他のグレード３がいるなら、そのターン中、このユニットのグレード＋１/パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

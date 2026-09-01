@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_046",
+  "PackNo": "D-TB03",
+  "CardName": "ただならぬ気配ファウストⅧ世",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「ファウストⅧ世」からライドして(V)に登場した時、あなたの山札を上から５枚捨て、ドロップから「エリザ」を含むカードを１枚まで選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_058",
+  "PackNo": "D-BT05",
+  "CardName": "ランブリングシアー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがインターセプトした時、相手のヴァンガードがグレード３以上なら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

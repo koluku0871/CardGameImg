@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_047",
+  "PackNo": "BT17",
+  "CardName": "探索者プラチナ・ライダー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

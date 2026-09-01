@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd03_012",
+  "PackNo": "D-TTD03",
+  "CardName": "華々しき饗宴の魔女ワルプルギス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "魔族",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（トリガーで出たら、１枚引く！さらにあなたのユニットを１枚選び、そのターン中、パワー＋10000！）,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

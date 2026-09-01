@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_156",
+  "PackNo": "D-LBT02",
+  "CardName": "麗し王子メレディス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの山札を上から７枚見て、オーダーカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

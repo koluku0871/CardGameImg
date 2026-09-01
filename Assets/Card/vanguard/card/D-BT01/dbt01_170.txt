@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_170",
+  "PackNo": "D-BT01",
+  "CardName": "愛執の迷い子",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_032",
+  "PackNo": "BT08",
+  "CardName": "突撃竜パージファロス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、そのターン中、あなたの《たちかぜ》が(R)からドロップゾーンに置かれているなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

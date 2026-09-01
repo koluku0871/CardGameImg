@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_331",
+  "PackNo": "DZ-BT02",
+  "CardName": "エネルギー",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "エネルギー",
+  "Cost": "",
+  "CardRarity": "T",
+  "Text": "effect=-,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

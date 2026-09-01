@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_089",
+  "PackNo": "BT08",
+  "CardName": "輸送鯨艦カイリン丸",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、他のあなたの《アクアフォース》のリアガードが４枚以上なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_018",
+  "PackNo": "D-BT10",
+  "CardName": "紅鱗の剣客バルナイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、このターンにいずれかのリアガードが退却しているなら、【コスト】[このユニットを裏でバインドする]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

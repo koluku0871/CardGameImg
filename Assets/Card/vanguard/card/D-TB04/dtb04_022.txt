@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_022",
+  "PackNo": "D-TB04",
+  "CardName": "神の権威シャマシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが【オーバーソウル】のコストで(R)からソウルに置かれた時、あなたのドロップから〈シャーマン〉を１枚まで選び、(R)にコールする。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

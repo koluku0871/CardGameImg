@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_059",
+  "PackNo": "D-BT02",
+  "CardName": "装甲竜マウントキャノン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【前列の(R)】：グレード０のあなたのユニットがアタックした時、そのターン中、そのアタックしたユニットとこのユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

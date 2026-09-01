@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_154",
+  "PackNo": "DZ-BT07",
+  "CardName": "ヒートエレメンタルマーグ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "エレメンタル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

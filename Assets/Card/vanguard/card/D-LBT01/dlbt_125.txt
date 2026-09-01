@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_125",
+  "PackNo": "D-LBT01",
+  "CardName": "Earnescorrectメンバーカタリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：あなたの(V)にいる「Earnescorrectリーダークラリッサ」のアタックがヒットした時、【コスト】[【カウンターブラスト】(1)，手札から１枚捨てる]ことで、このユニットを【スタンド】させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

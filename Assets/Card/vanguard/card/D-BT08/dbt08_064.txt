@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_064",
+  "PackNo": "D-BT08",
+  "CardName": "エンミティーズ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンにこのカードがカードの能力でソウルに置かれた時、あなたのヴァンガードが【煌求者】なら、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

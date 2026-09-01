@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_093",
+  "PackNo": "D-BT10",
+  "CardName": "ハツラツ・カクタス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ドリアード",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットが龍樹マーカーのある(R)にいるなら、このユニットは『ブースト』を得て、後列からでもインターセプトできる。（相手ターンも有効）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

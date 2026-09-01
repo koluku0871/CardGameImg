@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_076",
+  "PackNo": "D-TB03",
+  "CardName": "たまおの占い",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "玉村たまお",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=「玉村たまお」を含むあなたのユニットがいるなら、【コスト】[【ソウルブラスト】(1)]することでプレイできる！１枚引き、あなたの山札を上から１枚公開する。それがトリガーカード以外なら、「玉村たまお」を含むユニットを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

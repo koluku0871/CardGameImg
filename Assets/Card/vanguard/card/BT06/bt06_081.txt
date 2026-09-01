@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_081",
+  "PackNo": "BT06",
+  "CardName": "天網のストラテジスト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、他のあなたの《ゴールドパラディン》のリアガードが４枚以上なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

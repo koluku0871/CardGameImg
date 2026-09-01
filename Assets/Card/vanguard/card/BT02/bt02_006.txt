@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_006",
+  "PackNo": "BT02",
+  "CardName": "封竜ブロケード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(V)】：あなたのターン中、相手のユニットすべては、【インターセプト】できない。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

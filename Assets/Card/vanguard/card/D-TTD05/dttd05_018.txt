@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd05_018",
+  "PackNo": "D-TTD05",
+  "CardName": "勝利への選択ブリュンヒルデ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "戦乙女",
+  "Cost": "1",
+  "CardRarity": "RGR",
+  "Text": "effect=【自】：このユニットが「ブリュンヒルデ」からライドして登場した時、【コスト】[【ソウルブラスト】(1)]することで、あなたの山札を上から１枚見て、山札の上か下に置き、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

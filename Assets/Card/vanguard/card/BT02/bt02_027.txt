@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_027",
+  "PackNo": "BT02",
+  "CardName": "ギガンテック・チャージャー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(V)か(R)に登場した時、あなたの山札の上を公開する。そのカードが《ロイヤルパラディン》なら、そのカードを(R)にコールし、違うなら、その山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_130",
+  "PackNo": "D-BT03",
+  "CardName": "焔の拳僧テンジ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：あなたのリアガードが登場した時、【オーバードレス】したなら、１枚引いてよい。引いたら、あなたの手札から１枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

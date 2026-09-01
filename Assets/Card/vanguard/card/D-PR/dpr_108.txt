@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_108",
+  "PackNo": "D-PR",
+  "CardName": "ボーヴァインブラスト・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：このユニットは各ターン４回目のバトルでしかアタックできない。,critical=クリティカル2,skill=インターセプト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

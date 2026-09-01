@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_011",
+  "PackNo": "D-LBT02",
+  "CardName": "Sweet×Sweet",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたの山札を上から５枚見て、ユニットカードを１枚まで選び、(R)にコールし、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

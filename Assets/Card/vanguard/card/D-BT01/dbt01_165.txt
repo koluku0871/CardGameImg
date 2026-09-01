@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_165",
+  "PackNo": "D-BT01",
+  "CardName": "悲嘆と絶望、そして拒絶",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたのヴァンガードが「怪雨の降霊術師ゾルガ」なら、あなたのユニットを３枚選び、そのターン中、パワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

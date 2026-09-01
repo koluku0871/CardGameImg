@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_048",
+  "PackNo": "BT17",
+  "CardName": "槍衾の解放者マリウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)】：[【カウンターブラスト】(1)]あなたのカード名の異なるリアガードが５枚以上なら、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

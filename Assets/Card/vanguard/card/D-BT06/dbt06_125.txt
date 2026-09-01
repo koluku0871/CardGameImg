@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_125",
+  "PackNo": "D-BT06",
+  "CardName": "装閃竜ブラマーダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "プレアドラゴン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このカードがドレス元になった時、【コスト】[【カウンターブラスト】(1)]することで、２枚引き、あなたの手札から１枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

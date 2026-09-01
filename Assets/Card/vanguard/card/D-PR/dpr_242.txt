@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_242",
+  "PackNo": "D-PR",
+  "CardName": "樹角獣エンピックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【後列の(R)】：このユニットのパワー＋10000し、あなたのリアガードが３枚以下なら、このユニットと同じ縦列のあなたのリアガードすべては相手のカードの効果で選べない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

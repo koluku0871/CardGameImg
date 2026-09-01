@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_043",
+  "PackNo": "BT17",
+  "CardName": "探索者せぶるみー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがヴァンガードにアタックした時、あなたの前列のカード名に「探索者」を含む、ヴァンガードかリアガードが３枚以上なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

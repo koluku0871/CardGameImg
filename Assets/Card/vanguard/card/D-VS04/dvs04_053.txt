@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs04_053",
+  "PackNo": "D-VS04",
+  "CardName": "金翼の呪姫ローディア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(V)/(R)】：あなたのソウル１枚につき、このユニットのパワー＋1000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

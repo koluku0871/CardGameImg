@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_191",
+  "PackNo": "DZ-BT07",
+  "CardName": "Daylight-デイライト-",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "楽曲/Morfonica",
+  "Cost": "1",
+  "CardRarity": "EXC",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【自】：このカードが(R)に置かれた時、あなたの山札を上から１枚公開し、手札に加える。公開されたカードがトリガーユニットなら、〈Morfonica〉のあなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

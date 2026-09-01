@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_143",
+  "PackNo": "D-BT04",
+  "CardName": "荒躙怪獣メガグラーゴ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヒットした時、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

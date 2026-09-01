@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_113",
+  "PackNo": "DZ-BT08",
+  "CardName": "貼ってあげるねケアリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：あなたのヴァンガードが「カイリ」を含むグレード３以上なら、【コスト】[このユニットをソウルに置く]ことで、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

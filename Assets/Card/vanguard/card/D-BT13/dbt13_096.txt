@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_096",
+  "PackNo": "D-BT13",
+  "CardName": "ブライブ・ホッパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが「ゾルガ」を含むヴァンガードをブーストした時、【コスト】[【カウンターブラスト】(1)]することで、あなたのバインドゾーンからノーマルオーダーを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

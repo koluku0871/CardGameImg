@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_040",
+  "PackNo": "D-TB02",
+  "CardName": "一国一城を盗みし大義賊ねずみ小僧",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "獣族",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヒットした時、２枚引き、あなたの手札から２枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

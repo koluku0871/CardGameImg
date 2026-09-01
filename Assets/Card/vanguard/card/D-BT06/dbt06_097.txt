@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_097",
+  "PackNo": "D-BT06",
+  "CardName": "深緑の守り人パトリヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴーレム",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのユニットが５枚以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_070",
+  "PackNo": "BT08",
+  "CardName": "四葉のフェアリー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "シルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

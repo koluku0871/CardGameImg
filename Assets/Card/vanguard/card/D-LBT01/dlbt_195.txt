@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_195",
+  "PackNo": "D-LBT01",
+  "CardName": "英才と気品とエーリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：このユニットがブーストされた時、あなたのヴァンガードが「Astesiceカイリ」なら、【コスト】[【カウンターブラスト】(1)]することで、あなたの手札から１枚まで選び、ユニットのいない(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

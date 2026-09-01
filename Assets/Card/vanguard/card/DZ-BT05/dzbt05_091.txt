@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_091",
+  "PackNo": "DZ-BT05",
+  "CardName": "ガルー・ザ・キックスパイカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、あなたのオーダーゾーンに【レスト】しているカードが２枚以上なら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

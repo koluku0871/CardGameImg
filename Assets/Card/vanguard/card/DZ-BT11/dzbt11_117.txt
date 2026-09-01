@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_117",
+  "PackNo": "DZ-BT11",
+  "CardName": "サニーヌーンミラーデ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのリアガードが３枚以上なら、そのバトル中、このユニットのシールド＋5000。５枚以上なら、＋5000ではなく＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

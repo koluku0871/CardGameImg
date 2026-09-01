@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_104",
+  "PackNo": "D-BT09",
+  "CardName": "すとぷりころん",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/すとぷり",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=（これはプラント・トークンを表すカードであり、デッキには入れられない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "0"
+}

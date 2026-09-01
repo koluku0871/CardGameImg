@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_080",
+  "PackNo": "BT05",
+  "CardName": "スカイハイ・ウォーカー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴブリン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《ペイルムーン》のヴァンガードがいるなら、あなたのダメージゾーンから１枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

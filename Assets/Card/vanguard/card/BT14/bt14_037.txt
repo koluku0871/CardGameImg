@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_037",
+  "PackNo": "BT14",
+  "CardName": "番傘の忍鬼スケロック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：[【ソウルブラスト】(1)]あなたの《むらくも》のヴァンガードがいるなら、ユニットのいないあなたの(R)を1つ選び、このユニットを移動する。（カードの向きは変わらない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

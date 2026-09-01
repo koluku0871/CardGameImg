@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_040",
+  "PackNo": "D-TB05",
+  "CardName": "限界ギリギリのラッシュ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(G)】：あなたのヴァンガードが、〈人類〉か〈戦乙女〉で、相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_161",
+  "PackNo": "D-TB03",
+  "CardName": "ホーミングペンデュラム",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "リゼルグ",
+  "Cost": "2",
+  "CardRarity": "SKR",
+  "Text": "effect=「リゼルグ」を含むあなたのユニットがいるなら、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することでプレイできる！「リゼルグ」を含むあなたのユニットを１枚選び、そのターン中、そのユニットがアタックする際、相手の前列のユニットすべてとバトルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

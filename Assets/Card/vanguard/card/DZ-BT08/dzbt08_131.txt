@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_131",
+  "PackNo": "DZ-BT08",
+  "CardName": "背負う覚悟豊川祥子",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "AveMujica",
+  "Cost": "2",
+  "CardRarity": "EXC",
+  "Text": "effect=【自】：このユニットが「気高きオブリビオニス」にライドされた時、あなたの山札を上から７枚見て、〈AveMujica〉を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

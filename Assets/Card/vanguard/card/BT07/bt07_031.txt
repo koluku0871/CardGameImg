@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_031",
+  "PackNo": "BT07",
+  "CardName": "百発百中ミア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットが《ペイルムーン》を【ブースト】したバトル中、アタックがヴァンガードにヒットした時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

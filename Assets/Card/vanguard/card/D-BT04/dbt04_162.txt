@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_162",
+  "PackNo": "D-BT04",
+  "CardName": "重撃のブレイブ・シューター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのヴァンガードが「旗艦竜フラッグバーグ・ドラゴン」なら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

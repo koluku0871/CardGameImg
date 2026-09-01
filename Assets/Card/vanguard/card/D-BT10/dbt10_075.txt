@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_075",
+  "PackNo": "D-BT10",
+  "CardName": "スレト・フュージェネゲイター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのオーダーゾーンにグレード３以上のセットオーダーがあるなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

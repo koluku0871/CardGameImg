@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_037",
+  "PackNo": "BT06",
+  "CardName": "サンダーストーム・ドラグーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

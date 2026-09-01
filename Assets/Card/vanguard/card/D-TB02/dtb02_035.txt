@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_035",
+  "PackNo": "D-TB02",
+  "CardName": "終極天魔王を支えし忠義者森蘭丸",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "サムライ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(V)/(R)】【ターン1回】：【コスト】[【カウンターブラスト】(3)]することで、そのターン中、このユニットのパワー＋10000/クリティカル＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_033",
+  "PackNo": "D-SS02",
+  "CardName": "樹角獣カマプー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたの後列のグレード２以上のユニット１枚につき、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

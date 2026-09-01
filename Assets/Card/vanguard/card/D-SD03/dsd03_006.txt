@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dsd03_006",
+  "PackNo": "D-SD03",
+  "CardName": "斧鉞の騎士ラフルク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "SD",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、グレード３のあなたのリアガードを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

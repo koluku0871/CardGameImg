@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_018",
+  "PackNo": "BT05",
+  "CardName": "虚空の騎士マスカレード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「ブラスター」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

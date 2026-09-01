@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_045",
+  "PackNo": "D-SS02",
+  "CardName": "樹角獣アルマディ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：あなたの他のユニットが後列からアタックした時、【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、そのバトル中、そのアタックしているユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

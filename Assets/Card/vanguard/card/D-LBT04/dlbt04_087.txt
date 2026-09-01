@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_087",
+  "PackNo": "D-LBT04",
+  "CardName": "祭りの勝者エリナー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

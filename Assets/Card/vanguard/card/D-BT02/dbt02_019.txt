@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_019",
+  "PackNo": "D-BT02",
+  "CardName": "爆食怪獣マルノルム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[手札からセットオーダーカードを１枚捨てる]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

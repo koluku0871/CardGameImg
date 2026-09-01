@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_786",
+  "PackNo": "D-PR",
+  "CardName": "LinK西尾夕香",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

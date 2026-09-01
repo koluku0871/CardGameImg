@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd02_023",
+  "PackNo": "D-TTD02",
+  "CardName": "運命を繋ぐ者ハレルヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "聖騎士",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

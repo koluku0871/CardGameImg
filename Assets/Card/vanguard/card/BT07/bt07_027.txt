@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_027",
+  "PackNo": "BT07",
+  "CardName": "タンク・マウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：[このユニットを【レスト】する]あなたの《グレートネイチャー》のリアガードを１枚選び、そのターン中、パワー＋4000し、そのターンのエンドフェイズ開始時、そのユニットを退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

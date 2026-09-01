@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_040",
+  "PackNo": "BT09",
+  "CardName": "呪禁魔竜インディゴ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このユニットはグレード２以下のユニットを【ブースト】できない。【自】【(R)】：このユニットが《なるかみ》を【ブースト】した時、そのバトル中、【ブースト】されたユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

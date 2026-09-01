@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_144",
+  "PackNo": "D-BT13",
+  "CardName": "断固たる決意はこの手に",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=あなたのリアガードが３枚以上ならプレイできる！アタックされているユニットを１枚選び、そのバトル中、パワー＋15000。このターンに相手のヴァンガードがカードの能力で登場しているなら、＋15000ではなく＋30000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

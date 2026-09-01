@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_054",
+  "PackNo": "BT14",
+  "CardName": "守護聖獣ケリュネイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《ゴールドパラディン》を１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

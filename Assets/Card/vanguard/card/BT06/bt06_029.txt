@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_029",
+  "PackNo": "BT06",
+  "CardName": "デッドリースピリット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【起】【ドロップゾーン】：[【ソウルブラスト】(2)，あなたのグレード１以上の《グランブルー》のリアガードを１枚選び、退却させる]あなたの《グランブルー》のヴァンガードがいるなら、このカードを(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

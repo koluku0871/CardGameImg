@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_142",
+  "PackNo": "D-TB05",
+  "CardName": "平和の神フォルセティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "神",
+  "Cost": "2",
+  "CardRarity": "RGR",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたのヴァンガードが〈神〉なら、【コスト】[【ソウルブラスト】(2)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

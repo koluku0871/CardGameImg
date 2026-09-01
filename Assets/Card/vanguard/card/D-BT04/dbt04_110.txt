@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_110",
+  "PackNo": "D-BT04",
+  "CardName": "腐滅の簒竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "スケルトン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【ドロップ】：グレード３以上のあなたのヴァンガードが登場した時、このカードを(R)にコールしてよい。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

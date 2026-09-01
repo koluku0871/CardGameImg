@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_104",
+  "PackNo": "DZ-BT05",
+  "CardName": "クリムゾンフォウリージ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、このユニットのパワーが23000以上なら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

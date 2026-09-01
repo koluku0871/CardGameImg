@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_075",
+  "PackNo": "BT02",
+  "CardName": "ブレザープレジャーズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、他のあなたの《バミューダ△》を１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

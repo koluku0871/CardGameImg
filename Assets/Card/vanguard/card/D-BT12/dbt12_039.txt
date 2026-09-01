@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_039",
+  "PackNo": "D-BT12",
+  "CardName": "猛撃竜フィリングレックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、クリティカル２以上のあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

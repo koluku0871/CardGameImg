@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_010",
+  "PackNo": "BT06",
+  "CardName": "記録者アルマロス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：[(2)]このユニットのアタックがヒットした時、あなたの《エンジェルフェザー》のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

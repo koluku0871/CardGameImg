@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_112",
+  "PackNo": "DZ-BT01",
+  "CardName": "躍進の騎士アゼンシオル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「レザエル」を含むグレード３にライドされた時、あなたのドロップからグレード２以下を１枚選び、(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

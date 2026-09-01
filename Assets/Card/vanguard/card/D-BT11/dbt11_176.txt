@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_176",
+  "PackNo": "D-BT11",
+  "CardName": "甘やかな蜜に誘われて",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！あなたのユニットを１枚選び、そのバトル中、パワー＋15000。あなたのドロップにブリッツオーダーがあるなら、＋15000ではなく＋25000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

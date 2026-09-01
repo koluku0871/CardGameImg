@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_084",
+  "PackNo": "D-BT12",
+  "CardName": "苛烈の騎士アンガス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、あなたのリアガードの枚数が相手より２枚以上多いなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

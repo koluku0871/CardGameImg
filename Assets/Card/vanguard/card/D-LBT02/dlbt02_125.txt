@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_125",
+  "PackNo": "D-LBT02",
+  "CardName": "傲岸不遜お嬢様アロエル",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

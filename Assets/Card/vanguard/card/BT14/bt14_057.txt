@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_057",
+  "PackNo": "BT14",
+  "CardName": "双聖獣ブラックライオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたの《ゴールドパラディン》のリアガードが４枚以上いるなら、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

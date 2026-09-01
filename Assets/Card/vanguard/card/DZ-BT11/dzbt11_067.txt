@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_067",
+  "PackNo": "DZ-BT11",
+  "CardName": "ドラグリッターサフル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットは相手の後列のユニットにもアタックできる。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

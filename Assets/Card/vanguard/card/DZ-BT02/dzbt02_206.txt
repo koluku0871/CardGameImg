@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_206",
+  "PackNo": "DZ-BT02",
+  "CardName": "溢れ出る想いと詞",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "EXP",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

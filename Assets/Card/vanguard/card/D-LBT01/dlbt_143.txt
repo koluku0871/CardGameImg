@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_143",
+  "PackNo": "D-LBT01",
+  "CardName": "茜色らんうぇい",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "曲",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】：このカードがオーダーゾーンに置かれた時、相手のヴァンガードがグレード３以上なら、１枚引く。【自】【オーダーゾーン】：この曲が歌われた時、あなたのヴァンガードを１枚選び、そのターン中、クリティカル＋１。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_117",
+  "PackNo": "DZ-BT03",
+  "CardName": "ディヴァインシスターすもあ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、このターンにあなたのリアガードが２枚以上登場しているなら、そのバトル中、このユニットのパワー＋2000し、そのバトル終了時、このユニットをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

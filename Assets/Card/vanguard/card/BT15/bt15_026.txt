@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_026",
+  "PackNo": "BT15",
+  "CardName": "赤虹の解放者ベイリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたの「ブラスター・ブレード・解放者」が(R)に登場した時、あなたのカード名に「解放者」を含むヴァンガードがいるなら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

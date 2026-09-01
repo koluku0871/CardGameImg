@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_102",
+  "PackNo": "DZ-BT11",
+  "CardName": "遼遠の騎士オスウィン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、あなたのヴァンガードが「リィエル」を含むグレード３以上なら、あなたのバインドゾーン１枚につき、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

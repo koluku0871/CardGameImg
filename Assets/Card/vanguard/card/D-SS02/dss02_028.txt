@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_028",
+  "PackNo": "D-SS02",
+  "CardName": "四面恩光の女魔術師",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、このユニットがブーストされているなら、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

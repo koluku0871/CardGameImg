@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_029",
+  "PackNo": "BT04",
+  "CardName": "コスモロアー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：[このユニットをレストする]他のあなたの《ディメンジョンポリス》を１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_023",
+  "PackNo": "D-BT12",
+  "CardName": "ルイン・コレクター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【ソウルチャージ】(1)してよい。【永】【(R)】：「アマナグルジオ」を含むあなたのヴァンガードの能力のコストでこのユニットをソウルに置く際、２枚分として置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_330",
+  "PackNo": "DZ-BT02",
+  "CardName": "DivetoBlueリカリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "SR",
+  "Text": "effect=【自】【(R)】【ターン1回】：「FL∀MMe-G」を含むあなたのヴァンガードがアタックした時、【コスト】[【カウンターブラスト】(1)，ドロップから「FL∀MMe-G」を含むカードを１枚山札の下に置く]ことで、１枚引き、そのターン中、あなたは『「FL∀MMe-G」を含むあなたのユニットすべてのパワー＋5000。』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

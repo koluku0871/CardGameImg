@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_095",
+  "PackNo": "BT15",
+  "CardName": "蒼嵐兵キッチン・セイラー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れることができない）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

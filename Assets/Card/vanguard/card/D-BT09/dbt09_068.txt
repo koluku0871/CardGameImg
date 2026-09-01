@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_068",
+  "PackNo": "D-BT09",
+  "CardName": "ビュラカーン・マンティコア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "キメラ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのバインドゾーンにトリガーユニットが２枚以上なら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

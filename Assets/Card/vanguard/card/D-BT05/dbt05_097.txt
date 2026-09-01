@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_097",
+  "PackNo": "D-BT05",
+  "CardName": "掘削竜バリオディグニール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：このユニットがアタックしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、あなたのリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

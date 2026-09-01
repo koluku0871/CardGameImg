@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_112",
+  "PackNo": "DZ-BT04",
+  "CardName": "入り時間はとっくに過ぎてビーメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[ドロップから「FL∀MMe-G」を含むカードを１枚山札の下に置く]ことで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

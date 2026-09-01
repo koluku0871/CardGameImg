@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_113",
+  "PackNo": "D-BT02",
+  "CardName": "ロアリングピスティルランジーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのドロップとバインドゾーンのオーダーカードが合計３枚以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

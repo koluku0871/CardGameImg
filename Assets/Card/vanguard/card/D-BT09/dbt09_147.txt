@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_147",
+  "PackNo": "D-BT09",
+  "CardName": "攪乱作戦：殺層",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "作戦",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このカードがオーダーゾーンからソウルに置かれた時、相手のリアガードを１枚選び、退却させ、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

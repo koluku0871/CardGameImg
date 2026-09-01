@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_124",
+  "PackNo": "DZ-BT07",
+  "CardName": "掩蔽の騎士アレイヴ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：このターンにあなたがブリッツオーダーをプレイしているなら、このユニットは『インターセプト』を得て、シールド＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

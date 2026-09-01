@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_093",
+  "PackNo": "D-BT11",
+  "CardName": "栄華の乙女イラリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他のユニットがアタックした時、このターン４回目以降のバトルなら、【コスト】[このユニットを退却させる]ことで、そのバトル中、そのアタックしたユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1488",
+  "PackNo": "D-PR",
+  "CardName": "腐滅の簒竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "スケルトン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【ドロップ】：グレード３以上のあなたのヴァンガードが登場した時、このカードを(R)にコールしてよい。,critical=クリティカル1,skill=ツインドライブ、Ｐ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

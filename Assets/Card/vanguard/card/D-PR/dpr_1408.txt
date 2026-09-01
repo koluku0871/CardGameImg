@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1408",
+  "PackNo": "D-PR",
+  "CardName": "時辰儀・宿命之翼",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "トークンセットオーダー",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【オーダーゾーン】：あなたは「リィエル」を含まないグレード３以上にライドできず、あなたは時刻印ゲージを持てる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

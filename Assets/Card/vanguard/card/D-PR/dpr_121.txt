@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_121",
+  "PackNo": "D-PR",
+  "CardName": "ディヴァインシスターれぴすと",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのドライブチェックでトリガーユニットが出た時、【コスト】[【カウンターブラスト】(2)]することで、このユニットを【スタンド】させ、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_092",
+  "PackNo": "D-BT04",
+  "CardName": "柩機の兵シュプレマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【手札】：このカードはあなたの世界が深淵黒夜でないなら、ノーマルコールできない。（(G)にもできない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

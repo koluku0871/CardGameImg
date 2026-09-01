@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_074",
+  "PackNo": "BT04",
+  "CardName": "ダンシング・ウルフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズ中、このユニットが【スタンド】した時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

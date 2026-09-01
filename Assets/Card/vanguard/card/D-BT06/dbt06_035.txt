@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_035",
+  "PackNo": "D-BT06",
+  "CardName": "仄暗き夜に、怨嗟は凍えて",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！あなたの山札を上から３枚見て、１枚選び、捨て、山札をシャッフルする。あなたのドロップから、あなたのヴァンガードのグレード以下を１枚選び、(R)にコールする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

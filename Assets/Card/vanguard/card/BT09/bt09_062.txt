@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_062",
+  "PackNo": "BT09",
+  "CardName": "スーパーソニック・セイラー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《アクアフォース》のヴァンガードがいるなら、あなたのダメージゾーンから１枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

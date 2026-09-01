@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd05_022",
+  "PackNo": "D-TTD05",
+  "CardName": "今刻が全盛期佐々木小次郎",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "人類",
+  "Cost": "2",
+  "CardRarity": "RGR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_066",
+  "PackNo": "DZ-BT09",
+  "CardName": "鋸歯竜ソーコミムス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【後列の(R)】：あなたのターン中、このユニットと同じ縦列に相手のリアガードがいないなら、このユニットは『ブースト』を得て、相手のヴァンガードがグレード３以上なら、さらにパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

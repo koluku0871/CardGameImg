@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_227",
+  "PackNo": "D-PR",
+  "CardName": "華燭絢爛エステランザ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=追加効果－このファイト中、あなたは『あなたのターン中、あなたのリアガードすべてのパワー＋10000』を得る！,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

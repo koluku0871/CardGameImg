@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_031",
+  "PackNo": "BT06",
+  "CardName": "デッドリーナイトメア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【ドロップゾーン】：[【ソウルブラスト】(2)，あなたの《グランブルー》のリアガードを１枚選び、退却させる]あなたの《グランブルー》のヴァンガードがいるなら、このカードを(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

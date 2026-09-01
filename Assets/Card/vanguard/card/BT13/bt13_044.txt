@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_044",
+  "PackNo": "BT13",
+  "CardName": "術式の守護天使バタルヤル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたのダメージゾーンの表の「執刀の守護天使アルメン」１枚につき、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

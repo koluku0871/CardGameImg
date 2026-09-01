@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_152",
+  "PackNo": "D-BT08",
+  "CardName": "碧流巡回の巨人兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴーレム",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたの他のユニットがカードの能力で【スタンド】した時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

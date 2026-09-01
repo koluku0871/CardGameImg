@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_031",
+  "PackNo": "D-BT05",
+  "CardName": "救命天使ディグリエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【後列の(R)】：このユニットと同じ縦列のあなたの他のユニットがカードの効果で【スタンド】した時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

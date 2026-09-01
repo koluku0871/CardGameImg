@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_071",
+  "PackNo": "D-BT05",
+  "CardName": "変光星の継子",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのオーダーゾーンの、あなたのセットオーダー１枚につき、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

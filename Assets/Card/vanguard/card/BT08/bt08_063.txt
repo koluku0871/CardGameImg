@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_063",
+  "PackNo": "BT08",
+  "CardName": "ドクドク・マッシュルーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、他のあなたの《ネオネクタール》のリアガードが４枚以上なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

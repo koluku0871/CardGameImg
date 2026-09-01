@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_151",
+  "PackNo": "D-BT08",
+  "CardName": "ライプニング・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのターンにカードの能力であなたのリアガードが退却した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

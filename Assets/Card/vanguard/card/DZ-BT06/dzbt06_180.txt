@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_180",
+  "PackNo": "DZ-BT06",
+  "CardName": "次元ロボダイトラッカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列の「次元ロボ」を含むあなたのユニットすべては『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

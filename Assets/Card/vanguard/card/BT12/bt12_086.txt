@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_086",
+  "PackNo": "BT12",
+  "CardName": "アモンの眷族サイキック・ウェイトレス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

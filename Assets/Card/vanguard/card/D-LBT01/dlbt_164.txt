@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_164",
+  "PackNo": "D-LBT01",
+  "CardName": "魂を込めた指揮リヒャルダ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

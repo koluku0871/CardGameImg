@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_119",
+  "PackNo": "D-BT04",
+  "CardName": "ゴースト・ビルク",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=あなたのドロップからグレード２以上のノーマルユニットを２枚まで選び、山札の上に望む順で置き、このカードをソウルに置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

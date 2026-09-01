@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_018",
+  "PackNo": "BT02",
+  "CardName": "マジシャンガールキララ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(2)]このユニットのアタックがヒットした時、あなたの《ノヴァグラップラー》のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

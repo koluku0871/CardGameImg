@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_156",
+  "PackNo": "D-TB04",
+  "CardName": "精霊進化蜥蜴郎",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "SKR",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

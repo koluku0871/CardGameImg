@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_167",
+  "PackNo": "DZ-BT06",
+  "CardName": "破滅の怪音アドゥーロ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが(G)から退却した時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "15000"
+}

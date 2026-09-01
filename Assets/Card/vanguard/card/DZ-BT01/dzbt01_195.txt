@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_195",
+  "PackNo": "DZ-BT01",
+  "CardName": "煌杖の貴女シーア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、あなたのユニットが４枚以上なら、【コスト】[【カウンターブラスト】(1)，【エネルギーブラスト】(2)]することで、１枚引き、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

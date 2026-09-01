@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_092",
+  "PackNo": "D-LBT01",
+  "CardName": "わがままお嬢ヘルミーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの(R)に他の〈ゴースト〉がいるなら、あなたのリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

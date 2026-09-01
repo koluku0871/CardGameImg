@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_233",
+  "PackNo": "D-PR",
+  "CardName": "聖晶竜プリシードアロー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：このユニットがあなたのヴァンガードの能力で【スタンド】した時、１枚引いてよい。引いたら、あなたの手札から１枚選び、捨てる。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

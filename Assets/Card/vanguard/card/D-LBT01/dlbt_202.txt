@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_202",
+  "PackNo": "D-LBT01",
+  "CardName": "気合リチャージ！ルイサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、このターンにあなたのヴァンガードが曲を歌っているなら、そのバトル中、このユニットのパワー＋5000し、このユニットが中央後列にいるなら、さらに【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_100",
+  "PackNo": "BT12",
+  "CardName": "銀の茨の操り人形なたーしゃ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

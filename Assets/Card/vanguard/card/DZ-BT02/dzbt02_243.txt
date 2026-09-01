@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_243",
+  "PackNo": "DZ-BT02",
+  "CardName": "忍妖ビードロウルクロウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「ヴァルガ」を含むグレード３以上のあなたのヴァンガードの能力で(R)から退却した時、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_061",
+  "PackNo": "DZ-BT02",
+  "CardName": "鼓舞する射手エリアーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：あなたのターン中、このユニットと同名のあなたの他のリアガードがいないなら、グレード０のあなたのリアガードすべてのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

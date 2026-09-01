@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_099",
+  "PackNo": "BT16",
+  "CardName": "桔梗の銃士エヴェリーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、他のこのユニットと同名のあなたのユニットがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

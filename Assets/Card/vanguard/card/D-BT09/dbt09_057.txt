@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_057",
+  "PackNo": "D-BT09",
+  "CardName": "ストルワートランス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アースドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがグレード３以上のヴァンガードにヒットした時、相手のリアガードを２枚選び、退却させる。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

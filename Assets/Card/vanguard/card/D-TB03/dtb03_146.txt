@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_146",
+  "PackNo": "D-TB03",
+  "CardName": "道家先祖の魂",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【永】：「道家先祖の魂」はデッキに16枚まで入れられる。【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、あなたのドロップから１枚選び、ソウルに置く。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

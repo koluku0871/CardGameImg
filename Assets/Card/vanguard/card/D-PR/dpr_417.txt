@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_417",
+  "PackNo": "D-PR",
+  "CardName": "京のみやこかっぷ優勝",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=追加効果－あなたのユニットを１枚選び、そのターン中、パワー＋１億！,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

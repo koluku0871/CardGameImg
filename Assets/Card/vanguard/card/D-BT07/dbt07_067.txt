@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_067",
+  "PackNo": "D-BT07",
+  "CardName": "浸食魔怪獣ノーティガルバス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたのオーダーゾーンが２枚以上なら、１枚引いてよい。引いたら、あなたの手札から１枚選び、ソウルに置く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

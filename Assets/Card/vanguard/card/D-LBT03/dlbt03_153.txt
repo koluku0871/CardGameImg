@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_153",
+  "PackNo": "D-LBT03",
+  "CardName": "もきゅもきゅランチカウリナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズにあなたのリアガードが山札の下に置かれた時、「ハーゼリット」を含むあなたのヴァンガードがいるなら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

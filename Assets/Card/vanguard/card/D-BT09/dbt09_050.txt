@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_050",
+  "PackNo": "D-BT09",
+  "CardName": "瑞象の魔法タタリル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このカードがあなたのドライブチェックで出た時、このカードをユニットのいない(R)にコールしてよい。そうしたら、そのターン中、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

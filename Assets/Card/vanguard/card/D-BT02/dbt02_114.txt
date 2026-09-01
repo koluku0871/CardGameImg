@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_114",
+  "PackNo": "D-BT02",
+  "CardName": "結束のブレイブシューター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、【コスト】[【ソウルブラスト】(2)]することで、あなたの他のリアガード１枚につき、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

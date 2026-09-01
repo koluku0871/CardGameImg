@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_058",
+  "PackNo": "BT05",
+  "CardName": "忍獣キャットローグ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

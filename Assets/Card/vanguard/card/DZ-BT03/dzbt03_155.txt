@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_155",
+  "PackNo": "DZ-BT03",
+  "CardName": "Goodluck,havefun",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ぶいすぽっ！",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "EXC",
+  "Text": "effect=あなたの山札を上から５枚見て、《ぶいすぽっ！》を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

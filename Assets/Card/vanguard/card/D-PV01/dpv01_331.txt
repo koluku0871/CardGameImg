@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_331",
+  "PackNo": "D-PV01",
+  "CardName": "デトネイト・バーレル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、【コスト】[「デトネイト・バーレル」を【ソウルブラスト】(1)]することで、１枚引き、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_034",
+  "PackNo": "BT04",
+  "CardName": "グルーム・フライマン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(G)に登場した時、あなたの《メガコロニー》のヴァンガードがいるなら、相手のグレード０のリアガードを１枚選び、【レスト】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dltd01_020",
+  "PackNo": "D-LTD01",
+  "CardName": "Astesiceミサ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

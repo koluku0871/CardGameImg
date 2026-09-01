@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_052",
+  "PackNo": "D-BT04",
+  "CardName": "孤影の騎士フィノーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列に、他のユニットがいないなら、このユニットのパワー＋10000。（相手のリアガードも含む）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

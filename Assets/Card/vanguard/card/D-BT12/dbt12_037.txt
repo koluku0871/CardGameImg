@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_037",
+  "PackNo": "D-BT12",
+  "CardName": "封焔竜ヤータルラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたの(V)に装備が２枚以上か、ドレス元を２枚以上持つあなたのリアガードがいるなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

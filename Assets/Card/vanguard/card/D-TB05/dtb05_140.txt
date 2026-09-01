@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_140",
+  "PackNo": "D-TB05",
+  "CardName": "見つめる眼差しアフロディテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "神",
+  "Cost": "1",
+  "CardRarity": "RGR",
+  "Text": "effect=【自】【(R)】：このユニットが〈神〉をブーストした時、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

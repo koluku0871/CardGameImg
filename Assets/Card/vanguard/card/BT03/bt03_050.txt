@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_050",
+  "PackNo": "BT03",
+  "CardName": "ダークメタル・バイコーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

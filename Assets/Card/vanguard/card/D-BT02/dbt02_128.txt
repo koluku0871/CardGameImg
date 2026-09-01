@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_128",
+  "PackNo": "D-BT02",
+  "CardName": "祝福の角笛",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【コスト】[手札から【オーバードレス】能力を持つカードを１枚捨てる]ことでプレイできる！２枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

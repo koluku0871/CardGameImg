@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_184",
+  "PackNo": "D-BT05",
+  "CardName": "輝かしい光の下でテグリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：このユニットが「厳しい修練テグリア」にライドされた時、あなたの山札を上から１枚公開し、それがグレード２以下のユニットカードなら、(R)に【レスト】でコールしてよい。【煌求者】,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

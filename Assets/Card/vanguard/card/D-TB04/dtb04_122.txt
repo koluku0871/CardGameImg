@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_122",
+  "PackNo": "D-TB04",
+  "CardName": "封印されし超・占事略決",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "SKR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

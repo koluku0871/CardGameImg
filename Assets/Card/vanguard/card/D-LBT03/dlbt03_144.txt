@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_144",
+  "PackNo": "D-LBT03",
+  "CardName": "惹きつける資質ヴァリィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=全力－【自】【(R)】：このユニットがブーストしたアタックがヒットした時、あなたのソウルが０枚なら、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

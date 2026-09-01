@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_035",
+  "PackNo": "BT10",
+  "CardName": "双銃の抹消者ハクショウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのカードの効果で、相手のリアガードがドロップゾーンに置かれた時、あなたのカード名に「抹消者」を含むヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

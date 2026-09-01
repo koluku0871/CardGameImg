@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_087_2",
+  "PackNo": "D-BT11",
+  "CardName": "ディヴァインシスターさばらん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのドロップからクランが《ジェネシス》のみの守護者を持たないノーマルユニットを１枚選び、山札の上に置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

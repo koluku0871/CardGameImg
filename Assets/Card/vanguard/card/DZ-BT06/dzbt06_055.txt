@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_055",
+  "PackNo": "DZ-BT06",
+  "CardName": "HaveAGreatYear!",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=あなたの山札を上から５枚見て、１枚まで選び、ソウルに置き、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

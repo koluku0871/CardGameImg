@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_074",
+  "PackNo": "BT03",
+  "CardName": "フレイムエッジ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヒットした時、あなたの《かげろう》のヴァンガードがいるなら、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

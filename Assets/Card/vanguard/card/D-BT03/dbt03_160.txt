@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_160",
+  "PackNo": "D-BT03",
+  "CardName": "天弾の騎士プロクリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く，他のリアガードを１枚【レスト】させる]ことで、あなたの山札を上から３枚見て、グレード３を望む枚数選び、公開して手札に加え、残りを捨てる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

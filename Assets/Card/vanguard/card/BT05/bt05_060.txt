@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_060",
+  "PackNo": "BT05",
+  "CardName": "忍妖ダートスパイダー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《むらくも》のヴァンガードがいるなら、あなたのダメージゾーンから１枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

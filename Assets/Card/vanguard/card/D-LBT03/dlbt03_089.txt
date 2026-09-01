@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_089",
+  "PackNo": "D-LBT03",
+  "CardName": "ラディエントスマイルミシェレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：このターンにあなたがペルソナライドしているなら、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

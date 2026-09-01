@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_177",
+  "PackNo": "D-BT05",
+  "CardName": "穏やかな街の中ケイオス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：このユニットが「救いの泥濘ケイオス」にライドされた時、あなたの山札を上から２枚公開し、その中からノーマルユニットすべてをソウルに置き、残りを山札の下に望む順で置く。【煌求者】,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

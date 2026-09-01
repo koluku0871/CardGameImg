@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_081",
+  "PackNo": "BT14",
+  "CardName": "爆爪の封竜騎士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがグレード２のユニットにアタックした時、あなたの《かげろう》のヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_069",
+  "PackNo": "DZ-BT05",
+  "CardName": "ドラグリッタームンタザール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたのヴァンガードの能力で退却した相手のリアガード１枚につき、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_068",
+  "PackNo": "BT06",
+  "CardName": "細波のバンシー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、他のあなたの《グランブルー》を１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

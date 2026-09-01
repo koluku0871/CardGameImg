@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd01_017",
+  "PackNo": "D-TD01",
+  "CardName": "元気のリズムビアラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "TDR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヴァンガードにヒットした時、【コスト】[手札からグレード２以下を１枚ソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

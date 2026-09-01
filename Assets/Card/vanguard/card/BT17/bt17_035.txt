@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_035",
+  "PackNo": "BT17",
+  "CardName": "星輝兵ボルトライン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットが【ブースト】したバトル中、アタックがヴァンガードにヒットした時、相手の呪縛（ロック）カードを１枚選び、そのカードは、次の相手のエンドフェイズ中、解呪されない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

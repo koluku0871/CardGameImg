@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt17_045",
+  "PackNo": "BT17",
+  "CardName": "湖の巫女リアン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)/(R)】：[このユニットを【レスト】する，あなたの手札から１枚選び、捨てる]１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_106",
+  "PackNo": "D-BT01",
+  "CardName": "振り下ろされし裁きの剣",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[グレード３を【ソウルブラスト】(1)]することでプレイできる！相手のリアガードを１枚選ぶ。相手はそのリアガードと同じ縦列の自分のリアガードすべてを山札の下に望む順で置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

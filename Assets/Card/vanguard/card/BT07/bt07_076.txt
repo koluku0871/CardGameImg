@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_076",
+  "PackNo": "BT07",
+  "CardName": "フライヤー・フライヤー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴブリン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

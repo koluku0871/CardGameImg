@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_018",
+  "PackNo": "BT06",
+  "CardName": "金剛雷帝インドラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ノーブル",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)】：[【カウンターブラスト】(1)]このユニットがアタックした時、コストを払ってよい。払ったら、そのバトル中、あなたの(R)の「金剛雷帝インドラ」１枚につき、このユニットのクリティカル＋１。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

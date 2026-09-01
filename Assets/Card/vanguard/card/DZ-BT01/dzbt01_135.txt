@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_135",
+  "PackNo": "DZ-BT01",
+  "CardName": "コンフィデントアクアミュゼット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「クリスレイン」を含むグレード３にライドされた時、あなたの山札を上から１枚公開し、それがグレード３以下のノーマルユニットなら、(R)にコールし、違うなら、手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

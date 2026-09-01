@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_088",
+  "PackNo": "D-BT09",
+  "CardName": "ディヴァインシスターすぷもーね",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが「ディヴァインシスターかっさてっら」をブーストした時、１枚引き、あなたの手札から１枚選び、山札の下に置き、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

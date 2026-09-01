@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_088",
+  "PackNo": "D-PR",
+  "CardName": "ドラグリッターアンタル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：このユニットがリアガードをブーストした時、このユニットと同じ縦列に相手のユニットがいないなら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

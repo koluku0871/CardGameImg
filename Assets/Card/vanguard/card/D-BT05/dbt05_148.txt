@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_148",
+  "PackNo": "D-BT05",
+  "CardName": "プラント",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/プラント",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "0"
+}

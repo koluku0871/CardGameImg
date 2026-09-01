@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_098",
+  "PackNo": "DZ-BT02",
+  "CardName": "麗弦の奏者エルジェニア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「リィエル」を含むグレード３にライドされた時、あなたのドロップからノーマルユニットを望む枚数選び、山札の下に望む順で置き、３枚以上選んだなら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

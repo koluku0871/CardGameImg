@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1257",
+  "PackNo": "D-PR",
+  "CardName": "尖鋭竜エオラフィアス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックかブーストした時、【コスト】[【ソウルブラスト】(1)]することで、グレード１以下のあなたの他のリアガード１枚につき、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

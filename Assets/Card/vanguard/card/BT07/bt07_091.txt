@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_091",
+  "PackNo": "BT07",
+  "CardName": "悪夢の国のチェシャキャット",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れられない。）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

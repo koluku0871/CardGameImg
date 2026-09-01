@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_072",
+  "PackNo": "D-PR",
+  "CardName": "恨み鉈",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゾンビ",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

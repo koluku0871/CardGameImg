@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_083",
+  "PackNo": "BT08",
+  "CardName": "キャリー・トリロバイト",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

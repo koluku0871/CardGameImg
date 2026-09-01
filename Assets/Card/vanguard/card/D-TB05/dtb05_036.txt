@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_036",
+  "PackNo": "D-TB05",
+  "CardName": "ゼウス最終形態“阿陀磨須”",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "ゼウス",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=「ゼウス」を含むあなたのヴァンガードがいるならプレイできる！あなたのソウルから「ゼウス」を含むユニットカードを１枚選び、(R)にコールする。そのターン中、あなたの前列のユニットすべてのパワー＋5000。,critical=クリティカル,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

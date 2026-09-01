@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_018",
+  "PackNo": "D-BT01",
+  "CardName": "発破怪獣ボバルマイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、あなたのオーダーゾーンにセットオーダーがあるなら、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

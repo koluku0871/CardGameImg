@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_084",
+  "PackNo": "DZ-BT09",
+  "CardName": "バルジ・マローダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがグレード３以上にアタックしたバトル終了時、【コスト】[このユニットをバインドする]ことで、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

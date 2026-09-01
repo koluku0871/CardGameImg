@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_217",
+  "PackNo": "D-BT04",
+  "CardName": "夜影兵",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "トークンユニット/夜影兵",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "15000",
+  "Defense": "0"
+}

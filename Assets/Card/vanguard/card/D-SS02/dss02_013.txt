@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_013",
+  "PackNo": "D-SS02",
+  "CardName": "封焔竜サムサーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(R)】：あなたの(V)の装備により、このユニットは以下すべてを得る。・右神装備‐あなたのターン中、パワー＋5000。・左神装備‐『インターセプト』。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

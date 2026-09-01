@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_078",
+  "PackNo": "DZ-BT01",
+  "CardName": "投剣の忍鬼カゲイチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのライドフェイズにこのカードが手札から捨てられた時、【コスト】[【ソウルブラスト】(2)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

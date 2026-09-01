@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_099",
+  "PackNo": "D-PV01",
+  "CardName": "シンバル・モンキー",
+  "CardCategory": "Gユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "4",
+  "CardRarity": "C",
+  "Text": "effect=【Ｇガーディアン】-相手ターンのガードステップ-【コスト】[手札から【治】を１枚捨てる]ことで、裏のこのカードを(G)にコールする。【自】：このユニットが(G)に登場した時、そのターン中、あなたと相手の、他のユニットすべてのパワー－5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "15000"
+}

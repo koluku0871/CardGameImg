@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_830",
+  "PackNo": "D-PR",
+  "CardName": "散撃のブレイブ・シューター",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

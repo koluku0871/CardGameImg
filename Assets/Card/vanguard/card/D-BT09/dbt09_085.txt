@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_085",
+  "PackNo": "D-BT09",
+  "CardName": "カットオフ・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード２以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

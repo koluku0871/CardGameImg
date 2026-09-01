@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_013",
+  "PackNo": "BT04",
+  "CardName": "コスモビーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：[【カウンターブラスト】(2)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、他のあなたの《ディメンジョンポリス》を１枚選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

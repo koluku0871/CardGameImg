@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd04_030",
+  "PackNo": "D-TTD04",
+  "CardName": "幸福な思い出エリザ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "SKR",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

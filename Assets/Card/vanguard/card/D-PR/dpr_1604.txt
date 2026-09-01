@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1604",
+  "PackNo": "D-PR",
+  "CardName": "SweetLinkerバナルミーヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=SweetLink－【永】：このカードと同名のあなたの他のソウルがあるなら、このカードはSweetLink状態になる。【自】：このユニットが「SweetLinkerスクイラ」にライドされた時、あなたの山札を上から７枚見て、「SweetLinker」を含むカードを２枚まで選び、公開し、その公開された中から１枚まで選び、手札に加え、１枚まで選び、ソウルに置き、山札をシャッフルする。【永】【(R)】：このユニットがSweetLink状態なら、このユニットのパワー＋2000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

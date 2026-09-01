@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_077",
+  "PackNo": "D-TB03",
+  "CardName": "オーバーソウル大道竜",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "道円",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=「道円」を含むあなたのユニットがいるならプレイできる！「道円」を含むあなたのユニットを１枚選び、あなたのソウルの「道」を含むカード２枚につき、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

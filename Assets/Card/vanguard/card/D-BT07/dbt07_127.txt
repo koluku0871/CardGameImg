@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_127",
+  "PackNo": "D-BT07",
+  "CardName": "見守り怪獣プロティード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：相手のターンにあなたの他のリアガードが退却した時、【コスト】[このユニットをバインドする]ことで、その退却したカードを手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

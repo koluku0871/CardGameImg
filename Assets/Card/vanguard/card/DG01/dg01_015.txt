@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dg01_015",
+  "PackNo": "DG01",
+  "CardName": "武器商人ゴヴァノン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーム",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

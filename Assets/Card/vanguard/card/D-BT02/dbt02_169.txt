@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_169",
+  "PackNo": "D-BT02",
+  "CardName": "棺桶撃ち",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【起】【ドロップ】【ターン1回】：【コスト】[【ソウルブラスト】(1)，ドロップからオーダーカードを１枚バインドする]ことで、このカードをユニットのいない(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

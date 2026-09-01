@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_052",
+  "PackNo": "BT04",
+  "CardName": "イニグマン・シャイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《ディメンジョンポリス》を１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

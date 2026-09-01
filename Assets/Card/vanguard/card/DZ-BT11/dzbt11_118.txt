@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_118",
+  "PackNo": "DZ-BT11",
+  "CardName": "弱気を吹き飛ばす歌テイミー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、【コスト】[【エネルギーブラスト】(3)]することで、アタックしているユニットのグレード１につき、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

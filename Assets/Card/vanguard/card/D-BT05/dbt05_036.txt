@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_036",
+  "PackNo": "D-BT05",
+  "CardName": "粘糸怪人アクチアスティッキー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)，他のリアガードを２枚退却させる]ことで、１枚引き、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

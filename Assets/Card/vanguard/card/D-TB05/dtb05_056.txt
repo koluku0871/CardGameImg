@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_056",
+  "PackNo": "D-TB05",
+  "CardName": "忠義厚き軍師陳宮公台",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "人類",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、「呂布奉先」を含むあなたのヴァンガードがいるなら、そのターン中、このユニットのパワー＋2000し、あなたの(V)に装備があるなら、さらに【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

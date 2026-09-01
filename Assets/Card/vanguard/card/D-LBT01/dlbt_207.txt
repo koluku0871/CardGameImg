@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_207",
+  "PackNo": "D-LBT01",
+  "CardName": "デモニックフィーバーガルヴィエラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=追加効果－このファイト中、あなたは『あなたのターン中、あなたのリアガードすべてのパワー＋10000』を得る！,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

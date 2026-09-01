@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_153",
+  "PackNo": "D-TB03",
+  "CardName": "口寄せ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "恐山アンナ",
+  "Cost": "2",
+  "CardRarity": "SKR",
+  "Text": "effect=「恐山アンナ」を含むあなたのユニットがいるなら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたの山札から〈霊〉のユニットカードを１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

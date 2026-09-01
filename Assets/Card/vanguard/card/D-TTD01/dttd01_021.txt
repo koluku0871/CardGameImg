@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd01_021",
+  "PackNo": "D-TTD01",
+  "CardName": "鳴狐",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

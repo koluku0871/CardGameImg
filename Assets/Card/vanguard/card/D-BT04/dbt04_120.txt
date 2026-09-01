@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_120",
+  "PackNo": "D-BT04",
+  "CardName": "大義の進軍",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたの、(V)か(R)の「旗艦竜フラッグバーグ・ドラゴン」を１枚選び、そのバトル中、パワー＋20000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

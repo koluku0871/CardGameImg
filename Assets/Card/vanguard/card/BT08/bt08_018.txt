@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt08_018",
+  "PackNo": "BT08",
+  "CardName": "ティアーナイトヴァレリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《アクアフォース》のヴァンガードがいて、そのターンで４回目以降のバトル中なら、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

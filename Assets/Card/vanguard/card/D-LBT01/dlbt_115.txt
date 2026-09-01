@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_115",
+  "PackNo": "D-LBT01",
+  "CardName": "みんなでお掃除",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！１枚引き、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_048",
+  "PackNo": "BT06",
+  "CardName": "サウザンドレイ・ペガサス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：あなたのカードがダメージゾーンに置かれた時、あなたの《エンジェルフェザー》のヴァンガードがいるなら、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

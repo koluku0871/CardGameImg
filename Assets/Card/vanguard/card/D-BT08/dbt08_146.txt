@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_146",
+  "PackNo": "D-BT08",
+  "CardName": "世界を拓く始まりの叡智",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！２枚引き、あなたの手札から２枚選び、それぞれ、あなたのヴァンガードのグレード以下なら(R)にコールし、違うなら捨てる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

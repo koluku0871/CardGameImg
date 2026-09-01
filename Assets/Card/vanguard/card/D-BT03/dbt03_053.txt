@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_053",
+  "PackNo": "D-BT03",
+  "CardName": "貪りの乱鴉",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】【ターン1回】：このターンにあなたがオーダーをプレイしているなら、【コスト】[手札からオーダーカードを１枚捨てる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

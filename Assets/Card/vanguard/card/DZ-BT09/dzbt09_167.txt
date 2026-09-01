@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_167",
+  "PackNo": "DZ-BT09",
+  "CardName": "スパークエルブス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：あなたがブリッツオーダーをプレイした時、【コスト】[【エネルギーブラスト】(2)]することで、このユニットを(G)に移動させ、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

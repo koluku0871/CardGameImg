@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_090",
+  "PackNo": "D-LBT04",
+  "CardName": "バブルソープガーデン",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたのユニットが６枚以上なら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！２枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

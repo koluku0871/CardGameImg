@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_056",
+  "PackNo": "D-BT07",
+  "CardName": "装潰竜ガトヤガード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "プレアドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このカードがドレス元になった時、あなたのソウルが０枚なら、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

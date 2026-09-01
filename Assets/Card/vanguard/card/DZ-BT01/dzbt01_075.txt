@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_075",
+  "PackNo": "DZ-BT01",
+  "CardName": "強撃竜スピノアサルター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：相手のリアガードがグレード３以上のあなたのヴァンガードの能力で退却した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

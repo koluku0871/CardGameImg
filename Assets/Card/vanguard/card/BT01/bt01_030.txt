@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_030",
+  "PackNo": "BT01",
+  "CardName": "キング・オブ・ソード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

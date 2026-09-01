@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_065",
+  "PackNo": "DZ-BT09",
+  "CardName": "黄金陽光の実",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=あなたのリアガードを１枚選び、次の相手のターン終了時まで、『【永】【(R)】：相手のカードの効果で、選べず、(R)以外に置けない。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

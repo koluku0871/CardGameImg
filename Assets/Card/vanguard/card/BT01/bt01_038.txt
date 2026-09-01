@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_038",
+  "PackNo": "BT01",
+  "CardName": "大幹部ブルーブラッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

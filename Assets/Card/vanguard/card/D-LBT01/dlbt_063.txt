@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_063",
+  "PackNo": "D-LBT01",
+  "CardName": "アクティブライフジェリィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：「Earnescorrect」を含むあなたのユニットがアタックされた時、【コスト】[このユニットを退却させる]ことで、アタックされているユニットを１枚選び、そのバトル中、パワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

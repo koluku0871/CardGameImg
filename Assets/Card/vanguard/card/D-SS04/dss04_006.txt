@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss04_006",
+  "PackNo": "D-SS04",
+  "CardName": "ネオンメサイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "メサイア",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

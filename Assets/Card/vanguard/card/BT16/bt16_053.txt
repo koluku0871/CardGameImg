@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_053",
+  "PackNo": "BT16",
+  "CardName": "喧嘩屋ヘッドバンド・オブ・グリッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：[【ソウルブラスト】(1)]このユニットがヴァンガードにアタックした時、コストを払ってよい。払ったら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

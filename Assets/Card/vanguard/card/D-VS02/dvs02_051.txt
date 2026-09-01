@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs02_051",
+  "PackNo": "D-VS02",
+  "CardName": "ブレイズ・フォーサイト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：このユニットが、(V)か(R)に登場した時、【コスト】[【カウンターブラスト】(1)]することで、あなたの手札からトリガーユニットを２枚まで選び、ソウルに置き、置かれたカード１枚につき、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

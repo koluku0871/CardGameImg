@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_028",
+  "PackNo": "D-TB06",
+  "CardName": "狂気なる月からの訪問者ルナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "神",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヴァンガードにヒットした時、あなたのユニットが３枚以上なら、【ソウルチャージ】(1)。６枚以上なら、さらに【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

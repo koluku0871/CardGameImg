@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_102",
+  "PackNo": "D-LBT03",
+  "CardName": "冷徹な活眼グレーテ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

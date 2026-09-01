@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_052",
+  "PackNo": "D-BT10",
+  "CardName": "祝福のトランペット",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！あなたの山札を上から２枚見て、グレード３以下を１枚まで選び、(R)にコールし、残りを山札の上に望む順で置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

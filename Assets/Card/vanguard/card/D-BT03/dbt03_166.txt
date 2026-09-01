@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_166",
+  "PackNo": "D-BT03",
+  "CardName": "咎叩き",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "H",
+  "Text": "effect=【永】【(R)】：あなたのバインドゾーンのオーダーカード１枚につき、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

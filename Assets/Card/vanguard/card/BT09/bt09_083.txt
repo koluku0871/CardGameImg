@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_083",
+  "PackNo": "BT09",
+  "CardName": "フィーバーセラピー・ナース",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ダメージゾーン】：[表のこのカードを裏にする]あなたの《エンジェルフェザー》のヴァンガードを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

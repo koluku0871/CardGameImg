@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_077",
+  "PackNo": "D-BT09",
+  "CardName": "葬空死団ルリ・ターニング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)，手札から１枚捨てる]ことで、あなたのドロップからグレード１の作戦カードを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1600",
+  "PackNo": "D-PR",
+  "CardName": "Juicy-Fruityナナ・バナーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドリアード",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「Juicy-Fruityアップ・ルンルン」からライドして登場した時、【コスト】[ライドデッキから「Juicy-Fruity」を含むグレード３を１枚公開する]ことで、プラント・トークンを１枚(R)にコールする。（プラントはグレード０/パワー5000/クリティカル１でブーストを持つ）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

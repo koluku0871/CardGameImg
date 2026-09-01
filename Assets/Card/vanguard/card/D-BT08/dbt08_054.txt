@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_054",
+  "PackNo": "D-BT08",
+  "CardName": "サンダークラップ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのヴァンガードが【煌求者】なら、【ソウルチャージ】(1)し、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

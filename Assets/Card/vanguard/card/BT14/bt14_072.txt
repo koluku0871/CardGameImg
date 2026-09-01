@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_072",
+  "PackNo": "BT14",
+  "CardName": "マイスガードアケルナル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの「マイスガードアケルナル」がソウルからドロップゾーンに置かれた時、あなたの《ジェネシス》のヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

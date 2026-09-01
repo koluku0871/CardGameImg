@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_040",
+  "PackNo": "D-TB04",
+  "CardName": "悪に死の裁きを",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "マルコ",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=「マルコ」を含むあなたのユニットがいるならプレイできる！「X-LAWS」を含むあなたのユニットを１枚選び、そのターン中、パワー＋10000し、『【自】【(R)】【ターン1回】：このユニットのアタックがヒットした時、このユニットを【スタンド】させる。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_168",
+  "PackNo": "D-BT04",
+  "CardName": "樹角獣リューカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを退却させる]ことで、あなたのリアガードを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

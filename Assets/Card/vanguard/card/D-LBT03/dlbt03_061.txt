@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_061",
+  "PackNo": "D-LBT03",
+  "CardName": "夕映えに贈る唄ミンマイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたの他の縦列のユニットを１枚選び、そのターン中、パワー＋5000してよい。そうしたら、そのバトル終了時、このユニットを山札の下に置く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

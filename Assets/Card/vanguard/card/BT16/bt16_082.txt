@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_082",
+  "PackNo": "BT16",
+  "CardName": "鋼闘機ブラックドクトル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードを【ブースト】した時、あなたのヴァンガードが【双闘】しているなら、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

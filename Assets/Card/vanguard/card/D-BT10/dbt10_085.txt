@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_085",
+  "PackNo": "D-BT10",
+  "CardName": "整然の学士オルデリオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：グレード１以下のあなたの他のユニットが山札から(R)に登場した時、そのユニットをソウルに置いてよい。置いたら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

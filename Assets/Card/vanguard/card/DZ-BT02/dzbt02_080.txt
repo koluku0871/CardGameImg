@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_080",
+  "PackNo": "DZ-BT02",
+  "CardName": "ラグシャフト・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【エネルギーブラスト】(5)]することで、１枚引き、あなたのドロップからトリガーユニットを１枚まで選び、ソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

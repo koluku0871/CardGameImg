@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_122",
+  "PackNo": "DZ-BT02",
+  "CardName": "私たちで紡ぐ世界",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[リアガードを１枚【レスト】させる]ことでプレイできる！あなたの山札を上から３枚見て、１枚まで選び、(R)にコールし、残りを山札の下に望む順で置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

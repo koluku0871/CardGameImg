@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_113",
+  "PackNo": "D-LBT02",
+  "CardName": "隠せぬ焦りカーディア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、「Astesice」を含むあなたのヴァンガードがいるなら、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

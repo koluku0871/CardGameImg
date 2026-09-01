@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_035",
+  "PackNo": "D-TB01",
+  "CardName": "次郎太刀",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-大太刀",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたの(R)に「太郎太刀」がいるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_070",
+  "PackNo": "D-BT10",
+  "CardName": "スチームランチャーヤスマフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの「業魔宝竜ドラジュエルド・マスクス」が(V)に登場した時、【コスト】[このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

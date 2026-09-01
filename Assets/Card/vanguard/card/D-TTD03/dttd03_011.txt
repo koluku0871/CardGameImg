@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd03_011",
+  "PackNo": "D-TTD03",
+  "CardName": "雄麗なる君主ツタンカーメン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "亜人族",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（トリガーで出たら、あなたのユニットを１枚選び、そのターン中、クリティカル＋１！さらにあなたのユニットを１枚選び、そのターン中、パワー＋10000！）,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_086",
+  "PackNo": "D-BT04",
+  "CardName": "極光戦姫チェイシング・ネール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、【コスト】[【カウンターブラスト】(1)]することで、相手は自分の手札から１枚選び、あなたの監獄に収容する。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

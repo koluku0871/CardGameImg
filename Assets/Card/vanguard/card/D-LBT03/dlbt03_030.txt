@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_030",
+  "PackNo": "D-LBT03",
+  "CardName": "LyricalShootingStarS",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "雑誌",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=「キョウカ」を含むあなたのヴァンガードがいるならプレイできる！あなたのユニットの枚数により、以下すべてを行う。・グレード１が２枚以上-２枚引き、あなたの手札から１枚選び、捨てる。・グレード２が２枚以上-あなたのユニットを１枚選び、そのターン中、パワー＋10000。・グレード３が２枚以上-【カウンターチャージ】(1)。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

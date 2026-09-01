@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_132",
+  "PackNo": "D-TB02",
+  "CardName": "久遠なる泰平の願い孫尚香",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "サムライ",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストされた時、ヴァンガードにアタックしているなら、【コスト】[【カウンターブラスト】(2)]することで、相手の前列のリアガードを２枚まで選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

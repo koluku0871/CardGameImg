@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_156",
+  "PackNo": "D-TB03",
+  "CardName": "モソソクルッペ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "ホロホロ",
+  "Cost": "3",
+  "CardRarity": "SKR",
+  "Text": "effect=「ホロホロ」を含むあなたのユニットがいるなら、【コスト】[【ソウルブラスト】(1)]することでプレイできる！１枚引き、相手の前列のリアガードを１枚選び、そのユニットは次のスタンドフェイズに【スタンド】できない。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

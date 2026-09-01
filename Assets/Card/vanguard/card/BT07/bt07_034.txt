@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_034",
+  "PackNo": "BT07",
+  "CardName": "逢魔ヶ刻の冥界馬車",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたのソウルの「逢魔ヶ刻の冥界馬車」１枚につき、このカードのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

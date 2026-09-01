@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_336",
+  "PackNo": "D-PV01",
+  "CardName": "お化けのでれく",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ドロップ】：【コスト】[このカードをバインドする]ことで、あなたのドロップからノーマルユニットを１枚選び、山札の下に置き、山札を上から２枚捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

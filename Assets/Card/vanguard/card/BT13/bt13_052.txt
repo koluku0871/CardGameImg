@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_052",
+  "PackNo": "BT13",
+  "CardName": "月下の忍鬼サクラフブキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

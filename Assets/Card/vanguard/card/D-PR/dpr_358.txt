@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_358",
+  "PackNo": "D-PR",
+  "CardName": "京のみやこかっぷ2022",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

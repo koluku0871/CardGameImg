@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_035",
+  "PackNo": "D-TB04",
+  "CardName": "頂きの修験者麻倉幹久",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)]することで、あなたの〈シャーマン〉を１枚選び、そのターン中、パワー＋2000。このターンにあなたのヴァンガードが【オーバーソウル】しているなら、＋2000ではなく＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

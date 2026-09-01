@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpv01_201",
+  "PackNo": "D-PV01",
+  "CardName": "ナイトメアドールじにー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[このユニットをソウルに置く]ことで、あなたのソウルから「ナイトメアドールありす」を１枚まで選び、(R)にコールし、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_049",
+  "PackNo": "BT16",
+  "CardName": "探索者トランキル・ユニコーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【ソウルブラスト】(1)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、他のあなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_214",
+  "PackNo": "D-PR",
+  "CardName": "樹角獣マフェルス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットがインターセプトした時、【コスト】[手札から１枚捨てる]ことで、あなたの山札を上から２枚見て、それぞれ(G)にコールするか捨てる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

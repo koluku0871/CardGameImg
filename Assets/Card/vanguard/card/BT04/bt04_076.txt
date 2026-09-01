@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_076",
+  "PackNo": "BT04",
+  "CardName": "ツールキットボーイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《ノヴァグラップラー》のヴァンガードを【ブースト】したバトル中、アタックがヴァンガードにヒットした時、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_042",
+  "PackNo": "BT03",
+  "CardName": "プリズナー・ビースト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "キメラ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

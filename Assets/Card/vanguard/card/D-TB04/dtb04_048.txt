@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_048",
+  "PackNo": "D-TB04",
+  "CardName": "黒いジャガーチョコラブ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

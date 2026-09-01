@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_252",
+  "PackNo": "DZ-BT06",
+  "CardName": "ディヴァインシスターなてぃーじゃ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "SR",
+  "Text": "effect=【自】：このユニットが(G)から退却した時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "15000"
+}

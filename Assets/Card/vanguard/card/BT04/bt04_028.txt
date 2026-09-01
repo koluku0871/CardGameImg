@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_028",
+  "PackNo": "BT04",
+  "CardName": "プラチナム・エース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：あなたのアタックステップ開始時、このユニットのパワーが13000以上なら、そのバトル中、このユニットのクリティカル＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

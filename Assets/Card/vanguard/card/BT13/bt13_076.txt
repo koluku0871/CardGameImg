@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_076",
+  "PackNo": "BT13",
+  "CardName": "次元ロボダイクレーン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_094",
+  "PackNo": "BT14",
+  "CardName": "プラズマシミター・ドラグーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのグレード３の《なるかみ》が(V)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

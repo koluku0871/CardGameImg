@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_163",
+  "PackNo": "D-BT09",
+  "CardName": "ぷろりふぃーく・おらんじゅ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！プラント・トークンを２枚まで(R)にコールする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

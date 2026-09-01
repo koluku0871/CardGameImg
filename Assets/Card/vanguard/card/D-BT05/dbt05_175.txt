@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_175",
+  "PackNo": "D-BT05",
+  "CardName": "命を灯す幽けき光",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "狐術",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=「タマユラ」を含むあなたのヴァンガードがいるなら、【コスト】[【ソウルブラスト】(2)]することでプレイできる！あなたのヴァンガードを１枚選び、そのターン中、『【永】【(V)】：相手の前列のユニットすべてのパワー－10000。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

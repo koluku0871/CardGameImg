@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_023",
+  "PackNo": "D-TB02",
+  "CardName": "幽暗なる天下五剣数珠丸恒次",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "サムライ",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：あなたのターンに相手のリアガードが退却した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

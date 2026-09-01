@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs04_069",
+  "PackNo": "D-VS04",
+  "CardName": "ダンシング・カットラス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【ドロップ】：【コスト】[ドロップから他の「ダンシング・カットラス」を１枚バインドし、山札を上から１枚捨てる]ことで、このカードを(R)にコールし、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

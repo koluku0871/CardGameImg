@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_118",
+  "PackNo": "D-BT04",
+  "CardName": "叫喚は雨音に融けよ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=相手は自分のリアガードを１枚選び、退却させる。あなたは自分のドロップから、相手が退却させたユニットと同じグレードを１枚まで選び、(R)にコールする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

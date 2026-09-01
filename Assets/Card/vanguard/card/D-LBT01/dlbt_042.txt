@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_042",
+  "PackNo": "D-LBT01",
+  "CardName": "甘やかな音色クリームヒルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたのバトルフェイズにこのユニットが(R)に登場した時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

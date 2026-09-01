@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_085",
+  "PackNo": "D-BT03",
+  "CardName": "柩機の竜アブストリム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの世界が深淵黒夜なら、このユニットは相手の後列のユニットにもアタックできる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

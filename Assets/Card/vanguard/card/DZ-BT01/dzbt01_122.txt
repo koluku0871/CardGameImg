@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_122",
+  "PackNo": "DZ-BT01",
+  "CardName": "潜伏の射手シャザール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのライドフェイズにこのカードが手札から捨てられた時、【コスト】[【ソウルブラスト】(2)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

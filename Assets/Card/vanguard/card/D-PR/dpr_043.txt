@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_043",
+  "PackNo": "D-PR",
+  "CardName": "真誠なる怪物退治の聖女マルタ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "聖騎士",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

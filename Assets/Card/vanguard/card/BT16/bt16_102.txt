@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_102",
+  "PackNo": "BT16",
+  "CardName": "アネモネの銃士スザンナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【ソウルブラスト】(2)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、あなたのダメージゾーンから２枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

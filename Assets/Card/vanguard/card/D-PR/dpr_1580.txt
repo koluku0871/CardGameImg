@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1580",
+  "PackNo": "D-PR",
+  "CardName": "跳躍するギアリンクス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアビースト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

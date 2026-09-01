@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_118",
+  "PackNo": "D-BT01",
+  "CardName": "涙する悪意",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[リアガードを２枚退却させる]ことでプレイできる！１枚引き、このカードをソウルに置き、【カウンターチャージ】(1)。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_080",
+  "PackNo": "D-LBT02",
+  "CardName": "想いをカタチに",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=あなたのユニットが６枚以上なら、【コスト】[【ソウルブラスト】(2)]することでプレイできる！【カウンターチャージ】(1)。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

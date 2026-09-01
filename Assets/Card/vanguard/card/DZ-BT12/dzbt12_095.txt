@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt12_095",
+  "PackNo": "DZ-BT12",
+  "CardName": "アルトリズム・イーグル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他の〈ハイビースト〉が(R)に登場した時、あなたのヴァンガードがグレード３以上なら、【コスト】[このユニットを山札の下に置く]ことで、そのターン中、その登場したユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

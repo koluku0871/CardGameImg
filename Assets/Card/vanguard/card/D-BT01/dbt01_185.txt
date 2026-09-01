@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_185",
+  "PackNo": "D-BT01",
+  "CardName": "再起の竜神王ドラグヴェーダ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "プラズマドラゴン",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=追加効果－あなたのヴァンガードを１枚選び、【スタンド】させる！,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

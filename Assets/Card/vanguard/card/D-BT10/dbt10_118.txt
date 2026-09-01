@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_118",
+  "PackNo": "D-BT10",
+  "CardName": "Pastel＊Palettes丸山彩",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Pastel＊Palettes",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

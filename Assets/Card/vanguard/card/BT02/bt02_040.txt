@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_040",
+  "PackNo": "BT02",
+  "CardName": "ジオグラフ・ジャイアント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

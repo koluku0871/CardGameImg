@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1650",
+  "PackNo": "D-PR",
+  "CardName": "PartyTime石川クルミ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

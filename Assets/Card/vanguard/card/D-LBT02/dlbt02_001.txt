@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_001",
+  "PackNo": "D-LBT02",
+  "CardName": "Astesice×Liveカイリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "4",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(V)】：このターンに登場したあなたのリアガードすべてのパワー＋5000。【自】【(V)】：このユニットがアタックした時、あなたのソウルに「カイリ」を含むカードがあるなら、あなたのリアガードを２枚まで選び、手札に戻し、あなたの手札から２枚選び、(R)にコールする。,critical=クリティカル1,skill=トリプルドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

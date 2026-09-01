@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_085",
+  "PackNo": "D-BT04",
+  "CardName": "電磁怪獣エレヒレシーデ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのオーダーゾーンにカードがないなら、このユニットはアタックできない。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "15000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_082",
+  "PackNo": "DZ-BT06",
+  "CardName": "アンビット・ラウンダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたの(R)に龍樹マーカーがあるなら、そのバトル中、このユニットは『【自】：このユニットが(G)から退却した時、このカードをソウルに置いてよい。』を得て、シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

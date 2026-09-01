@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_078",
+  "PackNo": "DZ-BT10",
+  "CardName": "アスタウンド・フープダンサー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがインターセプトした時、相手のヴァンガードがグレード３以上なら、【ソウルチャージ】(1)し、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

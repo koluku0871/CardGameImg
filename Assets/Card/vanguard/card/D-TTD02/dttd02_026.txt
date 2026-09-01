@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd02_026",
+  "PackNo": "D-TTD02",
+  "CardName": "叡智の魔術王ソロモン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "聖騎士",
+  "Cost": "0",
+  "CardRarity": "MSR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs04_084",
+  "PackNo": "D-VS04",
+  "CardName": "花園の乙女マイリス",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】：守護者（守護者を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "30000"
+}

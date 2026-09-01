@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_075",
+  "PackNo": "BT15",
+  "CardName": "星輝兵スパークドール",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

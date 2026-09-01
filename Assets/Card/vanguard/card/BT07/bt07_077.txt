@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_077",
+  "PackNo": "BT07",
+  "CardName": "クラッカー・ミュージシャン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

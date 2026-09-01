@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_164",
+  "PackNo": "DZ-BT06",
+  "CardName": "秘湯・竜鳴温泉",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【起】【オーダーゾーン】：【コスト】[このカードを【レスト】させる]ことで、【エネルギーチャージ】(1)。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

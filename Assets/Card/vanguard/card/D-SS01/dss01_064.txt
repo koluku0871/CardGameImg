@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_064",
+  "PackNo": "D-SS01",
+  "CardName": "ディアブロス“悪童”スティーブ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：このユニットが(V)に登場した時、あなたのソウルから１枚選び、中央後列の(R)にコールし、【ソウルチャージ】(1)。【永】【(R)】：あなたが“一気呵勢”なら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

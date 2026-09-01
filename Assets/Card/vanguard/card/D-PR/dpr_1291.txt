@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1291",
+  "PackNo": "D-PR",
+  "CardName": "それは春の日影のように高松燈",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "CRYCHIC",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「永遠の始まり高松燈」からライドして登場した時、あなたの山札から「春日影」を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

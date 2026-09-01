@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_037",
+  "PackNo": "BT10",
+  "CardName": "送り火の抹消者カストル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[あなたの手札から１枚選び、捨てる]このユニットが(R)に登場した時、あなたの《なるかみ》のヴァンガードがいて、相手のリアガードが２枚以下なら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

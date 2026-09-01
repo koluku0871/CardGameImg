@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_065",
+  "PackNo": "D-LBT01",
+  "CardName": "書き記す想いロマナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたが「揺るぎなき緋」と「果てしなき蒼」をプレイしているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

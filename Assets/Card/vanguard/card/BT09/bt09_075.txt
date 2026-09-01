@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_075",
+  "PackNo": "BT09",
+  "CardName": "ライオネット・ヒート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【起】【(R)】：[このユニットをソウルに置く]あなたの《ノヴァグラップラー》を１枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

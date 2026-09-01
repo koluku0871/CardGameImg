@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_050",
+  "PackNo": "DZ-BT03",
+  "CardName": "警邏ロボデカルコップ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "R+",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、あなたのユニットを１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

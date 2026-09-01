@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss06_016",
+  "PackNo": "D-SS06",
+  "CardName": "白牙の魔女ディスマ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

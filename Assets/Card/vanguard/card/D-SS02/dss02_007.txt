@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_007",
+  "PackNo": "D-SS02",
+  "CardName": "グラビディア・ペテルス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヒットした時、あなたのドロップから隕石カードを２枚まで選び、山札の下に望む順で置く。２枚置いたら、このユニットを退却させ、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

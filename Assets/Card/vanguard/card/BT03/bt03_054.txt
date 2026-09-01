@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_054",
+  "PackNo": "BT03",
+  "CardName": "レインボー・マジシャン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが【ブースト】したバトル中、アタックがヒットした時、【ソウルチャージ】(1)してよい。【ソウルチャージ】したら、このユニットを山札に戻し、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb07_048",
+  "PackNo": "D-TB07",
+  "CardName": "厚藤四郎極",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのヴァンガードがグレード３以上なら、次の相手のターン終了時まで、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

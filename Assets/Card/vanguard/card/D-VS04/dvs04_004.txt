@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs04_004",
+  "PackNo": "D-VS04",
+  "CardName": "秀逸なる執刀アスファエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "3",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：このユニットが手札から、(V)か(R)に登場した時、【コスト】[【カウンターブラスト】(3)]することで、あなたのダメージゾーンから３枚回復し、ドロップから３枚選び、ダメージゾーンに置く。,critical=クリティカル1,skill=ツインドライブ、プロテクト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

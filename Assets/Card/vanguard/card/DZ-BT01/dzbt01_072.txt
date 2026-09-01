@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_072",
+  "PackNo": "DZ-BT01",
+  "CardName": "シアターレッスンラファティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたのライドフェイズにこのカードが手札から捨てられた時、このカードを(R)に【レスト】でコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

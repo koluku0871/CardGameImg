@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_108",
+  "PackNo": "D-BT02",
+  "CardName": "シュルドフィッシャー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：このターンにあなたが手札以外からリアガードをコールしていないなら、このユニットはアタックできない。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "18000",
+  "Defense": "0"
+}

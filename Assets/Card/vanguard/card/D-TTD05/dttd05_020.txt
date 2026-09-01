@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd05_020",
+  "PackNo": "D-TTD05",
+  "CardName": "最強の相手を求めて呂布奉先",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "人類",
+  "Cost": "2",
+  "CardRarity": "RGR",
+  "Text": "effect=【自】【(R)】：このユニットが〈戦乙女〉にブーストされた時、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

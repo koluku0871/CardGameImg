@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_048",
+  "PackNo": "D-BT06",
+  "CardName": "烈破の騎士フリーデ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(G)】：「ユース」を含むあなたのヴァンガードがいるなら、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

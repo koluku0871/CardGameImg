@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd01_011",
+  "PackNo": "D-TD01",
+  "CardName": "春を告げる風コルフィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

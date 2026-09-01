@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1240",
+  "PackNo": "D-PR",
+  "CardName": "夜影兵",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/夜影兵",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=（これは夜影兵・トークンを表すカードであり、デッキには入れられない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "15000",
+  "Defense": "0"
+}

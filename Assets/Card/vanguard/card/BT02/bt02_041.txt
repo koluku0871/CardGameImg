@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_041",
+  "PackNo": "BT02",
+  "CardName": "パンツァー・ゲイル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、あなたの《スパイクブラザーズ》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

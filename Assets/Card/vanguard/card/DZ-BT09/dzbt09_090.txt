@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_090",
+  "PackNo": "DZ-BT09",
+  "CardName": "信憑の騎士ガヘリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【後列の(R)】：あなたのターン中、あなたのユニットが５枚以上なら、このユニットは『ブースト』を得て、相手のヴァンガードがグレード３以上なら、さらにパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

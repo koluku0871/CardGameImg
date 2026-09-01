@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_082",
+  "PackNo": "BT02",
+  "CardName": "スピリットイクシード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "SP",
+  "Text": "effect=【起】【ドロップゾーン】：[あなたの(R)から、「サムライスピリット」と「ナイトスピリット」を１枚ずつ選び、ソウルに置く]あなたのグレード２以上のヴァンガードがいるなら、このカードをライドする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

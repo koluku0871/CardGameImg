@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd02_014",
+  "PackNo": "D-TD02",
+  "CardName": "ミスティック・アコーディオニスト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：あなたのライドフェイズにこのカードが手札から捨てられた時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

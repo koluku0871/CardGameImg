@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_158",
+  "PackNo": "DZ-BT08",
+  "CardName": "焚音打",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "楽曲/MyGO!!!!!",
+  "Cost": "2",
+  "CardRarity": "EXC",
+  "Text": "effect=【自】：このカードが(R)に置かれた時、あなたの山札を上から７枚見て、グレード２以下の〈MyGO!!!!!〉のユニットカードを１枚まで選び、(R)にコールし、山札をシャッフルする。次の相手のターン終了時まで、あなたのバインドゾーンのカードは相手のカードの効果で選べない。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

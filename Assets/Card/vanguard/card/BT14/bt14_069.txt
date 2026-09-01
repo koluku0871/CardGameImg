@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_069",
+  "PackNo": "BT14",
+  "CardName": "マイスガードデネボラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの「マイスガードデネボラ」がソウルからドロップゾーンに置かれた時、あなたの《ジェネシス》のヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

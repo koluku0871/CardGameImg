@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd03_021",
+  "PackNo": "D-TTD03",
+  "CardName": "大いなる海神ワタツミ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "神",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】【(G)】：このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

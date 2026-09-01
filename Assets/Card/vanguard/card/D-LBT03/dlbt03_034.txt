@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_034",
+  "PackNo": "D-LBT03",
+  "CardName": "スクイーズアウトユニティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、【コスト】[【カウンターブラスト】(1)]することで、あなたのオーダーゾーンから１枚選び、手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

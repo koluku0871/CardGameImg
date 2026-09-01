@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_167",
+  "PackNo": "DZ-BT10",
+  "CardName": "10thanniversary夢限大みゅーたいぷ仲町あられ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "夢限大みゅーたいぷ",
+  "Cost": "0",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

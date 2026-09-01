@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_058",
+  "PackNo": "D-TB03",
+  "CardName": "シルバーアームズシルバーホーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋5000。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt13_183",
+  "PackNo": "D-BT13",
+  "CardName": "静謐の時若葉睦",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "CRYCHIC",
+  "Cost": "2",
+  "CardRarity": "EXC",
+  "Text": "effect=【永】：このカードが〈CRYCHIC〉の能力以外で(R)にコールされる際、(R)ではなくドロップに置く。（ノーマルコールでもドロップに置く）【自】【(R)】：あなたのターンに〈CRYCHIC〉以外のあなたのユニットが登場した時、このユニットをソウルに置き、１枚引く。（この能力は強制）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

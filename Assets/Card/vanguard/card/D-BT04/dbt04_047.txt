@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_047",
+  "PackNo": "D-BT04",
+  "CardName": "闇冥に熔けよ、其の邪心",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたのユニットを１枚選び、あなたの夜影兵・トークン１枚につき、そのバトル中、パワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

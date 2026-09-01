@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_084",
+  "PackNo": "D-BT06",
+  "CardName": "アバラントグリーム・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "スペースドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

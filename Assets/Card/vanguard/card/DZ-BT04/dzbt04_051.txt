@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_051",
+  "PackNo": "DZ-BT04",
+  "CardName": "ブリッツサーバーキャルティーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのオーダーゾーンにプロダクトが３枚以上なら、【コスト】[【エネルギーブラスト】(3)]することで、そのバトル中、このユニットのシールド＋20000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

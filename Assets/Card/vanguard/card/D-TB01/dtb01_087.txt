@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_087",
+  "PackNo": "D-TB01",
+  "CardName": "桑名江",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、【カウンターチャージ】(1)か【ソウルチャージ】(2)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

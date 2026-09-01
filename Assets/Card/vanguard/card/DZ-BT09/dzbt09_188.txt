@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt09_188",
+  "PackNo": "DZ-BT09",
+  "CardName": "マイクロテック・ラボラトリー",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！あなたの山札を上から５枚見て、グレード１のユニットカードを１枚まで選び、(R)にコールし、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

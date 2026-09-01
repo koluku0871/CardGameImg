@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_075",
+  "PackNo": "BT01",
+  "CardName": "ワンダー・ボーイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴブリン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

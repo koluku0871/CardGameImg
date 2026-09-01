@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_988",
+  "PackNo": "D-PR",
+  "CardName": "AbsoluteZeroカシュア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「AbsoluteZero」を含むグレード３にライドされた時、あなたのソウルから「AbsoluteZeroクラウ」を１枚選び、そのカードとこのカードを(R)にコールする。【自】【(R)】：このユニットがヴァンガードにアタックした時、あなたのヴァンガードが「AbsoluteZero」を含むグレード３以上なら、そのバトル中、このユニットのパワー＋5000し、そのバトル終了時、【コスト】[このユニットを退却させる]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

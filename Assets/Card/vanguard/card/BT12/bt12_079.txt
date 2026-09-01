@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_079",
+  "PackNo": "BT12",
+  "CardName": "アモンの眷族ヘルズ・ディール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのカード名に「アモン」を含むヴァンガードがいるなら、【ソウルチャージ】(2)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

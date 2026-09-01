@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_141",
+  "PackNo": "DZ-BT07",
+  "CardName": "貴婦人の嗜み",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=（セットオーダーはプレイ後、オーダーゾーンに置く）【永】【オーダーゾーン】：あなたのトークンユニットすべてに『インターセプト』を与え、シールド＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

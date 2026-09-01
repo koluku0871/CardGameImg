@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_077",
+  "PackNo": "D-TB01",
+  "CardName": "巴形薙刀",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-薙刀",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)]することで、あなたのユニットを２枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

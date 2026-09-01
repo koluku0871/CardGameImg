@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_003",
+  "PackNo": "D-PR",
+  "CardName": "ヴェルリーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "タリスマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【オーバードレス】－「トリクスタ」（(R)にノーマルコールするかわりに、指定ユニットの上に重ねて登場させてもよい）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

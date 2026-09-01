@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_071",
+  "PackNo": "BT07",
+  "CardName": "ドリーミー・アンモナイト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "キメラ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：相手のターン中、このユニットが(R)からドロップゾーンに置かれた時、あなたのソウルから「ドリーミー・アンモナイト」を１枚選び、(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

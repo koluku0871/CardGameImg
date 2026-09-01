@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_101",
+  "PackNo": "BT09",
+  "CardName": "マジカル・パートナー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(1)]このユニットが「悪夢召喚者ラキル」を【ブースト】した時、コストを払ってよい。払ったら、そのバトル中、【ブースト】されたユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

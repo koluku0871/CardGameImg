@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_072",
+  "PackNo": "BT13",
+  "CardName": "熱線怪獣ギガボルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、バトル相手のパワーが8000以下なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

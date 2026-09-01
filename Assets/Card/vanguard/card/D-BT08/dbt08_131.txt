@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_131",
+  "PackNo": "D-BT08",
+  "CardName": "ブリック・ガードナー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ゴーレム",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが(R)からソウルに置かれた時、あなたの裏のダメージゾーンが４枚以上なら、【コスト】[このカードをバインドする]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_305",
+  "PackNo": "DZ-BT07",
+  "CardName": "ヴォルビルリーヴラティル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "SR",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、あなたのプラント・トークンを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

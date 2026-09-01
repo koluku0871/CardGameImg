@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_094",
+  "PackNo": "D-BT09",
+  "CardName": "未来の領主グランフィア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「俊英の賢狼グランフィア」にライドされた時、プラント・トークンを１枚(R)にコールしてよい。（プラントはグレード０/パワー5000/クリティカル１でブーストを持つ）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

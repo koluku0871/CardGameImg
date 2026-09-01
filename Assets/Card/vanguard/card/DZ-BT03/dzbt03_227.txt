@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_227",
+  "PackNo": "DZ-BT03",
+  "CardName": "旅のはじまり",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=アタックしている相手のユニットを１枚選び、そのバトル中、パワー－10000。あなたのドロップにこのカードと同名のカードが３枚以上なら、そのバトル中ではなく、そのターン中、パワー－10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

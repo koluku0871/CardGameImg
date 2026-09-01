@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_049",
+  "PackNo": "BT13",
+  "CardName": "千本太刀の忍鬼オボロザクラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

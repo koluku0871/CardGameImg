@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_064",
+  "PackNo": "D-BT04",
+  "CardName": "忍竜シャクガン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットがグレード３以上にアタックしたバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

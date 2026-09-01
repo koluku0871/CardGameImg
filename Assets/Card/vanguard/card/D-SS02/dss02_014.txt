@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_014",
+  "PackNo": "D-SS02",
+  "CardName": "焔の密僧カゲリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、【コスト】[【カウンターブラスト】(1)]することで、あなたのヴァンガードを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

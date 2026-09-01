@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_087",
+  "PackNo": "BT12",
+  "CardName": "アモンの眷族メテオ・クラッカー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_120",
+  "PackNo": "DZ-BT02",
+  "CardName": "もこもこ防寒レッキー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが手札から(G)に置かれた時、あなたのリアガードが１枚以下なら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

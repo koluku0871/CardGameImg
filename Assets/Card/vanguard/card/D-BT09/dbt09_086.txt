@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_086",
+  "PackNo": "D-BT09",
+  "CardName": "清麗の騎士リジェイタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)]することで、あなたの山札を上から１枚見て、そのターン中、このユニットのパワー＋2000。（確認したら元に戻す）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

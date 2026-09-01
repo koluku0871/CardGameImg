@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_074",
+  "PackNo": "BT12",
+  "CardName": "星輝兵ムーンコマンダー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

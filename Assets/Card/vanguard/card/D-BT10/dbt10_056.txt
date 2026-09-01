@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_056",
+  "PackNo": "D-BT10",
+  "CardName": "喚起の喘鳴",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたの山札を上から５枚見て、あなたのヴァンガードのグレード以上を１枚まで選び、公開して手札に加え、残りを捨てる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_125",
+  "PackNo": "D-BT03",
+  "CardName": "砂塵の剛弾イーサン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードのアタックがヒットした時、【コスト】[このユニットを退却させる]ことで、１枚引き、【カウンターチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_194",
+  "PackNo": "DZ-BT01",
+  "CardName": "ギガンテック・マッシャー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)】：このターンにあなたのユニットが「レザエル」を含むあなたのヴァンガードの能力で(R)に登場しているなら、このユニットのパワー＋15000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

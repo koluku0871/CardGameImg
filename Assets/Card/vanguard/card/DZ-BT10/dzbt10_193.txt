@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_193",
+  "PackNo": "DZ-BT10",
+  "CardName": "10thanniversaryRoselia氷川紗夜",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード・Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Roselia",
+  "Cost": "0",
+  "CardRarity": "EXS",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_076",
+  "PackNo": "D-LBT02",
+  "CardName": "繋がるココロルフィナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

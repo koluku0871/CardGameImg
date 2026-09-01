@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_065",
+  "PackNo": "BT15",
+  "CardName": "魔竜導師アパラーラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

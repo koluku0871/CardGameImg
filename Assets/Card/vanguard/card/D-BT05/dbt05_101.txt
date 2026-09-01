@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_101",
+  "PackNo": "D-BT05",
+  "CardName": "イグナイトブロウ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【永】【(R)/(G)】：あなたのソウルにグレード３があるなら、このユニットのパワー＋2000/シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

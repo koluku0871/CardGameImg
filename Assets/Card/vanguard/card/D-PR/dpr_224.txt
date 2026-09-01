@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_224",
+  "PackNo": "D-PR",
+  "CardName": "無窮の星竜帝エルドブレアス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "スペースドラゴン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=追加効果－そのターン中、あなたの前列のユニットすべてのパワーとクリティカルを２倍にする！,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

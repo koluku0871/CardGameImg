@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_036",
+  "PackNo": "D-PR",
+  "CardName": "一文字則宗",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【後列の(R)】：あなたのターン中、あなたのユニットが４枚以上なら、このユニットは『ブースト』を得て、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

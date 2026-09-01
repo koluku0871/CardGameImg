@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_028",
+  "PackNo": "BT16",
+  "CardName": "威嚇の喧嘩屋コウメイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[あなたの手札から１枚選び、捨てる]このユニットが(R)に登場した時、相手の前列のリアガードが１枚以下なら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

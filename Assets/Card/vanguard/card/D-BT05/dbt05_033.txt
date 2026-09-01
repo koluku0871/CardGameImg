@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_033",
+  "PackNo": "D-BT05",
+  "CardName": "友誼の騎士ケイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(R)】：このユニットが「忠義の騎士ベディヴィア」をブーストしたバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

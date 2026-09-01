@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_215",
+  "PackNo": "DZ-BT02",
+  "CardName": "春日影",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "楽曲/CRYCHIC",
+  "Cost": "1",
+  "CardRarity": "EXP",
+  "Text": "effect=【自】：このカードが(R)に置かれた時、あなたの、山札か手札から、あなたのヴァンガードのグレード以下の〈CRYCHIC〉のユニットカードを１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

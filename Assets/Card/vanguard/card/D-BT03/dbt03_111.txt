@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_111",
+  "PackNo": "D-BT03",
+  "CardName": "樹角獣リンブル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【後列の(R)】：あなたの後列のリアガードすべてのパワー＋2000。（このユニットも含む）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_065",
+  "PackNo": "D-BT01",
+  "CardName": "忍竜ジャエンゴク",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

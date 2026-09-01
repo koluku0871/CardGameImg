@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss11_173",
+  "PackNo": "D-SS11",
+  "CardName": "フレアヴェイル・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "0",
+  "CardRarity": "SIR",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

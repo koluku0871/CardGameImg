@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_031",
+  "PackNo": "D-SS02",
+  "CardName": "渇愛の女中",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、【コスト】[手札からオーダーカードを１枚捨てる]ことで、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

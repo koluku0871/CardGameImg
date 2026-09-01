@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd02_005",
+  "PackNo": "D-TTD02",
+  "CardName": "智の八犬士犬坂毛野",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "サムライ",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(R)】：相手のヴァンガードがグレード３以上なら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

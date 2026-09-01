@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt10_049",
+  "PackNo": "D-BT10",
+  "CardName": "実証の学士ピリック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：「ソルレアロン」を含むあなたのヴァンガードの能力でノーマルユニットが公開された時、そのターン中、このユニットは『ブースト』を得て、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

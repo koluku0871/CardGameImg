@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_018",
+  "PackNo": "D-PR",
+  "CardName": "真相読解コカビエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(G)】：あなたのヴァンガードが「頂の天帝バスティオン」なら、グレード３のあなたのユニット２枚につき、このユニットのシールド＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

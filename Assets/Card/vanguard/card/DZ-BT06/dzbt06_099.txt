@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_099",
+  "PackNo": "DZ-BT06",
+  "CardName": "メリフルアス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】：このカードはライドできず、トークンユニットのいない(R)にノーマルコールできない。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "18000",
+  "Defense": "0"
+}

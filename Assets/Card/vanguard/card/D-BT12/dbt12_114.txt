@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_114",
+  "PackNo": "D-BT12",
+  "CardName": "学園祭後夜中野二乃",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "五つ子",
+  "Cost": "1",
+  "CardRarity": "EXC",
+  "Text": "effect=【自】：このユニットが「五等分の花嫁」からライドして登場した時、あなたは「五等分の思い出」のクレストを得る。【永】【(G)】：あなたの思い出に〈五つ子〉が３種類以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

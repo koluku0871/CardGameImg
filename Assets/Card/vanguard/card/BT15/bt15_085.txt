@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_085",
+  "PackNo": "BT15",
+  "CardName": "蒼嵐兵テンペスト・アサルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

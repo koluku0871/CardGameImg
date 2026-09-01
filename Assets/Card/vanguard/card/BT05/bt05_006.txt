@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_006",
+  "PackNo": "BT05",
+  "CardName": "ミラクル・ビューティー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズ中、このユニットが【スタンド】した時、あなたの《ディメンジョンポリス》のヴァンガードがいるなら、他のこのユニットと同じ縦列にいるあなたのリアガードを１枚選び、【スタンド】する。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

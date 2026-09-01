@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs04_047",
+  "PackNo": "D-VS04",
+  "CardName": "アハラノフ・キャット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【(R)】：相手のバインドゾーンかこのユニットと同じ縦列に、相手の裏のカードがあるなら、【コスト】[このユニットをソウルに置く]ことで、そのターン中、あなたのユニット１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

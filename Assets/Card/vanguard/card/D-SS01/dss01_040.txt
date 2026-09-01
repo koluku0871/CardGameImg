@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss01_040",
+  "PackNo": "D-SS01",
+  "CardName": "天槌の騎士グルカント",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

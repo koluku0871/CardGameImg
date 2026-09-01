@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss04_020",
+  "PackNo": "D-SS04",
+  "CardName": "ハービッグ・クロー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "1",
+  "CardRarity": "TDR",
+  "Text": "effect=【永】【(G)】：「メサイア」を含むあなたのヴァンガードがいるなら、このユニットのシールド＋5000。【自】【(R)】：あなたの他のユニットが解呪された時、このユニットをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

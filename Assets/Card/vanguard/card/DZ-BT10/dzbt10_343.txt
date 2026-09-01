@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_343",
+  "PackNo": "DZ-BT10",
+  "CardName": "SpreadingChorusイルリース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "SR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの山札を上から７枚見て、楽装カードを１枚まで選び、捨て、山札をシャッフルする。【自】：このユニットが(R)から退却した時、あなたのヴァンガードが「アルティサリア」を含むグレード３以上なら、夜影兵・トークンを１枚まで後列の(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_081",
+  "PackNo": "D-TB06",
+  "CardName": "モンスターBOX",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "C",
+  "Text": "effect=モンスターBOXがあると以下の行動ができる。・あなたの各メインフェイズ中に１回、手札とモンスターBOXの、同じグレードのユニットカードを１枚交換する。,critical=クリティカル,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

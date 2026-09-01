@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1167",
+  "PackNo": "D-PR",
+  "CardName": "スコルピアサー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)】：あなたのソウルに「スタグニッパー・ドラゴン」があるなら、あなたがライドデッキから「マンティサイス・ドラゴン」にライドする際、手札から１枚捨てずにライドできる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

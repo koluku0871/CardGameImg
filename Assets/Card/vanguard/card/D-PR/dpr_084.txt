@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_084",
+  "PackNo": "D-PR",
+  "CardName": "三叉戟の騎士ジェラルド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストされてアタックした時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

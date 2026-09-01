@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1689",
+  "PackNo": "D-PR",
+  "CardName": "HappyBirthday！木谷高明",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

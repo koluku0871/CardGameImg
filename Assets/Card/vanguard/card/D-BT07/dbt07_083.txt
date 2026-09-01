@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_083",
+  "PackNo": "D-BT07",
+  "CardName": "アゴーギク・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：「リアノーン」を含むあなたのヴァンガードがいるなら、このユニットと同じ縦列のあなたの他のリアガードすべてに『ブースト』を与える。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

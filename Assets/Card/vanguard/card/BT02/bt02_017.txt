@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_017",
+  "PackNo": "BT02",
+  "CardName": "サイレント・トム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(V)/(R)】：このユニットがアタックしたバトル中、あなたの《オラクルシンクタンク》のヴァンガードがいるなら、相手はグレード０のユニットを(G)にノーマルコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

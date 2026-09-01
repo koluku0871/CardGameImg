@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_032",
+  "PackNo": "D-TB03",
+  "CardName": "カルシウムの巨人",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "骨",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【永】：このユニットは(R)にノーマルコールできない。【永】【(R)】：あなたのオーダーゾーンの「ネクロマンシー」１枚につき、このユニットのパワー＋5000。【自】【(R)】：あなたのターン終了時、このユニットを退却させる。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

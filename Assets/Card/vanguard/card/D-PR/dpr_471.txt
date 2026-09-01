@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_471",
+  "PackNo": "D-PR",
+  "CardName": "overDressSeason2御薬袋ミレイ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=【永】：このカードは「フレアヴェイル・ドラゴン」としても扱う。【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

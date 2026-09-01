@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_100",
+  "PackNo": "BT10",
+  "CardName": "ダッドリー・ファントム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《スパイクブラザーズ》を【ブースト】した時、そのバトル中、【ブースト】されたユニットのパワー＋4000し、そのバトルの終了時、このユニットを山札の下に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

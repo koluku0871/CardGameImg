@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_084",
+  "PackNo": "DZ-BT08",
+  "CardName": "INDuCTioN5-Ⅱ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのオーダーゾーンのセットオーダー２種類につき、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

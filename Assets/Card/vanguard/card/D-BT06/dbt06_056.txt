@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_056",
+  "PackNo": "D-BT06",
+  "CardName": "ファネスプローダー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、ユニットのいない相手の(R)１つにつき、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

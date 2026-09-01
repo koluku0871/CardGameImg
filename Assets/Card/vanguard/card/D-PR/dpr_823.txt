@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_823",
+  "PackNo": "D-PR",
+  "CardName": "討究の打擲ブライトリム",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

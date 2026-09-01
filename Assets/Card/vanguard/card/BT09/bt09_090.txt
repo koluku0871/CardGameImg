@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_090",
+  "PackNo": "BT09",
+  "CardName": "プロトラクター・ピーコック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(G)に登場した時、あなたの《グレートネイチャー》のヴァンガードがいるなら、コストを払ってよい。払ったら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

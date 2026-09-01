@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_016",
+  "PackNo": "BT10",
+  "CardName": "覇軍の抹消者ズイタン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたのカード名に「抹消者」を含むヴァンガードがいるなら、あなたのダメージゾーンから１枚選び、表にし、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

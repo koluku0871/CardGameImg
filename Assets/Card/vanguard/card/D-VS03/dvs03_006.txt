@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs03_006",
+  "PackNo": "D-VS03",
+  "CardName": "希望の剣リシャール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(R)】：あなたのリアガードが３枚以上なら、このユニットと同じ縦列の、あなたの他のリアガードすべてに『インターセプト』を与える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_117",
+  "PackNo": "D-LBT01",
+  "CardName": "ヴァイブラント・シンフォニー",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=このターンにあなたのヴァンガードにアタックがヒットしているなら、アタックされているユニットを１枚選び、そのバトル中、パワー＋30000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

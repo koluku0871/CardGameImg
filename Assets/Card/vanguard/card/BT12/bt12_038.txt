@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt12_038",
+  "PackNo": "BT12",
+  "CardName": "アモンの眷族フールズ・パーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[あなたの手札から１枚選び、捨てる]このユニットが(R)に登場した時、あなたのソウルの《ダークイレギュラーズ》が６枚以上なら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

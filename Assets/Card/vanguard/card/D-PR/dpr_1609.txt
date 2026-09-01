@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1609",
+  "PackNo": "D-PR",
+  "CardName": "フォワード・ウィールセロッタ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

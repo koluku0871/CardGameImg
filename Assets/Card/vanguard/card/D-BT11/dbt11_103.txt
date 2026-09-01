@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_103",
+  "PackNo": "D-BT11",
+  "CardName": "ギラファノコギリクワガタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ムシ",
+  "Cost": "3",
+  "CardRarity": "EX",
+  "Text": "effect=必殺わざ：ハサミ超必殺わざ：ブルロック【体長】１１９ミリメートル【生まれたところ】ネパール【せいかく】アタックタイプ【学名】ProsopocoilusGiraffaたいりょく：180ダゲキわざ：55ハサミわざ：110ナゲわざ：55テクニック：30つよさ：200,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

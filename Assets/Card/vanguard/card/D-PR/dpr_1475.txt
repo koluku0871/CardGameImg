@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1475",
+  "PackNo": "D-PR",
+  "CardName": "姦悪の契り",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=以下を１つ行う。・１枚引き、【ソウルチャージ】(1)。・あなたのヴァンガードが「ペイモニアス」を含むなら、あなたの山札から「魔の約定剣士ミゼル」を１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

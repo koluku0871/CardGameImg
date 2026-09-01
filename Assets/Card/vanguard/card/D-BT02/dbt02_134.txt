@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_134",
+  "PackNo": "D-BT02",
+  "CardName": "ディアブロスエッジグラントリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【起】【(R)】：【コスト】[【ソウルブラスト】(1)]することで、そのターン中、相手はインターセプトできず、あなたが“一気呵勢”なら、さらにこのユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

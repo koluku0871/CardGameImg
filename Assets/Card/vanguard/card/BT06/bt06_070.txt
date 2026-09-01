@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_070",
+  "PackNo": "BT06",
+  "CardName": "呪われた銃の死霊海賊",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：[あなたの手札から１枚選び、捨てる]このユニットがアタックした時、コストを払ってよい。払ったら、そのバトル中、このユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

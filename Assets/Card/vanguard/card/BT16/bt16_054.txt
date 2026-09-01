@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_054",
+  "PackNo": "BT16",
+  "CardName": "粗暴の喧嘩屋シュウギ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのヴァンガードが【双闘】しているなら、相手のリアガードを２枚まで選び、そのターン中、そのユニットは【インターセプト】できない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

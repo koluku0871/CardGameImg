@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_038",
+  "PackNo": "BT05",
+  "CardName": "約束の火エルモ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サラマンダー",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(1)]このユニットがカード名に「オーバーロード」を含むユニットを【ブースト】した時、コストを払ってよい。払ったら、そのバトル中、【ブースト】されたユニットのパワー＋6000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

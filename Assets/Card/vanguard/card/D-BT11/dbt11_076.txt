@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_076",
+  "PackNo": "D-BT11",
+  "CardName": "アームド・アームズ“L”",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがグレード３以上のヴァンガードにアタックした時、「シルエット」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

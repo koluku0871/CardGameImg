@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_093",
+  "PackNo": "BT15",
+  "CardName": "蒼嵐戦姫ドリア",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

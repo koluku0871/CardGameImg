@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_075",
+  "PackNo": "D-BT07",
+  "CardName": "サイレントソロウ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたの他のリアガードが、あなたのカードの能力で退却しているなら、このユニットのパワー＋10000。（相手ターンも有効）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

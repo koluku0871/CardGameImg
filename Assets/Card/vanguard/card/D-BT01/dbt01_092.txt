@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_092",
+  "PackNo": "D-BT01",
+  "CardName": "因果よ狂え、我が意のままに",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！あなたのヴァンガードを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

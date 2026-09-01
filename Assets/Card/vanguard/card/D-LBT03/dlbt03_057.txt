@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_057",
+  "PackNo": "D-LBT03",
+  "CardName": "大慌てな朝ムークル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたの他のリアガードのグレード１種類につき、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

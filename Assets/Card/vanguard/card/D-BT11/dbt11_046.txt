@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_046",
+  "PackNo": "D-BT11",
+  "CardName": "この手に輝く流星を",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=あなたのドロップからそれぞれ別名のグレード２以上のユニットカードを２枚まで選び、(G)にコールし、あなたのユニットを１枚選び、そのバトル中、パワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

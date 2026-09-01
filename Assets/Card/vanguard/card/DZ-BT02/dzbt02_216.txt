@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_216",
+  "PackNo": "DZ-BT02",
+  "CardName": "碧天伴走",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "楽曲/MyGO!!!!!",
+  "Cost": "2",
+  "CardRarity": "EXP",
+  "Text": "effect=【自】【(R)】：「高松燈」を含むあなたのヴァンガードがアタックした時、あなたの前列の〈MyGO!!!!!〉のリアガードを１枚選び、【スタンド】させる。相手のヴァンガードがグレード３以上なら、その【スタンド】させたユニットと同じ縦列の、あなたの他のリアガードを１枚選び、【スタンド】させる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

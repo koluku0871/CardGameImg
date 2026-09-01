@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_890",
+  "PackNo": "D-PR",
+  "CardName": "運否天賦のジン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、あなたの山札を上から５枚見て、ノーマルオーダーを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

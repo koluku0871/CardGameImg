@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_564",
+  "PackNo": "D-PR",
+  "CardName": "ブシロードTCG応援隊長エルブレイブ&隊員ドン・グリス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_062",
+  "PackNo": "D-TB03",
+  "CardName": "キョンシー沙門",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "キョンシー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットのパワー＋5000。このユニットと同じ縦列に、「道」を含む〈シャーマン〉のあなたのユニットがいないなら、このユニットはアタックもブーストもできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

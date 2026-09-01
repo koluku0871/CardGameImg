@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_167",
+  "PackNo": "D-TB04",
+  "CardName": "あまねく法の光シャマシュ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "0",
+  "CardRarity": "SKR",
+  "Text": "effect=-,critical=クリティカル0,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "6000",
+  "Defense": "15000"
+}

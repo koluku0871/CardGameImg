@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_083",
+  "PackNo": "BT06",
+  "CardName": "ウェイビング・オウル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《ゴールドパラディン》を【ブースト】したバトル中、アタックがヴァンガードにヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

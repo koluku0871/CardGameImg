@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_062",
+  "PackNo": "D-LBT01",
+  "CardName": "素直で前向きロウシェ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのオーダーゾーンにあるあなたのカード１枚につき、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

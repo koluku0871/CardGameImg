@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_638",
+  "PackNo": "D-PR",
+  "CardName": "霊体凝縮",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！あなたのドロップから、あなたのヴァンガードのグレード以下を１枚選び、(R)にコールし、そのターン中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

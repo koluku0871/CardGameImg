@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_091",
+  "PackNo": "BT14",
+  "CardName": "匕首の忍鬼ヤイバー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

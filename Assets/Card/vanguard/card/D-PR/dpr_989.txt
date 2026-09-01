@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_989",
+  "PackNo": "D-PR",
+  "CardName": "AbsoluteZeroクラウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「AbsoluteZeroリックス」からライドして登場した時、あなたの山札を上から７枚見て、「AbsoluteZero」か「風紀乙女」を含む、カードを１枚まで選び、公開して手札に加え、山札をシャッフルする。【起】【(R)】【ターン1回】：あなたのヴァンガードが「AbsoluteZero」を含むグレード３以上で、相手のヴァンガードがグレード３以上なら、【コスト】[手札から１枚捨てる]ことで、そのターン中、このユニットは『【永】【(R)】：あなたの前列のリアガードすべてのパワー＋5000。』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

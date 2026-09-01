@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_103",
+  "PackNo": "D-BT01",
+  "CardName": "発揚の騎士エアフレド",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

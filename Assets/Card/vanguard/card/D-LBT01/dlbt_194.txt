@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_194",
+  "PackNo": "D-LBT01",
+  "CardName": "裏腹な優しさヴァージニア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：このユニットがブーストされてアタックしたバトル終了時、このターンにあなたがオーダーをプレイしているなら、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

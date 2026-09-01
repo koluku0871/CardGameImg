@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_069",
+  "PackNo": "D-BT06",
+  "CardName": "結びつく聖炎",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=「ニルヴァーナ」を含むあなたのユニットを１枚選び、そのバトル中、パワー＋20000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

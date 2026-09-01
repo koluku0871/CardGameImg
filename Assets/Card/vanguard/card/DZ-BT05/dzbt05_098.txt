@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_098",
+  "PackNo": "DZ-BT05",
+  "CardName": "ドリルツイスター・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、このターンにあなたの他のリアガードが手札以外から(R)に登場しているなら、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

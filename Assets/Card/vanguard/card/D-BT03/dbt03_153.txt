@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_153",
+  "PackNo": "D-BT03",
+  "CardName": "厳罰の騎士ゲイド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=【自】：このユニットがあなたのカードのコストで(R)から退却した時、あなたの山札を上から３枚見て、「ブラスター」を含むカードを１枚まで選び、公開して手札に加え、残りを山札の下に望む順で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

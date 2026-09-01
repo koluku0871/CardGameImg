@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt05_042",
+  "PackNo": "BT05",
+  "CardName": "天空を覆う翼ジムルグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、あなたの《ネオネクタール》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

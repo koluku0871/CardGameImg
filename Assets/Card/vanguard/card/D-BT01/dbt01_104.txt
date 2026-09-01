@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_104",
+  "PackNo": "D-BT01",
+  "CardName": "白烏の魔術師タクスス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

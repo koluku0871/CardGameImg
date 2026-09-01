@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_053",
+  "PackNo": "BT09",
+  "CardName": "忍妖オバケランタン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

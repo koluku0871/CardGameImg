@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_096",
+  "PackNo": "BT14",
+  "CardName": "ワイバーンストライクザルース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットを【レスト】する]他のあなたの《なるかみ》を１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

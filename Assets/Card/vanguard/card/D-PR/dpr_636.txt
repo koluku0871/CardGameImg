@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_636",
+  "PackNo": "D-PR",
+  "CardName": "ダークストレイン・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：グレード３のあなたのユニットが３枚以上なら、【コスト】[【ソウルブラスト】(2)]することで、そのターン中、グレード３のあなたのユニットすべてに『ブースト』を与える。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

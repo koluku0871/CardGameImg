@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_175",
+  "PackNo": "D-BT09",
+  "CardName": "喚起の操獣師ライリー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "Re",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

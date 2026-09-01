@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_171",
+  "PackNo": "D-LBT02",
+  "CardName": "澄み渡る雪夜ベレトア",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

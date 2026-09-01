@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt09_059",
+  "PackNo": "D-BT09",
+  "CardName": "封焔竜アヌゥガム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【ドロップ】：「バヴサーガラ」を含むあなたのヴァンガードがいるなら、このカードはグレード１として扱う。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

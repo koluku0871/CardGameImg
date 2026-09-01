@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_085",
+  "PackNo": "DZ-BT01",
+  "CardName": "人竜の絆",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=相手のヴァンガードがグレード３以上なら、【コスト】[【エネルギーブラスト】(2)]することでプレイできる！あなたのヴァンガードを１枚選び、そのバトル中、パワー＋25000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

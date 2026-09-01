@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_086",
+  "PackNo": "D-BT07",
+  "CardName": "フロート・アサルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットのアタックがヒットした時、「フラッグバーグ」を含む【スタンド】しているあなたのヴァンガードがいるなら、このユニットを【スタンド】させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

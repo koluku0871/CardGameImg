@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_107",
+  "PackNo": "D-BT01",
+  "CardName": "ホープフル・テストード",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたのユニットが３枚以上なら、あなたのユニットを１枚選び、そのバトル中、パワー＋15000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

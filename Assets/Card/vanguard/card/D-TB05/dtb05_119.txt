@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_119",
+  "PackNo": "D-TB05",
+  "CardName": "最速の先読み佐々木小次郎",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "人類",
+  "Cost": "2",
+  "CardRarity": "RGR",
+  "Text": "effect=【自】：このユニットが「史上最強の敗者佐々木小次郎」にライドされた時、あなたの山札を上から１枚公開し、手札に加える。公開されたカードが〈人類〉なら、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

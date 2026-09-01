@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_047",
+  "PackNo": "D-BT12",
+  "CardName": "シュヴァルツァー・アインス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：グレード２以上のあなたのセットオーダーがオーダーゾーンに置かれた時、【コスト】[このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

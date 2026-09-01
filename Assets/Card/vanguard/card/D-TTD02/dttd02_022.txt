@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd02_022",
+  "PackNo": "D-TTD02",
+  "CardName": "優雅なる花ノ国の精プルメリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "妖精族",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_024",
+  "PackNo": "BT01",
+  "CardName": "槍の化身ター",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

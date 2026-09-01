@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_025",
+  "PackNo": "BT04",
+  "CardName": "フルバウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：「ブラスター・ジャベリン」がこのユニットにライドした時、あなたの山札から「ブラスター・ダーク」を１枚まで探し、相手に見せ、手札に加え、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

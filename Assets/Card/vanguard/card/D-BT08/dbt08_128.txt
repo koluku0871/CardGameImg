@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt08_128",
+  "PackNo": "D-BT08",
+  "CardName": "讃美の歌が聴こえる",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=「ケイオス」を含むあなたのヴァンガードがいるならプレイできる！あなたのヴァンガードを１枚選び、そのターン中、パワー＋10000。あなたのドロップからノーマルユニットを３枚選び、ソウルに置き、このカードを山札の下に置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

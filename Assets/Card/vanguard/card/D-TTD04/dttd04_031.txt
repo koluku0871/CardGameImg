@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd04_031",
+  "PackNo": "D-TTD04",
+  "CardName": "如来",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "麻倉葉",
+  "Cost": "2",
+  "CardRarity": "SKR",
+  "Text": "effect=「麻倉葉」を含むあなたのユニットがいるならプレイできる！「阿弥陀丸」を含むあなたのリアガードがいるなら、「麻倉葉」を含むあなたのヴァンガードを１枚選び、そのターン中、パワー＋10000。「阿弥陀丸」を含むあなたのリアガードがいないなら、あなたのドロップから「阿弥陀丸」を含むカードを１枚選び、(R)にコールする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

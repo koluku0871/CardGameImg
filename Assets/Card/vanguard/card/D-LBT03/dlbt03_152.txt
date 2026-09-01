@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_152",
+  "PackNo": "D-LBT03",
+  "CardName": "透き通るキラメキアウラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヒットした時、【コスト】[このユニットを退却させる]ことで、あなたの山札からオーダーカードを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

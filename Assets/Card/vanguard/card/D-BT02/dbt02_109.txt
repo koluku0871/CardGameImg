@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_109",
+  "PackNo": "D-BT02",
+  "CardName": "鉄錨の憤竜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゾンビ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)】：あなたがノーマルオーダーをプレイする際、ドロップから同名のノーマルオーダーを１枚バインドし、魔合成してよい。（コストを合計し、効果を後ろに追加する！）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

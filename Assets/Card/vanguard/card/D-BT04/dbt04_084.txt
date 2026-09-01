@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_084",
+  "PackNo": "D-BT04",
+  "CardName": "輝く我欲",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【ソウルブラスト】(4)]することでプレイできる！あなたのヴァンガードを１枚選び、あなたのダメージゾーン１枚につき、そのバトル中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

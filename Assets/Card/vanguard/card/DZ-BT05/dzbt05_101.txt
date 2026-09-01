@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_101",
+  "PackNo": "DZ-BT05",
+  "CardName": "ディヴァインシスターぺいすとりー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがグレード３以上をブーストした時、そのバトル中、このユニットのパワー＋2000。そのバトル終了時、このバトルでアタックがヒットしているなら、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

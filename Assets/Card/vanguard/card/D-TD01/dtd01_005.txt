@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd01_005",
+  "PackNo": "D-TD01",
+  "CardName": "華やぐ旋律レクティナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

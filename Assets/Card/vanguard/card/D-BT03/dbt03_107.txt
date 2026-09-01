@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_107",
+  "PackNo": "D-BT03",
+  "CardName": "真理を照らす光",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたの、(V)か(R)の「六角宝珠の女魔術師」を１枚選び、そのバトル中、パワー＋10000。【コスト】[【カウンターブラスト】(2)]することで、＋10000ではなく＋40000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

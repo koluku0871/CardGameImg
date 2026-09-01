@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_119",
+  "PackNo": "D-TB03",
+  "CardName": "超！本領発揮！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "道蓮",
+  "Cost": "3",
+  "CardRarity": "SKR",
+  "Text": "effect=「道蓮」を含むあなたのユニットがいるならプレイできる！あなたのソウルから「馬孫」を含むカードを１枚選び、(R)にコールし、そのターン中、パワー＋10000/クリティカル＋１。このターンに「道蓮」を含むあなたのヴァンガードが【オーバーソウル】しているなら、相手のリアガードを１枚選び、退却させる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_052",
+  "PackNo": "D-BT06",
+  "CardName": "スプリー・ヴェスパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このユニットがグレード２以上のヴァンガードにアタックしたバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

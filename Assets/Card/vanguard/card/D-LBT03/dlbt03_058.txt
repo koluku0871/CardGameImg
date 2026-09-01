@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_058",
+  "PackNo": "D-LBT03",
+  "CardName": "水鞠の歌姫プリシー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのオーダーゾーンにセットオーダーがあるなら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

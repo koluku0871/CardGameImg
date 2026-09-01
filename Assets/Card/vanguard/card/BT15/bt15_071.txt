@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_071",
+  "PackNo": "BT15",
+  "CardName": "滅星の星輝兵エルビウム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたの《リンクジョーカー》のヴァンガードがいるなら、あなたのカード名に「Я」を含むリアガードのカード名１種につき、このユニットのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

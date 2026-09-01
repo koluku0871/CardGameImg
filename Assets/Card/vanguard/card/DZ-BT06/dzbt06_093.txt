@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_093",
+  "PackNo": "DZ-BT06",
+  "CardName": "ギガンテック・レンダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【エネルギーブラスト】(3)]することで、そのターン中、このユニットは『ブースト』を得て、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

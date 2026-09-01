@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_090",
+  "PackNo": "D-BT07",
+  "CardName": "僚撃のブレイブ・シューター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【中央後列の(R)】：あなたのリアガードがアタックした時、このターン１回目のバトルなら、そのターン中、そのユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

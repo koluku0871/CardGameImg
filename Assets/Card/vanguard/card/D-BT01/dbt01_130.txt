@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_130",
+  "PackNo": "D-BT01",
+  "CardName": "急行竜スティルディロフォ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

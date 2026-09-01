@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_168",
+  "PackNo": "DZ-BT07",
+  "CardName": "特別な自分倉田ましろ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Morfonica",
+  "Cost": "2",
+  "CardRarity": "EXC",
+  "Text": "effect=【自】：このユニットが「夏空のハーモニー倉田ましろ」からライドして登場した時、あなたの山札を上から７枚見て、〈Morfonica〉を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt01_186",
+  "PackNo": "DZ-BT01",
+  "CardName": "共形変換の先手",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：あなたのライドフェイズにこのカードが手札から捨てられた時、このカードを(R)に【レスト】でコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

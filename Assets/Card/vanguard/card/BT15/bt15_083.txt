@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt15_083",
+  "PackNo": "BT15",
+  "CardName": "豪腕拿捕の巨人兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴーレム",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)】：このユニットのドライブチェックで《アクアフォース》がでた時、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

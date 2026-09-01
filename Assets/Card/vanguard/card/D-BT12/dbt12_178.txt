@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_178",
+  "PackNo": "D-BT12",
+  "CardName": "整然の乙女ヨランダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、【コスト】[グレード１以下の他のリアガードを２枚退却させる]ことで、１枚引き、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

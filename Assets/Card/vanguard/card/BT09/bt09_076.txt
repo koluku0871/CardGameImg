@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt09_076",
+  "PackNo": "BT09",
+  "CardName": "真紅の衝動アフロディテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ダメージゾーン】：[表のこのカードを裏にする]あなたの《エンジェルフェザー》のヴァンガードを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

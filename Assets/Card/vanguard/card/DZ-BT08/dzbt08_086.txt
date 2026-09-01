@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_086",
+  "PackNo": "DZ-BT08",
+  "CardName": "デリバリー・タビー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、【コスト】[【エネルギーブラスト】(3)]することで、あなたのドロップからオーダーカードを１枚選び、手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

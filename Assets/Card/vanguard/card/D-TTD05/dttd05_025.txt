@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd05_025",
+  "PackNo": "D-TTD05",
+  "CardName": "人類の勝利を願うゲル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "戦乙女",
+  "Cost": "1",
+  "CardRarity": "RGR",
+  "Text": "effect=【永】：守護者【自】：このユニットが(G)に置かれた時、【コスト】[手札から１枚捨てる]ことで、あなたのユニットを１枚選び、そのバトル中、ヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "0"
+}

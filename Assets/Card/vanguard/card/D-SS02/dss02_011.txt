@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss02_011",
+  "PackNo": "D-SS02",
+  "CardName": "焔の武僧コウカン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、【オーバードレス】状態のあなたのユニットがいるなら、１枚引く。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

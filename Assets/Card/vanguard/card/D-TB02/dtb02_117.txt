@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_117",
+  "PackNo": "D-TB02",
+  "CardName": "倭男具那命ヤマトタケル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "聖騎士",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】【(R)】：このターンにあなたがペルソナライドしているなら、このユニットがアタックする際、相手の、縦列１つのユニットすべてとバトルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

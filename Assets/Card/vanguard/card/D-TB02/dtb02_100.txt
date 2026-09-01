@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_100",
+  "PackNo": "D-TB02",
+  "CardName": "封印を解放せし聖盾の戦乙女アテナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "神",
+  "Cost": "3",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】【(V)/(R)】：このユニットがブーストされたバトル中、グレード３以上のあなたの他のユニットがいるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

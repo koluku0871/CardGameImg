@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_033",
+  "PackNo": "BT16",
+  "CardName": "タンクライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列に他のあなたのカード名に「ライザー」を含むユニットがいるなら、このユニットはカードの効果で退却しない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

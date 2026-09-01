@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt04_061",
+  "PackNo": "BT04",
+  "CardName": "テイル・ジョー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、相手の、ヴァンガードとリアガードがすべて【レスト】しているなら、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

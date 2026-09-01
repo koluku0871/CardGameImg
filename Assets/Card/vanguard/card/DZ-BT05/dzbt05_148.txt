@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_148",
+  "PackNo": "DZ-BT05",
+  "CardName": "レトロプリーツ",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "オシャレまほうカード",
+  "Cost": "2",
+  "CardRarity": "EX",
+  "Text": "effect=-,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

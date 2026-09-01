@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt05_277",
+  "PackNo": "DZ-BT05",
+  "CardName": "無限鱗粉",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "T",
+  "Text": "effect=（これは無限鱗粉マーカーを表すためのものであり、デッキには入れられない）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

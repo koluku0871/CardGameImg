@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_120",
+  "PackNo": "D-BT03",
+  "CardName": "暗闇隠し",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)，バインドゾーンからオーダーカードを４枚ドロップに置く]ことでプレイできる！リアガードにアタックされているあなたのユニットを１枚選び、そのバトル中、パワー＋20000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

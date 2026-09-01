@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_077",
+  "PackNo": "D-LBT01",
+  "CardName": "花開く季節ルディ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのリアガードが手札に戻された時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

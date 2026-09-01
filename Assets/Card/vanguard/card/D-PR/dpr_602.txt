@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_602",
+  "PackNo": "D-PR",
+  "CardName": "ガーターシルエット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「シルエットマン」からライドして登場した時、あなたの山札から「機巧整備工場」を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

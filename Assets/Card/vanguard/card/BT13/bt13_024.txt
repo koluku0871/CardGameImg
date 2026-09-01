@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_024",
+  "PackNo": "BT13",
+  "CardName": "忍獣タマハガネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(V)か(R)に登場した時、あなたの《ぬばたま》のヴァンガードがいるなら、相手のリアガードを１枚選び、表でバインドし、そのターンの終了時、相手はこの効果でバインドしたカードを手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

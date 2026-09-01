@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_027",
+  "PackNo": "BT03",
+  "CardName": "バーキング・ケルベロス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "キメラ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

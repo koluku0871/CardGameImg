@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_112",
+  "PackNo": "D-TB02",
+  "CardName": "黄泉津大神イザナミ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "神",
+  "Cost": "3",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたの(R)に「創世の始神イザナギ」がいるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

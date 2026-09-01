@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_071",
+  "PackNo": "DZ-BT10",
+  "CardName": "忍妖グラウンドーチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、このターン３回目のバトルなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

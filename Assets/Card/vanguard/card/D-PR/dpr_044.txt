@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_044",
+  "PackNo": "D-PR",
+  "CardName": "無慈悲なる魔物殲滅の英雄ペルセウス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "神",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

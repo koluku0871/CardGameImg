@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_029",
+  "PackNo": "D-TB04",
+  "CardName": "余裕と挑発ターバイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが「ハオ」を含むあなたのヴァンガードの能力で(R)からバインドされた時、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、相手のリアガードを１枚選び、そのユニットと同じ縦列の相手のリアガードすべてを退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_050",
+  "PackNo": "BT14",
+  "CardName": "宝石騎士ノーブル・スティンガー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

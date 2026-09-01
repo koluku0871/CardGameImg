@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_062",
+  "PackNo": "BT13",
+  "CardName": "獣神ダムンドレオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

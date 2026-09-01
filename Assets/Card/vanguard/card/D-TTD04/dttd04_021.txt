@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd04_021",
+  "PackNo": "D-TTD04",
+  "CardName": "医者ファウストⅧ世",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "SKR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

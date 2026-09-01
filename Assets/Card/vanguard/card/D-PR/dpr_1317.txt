@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_1317",
+  "PackNo": "D-PR",
+  "CardName": "かけがえのない思い出",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】：守護者（守護者を持つカードはデッキに合計４枚まで入れられる）【自】：このユニットが(G)に置かれた時、あなたのユニットを１枚選び、そのバトル中、ヒットされない。あなたの手札が２枚以上なら、手札から１枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "0"
+}

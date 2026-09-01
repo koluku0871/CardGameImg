@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_077",
+  "PackNo": "DZ-BT04",
+  "CardName": "スチームハンターアルタターマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このカードが「ドラジュエルド」を含むグレード３以上のあなたのヴァンガードの能力のコストで【ソウルブラスト】された時、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

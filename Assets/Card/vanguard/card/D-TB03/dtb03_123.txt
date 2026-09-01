@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_123",
+  "PackNo": "D-TB03",
+  "CardName": "地獄にたたき落としてやるから",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "恐山アンナ",
+  "Cost": "2",
+  "CardRarity": "SKR",
+  "Text": "effect=「恐山アンナ」を含むあなたのユニットがいるならプレイできる！相手のユニットを２枚選び、そのターン中、それらの元々のパワーは０になる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_055",
+  "PackNo": "D-BT06",
+  "CardName": "漂泊せし魂",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=そのターン中、あなたがメインフェイズにリアガードを移動や入れ替えさせる際、横列にも動かせる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

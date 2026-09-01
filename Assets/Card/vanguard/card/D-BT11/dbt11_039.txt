@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_039",
+  "PackNo": "D-BT11",
+  "CardName": "本気で勝負！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[【ソウルブラスト】(1)]することでプレイできる！相手の前列のリアガードを１枚選び、退却させる。そのターン終了時、【コスト】[手札から１枚捨てる]ことで、あなたのドロップから「本気で勝負！」を１枚選び、手札に加える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

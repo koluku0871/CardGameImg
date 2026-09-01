@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs05_017",
+  "PackNo": "D-VS05",
+  "CardName": "オーダイン・オウル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：このユニットがライドされた時、このカードを(R)にコールしてよい。【自】【(R)】：このユニットが「神器」を含むユニットをブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

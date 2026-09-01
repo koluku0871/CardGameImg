@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt10_092",
+  "PackNo": "DZ-BT10",
+  "CardName": "ルアリド・スクイーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【ドロップ】：あなたの(R)に「ディッシャー・ロックホッパー」が登場した時、【コスト】［【エネルギーブラスト】(3)］することで、このカードをあなたの「ディッシャー・ロックホッパー」と同じ縦列の(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

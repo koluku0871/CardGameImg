@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_125",
+  "PackNo": "D-TB06",
+  "CardName": "慧眼なる秩序の大天使ザドキエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "妖精",
+  "Cost": "2",
+  "CardRarity": "MSR",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのヴァンガードが“天界の守護者“のグレード３以上なら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

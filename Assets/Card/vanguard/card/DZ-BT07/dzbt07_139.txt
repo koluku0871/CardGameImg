@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_139",
+  "PackNo": "DZ-BT07",
+  "CardName": "アンタッチャブル・ディバチラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列にあなたの無限鱗粉マーカーがあるなら、このユニットは相手のカードの効果で選べない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

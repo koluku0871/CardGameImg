@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt01_095",
+  "PackNo": "D-BT01",
+  "CardName": "真相読解コカビエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのヴァンガードが「頂の天帝バスティオン」なら、グレード３のあなたのユニット２枚につき、このユニットのシールド＋5000。（このユニットも数える）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

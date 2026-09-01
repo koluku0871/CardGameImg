@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_064",
+  "PackNo": "D-PR",
+  "CardName": "スチームスカラーマルニガル",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

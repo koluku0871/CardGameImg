@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_071",
+  "PackNo": "DZ-BT04",
+  "CardName": "封焔竜ゴーパヤティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが２枚以上装備しているなら、このユニットは『インターセプト』を得て、パワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

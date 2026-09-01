@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_578",
+  "PackNo": "D-PR",
+  "CardName": "緋炎弓将ディパーネル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが「ガーンデーヴァ」を含むユニットにライドされた時、あなたのヴァンガードを１枚選び、そのターン中、そのユニットが元々持つ【起】能力のコストは【カウンターブラスト】(1)減る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

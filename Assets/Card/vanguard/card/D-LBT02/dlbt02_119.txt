@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_119",
+  "PackNo": "D-LBT02",
+  "CardName": "徹底休憩メルマール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【永】【(G)】：あなたのリアガードが、０枚か４枚以上なら、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

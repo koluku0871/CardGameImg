@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_082",
+  "PackNo": "D-LBT03",
+  "CardName": "翼との戯れラーケル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたの後列にグレード２以上のユニットがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

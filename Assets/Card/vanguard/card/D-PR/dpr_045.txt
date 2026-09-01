@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_045",
+  "PackNo": "D-PR",
+  "CardName": "新たなるカルコサの支配者アザトース",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "幻妖",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

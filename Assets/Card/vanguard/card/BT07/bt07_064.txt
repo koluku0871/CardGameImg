@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt07_064",
+  "PackNo": "BT07",
+  "CardName": "ディクショナリー・ゴート",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れられない。）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

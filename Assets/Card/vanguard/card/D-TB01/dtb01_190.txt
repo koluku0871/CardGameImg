@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_190",
+  "PackNo": "D-TB01",
+  "CardName": "祢々切丸",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-大太刀",
+  "Cost": "3",
+  "CardRarity": "TRR",
+  "Text": "effect=【起】【(R)】：【コスト】[【ソウルブラスト】(3)]することで、そのターン中、このユニットのパワー＋15000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

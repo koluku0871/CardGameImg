@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_115",
+  "PackNo": "DZ-BT11",
+  "CardName": "分け合う元気キュレット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがグレード３以上にアタックした時、あなたの裏のダメージゾーンが３枚以上なら、そのバトル中、このユニットのパワー＋5000。５枚以上なら、＋5000ではなく＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

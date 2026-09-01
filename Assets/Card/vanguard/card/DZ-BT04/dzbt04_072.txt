@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt04_072",
+  "PackNo": "DZ-BT04",
+  "CardName": "魔竜導師キョウコウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのターンに相手のリアガードがバインドされた時、あなたの他のユニットを１枚選び、そのターン中、そのユニットとこのユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

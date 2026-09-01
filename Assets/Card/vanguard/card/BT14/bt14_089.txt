@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_089",
+  "PackNo": "BT14",
+  "CardName": "忍獣デスリーダガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが《むらくも》を【ブースト】した時、【ブースト】されたユニットと同名のあなたのユニットが２枚以上いるなら、そのバトル中、【ブースト】されたユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

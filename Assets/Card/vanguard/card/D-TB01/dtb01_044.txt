@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_044",
+  "PackNo": "D-TB01",
+  "CardName": "源清麿",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードが登場した時、【コスト】[【カウンターブラスト】(1)]することで、あなたの山札から「水心子正秀」を１枚まで探し、ユニットのいない(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

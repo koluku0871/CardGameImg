@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs01_007",
+  "PackNo": "D-VS01",
+  "CardName": "独往の騎士ハーラル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：あなたのターンにグレード２のあなたのユニットが手札以外から登場した時、【コスト】[このユニットをソウルに置く]ことで、そのターン中、そのユニット１枚のパワー＋15000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

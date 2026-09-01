@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_069",
+  "PackNo": "DZ-BT11",
+  "CardName": "ドラグリッターバーリド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがグレード３以上にアタックした時、このユニットと同じ縦列にいずれかの他のリアガードがいないなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

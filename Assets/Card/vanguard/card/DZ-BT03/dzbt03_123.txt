@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt03_123",
+  "PackNo": "DZ-BT03",
+  "CardName": "シェイキー・ピーナツ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ドリアード",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンにこのカードが山札から捨てられた時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

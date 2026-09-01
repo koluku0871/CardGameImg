@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_056",
+  "PackNo": "D-LBT02",
+  "CardName": "いつもの放課後ユーリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが“友達”をブーストした時、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

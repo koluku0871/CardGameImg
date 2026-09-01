@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_252",
+  "PackNo": "DZ-BT07",
+  "CardName": "妖美の貴公子メルアール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)】：このユニットがあなたの無限鱗粉マーカーのある(R)にいるなら、このユニットは『【自】：このユニットがインターセプトした時、そのバトル中、このユニットのシールド＋10000。』を得て、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

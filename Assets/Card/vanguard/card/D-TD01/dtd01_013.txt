@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtd01_013",
+  "PackNo": "D-TD01",
+  "CardName": "アップビート・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットがインターセプトした時、あなたの後列にグレード１以下のリアガードが２枚以上なら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

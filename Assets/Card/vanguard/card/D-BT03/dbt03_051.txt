@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_051",
+  "PackNo": "D-BT03",
+  "CardName": "ブルーミングペタルカリオフィルス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのソウルが０枚なら、【ソウルチャージ】(2)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

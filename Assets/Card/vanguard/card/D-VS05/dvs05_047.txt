@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs05_047",
+  "PackNo": "D-VS05",
+  "CardName": "次元ロボダイダンパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(V)】：グレード３のあなたのユニットすべてのシールド＋10000。【自】【(R)】：アタックした時、そのバトル中、このユニットのパワー＋10000してよい。そうしたら、そのバトル終了時、このユニットを退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

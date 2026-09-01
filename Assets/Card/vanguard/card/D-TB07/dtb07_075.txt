@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb07_075",
+  "PackNo": "D-TB07",
+  "CardName": "信濃藤四郎極",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、１枚引き、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

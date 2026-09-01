@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd01_032",
+  "PackNo": "D-TTD01",
+  "CardName": "不動行光",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)]することで、あなたの山札を上から１枚見て、山札の上か下に置く。下に置いたら、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

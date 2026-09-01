@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_167",
+  "PackNo": "D-BT11",
+  "CardName": "君臨せよ、百獣の王！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=「エイゼル」を含むあなたのヴァンガードがいるならプレイできる！あなたの山札を上から７枚見て、グレード３以下のユニットカードを１枚まで選び、(R)にコールし、そのターン中、パワー＋5000。山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

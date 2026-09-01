@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd03_023",
+  "PackNo": "D-TTD03",
+  "CardName": "輝かしき純真の巫女真珠",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "聖騎士",
+  "Cost": "1",
+  "CardRarity": "MSR",
+  "Text": "effect=【永】：守護者【自】：このユニットが(G)に置かれた時、【コスト】[手札から１枚捨てる]ことで、あなたのユニットを１枚選び、そのバトル中、ヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "0"
+}

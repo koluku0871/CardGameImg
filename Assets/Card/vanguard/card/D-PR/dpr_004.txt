@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_004",
+  "PackNo": "D-PR",
+  "CardName": "スチームガンナーリムシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：このユニットがブーストしたバトル中、あなたのソウルが５枚以上なら、このユニットのパワー＋2000し、相手はインターセプトできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

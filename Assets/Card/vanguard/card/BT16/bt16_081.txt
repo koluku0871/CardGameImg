@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_081",
+  "PackNo": "BT16",
+  "CardName": "鋼闘機ミストゴースト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、あなたの(V)にいるユニットを２枚まで選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_456",
+  "PackNo": "D-PR",
+  "CardName": "クリシス・バイセクション",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "FR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

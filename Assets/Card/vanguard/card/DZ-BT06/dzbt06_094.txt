@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt06_094",
+  "PackNo": "DZ-BT06",
+  "CardName": "猛威の騎士アダロルフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットがアタックしたバトル中、相手は手札から(G)にコールする際、このユニットのクリティカル以上の枚数を同時にコールしない限りコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

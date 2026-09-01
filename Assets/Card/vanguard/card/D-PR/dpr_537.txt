@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_537",
+  "PackNo": "D-PR",
+  "CardName": "ツインドライブで限界突破！木谷高明",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt11_051",
+  "PackNo": "D-BT11",
+  "CardName": "我が身は御国の礎なれば",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[手札から１枚捨てる]ことでプレイできる！アタックされているあなたのユニットを１枚選び、そのバトル中、パワー＋5000。あなたのドロップから【治】を４枚まで選び、(G)にコールする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

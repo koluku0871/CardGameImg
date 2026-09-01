@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_058",
+  "PackNo": "D-BT02",
+  "CardName": "ドラグリッターナーシル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがインターセプトした時、相手のリアガードが２枚以下なら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

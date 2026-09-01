@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_046",
+  "PackNo": "BT06",
+  "CardName": "神聖結界ペネム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、あなたの《エンジェルフェザー》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

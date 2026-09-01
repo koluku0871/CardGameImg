@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt12_089",
+  "PackNo": "D-BT12",
+  "CardName": "環海の水将アニケトス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、グレード１以下のあなたのリアガード１枚につき、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

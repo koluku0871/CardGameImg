@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt08_237",
+  "PackNo": "DZ-BT08",
+  "CardName": "毎日少しずつレジティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのヴァンガードが「カイリ」を含むグレード３以上なら、あなたのドロップから「Astesice」を含むユニットカードを１枚まで選び、ソウルに置く。【永】【(R)】：あなたのターン中、あなたのヴァンガードが「Astesice」を含むなら、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

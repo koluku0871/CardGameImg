@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_398",
+  "PackNo": "D-PR",
+  "CardName": "お助け怪獣テクタン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、あなたの山札を上から５枚見て、セットオーダーを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

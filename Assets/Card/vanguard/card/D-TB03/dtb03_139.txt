@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_139",
+  "PackNo": "D-TB03",
+  "CardName": "シルバーアームズシルバーロッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【永】【後列の(R)】：このユニットは他の縦列のあなたのユニットがアタックしたバトルでもブーストできる。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

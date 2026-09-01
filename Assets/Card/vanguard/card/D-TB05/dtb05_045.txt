@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_045",
+  "PackNo": "D-TB05",
+  "CardName": "本能の構えアダム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "人類",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「全人類の父アダム」にライドされた時、あなたの山札から「楽園を追われし妻イヴ」を１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

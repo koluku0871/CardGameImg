@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt04_062",
+  "PackNo": "D-LBT04",
+  "CardName": "シーベッド・ソーサリーパトリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：相手の前列にリアガードがいないなら、【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、あなたのドロップからブリッツオーダーを１枚選び、手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

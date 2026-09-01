@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_045",
+  "PackNo": "D-BT07",
+  "CardName": "ディヴァインシスターらんぐどしゃ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：あなたのソウルにグレード３以上があるなら、このユニットは『ブースト』を得て、パワー＋5000。（相手ターンも有効）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

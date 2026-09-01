@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss06_019",
+  "PackNo": "D-SS06",
+  "CardName": "好転の魔法タナルル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットがブーストされてアタックしたバトル終了時、あなたの裏のダメージゾーンが３枚以上なら、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

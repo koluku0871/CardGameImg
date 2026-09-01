@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt03_054",
+  "PackNo": "D-LBT03",
+  "CardName": "スプラッシュ・ディライトペルシス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、「リルファ」を含むあなたのヴァンガードがいるなら、【ソウルチャージ】(1)し、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

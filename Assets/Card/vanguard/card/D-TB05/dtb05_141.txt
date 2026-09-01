@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb05_141",
+  "PackNo": "D-TB05",
+  "CardName": "征服神アダマス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "終末のワルキューレ",
+  "CardSubType": "神",
+  "Cost": "2",
+  "CardRarity": "RGR",
+  "Text": "effect=【自】【(V)/(R)】：あなたのターン終了時、あなたのダメージゾーンが４枚以下なら、あなたの山札を上から１枚ダメージゾーンに裏で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "13000",
+  "Defense": "5000"
+}

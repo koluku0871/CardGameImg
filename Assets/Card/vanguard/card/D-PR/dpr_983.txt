@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dpr_983",
+  "PackNo": "D-PR",
+  "CardName": "ライヴリィネイビィティファイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが「コンフィデントアクアミュゼット」にライドされた時、あなたの山札を上から１枚公開し、それがグレード２以下のノーマルユニットなら、(R)にコールし、違うなら、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

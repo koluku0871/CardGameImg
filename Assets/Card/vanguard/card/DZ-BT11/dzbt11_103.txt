@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_103",
+  "PackNo": "DZ-BT11",
+  "CardName": "真潮の水将ビクステス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "アクアロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：このターンにあなたがオーダーをプレイしているなら、このユニットのパワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

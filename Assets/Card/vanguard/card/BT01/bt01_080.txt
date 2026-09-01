@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt01_080",
+  "PackNo": "BT01",
+  "CardName": "マダム・ミラージュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt04_072",
+  "PackNo": "D-BT04",
+  "CardName": "黙示録の風",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=あなたのヴァンガードが「ドラゴニック・オーバーロード」なら、あなたのユニットを１枚選び、そのバトル中、パワー＋20000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

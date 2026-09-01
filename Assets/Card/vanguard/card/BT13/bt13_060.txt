@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_060",
+  "PackNo": "BT13",
+  "CardName": "忍妖マシロモメン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《ぬばたま》を１枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

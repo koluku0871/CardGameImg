@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt02_061",
+  "PackNo": "D-BT02",
+  "CardName": "忍竜キザンレイジ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、このユニットと同じ縦列の、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

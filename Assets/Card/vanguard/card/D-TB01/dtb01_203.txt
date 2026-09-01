@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb01_203",
+  "PackNo": "D-TB01",
+  "CardName": "日光一文字",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、このターンにあなたがペルソナライドしているなら、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt14_044",
+  "PackNo": "BT14",
+  "CardName": "ミスティカル・ハーミット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《ロイヤルパラディン》を１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

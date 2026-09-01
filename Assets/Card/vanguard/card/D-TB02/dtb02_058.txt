@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb02_058",
+  "PackNo": "D-TB02",
+  "CardName": "甘き夢へと誘う者サキュバス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "魔王",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストされたバトル終了時、そのアタックがヒットしていなかったら、【コスト】[【カウンターブラスト】(2)]することで、このユニットを【スタンド】させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

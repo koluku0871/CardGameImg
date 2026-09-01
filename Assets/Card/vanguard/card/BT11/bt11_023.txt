@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt11_023",
+  "PackNo": "BT11",
+  "CardName": "要の守護天使ベカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

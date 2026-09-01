@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt10_098",
+  "PackNo": "BT10",
+  "CardName": "UFO",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴブリン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[あなたの手札から１枚選び、捨てる]あなたのバトルフェイズ中、このユニットが(R)に登場した時、あなたの《スパイクブラザーズ》のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

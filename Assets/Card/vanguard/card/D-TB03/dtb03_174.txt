@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb03_174",
+  "PackNo": "D-TB03",
+  "CardName": "道家に仕える武人馬孫",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "霊",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【ドロップ】：「道蓮」を含むグレード３以上のあなたのヴァンガードが登場した時、「馬孫」を含むあなたのユニットがいないなら、このカードを(R)にコールしてよい。,critical=クリティカル0,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

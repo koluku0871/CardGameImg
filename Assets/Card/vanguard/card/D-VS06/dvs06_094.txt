@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dvs06_094",
+  "PackNo": "D-VS06",
+  "CardName": "財宝",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "RRR",
+  "Text": "effect=（これは財宝マーカーを表すカードであり、デッキには入れられない）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

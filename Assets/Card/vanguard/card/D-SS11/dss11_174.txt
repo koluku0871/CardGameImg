@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss11_174",
+  "PackNo": "D-SS11",
+  "CardName": "ディアブロスガールズナタリア",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "SIR",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

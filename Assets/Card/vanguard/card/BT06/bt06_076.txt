@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt06_076",
+  "PackNo": "BT06",
+  "CardName": "冥界の操舵手",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】【ドロップゾーン】：あなたのグレード３の《グランブルー》が(V)に登場した時、このカードを登場したユニットと同じ縦列の(R)にコールしてよい。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "3000",
+  "Defense": "10000"
+}

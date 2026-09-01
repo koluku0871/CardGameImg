@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_045",
+  "PackNo": "BT13",
+  "CardName": "ティンクルナイフ・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)/(R)】：[【カウンターブラスト】(2)]そのターン中、このユニットのパワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

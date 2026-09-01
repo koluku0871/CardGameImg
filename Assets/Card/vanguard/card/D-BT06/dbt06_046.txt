@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt06_046",
+  "PackNo": "D-BT06",
+  "CardName": "柩機の兵カラフィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：あなたの世界が、黒夜か深淵黒夜なら、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワーを15000になるまで増減させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

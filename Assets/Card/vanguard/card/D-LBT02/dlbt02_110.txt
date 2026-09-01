@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt02_110",
+  "PackNo": "D-LBT02",
+  "CardName": "味わい舌鼓ティグル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=全力－【永】【(G)】：あなたのソウルが０枚なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

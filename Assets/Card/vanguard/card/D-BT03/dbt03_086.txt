@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt03_086",
+  "PackNo": "D-BT03",
+  "CardName": "グラビディア・レーグル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットがアタックしたバトル中、あなたのオーダーゾーンに隕石が３枚以上なら、相手は手札から(G)にコールする際、２枚以上同時にコールしない限りコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

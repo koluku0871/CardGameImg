@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt07_111",
+  "PackNo": "D-BT07",
+  "CardName": "砂塵の撃砲アンドレア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【起】【(R)】：「ユージン」を含むあなたのヴァンガードがいるなら、【コスト】[このユニットを退却させる]ことで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

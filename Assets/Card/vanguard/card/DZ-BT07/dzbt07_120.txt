@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt07_120",
+  "PackNo": "DZ-BT07",
+  "CardName": "ヒューモンガス・デストロイヤー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのオーダーゾーンに「SYSTEMCODE:X-ceed」があるなら、１枚引き、あなたの手札から１枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

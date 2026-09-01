@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dbt05_146",
+  "PackNo": "D-BT05",
+  "CardName": "望郷の騎士マルコ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、グレード１以下のあなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

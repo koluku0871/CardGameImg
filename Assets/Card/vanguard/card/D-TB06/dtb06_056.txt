@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb06_056",
+  "PackNo": "D-TB06",
+  "CardName": "恵みをもたらす水精の女王テキーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "モンスターストライク",
+  "CardSubType": "妖精",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヒットした時、あなたのリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

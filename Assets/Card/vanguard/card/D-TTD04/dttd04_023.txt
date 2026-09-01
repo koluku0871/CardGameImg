@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dttd04_023",
+  "PackNo": "D-TTD04",
+  "CardName": "イタコ恐山アンナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "1",
+  "CardRarity": "SKR",
+  "Text": "effect=【永】：守護者【自】：このユニットが(G)に置かれた時、【コスト】[手札から１枚捨てる]ことで、あなたのユニットを１枚選び、そのバトル中、ヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "0"
+}

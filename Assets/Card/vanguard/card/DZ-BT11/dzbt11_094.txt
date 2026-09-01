@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt11_094",
+  "PackNo": "DZ-BT11",
+  "CardName": "ジャギガオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】：このカードはライドできず、(R)にノーマルコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "15000",
+  "Defense": "5000"
+}

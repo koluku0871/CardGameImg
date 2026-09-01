@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_074",
+  "PackNo": "D-LBT01",
+  "CardName": "負けん気一番トレイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【後列の(R)】：このユニットは『ブースト』を得て、パワー－2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

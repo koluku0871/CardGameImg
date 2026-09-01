@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dss09_005",
+  "PackNo": "D-SS09",
+  "CardName": "忍竜セイズイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが「忍竜マドイ」からライドして登場した時、１枚引き、あなたは「魔忍竜シラヌイ“朧”」のクレストを得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

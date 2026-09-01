@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt02_266",
+  "PackNo": "DZ-BT02",
+  "CardName": "サルヴァール・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのバインドゾーンに、あなたのユニットいずれかと同名のカードがあるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

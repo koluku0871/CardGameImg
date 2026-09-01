@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_026",
+  "PackNo": "BT02",
+  "CardName": "お化けのちゃっぴー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(G)に登場した時、あなたの山札から《グランブルー》を１枚まで探し、ドロップゾーンに置き、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

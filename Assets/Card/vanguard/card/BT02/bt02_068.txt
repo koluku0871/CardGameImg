@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt02_068",
+  "PackNo": "BT02",
+  "CardName": "サイキック・バード",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《オラクルシンクタンク》のヴァンガードがいるなら、１枚まで引く。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

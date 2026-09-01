@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt03_056",
+  "PackNo": "BT03",
+  "CardName": "サベイジ・デストロイヤー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：あなたのターン中、他のあなたの《たちかぜ》のリアガードがドロップゾーンに置かれた時、そのターン中、このユニットのパワー＋1000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

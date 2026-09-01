@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dtb04_146",
+  "PackNo": "D-TB04",
+  "CardName": "BōZ杉本良",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "SHAMANKING",
+  "CardSubType": "シャーマン",
+  "Cost": "2",
+  "CardRarity": "SKR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたの(R)に「BōZ米田善」がいるなら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

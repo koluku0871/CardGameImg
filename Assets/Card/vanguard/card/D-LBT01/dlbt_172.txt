@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_172",
+  "PackNo": "D-LBT01",
+  "CardName": "Astesiceキヨラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "LSP",
+  "Text": "effect=【自】【(V)】：このユニットがアタックした時、あなたのリアガードを１枚選び、手札に戻してよい。【永】【(R)】：このユニットがブーストされたバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dlbt_089",
+  "PackNo": "D-LBT01",
+  "CardName": "プリサイスカリキュラムリブシェ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたがオーダーをプレイしているなら、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}
