@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD10-013_02_C",
+  "PackNo": "hBP07",
+  "CardName": "ふぐ太郎",
+  "CardType": "サポート・ツール",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

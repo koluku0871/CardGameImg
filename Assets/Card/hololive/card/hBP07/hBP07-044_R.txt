@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-044_R",
+  "PackNo": "hBP07",
+  "CardName": "尾丸ポルカ",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>TheShowMustGoOn</span>[センターポジション・コラボポジション限定]相手のターンで、自分のファンが付いているBuzzホロメンがダウンした時、自分の推しホロメンが〈尾丸ポルカ〉なら、自分の減るライフ-1。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>スタッフファーストです！120<spanclass=\"tokkou\"><imgalt=\"紫+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_purple.png\"/></span></span>自分のデッキの上から2枚をアーカイブする。その後、自分のアーカイブのスタッフ1枚を手札に戻せる。</p></div></div>"
+}

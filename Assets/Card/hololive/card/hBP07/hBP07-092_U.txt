@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-092_U",
+  "PackNo": "hBP07",
+  "CardName": "アーカイブパソコン",
+  "CardType": "サポート・アイテム・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

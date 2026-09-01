@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-071_S",
+  "PackNo": "hBP07",
+  "CardName": "ラプラス・ダークネス",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>おい、お前</span>自分のデッキの上から5枚を見る。その中から、Debutの紫ホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>手作りの朝ごはんを要求する30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

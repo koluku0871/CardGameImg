@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP08-101_S",
+  "PackNo": "hBP08",
+  "CardName": "We are ReGLOSS",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

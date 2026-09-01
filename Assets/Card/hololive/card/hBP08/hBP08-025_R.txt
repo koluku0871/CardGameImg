@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-025_R",
+  "PackNo": "hBP08",
+  "CardName": "セシリア・イマーグリーン",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>喫茶の時間</span>自分のお休みしている#Justiceを持つホロメンが2人以上いるなら、このターンの間、自分のステージのホロメン全員のアーツ+20。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>休憩も大事でしょ？30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

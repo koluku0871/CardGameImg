@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-008_C",
+  "PackNo": "hBP08",
+  "CardName": "IRyS",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>PromiseofSpring</span>自分が後攻で最初のターンなら、自分のステージの#Promiseを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+30。さらに、自分のステージに紫エールがあるなら、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>芽吹く春30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

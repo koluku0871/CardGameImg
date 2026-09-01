@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-102_U",
+  "PackNo": "hBP07",
+  "CardName": "角巻わためのハンマー",
+  "CardType": "サポート・ツール",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

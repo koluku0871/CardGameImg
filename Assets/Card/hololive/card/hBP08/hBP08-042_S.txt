@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-042_S",
+  "PackNo": "hBP08",
+  "CardName": "小鳥遊キアラ",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>グーテンモルゲン-穏やかな朝-</span>自分の手札1～3枚をアーカイブできる:自分のステージのホロメン1人を選ぶ。この能力でアーカイブしたカード1枚につき、このターンの間、選んだホロメンのアーツ+10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>キワワとチョンカーズ＆スムージー40<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

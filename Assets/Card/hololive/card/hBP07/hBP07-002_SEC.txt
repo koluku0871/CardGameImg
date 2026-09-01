@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP07-002_SEC",
+  "PackNo": "hBP07",
+  "CardName": "ベスティア・ゼータ",
+  "CardType": "推しホロメン",
+  "CardRarity": "SEC",
+  "Element": "白",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-3]<span>GoodLuck,holoh3ro!</span>[ターンに1回]自分のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+50。そのホロメンが#ID3期生を持つBuzzホロメンなら、かわりに、そのホロメンのアーツ+80。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー:-2]<span>不可能なんてないんだから！</span>[ゲームに1回]自分のアーカイブの[マスコットとファン]を好きな枚数選び、自分の#ID3期生を持つホロメン1人に付ける。3枚以上付けたなら、このターンの間、そのホロメンのアーツ+100。</p></div></div>"
+}

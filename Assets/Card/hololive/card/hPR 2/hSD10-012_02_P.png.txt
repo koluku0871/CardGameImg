@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD10-012_02_P",
-  "PackNo": "hPR",
-  "CardName": "FLOW GLOW",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

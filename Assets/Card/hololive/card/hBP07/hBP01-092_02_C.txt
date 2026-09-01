@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-092_02_C",
+  "PackNo": "hBP07",
+  "CardName": "オーロ・クロニー",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>クロにちは～10<spanclass=\"tokkou\"></span></span>このホロメンのエール1枚を、自分の他の#Promiseを持つホロメンに付け替えられる。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
+}

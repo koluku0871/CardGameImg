@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-018_C",
+  "PackNo": "hBP07",
+  "CardName": "ベスティア・ゼータ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>HorseDoko?</span>自分のデッキの上から1枚を公開する。公開したカードがサポートカードなら、そのカードを手札に加える。サポートカード以外なら、そのカードをデッキの上に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>うまみ～うまみ～♪30+<spanclass=\"tokkou\"></span></span>このターンに自分がイベントを使っていたなら、このアーツ+30。</p></div></div>"
+}

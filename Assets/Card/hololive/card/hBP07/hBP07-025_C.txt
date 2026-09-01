@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-025_C",
+  "PackNo": "hBP07",
+  "CardName": "大神ミオ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>抹茶パフェ～！きゅんです</span>自分のサポートカードが付いている#ゲーマーズを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ゲーマーズカフェへようこそ20<spanclass=\"tokkou\"></span></span>自分のアーカイブのエール1枚を自分の#ゲーマーズを持つホロメンに送る。</p></div></div>"
+}

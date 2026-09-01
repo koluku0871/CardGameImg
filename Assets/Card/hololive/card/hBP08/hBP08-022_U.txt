@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-022_U",
+  "PackNo": "hBP08",
+  "CardName": "セシリア・イマーグリーン",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>エスケープメント</span>このホロメンがバトンタッチしてバックポジションに移動した時、このホロメンをお休みさせる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>エレガントに行くのです20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

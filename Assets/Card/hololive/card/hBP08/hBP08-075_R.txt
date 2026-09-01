@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-075_R",
+  "PackNo": "hBP08",
+  "CardName": "ロボ子さん",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ロボ子さん↔ろぼさー</span>自分のデッキから、〈ろぼさー〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>一緒に外に行こうよ110+<spanclass=\"tokkou\"><imgalt=\"黄+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_yellow.png\"/></span></span>このホロメンに付いている〈ろぼさー〉1枚につき、このアーツ+20。</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-019_R",
+  "PackNo": "hBP07",
+  "CardName": "ベスティア・ゼータ",
+  "CardType": "Buzzホロメン",
+  "CardRarity": "R",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>準備万端！</span>自分のデッキから、[〈BAZO〉か〈Zecretary〉]1枚を公開し、自分の〈ベスティア・ゼータ〉に付ける。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ホロライブID初代ダンスクイーン50<spanclass=\"tokkou\"></span></span>このホロメンにマスコットかファンが付いているなら、自分のデッキを1枚引く。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンがダウンした時、自分のライフ-2</p></div></div>"
+}

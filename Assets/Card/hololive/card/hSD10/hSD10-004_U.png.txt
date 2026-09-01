@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD10-004_U",
-  "PackNo": "hSD10",
-  "CardName": "輪堂千速",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>300馬力だよ！</span>自分の推しホロメンが〈輪堂千速〉で、相手のステージに1stホロメンがいるなら、このターンにBloomしたこのホロメンは、自分の手札の2ndホロメンを使ってもう1回Bloomできる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>パワフルな運転手だよ！50<spanclass=\"tokkou\"></span></span>自分のステージに#FLOWGLOWを持つホロメンが3人以上いるなら、自分のエールデッキの上から1枚を自分のバックホロメンに送れる。</p></div></div>"
-}

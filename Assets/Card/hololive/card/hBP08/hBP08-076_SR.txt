@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-076_SR",
+  "PackNo": "hBP08",
+  "CardName": "癒月ちょこ",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>おいしいごはんの夢</span>自分のデッキの上から3枚を見る。その中から、[#料理を持つホロメンと#食べ物を持つイベント]1枚ずつを公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ごはんをいっぱい食べたあとには……120<spanclass=\"tokkou\"><imgalt=\"青+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_blue.png\"/></span></span>自分のアーカイブに#食べ物を持つイベントが3枚以上あるなら、このホロメンのHP100回復。</p></div></div>"
+}

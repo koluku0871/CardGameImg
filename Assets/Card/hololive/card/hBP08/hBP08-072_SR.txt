@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-072_SR",
+  "PackNo": "hBP08",
+  "CardName": "一伊那尓栖",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>NatsuIna!!</span>自分のアーカイブに#Mythを持つホロメンが8枚以上あるなら、自分のアーカイブの#Mythを持つホロメン1枚を手札に戻す。自分のブルームエフェクト「NatsuIna!!」はターンに1回しか使えない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>マルチカラー・スケッチ30+<spanclass=\"tokkou\"></span></span>相手の推しホロメンと異なる色を持つ相手のステージのホロメン1人につき、このアーツ+10。</p></div></div>"
+}

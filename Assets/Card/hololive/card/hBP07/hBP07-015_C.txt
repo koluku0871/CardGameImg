@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-015_C",
+  "PackNo": "hBP07",
+  "CardName": "ベスティア・ゼータ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>AdoptMe？</span>自分が後攻で最初のターンなら、自分のデッキから、#ID3期生を持つBuzzホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ノラネコ見つけた~20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

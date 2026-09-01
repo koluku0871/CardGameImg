@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD02-014_P",
-  "PackNo": "hPR",
-  "CardName": "ぽよ余",
-  "CardType": "サポート・マスコット",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

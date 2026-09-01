@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD11-002_02_C",
+  "PackNo": "hBP07",
+  "CardName": "虎金妃笑虎",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ニコたんが～来たァー！20<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-093_S",
+  "PackNo": "hBP07",
+  "CardName": "うまみー！",
+  "CardType": "サポート・イベント",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

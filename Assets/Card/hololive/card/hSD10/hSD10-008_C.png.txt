@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD10-008_C",
-  "PackNo": "hSD10",
-  "CardName": "綺々羅々ヴィヴィ",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>FLOWGLOWのメイク担当</span>相手の手札すべてを見る。その中にサポートカードがあるなら、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>そこに愛はあるんや！30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

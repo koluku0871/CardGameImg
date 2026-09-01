@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-072_S",
+  "PackNo": "hBP07",
+  "CardName": "ラプラス・ダークネス",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>SecretLove-La+-</span>自分のステージの#秘密結社holoXを持つホロメン1人を選び、サイコロを3回振る。このターンの間、この能力で奇数が出た回数1回につき、選んだホロメンのアーツ+10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>吾輩との秘密だぞ60<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

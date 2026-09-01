@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP07-006_SEC",
+  "PackNo": "hBP07",
+  "CardName": "AZKi",
+  "CardType": "推しホロメン",
+  "CardRarity": "SEC",
+  "Element": "紫",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"stageskill\"><p>推しステージスキル</p><p><span>ETERNiTYFRONTiER</span>自分のホロパワー1枚につき、自分のセンターホロメンの〈AZKi〉のアーツ+20。</p></div><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-1]<span>行くよ、開拓者。</span>[ターンに1回]直前の相手のターンに自分のホロメンがダウンしていたなら、自分のデッキから、イベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div></div>"
+}

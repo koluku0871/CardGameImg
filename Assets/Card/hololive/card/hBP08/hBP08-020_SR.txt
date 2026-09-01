@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-020_SR",
+  "PackNo": "hBP08",
+  "CardName": "響咲リオナ",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>セクシーダンスクィーン</span>自分のデッキの上から1～2枚をアーカイブできる:アーカイブしたカード1枚につき、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>挑戦のまなざし110+<spanclass=\"tokkou\"><imgalt=\"赤+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_red.png\"/></span></span>このターンに自分のデッキからカードを3枚以上アーカイブしていたなら、このアーツ+40。</p></div></div>"
+}

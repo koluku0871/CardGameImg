@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP08-105_C",
+  "PackNo": "hBP08",
+  "CardName": "Bloom＆Gloom",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

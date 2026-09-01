@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-106_S",
+  "PackNo": "hBP07",
+  "CardName": "ハトタウロス",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

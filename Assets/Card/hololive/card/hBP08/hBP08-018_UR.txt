@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-018_UR",
+  "PackNo": "hBP08",
+  "CardName": "ときのそら",
+  "CardType": "ホロメン",
+  "CardRarity": "UR",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>アイドルになりたいわたし</span>[センターポジション・コラボポジション限定]自分のデッキを2枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>盛り上がってくれたらうれしいな！150<spanclass=\"tokkou\"><imgalt=\"赤+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_red.png\"/></span></span>自分の推しホロメンが〈ときのそら〉なら、自分のステージの他の〈ときのそら〉1人を選ぶ。このターンの間、選んだホロメンのアーツは、相手の2ndのバックホロメンも対象にできる。</p></div></div>"
+}

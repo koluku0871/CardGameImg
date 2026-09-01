@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP08-006_OSR",
+  "PackNo": "hBP08",
+  "CardName": "一伊那尓栖",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "紫",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"stageskill\"><p>推しステージスキル</p><p><span>WORLDDOMINATION</span>相手のステージのホロメン全員が、相手の推しホロメンと異なる色を持つなら、自分の〈一伊那尓栖〉全員のアーツは、エールを必要とせずに使える。</p></div><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-X]<span>Ina'nisの色彩</span>[ターンに1回]この能力でアーカイブしたホロパワー1枚につき、相手のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンは、すべての色を持つホロメンとして扱う。</p></div></div>"
+}

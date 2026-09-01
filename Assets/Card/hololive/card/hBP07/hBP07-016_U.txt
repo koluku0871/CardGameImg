@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-016_U",
+  "PackNo": "hBP07",
+  "CardName": "ベスティア・ゼータ",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>PattheBAZO</span>このホロメンにマスコットが付いているなら、このホロメンのHP+30。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>So,TellMeYourSecrets?20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

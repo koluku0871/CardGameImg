@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-059_SR",
+  "PackNo": "hBP08",
+  "CardName": "フワワ・アビスガード",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>深淵からの愛情</span>自分のステージに赤エールが6枚以上あるなら、このホロメンのアーツは、相手のDebut以外のバックホロメンも対象にできる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>ふわふわバウンダリースパナー80+<spanclass=\"tokkou\"><imgalt=\"白+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_white.png\"/></span></span>このターンに自分の〈モココ・アビスガード〉がアーツを使っていたなら、このアーツ+50。その後、このホロメンの赤エールを好きな枚数選び、自分の〈モココ・アビスガード〉1人に付け替える。</p></div></div>"
+}

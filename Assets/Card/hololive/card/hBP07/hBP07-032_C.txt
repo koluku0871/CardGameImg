@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-032_C",
+  "PackNo": "hBP07",
+  "CardName": "輪堂千速",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>ドライブ行こうよ</span>自分が後攻で最初のターンなら、自分のデッキから、[1stホロメンの〈輪堂千速〉と〈ふぐ太郎〉]1枚ずつを公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>一陣の夜風10<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

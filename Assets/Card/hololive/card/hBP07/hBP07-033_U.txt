@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-033_U",
+  "PackNo": "hBP07",
+  "CardName": "輪堂千速",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ティールマーメイド</span>自分のこのターンにBloomした#FLOWGLOWを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+30。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>～Somethingblue～千速50<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

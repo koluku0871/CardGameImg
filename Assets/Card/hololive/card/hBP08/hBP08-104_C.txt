@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP08-104_C",
+  "PackNo": "hBP08",
+  "CardName": "けはい",
+  "CardType": "サポート・ツール",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

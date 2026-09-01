@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-089_SR",
+  "PackNo": "hBP07",
+  "CardName": "虎金妃笑虎",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>っしゃ反撃抜刀</span>直前の相手のターンに自分の#FLOWGLOWを持つホロメンがダウンしていたなら、自分のデッキを2枚引く。自分のブルームエフェクト「っしゃ反撃抜刀」はターンに1回しか使えない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>スッゲーワクワクするしょ！！50<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP08-099_S",
+  "PackNo": "hBP08",
+  "CardName": "HOLOTORI",
+  "CardType": "サポート・イベント",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

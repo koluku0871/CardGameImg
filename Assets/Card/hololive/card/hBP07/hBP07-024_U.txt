@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-024_U",
+  "PackNo": "hBP07",
+  "CardName": "大神ミオ",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>ウチの大切な家族</span>[ターンに1回]このホロメンに〈ミオファ〉が付いた時、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>今日もいっぱい笑っていこう10+<spanclass=\"tokkou\"></span></span>自分のデッキの上から1枚をアーカイブできる。アーカイブしたカードがサポートカードなら、このアーツ+30。</p></div></div>"
+}

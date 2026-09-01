@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-015_C",
+  "PackNo": "hBP08",
+  "CardName": "ときのそら",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>私に勝てるかな？</span>このホロメンが相手のホロメンから受けるアーツダメージ-10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ナインダーツ20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

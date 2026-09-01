@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP08-097_S",
+  "PackNo": "hBP08",
+  "CardName": "りっちしょこらのハンバーグ",
+  "CardType": "サポート・イベント",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-019_S",
+  "PackNo": "hBP08",
+  "CardName": "ラオーラ・パンテーラ",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>ボナペティート-楽しい食事-</span>■このホロメンに〈Chattino〉が付いていないなら、このホロメンのアーツに必要な白-1。<br/>■このホロメンに〈Chattino〉が付いているなら、このホロメンのHP+30。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>この幸せをシェアしよう10<spanclass=\"tokkou\"></span></span>このホロメンに〈Chattino〉が付いていないなら、自分のデッキから、〈Chattino〉1枚をこのホロメンに付ける。そしてデッキをシャッフルする。</p></div></div>"
+}

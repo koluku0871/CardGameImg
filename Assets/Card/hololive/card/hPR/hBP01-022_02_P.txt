@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP01-022_02_P",
+  "PackNo": "hPR",
+  "CardName": "ときのそら",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>楽しむ準備はできてる！？</span>自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>最高の一日にしようね♪40<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

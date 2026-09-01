@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP07-007_OSR",
+  "PackNo": "hBP07",
+  "CardName": "桃鈴ねね",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "黄",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-2]<span>スーパーねぽらぼエナジー</span>[ターンに1回]自分のアーカイブのエールを自分の#5期生を持つ2ndホロメン全員に1枚ずつ送る。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー:-1]<span>ねねちの大・暴・走！</span>[ゲームに1回]自分のデッキから、Debutホロメンの〈桃鈴ねね〉1～4枚を公開し、ステージに出す。そしてデッキをシャッフルする。</p></div></div>"
+}

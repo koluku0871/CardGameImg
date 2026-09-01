@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP08-106_C",
+  "PackNo": "hBP08",
+  "CardName": "GuyRyS",
+  "CardType": "サポート・ファン",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

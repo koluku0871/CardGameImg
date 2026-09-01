@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-022_R",
+  "PackNo": "hBP07",
+  "CardName": "白銀ノエル",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>筋肉は裏切らない！</span>[コラボポジション限定]相手のターンで、自分の#3期生を持つセンターホロメンがダウンした時、そのホロメンを含め重なっているホロメンすべてを手札に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>元気もりもりさんでーまっする50<spanclass=\"tokkou\"><imgalt=\"紫+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_purple.png\"/></span></span>自分の#3期生を持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツに必要な無色-1。そのホロメンが2ndホロメンの〈白銀ノエル〉なら、かわりに、そのアーツに必要な無色-2。</p></div></div>"
+}

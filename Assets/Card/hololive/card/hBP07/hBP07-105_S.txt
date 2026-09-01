@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-105_S",
+  "PackNo": "hBP07",
+  "CardName": "BAZO",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

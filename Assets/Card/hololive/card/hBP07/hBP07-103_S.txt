@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-103_S",
+  "PackNo": "hBP07",
+  "CardName": "ギラファノコギリクワガタ",
+  "CardType": "サポート・ツール",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

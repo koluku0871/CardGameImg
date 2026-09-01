@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP08-090_S",
+  "PackNo": "hBP08",
+  "CardName": "エレガントパソコン",
+  "CardType": "サポート・アイテム・LIMITED",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

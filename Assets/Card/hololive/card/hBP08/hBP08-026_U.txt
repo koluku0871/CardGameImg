@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-026_U",
+  "PackNo": "hBP08",
+  "CardName": "セシリア・イマーグリーン",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>機巧のシュトライヒ</span>自分のお休みしている#Justiceを持つホロメンが2人以上いるなら、このターンの間、このホロメンのアーツ+50。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>奏楽のヴィンデ90<spanclass=\"tokkou\"><imgalt=\"青+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_blue.png\"/></span></span></p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-056_SR",
+  "PackNo": "hBP07",
+  "CardName": "オーロ・クロニー",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>時界を統べし者</span>[センターポジション限定]自分のパフォーマンスステップが開始する時、このホロメン以外の自分の〈オーロ・クロニー〉1人を、このホロメンに重なっているホロメンを使ってBloomできる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>You'renotreadyforme.80+<spanclass=\"tokkou\"><imgalt=\"赤+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_red.png\"/></span></span>このホロメンのエール1枚を自分の他の#Promiseを持つホロメンに付け替えられる。その後、自分の推しホロメンが〈オーロ・クロニー〉なら、このアーツ+100。</p></div></div>"
+}

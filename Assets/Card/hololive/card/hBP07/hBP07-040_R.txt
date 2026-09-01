@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-040_R",
+  "PackNo": "hBP07",
+  "CardName": "赤井はあと",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>Haachama♥Restaurant</span>自分のバックポジションのDebutホロメンの〈赤井はあと〉1人をデッキの下に戻せる:自分のデッキから、Buzz以外の[1stホロメンか2ndホロメン]1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>当店自慢のはあとんバーガー！40<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-030_SR",
+  "PackNo": "hBP07",
+  "CardName": "風真いろは",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>holoRêve-いろは-</span>BuzzホロメンからBloomした時、自分のホロメン1人のHP100回復。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>たくさんの宝物100<spanclass=\"tokkou\"><imgalt=\"黄+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_yellow.png\"/></span></span>このホロメンのエール2枚をアーカイブできる:自分のデッキを2枚引く。</p></div></div>"
+}

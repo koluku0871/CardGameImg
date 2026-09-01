@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-028_C_02",
+  "PackNo": "hBP08",
+  "CardName": "セシリア・イマーグリーン",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>正義の調べ30<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
+}

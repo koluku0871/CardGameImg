@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-021_C",
+  "PackNo": "hBP08",
+  "CardName": "セシリア・イマーグリーン",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>Automaton，RollOut!</span>自分が後攻で最初のターンなら、自分のデッキから、〈Otomo〉2枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>祝祭を響かせよう30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

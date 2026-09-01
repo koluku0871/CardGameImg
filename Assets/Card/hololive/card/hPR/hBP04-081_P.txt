@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP04-081_P",
+  "PackNo": "hPR",
+  "CardName": "夏色まつり",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>大好きな君に届くように</span>自分のエールデッキから、黄エール1枚を公開し、このホロメンに送る。そしてエールデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>全力で歌うよッ！！20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

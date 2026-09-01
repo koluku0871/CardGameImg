@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-057_SR",
+  "PackNo": "hBP08",
+  "CardName": "フワワ・アビスガード",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>木漏れ日のブランコ</span>自分のステージのエールを好きな枚数選び、自分の〈モココ・アビスガード〉1人に付け替えられる。その後、自分のステージにエールが8枚以上あるなら、このターンの間、このホロメンのアーツ+40。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>寄り添うふたり30+<spanclass=\"tokkou\"></span></span>このホロメンに赤エールが付いているなら、このアーツ+20。</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-011_S",
+  "PackNo": "hBP07",
+  "CardName": "角巻わため",
+  "CardType": "ホロメン",
+  "CardRarity": "S",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>グルグルシープ</span>自分のデッキから、1stホロメンの〈角巻わため〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。自分のブルームエフェクト「グルグルシープ」はターンに1回しか使えない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>これボタン弾けちゃうよぉ70<spanclass=\"tokkou\"></span></span>このホロメンに白エールが2枚以上付いているなら、このアーツに必要な無色-1。</p></div></div>"
+}

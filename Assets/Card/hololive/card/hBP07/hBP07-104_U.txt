@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-104_U",
+  "PackNo": "hBP07",
+  "CardName": "Thorn",
+  "CardType": "サポート・ツール",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

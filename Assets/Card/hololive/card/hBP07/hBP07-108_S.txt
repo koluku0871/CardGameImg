@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-108_S",
+  "PackNo": "hBP07",
+  "CardName": "Zecretary",
+  "CardType": "サポート・ファン",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

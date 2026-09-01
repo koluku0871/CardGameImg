@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-043_R",
+  "PackNo": "hBP08",
+  "CardName": "小鳥遊キアラ",
+  "CardType": "Buzzホロメン",
+  "CardRarity": "R",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>火ノ鳥剣舞</span>自分のアーカイブにホロメンが10枚以上あるなら、このターンの間、このホロメンのアーツに必要な赤-2。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>生き抜く覚悟50<spanclass=\"tokkou\"></span></span>自分のステージのホロメン全員が#Mythを持つホロメンなら、自分のデッキの上から1枚をホロパワーにする。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンがダウンした時、自分のライフ-2</p></div></div>"
+}

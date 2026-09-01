@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-081_R",
+  "PackNo": "hBP07",
+  "CardName": "桃鈴ねね",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>桃鈴ねねは昆虫博士になる！</span>自分のホロパワーが4枚以上で、相手のコラボホロメンがいないなら、相手は、自身のバックホロメン1人をコラボポジションに移動させる（移動はコラボとしては扱わない）。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>君のハートをブルロック！30<spanclass=\"tokkou\"></span></span>このホロメンに〈ギラファノコギリクワガタ〉が付いているなら、このアーツダメージは、アーツの対象のホロメンのかわりに、相手のセンターホロメンとコラボホロメンに与える。</p></div></div>"
+}

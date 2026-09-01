@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hY02-011_SY",
+  "PackNo": "hBP08",
+  "CardName": "緑エール",
+  "CardType": "エール",
+  "CardRarity": "SY",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

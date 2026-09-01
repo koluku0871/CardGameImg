@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-062_SR",
+  "PackNo": "hBP07",
+  "CardName": "シオリ・ノヴェラ",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "青",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>ANewCrime&amp;ANewMe</span>自分の手札のサポートカード2枚をアーカイブできる:自分のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+50。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>解き放たれた禁断の知識60+<spanclass=\"tokkou\"><imgalt=\"赤+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_red.png\"/></span></span>自分のアーカイブのエール1枚を自分の#Adventを持つホロメンに送る。その後、自分の推しホロメンが〈シオリ・ノヴェラ〉で、このホロメンにエールが4枚以上付いているなら、このアーツ+100。</p></div></div>"
+}

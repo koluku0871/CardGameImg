@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-098_U",
+  "PackNo": "hBP07",
+  "CardName": "ビッグゴッドミオーンの占い",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

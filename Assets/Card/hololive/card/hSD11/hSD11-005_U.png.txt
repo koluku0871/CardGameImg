@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD11-005_U",
-  "PackNo": "hSD11",
-  "CardName": "虎金妃笑虎",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>FLOWGLOWのお笑い担当</span>自分のアーカイブのエール1枚を自分の#FLOWGLOWを持つバックホロメンに送れる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>百折不撓30+<spanclass=\"tokkou\"></span></span>自分のステージにエールが5枚以上あるなら、このアーツ+20。</p></div></div>"
-}

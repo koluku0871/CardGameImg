@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-091_S",
+  "PackNo": "hBP07",
+  "CardName": "ライブスタッフ",
+  "CardType": "サポート・スタッフ",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

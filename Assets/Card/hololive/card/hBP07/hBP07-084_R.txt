@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-084_R",
+  "PackNo": "hBP07",
+  "CardName": "夏色まつり",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>一緒にゲームしよ</span>相手のターンで、このホロメンがダウンした時、自分のアーカイブのLIMITEDのサポートカード1枚をデッキの下に戻せる。戻したなら、このホロメンをアーカイブするかわりに手札に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>やっぱり、FPSとか？90<spanclass=\"tokkou\"><imgalt=\"青+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_blue.png\"/></span></span>自分のアーカイブのエール1枚を自分のホロメンに送る。</p></div></div>"
+}

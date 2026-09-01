@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-020_P_02",
+  "PackNo": "hPR",
+  "CardName": "響咲リオナ",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>意志の指揮者</span>相手のターンで、このホロメンがダウンした時、自分のデッキの上から2枚をアーカイブできる。アーカイブしたなら、自分のステージの異なるカード名の#FLOWGLOWを持つホロメン1人につき、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>レゾナンスロア150+<spanclass=\"tokkou\"><imgalt=\"赤+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_red.png\"/></span></span>自分のデッキの上から1～3枚をアーカイブする。アーカイブしたカード1枚につき、このアーツ+20。</p></div></div>"
+}

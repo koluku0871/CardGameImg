@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-101_S",
+  "PackNo": "hBP07",
+  "CardName": "ASMRマイク",
+  "CardType": "サポート・ツール",
+  "CardRarity": "S",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

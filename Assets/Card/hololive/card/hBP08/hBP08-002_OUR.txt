@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP08-002_OUR",
+  "PackNo": "hBP08",
+  "CardName": "セシリア・イマーグリーン",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "緑",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"stageskill\"><p>推しステージスキル</p><p><span>Justiceの古代自動人形</span>自分の〈セシリア・イマーグリーン〉全員は、リセットステップでアクティブにならない。</p></div><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-2]<span>SPINTOWIN!</span>[ターンに1回]自分のエールデッキの上から2枚を自分のお休みしている〈セシリア・イマーグリーン〉に割り振って送る。その後、この能力でエールを送られたホロメン全員をアクティブにする。</p></div></div>"
+}

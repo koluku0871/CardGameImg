@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-086_U",
+  "PackNo": "hBP08",
+  "CardName": "不知火フレア",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>俺のイナー！</span>自分のエールデッキの上から1枚を自分の[〈不知火フレア〉か#ENを持つホロメン]に送れる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>最高のともだち20+<spanclass=\"tokkou\"></span></span>自分のセンターホロメンが2ndホロメンなら、このアーツ+30。</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-028_U",
+  "PackNo": "hBP07",
+  "CardName": "大神ミオ",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>金瞳の綺羅星</span>自分のデッキの上から2枚を見る。その中から、カード1枚を手札に加える。そして残ったカードをデッキの上に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>天まで届け、みんなの願い90+<spanclass=\"tokkou\"><imgalt=\"青+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_blue.png\"/></span></span>自分のデッキの上から1枚をアーカイブできる。アーカイブしたカードがサポートカードなら、このアーツ+50。</p></div></div>"
+}

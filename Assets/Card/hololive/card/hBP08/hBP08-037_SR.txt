@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-037_SR",
+  "PackNo": "hBP08",
+  "CardName": "モココ・アビスガード",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>トゥインクル・アイドル</span>自分のステージに〈フワワ・アビスガード〉がいるなら、相手のセンターホロメンかコラボホロメンに特殊ダメージ20を与える。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>がんBAUるねー！30<spanclass=\"tokkou\"></span></span>このホロメンに青エールが2枚以上付いているなら、自分のエールデッキの上から1枚を自分の〈フワワ・アビスガード〉に送る。</p></div></div>"
+}

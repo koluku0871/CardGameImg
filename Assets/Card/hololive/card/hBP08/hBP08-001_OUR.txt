@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP08-001_OUR",
+  "PackNo": "hBP08",
+  "CardName": "IRyS",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "白",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-2]<span>ネフィリムの祝福</span>[ターンに1回]自分のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。選んだホロメンに紫エールが付いているなら、かわりに、そのホロメンのアーツ+50。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー:-2]<span>HOPEandDESPAIR</span>[ゲームに1回]自分の〈IRyS〉全員のエール1枚につき、自分のデッキを1枚引く。その後、自分の〈IRyS〉全員の紫エール1枚につき、自分のデッキの上から1枚をホロパワーにする。</p></div></div>"
+}

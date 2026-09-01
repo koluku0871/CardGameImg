@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-045_SR",
+  "PackNo": "hBP08",
+  "CardName": "ハコス・ベールズ",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>今年は豊作になりそうやねん！</span>このターンの間、自分の推しホロメンの〈ハコス・ベールズ〉と自分のステージの〈ハコス・ベールズ〉の能力でサイコロを振る時、そのサイコロの目の数すべてを倍の数として扱う。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>ボクはボクらしく生きたい。50+<spanclass=\"tokkou\"><imgalt=\"緑+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_green.png\"/></span></span>自分のステージのホロメン1人を選び、サイコロを1回振る。出た目の数1につき、このターンの間、選んだホロメンのアーツ+10。</p></div></div>"
+}

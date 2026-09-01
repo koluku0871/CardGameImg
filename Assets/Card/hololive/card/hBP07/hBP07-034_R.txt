@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-034_R",
+  "PackNo": "hBP07",
+  "CardName": "輪堂千速",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ぶいぶい走らせるぞ！！！</span>自分のステージのエール1枚をアーカイブできる:自分のデッキから、#FLOWGLOWを持つ[Debutホロメンか1stホロメンかSpotホロメン]1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>どっちが速いｶﾅ？！？！？！20+<spanclass=\"tokkou\"></span></span>このホロメンに〈ふぐ太郎〉が付いているなら、このアーツ+10。</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-031_R",
+  "PackNo": "hBP07",
+  "CardName": "アイラニ・イオフィフティーン",
+  "CardType": "Buzzホロメン",
+  "CardRarity": "R",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>この輝きが私達！</span>自分のホロパワーの上から2枚をアーカイブできる:自分のデッキを2枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ひとつになる声50<spanclass=\"tokkou\"></span></span>自分の推しホロメンの色が緑か青か黄なら、自分のデッキの上から1枚をホロパワーにする。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンがダウンした時、自分のライフ-2</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-070_SR",
+  "PackNo": "hBP07",
+  "CardName": "癒月ちょこ",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>今日のご飯、何がいーい？</span>自分のデッキの上から3枚を見る。その中から、#料理を持つホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>がんばって美味しいの作るね♡30<spanclass=\"tokkou\"></span></span>自分の#料理を持つホロメンを1人選ぶ。このターンに自分が使っていた#食べ物を持つイベント1枚につき、このターンの間、選んだホロメンのアーツに必要な無色-1。</p></div></div>"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP08-005_OUR",
+  "PackNo": "hBP08",
+  "CardName": "鷹嶺ルイ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "紫",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"stageskill\"><p>推しステージスキル</p><p><span>もう金曜だねルイ姉</span>自分のターンが終了する時、自分のセンターホロメンが〈鷹嶺ルイ〉で、自分のコラボホロメンがいるなら、手札が4枚になるまで、自分のデッキを引く。</p></div><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-2]<span>ホイサホイサ</span>[ターンに1回]自分の手札2枚をアーカイブする。この能力で2枚アーカイブしたなら、相手のDebut以外の[センターホロメンとコラボホロメン]に特殊ダメージ50を与える。</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-046_R",
+  "PackNo": "hBP08",
+  "CardName": "エリザベス・ローズ・ブラッドフレイム",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>マジェスティック・デヴォーション</span>[コラボポジション限定]相手のターンで、このホロメン以外の自分の#Justiceを持つホロメンがダウンした時、自分のデッキから、2ndホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>スイートトゥース30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

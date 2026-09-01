@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-043_R",
+  "PackNo": "hBP07",
+  "CardName": "さくらみこ",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "赤",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>holoRêve-みこ-</span>3か5を選ぶ。このターンの間、自分の推しホロメンの〈さくらみこ〉と自分のステージの〈さくらみこ〉の能力でサイコロを振る時、そのサイコロの目の数すべてを選んだ数として扱う。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>桜は花に顕る70+<spanclass=\"tokkou\"><imgalt=\"紫+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_purple.png\"/></span></span>このホロメンに付いている〈35P〉1枚につき、このアーツ+70し、自分のデッキを1枚引く。</p></div></div>"
+}

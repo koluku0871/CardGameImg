@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP08-103_U",
+  "PackNo": "hBP08",
+  "CardName": "ホロマント",
+  "CardType": "サポート・ツール",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-071_C",
+  "PackNo": "hBP08",
+  "CardName": "一伊那尓栖",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>TOMORROW!?</span>相手の推しホロメンと異なる色を持つ相手のホロメン1人に特殊ダメージ20を与える。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>Bonk!50<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

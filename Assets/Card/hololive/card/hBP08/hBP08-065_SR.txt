@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP08-065_SR",
+  "PackNo": "hBP08",
+  "CardName": "鷹嶺ルイ",
+  "CardType": "ホロメン",
+  "CardRarity": "SR",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>大穴きちゃーーー！</span>[センターポジション限定]自分の手札1枚をアーカイブできる:サイコロを1回振る。1なら、自分のデッキを3枚引く。1以外なら、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>差していくよ！50+<spanclass=\"tokkou\"></span></span>自分の手札が2枚以下なら、このアーツ+30。</p></div></div>"
+}

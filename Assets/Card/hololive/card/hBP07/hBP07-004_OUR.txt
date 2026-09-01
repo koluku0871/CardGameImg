@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hBP07-004_OUR",
+  "PackNo": "hBP07",
+  "CardName": "赤井はあと",
+  "CardType": "推しホロメン",
+  "CardRarity": "OUR",
+  "Element": "赤",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"stageskill\"><p>推しステージスキル</p><p><span>はあちゃまなう</span>[ターンに1回]自分のターンで、自分の〈赤井はあと〉が自分の能力でステージからデッキに戻った時、自分のデッキを2枚引く。</p></div><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-2]<span>ワールドワイドな最強アイドル！</span>[ターンに1回]自分のバックポジションのDebutホロメンの〈赤井はあと〉1人をデッキの下に戻す。その後、自分のステージの〈赤井はあと〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+50。</p></div></div>"
+}
