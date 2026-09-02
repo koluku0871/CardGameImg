@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD15-010_C",
+  "PackNo": "hSD15",
+  "CardName": "まつたけダンス",
+  "CardType": "サポート・イベント",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD13-010_C",
+  "PackNo": "hSD13",
+  "CardName": "ジジ・ムリン",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>周囲の頭痛の種40<spanclass=\"tokkou\"></span></span></p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>悪戯好きのグレムリン60<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

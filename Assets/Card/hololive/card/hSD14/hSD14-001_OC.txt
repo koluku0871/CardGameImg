@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD14-001_OC",
+  "PackNo": "hSD14",
+  "CardName": "白上フブキ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OC",
+  "Element": "白",
+  "Cost": "4",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-2]<span>みんな一緒にいくぞぉおっ</span>[ターンに1回]自分のマスコットが付いている〈白上フブキ〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー:-2]<span>マスコッツ、アッセンブル!!</span>[ゲームに1回]自分のデッキから、マスコット1～2枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div></div>"
+}

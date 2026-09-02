@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD14-011_C",
+  "PackNo": "hSD14",
+  "CardName": "ありよりのアリゲーター",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

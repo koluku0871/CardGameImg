@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD13-001_OSR",
+  "PackNo": "hSD13",
+  "CardName": "エリザベス・ローズ・ブラッドフレイム",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "赤",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-3]<span>秩序の先駆者</span>[ターンに1回]自分のホロメン1人が相手からアーツダメージを受ける時、自分のステージの[Buzzか2nd]の赤ホロメン1人を選べる:そのダメージを、選んだホロメンがかわりに受ける。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー:-3]<span>JUSTLIKETHAT</span>[ゲームに1回]自分のアーカイブの#Justiceを持つホロメン1枚をステージに出す。その後、自分のアーカイブのエール1～5枚をそのホロメンに送る。</p></div></div>"
+}

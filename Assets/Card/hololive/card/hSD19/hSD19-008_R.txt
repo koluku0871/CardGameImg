@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD19-008_R",
+  "PackNo": "hSD19",
+  "CardName": "大空スバル",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>萌え萌えギュン20+<spanclass=\"tokkou\"></span></span>[コラボポジション限定]相手のステージに2ndホロメンがいるなら、このアーツ+20。</p></div></div>"
+}

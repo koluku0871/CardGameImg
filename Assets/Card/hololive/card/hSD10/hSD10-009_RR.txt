@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD10-009_RR",
+  "PackNo": "hSD10",
+  "CardName": "綺々羅々ヴィヴィ",
+  "CardType": "ホロメン",
+  "CardRarity": "RR",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>美の求道者</span>自分のデッキの上から、相手の手札と同じ枚数を見る。その中から、カード1枚を手札に加える。そして残ったカードをデッキに戻してシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ヴィジランスヴィーナス80+<spanclass=\"tokkou\"><imgalt=\"青+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_blue.png\"/></span></span>相手の手札1枚につき、このアーツ+10。</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD13-009_P",
+  "PackNo": "hPR",
+  "CardName": "ジジ・ムリン",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>イタズラ増殖！</span>自分が後攻で最初のターンなら、自分のデッキから、#Justiceを持つ1stホロメン1枚を公開し、ステージに出す。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>YIPPEEE20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

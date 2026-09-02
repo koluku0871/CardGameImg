@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD13-002_OSR",
+  "PackNo": "hSD13",
+  "CardName": "ジジ・ムリン",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "黄",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-1]<span>BoatGoesBinted</span>[ターンに1回]相手のセンターポジションとコラボポジションのホロメンを入れ替える。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー:-3]<span>自由奔放な『追跡者』</span>[ゲームに1回]自分のデッキから、2ndホロメンの〈ジジ・ムリン〉2枚を公開し、ステージに出す。そしてデッキをシャッフルする。その後、自分のアーカイブのエールを自分のホロメン全員に1枚ずつ送る。</p></div></div>"
+}

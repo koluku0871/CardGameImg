@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD19-003_C",
+  "PackNo": "hSD19",
+  "CardName": "大空スバル",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>今日もあなたのそばに-スバル-20+<spanclass=\"tokkou\"></span></span>自分のライフが2以下なら、このアーツ+10。</p></div></div>"
+}

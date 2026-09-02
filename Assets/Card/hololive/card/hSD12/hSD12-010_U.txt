@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD12-010_U",
+  "PackNo": "hSD12",
+  "CardName": "古石ビジュー",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>滲んでいく輝き30<spanclass=\"tokkou\"></span></span></p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>YourPrincessAWAKENS!50<spanclass=\"tokkou\"></span></span>このホロメンの紫以外のエール1枚をアーカイブできる:自分のアーカイブのホロメン1枚を手札に戻す。</p></div></div>"
+}

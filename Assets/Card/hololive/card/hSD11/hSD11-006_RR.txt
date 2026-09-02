@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD11-006_RR",
+  "PackNo": "hSD11",
+  "CardName": "虎金妃笑虎",
+  "CardType": "ホロメン",
+  "CardRarity": "RR",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>戯笑の使者</span>自分のパフォーマンスステップが開始する時、自分の手札の#FLOWGLOWを持つホロメン1枚をアーカイブできる：自分のアーカイブの黄エール1枚を自分の〈虎金妃笑虎〉に送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>虎嘯風生40+<spanclass=\"tokkou\"><imgalt=\"赤+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_red.png\"/></span></span>このホロメンのエールを好きな枚数アーカイブできる：アーカイブしたエール1枚につき、このアーツ+40。</p></div></div>"
+}

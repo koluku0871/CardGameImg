@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD12-015_U",
+  "PackNo": "hSD12",
+  "CardName": "脱獄を果たした共犯者たち",
+  "CardType": "サポート・イベント",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

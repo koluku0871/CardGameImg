@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD14-010_P_02",
+  "PackNo": "hPR",
+  "CardName": "holoAN",
+  "CardType": "サポート・スタッフ・LIMITED",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

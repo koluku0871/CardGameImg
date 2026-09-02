@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP01-104_06_C",
+  "PackNo": "hSD18",
+  "CardName": "ふつうのパソコン",
+  "CardType": "サポート・アイテム",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

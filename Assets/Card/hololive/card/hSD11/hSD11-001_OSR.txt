@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD11-001_OSR",
+  "PackNo": "hSD11",
+  "CardName": "虎金妃笑虎",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "黄",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー：-2]<span>虎視眈々</span>[ターンに1回]自分のアーカイブのエール1～2枚を自分のエールが付いていない#FLOWGLOWを持つホロメン1人に送る。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー：-2]<span>ニコたんの名を呼ぶがいいさ！</span>[ゲームに1回]自分の#FLOWGLOWを持つホロメンの能力でエールをアーカイブした時に使える：相手のセンターホロメンかコラボホロメンどちらかに、アーカイブしたエール1枚につき、特殊ダメージ30を与える。</p></div></div>"
+}

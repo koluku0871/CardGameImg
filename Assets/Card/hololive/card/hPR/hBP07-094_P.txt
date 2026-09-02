@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP07-094_P",
+  "PackNo": "hPR",
+  "CardName": "ギリわるロボ",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD18-005_U",
+  "PackNo": "hSD18",
+  "CardName": "森カリオペ",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>死神式ストレッチ</span>自分のツールが付いているホロメンがいるなら、相手のセンターホロメンに特殊ダメージ10を与える。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>一緒に、どう？20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

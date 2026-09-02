@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hBP06-095_P",
+  "PackNo": "hPR",
+  "CardName": "IDENTIFY -AREA 15-",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD15-008_R",
+  "PackNo": "hSD15",
+  "CardName": "儒烏風亭らでん",
+  "CardType": "ホロメン",
+  "CardRarity": "R",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>薄明</span>このホロメンが相手のホロメンをダウンさせた時、このホロメンのHPを20回復する。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>きのこ狩り40+<spanclass=\"tokkou\"></span></span>このターンに自分が#きのこを持つイベントを使っていたなら、このアーツ+10。</p></div></div>"
+}

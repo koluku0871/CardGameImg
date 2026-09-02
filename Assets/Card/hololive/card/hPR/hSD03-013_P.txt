@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD03-013_P",
+  "PackNo": "hPR",
+  "CardName": "おかにゃん",
+  "CardType": "サポート・マスコット",
+  "CardRarity": "P",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

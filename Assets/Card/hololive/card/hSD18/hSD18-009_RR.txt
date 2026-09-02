@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD18-009_RR",
+  "PackNo": "hSD18",
+  "CardName": "森カリオペ",
+  "CardType": "ホロメン",
+  "CardRarity": "RR",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>ペイルライダー</span>自分のアーカイブにホロメンが6枚以上あるなら、相手のセンターホロメンに特殊ダメージ20を与える。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>刻むぞ冥界のビート90<spanclass=\"tokkou\"><imgalt=\"緑+30\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_30_green.png\"/></span></span></p></div></div>"
+}

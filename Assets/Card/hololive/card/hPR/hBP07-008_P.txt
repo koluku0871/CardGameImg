@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-008_P",
+  "PackNo": "hPR",
+  "CardName": "角巻わため",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>もういっぺぇ</span>自分が後攻で最初のターンなら、自分の〈角巻わため〉1人を選ぶ。このターンの間、選んだホロメンはアーツを使った後、同じアーツをもう1回使える。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>スプリングシープ20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

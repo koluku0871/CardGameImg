@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD12-001_OSR",
+  "PackNo": "hSD12",
+  "CardName": "シオリ・ノヴェラ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "青",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-1]<span>収集家</span>[ターンに1回]自分のデッキの上から3枚を見る。その中から、サポートカード1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー:-3]<span>リベリオン</span>[ゲームに1回]相手のDebut以外のバックホロメン1人に、自分のアーカイブのサポートカード1枚につき、特殊ダメージ10を与える。</p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD13-012_U",
+  "PackNo": "hSD13",
+  "CardName": "ジジ・ムリン",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>ご苦労さん！</span>相手のターンで、自分のバックホロメンが相手から特殊ダメージを受ける時、このホロメンに重なっているホロメン1枚をアーカイブできる:このターンの間、自分のバックホロメン全員は特殊ダメージを受けない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>負けるわけにはいかない60<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

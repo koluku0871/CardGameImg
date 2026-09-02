@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD12-011_RR",
+  "PackNo": "hSD12",
+  "CardName": "古石ビジュー",
+  "CardType": "ホロメン",
+  "CardRarity": "RR",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ビブーと遊んでいかない？</span>自分のデッキを1枚引く。その後、自分のステージのエール1枚をアーカイブできる。アーカイブしたなら、自分のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+40。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>キラキラぜーんぶ受け止めて！110<spanclass=\"tokkou\"><imgalt=\"黄+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_yellow.png\"/></span></span>お互いのアーカイブのエール1色につき、このアーツに必要な無色-1。</p></div></div>"
+}

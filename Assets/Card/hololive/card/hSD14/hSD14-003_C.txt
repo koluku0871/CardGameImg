@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD14-003_C",
+  "PackNo": "hSD14",
+  "CardName": "白上フブキ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>今日もあなたのそばに-フブキ-30<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

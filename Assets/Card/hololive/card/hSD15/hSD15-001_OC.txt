@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD15-001_OC",
+  "PackNo": "hSD15",
+  "CardName": "儒烏風亭らでん",
+  "CardType": "推しホロメン",
+  "CardRarity": "OC",
+  "Element": "緑",
+  "Cost": "4",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-2]<span>ちょっとまつたけ～♪</span>[ターンに1回]自分のデッキから#きのこを持つイベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー:-2]<span>あなたの世界を広げに行こう</span>[ゲームに1回]自分のエールデッキの上から1枚を自分の〈儒烏風亭らでん〉に送る。その後、自分のアーカイブの#きのこを持つイベント1枚を手札に戻す。</p></div></div>"
+}

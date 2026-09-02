@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD10-005_U",
+  "PackNo": "hSD10",
+  "CardName": "輪堂千速",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "緑",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>FLOWGLOWのDJ兼運転手担当</span>自分のアーカイブの#FLOWGLOWを持つホロメン1～3枚を好きな順でデッキの下に戻せる。ホロメン3枚をデッキに戻したなら、自分のエールデッキの上から1枚を自分のホロメンに送れる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>行きます！！！！20+<spanclass=\"tokkou\"></span></span>このターンに自分のホロメンがBloomしていたなら、このターンの間、自分のステージの〈輪堂千速〉1人のアーツ+20。</p></div></div>"
+}

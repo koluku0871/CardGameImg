@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD17-010_C",
+  "PackNo": "hSD17",
+  "CardName": "ステラ",
+  "CardType": "サポート・イベント",
+  "CardRarity": "C",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

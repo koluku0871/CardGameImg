@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD12-002_OSR",
+  "PackNo": "hSD12",
+  "CardName": "古石ビジュー",
+  "CardType": "推しホロメン",
+  "CardRarity": "OSR",
+  "Element": "紫",
+  "Cost": "5",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-2]<span>BibooTax</span>[ターンに1回]お互いのエールデッキの上から1枚をアーカイブする。アーカイブしたエール1色につき、自分のデッキを1枚引く。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー:-2]<span>古代魔石の輝き</span>[ゲームに1回]相手のセンターホロメンに、自分のアーカイブの[#Adventを持つホロメンとエール]1枚につき、特殊ダメージ10を与える。</p></div></div>"
+}

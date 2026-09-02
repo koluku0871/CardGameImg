@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD10-012_U",
+  "PackNo": "hSD10",
+  "CardName": "FLOW GLOW",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

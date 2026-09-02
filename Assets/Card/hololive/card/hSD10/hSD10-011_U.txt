@@ -1,0 +1,8 @@
+﻿{
+  "CardNo": "hSD10-011_U",
+  "PackNo": "hSD10",
+  "CardName": "WHAT'S UP!!!!! KEEEEEP GROWING!!!!!",
+  "CardType": "サポート・イベント・LIMITED",
+  "CardRarity": "U",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
+}

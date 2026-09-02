@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD18-002_C",
+  "PackNo": "hSD18",
+  "CardName": "森カリオペ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>Nicetoreapyou20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

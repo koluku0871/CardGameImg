@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP06-072_P",
+  "PackNo": "hPR",
+  "CardName": "夏色まつり",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>勝てると思った？</span>このホロメンが相手の1stホロメンから受けるアーツダメージ-30。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ざんね～ん20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD19-005_U",
+  "PackNo": "hSD19",
+  "CardName": "大空スバル",
+  "CardType": "ホロメン",
+  "CardRarity": "U",
+  "Element": "黄",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>ダンスレッスンなんですｹｰﾄﾞ</span>このホロメンが相手のセンターホロメンから受けるダメージ-10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>いっちにー、ホワッ、ホワッ！20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hBP07-067_P",
+  "PackNo": "hPR",
+  "CardName": "AZKi",
+  "CardType": "ホロメン",
+  "CardRarity": "P",
+  "Element": "紫",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ROMANTiCNiGHT</span>自分のデッキの上から4枚を見る。その中から、〈AZKi〉1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>君と二人きりの夜40<spanclass=\"tokkou\"></span></span>自分の手札1枚をアーカイブできる:相手のセンターホロメンかコラボホロメンに特殊ダメージ20を与える。</p></div></div>"
+}

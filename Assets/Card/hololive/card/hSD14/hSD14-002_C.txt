@@ -1,0 +1,9 @@
+﻿{
+  "CardNo": "hSD14-002_C",
+  "PackNo": "hSD14",
+  "CardName": "白上フブキ",
+  "CardType": "ホロメン",
+  "CardRarity": "C",
+  "Element": "白",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>はじまんぼう！20<spanclass=\"tokkou\"></span></span></p></div></div>"
+}

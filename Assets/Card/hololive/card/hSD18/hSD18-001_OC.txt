@@ -1,0 +1,10 @@
+﻿{
+  "CardNo": "hSD18-001_OC",
+  "PackNo": "hSD18",
+  "CardName": "森カリオペ",
+  "CardType": "推しホロメン",
+  "CardRarity": "OC",
+  "Element": "紫",
+  "Cost": "4",
+  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"oshiskill\"><p>推しスキル</p><p>[ホロパワー:-2]<span>ライミング</span>[ターンに1回]自分のデッキの上から2枚をアーカイブする。その後、自分のデッキを1枚引く。</p></div><divclass=\"spskill\"><p>SP推しスキル</p><p>[ホロパワー:-2]<span>世界を繋げるラップ</span>[ゲームに1回]自分のアーカイブにホロメンが6枚以上あるなら、このターンの間、自分のステージの〈森カリオペ〉全員のアーツ+30。</p></div></div>"
+}
