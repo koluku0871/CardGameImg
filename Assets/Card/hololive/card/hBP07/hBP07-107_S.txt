@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP07-107_S",
-  "PackNo": "hBP07",
-  "CardName": "Boros",
-  "CardType": "サポート・マスコット",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

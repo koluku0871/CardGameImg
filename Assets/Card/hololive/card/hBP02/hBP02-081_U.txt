@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-081_U",
-  "PackNo": "hBP02",
-  "CardName": "ホロライブ インドネシア2期生",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP05-071_SR",
-  "PackNo": "hBP05",
-  "CardName": "戌神ころね",
-  "CardType": "ホロメン",
-  "CardRarity": "SR",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>戌神族</span>自分のデッキから、#ゲーマーズを持つBuzz以外の1stホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>YB-250+<spanclass=\"tokkou\"><imgalt=\"青+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_blue.png\"/></span></span>このターンの間、自分のステージの#ゲーマーズを持つホロメン1人のアーツ+30。</p></div></div>"
-}

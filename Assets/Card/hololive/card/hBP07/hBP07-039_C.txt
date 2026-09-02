@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-039_C",
-  "PackNo": "hBP07",
-  "CardName": "赤井はあと",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "赤",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>血ゃ舞ってる奴いる！？</span>[ターンに1回]自分のターンで、自分の〈赤井はあと〉がステージからデッキに戻った時、自分のアーカイブのエール1枚をこのホロメンに送れる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>俺の名は〝ちゃまお〟漢の中の漢だ！50<spanclass=\"tokkou\"></span></span>相手のセンターホロメンに特殊ダメージ20を与える。</p></div></div>"
-}

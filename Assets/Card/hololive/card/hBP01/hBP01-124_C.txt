@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-124_C",
-  "PackNo": "hBP01",
-  "CardName": "開拓者",
-  "CardType": "サポート・ファン",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-088_C",
-  "PackNo": "hBP01",
-  "CardName": "ムーナ・ホシノヴァ",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "青",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>ムーンムーンムーナだよ！10<spanclass=\"tokkou\"></span></span>サイコロを１回振れる：偶数の時、相手のバックホロメン１人に特殊ダメージ20を与える（ダウンしても相手のライフは減らない）。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
-}

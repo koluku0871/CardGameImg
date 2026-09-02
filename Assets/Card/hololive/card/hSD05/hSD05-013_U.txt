@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD05-013_U",
-  "PackNo": "hSD05",
-  "CardName": "音乃瀬奏",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>クレッシェンドな日々</span>自分のステージのエール1枚を、このホロメン以外の自分のホロメンに付け替えられる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ガハw20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

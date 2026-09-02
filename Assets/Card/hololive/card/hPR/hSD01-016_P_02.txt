@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD01-016_P_02",
-  "PackNo": "hPR",
-  "CardName": "春先のどか",
-  "CardType": "サポート・スタッフ・LIMITED",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

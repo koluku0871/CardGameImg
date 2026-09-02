@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP07-100_P",
-  "PackNo": "hPR",
-  "CardName": "フロンティアスピリット",
-  "CardType": "サポート・イベント",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

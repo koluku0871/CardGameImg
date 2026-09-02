@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-106_C",
-  "PackNo": "hBP03",
-  "CardName": "SSRB",
-  "CardType": "サポート・ファン",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

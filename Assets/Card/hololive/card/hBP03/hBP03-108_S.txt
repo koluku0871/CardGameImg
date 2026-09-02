@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-108_S",
-  "PackNo": "hBP03",
-  "CardName": "はあとん",
-  "CardType": "サポート・ファン",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-077_P",
-  "PackNo": "hPR",
-  "CardName": "桃鈴ねね",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>あぱぱ</span>自分が後攻で最初のターンなら、自分のデッキから、#5期生を持つ2ndホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ねね、酔っちゃった～10<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

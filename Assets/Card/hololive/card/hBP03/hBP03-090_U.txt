@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-090_U",
-  "PackNo": "hBP03",
-  "CardName": "ホロライブ言えるかな？",
-  "CardType": "サポート・イベント",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

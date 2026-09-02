@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP03-052_S",
-  "PackNo": "hBP03",
-  "CardName": "常闇トワ",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>そういう感じなんだ20<spanclass=\"tokkou\"></span></span>相手のセンターホロメンに特殊ダメージ10を与える。その後、自分の推しホロメンが〈常闇トワ〉の時、相手の[センターホロメンかコラボホロメン]に付いているツール1枚をアーカイブできる。</p></div></div>"
-}

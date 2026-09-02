@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP06-102_C",
-  "PackNo": "hBP06",
-  "CardName": "えびふらいおん",
-  "CardType": "サポート・マスコット",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

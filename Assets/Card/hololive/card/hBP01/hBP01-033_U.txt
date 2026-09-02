@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-033_U",
-  "PackNo": "hBP01",
-  "CardName": "アキ・ローゼンタール",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>ヒーリングランウェイ</span>サイコロを１回振れる：奇数の時、自分の緑ホロメン１人のHP20回復。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>アフターパーティー20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

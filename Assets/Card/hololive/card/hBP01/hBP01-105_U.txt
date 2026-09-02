@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-105_U",
-  "PackNo": "hBP01",
-  "CardName": "ペンライト",
-  "CardType": "サポート・アイテム・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

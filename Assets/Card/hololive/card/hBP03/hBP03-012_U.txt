@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP03-012_U",
-  "PackNo": "hBP03",
-  "CardName": "姫森ルーナ",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>一緒に最高のライブにしようね</span>このターンの間、自分のファンが付いているホロメン1人のアーツ+20。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>約束なのら！40<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

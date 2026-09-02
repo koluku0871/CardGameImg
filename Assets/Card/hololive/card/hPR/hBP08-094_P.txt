@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP08-094_P",
-  "PackNo": "hPR",
-  "CardName": "パパは仕事を辞める",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

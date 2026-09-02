@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD19-010_C",
-  "PackNo": "hSD19",
-  "CardName": "ごきげんカレー",
-  "CardType": "サポート・イベント",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

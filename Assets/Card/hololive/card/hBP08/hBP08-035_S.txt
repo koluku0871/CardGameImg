@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP08-035_S",
-  "PackNo": "hBP08",
-  "CardName": "モココ・アビスガード",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "赤",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>やったぁ大勝ちだ！！10+<spanclass=\"tokkou\"></span></span>このホロメンに青エールが付いているなら、このアーツ+30。</p></div></div>"
-}

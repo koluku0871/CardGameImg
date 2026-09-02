@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP04-099_S",
-  "PackNo": "hBP04",
-  "CardName": "古代武器",
-  "CardType": "サポート・ツール",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

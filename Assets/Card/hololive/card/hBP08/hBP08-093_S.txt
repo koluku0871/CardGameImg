@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP08-093_S",
-  "PackNo": "hBP08",
-  "CardName": "ちょこのなすユッケ",
-  "CardType": "サポート・イベント",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

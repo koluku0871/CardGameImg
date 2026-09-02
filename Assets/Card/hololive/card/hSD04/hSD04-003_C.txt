@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD04-003_C",
-  "PackNo": "hSD04",
-  "CardName": "癒月ちょこ",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>グッイブニ～ング</span>自分の推しホロメンの色が紫の時、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>マイキュ～トスチュ～デ～ンツ30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

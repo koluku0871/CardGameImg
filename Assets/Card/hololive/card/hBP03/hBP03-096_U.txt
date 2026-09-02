@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-096_U",
-  "PackNo": "hBP03",
-  "CardName": "ライフル",
-  "CardType": "サポート・ツール",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

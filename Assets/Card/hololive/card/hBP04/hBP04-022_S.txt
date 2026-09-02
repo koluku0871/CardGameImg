@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP04-022_S",
-  "PackNo": "hBP04",
-  "CardName": "儒烏風亭らでん",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>博識ツッコミ30<spanclass=\"tokkou\"></span></span></p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>まぁそんなとこですな50<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

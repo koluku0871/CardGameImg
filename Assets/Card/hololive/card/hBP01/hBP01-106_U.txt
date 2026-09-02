@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-106_U",
-  "PackNo": "hBP01",
-  "CardName": "あとは任せた！",
-  "CardType": "サポート・イベント",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

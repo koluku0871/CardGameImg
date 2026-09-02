@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-011_U",
-  "PackNo": "hBP02",
-  "CardName": "白上フブキ",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>白上から目をそらしちゃ</span>自分のデッキから、#白上'sキャラクターを持つカード1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ダメですよっ！40<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

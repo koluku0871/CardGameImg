@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-087_C",
-  "PackNo": "hBP02",
-  "CardName": "紫咲シオンの魔法のステッキ",
-  "CardType": "サポート・ツール",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

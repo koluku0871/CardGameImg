@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP03-013_SR",
-  "PackNo": "hBP03",
-  "CardName": "姫森ルーナ",
-  "CardType": "ホロメン",
-  "CardRarity": "SR",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>んなたんと一緒に、宇宙に行くのら～！</span>[コラボポジション限定]自分のファンが付いているセンターホロメンの〈姫森ルーナ〉のアーツ+20。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>ムーンギャラクシー20<spanclass=\"tokkou\"></span></span>自分のアーカイブの〈ルーナイト〉1枚を自分の〈姫森ルーナ〉に付けられる。</p></div></div>"
-}

@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP06-088_C",
-  "PackNo": "hBP06",
-  "CardName": "ドッキリうさぎ",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

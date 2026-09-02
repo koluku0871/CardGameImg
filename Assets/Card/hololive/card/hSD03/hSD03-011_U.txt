@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD03-011_U",
-  "PackNo": "hSD03",
-  "CardName": "ラプラス・ダークネス",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "◇",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>泥棒建設農業大臣10<spanclass=\"tokkou\"></span></span></p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>絶対、食わせてみせるわ20<spanclass=\"tokkou\"></span></span>自分の手札が2枚以下の時、手札が3枚になるまで、自分のデッキを引く。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはBloomできない</p></div></div>"
-}

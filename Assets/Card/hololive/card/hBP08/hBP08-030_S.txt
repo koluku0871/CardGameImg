@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP08-030_S",
-  "PackNo": "hBP08",
-  "CardName": "パヴォリア・レイネ",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>一歩ずつ</span>自分の手札の#ID2期生を持つホロメン1枚をアーカイブできる:自分のエールデッキの上から1枚を自分のバックホロメンに送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>以後お見知りおきを…10<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

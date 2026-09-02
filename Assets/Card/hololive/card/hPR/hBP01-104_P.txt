@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-104_P",
-  "PackNo": "hPR",
-  "CardName": "ふつうのパソコン",
-  "CardType": "サポート・アイテム",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

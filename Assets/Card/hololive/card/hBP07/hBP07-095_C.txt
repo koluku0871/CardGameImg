@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP07-095_C",
-  "PackNo": "hBP07",
-  "CardName": "クロスインパクト",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

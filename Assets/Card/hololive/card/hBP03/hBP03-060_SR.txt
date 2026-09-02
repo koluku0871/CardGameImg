@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP03-060_SR",
-  "PackNo": "hBP03",
-  "CardName": "ロボ子さん",
-  "CardType": "ホロメン",
-  "CardRarity": "SR",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>自称【高性能】70+<spanclass=\"tokkou\"><imgalt=\"緑+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_green.png\"/></span></span>相手のステージにエールが7枚以上ある時、このアーツ+70。</p></div></div>"
-}

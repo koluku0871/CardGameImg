@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD05-007_U",
-  "PackNo": "hSD05",
-  "CardName": "轟はじめ",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>宇宙一の番長を目指すなんでも屋</span>自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>度胸、愛嬌、最強20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD06-005_C",
-  "PackNo": "hSD06",
-  "CardName": "風真いろは",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>かざまとおでかけ</span>自分のエールデッキの上から1枚を、自分の#秘密結社holoXを持つホロメンに送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>かざまといっしょ！30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

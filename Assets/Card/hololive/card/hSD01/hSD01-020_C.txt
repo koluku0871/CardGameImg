@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD01-020_C",
-  "PackNo": "hSD01",
-  "CardName": "ホロリスの輪",
-  "CardType": "サポート・イベント",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

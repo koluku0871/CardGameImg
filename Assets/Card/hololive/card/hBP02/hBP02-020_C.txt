@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-020_C",
-  "PackNo": "hBP02",
-  "CardName": "パヴォリア・レイネ",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>RoyalHaluSleepover50<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

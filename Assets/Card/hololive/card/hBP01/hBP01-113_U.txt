@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-113_U",
-  "PackNo": "hBP01",
-  "CardName": "Promise",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

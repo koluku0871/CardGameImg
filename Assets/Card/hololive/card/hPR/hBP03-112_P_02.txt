@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-112_P_02",
-  "PackNo": "hPR",
-  "CardName": "わためいと",
-  "CardType": "サポート・ファン",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

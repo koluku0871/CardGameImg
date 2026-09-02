@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP04-070_P",
-  "PackNo": "hWF01",
-  "CardName": "大空スバル",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>全力で頑張るから</span>自分のホロメン1人を選ぶ。このターンの間、選んだホロメンのエール1枚につき、選んだホロメンのアーツ+10。ただし、数える枚数は3枚まで。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>いっぱい応援して、楽しんでね！20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD18-008_R",
-  "PackNo": "hSD18",
-  "CardName": "森カリオペ",
-  "CardType": "ホロメン",
-  "CardRarity": "R",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ロックンロールリッパー</span>自分のデッキの上から1枚をアーカイブする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>OK、もう一曲行こう！40<spanclass=\"tokkou\"></span></span>[センターポジション限定]自分のアーカイブのツール1枚を手札に戻す。</p></div></div>"
-}

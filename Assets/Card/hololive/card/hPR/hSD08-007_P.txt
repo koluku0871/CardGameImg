@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD08-007_P",
-  "PackNo": "hPR",
-  "CardName": "角巻わため",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>みんなと夏祭り</span>自分のアーカイブのエール1枚を自分の#4期生を持つ2ndホロメンに送れる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>わたあめおいしいねぇ10<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

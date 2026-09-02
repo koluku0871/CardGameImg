@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-013_U",
-  "PackNo": "hBP07",
-  "CardName": "角巻わため",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>はばないすでーい！！！</span>このターンの間、自分のステージの〈角巻わため〉全員のアーツ+20。その後、自分のセンターホロメンにエールが6枚以上付いているなら、自分のデッキを2枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>センキューオーバーシープ！90+<spanclass=\"tokkou\"><imgalt=\"紫+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_purple.png\"/></span></span>このホロメンに付いている〈わためいと〉1枚につき、このアーツ+50。</p></div></div>"
-}

@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP05-074_P",
-  "PackNo": "hPR",
-  "CardName": "フレンドリーパソコン",
-  "CardType": "サポート・アイテム",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

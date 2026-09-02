@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-083_UR",
-  "PackNo": "hBP07",
-  "CardName": "桃鈴ねね",
-  "CardType": "ホロメン",
-  "CardRarity": "UR",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>みんなのエナジードリンク</span>[センターポジション限定]次の相手のターン終了時まで、お互いのステージのホロメン全員のアーツ+40。さらに、自分のステージの2ndホロメンの〈桃鈴ねね〉全員のアーツ+60。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>オーバーチアリーディング100<spanclass=\"tokkou\"><imgalt=\"赤+50\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_50_red.png\"/></span></span>相手の[センターホロメンかコラボホロメン]のエール1枚をエールデッキの下に戻す。</p></div></div>"
-}

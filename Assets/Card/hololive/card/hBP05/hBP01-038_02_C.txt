@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-038_02_C",
-  "PackNo": "hBP05",
-  "CardName": "兎田ぺこら",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>こんぺこー！20+<spanclass=\"tokkou\"></span></span>サイコロを１回振れる：偶数の時、このアーツ+20。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
-}

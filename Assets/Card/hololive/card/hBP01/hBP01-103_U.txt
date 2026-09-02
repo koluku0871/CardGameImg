@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-103_U",
-  "PackNo": "hBP01",
-  "CardName": "ゲーミングパソコン",
-  "CardType": "サポート・アイテム・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

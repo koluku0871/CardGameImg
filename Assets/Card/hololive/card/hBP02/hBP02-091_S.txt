@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-091_S",
-  "PackNo": "hBP02",
-  "CardName": "フブチュン",
-  "CardType": "サポート・マスコット",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

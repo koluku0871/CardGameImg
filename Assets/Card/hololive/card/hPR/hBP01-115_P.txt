@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-115_P",
-  "PackNo": "hPR",
-  "CardName": "星街すいせいのマイク",
-  "CardType": "サポート・ツール",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

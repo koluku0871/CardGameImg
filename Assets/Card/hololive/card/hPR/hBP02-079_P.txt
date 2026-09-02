@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-079_P",
-  "PackNo": "hPR",
-  "CardName": "爆発の魔法",
-  "CardType": "サポート・イベント",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

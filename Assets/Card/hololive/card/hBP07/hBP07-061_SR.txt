@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-061_SR",
-  "PackNo": "hBP07",
-  "CardName": "シオリ・ノヴェラ",
-  "CardType": "ホロメン",
-  "CardRarity": "SR",
-  "Element": "青",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ANewChapterBegins!</span>自分の推しホロメンが〈シオリ・ノヴェラ〉なら、自分のデッキの上から4枚を見る。その中から、サポートカード1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>逃がす訳がないでしょう？20<spanclass=\"tokkou\"></span></span>相手のバックホロメン1人に特殊ダメージ20を与える。</p></div></div>"
-}

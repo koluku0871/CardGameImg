@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP08-107_C",
-  "PackNo": "hBP08",
-  "CardName": "Otomo",
-  "CardType": "サポート・ファン",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

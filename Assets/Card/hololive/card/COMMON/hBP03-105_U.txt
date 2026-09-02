@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-105_U",
-  "PackNo": "COMMON",
-  "CardName": "ルーナイト",
-  "CardType": "サポート・ファン",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

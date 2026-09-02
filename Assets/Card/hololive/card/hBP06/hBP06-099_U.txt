@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP06-099_U",
-  "PackNo": "hBP06",
-  "CardName": "ゆび",
-  "CardType": "サポート・ツール",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

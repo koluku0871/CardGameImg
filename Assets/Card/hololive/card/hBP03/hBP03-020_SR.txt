@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP03-020_SR",
-  "PackNo": "hBP03",
-  "CardName": "獅白ぼたん",
-  "CardType": "ホロメン",
-  "CardRarity": "SR",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>SSSSR</span>自分のエールデッキの上から1枚を、自分のバックホロメンの〈獅白ぼたん〉に送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ショッピングカートで来た50<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

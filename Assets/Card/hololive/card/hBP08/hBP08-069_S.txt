@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP08-069_S",
-  "PackNo": "hBP08",
-  "CardName": "一伊那尓栖",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>夏の訪れ</span>自分のステージに#絵を持つホロメンが3人以上いるなら、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>うまくいったでしょ、もっといけるよ30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

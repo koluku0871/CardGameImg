@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD01-012_P",
-  "PackNo": "hPR",
-  "CardName": "アイラニ・イオフィフティーン",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>一緒にお絵かき！</span>自分のアーカイブの[白エールか緑エール]１枚を自分のセンターホロメンに送れる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>お絵かきたのしー！20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

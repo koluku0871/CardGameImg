@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD07-015_C",
-  "PackNo": "hSD07",
-  "CardName": "エルフレンド",
-  "CardType": "サポート・ファン",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

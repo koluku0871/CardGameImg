@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-065_02_C",
-  "PackNo": "hBP05",
-  "CardName": "ネリッサ・レイヴンクロフト",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>Hiyadarlings!30+<spanclass=\"tokkou\"></span></span>このホロメンに赤エールが付いている時、このアーツ+10。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
-}

@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-084_SEC",
-  "PackNo": "hBP02",
-  "CardName": "みっころね24",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "SEC",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

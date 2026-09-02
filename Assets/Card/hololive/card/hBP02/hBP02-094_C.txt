@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-094_C",
-  "PackNo": "hBP02",
-  "CardName": "Tatang",
-  "CardType": "サポート・マスコット",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

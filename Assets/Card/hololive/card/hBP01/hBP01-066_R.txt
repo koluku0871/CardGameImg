@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-066_R",
-  "PackNo": "hBP01",
-  "CardName": "小鳥遊キアラ",
-  "CardType": "ホロメン",
-  "CardRarity": "R",
-  "Element": "赤",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>不死鳥の剣姫50<spanclass=\"tokkou\"></span></span></p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>跪きなさい。40<spanclass=\"tokkou\"></span></span>このホロメンに重なっているホロメン１枚をアーカイブできる：相手のコラボホロメンに特殊ダメージ40を与える。</p></div></div>"
-}

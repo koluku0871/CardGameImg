@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD02-012_P",
-  "PackNo": "hPR",
-  "CardName": "いろはにほへっと あやふぶみ",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

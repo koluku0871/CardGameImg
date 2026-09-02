@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-048_P",
-  "PackNo": "hPR",
-  "CardName": "クレイジー・オリー",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ゾンばんは！20<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
-}

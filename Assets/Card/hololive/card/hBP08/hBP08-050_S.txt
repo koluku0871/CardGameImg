@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP08-050_S",
-  "PackNo": "hBP08",
-  "CardName": "水宮枢",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "青",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>君に任せちゃおうかな？</span>相手のターンで、このホロメンがダウンした時、自分のエールデッキの上から1枚を自分のバックホロメンに送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>雪だるまつくろっ20<spanclass=\"tokkou\"></span></span>自分のアーカイブのエール1枚を自分のホロメンに送る。</p></div></div>"
-}

@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-076_C",
-  "PackNo": "hBP02",
-  "CardName": "カスタムパソコン",
-  "CardType": "サポート・アイテム",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

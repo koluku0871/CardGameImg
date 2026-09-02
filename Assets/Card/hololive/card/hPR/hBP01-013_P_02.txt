@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-013_P_02",
-  "PackNo": "hPR",
-  "CardName": "天音かなた",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>天使のお仕事</span>相手のセンターホロメンに特殊ダメージ30を与える（ダウンしても相手のライフは減らない）。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>エンジェルステージ50<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

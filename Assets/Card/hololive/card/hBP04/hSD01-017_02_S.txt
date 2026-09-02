@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD01-017_02_S",
-  "PackNo": "hBP04",
-  "CardName": "マネちゃん",
-  "CardType": "サポート・スタッフ・LIMITED",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

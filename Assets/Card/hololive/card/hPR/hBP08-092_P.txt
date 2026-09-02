@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP08-092_P",
-  "PackNo": "hPR",
-  "CardName": "思い出のドーナツショップ",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

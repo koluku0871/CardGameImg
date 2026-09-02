@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hY02-001_C",
-  "PackNo": "COMMON",
-  "CardName": "緑エール",
-  "CardType": "エール",
-  "CardRarity": "C",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

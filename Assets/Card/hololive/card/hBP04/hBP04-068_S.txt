@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP04-068_S",
-  "PackNo": "hBP04",
-  "CardName": "大空スバル",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>大空スバル盛り合わせセット</span>[センターポジション・コラボポジション限定]このホロメンが相手の1stホロメンから受けるダメージ-20。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>スバルからきみへ！20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

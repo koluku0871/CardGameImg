@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD01-018_P",
-  "PackNo": "hPR",
-  "CardName": "サブパソコン",
-  "CardType": "サポート・アイテム",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

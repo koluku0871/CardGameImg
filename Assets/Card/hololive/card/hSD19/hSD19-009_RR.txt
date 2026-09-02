@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD19-009_RR",
-  "PackNo": "hSD19",
-  "CardName": "大空スバル",
-  "CardType": "ホロメン",
-  "CardRarity": "RR",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>ダンシング・プレアデス80+<spanclass=\"tokkou\"><imgalt=\"白+30\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_30_white.png\"/></span></span>自分のライフが2以下なら、このアーツ+10。</p></div></div>"
-}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-027_RR",
-  "PackNo": "hBP01",
-  "CardName": "ベスティア・ゼータ",
-  "CardType": "Buzzホロメン",
-  "CardRarity": "RR",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>V.7</span>[ターンに１回][コラボポジション限定]自分のホロメンが相手からダメージを受ける時、サイコロを１回振れる：奇数の時、そのダメージを受けない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>アクセスコード：ID70+<spanclass=\"tokkou\"></span></span>自分のセンターホロメンが#IDを持つ時、このアーツ+50。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンがダウンした時、自分のライフ-２</p></div></div>"
-}

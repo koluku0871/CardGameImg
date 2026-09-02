@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD07-014_U",
-  "PackNo": "hSD07",
-  "CardName": "不知火建設",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

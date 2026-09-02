@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD14-009_RR",
-  "PackNo": "hSD14",
-  "CardName": "白上フブキ",
-  "CardType": "ホロメン",
-  "CardRarity": "RR",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>私は倒れちゃいけないな</span>相手のターンで、このホロメンがダウンした時、このホロメンにマスコットが付いているなら、自分のデッキを1枚引く。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>胸を張って歌い続けるよ90<spanclass=\"tokkou\"><imgalt=\"赤+30\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/tokkou_30_red.png\"/></span></span></p></div></div>"
-}

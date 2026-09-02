@@ -1,7 +1,0 @@
-﻿{
-  "CardNo": "ent04_teaching",
-  "PackNo": "hBP04",
-  "CardName": "デッキ構築ルール",
-  "CardType": "サポート",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

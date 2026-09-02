@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP04-098_U",
-  "PackNo": "hBP04",
-  "CardName": "鍛冶ハンマー",
-  "CardType": "サポート・ツール",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

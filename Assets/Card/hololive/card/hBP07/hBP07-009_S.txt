@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-009_S",
-  "PackNo": "hBP07",
-  "CardName": "角巻わため",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>ガブガブ！20+<spanclass=\"tokkou\"></span></span>[センターポジション限定]このアーツ+20。</p></div></div>"
-}

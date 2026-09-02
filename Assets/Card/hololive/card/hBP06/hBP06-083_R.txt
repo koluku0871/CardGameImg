@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP06-083_R",
-  "PackNo": "hBP06",
-  "CardName": "ラムダック",
-  "CardType": "ホロメン",
-  "CardRarity": "R",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>おしまいのあじまり</span>自分の手札の〈大空スバル〉1枚を公開し、デッキの下に戻せる：自分のアーカイブの[〈角巻わため〉か〈大空スバル〉]1枚を手札に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>Iamスバル＆わため！Yeah！！80<spanclass=\"tokkou\"></span></span>[コラボポジション限定]自分の推しホロメンが〈角巻わため〉か〈大空スバル〉なら、このアーツに必要な黄-1。自分のセンターホロメンが2ndホロメンの〈角巻わため〉なら、かわりに、このアーツに必要な黄-3。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンは〈角巻わため〉〈大空スバル〉としても扱う</p></div></div>"
-}

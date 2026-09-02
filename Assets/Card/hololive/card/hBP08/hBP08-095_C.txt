@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP08-095_C",
-  "PackNo": "hBP08",
-  "CardName": "破滅の呪文",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

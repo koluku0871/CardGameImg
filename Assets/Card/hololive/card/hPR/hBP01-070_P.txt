@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-070_P",
-  "PackNo": "hPR",
-  "CardName": "尾丸ポルカ",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "赤",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>宴の始まりだ！</span>自分のデッキから、ファン１枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>共依存70<spanclass=\"tokkou\"></span></span>このアーツは、このホロメンに〈座員〉が付いていないと使えない。</p></div></div>"
-}

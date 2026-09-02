@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD13-017_U",
-  "PackNo": "hSD13",
-  "CardName": "JUSTICE, JUST LIKE THAT!!!!",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

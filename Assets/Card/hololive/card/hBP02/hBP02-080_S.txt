@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-080_S",
-  "PackNo": "hBP02",
-  "CardName": "秘密結社holoX",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

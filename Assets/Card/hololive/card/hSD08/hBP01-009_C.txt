@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-009_C",
-  "PackNo": "hSD08",
-  "CardName": "天音かなた",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>こんかなた～40<spanclass=\"tokkou\"></span></span>このアーツは、相手のセンターホロメンしか対象にできない。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
-}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-043_P",
-  "PackNo": "hPR",
-  "CardName": "紫咲シオン",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>魔法見せてあげる</span>サイコロを1回振れる：4以上の時、自分のデッキから、#魔法を持つカード1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>一緒に行こう30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

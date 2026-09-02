@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-035_P",
-  "PackNo": "hPR",
-  "CardName": "アキ・ローゼンタール",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ブレーメンの音楽祭</span>自分のアーカイブのツール１枚を自分のホロメンに付けられる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>アキロゼ幻想曲40<spanclass=\"tokkou\"></span></span>このホロメンにツールが付いている時、自分のエールデッキの上から１枚を、自分のホロメンに送る。</p></div></div>"
-}

@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-111_C",
-  "PackNo": "hBP03",
-  "CardName": "ころねすきー",
-  "CardType": "サポート・ファン",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

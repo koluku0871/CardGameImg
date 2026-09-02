@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-041_SR",
-  "PackNo": "hBP06",
-  "CardName": "兎田ぺこら",
-  "CardType": "ホロメン",
-  "CardRarity": "SR",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>成長した兎田ぺこらを</span>自分のエールデッキの上から1枚を、自分のセンターホロメンかコラボホロメンに送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>見逃しちゃだめぺこだよ！30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

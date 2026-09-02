@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD16-003_C",
-  "PackNo": "hSD16",
-  "CardName": "さくらみこ",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "赤",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>エリート巫女アイドル！さくらみこだよ～30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

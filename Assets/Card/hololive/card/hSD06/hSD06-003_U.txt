@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD06-003_U",
-  "PackNo": "hSD06",
-  "CardName": "風真いろは",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/>一刀両断叩き斬る30+<spanclass=\"tokkou\"></span></span>自分のセンターホロメンのHPが減っている時、このアーツ+10。</p></div></div>"
-}

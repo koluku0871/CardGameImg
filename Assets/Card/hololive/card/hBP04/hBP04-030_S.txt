@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP04-030_S",
-  "PackNo": "hBP04",
-  "CardName": "セシリア・イマーグリーン",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>こんな旋律思いついたの</span>自分のステージのエール1～2枚を選び、自分のホロメンに割り振って付け替えられる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"緑\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_green.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>聞いてくれる？50<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

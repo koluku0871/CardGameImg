@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP08-084_SR",
-  "PackNo": "hBP08",
-  "CardName": "夏色まつり",
-  "CardType": "ホロメン",
-  "CardRarity": "SR",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>優雅なてぃーたいむ！</span>自分のライフが3以下なら、このターンの間、自分のステージの#1期生を持つホロメン全員のアーツ+20。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>まちゅだってお姫さま♡30+<spanclass=\"tokkou\"></span></span>自分のステージに#1期生を持つ2ndホロメンがいるなら、このアーツ+30。</p></div></div>"
-}

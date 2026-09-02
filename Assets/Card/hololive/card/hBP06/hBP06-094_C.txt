@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP06-094_C",
-  "PackNo": "hBP06",
-  "CardName": "ワークアウト",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

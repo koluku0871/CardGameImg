@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-110_U",
-  "PackNo": "COMMON",
-  "CardName": "ろぼさー",
-  "CardType": "サポート・ファン",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

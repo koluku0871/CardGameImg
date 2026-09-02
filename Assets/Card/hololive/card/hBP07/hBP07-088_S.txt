@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-088_S",
-  "PackNo": "hBP07",
-  "CardName": "虎金妃笑虎",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>虎の威</span>自分のバックポジションの#FLOWGLOWを持つ1stホロメン全員は相手から特殊ダメージを受けない。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>みんなが居るから幸せだ！50+<spanclass=\"tokkou\"></span></span>このターンに自分のステージのエールがアーカイブされていたなら、このアーツ+30。</p></div></div>"
-}

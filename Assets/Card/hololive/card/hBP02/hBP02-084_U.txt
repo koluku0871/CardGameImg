@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-084_U",
-  "PackNo": "hBP02",
-  "CardName": "みっころね24",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

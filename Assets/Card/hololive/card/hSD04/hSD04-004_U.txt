@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD04-004_U",
-  "PackNo": "hSD04",
-  "CardName": "癒月ちょこ",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>地獄盛りごはん</span>自分の手札1枚をアーカイブできる：自分のデッキから、#食べ物を持つイベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>いっぱい食べてね♡20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

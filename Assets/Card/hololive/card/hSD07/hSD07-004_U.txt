@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD07-004_U",
-  "PackNo": "hSD07",
-  "CardName": "不知火フレア",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>ワンダフルライフ30+<spanclass=\"tokkou\"></span></span>自分の手札の枚数が相手より少ない時、このアーツ+10。</p></div></div>"
-}

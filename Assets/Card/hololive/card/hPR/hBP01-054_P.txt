@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-054_P",
-  "PackNo": "hPR",
-  "CardName": "アイラニ・イオフィフティーン",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>緑の光が広がる海</span>自分のエールデッキの上から１枚を、自分の〈アイラニ・イオフィフティーン〉以外の#IDを持つホロメンに送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>楽しみにしてるよ！30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

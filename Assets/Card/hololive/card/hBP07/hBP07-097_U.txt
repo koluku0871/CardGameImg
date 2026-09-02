@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP07-097_U",
-  "PackNo": "hBP07",
-  "CardName": "時の支配者 -Promise-",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

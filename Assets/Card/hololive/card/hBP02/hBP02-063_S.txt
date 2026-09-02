@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-063_S",
-  "PackNo": "hBP02",
-  "CardName": "一伊那尓栖",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>みんな「WAH」の準備はいいかー！</span>自分の#Mythを持つホロメン1人のHP20回復。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>楽しんでいこう！！！30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

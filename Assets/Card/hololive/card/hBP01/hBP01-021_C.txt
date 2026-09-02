@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-021_C",
-  "PackNo": "hBP01",
-  "CardName": "ときのそら",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>みんな～こんそめ～30<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
-}

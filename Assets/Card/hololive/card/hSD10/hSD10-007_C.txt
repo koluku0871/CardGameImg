@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD10-007_C",
-  "PackNo": "hSD10",
-  "CardName": "綺々羅々ヴィヴィ",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ん〜〜〜〜〜ッヴィヴィ〜！20<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
-}

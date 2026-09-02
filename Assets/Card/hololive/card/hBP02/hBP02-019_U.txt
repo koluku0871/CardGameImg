@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-019_U",
-  "PackNo": "hBP02",
-  "CardName": "パヴォリア・レイネ",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>友達をHALUにさせる方法</span>自分のアーカイブのエール1枚を自分のホロメンに送れる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>VeryEasy!20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

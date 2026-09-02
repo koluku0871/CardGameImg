@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP03-068_S",
-  "PackNo": "hBP03",
-  "CardName": "角巻わため",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>わためのうた20<spanclass=\"tokkou\"></span></span>自分の〈わためいと〉が付いているホロメンがいる時、自分のアーカイブのエール1枚を自分の黄ホロメンに送れる。</p></div></div>"
-}

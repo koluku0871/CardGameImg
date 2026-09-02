@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-012_R",
-  "PackNo": "hBP02",
-  "CardName": "白上フブキ",
-  "CardType": "ホロメン",
-  "CardRarity": "R",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>ちょっと動かしますね</span>自分のステージのマスコット1枚を、自分のホロメンに付け替えられる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>力をかしてくださいね50+<spanclass=\"tokkou\"></span></span>このターンの間、自分のマスコットが付いている[センターホロメンとコラボホロメン]のアーツ+20。</p></div></div>"
-}

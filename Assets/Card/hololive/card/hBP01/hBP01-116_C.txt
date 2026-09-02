@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-116_C",
-  "PackNo": "hBP01",
-  "CardName": "うぱお",
-  "CardType": "サポート・マスコット",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

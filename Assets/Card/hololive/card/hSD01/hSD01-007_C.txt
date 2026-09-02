@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD01-007_C",
-  "PackNo": "hSD01",
-  "CardName": "IRyS",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>HOPE</span>自分のホロパワーを見る。その中から１枚を公開し、手札に加える。そして自分の手札１枚をホロパワーにする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>希望の化身20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

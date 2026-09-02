@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP07-096_S",
-  "PackNo": "hBP07",
-  "CardName": "ちゃま旅",
-  "CardType": "サポート・イベント",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-023_P",
-  "PackNo": "hPR",
-  "CardName": "大神ミオ",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>占いパワー注入！</span>自分が後攻で最初のターンなら、自分のデッキの上から3枚を見る。その中から、カード1枚を手札に加える。そして残ったカードを好きな順でデッキの上に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>MIOON!30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

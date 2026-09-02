@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD03-012_U",
-  "PackNo": "hSD03",
-  "CardName": "泥棒建設",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

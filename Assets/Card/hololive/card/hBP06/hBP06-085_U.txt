@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP06-085_U",
-  "PackNo": "hBP06",
-  "CardName": "フェイバリットパソコン",
-  "CardType": "サポート・アイテム・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

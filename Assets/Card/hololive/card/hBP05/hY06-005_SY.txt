@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hY06-005_SY",
-  "PackNo": "hBP05",
-  "CardName": "黄エール",
-  "CardType": "エール",
-  "CardRarity": "SY",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

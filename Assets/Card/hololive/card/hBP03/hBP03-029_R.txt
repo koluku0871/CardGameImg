@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP03-029_R",
-  "PackNo": "hBP03",
-  "CardName": "さくらみこ",
-  "CardType": "ホロメン",
-  "CardRarity": "R",
-  "Element": "赤",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>にぇ</span>自分のデッキから、〈35P〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>35Pと記念写真30+<spanclass=\"tokkou\"></span></span>このホロメンに〈35P〉が付いている時、このアーツ+30。</p></div></div>"
-}

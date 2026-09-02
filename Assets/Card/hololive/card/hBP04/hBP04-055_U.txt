@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP04-055_U",
-  "PackNo": "hBP04",
-  "CardName": "ラプラス・ダークネス",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>そこに跪け！</span>サイコロを1回振れる：3以上の時、相手のバックホロメン1人をお休みさせる。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>我ら、エデンの星を統べる者！30+<spanclass=\"tokkou\"></span></span>相手のお休みしているホロメン1人につき、このアーツ+10。</p></div></div>"
-}

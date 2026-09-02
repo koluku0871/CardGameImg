@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP08-012_R",
-  "PackNo": "hBP08",
-  "CardName": "IRyS",
-  "CardType": "ホロメン",
-  "CardRarity": "R",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>希望が照らす轍</span>自分のステージのエール1枚をエールデッキの下に戻せる:自分のエールデッキの上から1枚を自分の〈IRyS〉に送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>片や天使片や悪魔50<spanclass=\"tokkou\"></span></span>このホロメンに紫エールが付いているなら、相手のセンターホロメンに特殊ダメージ20を与える。</p></div></div>"
-}

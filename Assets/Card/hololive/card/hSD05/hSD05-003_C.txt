@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD05-003_C",
-  "PackNo": "hSD05",
-  "CardName": "轟はじめ",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>こんちくわ</span>このターンの間、自分の#ReGLOSSを持つセンターホロメンのアーツ+10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>お洒落番長30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

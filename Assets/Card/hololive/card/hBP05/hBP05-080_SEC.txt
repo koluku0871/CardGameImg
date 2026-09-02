@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP05-080_SEC",
-  "PackNo": "hBP05",
-  "CardName": "SorAZセレブレーション",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "SEC",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

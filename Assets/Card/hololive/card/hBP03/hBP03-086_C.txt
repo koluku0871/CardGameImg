@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-086_C",
-  "PackNo": "hBP03",
-  "CardName": "デュアルモニターパソコン",
-  "CardType": "サポート・アイテム・LIMITED",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

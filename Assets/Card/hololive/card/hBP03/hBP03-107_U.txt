@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-107_U",
-  "PackNo": "hBP03",
-  "CardName": "35P",
-  "CardType": "サポート・ファン",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

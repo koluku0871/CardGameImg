@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-054_C",
-  "PackNo": "hBP02",
-  "CardName": "森カリオペ",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>グリム・リーパーの第一弟子30+<spanclass=\"tokkou\"></span></span>自分のアーカイブにホロメンがある時、このアーツ+10。</p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはデッキに何枚でも入れられる</p></div></div>"
-}

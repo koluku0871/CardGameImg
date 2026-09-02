@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP04-021_S",
-  "PackNo": "hBP04",
-  "CardName": "儒烏風亭らでん",
-  "CardType": "ホロメン",
-  "CardRarity": "S",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>あなたに学びと面白いをお届け</span>このターンに自分が#きのこを持つイベントを使っていた時、自分の#ReGLOSSを持つホロメン1人のHP20回復。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>らでんスタンバイ30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

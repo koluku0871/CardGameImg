@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-085_02_P",
-  "PackNo": "hPR",
-  "CardName": "HOLOLIVE FANTASY",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

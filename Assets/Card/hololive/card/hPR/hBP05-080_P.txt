@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP05-080_P",
-  "PackNo": "hPR",
-  "CardName": "SorAZセレブレーション",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

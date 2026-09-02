@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD17-003_C",
-  "PackNo": "hSD17",
-  "CardName": "星街すいせい",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "青",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"青\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_blue.png\"/>今日もあなたのそばに-すいせい-30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

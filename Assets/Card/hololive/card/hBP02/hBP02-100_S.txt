@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-100_S",
-  "PackNo": "hBP02",
-  "CardName": "白銀聖騎士団",
-  "CardType": "サポート・ファン",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

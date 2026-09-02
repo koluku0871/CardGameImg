@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP08-110_S",
-  "PackNo": "hBP08",
-  "CardName": "Takodachi",
-  "CardType": "サポート・ファン",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

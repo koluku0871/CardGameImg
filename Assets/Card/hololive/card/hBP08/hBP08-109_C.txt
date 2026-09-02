@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP08-109_C",
-  "PackNo": "hBP08",
-  "CardName": "ルイ友",
-  "CardType": "サポート・ファン",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

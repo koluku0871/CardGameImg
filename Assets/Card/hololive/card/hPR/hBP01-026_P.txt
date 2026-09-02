@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-026_P",
-  "PackNo": "hPR",
-  "CardName": "ベスティア・ゼータ",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>新たな運命</span>DebutからBloomした時、自分のデッキから、#ID３期生を持つBuzz以外の[Debutホロメンか１stホロメン]１枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ステージみんな「私のもの」30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

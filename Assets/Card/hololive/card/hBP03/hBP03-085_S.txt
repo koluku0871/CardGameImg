@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-085_S",
-  "PackNo": "hBP03",
-  "CardName": "スーパーパソコン",
-  "CardType": "サポート・アイテム・LIMITED",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

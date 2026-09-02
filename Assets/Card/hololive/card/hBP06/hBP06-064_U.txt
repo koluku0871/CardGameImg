@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP06-064_U",
-  "PackNo": "hBP06",
-  "CardName": "ロボ子さん",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>いたずらしちゃうぞ～！</span>自分の推しホロメンが〈ロボ子さん〉なら、自分の手札1～2枚をアーカイブできる：アーカイブしたカード1枚につき、自分のアーカイブの〈ろぼさー〉1枚を手札に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>がおー！！......ビックリした？40<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

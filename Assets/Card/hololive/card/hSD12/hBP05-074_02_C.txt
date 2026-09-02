@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP05-074_02_C",
-  "PackNo": "hSD12",
-  "CardName": "フレンドリーパソコン",
-  "CardType": "サポート・アイテム",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

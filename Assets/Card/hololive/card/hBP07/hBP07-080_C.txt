@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-080_C",
-  "PackNo": "hBP07",
-  "CardName": "桃鈴ねね",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>オレンジアイドル！</span>[ターンに1回]自分の推しホロメンが〈桃鈴ねね〉なら、自分のメインステップに使える:自分のアーカイブの〈ねっ子〉1枚をこのホロメンに付ける。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>さいくーにくぅわいい40<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

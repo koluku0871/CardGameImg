@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-095_C",
-  "PackNo": "hBP03",
-  "CardName": "ホロキャップ",
-  "CardType": "サポート・ツール",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

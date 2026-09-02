@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP06-100_S",
-  "PackNo": "hBP06",
-  "CardName": "Chattino",
-  "CardType": "サポート・マスコット",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-112_U",
-  "PackNo": "hBP01",
-  "CardName": "わくわくいたずらタイム",
-  "CardType": "サポート・イベント",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

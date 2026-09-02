@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP01-019_P",
-  "PackNo": "hPR",
-  "CardName": "七詩ムメイ",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>みんなと歌って踊りたい！</span>DebutからBloomした時、自分のデッキから、#Promiseを持つBuzz以外の[Debutホロメンか１stホロメン]１枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>いつも応援してくれてありがとう！30<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

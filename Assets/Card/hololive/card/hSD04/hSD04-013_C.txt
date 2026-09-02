@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hSD04-013_C",
-  "PackNo": "hSD04",
-  "CardName": "ちょこのオムライス",
-  "CardType": "サポート・イベント",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP04-089_U",
-  "PackNo": "hBP04",
-  "CardName": "ツートンカラーパソコン",
-  "CardType": "サポート・アイテム・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

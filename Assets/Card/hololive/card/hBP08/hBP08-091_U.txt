@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP08-091_U",
-  "PackNo": "hBP08",
-  "CardName": "クリエイターパソコン",
-  "CardType": "サポート・アイテム",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

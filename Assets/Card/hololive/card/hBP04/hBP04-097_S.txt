@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP04-097_S",
-  "PackNo": "hBP04",
-  "CardName": "緑の試験管",
-  "CardType": "サポート・ツール",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD07-011_U",
-  "PackNo": "hSD07",
-  "CardName": "さくらみこ",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "赤",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>バーニン♪バーニン♪</span>相手のセンターホロメンに特殊ダメージ10を与える。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>魔王軍は無くなりました20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

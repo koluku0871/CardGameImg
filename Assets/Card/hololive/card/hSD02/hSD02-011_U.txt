@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hSD02-011_U",
-  "PackNo": "hSD02",
-  "CardName": "大神ミオ",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "◇",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>おにけもの会</span>自分の手札のホロメン1枚をアーカイブできる：自分のエールデッキの上から1枚を自分のDebutホロメンに送る。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>あやふぶみの「み」担当10<spanclass=\"tokkou\"></span></span></p></div><divclass=\"extra\"><p>エクストラ</p><p>このホロメンはBloomできない</p></div></div>"
-}

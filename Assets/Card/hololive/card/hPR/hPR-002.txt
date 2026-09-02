@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hPR-002",
-  "PackNo": "hPR",
-  "CardName": "ReGLOSS",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "P",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

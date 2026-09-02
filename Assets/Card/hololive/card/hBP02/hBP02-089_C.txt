@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-089_C",
-  "PackNo": "hBP02",
-  "CardName": "おるやんけ",
-  "CardType": "サポート・マスコット",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

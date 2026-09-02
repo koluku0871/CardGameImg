@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP04-106_U",
-  "PackNo": "hBP04",
-  "CardName": "雪民",
-  "CardType": "サポート・ファン",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-107_C",
-  "PackNo": "hBP01",
-  "CardName": "アンコール",
-  "CardType": "サポート・イベント",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

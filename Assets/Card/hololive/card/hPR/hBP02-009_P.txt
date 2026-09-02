@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-009_P",
-  "PackNo": "hPR",
-  "CardName": "白上フブキ",
-  "CardType": "ホロメン",
-  "CardRarity": "P",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>おはこんきーつね！</span>[コラボポジション限定]自分のマスコットが付いているホロメン全員のアーツ+10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>おつこーんでしたー20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

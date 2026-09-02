@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP05-011_SR",
-  "PackNo": "hBP05",
-  "CardName": "白銀ノエル",
-  "CardType": "ホロメン",
-  "CardRarity": "SR",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>みんなが居てくれて</span>このターンの間、自分の#3期生を持つ[センターホロメンとコラボホロメン]のアーツ+10。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>団長幸せだよ40+<spanclass=\"tokkou\"></span></span>自分のステージの異なるカード名の#3期生を持つホロメン1人につき、このアーツ+10。</p></div></div>"
-}

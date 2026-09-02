@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-010_C",
-  "PackNo": "hBP07",
-  "CardName": "角巻わため",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "白",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>みんなー！楽しむぞおおー！！！！！</span>自分のデッキの上から1枚をホロパワーにする。その後、自分のホロパワーを見る。その中から1枚を手札に加える。そしてホロパワーをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"白\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_white.png\"/>みんなの声聞けるかなー？？？？？？？40<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

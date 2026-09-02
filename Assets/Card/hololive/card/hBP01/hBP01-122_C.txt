@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP01-122_C",
-  "PackNo": "hBP01",
-  "CardName": "ロゼ隊",
-  "CardType": "サポート・ファン",
-  "CardRarity": "C",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

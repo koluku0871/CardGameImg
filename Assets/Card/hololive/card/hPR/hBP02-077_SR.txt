@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP02-077_SR",
-  "PackNo": "hPR",
-  "CardName": "レトロパソコン",
-  "CardType": "サポート・アイテム・LIMITED",
-  "CardRarity": "SR",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

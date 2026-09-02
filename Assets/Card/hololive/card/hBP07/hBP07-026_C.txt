@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-026_C",
-  "PackNo": "hBP07",
-  "CardName": "大神ミオ",
-  "CardType": "ホロメン",
-  "CardRarity": "C",
-  "Element": "緑",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ブルームエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/bloomEF.png\"/>早く来ないかな…</span>自分のデッキから、[〈ハトタウロス〉か〈ミオファ〉]1枚を公開し、手札に加える。そしてデッキをシャッフルする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"◇\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_null.png\"/>ちょっとお洒落な感じでしょ？40<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

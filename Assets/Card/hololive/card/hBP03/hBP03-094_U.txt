@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP03-094_U",
-  "PackNo": "hBP03",
-  "CardName": "FPS配信",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "U",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

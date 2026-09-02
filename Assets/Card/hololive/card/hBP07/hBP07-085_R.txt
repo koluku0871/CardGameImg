@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP07-085_R",
-  "PackNo": "hBP07",
-  "CardName": "不知火フレア",
-  "CardType": "ホロメン",
-  "CardRarity": "R",
-  "Element": "黄",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"ギフト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/gift.png\"/>私のとっておき！</span>自分のターンで、このホロメンがコラボポジションに移動した時、自分のデッキの上から3枚を見る。その中から、〈不知火フレア〉1枚を公開し、手札に加える。そして残ったカードをアーカイブする。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"黄\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_yellow.png\"/>元気いっぱいカラフルパフェ20+<spanclass=\"tokkou\"></span></span>自分の推しホロメンが〈不知火フレア〉なら、自分の〈不知火フレア〉1人を選ぶ。このターンの間、選んだホロメンのエール1枚につき、選んだホロメンのアーツ+20。</p></div></div>"
-}

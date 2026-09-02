@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP05-077_S",
-  "PackNo": "hBP05",
-  "CardName": "バカタレサーカス",
-  "CardType": "サポート・イベント・LIMITED",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

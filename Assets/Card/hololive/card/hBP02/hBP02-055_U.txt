@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP02-055_U",
-  "PackNo": "hBP02",
-  "CardName": "森カリオペ",
-  "CardType": "ホロメン",
-  "CardRarity": "U",
-  "Element": "紫",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>ショータイム</span>自分の手札のホロメン1枚をアーカイブできる：このターンの間、自分のステージの#Mythを持つホロメン1人のアーツ+20。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/><imgalt=\"紫\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_purple.png\"/>マイステージ20<spanclass=\"tokkou\"></span></span></p></div></div>"
-}

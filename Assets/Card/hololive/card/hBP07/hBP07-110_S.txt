@@ -1,8 +1,0 @@
-﻿{
-  "CardNo": "hBP07-110_S",
-  "PackNo": "hBP07",
-  "CardName": "ねっ子",
-  "CardType": "サポート・ファン",
-  "CardRarity": "S",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"></div>"
-}

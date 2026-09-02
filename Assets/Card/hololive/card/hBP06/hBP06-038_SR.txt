@@ -1,9 +1,0 @@
-﻿{
-  "CardNo": "hBP06-038_SR",
-  "PackNo": "hBP06",
-  "CardName": "百鬼あやめ",
-  "CardType": "ホロメン",
-  "CardRarity": "SR",
-  "Element": "赤",
-  "Text": "<divclass=\"txt-Innercenter-Txtarea\"><divclass=\"keyword\"><p>キーワード</p><p><span><imgalt=\"コラボエフェクト\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/collabEF.png\"/>たまに増える余</span>自分のエールデッキの上から1枚をアーカイブできる：自分のアーカイブの〈百鬼あやめ〉1枚を手札に戻す。</p></div><divclass=\"sparts\"><p>アーツ</p><p><span><imgalt=\"赤\"class=\"\"oncontextmenu=\"returnfalse\"onmousedown=\"returnfalse\"onselectstart=\"returnfalse\"src=\"/wp-content/images/texticon/arts_red.png\"/>では参る！30<spanclass=\"tokkou\"></span></span>自分のエールデッキの上から1枚をアーカイブできる：相手のセンターホロメンかコラボホロメンに特殊ダメージ20を与える。</p></div></div>"
-}
