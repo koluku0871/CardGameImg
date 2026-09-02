@@ -1,0 +1,13 @@
+﻿{
+  "CardNo": "BT26-007",
+  "PackNo": "BT26",
+  "CardName": "スワイプモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "CardCategory": "アプモン",
+  "Lv": [],
+  "Text": "[進化元効果]\n【アタック時】[ターン1回]自分の手札かこのデジモンの進化元から、特徴「セブンコード」を持つデジモンカード1枚をこのデジモンに支払うコスト-2でリンクできる。\n",
+  "Element": "白",
+  "CardType": "ナビ",
+  "CardSubType": "スワイプ"
+}

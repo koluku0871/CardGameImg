@@ -1,0 +1,12 @@
+﻿{
+  "CardNo": "BT26-002",
+  "PackNo": "BT26",
+  "CardName": "バドモン",
+  "CardLevel": "Lv.2",
+  "CardRarity": "C",
+  "CardCategory": "幼年期",
+  "Lv": [],
+  "Text": "[進化元効果]\n【自分のターン】[ターン1回]自分のテイマーの下のカードが効果で破棄されたとき、≪1ドロー≫。\n",
+  "Element": "緑",
+  "CardSubType": "植物型/セイバーズ"
+}

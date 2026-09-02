@@ -1,0 +1,15 @@
+﻿{
+  "CardNo": "BT24-011_P1",
+  "PackNo": "BT24",
+  "CardName": "サイクロモン",
+  "CardLevel": "Lv.4",
+  "CardRarity": "C",
+  "CardCategory": "成熟期",
+  "Lv": [
+    "LV3 : 赤／2"
+  ],
+  "Text": "[特殊進化]\n〔進化〕特徴「TS」を持つLv.3:コスト2\n[効果]\n≪速攻≫≪突進≫\n[進化元効果]\n≪突進≫（このデジモンがアタックしたとき、アタックの対象を最もDPの高いアクティブ状態の相手のデジモン1体に変更できる）\n",
+  "Element": "赤",
+  "CardType": "ウィルス種",
+  "CardSubType": "竜人型/イリアス/TS"
+}
