@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_064",
+  "PackNo": "G-BT01",
+  "CardName": "ペイズリー・メイガス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのカード名に「メイガス」を含むヴァンガードがいるなら、あなたの山札の上から１枚見て、山札の上か下に置く。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

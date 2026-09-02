@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_082",
+  "PackNo": "V-BT04",
+  "CardName": "ネフライト・ビーストテイマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのソウルから他のリアガードが登場した時、【コスト】[このユニットを退却させる]ことで、ソウルから１枚、後列の(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

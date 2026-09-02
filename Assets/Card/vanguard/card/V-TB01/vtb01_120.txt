@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_120",
+  "PackNo": "V-TB01",
+  "CardName": "ムードメーカー上原ひまり",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Afterglow",
+  "Cost": "2",
+  "CardRarity": "SSR",
+  "Text": "effect=【永】【(R)】：あなたの(R)の〈Afterglow〉が４枚以上なら、それらは相手の効果で選ばれない。【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)，リアガードを１枚【レスト】する]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

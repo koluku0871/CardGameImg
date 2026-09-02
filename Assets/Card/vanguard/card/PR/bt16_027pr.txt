@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt16_027pr",
+  "PackNo": "PR",
+  "CardName": "旋棍の喧嘩屋アーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのターン中、相手のリアガードがドロップゾーンに置かれた時、あなたのヴァンガードが【双闘】しているなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

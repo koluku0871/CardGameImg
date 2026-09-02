@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_061",
+  "PackNo": "V-EB03",
+  "CardName": "共栄の騎士クレイグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：このユニットと同じ横列にいる、あなたのプラント・トークンすべてのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_037",
+  "PackNo": "V-EB10",
+  "CardName": "果断の騎士ベソック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたがコールしたリアガードの枚数により以下をすべて得る。・２枚以上-このユニットのパワー＋5000。・４枚以上-このユニットはブーストしても【レスト】しない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

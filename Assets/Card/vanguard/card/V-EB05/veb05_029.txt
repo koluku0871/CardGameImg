@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_029",
+  "PackNo": "V-EB05",
+  "CardName": "カワイイへの拘りパパルラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたの(R)に、あなたの、ヴァンガードと同名のリアガードがいるなら、このユニットのパワー＋15000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_020",
+  "PackNo": "V-TB01",
+  "CardName": "FIREBIRD",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "楽曲/Roselia",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【自】【(R)】【ターン1回】：「湊友希那」を含むあなたのヴァンガードがアタックしたバトル終了時、【コスト】[【ソウルブラスト】(4)，手札を１枚捨てる]ことで、あなたのヴァンガードを【スタンド】し、そのターン中、ドライブ－１。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

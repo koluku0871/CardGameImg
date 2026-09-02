@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_056_2",
+  "PackNo": "V-EB11",
+  "CardName": "FromCPセレナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "SSR",
+  "Text": "effect=【旋律】（あなたの【旋律】をすべて共有する）【自】【(V)/(R)】：アタックがヴァンガードにヒットした時、あなたの手札が４枚以下なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

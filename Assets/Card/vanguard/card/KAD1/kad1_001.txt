@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad1_001",
+  "PackNo": "KAD1",
+  "CardName": "スタードライブ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

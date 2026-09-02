@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd14_004",
+  "PackNo": "G-TD14",
+  "CardName": "Chouchouピエリネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：[あなたの他の「Chouchou」を含むリアガードを１枚選び、山札の下に置く]このユニットのアタックがヴァンガードにヒットした時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

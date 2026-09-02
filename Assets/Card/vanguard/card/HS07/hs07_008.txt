@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs07_008",
+  "PackNo": "HS07",
+  "CardName": "絶影の星輝兵ストロンチウム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、あなたの《リンクジョーカー》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

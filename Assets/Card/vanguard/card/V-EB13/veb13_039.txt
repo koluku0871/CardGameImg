@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_039",
+  "PackNo": "V-EB13",
+  "CardName": "サービス・インプローバー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：このターンにあなたのダメージゾーンに新たなカードが置かれているなら、このユニットのパワー＋5000/シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

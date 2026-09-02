@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_090",
+  "PackNo": "G-BT03",
+  "CardName": "ヴェアヴォルフ・イェーガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

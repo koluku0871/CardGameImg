@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_059",
+  "PackNo": "V-EB04",
+  "CardName": "美少女教師はつね",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックがヴァンガードにヒットした時、【コスト】[【ソウルブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

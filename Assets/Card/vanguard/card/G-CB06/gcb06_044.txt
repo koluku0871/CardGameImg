@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb06_044",
+  "PackNo": "G-CB06",
+  "CardName": "星輝兵エーテル・ルーパー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】を持つカードはデッキに合計で４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

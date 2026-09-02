@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_047",
+  "PackNo": "V-BT05",
+  "CardName": "奮発の騎士キュネイルス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックかブーストした時、あなたのヴァンガードがグレード３以上なら、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

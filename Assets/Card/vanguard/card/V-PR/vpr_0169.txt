@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0169",
+  "PackNo": "V-PR",
+  "CardName": "誓いの蒼剣姫兵ディーネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：アタックかブーストしたバトル終了時、このターン４回目以降のバトルなら、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0625",
+  "PackNo": "PR",
+  "CardName": "レッド・ライトニング",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《ノヴァグラップラー》のヴァンガードがいるなら、ダメージゾーンから１枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

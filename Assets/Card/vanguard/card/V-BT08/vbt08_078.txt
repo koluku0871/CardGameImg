@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_078",
+  "PackNo": "V-BT08",
+  "CardName": "宇宙勇機グランレスキュー",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

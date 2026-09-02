@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0026",
+  "PackNo": "V-PR",
+  "CardName": "翼竜ビームプテラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：あなたのターンに(R)から退却した時、そのターン中、あなたのユニット３枚のパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

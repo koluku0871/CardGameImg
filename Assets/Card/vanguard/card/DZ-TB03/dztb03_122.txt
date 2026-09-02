@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_122",
+  "PackNo": "DZ-TB03",
+  "CardName": "黒騎士ヘルレイピア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "黒騎士/深淵",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=〈ダークネスドラゴンワールド〉【自】【(R)】：このユニットがアタックした時、【コスト】[【カウンターブラスト】(1)]することで、そのバトル中、このユニットのクリティカル＋１。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

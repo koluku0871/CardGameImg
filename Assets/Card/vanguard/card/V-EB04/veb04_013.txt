@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_013",
+  "PackNo": "V-EB04",
+  "CardName": "ロストブレイク・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：手札から登場した時、【コスト】[手札を１枚バインドする]ことで、１枚引く。【永】【(R)】：あなたのターン中、あなたのバインドゾーンに表のカードがあるなら、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

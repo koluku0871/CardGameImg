@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_085",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[この手を掴んで]レイヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "RAISEASUILEN",
+  "Cost": "2",
+  "CardRarity": "R+",
+  "Text": "effect=【永】【(V)】：あなたの〈RAISEASUILEN〉の楽曲が(R)からドロップに置かれる際、かわりにバインドしてよい。【自】【(V)】【ターン1回】：あなたの(R)に「[離してやんない]チュチュ」が登場した時、あなたの山札を上から７枚見て、〈RAISEASUILEN〉を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

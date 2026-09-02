@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0083",
+  "PackNo": "PR",
+  "CardName": "魔竜戦鬼ヴァスキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのグレード３の《なるかみ》が(V)に登場したとき、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

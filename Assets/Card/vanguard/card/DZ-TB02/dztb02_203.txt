@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_203",
+  "PackNo": "DZ-TB02",
+  "CardName": "大典太光世祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヒットした時、あなたが「太刀の能力極」のクレストを持つなら、【コスト】[このユニットを退却させる]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

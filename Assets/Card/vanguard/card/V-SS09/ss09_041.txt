@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "ss09_041",
+  "PackNo": "V-SS09",
+  "CardName": "ライジング・フェニックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【ドロップゾーン】：あなたのターンに相手のリアガードがバインドされた時、このカードを(R)にコールしてよい。そうしたら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

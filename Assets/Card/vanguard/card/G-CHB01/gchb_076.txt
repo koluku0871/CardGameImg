@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_076",
+  "PackNo": "G-CHB01",
+  "CardName": "ローゼルの銃士ランディ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

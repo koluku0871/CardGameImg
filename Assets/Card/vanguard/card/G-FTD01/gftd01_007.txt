@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gftd01_007",
+  "PackNo": "G-FTD01",
+  "CardName": "新陽の騎士カティルス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "FTD",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）結束（このターン中、あなたが(R)か(G)に２枚以上コールしていれば有効）：このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

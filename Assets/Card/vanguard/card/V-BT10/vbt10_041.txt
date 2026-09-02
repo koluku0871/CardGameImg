@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_041",
+  "PackNo": "V-BT10",
+  "CardName": "アウトサイド・ラビット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのカードの能力で登場した時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットは後列からでもヴァンガードにアタックでき、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

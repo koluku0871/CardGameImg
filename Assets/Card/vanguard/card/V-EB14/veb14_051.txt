@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_051",
+  "PackNo": "V-EB14",
+  "CardName": "スチームライタールババ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストした時、あなたのヴァンガードがグレード４なら、１枚引き、手札を１枚捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

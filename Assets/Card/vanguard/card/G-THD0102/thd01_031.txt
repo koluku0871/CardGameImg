@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_031",
+  "PackNo": "G-THD0102",
+  "CardName": "蜻蛉切-花丸-",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-槍",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(R)】真剣必殺（あなたのダメージが３枚以上で有効）：このユニットのパワー＋2000。【自】：あなたのヴァンガードがアタックされたバトル中、このユニットがインターセプトした時、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

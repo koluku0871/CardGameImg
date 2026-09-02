@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_015",
+  "PackNo": "V-BT06",
+  "CardName": "詭計の撃退者マナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、相手は自分のリアガードを１枚選び、退却させ、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_072",
+  "PackNo": "G-BT01",
+  "CardName": "ワイバーンストライクギャラン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

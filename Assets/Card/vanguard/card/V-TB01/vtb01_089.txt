@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_089",
+  "PackNo": "V-TB01",
+  "CardName": "超マイペース青葉モカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Afterglow",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(R)/(G)】：あなたの(G)の〈Afterglow〉すべてのシールド＋5000。【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)，リアガードを１枚【レスト】する]ことで、そのターン中、〈Afterglow〉のあなたのユニットすべてのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

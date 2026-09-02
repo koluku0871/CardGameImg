@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_052",
+  "PackNo": "V-BT01",
+  "CardName": "ソリッド・タートル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(1)]することで、１枚引き、あなたの手札を１枚捨てる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

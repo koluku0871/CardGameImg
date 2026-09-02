@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_081",
+  "PackNo": "V-BT10",
+  "CardName": "寸断怪人キルトラーシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)】：【コスト】[【カウンターブラスト】(2)，このユニットを【レスト】する]ことで、次の相手のスタンドフェイズ中、相手は自分のリアガードを【スタンド】できない。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

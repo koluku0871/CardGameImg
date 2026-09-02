@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_058",
+  "PackNo": "G-BT14",
+  "CardName": "竜刻魔道士ガウナン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)，あなたの手札からグレード１の儀式能力を持つカードを１枚選び、捨てる]このユニットが手札から(R)に登場した時、コストを払ってよい。払ったら、２枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

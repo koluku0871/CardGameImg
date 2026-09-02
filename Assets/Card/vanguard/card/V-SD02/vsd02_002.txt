@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vsd02_002",
+  "PackNo": "V-SD02",
+  "CardName": "ワイバーンストライクアガルーダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【イマジナリーギフト：フォース】（ライドしたら、イマジナリーギフト：フォースを１つ得る！）,critical=クリティカル1,skill=ツインドライブ、イマジナリーギフト：フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

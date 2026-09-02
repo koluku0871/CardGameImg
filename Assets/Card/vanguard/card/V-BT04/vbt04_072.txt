@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_072",
+  "PackNo": "V-BT04",
+  "CardName": "キューティクルアサシンサビーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードが「キューティクルキラーミルシェ」なら、このユニットのクリティカル＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

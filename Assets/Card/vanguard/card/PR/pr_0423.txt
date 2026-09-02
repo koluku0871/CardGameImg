@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0423",
+  "PackNo": "PR",
+  "CardName": "アモンの眷族ヘルズ・トリック",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=（【治】はデッキに４枚までしか入れることができない）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

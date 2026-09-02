@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_207",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[押し殺した想い]湊友希那",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Roselia",
+  "Cost": "1",
+  "CardRarity": "GPR",
+  "Text": "effect=【自】：このユニットが「[圧倒されるほどの]湊友希那」にライドされた時、あなたの山札から〈Roselia〉の楽曲カードを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

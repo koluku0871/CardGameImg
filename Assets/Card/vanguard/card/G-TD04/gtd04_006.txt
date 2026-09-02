@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd04_006",
+  "PackNo": "G-TD04",
+  "CardName": "戦場の歌姫ローデ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットがヴァンガードにアタックした時、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0049",
+  "PackNo": "PR",
+  "CardName": "マッスル・ヘラクレス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(V)か(R)に登場した時、あなたの《ノヴァグラップラー》のヴァンガードがいるなら、あなたのダメージゾーンから１枚選び、表向きにする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

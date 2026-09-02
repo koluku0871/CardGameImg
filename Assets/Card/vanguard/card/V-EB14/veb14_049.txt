@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_049",
+  "PackNo": "V-EB14",
+  "CardName": "スチームパフォーマーラガブ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックがヴァンガードにヒットした時、このユニットを【スタンド】し、そのターン中、このユニットはヴァンガードにアタックできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

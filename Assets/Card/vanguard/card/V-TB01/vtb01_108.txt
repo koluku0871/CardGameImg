@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_108",
+  "PackNo": "V-TB01",
+  "CardName": "“至高の歌姫”レイヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "RAISEASUILEN",
+  "Cost": "3",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(V)】：あなたのターン中、あなたのドロップゾーンに楽曲が５枚以上なら、このユニットのパワー＋15000。【起】【(V)】【ターン1回】：【コスト】[【カウンターブラスト】(1)]することで、１枚引き、そのターン中、あなたのリアガード１枚のパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

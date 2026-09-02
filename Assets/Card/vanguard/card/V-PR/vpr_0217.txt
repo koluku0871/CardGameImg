@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0217",
+  "PackNo": "V-PR",
+  "CardName": "忍竜ムゲンオボロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(1)，手札からグレード０を１枚(R)にコールする]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

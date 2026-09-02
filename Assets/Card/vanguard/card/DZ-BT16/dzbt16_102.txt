@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_102",
+  "PackNo": "DZ-BT16",
+  "CardName": "天奏楽団ティリボット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル/幻影",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【中央後列の(R)】：「リアノーン」を含むあなたのユニットがアタックされた時、【コスト】[このユニットを退却させる]ことで、そのバトル中、そのユニットのパワー＋15000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

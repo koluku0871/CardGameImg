@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_240",
+  "PackNo": "DZ-TB02",
+  "CardName": "宗三左文字祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの山札を上から５枚見て、このユニットと別名の「左文字」を含むカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。公開したなら、あなたの手札から１枚選び、捨てる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

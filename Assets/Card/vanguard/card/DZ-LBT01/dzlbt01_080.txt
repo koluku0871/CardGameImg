@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_080",
+  "PackNo": "DZ-LBT01",
+  "CardName": "始まりの音色はコルスマール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、【コスト】[【ソウルブラスト】(1)]することで、あなたのソウルの「コーラル」を含むカード２枚につき、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

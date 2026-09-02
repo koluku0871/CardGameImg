@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_053",
+  "PackNo": "V-EB14",
+  "CardName": "スチームディガーハブル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル2,skill=ブースト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

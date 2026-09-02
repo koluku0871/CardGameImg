@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb03_036",
+  "PackNo": "G-CHB03",
+  "CardName": "ナイトメアドールげるだ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの山札の上から３枚公開し、それらのカードがすべて「ナイトメアドール」を含むカードなら、その中から１枚選び、ソウルに置く。山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

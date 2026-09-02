@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb11_009",
+  "PackNo": "EB11",
+  "CardName": "闘気の撃退者マックアート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードが【双闘】した時、あなたの山札からカード名に「撃退者」を含むグレード１以下のカードを１枚まで探し、(R)に【レスト】でコールし、その山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

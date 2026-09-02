@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt07_105",
+  "PackNo": "G-BT07",
+  "CardName": "スチームスカラーランゲ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

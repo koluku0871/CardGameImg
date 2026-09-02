@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbd1_025",
+  "PackNo": "MBD1",
+  "CardName": "ブルーレイ・ドラコキッド",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

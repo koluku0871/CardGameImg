@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb01_020",
+  "PackNo": "G-CB01",
+  "CardName": "PR♥ISM-Pプリンセス・ケルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(1)-カード名に「PR♥ISM」を含むカード]このユニットのアタックがヴァンガードにヒットした時、コストを払ってよい。払ったら、他のあなたのリアガードを１枚選び、手札に戻す。戻したら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_118",
+  "PackNo": "DZ-BT14",
+  "CardName": "放課後特訓アビリタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのバインドゾーンにノーマルオーダーがあるなら、このユニットは相手のカードの効果で退却せず、パワー＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

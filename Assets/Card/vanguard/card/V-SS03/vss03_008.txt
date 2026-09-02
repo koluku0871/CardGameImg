@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss03_008",
+  "PackNo": "V-SS03",
+  "CardName": "ブラスター・ジャベリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "SD",
+  "Text": "effect=【自】【(R)】：登場時、グレード１以下のあなたの他のリアガードがいるなら、【コスト】[【カウンターブラスト】(1)]することで、１枚引き、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

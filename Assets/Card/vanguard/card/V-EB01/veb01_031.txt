@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_031",
+  "PackNo": "V-EB01",
+  "CardName": "スパイトフル・ホッパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、あなたの他のユニット１枚のパワー＋6000。あなたのダメージゾーンに表のカードがないなら、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_069",
+  "PackNo": "DZ-LBT01",
+  "CardName": "星明満開ルチェッタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたの砲弾カードがオーダーゾーンからドロップに置かれた時、【コスト】[ドロップからグレード３を１枚山札の下に置く]ことで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

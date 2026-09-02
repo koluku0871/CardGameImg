@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_017",
+  "PackNo": "V-BT01",
+  "CardName": "プロミス・ドーター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(V)/(R)】：ヴァンガードにアタックしたバトル中、あなたの手札が４枚以上なら、このユニットのパワー＋6000。【永】【(R)/(G)】：このユニットは相手のカードの効果で退却しない。（選ぶことはできる）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

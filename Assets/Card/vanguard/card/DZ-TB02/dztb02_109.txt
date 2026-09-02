@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_109",
+  "PackNo": "DZ-TB02",
+  "CardName": "日向正宗祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの山札を上から１枚見て、山札の上か下に置く。下に置いて、あなたのヴァンガードがグレード３以上なら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

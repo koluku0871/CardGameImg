@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_094",
+  "PackNo": "G-BT14",
+  "CardName": "刻獣使いイギギ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド/十二支刻獣",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】【Gブレイク】(1)：あなたの他の〈十二支刻獣〉が手札以外から(R)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

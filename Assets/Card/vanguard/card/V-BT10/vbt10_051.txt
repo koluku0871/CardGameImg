@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_051",
+  "PackNo": "V-BT10",
+  "CardName": "竜刻魔闘士メドーヴ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル2,skill=インターセプト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_020",
+  "PackNo": "V-EB13",
+  "CardName": "クリアビュー・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：手札から登場した時、【コスト】[ドロップゾーンから１枚ダメージゾーンに裏で置く]ことで、あなたの表のダメージゾーンから１枚(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

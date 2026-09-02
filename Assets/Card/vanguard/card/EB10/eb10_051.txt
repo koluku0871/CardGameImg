@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb10_051",
+  "PackNo": "EB10",
+  "CardName": "Duo海月の傘クーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【ソウルブラスト】(2)]このユニットが(R)に登場した時、あなたの《バミューダ△》のヴァンガードがいるなら、コストを払ってよい。払ったら、あなたのダメージゾーンから２枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

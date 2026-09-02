@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_207",
+  "PackNo": "DZ-LBT02",
+  "CardName": "飾られた夜空ナルマナール",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "TGR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

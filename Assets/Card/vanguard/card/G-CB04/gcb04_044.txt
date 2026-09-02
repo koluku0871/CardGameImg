@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb04_044",
+  "PackNo": "G-CB04",
+  "CardName": "フェイスレスメイデンイテル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたの〈ギアコロッサス〉のヴァンガードがいるなら、バインドゾーン４枚につき、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0794",
+  "PackNo": "PR",
+  "CardName": "伴星の星輝兵フォトン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

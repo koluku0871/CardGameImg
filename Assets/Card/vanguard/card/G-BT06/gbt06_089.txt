@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_089",
+  "PackNo": "G-BT06",
+  "CardName": "七海操舵手ナイトクロウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ドロップゾーン】：[「七海操舵手ナイトクロウ」以外のあなたのリアガードを１枚選び、退却させる]あなたの「七海」を含むヴァンガードがいるなら、このカードを(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0467",
+  "PackNo": "PR",
+  "CardName": "アモンの眷族クルーエル・ハンド",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

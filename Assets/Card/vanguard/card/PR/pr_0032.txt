@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0032",
+  "PackNo": "PR",
+  "CardName": "ブルースケイル・ディアー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：[【ソウルブラスト】(2)]このユニットのアタックがヴァンガードにヒットした時、あなたの《オラクルシンクタンク》のヴァンガードがいるなら、コストを払ってよい。払ったら、1枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

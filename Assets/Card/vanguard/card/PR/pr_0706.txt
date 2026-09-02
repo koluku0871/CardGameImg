@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0706",
+  "PackNo": "PR",
+  "CardName": "Chouchouナナネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたの他のリアガードが山札に置かれた時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

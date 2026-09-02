@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_018",
+  "PackNo": "V-EB10",
+  "CardName": "アルボロス・ドラゴン“若枝”",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：アタックかブーストしたアタックがヒットした時、あなたの山札を上から４枚見てよい。そうしたら、その中から「アルボロス」を含むカードを１枚まで公開して手札に加え、残りを山札の下に望む順で置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

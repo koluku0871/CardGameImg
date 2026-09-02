@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_060",
+  "PackNo": "V-BT11",
+  "CardName": "ヴィザーディッド・アッシュラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：アタックした時、【コスト】[【ソウルブラスト】(1)]することで、このユニットを【スタンド】する。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

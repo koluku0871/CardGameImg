@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td07_017",
+  "PackNo": "TD07",
+  "CardName": "高速遊撃のイルカ兵",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

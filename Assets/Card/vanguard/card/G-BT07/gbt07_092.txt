@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt07_092",
+  "PackNo": "G-BT07",
+  "CardName": "コンバスト・ヴァンピーア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【Gブレイク】(1)：[このユニットを【レスト】する]【ソウルチャージ】(1)し、あなたのソウルが６枚以上なら、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_046",
+  "PackNo": "V-BT08",
+  "CardName": "水神護符“呪浄渦洗”",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=あなたのサークルを１つ選び、そのサークルにある呪縛カードを解呪し、そのサークルにいるリアガードを【スタンド】する。解呪か【スタンド】したら、１枚引く。,critical=クリティカル,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

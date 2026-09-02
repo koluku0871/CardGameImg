@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0085",
+  "PackNo": "PR",
+  "CardName": "戦場の歌姫ネフェリィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、他のあなたのグレード３の《アクアフォース》を１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

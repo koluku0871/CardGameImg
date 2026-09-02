@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_047",
+  "PackNo": "G-BT02",
+  "CardName": "乱神咆哮ルドラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ノーブル",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)】：[【カウンターブラスト】(1)]このユニットがヴァンガードにアタックした時、コストを払ってよい。払ったら、あなたの(R)の「乱神咆哮ルドラ」１枚につき、相手は自分のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

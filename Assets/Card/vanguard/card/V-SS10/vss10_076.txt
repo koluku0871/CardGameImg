@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss10_076",
+  "PackNo": "V-SS10",
+  "CardName": "戦場の歌姫ドルシア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(V)】：登場時、【コスト】[手札を１枚捨てる]ことで、１枚引く。【永】【(R)】：相手のヴァンガードの現在のパワーが、元々のパワーと異なるなら、このユニットは後列からでもアタックできる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

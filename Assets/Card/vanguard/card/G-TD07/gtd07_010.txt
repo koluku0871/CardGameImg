@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd07_010",
+  "PackNo": "G-TD07",
+  "CardName": "オブシディアン・ビーストテイマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットがヴァンガードにアタックした時、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

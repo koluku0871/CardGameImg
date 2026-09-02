@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd09_003",
+  "PackNo": "V-TD09",
+  "CardName": "剛直のペルセウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：ヴァンガードにアタックした時、【コスト】[【カウンターブラスト】(1)]することで、２枚引き、あなたの手札を１枚ソウルに置く。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": ""
+}

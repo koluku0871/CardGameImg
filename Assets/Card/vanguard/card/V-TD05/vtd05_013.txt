@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd05_013",
+  "PackNo": "V-TD05",
+  "CardName": "ミラクル・キッド",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

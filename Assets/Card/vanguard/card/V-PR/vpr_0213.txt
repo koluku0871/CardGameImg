@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0213",
+  "PackNo": "V-PR",
+  "CardName": "神符の魔女リンデン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(2)，【ソウルブラスト】(2)]することで、あなたはイマジナリーギフト・フォースを１つ得て、そのマーカーを(V)に置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

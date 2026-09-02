@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_057",
+  "PackNo": "V-EB10",
+  "CardName": "グロリオサナイト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

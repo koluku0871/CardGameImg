@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs07_015",
+  "PackNo": "HS07",
+  "CardName": "星輝兵ネビュラキャプター",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_044",
+  "PackNo": "G-BT05",
+  "CardName": "アースエレメンタルドガッツ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "-",
+  "CardSubType": "エレメンタル",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：すべてのユニットの【双闘】能力のコストを[ドロップゾーンからグレード２以上のカードを４枚選び、山札の上に好きな順番で置く]にする。【永】：このカードはすべての、国家とクランに属する。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

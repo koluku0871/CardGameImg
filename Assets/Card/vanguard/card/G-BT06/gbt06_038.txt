@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_038",
+  "PackNo": "G-BT06",
+  "CardName": "ルイン・シェイド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：[山札の上から２枚をドロップゾーンに置く]このユニットがアタックした時、あなたの《グランブルー》のヴァンガードがいるなら、コストを払ってよい。払ったら、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

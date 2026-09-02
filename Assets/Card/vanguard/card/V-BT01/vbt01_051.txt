@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_051",
+  "PackNo": "V-BT01",
+  "CardName": "お天気お姉さんさふと",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたがカードを引いた時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋6000。（ドライブチェックや「加える」では発動しない）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

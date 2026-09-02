@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_050",
+  "PackNo": "V-EB12",
+  "CardName": "嵐撃放電のワイバーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヴァンガードにヒットした時、あなたのリアガードの枚数が、あなたの手札の枚数より２枚以上多いなら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

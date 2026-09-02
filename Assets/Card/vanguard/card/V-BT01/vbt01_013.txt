@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_013",
+  "PackNo": "V-BT01",
+  "CardName": "ミスリルの召喚術士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：手札から登場した時、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、あなたの山札からグレード２を１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss01_046",
+  "PackNo": "DZ-SS01",
+  "CardName": "歌心の乙女サフィラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

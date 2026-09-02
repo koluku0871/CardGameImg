@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt07_059",
+  "PackNo": "G-BT07",
+  "CardName": "紅の獅子獣ハウエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの「エイゼル」を含むヴァンガードがいるなら、【カウンターチャージ】(1)/【ソウルチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

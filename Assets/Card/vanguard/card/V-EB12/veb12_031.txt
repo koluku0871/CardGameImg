@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_031",
+  "PackNo": "V-EB12",
+  "CardName": "蒼波盾将ヨルゴス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードがアタックされた時、【レスト】しているあなたのリアガードが４枚以上なら、このユニットを(G)に移動させてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

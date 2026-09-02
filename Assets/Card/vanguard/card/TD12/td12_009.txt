@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td12_009",
+  "PackNo": "TD12",
+  "CardName": "カレンロイドデイジー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

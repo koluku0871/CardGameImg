@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_074",
+  "PackNo": "V-BT04",
+  "CardName": "キューティクルブレイカーパヴラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードが「キューティクルキラーミルシェ」なら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

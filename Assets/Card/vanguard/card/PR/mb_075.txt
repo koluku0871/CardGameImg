@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_075",
+  "PackNo": "PR",
+  "CardName": "ギャングアサルト・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：あなたのグレード１以下のユニットが(R)に登場した時、そのターン中、そのユニットとこのユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

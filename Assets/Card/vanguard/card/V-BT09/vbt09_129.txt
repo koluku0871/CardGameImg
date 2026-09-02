@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_129",
+  "PackNo": "V-BT09",
+  "CardName": "財宝",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "-",
+  "Text": "effect=（これは財宝マーカーを表すカードであり、デッキには入れられない）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

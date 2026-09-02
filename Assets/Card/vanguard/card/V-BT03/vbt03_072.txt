@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_072",
+  "PackNo": "V-BT03",
+  "CardName": "忍獣ハガクレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)/(G)】：登場時、あなたのユニットを１枚選び、そのターン中、このユニットのパワーとシールドをそのユニットと同じ数値になるまで増減する。（選んだ時の数値まで増減する）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "0"
+}

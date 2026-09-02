@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_072",
+  "PackNo": "V-BT07",
+  "CardName": "クワトロン・ライガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックがヴァンガードにヒットした時、【コスト】[【ソウルブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

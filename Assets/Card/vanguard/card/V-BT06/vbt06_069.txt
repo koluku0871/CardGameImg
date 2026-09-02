@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_069",
+  "PackNo": "V-BT06",
+  "CardName": "ヴァリアンツ・メガウイング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのソウルに「ヴァリアンツ・メガウイング」が２枚以上なら、このユニットはカードの効果で退却せず、パワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

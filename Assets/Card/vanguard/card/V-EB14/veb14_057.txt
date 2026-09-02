@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_057",
+  "PackNo": "V-EB14",
+  "CardName": "悪童ワルガッキー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを退却させる]ことで、プラント・トークンを２枚まで(R)にコールする。（プラントはグレード０/パワー5000/クリティカル１でブーストを持つ）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

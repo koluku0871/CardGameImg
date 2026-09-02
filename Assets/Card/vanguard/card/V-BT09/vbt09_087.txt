@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_087",
+  "PackNo": "V-BT09",
+  "CardName": "お化けのしりる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのドロップゾーンが15枚以上なら、このユニットのパワー＋10000/シールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

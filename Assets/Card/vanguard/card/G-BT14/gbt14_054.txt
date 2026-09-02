@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_054",
+  "PackNo": "G-BT14",
+  "CardName": "ぎゅーんみー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】勇敢（あなたの手札が３枚以下で有効）：あなたは【超越】のコストを『あなたの(R)の「ぎゅーんみー」を１枚選び、退却させる』でも払える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

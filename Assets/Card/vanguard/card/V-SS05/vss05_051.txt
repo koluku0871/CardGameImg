@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss05_051",
+  "PackNo": "V-SS05",
+  "CardName": "轟脚のブラストモンク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：ヴァンガードにアタックした時、【コスト】[【カウンターブラスト】(1)]することで、相手のリアガードを１枚選び、裏でバインドする。グレード２以上を選んだら、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_075",
+  "PackNo": "V-BT02",
+  "CardName": "ダンシング・ナイフダンサー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのターン終了時、あなたのダメージゾーンに表のカードがないなら、このユニットをソウルに置き、【カウンターチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

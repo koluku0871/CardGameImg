@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_090",
+  "PackNo": "DZ-LBT01",
+  "CardName": "ゆったりふわふわお嬢様ホーデリーフェ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

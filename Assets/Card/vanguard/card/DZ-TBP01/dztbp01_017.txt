@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_017",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[一音一音、積み上げて]氷川紗夜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Roselia",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【ドロップ】：あなたが〈Roselia〉の楽曲オーダーをプレイした時、あなたのヴァンガードが「湊友希那」を含むグレード３以上なら、【コスト】[【ソウルブラスト】(2)]することで、このカードを右前列の(R)にコールし、次の相手のターン終了時まで、このユニットは相手のカードの効果で選べず、シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

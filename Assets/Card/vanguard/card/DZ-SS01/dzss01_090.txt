@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss01_090",
+  "PackNo": "DZ-SS01",
+  "CardName": "無常因果を貫く者",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "0",
+  "CardRarity": "Re",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのヴァンガードのグレードが、相手のヴァンガードのグレードより低いなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

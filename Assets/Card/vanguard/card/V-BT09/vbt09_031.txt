@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_031",
+  "PackNo": "V-BT09",
+  "CardName": "能面の忍鬼アワズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：登場時、あなたの山札から１枚まで探し、ドロップゾーンに置き、山札をシャッフルし、そのターン中、このユニットはそのカードのカード名を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

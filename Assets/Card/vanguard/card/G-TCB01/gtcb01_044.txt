@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb01_044",
+  "PackNo": "G-TCB01",
+  "CardName": "忍獣キバマル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：このユニットがヴァンガードにアタックした時、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

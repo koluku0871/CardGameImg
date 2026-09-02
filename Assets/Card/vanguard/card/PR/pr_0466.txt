@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0466",
+  "PackNo": "PR",
+  "CardName": "ソニック・ブレイカー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

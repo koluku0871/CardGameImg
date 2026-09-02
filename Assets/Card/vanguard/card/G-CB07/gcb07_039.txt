@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_039",
+  "PackNo": "G-CB07",
+  "CardName": "Chouchouルシール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(2)：あなたのターン中、カードの、効果かコストで、このユニットが(R)に登場した時、あなたのユニットを３枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

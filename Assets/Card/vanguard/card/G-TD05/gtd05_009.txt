@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd05_009",
+  "PackNo": "G-TD05",
+  "CardName": "アスリープ・メサイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "メサイア",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

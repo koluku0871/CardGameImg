@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vgm_0324",
+  "PackNo": "V-GM",
+  "CardName": "イマジナリーギフトアクセル",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "PR",
+  "Text": "effect=獲得時、このマーカーを新たな前列(R)として置き、あなたのターン中、この(R)にいるユニットのパワー＋10000！,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

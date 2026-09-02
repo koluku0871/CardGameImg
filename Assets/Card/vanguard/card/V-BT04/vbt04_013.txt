@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_013",
+  "PackNo": "V-BT04",
+  "CardName": "ミス・ディレクション",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(V)/(R)】：手札から登場した時、【コスト】[【カウンターブラスト】(1)，グレード１以下のリアガードを１枚ソウルに置く]ことで、２枚引き、あなたの手札を１枚ソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

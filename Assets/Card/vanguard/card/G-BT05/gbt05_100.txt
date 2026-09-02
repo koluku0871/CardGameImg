@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_100",
+  "PackNo": "G-BT05",
+  "CardName": "スチームスカラーメルカル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【自】【Gブレイク】(1)：このユニットが(R)からバインドゾーンに置かれた時、あなたのユニットを１枚まで選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

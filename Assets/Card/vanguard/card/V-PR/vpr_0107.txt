@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0107",
+  "PackNo": "V-PR",
+  "CardName": "あいさいちゃん2019",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

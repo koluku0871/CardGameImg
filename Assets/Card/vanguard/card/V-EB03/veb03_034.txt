@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_034",
+  "PackNo": "V-EB03",
+  "CardName": "パドラブル・フェニックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードがアタックされた時、【コスト】[このユニットを退却させる]ことで、ダメージゾーンから１枚(G)にコールし、山札を上から１枚ダメージゾーンに裏で置く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

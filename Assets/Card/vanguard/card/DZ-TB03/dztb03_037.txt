@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_037",
+  "PackNo": "DZ-TB03",
+  "CardName": "ナイトメア・リバイブ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/死",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=〈ダークネスドラゴンワールド〉【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたのドロップから〈死〉のノーマルユニットを２枚まで選び、(R)にコールする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

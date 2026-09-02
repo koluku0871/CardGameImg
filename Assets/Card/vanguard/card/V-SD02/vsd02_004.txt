@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vsd02_004",
+  "PackNo": "V-SD02",
+  "CardName": "ドラゴンアーマード・ナイト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードがグレード３以上なら、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

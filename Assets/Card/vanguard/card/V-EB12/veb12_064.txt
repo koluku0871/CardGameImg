@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_064",
+  "PackNo": "V-EB12",
+  "CardName": "輝石通信のラッコ兵",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

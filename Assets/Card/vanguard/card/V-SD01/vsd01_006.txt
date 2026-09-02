@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vsd01_006",
+  "PackNo": "V-SD01",
+  "CardName": "文武の賢者ジャーロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストされてヴァンガードにアタックした時、【コスト】[【カウンターブラスト】(1)]することで、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

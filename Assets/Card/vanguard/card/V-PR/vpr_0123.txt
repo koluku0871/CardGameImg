@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0123",
+  "PackNo": "V-PR",
+  "CardName": "忍妖クロバネテング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(1)]することで、相手は自分の手札からトリガーユニットを１枚選び、捨ててよい。捨てないなら、あなたは１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

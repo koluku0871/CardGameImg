@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_126",
+  "PackNo": "DZ-TB02",
+  "CardName": "鬼丸国綱戦闘",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「鬼丸国綱特」にライドされた時、【コスト】[ライドデッキから「鬼丸国綱」を含むグレード３を１枚公開する]ことで、あなたのオーダーゾーンに鍛錬所・トークンを１枚置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

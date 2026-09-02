@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss07_055",
+  "PackNo": "V-SS07",
+  "CardName": "エアーエレメンタルブフー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "エレメンタル",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(R)】：相手のターン中、このターンにあなたのダメージゾーンに新たなカードが３枚以上置かれているなら、あなたのダメージチェックは、山札を上から１枚トリガーゾーンに出すかわりに『このユニットをバインド』でもよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

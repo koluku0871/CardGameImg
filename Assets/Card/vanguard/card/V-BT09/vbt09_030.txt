@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_030",
+  "PackNo": "V-BT09",
+  "CardName": "忍竜プランブレイム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：アタックした時、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットと同名の、あなたの前列のユニットすべてのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

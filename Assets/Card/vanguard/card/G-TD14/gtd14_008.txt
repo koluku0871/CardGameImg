@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd14_008",
+  "PackNo": "G-TD14",
+  "CardName": "Chouchouリステラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットがあるなら有効）：[【ソウルブラスト】(1)，あなたの他の「Chouchou」を含むリアガードを１枚選び、山札の下に置く]このユニットがヴァンガードにアタックした時、コストを払ってよい。払ったら、１枚引き、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

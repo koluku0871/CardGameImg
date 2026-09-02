@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0463",
+  "PackNo": "V-PR",
+  "CardName": "“Perfectus”・メサイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "メサイア",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(V)】：【コスト】[「メサイア」を含むカードを【ソウルブラスト】(6)]することで、相手のヴァンガードに６ダメージ！※ファイトでは使用できません。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

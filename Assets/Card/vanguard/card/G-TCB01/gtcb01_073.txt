@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb01_073",
+  "PackNo": "G-TCB01",
+  "CardName": "メカ・アドバイザー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

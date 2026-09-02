@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_126",
+  "PackNo": "V-BT09",
+  "CardName": "銀の茨ライジング・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(R)】：このターンにあなたがソウルから２枚以上コールしているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_043",
+  "PackNo": "V-BT01",
+  "CardName": "至誠の騎士ベルギウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードがグレード３以上なら、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_056",
+  "PackNo": "V-EB02",
+  "CardName": "インフルエント・ダガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのユニットがヴァンガードにアタックした時、このターン３回目以降のバトルなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

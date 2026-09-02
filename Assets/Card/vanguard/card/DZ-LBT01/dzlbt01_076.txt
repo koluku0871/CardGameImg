@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_076",
+  "PackNo": "DZ-LBT01",
+  "CardName": "ドリーミンフィーバーテルフィニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【エネルギーブラスト】(3)]することで、そのターン中、このユニットは『ブースト』を得て、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

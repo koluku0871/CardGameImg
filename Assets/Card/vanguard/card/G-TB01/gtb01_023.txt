@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtb01_023",
+  "PackNo": "G-TB01",
+  "CardName": "蜂須賀虎徹",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【起】【(R)】：[このユニットをソウルに置く，あなたの手札から１枚選び、捨てる]１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

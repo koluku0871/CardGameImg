@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_058",
+  "PackNo": "V-BT11",
+  "CardName": "喜捨の忍鬼ジロキチ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

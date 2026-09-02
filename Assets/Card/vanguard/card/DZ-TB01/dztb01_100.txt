@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_100",
+  "PackNo": "DZ-TB01",
+  "CardName": "招雷士レイキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔術師/百鬼",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=〈マジックワールド〉“爆雷”－【自】【(R)】【ターン1回】：グレード３の相手のリアガードが登場した時、あなたのヴァンガードが「イカヅチ」を含むなら、そのターン中、その登場したユニットのパワー－5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

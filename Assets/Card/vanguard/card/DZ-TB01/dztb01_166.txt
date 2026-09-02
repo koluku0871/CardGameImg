@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_166",
+  "PackNo": "DZ-TB01",
+  "CardName": "ドラゴ・ボンド",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/金竜",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=〈ドラゴンワールド〉以下を１つ行う。・あなたのヴァンガードを１枚選び、そのバトル中、パワー＋20000。・あなたのリアガードを１枚選び、そのバトル中、ヒットされず、あなたの表のダメージゾーンがないなら、【カウンターチャージ】(1)。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

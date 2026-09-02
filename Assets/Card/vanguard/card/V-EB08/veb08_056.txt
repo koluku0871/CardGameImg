@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_056",
+  "PackNo": "V-EB08",
+  "CardName": "カーム・アサルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのユニットがアタックした時、このターン３回目か４回目のバトルなら、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、そのユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

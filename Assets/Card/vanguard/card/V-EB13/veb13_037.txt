@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_037",
+  "PackNo": "V-EB13",
+  "CardName": "シザースター・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、相手の表のダメージゾーン１枚につき、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

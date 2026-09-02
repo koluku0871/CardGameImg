@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_071",
+  "PackNo": "G-CHB01",
+  "CardName": "アボカ・ドーズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが「アボカ・ドーズ」をブーストした時、そのバトル中、ブーストされたユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb02_044",
+  "PackNo": "G-EB02",
+  "CardName": "昏睡怪人シルクスリーパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】【Gブレイク】(1)：相手はスタンドフェイズにこのユニットと同じ縦列のユニットを【スタンド】する際、その中から１枚しか【スタンド】できない。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

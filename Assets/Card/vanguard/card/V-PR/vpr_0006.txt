@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0006",
+  "PackNo": "V-PR",
+  "CardName": "オラクルガーディアンジェミニ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：あなたのダメージゾーンが３枚以上なら、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

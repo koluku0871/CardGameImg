@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_061",
+  "PackNo": "V-BT03",
+  "CardName": "ボウルド・スパロー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他のリアガードがカードの能力でこのユニットと同じ縦列に登場した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

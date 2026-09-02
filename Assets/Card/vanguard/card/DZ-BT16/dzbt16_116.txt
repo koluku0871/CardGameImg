@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_116",
+  "PackNo": "DZ-BT16",
+  "CardName": "征標艦隊バートン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン/幻影",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

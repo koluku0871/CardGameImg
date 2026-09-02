@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_026",
+  "PackNo": "EB01",
+  "CardName": "早矢士FUSHIMI",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが《むらくも》にライドした時、そのターン中、このユニットは『【永】【(V)】：このユニットは、後列にいる相手のユニットをバトル相手のユニットに選べる。』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

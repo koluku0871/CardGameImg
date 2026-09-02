@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0694",
+  "PackNo": "PR",
+  "CardName": "刻獣ポピンズ・ポニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このカードが(G)から退却するか、(R)かドロップゾーンから山札に置かれた時、あなたの山札の上から１枚を表でバインドしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

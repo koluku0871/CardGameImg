@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_044",
+  "PackNo": "V-EB02",
+  "CardName": "洒落男アルヴァーロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゾンビ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ドロップゾーンから登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

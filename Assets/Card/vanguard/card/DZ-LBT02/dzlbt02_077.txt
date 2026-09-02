@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_077",
+  "PackNo": "DZ-LBT02",
+  "CardName": "あわあわアンバランスウープル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：あなたのヴァンガードがグレード３以上なら、【コスト】[このユニットを【レスト】させる]ことで、【ソウルチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

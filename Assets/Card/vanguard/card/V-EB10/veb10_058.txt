@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_058",
+  "PackNo": "V-EB10",
+  "CardName": "プライマルヴェイン・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：グレード０にブーストされてヴァンガードにアタックしたバトル中、相手は手札から(G)にコールする際、２枚以上でしかコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

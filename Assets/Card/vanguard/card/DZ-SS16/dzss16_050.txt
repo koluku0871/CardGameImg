@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_050",
+  "PackNo": "DZ-SS16",
+  "CardName": "忍竜ミダレグモ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

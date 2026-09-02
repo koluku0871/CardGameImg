@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0186",
+  "PackNo": "V-PR",
+  "CardName": "コレスポンド・スワロー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)/(G)】：あなたのサークルにプロテクト・マーカーがあるなら、このユニットのパワー＋5000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

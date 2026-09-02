@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0399",
+  "PackNo": "V-PR",
+  "CardName": "パシュート・アサルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：あなたの追加された(R)１つにつき、このユニットのパワー＋5000。【起】【(V)/(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)，リアガードを２枚【レスト】する]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

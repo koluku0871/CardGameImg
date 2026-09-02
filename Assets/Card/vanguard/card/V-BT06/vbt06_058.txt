@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_058",
+  "PackNo": "V-BT06",
+  "CardName": "万余の忍鬼サンジー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの(V)か(R)にこのユニットと同名の、他のユニットがいるなら、このユニットのパワー＋5000。２枚以上いるなら、＋5000のかわりに＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

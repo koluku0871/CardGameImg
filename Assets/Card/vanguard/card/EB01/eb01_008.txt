@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_008",
+  "PackNo": "EB01",
+  "CardName": "Missスプレンダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、そのバトル中、相手のユニットすべては【インターセプト】できない。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

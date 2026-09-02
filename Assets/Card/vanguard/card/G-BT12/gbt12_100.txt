@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt12_100",
+  "PackNo": "G-BT12",
+  "CardName": "相愛の乙女ヴァリラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】【Gブレイク】(1)：このユニットと同名のあなたの他のユニットがいるなら、このユニットのシールド＋5000し、『インターセプト』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

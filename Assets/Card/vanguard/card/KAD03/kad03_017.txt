@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad03_017",
+  "PackNo": "KAD03",
+  "CardName": "ラッキー・ガール",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

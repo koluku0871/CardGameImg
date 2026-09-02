@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0136",
+  "PackNo": "PR",
+  "CardName": "倦怠のサキュバス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：あなたのソウルの《ダークイレギュラーズ》が10枚以上なら、このユニットのパワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

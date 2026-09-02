@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_078",
+  "PackNo": "G-BT14",
+  "CardName": "遠望の忍鬼アヤギリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：あなたのターン中、支配されている他のユニットがアタックした時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

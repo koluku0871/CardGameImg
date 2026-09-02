@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_131",
+  "PackNo": "DZ-BT13",
+  "CardName": "至心の騎士レイノルド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：このターンにいずれかのヴァンガードがカードの能力で登場しているなら、このユニットのパワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

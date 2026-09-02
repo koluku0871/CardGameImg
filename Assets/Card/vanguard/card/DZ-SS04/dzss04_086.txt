@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_086",
+  "PackNo": "DZ-SS04",
+  "CardName": "新たな家族ベベベベ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ベベベベベイビー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが《コロコロ》からライドして登場した時、あなたの山札を上から７枚見て、ブリッツオーダーか、「ベベベベ」か「高橋アニー」を含むカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

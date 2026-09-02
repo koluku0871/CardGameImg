@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_093",
+  "PackNo": "V-BT09",
+  "CardName": "ガナー・フランセット",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

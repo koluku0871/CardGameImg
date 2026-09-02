@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_074",
+  "PackNo": "V-BT11",
+  "CardName": "ケルピーライダートドリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：他のカードの能力で【レスト】された時、【コスト】[【カウンターブラスト】(1)]することで、あなたのリアガードを１枚選び、そのターン中、そのユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

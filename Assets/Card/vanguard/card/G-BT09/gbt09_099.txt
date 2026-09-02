@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt09_099",
+  "PackNo": "G-BT09",
+  "CardName": "蒼波竜サブマージ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの(V)に「蒼波」を元々含むカードが２枚以上なら、このユニットは後列からアタックできる。（ハーツカードの枚数も含む）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

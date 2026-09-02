@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mtd01_011",
+  "PackNo": "MTD01",
+  "CardName": "咀嚼する根絶者ボロヲ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットが「威圧する根絶者ヲクシズ」を【ブースト】した時、相手のヴァンガードがデリートされているなら、そのバトル中、【ブースト】されたユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

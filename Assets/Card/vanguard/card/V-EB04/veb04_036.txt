@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_036",
+  "PackNo": "V-EB04",
+  "CardName": "晴天の駿足アキレス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、そのターン中、あなたのユニット３枚のパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

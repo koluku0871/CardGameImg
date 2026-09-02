@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_067",
+  "PackNo": "V-BT06",
+  "CardName": "イビルアイ・アーティスト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

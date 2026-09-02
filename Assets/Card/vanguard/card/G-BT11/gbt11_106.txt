@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt11_106",
+  "PackNo": "G-BT11",
+  "CardName": "アースエレメンタルコネル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "エレメンタル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)：相手のカードの効果で、いずれかのファイターがあなたのユニットを選ぶ際、可能な限りこのユニットを含んでユニットを選ぶ。【永】：このカードはすべての、国家とクランに属する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

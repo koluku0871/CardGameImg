@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_044",
+  "PackNo": "V-BT06",
+  "CardName": "ギガンテック・エンフォーサー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

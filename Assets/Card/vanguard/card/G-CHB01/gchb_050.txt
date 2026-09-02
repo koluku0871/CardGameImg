@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_050",
+  "PackNo": "G-CHB01",
+  "CardName": "たまみー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】【Gブレイク】(1)：[【カウンターブラスト】(1)]あなたの勇敢能力を持つリアガードを１枚選び、そのターン中、『ブースト』を与える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

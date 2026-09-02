@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0596",
+  "PackNo": "PR",
+  "CardName": "新城テツ役坂垣怜次",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

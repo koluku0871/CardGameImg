@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_203",
+  "PackNo": "DZ-LBT02",
+  "CardName": "皆の夢を包み込んでエラージュ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "TGR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

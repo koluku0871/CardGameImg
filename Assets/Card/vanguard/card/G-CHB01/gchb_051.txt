@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_051",
+  "PackNo": "G-CHB01",
+  "CardName": "らいんがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【起】【(R)】：[このユニットをソウルに置く]あなたの「アルフレッド」を含むヴァンガードがいるなら、あなたの前列のユニットを３枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

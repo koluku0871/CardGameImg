@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_103",
+  "PackNo": "DZ-BT16",
+  "CardName": "日影の啓導アンラクシェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「夕影の啓導アンラクシェル」にライドされた時、あなたの山札を上から７枚見て、「虚像天使」を含むカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

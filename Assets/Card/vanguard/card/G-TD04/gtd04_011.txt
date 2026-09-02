@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd04_011",
+  "PackNo": "G-TD04",
+  "CardName": "ガンダイバー・ドラコキッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットがヴァンガードを【ブースト】した時、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0196",
+  "PackNo": "PR",
+  "CardName": "メイデン・オブ・ドリーミングアロマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[【カウンターブラスト】(1)，このユニットをソウルに置く]あなたの山札の上から５枚見て、グレード３以上のカードを１枚まで探し、相手に見せ、手札に加え、その山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

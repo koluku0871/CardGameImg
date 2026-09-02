@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd12_008",
+  "PackNo": "G-TD12",
+  "CardName": "モンステラナイト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットがあるなら有効）：このユニットがインターセプトした時、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

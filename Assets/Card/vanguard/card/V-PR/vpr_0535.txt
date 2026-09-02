@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0535",
+  "PackNo": "V-PR",
+  "CardName": "忍妖ケウゲーゲ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが、(V)か(R)に登場した時、あなたの山札を上から５枚公開し、公開されたノーマルユニットすべてが「忍妖」を含むカードなら、その中からグレード２以上を１枚選び、(R)にコールするか、手札に加える。山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

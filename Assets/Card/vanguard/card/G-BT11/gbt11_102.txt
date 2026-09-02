@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt11_102",
+  "PackNo": "G-BT11",
+  "CardName": "刻獣スラッシュ・ドッグ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

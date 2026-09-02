@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd11_006",
+  "PackNo": "V-TD11",
+  "CardName": "先覚の騎士エパティカス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(R)】：ヴァンガードにアタックしたバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

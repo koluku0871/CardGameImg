@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_042",
+  "PackNo": "V-BT03",
+  "CardName": "デモリッション・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：相手の前列にリアガードがいないなら、このユニットのパワー＋3000。【自】【(V)】：アタックがヴァンガードにヒットした時、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

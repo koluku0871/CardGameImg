@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd10_001",
+  "PackNo": "V-TD10",
+  "CardName": "時空獣メタリカ・フェニックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト",
+  "Cost": "4",
+  "CardRarity": "TD",
+  "Text": "effect=【永】：このカードはノーマルライドできない。,critical=クリティカル1,skill=トリプルドライブ,gift=-,",
+  "Attack": "15000",
+  "Defense": "0"
+}

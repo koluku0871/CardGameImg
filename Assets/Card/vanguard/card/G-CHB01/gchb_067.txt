@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_067",
+  "PackNo": "G-CHB01",
+  "CardName": "生育の騎士ラリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[【カウンターブラスト】(1)，このユニットを退却させる]「生育の騎士ラリー」以外のあなたのユニットを１枚選び、山札からそのユニットと同名のカードを１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

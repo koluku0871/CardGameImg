@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_065",
+  "PackNo": "V-BT09",
+  "CardName": "ブレミッシュ・スパイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル2,skill=インターセプト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_025",
+  "PackNo": "V-BT04",
+  "CardName": "量子力学の魔法使い",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：ソウルから登場した時、【コスト】[【レスト】しているリアガードを２枚退却させる]ことで、【ソウルチャージ】(2)し、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt11_048",
+  "PackNo": "G-BT11",
+  "CardName": "刻獣トランジット・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン/十二支刻獣",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[このユニットをソウルに置く]このユニットがブーストしたバトルの終了時、あなたの「クロノジェット」を含むグレード４のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_026",
+  "PackNo": "V-EB05",
+  "CardName": "お世話を焼きたいの！トーリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヴァンガードにヒットした時、【コスト】[このユニットを退却させる]ことで、あなたの山札を上から１枚見て、山札の上か下に置き、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_072",
+  "PackNo": "V-BT11",
+  "CardName": "ケルピーライダービロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：アタックした時、このターン４回目以降のバトルなら、そのバトル中、このユニットのパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

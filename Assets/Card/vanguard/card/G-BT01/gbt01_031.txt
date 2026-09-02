@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_031",
+  "PackNo": "G-BT01",
+  "CardName": "英気の炎アエトニキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サラマンダー",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[このユニットをソウルに置く]あなたのカードの効果で、相手のリアガードがドロップゾーンに置かれた時、コストを払ってよい。払ったら、あなたのダメージゾーンから２枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb04_046",
+  "PackNo": "G-CB04",
+  "CardName": "スチームメイデンマガラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

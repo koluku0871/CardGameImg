@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd07_013",
+  "PackNo": "V-TD07",
+  "CardName": "超絃理論の愛し子",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

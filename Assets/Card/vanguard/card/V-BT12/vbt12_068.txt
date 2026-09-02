@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt12_068",
+  "PackNo": "V-BT12",
+  "CardName": "先を行く賢者ペイロン",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

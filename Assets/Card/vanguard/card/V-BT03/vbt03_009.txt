@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_009",
+  "PackNo": "V-BT03",
+  "CardName": "テトラ・メイガス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：登場時、あなたのヴァンガードがグレード３以上なら、【コスト】[【カウンターブラスト】(1)]することで、１枚引き、手札の【クリティカル】トリガーを１枚まで公開し、山札の上に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_169",
+  "PackNo": "DZ-BT14",
+  "CardName": "神室町の食通",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "龍が如く",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=（【治】はデッキに合計４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

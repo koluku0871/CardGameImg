@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_019",
+  "PackNo": "V-EB09",
+  "CardName": "烈光竜オプティカルケラト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：登場した時か、ヴァンガードにアタックした時、あなたのリアガード１枚に、山札を上から１枚武装ゲージとして裏で置いてよい。,critical=クリティカル1,skill=ツインドライブ、アクセル,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

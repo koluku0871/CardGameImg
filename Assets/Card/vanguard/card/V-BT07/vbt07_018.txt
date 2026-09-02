@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_018",
+  "PackNo": "V-BT07",
+  "CardName": "愛顧のスアデラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[このユニットを【レスト】する]ことで、そのターン中、あなたのヴァンガード１枚のパワー＋10000し、あなたが次に払う【ソウルブラスト】は(2)減る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

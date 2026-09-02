@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0471b",
+  "PackNo": "PR",
+  "CardName": "Duo気高き冠マデイラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

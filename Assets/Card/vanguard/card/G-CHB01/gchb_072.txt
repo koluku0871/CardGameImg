@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_072",
+  "PackNo": "G-CHB01",
+  "CardName": "風に舞う乙女フランソワ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：[【ソウルブラスト】(1)]あなたのユニットを１枚選び、そのターン中、このユニットはそのユニットの同名カードとしても扱う。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

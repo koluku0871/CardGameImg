@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vmb01_013",
+  "PackNo": "V-MB01",
+  "CardName": "集成の騎士フィルノ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(V)/(R)】：【コスト】[【カウンターブラスト】(2)]することで、手札を１枚(R)にコールし、そのターン中、そのユニットとこのユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、イマジナリーギフト：フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0126",
+  "PackNo": "V-PR",
+  "CardName": "ザ・ターボガストTypeⅠ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットのパワー＋2000。【自】【(R)】：ブーストされずにアタックされた時、そのバトル中、このユニットはヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

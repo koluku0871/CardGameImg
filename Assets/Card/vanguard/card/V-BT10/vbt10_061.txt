@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_061",
+  "PackNo": "V-BT10",
+  "CardName": "電砲竜ディプロレール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックがヴァンガードにヒットした時、このユニットが武装ゲージを持つなら、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

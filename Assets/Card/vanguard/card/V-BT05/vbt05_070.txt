@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_070",
+  "PackNo": "V-BT05",
+  "CardName": "ドラゴンナイトズバイル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、あなたのリアガードを１枚バインドする。【永】【(R)】：あなたのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

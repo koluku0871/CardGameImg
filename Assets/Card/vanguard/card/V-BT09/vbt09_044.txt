@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_044",
+  "PackNo": "V-BT09",
+  "CardName": "ナイトメアドールまりおん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【ソウル】：あなたの〈ワーカロイド〉が(V)に登場した時、このカードを(R)にコールする。この能力は同名カードを含めて各ターン１回まで使える。（このユニットがライドされた時は発動しない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

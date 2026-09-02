@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_288",
+  "PackNo": "DZ-TB02",
+  "CardName": "豊前江特",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】：このユニットが「豊前江戦闘」からライドして登場した時、あなたの山札から、「秘宝の里～花集めの段～」を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

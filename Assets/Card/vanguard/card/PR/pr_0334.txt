@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0334",
+  "PackNo": "PR",
+  "CardName": "大阪府広報担当副知事もずやん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(G)からドロップゾーンに置かれた時、このカードをソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

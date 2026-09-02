@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_035",
+  "PackNo": "V-EB04",
+  "CardName": "戦巫女ミヒカリヒメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：手札から登場した時、そのターン中、あなたが次に払う【ソウルブラスト】は(3)減る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

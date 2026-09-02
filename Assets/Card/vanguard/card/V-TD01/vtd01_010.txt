@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd01_010",
+  "PackNo": "V-TD01",
+  "CardName": "オースピス・ファルコン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)，このユニットを【レスト】する]ことで、そのターン中、あなたのリアガード２枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

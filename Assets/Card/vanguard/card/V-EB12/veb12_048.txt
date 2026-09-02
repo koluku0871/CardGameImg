@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_048",
+  "PackNo": "V-EB12",
+  "CardName": "ドラゴンダンサーラモルナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

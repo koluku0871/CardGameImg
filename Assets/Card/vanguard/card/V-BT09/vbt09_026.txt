@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_026",
+  "PackNo": "V-BT09",
+  "CardName": "狭霧のバンシー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：あなたのカードの能力で登場した時、そのターン中、このユニットのパワー＋10000。【自】：あなたのカードの能力で(R)から退却した時、１枚引く。この能力は同名カードも含めて各ターン１回まで使える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

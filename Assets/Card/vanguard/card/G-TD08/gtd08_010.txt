@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd08_010",
+  "PackNo": "G-TD08",
+  "CardName": "グリーディ・ミミック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

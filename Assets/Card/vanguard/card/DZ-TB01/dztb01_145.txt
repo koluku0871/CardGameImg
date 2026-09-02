@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_145",
+  "PackNo": "DZ-TB01",
+  "CardName": "進化の胎動ヤミゲドウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "百鬼",
+  "Cost": "0",
+  "CardRarity": "BR",
+  "Text": "effect=〈百鬼夜行〉“爆雷”－【自】【(R)】【ターン1回】：グレード３以上の相手のヴァンガードがアタックした時、あなたのヴァンガードが「イカヅチ」を含むなら、そのバトル中、そのアタックしたユニットのパワー－5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "0",
+  "Defense": "5000"
+}

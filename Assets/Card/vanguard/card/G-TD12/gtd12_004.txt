@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd12_004",
+  "PackNo": "G-TD12",
+  "CardName": "フロルネウラ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットがあるなら有効）：他のあなたのグレード２以上のユニットが(R)に登場した時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

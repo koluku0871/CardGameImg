@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_071",
+  "PackNo": "V-EB07",
+  "CardName": "重力井戸のレディバトラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：アタックした時、【コスト】[【ソウルブラスト】(1)，手札を１枚捨てる]ことで、あなたの山札を上から１枚見て、(R)に呪縛カードとして置き、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

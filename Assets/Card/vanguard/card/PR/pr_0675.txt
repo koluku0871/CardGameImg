@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0675",
+  "PackNo": "PR",
+  "CardName": "一色日和-朧月夜-",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

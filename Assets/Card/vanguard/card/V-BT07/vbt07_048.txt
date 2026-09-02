@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_048",
+  "PackNo": "V-BT07",
+  "CardName": "ピンキー・デンチュリスト",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

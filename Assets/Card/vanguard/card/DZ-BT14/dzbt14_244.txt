@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_244",
+  "PackNo": "DZ-BT14",
+  "CardName": "X-CeeDaNCeレダ・ティスプル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン/幻影",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：あなたのターンにこのカードが自己改修ゲージとして置かれた時、あなたのユニットを１枚選び、そのターン中、パワー＋5000。【永】【(G)】：あなたの自己改修ゲージが２枚以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

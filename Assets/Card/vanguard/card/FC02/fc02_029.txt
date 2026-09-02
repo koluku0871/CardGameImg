@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "fc02_029",
+  "PackNo": "FC02",
+  "CardName": "合力の探索者ロクリヌス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードが【双闘】したターン中、このユニットがヴァンガードにアタックした時、そのバトル中、このユニットのパワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

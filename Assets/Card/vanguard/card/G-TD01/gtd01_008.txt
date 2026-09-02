@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd01_008",
+  "PackNo": "G-TD01",
+  "CardName": "山盛り甲羅のギアタートル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

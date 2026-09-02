@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt04_059",
+  "PackNo": "G-BT04",
+  "CardName": "MRI・エンジェル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

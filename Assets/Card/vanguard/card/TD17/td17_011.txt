@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td17_011",
+  "PackNo": "TD17",
+  "CardName": "魔弾の星輝兵ネオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「星輝兵」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

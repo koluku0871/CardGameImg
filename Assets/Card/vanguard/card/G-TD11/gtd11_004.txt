@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd11_004",
+  "PackNo": "G-TD11",
+  "CardName": "ディバウトファルクス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットがあるなら有効）：他のあなたのグレード２以上のユニットが(R)に登場した時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

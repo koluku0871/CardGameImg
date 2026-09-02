@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0191",
+  "PackNo": "V-PR",
+  "CardName": "スタニングレッカー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：アタックがヴァンガードにヒットした時、相手の前列のリアガード１枚を選び、バインドする。バインドしたら、その後列の相手のリアガード１枚をその前列に移動させてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

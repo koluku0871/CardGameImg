@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_117",
+  "PackNo": "V-BT08",
+  "CardName": "ウェザーフォーキャスターミス・ミスト",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=【永】：守護者【自】【(G)】：登場時、【コスト】[手札を１枚捨てる]ことで、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "0"
+}

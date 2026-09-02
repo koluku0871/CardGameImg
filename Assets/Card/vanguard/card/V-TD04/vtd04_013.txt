@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd04_013",
+  "PackNo": "V-TD04",
+  "CardName": "デスフェザー・イーグル",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

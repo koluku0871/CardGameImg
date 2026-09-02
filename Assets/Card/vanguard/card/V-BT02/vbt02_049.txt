@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_049",
+  "PackNo": "V-BT02",
+  "CardName": "忍妖ヒャクメシャドウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのドライブチェックでこのカードが出た時、このカードを(R)にコールしてよい。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

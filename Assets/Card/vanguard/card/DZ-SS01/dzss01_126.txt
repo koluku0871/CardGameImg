@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss01_126",
+  "PackNo": "DZ-SS01",
+  "CardName": "エネルギー",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "SER",
+  "Text": "effect=-,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

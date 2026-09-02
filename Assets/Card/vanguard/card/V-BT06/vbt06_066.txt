@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_066",
+  "PackNo": "V-BT06",
+  "CardName": "ヴァリアンツ・ハードレッグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、あなたのソウルに同名が３枚以上あるカードが、３種類以上なら、そのターン中、相手は手札から(G)にコールする際、３枚以上でしかコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

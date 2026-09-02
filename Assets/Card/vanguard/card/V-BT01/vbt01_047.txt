@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_047",
+  "PackNo": "V-BT01",
+  "CardName": "ライオンメイン・スタリオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのリアガードが４枚以上なら、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

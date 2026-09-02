@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_070",
+  "PackNo": "V-TB01",
+  "CardName": "きゅ～まい＊flower",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "楽曲/Pastel＊Palettes",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【永】【(R)】：あなたのソウルの〈Pastel＊Palettes〉のカード名が８種類以上なら、「丸山彩」を含むあなたのヴァンガードがアタックする際、相手のユニットすべてとバトルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_058",
+  "PackNo": "G-BT10",
+  "CardName": "ちぇいすがる・解放者",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)：[【ソウルブラスト】(1)]このユニットが(G)から退却した時、このターンにあなたのダメージゾーンにカードが置かれていないなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

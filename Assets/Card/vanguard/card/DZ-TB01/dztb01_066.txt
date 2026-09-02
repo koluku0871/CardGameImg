@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_066",
+  "PackNo": "DZ-TB01",
+  "CardName": "真剣白刃取り",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/忍法",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=〈カタナワールド〉アタックされているユニットを１枚選び、そのバトル中、パワー＋15000。アタックしている相手のユニットがヴァンガードなら、あなたは１枚引いてもよい。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

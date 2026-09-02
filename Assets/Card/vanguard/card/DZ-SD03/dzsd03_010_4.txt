@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd03_010_4",
+  "PackNo": "DZ-SD03",
+  "CardName": "共形変換の先手",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

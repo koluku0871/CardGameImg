@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss03_009",
+  "PackNo": "V-SS03",
+  "CardName": "グルルバウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "SD",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックした時、あなたのヴァンガードのグレード１につき、そのバトル中、このユニットのパワー＋2000。（グレード３なら＋6000）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_061",
+  "PackNo": "V-BT11",
+  "CardName": "ブルート・ザ・ビースト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：あなたのヴァンガードがグレード３以上なら、【コスト】[【カウンターブラスト】(2)]することで、山札からグレード３を１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

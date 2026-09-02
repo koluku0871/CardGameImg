@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_054",
+  "PackNo": "V-EB14",
+  "CardName": "メイデン・オブ・ホワイトカラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)】【ターン1回】：【コスト】[リアガードを３枚退却させる]ことで、あなたの手札からグレード３以上を１枚まで【スタンド】でライドし、あなたのソウルが７枚以上なら、３枚引く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

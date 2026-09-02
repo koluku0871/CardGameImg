@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_085",
+  "PackNo": "DZ-SS04",
+  "CardName": "常識外れベイビーベベベベ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ベベベベベイビー",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが《コロコロ》からライドして登場した時、あなたの山札から「ベベベベ」を含むグレード０のノーマルユニットを１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

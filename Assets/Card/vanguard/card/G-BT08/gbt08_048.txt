@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt08_048",
+  "PackNo": "G-BT08",
+  "CardName": "エスコート・イーグル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】【Gブレイク】(1)勇敢（手札が３枚以下で有効）：このユニットのシールド＋5000。【永】【(V)/(R)/(G)】：抵抗（相手のカードの効果で選ばれない）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

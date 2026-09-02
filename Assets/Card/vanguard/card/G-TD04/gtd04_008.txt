@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd04_008",
+  "PackNo": "G-TD04",
+  "CardName": "ハイドロハンマー・セイラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

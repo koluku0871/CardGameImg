@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb03_021",
+  "PackNo": "EB03",
+  "CardName": "カンフー・キッカー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

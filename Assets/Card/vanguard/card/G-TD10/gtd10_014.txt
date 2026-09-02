@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd10_014",
+  "PackNo": "G-TD10",
+  "CardName": "デッドクラッシュ・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

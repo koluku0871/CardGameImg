@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss15_032",
+  "PackNo": "DZ-SS15",
+  "CardName": "ドラゴンダンサーモニカ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=【櫂アイコン】,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

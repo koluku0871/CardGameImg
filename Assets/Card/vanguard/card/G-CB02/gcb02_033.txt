@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb02_033",
+  "PackNo": "G-CB02",
+  "CardName": "マインドアイ・セイラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)連波-３回目以降（各ターンの指定されたバトルで有効）：[【ソウルブラスト】(1)]このユニットがアタックした時、コストを払ってよい。払ったら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

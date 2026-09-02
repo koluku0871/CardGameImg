@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_048",
+  "PackNo": "G-CB05",
+  "CardName": "寝床の乙姫ユユカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックされた時、このユニットを手札に戻す。【自】【Gブレイク】(1)：このユニットがインターセプトした時、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

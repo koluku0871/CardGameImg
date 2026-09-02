@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_115",
+  "PackNo": "G-BT01",
+  "CardName": "レリックマスター・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：[【カウンターブラスト】(2)]このユニットが(V)か(R)に登場した時、コストを払ってよい。払ったら、相手のグレード２以下のリアガードを１枚選び、相手はそのユニットを山札の下に置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

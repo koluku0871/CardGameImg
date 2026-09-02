@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0425",
+  "PackNo": "V-PR",
+  "CardName": "思い出を守るギアパピィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【バインドゾーン】：このカードのグレード＋４。【自】【(R)】：ブーストしたバトル終了時、【コスト】[このユニットをバインドする]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td16_004_pr",
+  "PackNo": "PR",
+  "CardName": "不撓の解放者カレティクス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

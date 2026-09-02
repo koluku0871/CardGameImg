@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0787",
+  "PackNo": "PR",
+  "CardName": "ドラゴニック・オーバーロード“TheЯe-birth”",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ツインドライブ,gift=クリティカルトリガー＋10000,",
+  "Attack": "11000",
+  "Defense": "0"
+}

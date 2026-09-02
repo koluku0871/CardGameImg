@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_254",
+  "PackNo": "DZ-SS16",
+  "CardName": "戦巫女ククリヒメ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "0",
+  "CardRarity": "SR",
+  "Text": "effect=【新右衛門アイコン】,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

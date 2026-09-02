@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_029",
+  "PackNo": "V-EB06",
+  "CardName": "星骸者カイラル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【カウンターブラスト】(1)]することで、あなたの山札を上から４枚公開し、「星骸」を含むグレード２以上を１枚まで手札に加え、残りをドロップゾーンに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

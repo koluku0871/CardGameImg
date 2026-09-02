@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_048",
+  "PackNo": "V-EB01",
+  "CardName": "ホワイト・タイトエンド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、あなたのリアガードが４枚以上なら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

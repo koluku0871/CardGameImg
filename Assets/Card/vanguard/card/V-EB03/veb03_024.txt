@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_024",
+  "PackNo": "V-EB03",
+  "CardName": "守護聖獣ネメアライオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)/(G)】：手札から登場した時、そのターン中、このユニットのパワー＋3000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

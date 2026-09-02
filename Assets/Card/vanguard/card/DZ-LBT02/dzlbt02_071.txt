@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_071",
+  "PackNo": "DZ-LBT02",
+  "CardName": "ComposedDirectorカルムエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのメインフェイズにこのユニットが手札から(R)に登場した時、あなたの手札から、あなたのヴァンガードのグレード以下のノーマルユニットを１枚まで選び、(R)にコールし、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

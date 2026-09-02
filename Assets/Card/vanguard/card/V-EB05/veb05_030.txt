@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_030",
+  "PackNo": "V-EB05",
+  "CardName": "ソーシャルフィッグアンティム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

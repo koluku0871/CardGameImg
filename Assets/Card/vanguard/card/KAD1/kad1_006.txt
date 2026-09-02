@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad1_006",
+  "PackNo": "KAD1",
+  "CardName": "スターダスト・トランペッター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

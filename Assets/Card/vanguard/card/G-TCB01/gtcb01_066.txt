@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb01_066",
+  "PackNo": "G-TCB01",
+  "CardName": "コー・ホー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：突撃（効果で(R)に登場したターン中、突撃状態にしてよい。そうしたら、参加したバトル終了時に山札の下に置く）【永】【(R)】【Gブレイク】(1)：このユニットが突撃状態なら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

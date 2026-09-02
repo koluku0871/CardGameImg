@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_046",
+  "PackNo": "G-BT03",
+  "CardName": "白皙の騎士グワウル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd03_010_2",
+  "PackNo": "V-TD03",
+  "CardName": "士官候補生エリック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：ライドされた時、１枚引く。さらに、相手のヴァンガードがグレード１以上なら、あなたはクイックシールド・チケットを１枚手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

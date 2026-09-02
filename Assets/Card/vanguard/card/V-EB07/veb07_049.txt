@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_049",
+  "PackNo": "V-EB07",
+  "CardName": "ディバイディング・ローズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド/ヒーロー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

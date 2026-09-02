@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_061",
+  "PackNo": "V-BT09",
+  "CardName": "インフリクト・スタンパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのソウルに「インフリクト・スタンパー」が３枚以上なら、このユニットはカードの効果で退却せず、クリティカル＋１。,critical=クリティカル1,skill=ツインドライブ、プロテクト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_215",
+  "PackNo": "DZ-TB02",
+  "CardName": "平野藤四郎祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。あなたのヴァンガードが「一期一振」を含むか、あなたが「短刀の能力極」のクレストを持つなら、＋5000ではなく＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

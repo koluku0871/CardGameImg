@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_070",
+  "PackNo": "V-BT09",
+  "CardName": "悪夢の国のアリス",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

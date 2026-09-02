@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb01_035",
+  "PackNo": "G-CB01",
+  "CardName": "沈黙の歌姫イスカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

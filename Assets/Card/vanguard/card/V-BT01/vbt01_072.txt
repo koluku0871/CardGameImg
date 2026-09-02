@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_072",
+  "PackNo": "V-BT01",
+  "CardName": "デスアーミー・ガイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

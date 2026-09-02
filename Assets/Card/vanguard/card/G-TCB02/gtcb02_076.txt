@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb02_076",
+  "PackNo": "G-TCB02",
+  "CardName": "学食の看板娘アビシア",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れることができない）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss07_041",
+  "PackNo": "V-SS07",
+  "CardName": "ベイン・スティンガー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【手札】：【超越】のコストを払う際、このカードをグレード３として捨ててよい。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

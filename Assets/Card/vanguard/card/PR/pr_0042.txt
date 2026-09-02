@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0042",
+  "PackNo": "PR",
+  "CardName": "フレアウィップ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)】：このユニットのドライブチェックで《かげろう》の〈フレイムドラゴン〉がでた時、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

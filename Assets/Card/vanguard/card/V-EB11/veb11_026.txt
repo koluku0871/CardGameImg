@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_026",
+  "PackNo": "V-EB11",
+  "CardName": "魅了の粧飾ピャオリャン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：登場時、「コーラル」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、相手は手札から(G)にコールする際、２枚以上でしかコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

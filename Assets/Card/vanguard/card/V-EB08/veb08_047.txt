@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_047",
+  "PackNo": "V-EB08",
+  "CardName": "夜警海賊ニルデ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

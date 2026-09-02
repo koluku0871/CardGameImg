@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd12_010",
+  "PackNo": "G-TD12",
+  "CardName": "朱鷺色の戦乙女ネリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(R)】：あなたのターン中、他のあなたの(R)の「朱鷺色の戦乙女ネリー」１枚につき、このユニットのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

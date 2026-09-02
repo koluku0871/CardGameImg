@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_119",
+  "PackNo": "DZ-LBT02",
+  "CardName": "SweetLinkerシュクレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=SweetLink－【永】：このカードと同名のあなたの他のソウルがあるなら、このカードはSweetLink状態になる。【永】【(R)】：あなたのターン中、あなたのヴァンガードが「SweetLinker」を含むグレード３以上なら、このユニットのパワー＋5000。このユニットがSweetLink状態なら、さらにパワー＋5000。【自】【(R)】：このユニットがヴァンガードにアタックしたバトル終了時、あなたのヴァンガードが「SweetLinker」を含むなら、そのバトル終了時、【コスト】[このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

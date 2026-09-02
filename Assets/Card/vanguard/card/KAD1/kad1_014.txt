@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad1_014",
+  "PackNo": "KAD1",
+  "CardName": "リザードランナーアンドゥー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_026",
+  "PackNo": "V-BT06",
+  "CardName": "酷烈の騎士ダブドレン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(V)/(R)】【ターン1回】：相手のリアガードが２枚以下なら、【コスト】[【カウンターブラスト】(1)]することで、あなたは１枚引き、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

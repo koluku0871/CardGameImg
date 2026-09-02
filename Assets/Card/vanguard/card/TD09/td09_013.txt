@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td09_013",
+  "PackNo": "TD09",
+  "CardName": "石弾の抹消者ホウキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

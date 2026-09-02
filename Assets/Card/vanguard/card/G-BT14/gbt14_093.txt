@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_093",
+  "PackNo": "G-BT14",
+  "CardName": "刻獣プロシード・シープ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[【カウンターブラスト】(1)，このユニットを表でバインドする]１枚引き、あなたのドロップゾーンから１枚選び、表でバインドする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

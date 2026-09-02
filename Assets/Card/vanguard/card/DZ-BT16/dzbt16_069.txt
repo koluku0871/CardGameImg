@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_069",
+  "PackNo": "DZ-BT16",
+  "CardName": "X-CeeDaNCeリルプ・ローク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン/幻影",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(G)】：あなたのヴァンガードが「X-CeeDaNCe」を含むなら、このユニットのシールド＋5000。【自】：このカードが、(G)から退却した時か手札から捨てられた時、あなたのヴァンガードが「X-CeeDaNCe」を含むなら、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

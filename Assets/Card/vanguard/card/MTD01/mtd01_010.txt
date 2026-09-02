@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mtd01_010",
+  "PackNo": "MTD01",
+  "CardName": "速攻する根絶者ガタリヲ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「根絶者」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

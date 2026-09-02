@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd01_007",
+  "PackNo": "V-TD01",
+  "CardName": "ういんがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(R)】：あなたのターン中、このユニットと同じ縦列にいるあなたの「ブラスター・ブレード」すべてのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

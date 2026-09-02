@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss14_026",
+  "PackNo": "DZ-SS14",
+  "CardName": "栄典の光竜神アマルティノア",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=追加効果－そのターン中、あなたはリアガードがアタックしたバトルでもドライブチェックを行う！,critical=クリティカル1,skill=ブースト,gift=オーバートリガー＋100000000,",
+  "Attack": "5000",
+  "Defense": "50000"
+}

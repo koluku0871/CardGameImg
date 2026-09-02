@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td07_011",
+  "PackNo": "TD07",
+  "CardName": "スプラッシュ・アサルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、あなたの《アクアフォース》のヴァンガードがいて、そのターンで３回目以降のバトル中なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

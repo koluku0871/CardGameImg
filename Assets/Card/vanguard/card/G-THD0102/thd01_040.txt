@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_040",
+  "PackNo": "G-THD0102",
+  "CardName": "五虎退-花丸-",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（【治】を持つカードはデッキに合計で４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_059",
+  "PackNo": "V-EB14",
+  "CardName": "信心の乙女リーリヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他のリアガードがあなたのカードの能力で登場した時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、そのユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

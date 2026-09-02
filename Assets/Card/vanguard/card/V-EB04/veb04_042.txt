@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_042",
+  "PackNo": "V-EB04",
+  "CardName": "大鍋の魔女ローリエ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

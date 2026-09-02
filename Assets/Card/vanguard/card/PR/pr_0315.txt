@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0315",
+  "PackNo": "PR",
+  "CardName": "ふぁーむがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットが山札から(R)に登場した時、あなたの山札の上から３枚見て、１枚まで探し、(R)にコールし、その山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

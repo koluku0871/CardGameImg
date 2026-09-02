@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd10_005",
+  "PackNo": "V-TD10",
+  "CardName": "スチームファイターサルラブ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

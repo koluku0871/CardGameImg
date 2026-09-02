@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb03_035",
+  "PackNo": "EB03",
+  "CardName": "十字撃ちガープ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

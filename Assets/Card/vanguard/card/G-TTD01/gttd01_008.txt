@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gttd01_008",
+  "PackNo": "G-TTD01",
+  "CardName": "後藤藤四郎",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

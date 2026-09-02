@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_049",
+  "PackNo": "V-EB04",
+  "CardName": "テキパキ・ワーカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：手札から登場した時、あなたのドロップゾーンから１枚まで山札の下に置く。グレード３以上を置いたら、さらに【コスト】[【ソウルブラスト】(2)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

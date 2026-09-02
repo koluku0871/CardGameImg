@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_046",
+  "PackNo": "V-EB13",
+  "CardName": "コンシート・ボア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットはアタックされない。【永】【(R)】：このユニットはブーストされない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

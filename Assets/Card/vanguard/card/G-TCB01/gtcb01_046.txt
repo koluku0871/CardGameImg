@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb01_046",
+  "PackNo": "G-TCB01",
+  "CardName": "忍獣クロサカズキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードの『【リミットブレイク】(4)』はダメージゾーンが３枚以下でも有効になる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_084",
+  "PackNo": "V-BT03",
+  "CardName": "ドラゴンダンサーカタリナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_052",
+  "PackNo": "V-EB10",
+  "CardName": "検閲官ミルガラゴ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

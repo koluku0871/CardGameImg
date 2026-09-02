@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_090",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[不思議な小動物]高松燈",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "MyGO!!!!!",
+  "Cost": "0",
+  "CardRarity": "R+",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

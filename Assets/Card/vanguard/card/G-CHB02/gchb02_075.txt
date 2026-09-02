@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb02_075",
+  "PackNo": "G-CHB02",
+  "CardName": "ポリッシュ・ペンギン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

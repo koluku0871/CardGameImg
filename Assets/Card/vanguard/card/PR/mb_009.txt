@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_009",
+  "PackNo": "PR",
+  "CardName": "Duo恋の雫クアンシー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)，【ソウルブラスト】(1)]このユニットが(R)から手札に戻された時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

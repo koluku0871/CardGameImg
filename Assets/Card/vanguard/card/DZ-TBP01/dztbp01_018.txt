@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_018",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[これぞ運命！]今井リサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Roselia",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【(R)】【ターン1回】：あなたのヴァンガードが「湊友希那」を含むなら、【コスト】[【カウンターブラスト】(1)か「湊友希那」を含むグレード３を【ソウルブラスト】(1)]することで、あなたの山札を上から７枚見て、〈Roselia〉を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

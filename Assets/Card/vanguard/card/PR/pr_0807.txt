@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0807",
+  "PackNo": "PR",
+  "CardName": "オルターエゴ・メサイア",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "メサイア",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=※ファイトでは使用できません。,critical=クリティカル1,skill=ツインドライブ,gift=クリティカルトリガー＋10000,",
+  "Attack": "11000",
+  "Defense": "0"
+}

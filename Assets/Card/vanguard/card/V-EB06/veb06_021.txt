@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_021",
+  "PackNo": "V-EB06",
+  "CardName": "波動の賢者ターナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)/(G)】：あなたの、(R)か(G)にいる「旋動の賢者ベルク」すべてのパワー＋5000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vsd01_002",
+  "PackNo": "V-SD01",
+  "CardName": "集成の騎士フィルノ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【イマジナリーギフト：フォース】（ライドしたら、イマジナリーギフト：フォースを１つ得る！）,critical=クリティカル1,skill=ツインドライブ、イマジナリーギフト：フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

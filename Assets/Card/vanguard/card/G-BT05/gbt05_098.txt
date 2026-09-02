@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_098",
+  "PackNo": "G-BT05",
+  "CardName": "スチームワーカーエタナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)：このユニットが(R)からバインドゾーンに置かれた時、あなたのユニットを１枚まで選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

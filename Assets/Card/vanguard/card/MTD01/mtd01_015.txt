@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mtd01_015",
+  "PackNo": "MTD01",
+  "CardName": "謳歌する根絶者マヱストル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

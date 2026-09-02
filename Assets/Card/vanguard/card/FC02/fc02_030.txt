@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "fc02_030",
+  "PackNo": "FC02",
+  "CardName": "武断の喧嘩屋リセイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=【自】【(R)】：あなたのターン中、相手のリアガードがドロップゾーンに置かれた時、あなたのヴァンガードが【双闘】しているなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

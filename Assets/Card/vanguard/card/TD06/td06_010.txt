@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td06_010",
+  "PackNo": "TD06",
+  "CardName": "希望の雷ヘレナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：[あなたの手札から１枚選び、捨てる]このユニットがブーストしたバトル中、アタックがヒットした時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

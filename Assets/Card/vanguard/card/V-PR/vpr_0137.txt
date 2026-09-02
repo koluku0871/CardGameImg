@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0137",
+  "PackNo": "V-PR",
+  "CardName": "ティアーナイトテオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：アタックかブーストしたアタックがヴァンガードにヒットした時、このターン２回目以降のバトルなら、そのターン中、あなたのユニット１枚のパワー＋8000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

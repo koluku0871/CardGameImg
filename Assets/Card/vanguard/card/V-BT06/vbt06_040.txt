@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_040",
+  "PackNo": "V-BT06",
+  "CardName": "ナイトメアドールえりん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：アタックした時、【コスト】[【カウンターブラスト】(1)，他の(R)の〈ワーカロイド〉を１枚ソウルに置く]ことで、１枚引き、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt04_102",
+  "PackNo": "G-BT04",
+  "CardName": "ホリーホックナイト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのヴァンガードが【双闘】しているなら、あなたの(V)にいるユニットと同名のリアガード１枚につき、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

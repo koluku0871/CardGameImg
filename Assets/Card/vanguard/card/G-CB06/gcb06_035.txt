@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb06_035",
+  "PackNo": "G-CB06",
+  "CardName": "星輝兵レッドスプライト・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：相手の呪縛カードがあるなら、このユニットのパワー＋2000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

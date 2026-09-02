@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_147",
+  "PackNo": "DZ-TB01",
+  "CardName": "ジャックナイフ“バーサーカー”",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "武装騎竜",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=〈ドラゴンワールド〉-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_170",
+  "PackNo": "DZ-TB01",
+  "CardName": "ドラゴン・バリアー",
+  "CardCategory": "トリガーオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/ドラゴン",
+  "Cost": "0",
+  "CardRarity": "H",
+  "Text": "effect=〈ドラゴンワールド〉このカードをゲージに裏で置く。【永】：相手ターンのガードステップ中、このカードはトリガーユニットとして(G)にコールでき、グレード0/シールド15000のガーディアンになる。,critical=クリティカル-,skill=-,gift=フロントトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "0"
+}

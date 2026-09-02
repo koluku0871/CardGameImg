@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0280",
+  "PackNo": "V-PR",
+  "CardName": "スチームエンジニアイバテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：アタックした時、あなたの手札が３枚以下なら、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

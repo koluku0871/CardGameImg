@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd11_002",
+  "PackNo": "V-TD11",
+  "CardName": "ユナイトリート・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：手札から登場した時、【コスト】[【ソウルブラスト】(1)]することで、あなたの手札からグレード２を１枚(R)にコールしてよい。コールしたら、１枚引く。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

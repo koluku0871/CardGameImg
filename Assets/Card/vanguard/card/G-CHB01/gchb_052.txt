@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_052",
+  "PackNo": "G-CHB01",
+  "CardName": "まるばる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【永】【(R)】【Gブレイク】(1)勇敢（あなたの手札が３枚以下で有効）：他のあなたの勇敢能力を持つリアガード１枚につき、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

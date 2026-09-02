@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_034",
+  "PackNo": "G-THD0102",
+  "CardName": "厚藤四郎-花丸-",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットがアタックかブーストした時、そのアタックがヴァンガードにアタックし、あなたの「花丸」を含むグレード３以上のヴァンガードがいるなら、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

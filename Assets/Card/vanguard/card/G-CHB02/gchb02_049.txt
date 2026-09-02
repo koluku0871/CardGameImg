@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb02_049",
+  "PackNo": "G-CHB02",
+  "CardName": "見習いお天気お姉さんすむーじー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：このユニットのアタックがヴァンガードにヒットした時、【カウンターチャージ】(2)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

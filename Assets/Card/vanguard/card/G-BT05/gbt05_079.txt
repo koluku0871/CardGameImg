@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_079",
+  "PackNo": "G-BT05",
+  "CardName": "激辛ピエロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：他のあなたのユニットがソウルから(R)に登場した時、あなたのヴァンガードを１枚まで選び、そのターン中、そのユニットとこのユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

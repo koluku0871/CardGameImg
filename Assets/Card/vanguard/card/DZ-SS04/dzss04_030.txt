@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_030",
+  "PackNo": "DZ-SS04",
+  "CardName": "20円ください？じーさん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "でんぢゃらすじーさん",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)】【ターン1回】：【コスト】[手札から【でんぢゃらすスキル】能力を持つカードを１枚捨てる]ことで、１枚引き、あなたが先攻なら、そのターン中、このユニットは先攻でもアタックでき、ドライブ－１。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

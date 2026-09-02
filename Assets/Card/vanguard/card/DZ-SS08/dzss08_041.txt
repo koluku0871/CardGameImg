@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss08_041",
+  "PackNo": "DZ-SS08",
+  "CardName": "央亭シキ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

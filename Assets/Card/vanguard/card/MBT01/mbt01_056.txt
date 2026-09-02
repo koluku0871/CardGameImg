@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbt01_056",
+  "PackNo": "MBT01",
+  "CardName": "搾取する根絶者ヰド",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

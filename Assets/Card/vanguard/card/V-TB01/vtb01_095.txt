@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_095",
+  "PackNo": "V-TB01",
+  "CardName": "ストイックアイドル白鷺千聖",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Pastel＊Palettes",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(V)】：あなたのソウルの〈Pastel＊Palettes〉のカード名が５種類以上なら、「丸山彩」を含むあなたのヴァンガードのパワー＋5000。【起】【(V)/(R)】【ターン1回】：【コスト】[手札から〈Pastel＊Palettes〉を１枚ソウルに置く]ことで、あなたのソウルから「白鷺千聖」を含まないカードを１枚まで手札に戻す。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

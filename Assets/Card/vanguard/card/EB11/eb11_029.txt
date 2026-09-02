@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb11_029",
+  "PackNo": "EB11",
+  "CardName": "ハールバウ・撃退者",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが【ブースト】した時、このユニットと同じ縦列にあなたの「ブラスター・ダーク・撃退者“Abyss”」がいるなら、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

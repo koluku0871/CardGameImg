@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_070",
+  "PackNo": "V-BT01",
+  "CardName": "アイアン・キラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：ヴァンガードにアタックした時、あなたのリアガードが３枚以上なら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

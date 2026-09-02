@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd03_016_14",
+  "PackNo": "DZ-SD03",
+  "CardName": "ブリッツセールスクレイヴ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "スペースドラゴン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（トリガーで出たら、そのターン中、あなたの前列のユニットすべてのパワー＋10000！）,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

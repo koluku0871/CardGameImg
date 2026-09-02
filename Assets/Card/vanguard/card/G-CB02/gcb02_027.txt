@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb02_027",
+  "PackNo": "G-CB02",
+  "CardName": "荒ぶる波紋ラビス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、他のあなたの【レスト】しているカード名に「波紋」を含むユニットが２枚以上なら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

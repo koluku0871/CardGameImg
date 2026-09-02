@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0010",
+  "PackNo": "V-PR",
+  "CardName": "魔竜聖母ジョカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヴァンガードにヒットした時、【コスト】[【ソウルブラスト】(1)]払うことで、このユニットを手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

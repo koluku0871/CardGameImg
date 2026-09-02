@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_045",
+  "PackNo": "G-BT05",
+  "CardName": "フリップ・クルーニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】【Gブレイク】(1)神託（手札が５枚以上で有効）：このユニットのアタックがヴァンガードにヒットした時、山札の上から２枚見て、１枚探し、手札に加え、残りを山札の下に好きな順番で置く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb02_060",
+  "PackNo": "G-TCB02",
+  "CardName": "スカーレット・ヴェノム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】暗躍（同じ縦列に相手の【スタンド】しているユニットがいないなら有効）：このユニットが(R)に登場した時、そのターン中、同じ縦列にいる相手のリアガード１枚につき、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

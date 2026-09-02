@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_047",
+  "PackNo": "V-BT10",
+  "CardName": "絆の光輪ソリダルバングル",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[手札からグレード２以下を１枚ソウルに置く]あなたの山札を上から３枚見て、１枚まで公開して手札に加え、残りを山札の下に望む順で置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

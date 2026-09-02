@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td06_012",
+  "PackNo": "TD06",
+  "CardName": "ドラゴンダンサーライライ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(1)]このユニットが「サンダーブレイク・ドラゴン」を【ブースト】した時、コストを払ってよい。払ったら、そのバトル中、【ブースト】されたユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

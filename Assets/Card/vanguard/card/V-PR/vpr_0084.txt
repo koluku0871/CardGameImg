@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0084",
+  "PackNo": "V-PR",
+  "CardName": "スターラッシュ・ウィザード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたがカードを引いた時、【コスト】[このユニットを退却させる]ことで、【カウンターチャージ】(1)。（ドライブチェックや「加える」では発動しない）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

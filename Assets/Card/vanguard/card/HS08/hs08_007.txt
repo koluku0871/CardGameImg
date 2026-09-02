@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs08_007",
+  "PackNo": "HS08",
+  "CardName": "次元ロボカイザード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：《ディメンジョンポリス》がこのユニットにライドした時、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt12_082",
+  "PackNo": "G-BT12",
+  "CardName": "ワイバーンストライクティムラーシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】雷激３（相手のバインドゾーンが３枚以上で有効）：[このユニットを退却させる]あなたのユニットを、相手のバインドゾーンと同じ枚数まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

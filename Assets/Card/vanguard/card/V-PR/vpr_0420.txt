@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0420",
+  "PackNo": "V-PR",
+  "CardName": "メーアの贈り物",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb01_050",
+  "PackNo": "G-TCB01",
+  "CardName": "殺法の忍鬼サミダレ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

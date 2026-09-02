@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0025",
+  "PackNo": "V-PR",
+  "CardName": "猛将ザカリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：手札から登場した時、【コスト】[【カウンターブラスト】(1)]することで、あなたの山札を上から１枚見て、(R)にコールする。そのターン終了時、そのユニットをソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

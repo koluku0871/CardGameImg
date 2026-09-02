@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_279",
+  "PackNo": "DZ-TB02",
+  "CardName": "篭手切江祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】：このユニットと同じ縦列のあなたの他のユニットがアタックした時、あなたのヴァンガードが、「歌仙兼定」か「豊前江」を含む、グレード３以上なら、そのバトル中、そのアタックしたユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

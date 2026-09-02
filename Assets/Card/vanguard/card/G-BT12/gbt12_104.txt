@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt12_104",
+  "PackNo": "G-BT12",
+  "CardName": "フラワーポット・エルフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【起】【(R)】：[このユニットをソウルに置く]あなたのユニットを１枚選び、そのターン中、『【永】【(V)/(R)】：あなたの開花能力を持つユニット１枚につき、このユニットのパワー＋1000。』を与える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0418",
+  "PackNo": "PR",
+  "CardName": "蠱毒の抹消者セイオウボ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=（【治】はデッキに４枚までしか入れることができない）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

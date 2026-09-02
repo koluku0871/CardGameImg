@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_038",
+  "PackNo": "V-EB09",
+  "CardName": "サベイジ・オーガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)，武装ゲージを１枚山札の下に置く]ことで、そのターン中、あなたのユニット１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

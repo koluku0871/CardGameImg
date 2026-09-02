@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0086",
+  "PackNo": "V-PR",
+  "CardName": "剪断する根絶者ヱヴォ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【カウンターブラスト】(1)]することで、ユニットのいない相手の(R)１つにつき、そのターン中、このユニットのパワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_038",
+  "PackNo": "V-EB13",
+  "CardName": "マルチメディカル・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：このターンにあなたのダメージゾーンに新たなカードが置かれているなら、【コスト】[このユニットを山札の下に置く]ことで、２枚引き、あなたの手札を１枚捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

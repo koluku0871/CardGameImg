@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_050",
+  "PackNo": "V-BT11",
+  "CardName": "忍獣ゲキハサイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのトークンユニット１枚につき、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

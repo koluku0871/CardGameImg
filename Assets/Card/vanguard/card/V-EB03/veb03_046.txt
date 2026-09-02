@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_046",
+  "PackNo": "V-EB03",
+  "CardName": "勇武の騎士トルヌス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのソウルが１枚なら、このユニットのパワー＋3000。あなたのソウルが０枚なら、＋3000のかわりに＋8000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

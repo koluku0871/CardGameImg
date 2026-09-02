@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss05_064",
+  "PackNo": "V-SS05",
+  "CardName": "一世一代の告白アウロラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：登場時、１枚引き、あなたの手札を１枚捨てる。この能力は同名カードを含めて各ターン１回まで使える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

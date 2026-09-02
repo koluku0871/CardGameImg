@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd01_014",
+  "PackNo": "V-TD01",
+  "CardName": "まぁるがる",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

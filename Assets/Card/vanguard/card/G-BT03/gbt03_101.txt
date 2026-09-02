@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_101",
+  "PackNo": "G-BT03",
+  "CardName": "エンドレス・ブーザー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

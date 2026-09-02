@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_044",
+  "PackNo": "V-EB08",
+  "CardName": "キング・テンタクル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：山札からドロップゾーンに置かれた時、【コスト】[【ソウルブラスト】(1)]することで、このカードを(R)にコールし、そのターン中、パワー＋10000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

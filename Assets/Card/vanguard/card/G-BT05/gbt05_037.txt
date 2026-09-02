@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_037",
+  "PackNo": "G-BT05",
+  "CardName": "フライング・ペリュトン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "キメラ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=奇術-【自】【Gブレイク】(1)：このユニットが(R)に登場した時、【ソウルチャージ】(1)し、ソウルから１枚まで選び、このユニットと同じ縦列の(R)にコールし、そのターンの終了時、この効果でコールしたユニットをソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

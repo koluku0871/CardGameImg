@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_336",
+  "PackNo": "DZ-TB02",
+  "CardName": "富田江",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのヴァンガードが「豊前江」を含むなら、そのバトル中、このユニットは『【自】：このユニットが(G)から退却した時、このカードをソウルに置く。』を得て、シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

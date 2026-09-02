@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd12_004",
+  "PackNo": "V-TD12",
+  "CardName": "赤誠の乙女マルリース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

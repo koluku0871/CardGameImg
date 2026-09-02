@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_055",
+  "PackNo": "V-BT01",
+  "CardName": "シューティング・ボビー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

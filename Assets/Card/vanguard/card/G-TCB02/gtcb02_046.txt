@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb02_046",
+  "PackNo": "G-TCB02",
+  "CardName": "墨染の忍鬼ミネツキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=影縫-【自】【(V)/(R)】：このユニットがヴァンガードにアタックしたバトルの終了時、そのアタックがヒットしていなかったら、他のあなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

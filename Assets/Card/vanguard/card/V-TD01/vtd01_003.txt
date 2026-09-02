@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd01_003",
+  "PackNo": "V-TD01",
+  "CardName": "沈黙の騎士ギャラティン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

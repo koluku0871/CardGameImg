@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss08_003",
+  "PackNo": "DZ-SS08",
+  "CardName": "羅上の伝説・エスタシオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン/舞羅主疾",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが「乱舞の伝説・エスタシオン」からライドして登場した時、あなたの山札から「翆嶺の群英・舞羅主疾」を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

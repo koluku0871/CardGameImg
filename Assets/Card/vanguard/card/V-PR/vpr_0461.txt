@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0461",
+  "PackNo": "V-PR",
+  "CardName": "忍獣シシレッソウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)/(G)】：このターンにいずれかのリアガードが３枚以上コールされているなら、このユニットのシールド＋5000し、あなたのヴァンガードがグレード３以上なら、さらにパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

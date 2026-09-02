@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0384",
+  "PackNo": "V-PR",
+  "CardName": "牙流戦機ヘルタイガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストされてアタックしたバトル終了時、「宇宙勇機」を含むあなたのヴァンガードがいるなら、【コスト】[【ソウルブラスト】(1)]することで、このユニットを【スタンド】する。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

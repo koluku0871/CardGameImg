@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd12_006",
+  "PackNo": "V-TD12",
+  "CardName": "萌芽の乙女ディアン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：登場時、【コスト】[手札を１枚捨てる]ことで、１枚引き、そのターン中、グレード３のあなたのヴァンガード１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

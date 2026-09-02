@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_034",
+  "PackNo": "V-EB09",
+  "CardName": "サベイジ・マーセナリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】：このカードはノーマルライドできない。【永】【(R)】：このユニットと同じ縦列に、武装ゲージを持つあなたのユニットがいないなら、このユニットはアタックできない。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "27000",
+  "Defense": "0"
+}

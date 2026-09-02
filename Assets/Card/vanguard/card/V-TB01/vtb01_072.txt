@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_072",
+  "PackNo": "V-TB01",
+  "CardName": "BRAVEJEWEL",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "楽曲/Roselia",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【自】【(R)】【ターン1回】：あなたの〈Roselia〉のアタックがヒットしなかった時、【コスト】[【カウンターブラスト】(1)]することで、相手のリアガードを１枚選び、退却させる。退却したら、あなたはそのユニットのグレードと同じ枚数引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

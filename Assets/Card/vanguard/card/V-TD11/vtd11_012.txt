@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd11_012",
+  "PackNo": "V-TD11",
+  "CardName": "ふろうがる",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

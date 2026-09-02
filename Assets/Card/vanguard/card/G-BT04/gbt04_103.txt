@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt04_103",
+  "PackNo": "G-BT04",
+  "CardName": "アッポー３姉妹",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットが【ブースト】した時、そのバトル中、あなたの(R)にいる他の「アッポー３姉妹」１枚につき、【ブースト】されたユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

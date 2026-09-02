@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0196",
+  "PackNo": "V-PR",
+  "CardName": "ウェーブフロー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのドライブチェックでノーマルユニットが出た時、【コスト】[このカードをソウルに置く]ことで、そのターン中、あなたのリアガード１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

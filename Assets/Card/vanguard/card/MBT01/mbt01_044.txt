@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbt01_044",
+  "PackNo": "MBT01",
+  "CardName": "煉獄の精霊クルダレゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サラマンダー",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

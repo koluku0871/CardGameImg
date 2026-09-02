@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_111",
+  "PackNo": "DZ-BT14",
+  "CardName": "瀬音の学徒ハルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト/幻影",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが「ゼーリス」を含むグレード３以上なら、このユニットのパワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

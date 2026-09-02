@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb03_059",
+  "PackNo": "G-CHB03",
+  "CardName": "七海亡者アウレリオ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゾンビ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_124",
+  "PackNo": "DZ-BT16",
+  "CardName": "バウンドフラッパーパピカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：グレード３以上のあなたのヴァンガードがアタックされた時、【コスト】[このユニットを山札の下に置く]ことで、あなたのドロップから守護者を持たない【引】を１枚選び、(G)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

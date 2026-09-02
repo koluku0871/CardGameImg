@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_092",
+  "PackNo": "V-TB01",
+  "CardName": "ツグってる！羽沢つぐみ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Afterglow",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】【ターン1回】：他の〈Afterglow〉の能力で【レスト】された時、このユニットを【スタンド】してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

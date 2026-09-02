@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss07_052",
+  "PackNo": "V-SS07",
+  "CardName": "ライトエレメンタルメキラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "エレメンタル",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_094",
+  "PackNo": "V-TB01",
+  "CardName": "天才少女氷川日菜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Pastel＊Palettes",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(R)/(G)】：あなたのソウルの〈Pastel＊Palettes〉のカード名が５種類以上なら、このユニットのパワー＋5000/シールド＋5000。【自】【(R)】：アタックした時、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップゾーンから〈Pastel＊Palettes〉を２枚まで選び、１枚まで手札に戻し、残りのカードをソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

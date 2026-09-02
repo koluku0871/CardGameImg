@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb02_061",
+  "PackNo": "G-CHB02",
+  "CardName": "イニグマン・スワール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：このユニットが超爆能力を持つユニットをブーストした時、そのバトル中、ブーストされたユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

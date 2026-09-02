@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_017",
+  "PackNo": "V-EB05",
+  "CardName": "玲瓏な眼差しルーエ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このターンにあなたのカードの能力であなたがカードを引いているなら、このユニットのパワー＋5000。（【引】も含む。ドライブチェックや「加える」では発動しない）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

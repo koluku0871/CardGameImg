@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss08_022",
+  "PackNo": "DZ-SS08",
+  "CardName": "願意の乙女アレハンドラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "TDR",
+  "Text": "effect=【永】：守護者【自】：このユニットが(G)に置かれた時、【コスト】[手札から１枚捨てる]ことで、あなたのユニットを１枚選び、そのバトル中、ヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "0"
+}

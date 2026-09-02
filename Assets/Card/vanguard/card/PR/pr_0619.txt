@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0619",
+  "PackNo": "PR",
+  "CardName": "戦巫女ククリヒメ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《ジェネシス》を１枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

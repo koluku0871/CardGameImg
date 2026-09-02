@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gld03_018",
+  "PackNo": "G-LD03",
+  "CardName": "まぁるがる",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "LD",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《ロイヤルパラディン》を１枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

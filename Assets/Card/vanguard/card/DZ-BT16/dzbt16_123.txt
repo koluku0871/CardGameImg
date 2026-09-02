@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_123",
+  "PackNo": "DZ-BT16",
+  "CardName": "なつき度UP↑↑ティメーテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ/幻影",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのヴァンガードが「星刻姫」を含むなら、あなたの山札から【クリティカル】を１枚まで探し、捨て、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

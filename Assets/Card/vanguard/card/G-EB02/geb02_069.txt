@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb02_069",
+  "PackNo": "G-EB02",
+  "CardName": "黒薔薇の銃士ヴェルネリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)：あなたの「銃士」を含むヴァンガードがいるなら、あなたの他の「銃士」を含むユニット１枚につき、このユニットのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

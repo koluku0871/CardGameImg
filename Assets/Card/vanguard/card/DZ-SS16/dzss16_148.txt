@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_148",
+  "PackNo": "DZ-SS16",
+  "CardName": "伝説の先導者先導アイチ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "LGTR",
+  "Text": "effect=【アイチアイコン】,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

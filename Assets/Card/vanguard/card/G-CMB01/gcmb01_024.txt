@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcmb01_024",
+  "PackNo": "G-CMB01",
+  "CardName": "略奪する根絶者ガノヱク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[【ソウルブラスト】(2)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

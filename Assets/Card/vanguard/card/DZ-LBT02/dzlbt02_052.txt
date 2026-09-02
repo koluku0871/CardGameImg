@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_052",
+  "PackNo": "DZ-LBT02",
+  "CardName": "SweetLinkerアウティーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=SweetLink－【永】：このカードと同名のあなたの他のソウルがあるなら、このカードはSweetLink状態になる。【自】：このユニットが、(R)に登場した時か、手札から(G)に置かれた時、あなたのドロップから「SweetLinker」を含むカードを１枚選び、ソウルに置いてよい。【永】【(R)/(G)】：このユニットがSweetLink状態なら、このユニットのパワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

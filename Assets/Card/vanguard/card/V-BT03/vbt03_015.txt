@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_015",
+  "PackNo": "V-BT03",
+  "CardName": "ドリーム・ペインター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：カードの能力で登場した時、あなたのドロップゾーンからグレード２以下を１枚、山札の下かソウルに置いてよい。山札に置いたら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

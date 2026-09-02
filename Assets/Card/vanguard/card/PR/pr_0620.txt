@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0620",
+  "PackNo": "PR",
+  "CardName": "魔竜導師ラクシャ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのメインフェイズ中、相手のリアガードが退却した時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "3000",
+  "Defense": "10000"
+}

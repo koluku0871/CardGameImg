@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_056",
+  "PackNo": "V-BT03",
+  "CardName": "セミルナー・メイガス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、山札を上から２枚見て、山札の上に望む順で置き、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

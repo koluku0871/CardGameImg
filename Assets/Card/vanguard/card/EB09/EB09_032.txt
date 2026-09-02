@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "EB09_032",
+  "PackNo": "EB09",
+  "CardName": "リザードソルジャーガンルー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

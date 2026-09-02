@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_026",
+  "PackNo": "G-BT01",
+  "CardName": "オブリゲイト・ロビン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[【カウンターブラスト】(2)]このユニットが(V)か(R)に登場した時、コストを払ってよい。払ったら、あなたの山札の上から２枚見て、１枚探し、手札に加え、残りのカードを山札の下に好きな順番で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

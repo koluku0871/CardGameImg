@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_234",
+  "PackNo": "DZ-SS16",
+  "CardName": "腹時計付きのギアラビット",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアビースト",
+  "Cost": "0",
+  "CardRarity": "SR",
+  "Text": "effect=【クロノアイコン】,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

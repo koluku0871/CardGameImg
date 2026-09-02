@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_047",
+  "PackNo": "V-EB01",
+  "CardName": "サタニック・ミドルガード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのグレード３がアタックされたバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

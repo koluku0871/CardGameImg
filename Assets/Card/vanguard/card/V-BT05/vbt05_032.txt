@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_032",
+  "PackNo": "V-BT05",
+  "CardName": "コンヴォイ・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたのターンにこのカードを手札から捨てた時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

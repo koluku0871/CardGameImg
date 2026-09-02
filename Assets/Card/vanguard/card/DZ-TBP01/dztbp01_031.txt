@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_031",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[昔からきみは]レイヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "RAISEASUILEN",
+  "Cost": "3",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(V)】：あなたのターン中、あなたは、オーダーを合計３回プレイでき、〈RAISEASUILEN〉以外のノーマルオーダーと、このターンにあなたがプレイした楽曲オーダーと同名の楽曲オーダーをプレイできない。【永】【(V)】：あなたの〈RAISEASUILEN〉の楽曲が(R)からドロップに置かれる際、かわりにバインドしてよい。【自】【(V)】：このユニットがアタックした時、【コスト】[【カウンターブラスト】(1)]することで、あなたのバインドゾーンの楽曲カード２枚につき、あなたの〈RAISEASUILEN〉のリアガードを１枚選ぶ。選ばれたユニットすべてを【スタンド】させる。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

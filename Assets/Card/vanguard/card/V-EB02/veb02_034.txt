@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_034",
+  "PackNo": "V-EB02",
+  "CardName": "ミラクル・ダンディー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのヴァンガードがグレード３以上なら、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

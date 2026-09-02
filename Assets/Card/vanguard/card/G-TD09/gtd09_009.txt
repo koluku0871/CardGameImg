@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd09_009",
+  "PackNo": "G-TD09",
+  "CardName": "クロノダッシュ・ペッカリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

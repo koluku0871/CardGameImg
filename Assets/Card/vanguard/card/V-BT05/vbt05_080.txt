@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_080",
+  "PackNo": "V-BT05",
+  "CardName": "蠱毒の抹消者セイオウボ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

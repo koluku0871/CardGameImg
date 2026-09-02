@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_068",
+  "PackNo": "G-BT10",
+  "CardName": "フルファイアエルク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)から退却した時、あなたの暴喰能力を持つユニットを１枚選び、そのユニットが暴喰状態でないなら、そのターン中、暴喰状態にしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_014",
+  "PackNo": "V-EB05",
+  "CardName": "ふんわり不可思議プルーネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：あなたのカードの能力であなたの山札がシャッフルされた時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

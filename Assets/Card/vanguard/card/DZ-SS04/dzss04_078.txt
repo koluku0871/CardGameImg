@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_078",
+  "PackNo": "DZ-SS04",
+  "CardName": "特「大」つくえで勉強中！",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "デカ杉デッカくん",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

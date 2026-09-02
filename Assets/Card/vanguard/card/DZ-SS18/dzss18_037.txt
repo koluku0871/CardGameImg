@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss18_037",
+  "PackNo": "DZ-SS18",
+  "CardName": "疾風ダッシュ",
+  "CardCategory": "必殺技",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/オフェンス",
+  "Cost": "2",
+  "CardRarity": "TDR",
+  "Text": "effect=使用条件－「風丸一郎太」を含むユニット【自】【必殺技ゾーン】：この必殺技が使われた時、アタックされているユニットを１枚選び、そのバトル中、パワー－5000。そのバトル中、相手はインターセプトできない。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

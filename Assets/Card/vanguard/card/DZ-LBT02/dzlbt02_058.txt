@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_058",
+  "PackNo": "DZ-LBT02",
+  "CardName": "もしかして照れてる?アラへイル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが、山札か手札から、(R)か(G)に置かれた時、あなたのドロップから「シアナ」を含むユニットカードを１枚まで選び、山札の下かソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

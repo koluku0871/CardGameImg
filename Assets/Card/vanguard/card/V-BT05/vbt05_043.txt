@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_043",
+  "PackNo": "V-BT05",
+  "CardName": "フィルドフェザー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(3)]することで、ユニットのいないあなたの(R)と同じ枚数引き、同じ枚数手札を(R)にコールする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

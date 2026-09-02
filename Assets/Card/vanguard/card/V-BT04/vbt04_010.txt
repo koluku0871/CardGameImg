@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_010",
+  "PackNo": "V-BT04",
+  "CardName": "欺く根絶者ギヴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：アタックしたバトル終了時、相手のヴァンガードがデリートされているなら、【コスト】[手札とリアガードを合計６枚ドロップゾーンに置く]ことで、あなたのヴァンガードを【スタンド】し、そのターン中、ドライブ－１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

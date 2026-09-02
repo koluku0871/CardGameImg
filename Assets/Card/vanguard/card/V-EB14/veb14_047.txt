@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_047",
+  "PackNo": "V-EB14",
+  "CardName": "スチームブレイカーナルマニハ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、【コスト】[手札からグレードが合計３以上になるように１枚以上、捨てる]ことで、そのターン中、このユニットのパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

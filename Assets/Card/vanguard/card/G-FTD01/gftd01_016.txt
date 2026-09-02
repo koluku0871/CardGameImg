@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gftd01_016",
+  "PackNo": "G-FTD01",
+  "CardName": "目利き鑑定人ドナリー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーム",
+  "Cost": "0",
+  "CardRarity": "FTD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

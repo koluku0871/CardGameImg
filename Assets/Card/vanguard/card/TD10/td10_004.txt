@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td10_004",
+  "PackNo": "TD10",
+  "CardName": "暗闇の撃退者ルゴス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

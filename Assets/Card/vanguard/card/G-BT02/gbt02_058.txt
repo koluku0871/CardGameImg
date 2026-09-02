@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_058",
+  "PackNo": "G-BT02",
+  "CardName": "愛の神カーマ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ノーブル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

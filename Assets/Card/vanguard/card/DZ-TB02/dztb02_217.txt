@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_217",
+  "PackNo": "DZ-TB02",
+  "CardName": "後藤藤四郎祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、あなたのドロップから「小判箱」を１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

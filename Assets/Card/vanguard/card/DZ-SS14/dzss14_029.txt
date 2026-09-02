@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss14_029",
+  "PackNo": "DZ-SS14",
+  "CardName": "ふろうがる",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（トリガーで出たら、あなたのユニットを１枚選び、そのターン中、クリティカル＋１！さらにあなたのユニットを１枚選び、そのターン中、パワー＋10000！）【アイチアイコン】,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

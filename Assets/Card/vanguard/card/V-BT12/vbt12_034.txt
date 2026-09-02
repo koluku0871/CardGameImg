@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt12_034",
+  "PackNo": "V-BT12",
+  "CardName": "バタリオンランス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：カードの能力で登場した時、【コスト】[手札を２枚捨てる]ことで、そのターン中、このユニットのパワー＋20000/クリティカル＋１。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

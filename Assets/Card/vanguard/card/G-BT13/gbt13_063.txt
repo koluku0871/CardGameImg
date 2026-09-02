@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt13_063",
+  "PackNo": "G-BT13",
+  "CardName": "ドクトロイド・ラドラス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ダメージゾーン】：[このカードを裏にする]あなたのユニットを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

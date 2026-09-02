@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0022",
+  "PackNo": "V-PR",
+  "CardName": "ういんがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：あなたのターン中、このユニットと同じ縦列にいるあなたの「ブラスター・ブレード」すべてのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

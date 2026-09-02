@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_018",
+  "PackNo": "V-BT02",
+  "CardName": "忍獣リーブスミラージュ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "RR",
+  "Text": "effect=【永】：守護者（守護者を持つカードは合計でデッキに４枚まで入れられる）【自】【(G)】：登場時、【コスト】[手札を１枚捨てる]ことで、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+10000,",
+  "Attack": "5000",
+  "Defense": "0"
+}

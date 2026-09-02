@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_081",
+  "PackNo": "DZ-LBT01",
+  "CardName": "星飾りの街ベルティン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが、アタックかブーストした時、相手のヴァンガードがグレード３以上で、このターンにあなたのユニットが４枚以上登場しているなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

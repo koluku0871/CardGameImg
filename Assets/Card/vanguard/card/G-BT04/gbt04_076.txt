@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt04_076",
+  "PackNo": "G-BT04",
+  "CardName": "クレイマー・ハリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：あなたのカードがソウルからドロップゾーンに置かれた時、そのカードを山札の下に置き、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

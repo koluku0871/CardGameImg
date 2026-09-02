@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_064",
+  "PackNo": "V-BT02",
+  "CardName": "艶笑のサキュバス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのソウルに「艶笑のサキュバス」があるなら、このユニットは、『ブースト』と『【永】【(R)】：このユニットは後列からインターセプトできる。』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

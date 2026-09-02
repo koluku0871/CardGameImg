@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss01_108",
+  "PackNo": "DZ-SS01",
+  "CardName": "TwoOfUsライム",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "Re",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、アタックしている相手のユニットが、このターン２回以上アタックしているなら、そのバトル中、このユニットのシールド＋15000。（このバトルを含めて２回以上アタックしているなら有効）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

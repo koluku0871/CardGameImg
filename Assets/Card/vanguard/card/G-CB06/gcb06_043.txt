@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb06_043",
+  "PackNo": "G-CB06",
+  "CardName": "星輝兵ロッシュウェーブ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーゴーレム",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

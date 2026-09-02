@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_133",
+  "PackNo": "DZ-LBT02",
+  "CardName": "WinterLiveCheckIt!",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【エネルギーチャージ】(3)。このターンにあなたがペルソナライドしているなら、【カウンターチャージ】(1)。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

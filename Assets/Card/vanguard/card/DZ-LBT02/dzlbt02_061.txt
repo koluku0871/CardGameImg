@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_061",
+  "PackNo": "DZ-LBT02",
+  "CardName": "初めての挑戦スフィーニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【エネルギーブラスト】(2)]することで、あなたの〈ドラゴロイド〉のユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

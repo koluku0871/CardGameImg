@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_090",
+  "PackNo": "G-BT14",
+  "CardName": "ヴェアヴォルフ・アングライファー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

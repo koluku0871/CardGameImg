@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_007",
+  "PackNo": "V-EB06",
+  "CardName": "サーベル・ドラゴニュート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(V)】：アタックがヒットした時、１枚引く。【自】【(R)】：あなたのターンに相手のリアガードが退却した時、【コスト】[このユニットを退却させる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

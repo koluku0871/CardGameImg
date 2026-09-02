@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_074",
+  "PackNo": "V-BT05",
+  "CardName": "ボルトキャプチャー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、相手は自分の後列のリアガードを１枚選び、ユニットのいない前列の(R)に移動させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

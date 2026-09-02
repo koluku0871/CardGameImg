@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss07_032",
+  "PackNo": "DZ-SS07",
+  "CardName": "エレキレイク・ドラコキッド",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

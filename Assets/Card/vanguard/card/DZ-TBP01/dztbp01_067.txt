@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_067",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[実行委員長のお仕事]戸山香澄",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Poppin'Party",
+  "Cost": "2",
+  "CardRarity": "R+",
+  "Text": "effect=【自】：このユニットが「[新しい空に向かって]戸山香澄」からライドして登場した時、あなたの山札を上から７枚見て、〈Poppin'Party〉を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

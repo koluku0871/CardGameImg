@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss05_040",
+  "PackNo": "V-SS05",
+  "CardName": "忍竜トガジュウジ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：グレード３のあなたのユニットがアタックした時、【コスト】[【カウンターブラスト】(1)，このユニットを退却させる]ことで、そのバトル中、相手は手札から守護者をコールできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_068",
+  "PackNo": "V-BT08",
+  "CardName": "超次元ロボダイローラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：グレード３のあなたの他のユニットが２枚以上なら、このユニットのパワー＋10000/シールド＋5000し、『インターセプト』を得る。（ガーディアンも含む）,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

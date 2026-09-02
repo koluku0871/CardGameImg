@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "fc01_023",
+  "PackNo": "FC01",
+  "CardName": "抹消者デモリッション・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「抹消者」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

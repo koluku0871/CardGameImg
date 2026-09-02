@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_045",
+  "PackNo": "G-BT10",
+  "CardName": "愛嬌の乙女ニコラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=開花-【自】【(R)/(G)】【Gブレイク】(1)：このユニットと同名の他のあなたのユニットが、(R)か(G)に登場した時、あなたの、(R)か(G)の「愛嬌の乙女ニコラ」を２枚まで選び、そのターン中、パワー＋4000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

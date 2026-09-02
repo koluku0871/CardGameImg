@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd08_015",
+  "PackNo": "G-TD08",
+  "CardName": "ゴージャス・シェイド",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_076",
+  "PackNo": "V-BT06",
+  "CardName": "銀の茨の獣使いシェイダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(G)】：登場時、【コスト】[このユニットをソウルに置く]ことで、「銀の茨」を含むあなたのソウルが４種類以上なら、そのバトル中、あなたのユニット１枚のパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

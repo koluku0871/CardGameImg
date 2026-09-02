@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_075",
+  "PackNo": "V-BT04",
+  "CardName": "ダイアフル・ノイズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヴァンガードにヒットした時、【コスト】[このユニットをソウルに置く]ことで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

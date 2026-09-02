@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd03_018",
+  "PackNo": "G-TD03",
+  "CardName": "フェアリーライト・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

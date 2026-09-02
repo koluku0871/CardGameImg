@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_071",
+  "PackNo": "V-EB03",
+  "CardName": "パンジーの銃士シルヴィア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "OR",
+  "Text": "effect=【自】【(V)/(R)】：登場時、プラント・トークンを１枚(R)にコールしてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

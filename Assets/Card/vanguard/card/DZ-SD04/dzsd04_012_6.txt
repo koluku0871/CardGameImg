@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd04_012_6",
+  "PackNo": "DZ-SD04",
+  "CardName": "影弓の射手リサーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

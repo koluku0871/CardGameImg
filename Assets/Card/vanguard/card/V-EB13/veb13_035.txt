@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_035",
+  "PackNo": "V-EB13",
+  "CardName": "ケアマイン・ナース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのダメージゾーンが５枚なら、このユニットは『ブースト』を得て、パワー＋20000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

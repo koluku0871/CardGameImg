@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_054",
+  "PackNo": "V-BT04",
+  "CardName": "隠密魔竜ダンゼツアナーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのヴァンガードと同名の、あなたのリアガードすべてのパワー＋5000。【自】【(R)】：山札から登場した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_072",
+  "PackNo": "V-BT10",
+  "CardName": "ディフェンシブ・イビルヘイター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのカードの能力で登場した時、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットのパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

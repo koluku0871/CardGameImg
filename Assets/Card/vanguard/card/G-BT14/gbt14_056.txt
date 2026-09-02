@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_056",
+  "PackNo": "G-BT14",
+  "CardName": "壮気の騎士リルディス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】勇敢（あなたの手札が３枚以下で有効）：[このユニットをソウルに置く]あなたの勇敢能力を持つユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

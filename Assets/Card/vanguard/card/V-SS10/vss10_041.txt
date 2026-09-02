@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss10_041",
+  "PackNo": "V-SS10",
+  "CardName": "獣神グランツ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたの他のユニットがアタックした時、「獣神」を含むグレード３のあなたのヴァンガードがいるなら、【コスト】[【ソウルブラスト】(1)]することで、このユニットを【スタンド】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

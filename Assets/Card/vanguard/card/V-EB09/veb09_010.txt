@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_010",
+  "PackNo": "V-EB09",
+  "CardName": "ターボスミロドン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：登場した時か、ヴァンガードにアタックした時、あなたのリアガード１枚に、山札を上から１枚武装ゲージとして裏で置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_051",
+  "PackNo": "V-EB13",
+  "CardName": "スチームエンジニアシュイリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンにこのカードを手札から捨てた時、このカードを(R)に【レスト】でコールしてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

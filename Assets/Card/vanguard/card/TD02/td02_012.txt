@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td02_012",
+  "PackNo": "TD02",
+  "CardName": "リザードランナーアンドゥー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

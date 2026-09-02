@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_137",
+  "PackNo": "DZ-BT13",
+  "CardName": "稀代の魔法師ベルクレア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「ベルクレア」を含むグレード３にライドされた時、あなたの山札を上から７枚見て、２枚まで選び、捨て、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

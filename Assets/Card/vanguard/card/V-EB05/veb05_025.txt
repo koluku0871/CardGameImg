@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_025",
+  "PackNo": "V-EB05",
+  "CardName": "英明才女スピアナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：登場時、あなたのドロップゾーンから、あなたの、(V)か(R)にいるグレード３と同名のカードを１枚山札に戻してよい。戻したら、山札をシャッフルし、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

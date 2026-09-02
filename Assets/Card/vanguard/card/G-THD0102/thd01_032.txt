@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_032",
+  "PackNo": "G-THD0102",
+  "CardName": "鳴狐-花丸-",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(1)]このユニットのアタックがヴァンガードにヒットした時、コストを払ってよい。払ったら、あなたの山札から「一期一振」を含むカードを１枚まで探し、公開し、手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

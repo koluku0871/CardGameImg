@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss03_013",
+  "PackNo": "V-SS03",
+  "CardName": "厳格なる撃退者",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "SD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

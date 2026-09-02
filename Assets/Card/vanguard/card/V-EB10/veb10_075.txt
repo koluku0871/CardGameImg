@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_075",
+  "PackNo": "V-EB10",
+  "CardName": "プラント",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/プラント",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=（これは特別な能力によってコールされる強化後のプラント・トークンを表すカードであり、デッキには入れられない。ブーストとインターセプトを両方持つ）,critical=クリティカル1,skill=ブースト/インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_046",
+  "PackNo": "V-BT07",
+  "CardName": "刻印の守護天使アラバキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：手札から登場した時、【コスト】[手札を１枚捨てる]ことで、あなたのダメージゾーンから１枚手札に加え、山札を上から１枚ダメージゾーンに裏で置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

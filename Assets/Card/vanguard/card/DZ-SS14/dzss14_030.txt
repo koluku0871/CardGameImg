@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss14_030",
+  "PackNo": "DZ-SS14",
+  "CardName": "ふろうがる",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=【アイチアイコン】,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

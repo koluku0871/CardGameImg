@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vgm_0037",
+  "PackNo": "V-GM",
+  "CardName": "イマジナリーギフトフォース",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "-",
+  "Text": "effect=獲得時、このマーカーを(V)か(R)に置き、あなたのターン中、このサークルにいるユニットのパワー＋10000！（同じサークルにも置ける。パワーも重複する）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

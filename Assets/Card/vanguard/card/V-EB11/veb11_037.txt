@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_037",
+  "PackNo": "V-EB11",
+  "CardName": "託される願いメトレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックしたバトル終了時、【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、１枚引き、そのターン中、あなたのユニット１枚のパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_088",
+  "PackNo": "G-BT03",
+  "CardName": "アステロイド・ウルフ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

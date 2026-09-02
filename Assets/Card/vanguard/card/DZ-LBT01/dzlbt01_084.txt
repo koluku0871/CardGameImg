@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_084",
+  "PackNo": "DZ-LBT01",
+  "CardName": "もしもの話ニーシア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【ソウル】：「LèVre♡SœurS」を含むあなたのヴァンガードがアタックされた時、【コスト】[このカードと別名のカードを【ソウルブラスト】(3)]することで、このカードを(G)にコールし、そのバトル中、シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

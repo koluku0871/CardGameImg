@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0624",
+  "PackNo": "PR",
+  "CardName": "毒心のジン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《なるかみ》を１枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

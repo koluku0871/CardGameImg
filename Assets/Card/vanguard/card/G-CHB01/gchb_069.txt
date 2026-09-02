@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_069",
+  "PackNo": "G-CHB01",
+  "CardName": "竜胆の銃士アンテロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(1)]このユニットのアタックがヒットした時、このユニットと同名の他のあなたのリアガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

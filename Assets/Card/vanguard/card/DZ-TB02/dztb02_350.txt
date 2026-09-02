@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_350",
+  "PackNo": "DZ-TB02",
+  "CardName": "小判箱",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】：「小判箱」はデッキに８枚まで入れられる。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

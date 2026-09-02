@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0424",
+  "PackNo": "V-PR",
+  "CardName": "ナイトメアドールとすか",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：手札から登場した時、あなたの山札を上から５枚見て、〈ワーカロイド〉を１枚までソウルに置き、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

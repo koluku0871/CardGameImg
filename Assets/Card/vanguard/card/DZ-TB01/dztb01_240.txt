@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_240",
+  "PackNo": "DZ-TB01",
+  "CardName": "オレ分身の術！アスモダイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "72柱",
+  "Cost": "1",
+  "CardRarity": "KR",
+  "Text": "effect=〈マジックワールド〉【起】【(R)】：【コスト】[このユニットを退却させる]ことで、あなたのドロップからこのカードと別名の、あなたのヴァンガードのグレード以下の「アスモダイ」を含むカードを１枚選び、(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

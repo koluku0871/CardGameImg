@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_038",
+  "PackNo": "G-CHB01",
+  "CardName": "メイデン・オブ・フラワーピストル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】【Gブレイク】(1)：他のあなたのユニットが(R)に登場した時、そのターン中、このユニットをそのユニットの同名カードとしても扱う。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

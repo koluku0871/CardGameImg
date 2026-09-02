@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vmb01_035",
+  "PackNo": "V-MB01",
+  "CardName": "盾の化身ラーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

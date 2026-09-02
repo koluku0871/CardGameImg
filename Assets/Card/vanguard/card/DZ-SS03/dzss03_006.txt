@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss03_006",
+  "PackNo": "DZ-SS03",
+  "CardName": "死せざる死者グルナッシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

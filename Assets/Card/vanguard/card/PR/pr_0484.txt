@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0484",
+  "PackNo": "PR",
+  "CardName": "船大工のまいく",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "スケルトン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】：「船大工のまいく」はデッキに16枚まで入れることができる。【起】【(V)/(R)】：[他のあなたの(R)の「船大工のまいく」を１枚選び、ソウルに置く]そのターン中、このユニットのパワーを増やす。増やすパワーは、このユニットのパワーである。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

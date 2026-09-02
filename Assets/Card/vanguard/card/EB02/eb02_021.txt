@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb02_021",
+  "PackNo": "EB02",
+  "CardName": "マーメイドアイドルセドナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

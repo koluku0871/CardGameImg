@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd04_015",
+  "PackNo": "V-TD04",
+  "CardName": "アビス・ヒーラー",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（【治】を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

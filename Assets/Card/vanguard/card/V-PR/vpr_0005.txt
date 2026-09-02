@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0005",
+  "PackNo": "V-PR",
+  "CardName": "リザードソルジャーラオピア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：あなたのターンに相手のリアガードが退却した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

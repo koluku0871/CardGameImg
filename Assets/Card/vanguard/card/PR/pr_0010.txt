@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0010",
+  "PackNo": "PR",
+  "CardName": "アルフレッド・アーリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(V)に登場した時、あなたのソウルから「ブラスター・ブレード」を1枚まで選び、(R)にコールする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

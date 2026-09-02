@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd01_009",
+  "PackNo": "G-TD01",
+  "CardName": "メーザーギア・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

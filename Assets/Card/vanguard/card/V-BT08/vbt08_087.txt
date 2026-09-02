@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_087",
+  "PackNo": "V-BT08",
+  "CardName": "震脚のパルスモンク",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

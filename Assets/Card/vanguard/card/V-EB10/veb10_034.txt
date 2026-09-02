@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_034",
+  "PackNo": "V-EB10",
+  "CardName": "ろーんがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】：このカードはライドできない。（スペリオルライドもできない）,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "24000",
+  "Defense": "0"
+}

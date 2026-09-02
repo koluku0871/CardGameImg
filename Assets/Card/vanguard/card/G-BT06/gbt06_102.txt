@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_102",
+  "PackNo": "G-BT06",
+  "CardName": "ツッケン・ドーン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_119",
+  "PackNo": "DZ-BT13",
+  "CardName": "念炎の魔道士エルクウィル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズに「魔宝竜」か「魔石竜」を含む、あなたのユニットが【スタンド】した時、【コスト】[このユニットをソウルに置く]ことで、そのターン中、そのユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

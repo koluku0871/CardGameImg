@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss17_039",
+  "PackNo": "DZ-SS17",
+  "CardName": "ラウンドスパーク",
+  "CardCategory": "必殺技",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/オフェンス",
+  "Cost": "2",
+  "CardRarity": "TDR",
+  "Text": "effect=使用条件－「柳生駿河」を含むユニット【自】【必殺技ゾーン】：この必殺技が使われた時、相手の前列のアタックされていないリアガードを１枚選び、退却させる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

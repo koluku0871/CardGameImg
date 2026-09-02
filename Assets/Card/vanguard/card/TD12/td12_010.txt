@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td12_010",
+  "PackNo": "TD12",
+  "CardName": "次元ロボダイタイガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「次元ロボ」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_071",
+  "PackNo": "V-BT10",
+  "CardName": "アサルティング・ババリアス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのサークルのフォース・マーカー１つにつき、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

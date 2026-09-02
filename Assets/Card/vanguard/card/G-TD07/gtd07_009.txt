@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd07_009",
+  "PackNo": "G-TD07",
+  "CardName": "奇跡の業師ランス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

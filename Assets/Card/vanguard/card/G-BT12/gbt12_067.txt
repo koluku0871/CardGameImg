@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt12_067",
+  "PackNo": "G-BT12",
+  "CardName": "竜刻魔道士イーニッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)：あなたのターン中、あなたのカードの、効果かコストで、このユニットが(R)から退却した時、あなたのユニットを２枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

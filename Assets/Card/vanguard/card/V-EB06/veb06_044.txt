@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_044",
+  "PackNo": "V-EB06",
+  "CardName": "震脚のパルスモンク",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

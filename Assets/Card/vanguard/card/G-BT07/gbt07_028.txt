@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt07_028",
+  "PackNo": "G-BT07",
+  "CardName": "ナース・オブ・スマッシュハート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】【ターン1回】：[【ソウルブラスト】(1)]あなたのカードがダメージゾーンからドロップゾーンに置かれた時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

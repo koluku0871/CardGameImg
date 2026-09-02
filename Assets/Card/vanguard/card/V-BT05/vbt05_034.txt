@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_034",
+  "PackNo": "V-BT05",
+  "CardName": "ディバイナー・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたのターンにこのカードを手札から捨てた時、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

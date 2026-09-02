@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0084",
+  "PackNo": "PR",
+  "CardName": "電星合体コスモグレート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：[【カウンターブラスト】(2)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、他のあなたの《ディメンジョンポリス》を１枚選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

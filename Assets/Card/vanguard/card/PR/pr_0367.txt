@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0367",
+  "PackNo": "PR",
+  "CardName": "ティックアウェイ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：あなたの時翔能力の効果で、他のあなたのユニットが(R)に登場した時、ドロップゾーンから１枚まで選び、山札の下に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

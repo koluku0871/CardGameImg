@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_080",
+  "PackNo": "V-BT09",
+  "CardName": "ミラーロード・サーマウンター",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

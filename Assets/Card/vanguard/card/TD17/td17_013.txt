@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td17_013",
+  "PackNo": "TD17",
+  "CardName": "空隙の星輝兵クオンタム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【自】【(R)】：このユニットが【ブースト】した時、相手の呪縛カードが２枚以上なら、そのバトル中、【ブースト】されたユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

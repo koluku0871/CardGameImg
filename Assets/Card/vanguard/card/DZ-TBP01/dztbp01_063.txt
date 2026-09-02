@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_063",
+  "PackNo": "DZ-TBP01",
+  "CardName": "‘FIGHT’ADDICT",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "楽曲/RAISEASUILEN",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【永】【(R)】：あなたは中央後列の(R)にユニットカードを置けない。【自】：このカードが(R)に置かれた時、あなたの山札を上から５枚見て、〈RAISEASUILEN〉を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

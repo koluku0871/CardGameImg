@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_008",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[叫]上原ひまり",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Afterglow",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：このユニットが右前列の(R)に登場した時、【コスト】[【カウンターブラスト】(1)]することで、あなたの山札を上から７枚見て、〈Afterglow〉を１枚まで選び、公開して手札に加え、山札をシャッフルする。あなたのヴァンガードが「美竹蘭」を含むグレード３以上なら、そのターン中、このユニットのパワー＋5000し、「上原ひまり」を含むカードを公開したなら、さらにクリティカル＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

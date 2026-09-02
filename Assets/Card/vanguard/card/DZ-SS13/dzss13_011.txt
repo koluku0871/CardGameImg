@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss13_011",
+  "PackNo": "DZ-SS13",
+  "CardName": "双瞬の剣士イスティア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【後列の(R)】：このユニットと同じ縦列のあなたのリアガードが、「リィエル」を含むグレード３以上のあなたのヴァンガードの能力でバインドされた時、このユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

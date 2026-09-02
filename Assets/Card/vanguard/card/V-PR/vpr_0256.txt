@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0256",
+  "PackNo": "V-PR",
+  "CardName": "スタンプ・ラッコ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：このユニットはカードの効果で退却しない。（このユニットを選ぶことはできる）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

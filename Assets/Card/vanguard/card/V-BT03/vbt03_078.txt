@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_078",
+  "PackNo": "V-BT03",
+  "CardName": "フルグレイトフォイル・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

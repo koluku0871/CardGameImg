@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_045",
+  "PackNo": "V-BT02",
+  "CardName": "破戒の魔道士アイレヴ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのリアガードが５枚なら、このユニットはアタックされない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

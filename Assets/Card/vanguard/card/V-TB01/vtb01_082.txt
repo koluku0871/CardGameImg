@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_082",
+  "PackNo": "V-TB01",
+  "CardName": "R·I·O·T",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "楽曲/RAISEASUILEN",
+  "Cost": "1",
+  "CardRarity": "SCR",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【自】【(R)】：登場時、あなたの山札を上から２枚公開し、その中の〈RAISEASUILEN〉をすべて手札に加え、残りを山札の下に望む順で置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

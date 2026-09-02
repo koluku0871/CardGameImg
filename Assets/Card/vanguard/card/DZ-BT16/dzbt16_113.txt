@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_113",
+  "PackNo": "DZ-BT16",
+  "CardName": "征標艦隊アンシュテーア・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン/幻影",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このカードが、手札から捨てられた時か(G)から退却した時、あなたのヴァンガードが「征標艦隊」を含むなら、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

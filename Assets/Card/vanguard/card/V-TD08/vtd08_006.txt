@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd08_006",
+  "PackNo": "V-TD08",
+  "CardName": "無邪気な博愛ラーティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：登場時、そのターン中、あなたの他のユニット１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

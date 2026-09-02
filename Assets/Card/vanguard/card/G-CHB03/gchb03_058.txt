@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb03_058",
+  "PackNo": "G-CHB03",
+  "CardName": "七海不死竜スカベンジ・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "スケルトン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd07_006",
+  "PackNo": "V-TD07",
+  "CardName": "醗酵する根絶者ガヰアン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックしたバトル終了時、【コスト】[このユニットを退却させ，手札を１枚捨てる]ことで、１枚引き、グレード１以下の相手のリアガードを１枚選び、裏でバインドする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

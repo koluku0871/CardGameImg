@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_097",
+  "PackNo": "DZ-LBT01",
+  "CardName": "お祭りが始まる前に!",
+  "CardCategory": "ブリッツオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！アタックされているあなたのユニットを１枚選び、ユニットのいないあなたの(R)１つにつき、そのバトル中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

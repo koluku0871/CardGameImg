@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbt01_019",
+  "PackNo": "MBT01",
+  "CardName": "極微の星輝兵マヨロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【起】【(R)】：[このユニットを【レスト】する]あなたのヴァンガードが【双闘】しているなら、あなたの(V)にいる「星輝兵ブラスター・ジョーカー」を１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

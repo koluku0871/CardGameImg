@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_080",
+  "PackNo": "G-BT06",
+  "CardName": "ドリーミング・ペガサス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)：このユニットが(R)に登場した時、山札の上から３枚見て、１枚探し、ソウルに置き、残りを山札の下に好きな順番で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

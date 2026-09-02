@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_337",
+  "PackNo": "DZ-BT15",
+  "CardName": "ムラクモトラップ",
+  "CardCategory": "トリガーオーダー",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/ディフェンス",
+  "Cost": "0",
+  "CardRarity": "IZR",
+  "Text": "effect=【永】：相手ターンのガードステップ中、このカードはトリガーユニットとして(G)にコールでき、グレード０/シールド15000のガーディアンになる。,critical=クリティカル-,skill=-,gift=フロントトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "0"
+}

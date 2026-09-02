@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0172",
+  "PackNo": "V-PR",
+  "CardName": "バトルシスターせむら",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：あなたのヴァンガードのアタックがヒットした時、そのターン中、あなたのユニット１枚のパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

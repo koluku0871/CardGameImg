@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0475",
+  "PackNo": "PR",
+  "CardName": "月下美人の銃士ダニエル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

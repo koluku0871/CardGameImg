@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_036",
+  "PackNo": "V-EB03",
+  "CardName": "千億の刺針ヌーカエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックした時、あなたのダメージゾーンが３枚以上なら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

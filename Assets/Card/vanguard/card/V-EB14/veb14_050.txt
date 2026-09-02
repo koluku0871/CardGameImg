@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_050",
+  "PackNo": "V-EB14",
+  "CardName": "スチームコックシャウシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、【コスト】[手札を１枚捨てる]ことで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

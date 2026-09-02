@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0703",
+  "PackNo": "PR",
+  "CardName": "インブリウム・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)：あなたのターン中、相手のリアガードがいないなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

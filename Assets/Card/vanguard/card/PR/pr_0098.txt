@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0098",
+  "PackNo": "PR",
+  "CardName": "忍妖ガシャドクロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(V)】：[あなたの《むらくも》のリアガードを1枚選び、【レスト】する]あなたの《むらくも》のリアガードを１枚選び、山札の下に置き、そのユニットと同名のユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

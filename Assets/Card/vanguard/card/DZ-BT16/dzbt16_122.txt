@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_122",
+  "PackNo": "DZ-BT16",
+  "CardName": "ToMyDearestSシェルリィタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズにこのユニットと同じ縦列にあなたの他のユニットが登場した時、【コスト】[【エネルギーブラスト】(3)，このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

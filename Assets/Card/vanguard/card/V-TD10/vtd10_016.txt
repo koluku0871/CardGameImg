@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd10_016",
+  "PackNo": "V-TD10",
+  "CardName": "パワーライズ・エリクサー",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【コスト】[【カウンターブラスト】(2)]そのターン中、あなたのユニット１枚のパワー＋20000。（このカードはすべてのクランのカードとして扱う）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_082",
+  "PackNo": "DZ-TB03",
+  "CardName": "戦国学園のてっぺん荒神ロウガ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "バディファイター/ディザスター",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=〈デンジャーワールド〉【起】【(V)】【ターン1回】：【コスト】[手札から１枚ソウルに置き、ライドデッキから「ロウガ」を含むグレード３を１枚公開する]ことで、２枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

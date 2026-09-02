@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb11_020",
+  "PackNo": "EB11",
+  "CardName": "暗黒魔道士バイヴ･カー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(V)か(R)に登場した時、あなたの山札の上を公開する。そのカードが《シャドウパラディン》なら、そのカードを(R)にコールし、違うなら、その山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

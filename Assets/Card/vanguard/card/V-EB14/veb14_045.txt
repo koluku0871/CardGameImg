@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_045",
+  "PackNo": "V-EB14",
+  "CardName": "スチームエンジニアイムタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックがヒットした時、【コスト】[このユニットをバインドする]ことで、１枚引き、あなたの手札を１枚バインドする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

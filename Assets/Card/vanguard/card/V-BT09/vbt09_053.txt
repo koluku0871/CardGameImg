@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_053",
+  "PackNo": "V-BT09",
+  "CardName": "不触の忍鬼クニナガ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットと同名のあなたの他のユニットがいるなら、このユニットは相手のカードの能力で選ばれず、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

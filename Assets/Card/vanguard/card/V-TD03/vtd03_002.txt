@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd03_002",
+  "PackNo": "V-TD03",
+  "CardName": "荒波の水将ゴンディカス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：ブーストされないでヴァンガードにアタックした時、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、イマジナリーギフト：アクセル,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

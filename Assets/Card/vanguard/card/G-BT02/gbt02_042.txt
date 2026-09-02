@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_042",
+  "PackNo": "G-BT02",
+  "CardName": "仮初めの騎士メアホープ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：[このユニットを山札の上に置く]あなたの山札から「仮初めの騎士メアドリーム」を１枚まで探し、(R)にコールし、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

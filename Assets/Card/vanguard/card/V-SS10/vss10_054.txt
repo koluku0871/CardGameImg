@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss10_054",
+  "PackNo": "V-SS10",
+  "CardName": "指揮官ゲイリー・ギャノン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヴァンガードにヒットした時、【コスト】[このユニットをソウルに置く]ことで、２枚引き、あなたの手札を１枚山札の下に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd05_007_10",
+  "PackNo": "DZ-SD05",
+  "CardName": "潜伏の射手シャザール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

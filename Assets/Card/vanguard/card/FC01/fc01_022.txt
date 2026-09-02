@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "fc01_022",
+  "PackNo": "FC01",
+  "CardName": "レッドリバー・ドラグーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

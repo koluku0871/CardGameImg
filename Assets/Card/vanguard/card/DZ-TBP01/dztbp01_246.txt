@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_246",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[フォーリン→ワンダー]倉田ましろ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Morfonica",
+  "Cost": "3",
+  "CardRarity": "GPR+",
+  "Text": "effect=【永】【(V)】：あなたの前列の(R)の〈Morfonica〉すべてのパワー＋5000。あなたの後列の(R)の〈Morfonica〉すべては『インターセプト』を得て、後列からでもインターセプトできる。【自】【(V)】：あなたの〈Morfonica〉が後列からインターセプトした時、そのバトル中、そのユニットのシールド＋5000。【起】【(V)】：このターンにあなたがオーダーをプレイしていないなら、【コスト】[【カウンターブラスト】(1)]することで、あなたの、山札かドロップから〈Morfonica〉の楽曲を１枚まで探してプレイし、山札から探したなら、山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

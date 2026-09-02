@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0195",
+  "PackNo": "V-PR",
+  "CardName": "お化けのでれく",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【ドロップゾーン】：【コスト】[このカードをバインドする]ことで、あなたのドロップゾーンからノーマルユニットを１枚山札の下に置き、山札を上から２枚ドロップゾーンに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

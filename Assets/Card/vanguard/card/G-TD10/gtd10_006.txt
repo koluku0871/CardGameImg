@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd10_006",
+  "PackNo": "G-TD10",
+  "CardName": "統率の梟匠デビヒラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：[あなたの手札から１枚選び、捨てる]このユニットが(R)に登場した時、あなたのリアガードの枚数が相手のリアガードの枚数以上なら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

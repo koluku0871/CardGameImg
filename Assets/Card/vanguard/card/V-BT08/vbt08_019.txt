@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_019",
+  "PackNo": "V-BT08",
+  "CardName": "神剣クサナギ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "0",
+  "CardRarity": "RR",
+  "Text": "effect=【永】：守護者（守護者を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "30000"
+}

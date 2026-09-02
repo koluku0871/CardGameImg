@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0057",
+  "PackNo": "PR",
+  "CardName": "ブライトランス・ドラグーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：他のあなたの《なるかみ》がこのユニットと同じ縦列にいないなら、このユニットのパワー－2000。【起】【(V)/(R)】：[【カウンターブラスト】(1)]そのターン中、このユニットのパワー＋1000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

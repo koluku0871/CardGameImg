@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_349",
+  "PackNo": "DZ-TB02",
+  "CardName": "手伝い札",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】：「手伝い札」と「抜丸」はデッキに合計４枚まで入れられる。【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

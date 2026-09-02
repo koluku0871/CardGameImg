@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss09_021",
+  "PackNo": "DZ-SS09",
+  "CardName": "プラント",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/プラント",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（これはプラント・トークンを表すカードであり、デッキには入れられない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "0"
+}

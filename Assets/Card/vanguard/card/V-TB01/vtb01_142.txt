@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_142",
+  "PackNo": "V-TB01",
+  "CardName": "“最強の音楽”チュチュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "RAISEASUILEN",
+  "Cost": "1",
+  "CardRarity": "SSR",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズ開始時、そのターン中、あなたの、(V)と(R)のパワー30000以上の〈RAISEASUILEN〉すべての元々のクリティカルを２にする。【起】【(V)/(R)】：【コスト】[このユニットを【レスト】する]ことで、あなたの山札を上から５枚見て、〈RAISEASUILEN〉の楽曲を２枚まで公開し、手札に加え、残りを山札の下に望む順で置く。この能力は同名カードを含めて各ターン１回まで使える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

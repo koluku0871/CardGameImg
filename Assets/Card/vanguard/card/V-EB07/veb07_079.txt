@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_079",
+  "PackNo": "V-EB07",
+  "CardName": "幻焔",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "",
+  "CardSubType": "トークンユニット/幻焔",
+  "Cost": "3",
+  "CardRarity": "-",
+  "Text": "effect=（これは幻焔・トークンを表すカードであり、デッキには入れられない）【永】【(R)】：アタックしたバトルでは、ドライブチェックを行う。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

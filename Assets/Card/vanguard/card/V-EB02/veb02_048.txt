@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_048",
+  "PackNo": "V-EB02",
+  "CardName": "お化けののーまん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを退却させる，山札を上から２枚ドロップゾーンに置く]そのターン中、あなたの他のユニット１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

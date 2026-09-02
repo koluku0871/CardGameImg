@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd02_002_3",
+  "PackNo": "DZ-SD02",
+  "CardName": "スチームトリマーネブカドル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

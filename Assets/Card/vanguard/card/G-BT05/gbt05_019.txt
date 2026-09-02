@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_019",
+  "PackNo": "G-BT05",
+  "CardName": "ダークサイド・プリンセス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、そのバトル中、このユニットのパワー＋5000してよい。パワー＋5000したら、そのバトルの終了時、このユニットをソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

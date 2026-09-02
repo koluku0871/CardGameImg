@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_062",
+  "PackNo": "V-BT03",
+  "CardName": "逆撃の騎士ディゲイラス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：登場したターン以外なら、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

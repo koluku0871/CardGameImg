@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_030",
+  "PackNo": "G-THD0102",
+  "CardName": "御手杵-花丸-",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-槍",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(R)】：このユニットがアタックしたバトル中、相手のユニットすべてはインターセプトできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

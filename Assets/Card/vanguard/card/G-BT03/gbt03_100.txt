@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_100",
+  "PackNo": "G-BT03",
+  "CardName": "ヴェアティーゲル・ファナティカー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

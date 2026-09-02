@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad03_011",
+  "PackNo": "KAD03",
+  "CardName": "キング・オブ・ソード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

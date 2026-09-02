@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_057",
+  "PackNo": "V-BT05",
+  "CardName": "ペンネ・メイガス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのドライブチェックでトリガーユニットが出た時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

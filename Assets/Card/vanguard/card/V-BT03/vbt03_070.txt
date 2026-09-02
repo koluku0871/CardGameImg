@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_070",
+  "PackNo": "V-BT03",
+  "CardName": "恫喝の忍鬼キリハゲ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

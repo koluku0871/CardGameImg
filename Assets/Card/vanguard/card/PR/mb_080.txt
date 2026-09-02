@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_080",
+  "PackNo": "PR",
+  "CardName": "フリースタイル・ライダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：抵抗（相手のカードの効果で選ばれない）【永】【(V)/(R)】：あなたのターン中、あなたの他の、連波能力か『抵抗』を持つユニット１枚につき、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

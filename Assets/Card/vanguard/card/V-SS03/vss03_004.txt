@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss03_004",
+  "PackNo": "V-SS03",
+  "CardName": "撃砕の騎士ダマン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "SD",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックした時、あなたのリアガードが相手より多いなら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

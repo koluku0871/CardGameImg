@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_093",
+  "PackNo": "V-TB01",
+  "CardName": "積み重ねた想い丸山彩",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Pastel＊Palettes",
+  "Cost": "3",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(V)】：あなたのターン中、あなたのソウルの〈Pastel＊Palettes〉のカード名が５種類以上なら、あなたの、(V)と(R)の〈Pastel＊Palettes〉すべてのパワー＋5000。８種類以上なら、＋5000のかわりに＋10000。【起】【(V)】：このターンにオーダーがプレイされていないなら、【コスト】[【カウンターブラスト】(1)]することで、あなたの、山札かドロップゾーンから〈Pastel＊Palettes〉の楽曲を１枚まで探してプレイし、山札から探したら、山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

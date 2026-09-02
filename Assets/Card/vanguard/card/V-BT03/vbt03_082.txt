@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_082",
+  "PackNo": "V-BT03",
+  "CardName": "エレキチェイス・ドラコキッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヒットした時、【コスト】[このユニットを退却させる]ことで、相手の前列にいるリアガードを１枚選び、バインドする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

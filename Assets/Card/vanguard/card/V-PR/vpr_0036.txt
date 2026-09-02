@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0036",
+  "PackNo": "V-PR",
+  "CardName": "クイーン・オブ・ハート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【ターン1回】：相手の(G)に守護者が登場した時、このユニットを【スタンド】してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

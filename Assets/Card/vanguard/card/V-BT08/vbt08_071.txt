@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_071",
+  "PackNo": "V-BT08",
+  "CardName": "次元ロボゴーバイカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[このユニットを【レスト】する]ことで、そのターン中、あなたのヴァンガード１枚のパワー＋10000。あなたのヴァンガードがグレード３なら、このユニットを【スタンド】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

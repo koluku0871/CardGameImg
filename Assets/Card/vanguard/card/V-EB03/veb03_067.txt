@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_067",
+  "PackNo": "V-EB03",
+  "CardName": "プラント",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/プラント",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=（これはプラント・トークンを表すカードであり、デッキには入れられない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "0"
+}

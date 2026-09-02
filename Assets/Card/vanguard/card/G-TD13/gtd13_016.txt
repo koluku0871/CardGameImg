@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd13_016",
+  "PackNo": "G-TD13",
+  "CardName": "忍妖カクレガマ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

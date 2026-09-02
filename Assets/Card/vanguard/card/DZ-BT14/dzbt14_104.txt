@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_104",
+  "PackNo": "DZ-BT14",
+  "CardName": "Bel-Fioreノーセ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのドロップからこのカードと別名の「Bel-Fiore」を含むカードを２枚まで選び、あなたの庭園にエンゲージする。【自】【(R)】：このユニットが「Bel-Fiore」を含むグレード３以上をブーストした時、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

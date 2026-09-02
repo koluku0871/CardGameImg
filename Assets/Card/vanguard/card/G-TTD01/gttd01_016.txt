@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gttd01_016",
+  "PackNo": "G-TTD01",
+  "CardName": "五虎退",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（【治】はデッキに４枚までしか入れることができない）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

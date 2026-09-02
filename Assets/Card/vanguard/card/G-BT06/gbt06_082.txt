@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_082",
+  "PackNo": "G-BT06",
+  "CardName": "銀の茨のお手伝いディクシー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットを山札の上に置く]あなたの「ルキエ」を含むヴァンガードがいるなら、ソウルから「銀の茨」を含むカードを１枚まで選び、(R)にコールする。山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

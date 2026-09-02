@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss15_034",
+  "PackNo": "DZ-SS15",
+  "CardName": "ドラゴンモンクゲンジョウ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=【櫂アイコン】,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

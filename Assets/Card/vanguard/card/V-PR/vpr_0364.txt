@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0364",
+  "PackNo": "V-PR",
+  "CardName": "ヘリトミュー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのグレード３以上のヴァンガードが、グレード３からライドして登場した時、【コスト】[【ソウルブラスト】(1)、このユニットを退却させる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

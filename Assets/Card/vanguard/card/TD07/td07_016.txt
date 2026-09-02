@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td07_016",
+  "PackNo": "TD07",
+  "CardName": "輝石通信のラッコ兵",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

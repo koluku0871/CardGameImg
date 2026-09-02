@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_022",
+  "PackNo": "DZ-SS04",
+  "CardName": "伝説の主人公・集結！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=あなたの山札を上から５枚見て、《コロコロ》を１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

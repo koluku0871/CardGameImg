@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd06_004_1",
+  "PackNo": "DZ-SD06",
+  "CardName": "ワンダーラベンダーユルシュール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

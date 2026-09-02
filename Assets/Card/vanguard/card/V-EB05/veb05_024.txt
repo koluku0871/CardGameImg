@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_024",
+  "PackNo": "V-EB05",
+  "CardName": "あまあま幼君ラヴール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：アタックかブーストした時、このターンに相手が合計２枚以上ガーディアンをコールしているなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

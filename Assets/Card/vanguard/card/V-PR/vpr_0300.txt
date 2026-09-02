@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0300",
+  "PackNo": "V-PR",
+  "CardName": "ツイン・オーダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストした時、あなたのフォース・マーカー１つにつき、そのターン中、あなたのヴァンガード１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

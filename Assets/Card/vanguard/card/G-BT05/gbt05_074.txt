@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_074",
+  "PackNo": "G-BT05",
+  "CardName": "重力崩壊の申し子",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【Gブレイク】(1)：[【カウンターブラスト】(1)，他のこのユニットと同じ縦列にいるあなたのリアガードを１枚選び、呪縛する]１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

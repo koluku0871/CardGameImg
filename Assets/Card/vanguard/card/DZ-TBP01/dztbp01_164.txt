@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_164",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[私の言葉で]羽沢つぐみ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Afterglow",
+  "Cost": "1",
+  "CardRarity": "GPR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、【コスト】[【エネルギーブラスト】(3)，このユニットをソウルに置く]ことで、あなたの山札から、あなたのヴァンガードと同名の〈Afterglow〉を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

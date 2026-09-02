@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd12_011",
+  "PackNo": "V-TD12",
+  "CardName": "月下美人の銃士ダニエル",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

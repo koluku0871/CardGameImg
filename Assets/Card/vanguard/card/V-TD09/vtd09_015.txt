@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd09_015",
+  "PackNo": "V-TD09",
+  "CardName": "挺身の女神クシナダ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【永】：守護者（守護者を持つカードは合計でデッキに４枚まで入れられる）【自】【(G)】：登場時、【コスト】[手札を１枚捨てる]ことで、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "0"
+}

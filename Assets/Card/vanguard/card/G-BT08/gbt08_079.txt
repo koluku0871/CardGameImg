@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt08_079",
+  "PackNo": "G-BT08",
+  "CardName": "ヴリコラカス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[あなたの(R)の「ヴリコラカス」を２枚選び、ソウルに置く]あなたのメインフェイズ開始時、コストを払ってよい。払ったら、あなたのヴァンガードを１枚選び、そのターン中、パワー＋3000/クリティカル＋１。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

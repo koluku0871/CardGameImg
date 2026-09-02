@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vmb01_024",
+  "PackNo": "V-MB01",
+  "CardName": "みるびる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：ヴァンガードと同じ縦列にいるなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtb02_027",
+  "PackNo": "G-TB02",
+  "CardName": "浦島虎徹",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=二刀開眼-【自】【(R)】：[手札から１枚選び、ソウルに置く]このユニットが〈刀剣男士-打刀〉をブーストした時、コストを払ってよい。払ったら、１枚引く。【起】【(R)】：[【ソウルブラスト】(2)]そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0744",
+  "PackNo": "PR",
+  "CardName": "Chouchouアマリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：先駆【自】【(R)】：ブーストしたバトル終了時、【コスト】[【ソウルブラスト】(1)，他の「Chouchou」を含むリアガードを１枚選び、山札の下に置く]ことで、１枚引く。さらにこのユニットをソウルに置いてよい。置いたら、「Chouchou」を含むあなたのユニットを３枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

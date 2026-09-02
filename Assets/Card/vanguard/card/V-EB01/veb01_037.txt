@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_037",
+  "PackNo": "V-EB01",
+  "CardName": "アシストプテリクス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

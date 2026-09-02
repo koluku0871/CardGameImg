@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_106",
+  "PackNo": "DZ-TB03",
+  "CardName": "シリウス・ライラプス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "オリンピア/星",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=〈レジェンドワールド〉【自】：あなたのターンにこのカードが手札から捨てられた時、あなたの〈星〉のリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

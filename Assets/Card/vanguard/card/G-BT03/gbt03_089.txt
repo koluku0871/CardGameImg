@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_089",
+  "PackNo": "G-BT03",
+  "CardName": "痙攣する根絶者ヱディ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのカード名に「根絶者」を含むヴァンガードがいて、相手のヴァンガードがデリートされているなら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

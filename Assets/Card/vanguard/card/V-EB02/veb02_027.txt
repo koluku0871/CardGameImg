@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_027",
+  "PackNo": "V-EB02",
+  "CardName": "ダンシング・カットラス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【ドロップゾーン】：【コスト】[ドロップゾーンから他の「ダンシング・カットラス」を１枚バインドし、山札を上から１枚ドロップゾーンに置く]このカードを(R)にコールし、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

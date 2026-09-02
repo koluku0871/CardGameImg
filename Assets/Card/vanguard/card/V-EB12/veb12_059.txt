@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_059",
+  "PackNo": "V-EB12",
+  "CardName": "タルワール・アサルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)】：アタックした時、相手のヴァンガードがグレード２なら、そのバトル中、このユニットのドライブ＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

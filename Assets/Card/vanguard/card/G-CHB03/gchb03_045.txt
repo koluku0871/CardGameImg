@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb03_045",
+  "PackNo": "G-CHB03",
+  "CardName": "バニッシュメント・ドラコキッド",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れることができない）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss08_030",
+  "PackNo": "DZ-SS08",
+  "CardName": "大満足の収穫ラビリット",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_011",
+  "PackNo": "DZ-TB01",
+  "CardName": "ナイスワン！（最高だぜ）",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/魔力",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=〈マジックワールド〉【コスト】[ゲージ１を払う]ことでプレイできる！２枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

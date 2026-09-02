@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb02_033",
+  "PackNo": "EB02",
+  "CardName": "ドライブ・カルテットバブリン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの(R)に「ドライブ・カルテットリサッカ」がいるなら、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

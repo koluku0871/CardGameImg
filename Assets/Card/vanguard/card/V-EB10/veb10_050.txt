@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_050",
+  "PackNo": "V-EB10",
+  "CardName": "プロトラクター・パロット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(G)】：登場時、前列のあなたのリアガードが４枚以上なら、１枚引き、あなたの手札を１枚捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

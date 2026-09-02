@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_103",
+  "PackNo": "DZ-BT14",
+  "CardName": "Bel-Fioreチカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「Bel-Fioreプロア」からライドして登場した時、【コスト】[ライドデッキから「Bel-Fiore」を含むグレード３を１枚公開する]ことで、あなたのオーダーゾーンに清逸なる高貴の庭園・トークンを１枚置く。【永】【(G)】：あなたのヴァンガードが「Bel-Fiore」を含むなら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

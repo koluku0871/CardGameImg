@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtb01_020",
+  "PackNo": "G-TB01",
+  "CardName": "厚藤四郎",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】：守護者（守護者はデッキに４枚までしか入れることができない）【自】：[【カウンターブラスト】(1)]このユニットが手札から(G)に登場した時、コストを払ってよい。払ったら、あなたの山札の上から５枚を(G)に【レスト】でコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "0"
+}

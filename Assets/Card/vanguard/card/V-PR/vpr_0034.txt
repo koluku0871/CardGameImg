@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0034",
+  "PackNo": "V-PR",
+  "CardName": "寛容の女神オオミヤノメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)，このユニットを退却させる]ことで、３枚引く。このターン終了時、あなたの手札を３枚捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

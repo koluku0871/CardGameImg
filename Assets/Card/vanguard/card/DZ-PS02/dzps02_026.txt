@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzps02_026",
+  "PackNo": "DZ-PS02",
+  "CardName": "暗黒騎士ルードヴィーク",
+  "CardCategory": "Gユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "デーモン",
+  "Cost": "4",
+  "CardRarity": "TD",
+  "Text": "effect=【Ｇガーディアン】-相手ターンのガードステップ-【コスト】[手札から【治】を１枚捨てる]ことで、裏のこのカードを(G)にコールする。【自】：このユニットが(G)に登場した時、グレード１以下のあなたのリアガードを１枚選び、(G)に移動させてよい。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "15000"
+}

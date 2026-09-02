@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb06_006",
+  "PackNo": "EB06",
+  "CardName": "PR♥ISM-Iクリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：[【ソウルブラスト】(1)]このユニットが(R)から手札に戻された時、コストを払ってよい。払ったら、他のあなたの《バミューダ△》を１枚選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

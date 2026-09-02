@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_091",
+  "PackNo": "DZ-BT15",
+  "CardName": "れくがおん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのドロップから守護者を持たない〈ハイビースト〉のノーマルユニットを１枚まで選び、山札の下かソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

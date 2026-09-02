@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_062",
+  "PackNo": "V-BT11",
+  "CardName": "カッティング・ジャイル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン/ヒーロー",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(1)，このユニットと他のリアガードを１枚【レスト】する]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

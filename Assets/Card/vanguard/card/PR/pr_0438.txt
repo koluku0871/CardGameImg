@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0438",
+  "PackNo": "PR",
+  "CardName": "宇宙勇機グランレディ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[このユニットを【レスト】する]あなたのヴァンガードを１枚選び、そのターン中、パワー＋4000。あなたの超爆能力を持つヴァンガードがいるなら、他のあなたのリアガードを１枚選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

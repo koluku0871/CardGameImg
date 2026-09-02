@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_033",
+  "PackNo": "G-BT10",
+  "CardName": "サベイジ・ソーサラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[このユニットを退却させる]あなたのライドフェイズ開始時、コストを払ってよい。払ったら、そのターン中、あなたは次の【超越】のコストを払わずに【超越】できる。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

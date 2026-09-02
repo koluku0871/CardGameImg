@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_009",
+  "PackNo": "V-BT01",
+  "CardName": "サークル・メイガス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(V)/(R)】：あなたのドライブチェックでグレード２以上が出た時、そのカードを山札の下に置いてよい。置いたら、１枚引く。【自】：ライドされた時、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

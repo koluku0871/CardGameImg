@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_078",
+  "PackNo": "PR",
+  "CardName": "リワインド・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[このユニットを退却させる]呪縛カードを好きな枚数選び、ドロップゾーンに置き、２枚以上置いたら、あなたは２枚引く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

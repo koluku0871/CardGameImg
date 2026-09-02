@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_042_pr",
+  "PackNo": "PR",
+  "CardName": "スチームスカラージジ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：[【ソウルブラスト】(2)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

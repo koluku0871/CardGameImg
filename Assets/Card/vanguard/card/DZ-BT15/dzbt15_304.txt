@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_304",
+  "PackNo": "DZ-BT15",
+  "CardName": "オーバーグロウ",
+  "CardCategory": "必殺技",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/オフェンス",
+  "Cost": "2",
+  "CardRarity": "IZR",
+  "Text": "effect=使用条件－「品乃雅士」か「空宮征」を含む、ユニット【自】【必殺技ゾーン】：この必殺技が使われた時、アタックされている相手のユニットを１枚選び、そのバトル中、パワー－5000し、相手はインターセプトできない。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0112",
+  "PackNo": "V-PR",
+  "CardName": "アウタープリンセス・ジェイシィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：相手のカードの効果で、あなたか相手が、あなたのユニットを選ぶ際、可能な限りこのユニットを含んでユニットを選ぶ。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_042",
+  "PackNo": "V-BT02",
+  "CardName": "狂熱の騎士ロイグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックした時、相手より多いあなたのリアガードの枚数１枚につき、そのバトル中、このユニットのパワー＋3000。（あなたが５枚で相手が２枚なら＋9000）,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

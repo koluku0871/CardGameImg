@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt12_060",
+  "PackNo": "G-BT12",
+  "CardName": "ハウザー・ダリオ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

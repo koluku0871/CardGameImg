@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_048",
+  "PackNo": "V-EB08",
+  "CardName": "スケルトンの抜刀兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "スケルトン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

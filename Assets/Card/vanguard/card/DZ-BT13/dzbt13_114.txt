@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_114",
+  "PackNo": "DZ-BT13",
+  "CardName": "スチームガンナーカシード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのターンにこのユニットと同名のあなたのカードが【ソウルチャージ】された時、相手のヴァンガードがグレード３以上なら、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

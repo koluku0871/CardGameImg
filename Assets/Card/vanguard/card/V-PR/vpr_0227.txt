@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0227",
+  "PackNo": "V-PR",
+  "CardName": "エゴセントリック・フランカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：カードの能力で登場した時、【コスト】[このユニットをソウルに置く]ことで、そのターン中、あなたのユニット３枚のパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

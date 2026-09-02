@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_050",
+  "PackNo": "V-BT09",
+  "CardName": "ソウルバレット・ルーレット",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]【ソウルチャージ】(1)し、その【ソウルチャージ】されたカードと同名のカードがあなたのソウルに２枚以上なら、あなたは１枚引く。（【ソウルチャージ】されたカードも含む）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

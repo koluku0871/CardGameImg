@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_052",
+  "PackNo": "V-EB05",
+  "CardName": "アトランティアの歌姫イリーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "4",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(V)】：登場時、あなたの山札を上から10枚公開し、公開されたノーマルユニットがそれぞれ別名なら、このターン１回目のバトル終了時、このユニットを【スタンド】する。山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "14000",
+  "Defense": "0"
+}

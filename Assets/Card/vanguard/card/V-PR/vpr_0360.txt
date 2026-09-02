@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0360",
+  "PackNo": "V-PR",
+  "CardName": "一番銛のボージャ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：アタックした時、あなたのヴァンガードがグレード３以上なら、【コスト】[山札を上から１枚ドロップゾーンに置く]ことで、そのバトル中、このユニットのパワー＋10000し、そのバトル終了時、このユニットを退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

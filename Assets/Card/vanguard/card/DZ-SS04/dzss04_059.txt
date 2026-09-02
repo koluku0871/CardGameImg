@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_059",
+  "PackNo": "DZ-SS04",
+  "CardName": "悪魔系ヨーチューバーブラック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ブラックチャンネル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(V)に登場した時、あなたの、山札か手札から「カメラちゃん」を１枚まで探し、オーダーゾーンに置く。山札から探したなら、山札をシャッフルする。手札から置いたなら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

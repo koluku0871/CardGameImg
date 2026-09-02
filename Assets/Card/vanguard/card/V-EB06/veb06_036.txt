@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_036",
+  "PackNo": "V-EB06",
+  "CardName": "リフィリングライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：アタックした時、そのターン中、あなたの他のユニット１枚のパワー＋3000。そのユニットが【レスト】しているなら、＋3000のかわりに＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

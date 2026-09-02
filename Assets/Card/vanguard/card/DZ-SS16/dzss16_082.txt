@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_082",
+  "PackNo": "DZ-SS16",
+  "CardName": "舞灯のプロメテウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "2",
+  "CardRarity": "15thSP",
+  "Text": "effect=【自】：このユニットが新右衛門アイコンを持つグレード３にライドされた時、あなたの山札を上から３枚見て、１枚選び、手札に加え、１枚まで選び、ソウルに置き、残りを山札の下に望む順で置く。【新右衛門アイコン】,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

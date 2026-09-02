@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_069",
+  "PackNo": "DZ-BT15",
+  "CardName": "喧嘩屋コンフリクト・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：あなたのヴァンガードが「喧嘩屋」を含むグレード３以上なら、【コスト】[このユニットを【レスト】させる]ことで、相手の後列のリアガードを１枚選び、ユニットのいない前列の(R)に移動させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

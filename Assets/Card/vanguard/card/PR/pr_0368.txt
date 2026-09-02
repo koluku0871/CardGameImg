@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0368",
+  "PackNo": "PR",
+  "CardName": "キング・サーペント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "クラーケン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットがドロップゾーンから(R)に登場した時、【ソウルチャージ】(1)し、ダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

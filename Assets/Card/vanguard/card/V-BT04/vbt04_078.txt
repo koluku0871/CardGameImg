@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_078",
+  "PackNo": "V-BT04",
+  "CardName": "放散ピエロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

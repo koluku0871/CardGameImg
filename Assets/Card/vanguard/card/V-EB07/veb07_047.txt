@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_047",
+  "PackNo": "V-EB07",
+  "CardName": "ヴァーナル・クラッカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、あなたの他のリアガード１枚につき、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_002",
+  "PackNo": "V-EB11",
+  "CardName": "輝きの新星イヴ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "4",
+  "CardRarity": "LIR",
+  "Text": "effect=【起】【(V)】：【コスト】[山札を上から１枚見る]ことで、あなたの山札を上から１枚、ユニットのいない(R)にコールしてよい。【永】【(V)】：あなたのトリガー効果で、ユニットのパワーかクリティカルが増加する際、その値は２倍になる。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "14000",
+  "Defense": "0"
+}

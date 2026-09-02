@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0539",
+  "PackNo": "PR",
+  "CardName": "ガトリングクロー・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[【カウンターブラスト】(1)，このユニットをソウルに置く]あなたの《かげろう》のヴァンガードがいるなら、相手のグレード０のリアガードを１枚まで選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

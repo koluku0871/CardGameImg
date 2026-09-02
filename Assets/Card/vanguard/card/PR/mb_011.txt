@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_011",
+  "PackNo": "PR",
+  "CardName": "“操れない男”田中終一",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)】：このユニットは『操る力』で操られない。【永】【(V)】：このユニットは脅威の回復力を持つ。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

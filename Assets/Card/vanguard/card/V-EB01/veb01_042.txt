@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_042",
+  "PackNo": "V-EB01",
+  "CardName": "草食竜ブルートザウルス",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

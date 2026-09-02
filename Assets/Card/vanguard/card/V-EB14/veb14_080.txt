@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_080",
+  "PackNo": "V-EB14",
+  "CardName": "ドキドキ・ワーカー",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=【永】：守護者,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "30000"
+}

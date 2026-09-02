@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td09_008",
+  "PackNo": "TD09",
+  "CardName": "雷刃の抹消者ジーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、相手のリアガードが２枚以下なら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

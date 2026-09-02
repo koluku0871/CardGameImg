@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt09_089",
+  "PackNo": "G-BT09",
+  "CardName": "刻獣スピーディ・バニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)：あなたのターン中、他のあなたの〈十二支刻獣〉のユニット１枚につき、このユニットのパワー＋1000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt11_084",
+  "PackNo": "G-BT11",
+  "CardName": "研鑚の忍鬼トラサダ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb02_076",
+  "PackNo": "G-EB02",
+  "CardName": "孔雀草の銃士ラケーレ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)/ドロップゾーン】【Gブレイク】(1)：このカードはトリガーユニットではなくノーマルユニットとして扱う。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

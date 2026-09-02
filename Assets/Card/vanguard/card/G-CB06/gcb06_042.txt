@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb06_042",
+  "PackNo": "G-CB06",
+  "CardName": "星輝兵マグネター・ヘッジホッグ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

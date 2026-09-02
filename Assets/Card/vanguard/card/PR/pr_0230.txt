@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0230",
+  "PackNo": "PR",
+  "CardName": "バーキング・スカイタイガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "キメラ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：他のあなたのユニットがソウルから(R)に登場した時、あなたのヴァンガードが【双闘】しているなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

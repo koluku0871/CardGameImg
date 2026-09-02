@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad03_015",
+  "PackNo": "KAD03",
+  "CardName": "カレイドエース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

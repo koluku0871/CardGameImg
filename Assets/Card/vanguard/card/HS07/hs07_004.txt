@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs07_004",
+  "PackNo": "HS07",
+  "CardName": "飛将の星輝兵クリプトン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

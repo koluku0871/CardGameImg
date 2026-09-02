@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb01_061",
+  "PackNo": "G-TCB01",
+  "CardName": "古代竜ベビーバード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【自】：あなたのターン中、このユニットが(R)からドロップゾーンに置かれた時、他のあなたの「古代竜」を含むユニットを２枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

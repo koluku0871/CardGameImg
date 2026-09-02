@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_042",
+  "PackNo": "DZ-TB01",
+  "CardName": "竜王伝",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/ドラゴン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=〈エンシェントワールド〉このカードをゲージに裏で置き、１枚引く。あなたの表のダメージゾーンがないなら、【カウンターチャージ】(1)。そのターン中、あなたはオーダーを合計２回までプレイでき、「天竜開闢」以外のオーダーをプレイできない。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

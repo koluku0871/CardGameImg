@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_087",
+  "PackNo": "V-TB01",
+  "CardName": "友達思い市ヶ谷有咲",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Poppin'Party",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(1)，手札から【クリティカル】トリガーを１枚公開する]ことで、あなたの山札を上から５枚見て、「市ヶ谷有咲」を含まない〈Poppin'Party〉を１枚まで公開し、手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

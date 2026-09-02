@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_064",
+  "PackNo": "G-CHB01",
+  "CardName": "スチームエンジニアクシャアンナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

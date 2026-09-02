@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_083",
+  "PackNo": "V-BT04",
+  "CardName": "ブラッシー・バニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：手札から登場した時、【コスト】[手札を１枚捨てる]ことで、１枚引き、あなたのヴァンガードがグレード３以上なら、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_054",
+  "PackNo": "V-BT07",
+  "CardName": "戦巫女イマリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：あなたの(V)のフォース・マーカーが３つ以上なら、【コスト】[【ソウルブラスト】(2)]することで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

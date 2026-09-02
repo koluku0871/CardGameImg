@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0018",
+  "PackNo": "V-PR",
+  "CardName": "Roselia氷川紗夜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

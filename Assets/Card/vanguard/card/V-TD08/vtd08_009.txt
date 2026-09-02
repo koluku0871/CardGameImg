@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd08_009",
+  "PackNo": "V-TD08",
+  "CardName": "最高の自信作イザベラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(2)]することで、そのターン中、あなたの他のリアガード２枚のパワー＋5000し、あなたのリアガードが５枚なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

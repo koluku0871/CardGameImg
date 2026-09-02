@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_075",
+  "PackNo": "V-BT01",
+  "CardName": "ジェットライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：あなたの他のリアガードが登場した時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

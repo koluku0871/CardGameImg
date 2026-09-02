@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gftd01_008",
+  "PackNo": "G-FTD01",
+  "CardName": "反照の騎士カポイル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "FTD",
+  "Text": "effect=【自】【Gブレイク】（1）（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットがインターセプトした時、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss10_012",
+  "PackNo": "V-SS10",
+  "CardName": "バトルシスターかっさーた",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのドライブチェックでトリガーユニットが出た時、そのターン中、このユニットのパワー＋10000してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

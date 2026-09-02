@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0194",
+  "PackNo": "V-PR",
+  "CardName": "ダブルヘッド・ユニコーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "キメラ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：あなたのヴァンガードの能力で(R)からソウルに置かれた時、【コスト】[【カウンターブラスト】(1)]することで、手札を１枚(R)にコールし、そのターン中、そのコールされたユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

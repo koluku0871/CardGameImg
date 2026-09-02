@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb01_031",
+  "PackNo": "G-CB01",
+  "CardName": "午後のお茶会クーベル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

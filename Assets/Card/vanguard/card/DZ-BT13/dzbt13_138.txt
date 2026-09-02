@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_138",
+  "PackNo": "DZ-BT13",
+  "CardName": "造景の剪定士トレイラン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが「クリスティアノス」を含むグレード３以上なら、このユニットのパワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

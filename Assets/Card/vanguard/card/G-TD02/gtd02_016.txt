@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd02_016",
+  "PackNo": "G-TD02",
+  "CardName": "小妖精の突撃隊長",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

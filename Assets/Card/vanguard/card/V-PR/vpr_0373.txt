@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0373",
+  "PackNo": "V-PR",
+  "CardName": "クロノトゥース・ティガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)】：あなたのライドフェイズ開始時、１枚引く。【自】：あなたのターンにこのカードを手札から捨てた時、【コスト】[【カウンターブラスト】(1)]することで、１枚引き、このカードを(R)に【レスト】でコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

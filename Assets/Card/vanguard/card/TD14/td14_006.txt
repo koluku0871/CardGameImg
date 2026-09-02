@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td14_006",
+  "PackNo": "TD14",
+  "CardName": "爛漫の探索者セルディック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、あなたのカード名に「探索者」を含むヴァンガードがいるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

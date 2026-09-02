@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd01_011_5",
+  "PackNo": "DZ-SD01",
+  "CardName": "ドラグリッターユムナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

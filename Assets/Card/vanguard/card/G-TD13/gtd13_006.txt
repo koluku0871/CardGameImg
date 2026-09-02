@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd13_006",
+  "PackNo": "G-TD13",
+  "CardName": "忍竜シバリクサリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

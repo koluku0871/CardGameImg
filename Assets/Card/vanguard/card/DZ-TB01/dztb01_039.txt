@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_039",
+  "PackNo": "DZ-TB01",
+  "CardName": "電子忍者紫電",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "忍者",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=〈カタナワールド〉【自】：このユニットが(R)に登場した時、【コスト】[ゲージ１を払い、手札から〈忍法〉を１枚捨てる]ことで、２枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

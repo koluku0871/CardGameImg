@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_055",
+  "PackNo": "PR",
+  "CardName": "ラーニング・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【ダメージゾーン】【Gブレイク】(1)：[あなたの「ラーニング・エンジェル」以外のリアガードを１枚選び、ダメージゾーンに裏で置く]このカードを(R)にコールし、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

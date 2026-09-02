@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0045",
+  "PackNo": "V-PR",
+  "CardName": "ナイトメア・ベイビー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストした時、あなたのソウル５枚につき、そのターン中、このユニットのパワー＋2000。（ソウルが13枚の時は＋4000）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

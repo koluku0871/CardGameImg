@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_201",
+  "PackNo": "DZ-LBT02",
+  "CardName": "コールドシャットアウトグレティエル",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "TGR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

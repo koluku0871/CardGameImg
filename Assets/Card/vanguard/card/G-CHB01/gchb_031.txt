@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_031",
+  "PackNo": "G-CHB01",
+  "CardName": "臨戦の騎士ポレックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】勇敢（あなたの手札が３枚以下で有効）：カードの効果で、このユニットが(R)に登場した時、あなたの「アルトマイル」を含むヴァンガードがいるなら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_094",
+  "PackNo": "G-BT02",
+  "CardName": "弾幕戦士スイカーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたの(R)に他の「弾幕戦士スイカーク」がいるなら、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0243",
+  "PackNo": "PR",
+  "CardName": "溢れ出す夢ディオス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(R)から手札に戻された時、あなたのヴァンガードが【双闘】しているなら、【ソウルチャージ】(1)し、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td12_007",
+  "PackNo": "TD12",
+  "CardName": "超次元ロボダイレディ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《ディメンジョンポリス》を１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

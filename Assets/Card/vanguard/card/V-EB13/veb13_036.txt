@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_036",
+  "PackNo": "V-EB13",
+  "CardName": "サージカル・ナース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：このターンにあなたのダメージゾーンに新たなカードが置かれているなら、【コスト】[【ソウルブラスト】(1)]することで、あなたと相手は【カウンターチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

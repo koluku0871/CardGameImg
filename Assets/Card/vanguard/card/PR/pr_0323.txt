@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0323",
+  "PackNo": "PR",
+  "CardName": "鍛冶の神ヘパイストス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットが【ブースト】した時、【ソウルチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

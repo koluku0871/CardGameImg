@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td11_015",
+  "PackNo": "TD11",
+  "CardName": "星輝兵ネビュラキャプター",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

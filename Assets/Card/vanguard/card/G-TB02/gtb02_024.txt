@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtb02_024",
+  "PackNo": "G-TB02",
+  "CardName": "歌仙兼定特",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）真剣必殺（あなたのダメージが３枚以上で有効）：あなたのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

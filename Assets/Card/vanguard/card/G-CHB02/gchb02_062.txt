@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb02_062",
+  "PackNo": "G-CHB02",
+  "CardName": "鋼闘機ジェットサイダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【ソウルブラスト】(1)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、あなたの山札の上から４枚見て、【双闘】能力を持つカードを１枚まで探し、公開し、手札に加え、残りのカードをドロップゾーンに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

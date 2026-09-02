@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb02_036",
+  "PackNo": "G-TCB02",
+  "CardName": "マシニング・ダイブビートル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(V)/(R)】：[【カウンターブラスト】(1)]あなたの(R)の「マシニング・ダイブビートル」をすべて選び、【スタンド】し、そのターン中、パワー＋2000。【永】【(R)】：あなたのスタンドフェイズ中、このユニットは【スタンド】できない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

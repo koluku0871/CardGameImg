@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_152",
+  "PackNo": "DZ-LBT01",
+  "CardName": "密かな祈り風紀乙女クラーリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：あなたのターンにこのカードがあなたの手札から捨てられた時、あなたのヴァンガードが「AbsoluteZero」を含むなら、このカードをソウルに置く。【永】【(G)】：あなたのヴァンガードが「AbsoluteZero」を含むなら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

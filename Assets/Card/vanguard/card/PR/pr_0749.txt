@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0749",
+  "PackNo": "PR",
+  "CardName": "シンバル・モンキー",
+  "CardCategory": "Gユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "4",
+  "CardRarity": "PR",
+  "Text": "effect=【Ｇガーディアン】-相手ターンのガードステップ-【コスト】[手札から【治】を１枚捨てる]ことで、裏のこのカードを(G)にコールする。【自】【(G)】：登場時、そのターン中、他のユニットすべてのパワー－5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vmb01_046",
+  "PackNo": "V-MB01",
+  "CardName": "ドラゴンモンクゲンジョウ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

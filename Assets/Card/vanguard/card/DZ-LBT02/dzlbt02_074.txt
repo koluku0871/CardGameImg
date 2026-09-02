@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_074",
+  "PackNo": "DZ-LBT02",
+  "CardName": "手編みがいいよねカラリナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたの(G)に、ユニットが２枚以上で、他のグレード２がいないなら、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

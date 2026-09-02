@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0118",
+  "PackNo": "V-PR",
+  "CardName": "湖の巫女リアン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)/(G)】：登場時、【コスト】[【ソウルブラスト】(1)]することで、１枚引き、あなたの手札を１枚捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_009",
+  "PackNo": "V-EB13",
+  "CardName": "クロノバイト・タイガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(V)】：あなたのライドフェイズ開始時、１枚引き、あなたの手札を１枚捨てる。【起】【(R)】【ターン1回】：【コスト】[手札を１枚捨てる]ことで、そのターン中、このユニットのクリティカル＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_033",
+  "PackNo": "V-EB05",
+  "CardName": "グラスセッションオスティナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックした時、あなたの、(V)と(R)にいるユニットすべてがそれぞれ別名なら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

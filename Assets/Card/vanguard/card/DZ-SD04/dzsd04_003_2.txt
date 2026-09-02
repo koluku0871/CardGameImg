@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd04_003_2",
+  "PackNo": "DZ-SD04",
+  "CardName": "ケアリング・セージ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

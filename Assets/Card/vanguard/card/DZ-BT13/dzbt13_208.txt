@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_208",
+  "PackNo": "DZ-BT13",
+  "CardName": "天資の騎士アムレン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットがあなたのカードの能力で他のユニットのいる(R)に登場した時、あなたのヴァンガードが「オールデン」を含むグレード３以上なら、【ソウルチャージ】(1)か【エネルギーチャージ】(2)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

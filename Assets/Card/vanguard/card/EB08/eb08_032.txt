@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb08_032",
+  "PackNo": "EB08",
+  "CardName": "ザ・ゴング",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

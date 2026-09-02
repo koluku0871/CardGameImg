@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_114",
+  "PackNo": "V-TB01",
+  "CardName": "いつも自然体花園たえ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Poppin'Party",
+  "Cost": "2",
+  "CardRarity": "SSR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[手札を１枚捨てる]ことで、あなたのドロップゾーンから楽曲を１枚手札に戻す。【自】【(R)】：あなたのヴァンガードがアタックした時、そのターン中、そのユニットとこのユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

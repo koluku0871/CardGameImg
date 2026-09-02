@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_067",
+  "PackNo": "V-BT02",
+  "CardName": "アノマラス・エスパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_085",
+  "PackNo": "DZ-TB02",
+  "CardName": "包丁藤四郎祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードのグレードが、相手のヴァンガードのグレードより低いなら、このユニットのパワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0056",
+  "PackNo": "V-PR",
+  "CardName": "コンシールド・アンジェラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：あなたのカードがこのターンにカードの能力で、２枚以上登場しているか２枚以上ソウルに置かれているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

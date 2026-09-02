@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0309",
+  "PackNo": "PR",
+  "CardName": "人型魔導具阿号",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

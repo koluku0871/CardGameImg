@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs07_005",
+  "PackNo": "HS07",
+  "CardName": "星輝兵メビウスブレス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)】：このユニットのアタックがヴァンガードにヒットした時、相手のリアガードを１枚選び、呪縛する。（呪縛されたカードは、裏向きになり何もできない。持ち主のターンの終わりに表に戻る）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

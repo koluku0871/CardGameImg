@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_073",
+  "PackNo": "V-TB01",
+  "CardName": "BLACKSHOUT",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "楽曲/Roselia",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【自】【(R)】：登場時、１枚引き、そのターン中、あなたのユニット２枚のパワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

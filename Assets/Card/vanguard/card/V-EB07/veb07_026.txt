@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_026",
+  "PackNo": "V-EB07",
+  "CardName": "スピン・キッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン/ヒーロー",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：グレード０からライドして登場した時、【コスト】[手札から「スピニング・ヴァリアント」を１枚公開する]ことで、あなたと相手のヴァンガードに１ダメージ。（ダメージチェックはあなたから行う）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

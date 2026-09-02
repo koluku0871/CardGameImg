@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0472",
+  "PackNo": "PR",
+  "CardName": "蒼嵐兵ミサイル・トルーパー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_043",
+  "PackNo": "V-BT04",
+  "CardName": "謝絶の魔道士ブレギス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのリアガードが相手より多いなら、相手はインターセプトできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

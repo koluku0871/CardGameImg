@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_149",
+  "PackNo": "DZ-BT13",
+  "CardName": "LettiaMateSカリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト/幻影",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「LettiaMateSラティス」にライドされた時、あなたの山札を上から７枚見て、「LettiaMateS」を含むユニットカードと、ノーマルオーダーをそれぞれ１枚まで選び、捨て、山札をシャッフルする。【永】【(R)】：あなたのターン中、あなたのヴァンガードが「マグノリア」を含むグレード３以上なら、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

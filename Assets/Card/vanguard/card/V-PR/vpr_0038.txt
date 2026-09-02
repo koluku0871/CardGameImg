@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0038",
+  "PackNo": "V-PR",
+  "CardName": "ストームライダーエウゲン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストした時、このターン３回目以降のバトルなら、そのターン中、ブーストされたユニットのパワー＋3000。このターン５回目以降のバトルなら、＋3000のかわりに＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

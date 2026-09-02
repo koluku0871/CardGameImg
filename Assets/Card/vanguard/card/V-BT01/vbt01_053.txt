@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_053",
+  "PackNo": "V-BT01",
+  "CardName": "時運の女神ミズノハメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ヴァンガードをブーストした時、あなたのダメージゾーンが３枚以上なら、そのバトル中、このユニットのパワー＋6000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

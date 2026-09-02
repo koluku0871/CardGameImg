@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_068",
+  "PackNo": "DZ-BT15",
+  "CardName": "フラクドラフト・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウインドドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：相手のリアガードがあなたのカードの効果で退却した時、【コスト】[このユニットを退却させる]ことで、あなたは１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

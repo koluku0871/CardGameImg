@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_088",
+  "PackNo": "DZ-LBT02",
+  "CardName": "針と糸で紡ぐ思い出ラクチュル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、あなたのドロップから、このカードと別名の守護者を持たないノーマルユニットを１枚まで選び、山札の下に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

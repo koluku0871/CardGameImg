@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_126",
+  "PackNo": "DZ-BT13",
+  "CardName": "リグレインセキュリティ積怨砕き",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン/幻影",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのオーダーゾーンに「リグレイン生命創成研究所」があるなら、このユニットのシールド＋5000。あなたのバインドゾーンに赫月カードがあるなら、＋5000ではなく+10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

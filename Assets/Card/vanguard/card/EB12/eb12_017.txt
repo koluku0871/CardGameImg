@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb12_017",
+  "PackNo": "EB12",
+  "CardName": "豊穣の神器フレイヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[【カウンターブラスト】(1)]あなたのヴァンガードが【双闘】した時、コストを払ってよい。払ったら、【ソウルチャージ】(3)し、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

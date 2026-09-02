@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_084",
+  "PackNo": "V-BT10",
+  "CardName": "クラッグアーム・クラッシャー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットは後列の、暗黒繭マーカーが置かれているユニットにもアタックできる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

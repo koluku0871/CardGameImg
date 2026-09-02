@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_045",
+  "PackNo": "V-EB08",
+  "CardName": "キッキング・フランガル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ドロップゾーンから登場した時、そのターン中、グレード２のあなたのリアガード２枚のパワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

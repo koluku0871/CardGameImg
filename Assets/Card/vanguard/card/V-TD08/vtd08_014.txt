@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd08_014",
+  "PackNo": "V-TD08",
+  "CardName": "手作りの愛情エレナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（【治】を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

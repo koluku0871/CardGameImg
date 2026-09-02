@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_080",
+  "PackNo": "G-CB05",
+  "CardName": "Chouchouブランシェ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【Gブレイク】(1)：[【ソウルブラスト】(1)，あなたの他の「Chouchou」を含むリアガードを１枚選び、山札の下に置く]このユニットが(R)に登場した時、コストを払ってよい。払ったら、あなたの山札の上から４枚見て、「Chouchouブランシェ」以外の、「Chouchou」を含むカードを１枚まで公開し、手札に加え、山札をシャッフルする。１枚加えたら、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

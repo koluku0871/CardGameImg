@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_060",
+  "PackNo": "V-EB12",
+  "CardName": "ストームライダーパノス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

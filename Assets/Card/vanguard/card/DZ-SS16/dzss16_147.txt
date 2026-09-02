@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_147",
+  "PackNo": "DZ-SS16",
+  "CardName": "大鍋の魔女ローリエ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "LGR",
+  "Text": "effect=（【治】はデッキに合計４枚まで入れられる）【新右衛門アイコン】,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

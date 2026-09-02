@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_039",
+  "PackNo": "V-BT10",
+  "CardName": "ブレット・ライナー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、このユニットのサークルにフォース・マーカーがあるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

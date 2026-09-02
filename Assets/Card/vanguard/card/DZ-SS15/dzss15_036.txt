@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss15_036",
+  "PackNo": "DZ-SS15",
+  "CardName": "魂魄封ぜし禁忌の形代",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "TDR",
+  "Text": "effect=【レガリスピース】あなたの、山札かドロップからそれぞれ別名の、グレード３か４のユニットカードを合計２枚まで探して公開し、公開されたグレード３すべてを(R)にコールし、公開されたグレード４すべてを手札に加える。山札から探したら、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

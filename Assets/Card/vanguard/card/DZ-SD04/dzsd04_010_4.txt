@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd04_010_4",
+  "PackNo": "DZ-SD04",
+  "CardName": "メディカルショット・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

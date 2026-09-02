@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss03_018",
+  "PackNo": "DZ-SS03",
+  "CardName": "粉骨の呪術師ネグロボーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "TDR",
+  "Text": "effect=【自】【(R)】：このターンにドロップから登場したこのユニットがブーストしたバトル終了時、あなたが「夜霧の吸血姫ナイトローゼ」のクレストを持つなら、【コスト】[このユニットを退却させる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

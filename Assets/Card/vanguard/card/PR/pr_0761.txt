@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0761",
+  "PackNo": "PR",
+  "CardName": "マジェスティ・ロードブラスター",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ツインドライブ,gift=クリティカルトリガー＋10000,",
+  "Attack": "10000",
+  "Defense": "0"
+}

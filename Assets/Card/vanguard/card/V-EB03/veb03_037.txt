@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_037",
+  "PackNo": "V-EB03",
+  "CardName": "ドクトロイド・アイテル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックがヴァンガードにヒットした時、【コスト】[【ソウルブラスト】(1)]することで、あなたのダメージゾーンから１枚手札に加え、山札を上から１枚ダメージゾーンに裏で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

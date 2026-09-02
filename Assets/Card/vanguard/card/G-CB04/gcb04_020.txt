@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb04_020",
+  "PackNo": "G-CB04",
+  "CardName": "スチームナイトプズル・イリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(2)]このユニットがヴァンガードにアタックした時、コストを払ってよい。払ったら、そのバトル中、相手はグレード０のカードを自分の手札から(G)にコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd03_009",
+  "PackNo": "V-TD03",
+  "CardName": "戦場の歌姫ドロテア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(2)]することで、そのターン中、あなたの他のユニット１枚のパワー＋8000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

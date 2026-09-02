@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0303",
+  "PackNo": "V-PR",
+  "CardName": "ガーベラの銃士ポレット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：元々のパワーが10000以上のトークンユニットをブーストしたバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

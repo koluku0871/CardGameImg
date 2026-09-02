@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_223",
+  "PackNo": "DZ-TB01",
+  "CardName": "汚されし淵神の祠",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/ドロー/百鬼",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=〈百鬼夜行〉【永】：「汚されし淵神の祠」はあなたのオーダーゾーンに１枚のみ置ける。【自】【オーダーゾーン】【ターン1回】：“爆雷”能力を持つあなたのリアガードが登場した時、１枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

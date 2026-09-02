@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_022",
+  "PackNo": "V-EB13",
+  "CardName": "ウェットパック・ディーラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)/(G)】：手札から登場した時、このターンにあなたのダメージゾーンに新たなカードが置かれているなら、【コスト】[【ソウルブラスト】(1)]することで、１枚引き、あなたの手札を１枚捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

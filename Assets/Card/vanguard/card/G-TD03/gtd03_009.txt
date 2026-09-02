@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd03_009",
+  "PackNo": "G-TD03",
+  "CardName": "萌芽の乙女ディアン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

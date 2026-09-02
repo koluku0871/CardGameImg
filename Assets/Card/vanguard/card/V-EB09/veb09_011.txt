@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_011",
+  "PackNo": "V-EB09",
+  "CardName": "サベイジ・アカデミアン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【起】【(R)】：【コスト】[【ソウルブラスト】(1)，このユニットを【レスト】する]ことで、このユニットの武装ゲージから１枚(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

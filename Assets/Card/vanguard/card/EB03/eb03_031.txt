@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb03_031",
+  "PackNo": "EB03",
+  "CardName": "戦馬レイジングストーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(V)か(R)に登場した時、あなたの《ゴールドパラディン》のヴァンガードがいるなら、あなたの手札から《ゴールドパラディン》を１枚まで選び、ソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

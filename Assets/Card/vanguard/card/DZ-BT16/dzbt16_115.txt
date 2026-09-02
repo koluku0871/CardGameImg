@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_115",
+  "PackNo": "DZ-BT16",
+  "CardName": "密林の先遣ジャルク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのユニットが(G)に置かれた時、あなたの他のユニットがアタックされているバトルなら、【コスト】[【ソウルブラスト】(1)]することで、このユニットを(G)に移動させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

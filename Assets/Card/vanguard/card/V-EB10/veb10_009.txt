@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_009",
+  "PackNo": "V-EB10",
+  "CardName": "牡丹の銃士トゥーレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(V)/(R)】：登場時、【コスト】[【カウンターブラスト】(1)，リアガードを１枚退却させる]ことで、あなたの山札を上から３枚見て、「銃士」を含むカード２枚か、いずれか１枚を(R)にコールし、残りを山札の下に望む順で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

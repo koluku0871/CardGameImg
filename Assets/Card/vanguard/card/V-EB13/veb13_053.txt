@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_053",
+  "PackNo": "V-EB13",
+  "CardName": "スチームレポーターアブム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：インターセプトした時、【コスト】[手札を１枚バインドする]ことで、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

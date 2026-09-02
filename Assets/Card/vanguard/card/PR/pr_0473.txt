@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0473",
+  "PackNo": "PR",
+  "CardName": "マシニング・スコルピオ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

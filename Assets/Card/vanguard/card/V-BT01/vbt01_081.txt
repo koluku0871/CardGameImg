@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_081",
+  "PackNo": "V-BT01",
+  "CardName": "スリーミニッツ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

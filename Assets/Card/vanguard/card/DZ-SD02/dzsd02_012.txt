@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd02_012",
+  "PackNo": "DZ-SD02",
+  "CardName": "万雷を招く者フルグレス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

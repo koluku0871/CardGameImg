@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd10_004",
+  "PackNo": "V-TD10",
+  "CardName": "ストロボスコープドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：アタックしたバトル終了時、【コスト】[【ソウルブラスト】(1)，手札を１枚捨てる]ことで、相手のリアガードを１枚選び、退却させ、あなたのヴァンガードがグレード４なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

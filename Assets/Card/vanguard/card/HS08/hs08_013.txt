@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs08_013",
+  "PackNo": "HS08",
+  "CardName": "次元ロボダイマリナー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【ソウル】：[このカードをドロップゾーンに置く]あなたの《ディメンジョンポリス》のヴァンガードを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

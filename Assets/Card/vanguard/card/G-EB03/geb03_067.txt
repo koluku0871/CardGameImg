@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb03_067",
+  "PackNo": "G-EB03",
+  "CardName": "次元ロボダイムーン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

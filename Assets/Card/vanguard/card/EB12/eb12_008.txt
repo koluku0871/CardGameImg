@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb12_008",
+  "PackNo": "EB12",
+  "CardName": "真昼の神器ヘメラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのドロップゾーンからカード名に「神器」を含むカードを３枚まで選び、ソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

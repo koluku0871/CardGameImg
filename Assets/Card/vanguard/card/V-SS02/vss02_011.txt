@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss02_011",
+  "PackNo": "V-SS02",
+  "CardName": "堅強の騎士ルノリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "SD",
+  "Text": "effect=【永】：守護者（守護者を持つカードは合計でデッキに４枚まで入れられる）【自】【(G)】：登場時、【コスト】[手札を１枚捨てる]ことで、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "0"
+}

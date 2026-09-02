@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_078",
+  "PackNo": "V-BT06",
+  "CardName": "ナイトメアドールびばりー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他の〈ワーカロイド〉がこのユニットと同じ縦列に登場した時、そのターン中、そのユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

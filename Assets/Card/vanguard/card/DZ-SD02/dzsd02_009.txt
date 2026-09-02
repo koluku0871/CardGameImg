@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd02_009",
+  "PackNo": "DZ-SD02",
+  "CardName": "氷冥の貴公子アイザ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_209",
+  "PackNo": "DZ-LBT02",
+  "CardName": "熱々クッキングミルウィーズ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "TGR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

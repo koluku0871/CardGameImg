@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_073",
+  "PackNo": "G-CHB01",
+  "CardName": "メイデン・オブ・デルフィニウム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【自】【(R)】【Gブレイク】(1)：あなたのメインフェイズ開始時、他のあなたのユニットを１枚選び、そのターン中、このユニットをそのユニットの同名カードとしても扱う。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

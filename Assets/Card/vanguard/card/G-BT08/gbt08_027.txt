@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt08_027",
+  "PackNo": "G-BT08",
+  "CardName": "鎮護の宝石騎士エステル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】：守護者【自】：このユニットが手札から(G)に登場した時、あなたの「宝石騎士」を含むヴァンガードがいるなら、山札の上から他のあなたの「宝石騎士」を含むユニットと同じ枚数を(G)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "0"
+}

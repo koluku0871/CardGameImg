@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_041",
+  "PackNo": "DZ-SS16",
+  "CardName": "エンディアリング・ベンダーメイティーナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(G)から退却した時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "15000"
+}

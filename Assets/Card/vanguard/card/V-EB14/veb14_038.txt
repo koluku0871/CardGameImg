@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_038",
+  "PackNo": "V-EB14",
+  "CardName": "高徳の賢者ティオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのユニットが５枚以下なら、このユニットは、アタックできず、アタックされない。【永】【(R)】：あなたのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

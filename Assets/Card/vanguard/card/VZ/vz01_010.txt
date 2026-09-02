@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vz01_010",
+  "PackNo": "VZ",
+  "CardName": "ナイトスクワイヤアレン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=【起】【(V)/(R)】[【カウンターブラスト】(1)]そのターン中、このユニットのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

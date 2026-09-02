@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_186",
+  "PackNo": "DZ-TB01",
+  "CardName": "魔界建築士ガミジン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "72柱",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=〈マジックワールド〉【自】：このユニットが(R)に登場した時、【コスト】[ゲージ１を払う]ことで、あなたの山札からセットオーダーを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

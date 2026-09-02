@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0318",
+  "PackNo": "PR",
+  "CardName": "ダークメタル・カメレオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットが解呪された時、あなたのダメージゾーンから１枚選び、表にする。【永】【(V)/(R)/(G)】：抵抗（相手のカードの効果で選ばれない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_049",
+  "PackNo": "G-BT01",
+  "CardName": "ナイト・オブ・ドローンソード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【起】【(R)】：[このユニットをソウルに置く，あなたの手札から１枚選び、捨てる]１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

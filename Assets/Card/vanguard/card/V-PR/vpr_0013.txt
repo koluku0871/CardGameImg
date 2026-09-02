@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0013",
+  "PackNo": "V-PR",
+  "CardName": "すのうがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヴァンガードにヒットした時、【コスト】[【ソウルブラスト】(1)]することで、このユニットを手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

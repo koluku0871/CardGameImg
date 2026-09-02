@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gttd01_002",
+  "PackNo": "G-TTD01",
+  "CardName": "明石国行",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】真剣必殺（あなたのダメージが３枚以上で有効）：[【ソウルブラスト】(1)]このユニットがヴァンガードにアタックした時、このユニットがブーストされているなら、コストを払ってよい。払ったら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

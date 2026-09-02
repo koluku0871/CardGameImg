@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_010",
+  "PackNo": "V-BT02",
+  "CardName": "ヴリコラカス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】：(G)から退却した時、【ソウルチャージ】(1)してよい。【自】：あなたのカードの能力でソウルに置かれた時、あなたのターンなら、そのターン中、あなたのヴァンガード１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

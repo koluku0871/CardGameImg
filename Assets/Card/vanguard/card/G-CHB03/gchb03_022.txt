@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb03_022",
+  "PackNo": "G-CHB03",
+  "CardName": "ナイトメアドールりーざ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【Gブレイク】(1)：あなたの〈ワーカロイド〉の効果で、このユニットがソウルから(R)に登場した時、そのターン中、このユニットのパワー＋3000し、『【自】【(R)】：あなたのターンの終了時、【カウンターチャージ】(1)。』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

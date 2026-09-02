@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_048",
+  "PackNo": "G-BT02",
+  "CardName": "ワイバーンストライクバーグス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

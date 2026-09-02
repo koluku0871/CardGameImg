@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gftd01_013",
+  "PackNo": "G-FTD01",
+  "CardName": "くれすがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "FTD",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、他のあなたのユニットを１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

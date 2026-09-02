@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_032",
+  "PackNo": "V-EB10",
+  "CardName": "忠節の灯光ヨーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(2)]することで、そのターン中、グレード１以下のあなたの他のユニット２枚のパワーを、そのユニットの元々のパワー分、増やす。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

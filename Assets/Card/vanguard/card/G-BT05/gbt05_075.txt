@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_075",
+  "PackNo": "G-BT05",
+  "CardName": "錯綜の星輝兵カーボン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【起】【(R)】：[このユニットをソウルに置く]相手の呪縛カードがあるなら、山札から「錯綜の星輝兵カーボン」以外の「星輝兵」を含むグレード１以下のカードを１枚まで探し、(R)にコールし、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

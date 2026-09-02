@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0187",
+  "PackNo": "V-PR",
+  "CardName": "ゲイプクリーヴ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：ヴァンガードにアタックしたバトル中、パワー5000のあなたのリアガードがいるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

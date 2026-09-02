@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_087",
+  "PackNo": "G-BT05",
+  "CardName": "ファイヤーリング・ワイバーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが奇術能力を持つユニットをブーストした時、そのバトル中、ブーストされたユニットのパワー＋5000してよい。パワー＋5000したら、そのバトルの終了時、このユニットをソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

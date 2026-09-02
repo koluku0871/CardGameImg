@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_166",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[アスレチックマスター]氷川日菜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Pastel＊Palettes",
+  "Cost": "2",
+  "CardRarity": "GPR",
+  "Text": "effect=【自】【左前列の(R)】：このユニットがアタックしたバトル終了時、あなたのヴァンガードが「丸山彩」を含むなら、【コスト】[このユニットをソウルに置く]ことで、１枚引き、さらに【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbt01_038",
+  "PackNo": "MBT01",
+  "CardName": "煉獄の化身サー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【ソウルブラスト】(1)]このユニットが(V)か(R)に登場した時、このユニットと同じ縦列に相手のリアガードがいないなら、コストを払ってよい。払ったら、他のあなたのユニットを１枚選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

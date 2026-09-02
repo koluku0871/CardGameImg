@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_052",
+  "PackNo": "V-BT08",
+  "CardName": "戦巫女ツバキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストしたバトル終了時、【コスト】[【カウンターブラスト】(1)，手札を１枚捨てる]ことで、１枚引き、あなたの山札を上から１枚見て、山札の上か下に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

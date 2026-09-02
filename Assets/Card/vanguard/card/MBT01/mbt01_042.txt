@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbt01_042",
+  "PackNo": "MBT01",
+  "CardName": "煉獄竜騎士トゥーヴァー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

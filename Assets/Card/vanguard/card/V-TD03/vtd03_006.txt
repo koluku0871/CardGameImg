@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd03_006",
+  "PackNo": "V-TD03",
+  "CardName": "ストームライダーステリオス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

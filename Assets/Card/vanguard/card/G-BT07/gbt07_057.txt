@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt07_057",
+  "PackNo": "G-BT07",
+  "CardName": "ぶるるがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)結束（このターン中、あなたが(R)か(G)に２枚以上コールしていれば有効）：このユニットがヴァンガードにアタックした時、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

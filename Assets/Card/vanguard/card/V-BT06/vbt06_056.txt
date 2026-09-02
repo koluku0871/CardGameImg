@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_056",
+  "PackNo": "V-BT06",
+  "CardName": "特務忍獣ウィーズルホワイト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたの、(V)と(R)の「特務」を含むユニットすべてのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb03_041",
+  "PackNo": "G-CB03",
+  "CardName": "新曲お披露目アルティー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)から手札に戻された時、あなたのユニットを２枚まで選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

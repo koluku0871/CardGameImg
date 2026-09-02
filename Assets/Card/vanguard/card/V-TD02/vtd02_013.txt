@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd02_013",
+  "PackNo": "V-TD02",
+  "CardName": "魔竜導師ラクシャ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

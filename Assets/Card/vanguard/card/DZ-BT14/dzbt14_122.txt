@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_122",
+  "PackNo": "DZ-BT14",
+  "CardName": "X-CeeDaNCeイノ・プログレッテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン/幻影",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「X-CeeDaNCeファルステイター」からライドして登場した時、【コスト】[ライドデッキから「インバルディオ」を含むグレード３を１枚公開する]ことで、あなたのオーダーゾーンにSYSTEMCODE:X-ceed・トークンを１枚置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

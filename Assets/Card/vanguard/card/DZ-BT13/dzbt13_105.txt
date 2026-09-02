@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_105",
+  "PackNo": "DZ-BT13",
+  "CardName": "ツイストジャイア・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列に相手のリアガードがいないなら、このユニットと同じ縦列のあなたのリアガードすべては『ブースト』を得る。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

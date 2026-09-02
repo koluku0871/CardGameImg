@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd15_016",
+  "PackNo": "G-TD15",
+  "CardName": "原始星の長剣プロトソード",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

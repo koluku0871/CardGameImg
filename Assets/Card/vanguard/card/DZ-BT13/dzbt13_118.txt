@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_118",
+  "PackNo": "DZ-BT13",
+  "CardName": "境界刺突の時空巨兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアコロッサス",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンにこのカードがあなたの時刻印ゲージとして置かれた時、【ソウルチャージ】(1)し、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

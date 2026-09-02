@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd07_005",
+  "PackNo": "G-TD07",
+  "CardName": "星の奇術師エレン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

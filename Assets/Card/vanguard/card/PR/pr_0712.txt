@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0712",
+  "PackNo": "PR",
+  "CardName": "エマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=トリプルドライブ,gift=-,",
+  "Attack": "333",
+  "Defense": "0"
+}

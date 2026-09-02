@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_034",
+  "PackNo": "V-BT09",
+  "CardName": "オースティア・ヒーター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【起】【ソウル】：【コスト】[【カウンターブラスト】(1)，手札を１枚捨てる]ことで、このカードを手札に戻し、あなたのドロップゾーンから２枚までソウルに置く。,critical=クリティカル1,skill=ツインドライブ、プロテクト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

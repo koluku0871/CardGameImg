@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_035",
+  "PackNo": "G-CB07",
+  "CardName": "ディンキーエコーズパーラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【永】【トリガーゾーン】：あなたの「レインディア」を含むヴァンガードがいるなら、このカードのグレード＋３。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

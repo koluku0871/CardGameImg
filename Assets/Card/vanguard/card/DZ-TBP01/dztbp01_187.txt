@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_187",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[お前が踏み出すなら]マスキング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "RAISEASUILEN",
+  "Cost": "1",
+  "CardRarity": "GPR",
+  "Text": "effect=【自】：このユニットが「チュチュ」を含むあなたのカードの能力で登場したなら、このコストは『【ソウルブラスト】(2)』でも払える。このユニットが(R)に登場した時、あなたのヴァンガードが〈RAISEASUILEN〉なら、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

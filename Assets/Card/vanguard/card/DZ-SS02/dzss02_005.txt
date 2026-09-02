@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss02_005",
+  "PackNo": "DZ-SS02",
+  "CardName": "月光の旋律使いベティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが「ハピネス・コレクター」からライドして登場した時、１枚引き、あなたは「仮面の奇術師ハリー」のクレストを得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd04_007_2",
+  "PackNo": "DZ-SD04",
+  "CardName": "トレランス・ウィザード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

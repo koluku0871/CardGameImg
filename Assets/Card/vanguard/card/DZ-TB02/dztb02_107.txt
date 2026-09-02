@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_107",
+  "PackNo": "DZ-TB02",
+  "CardName": "毛利藤四郎祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのヴァンガードのグレードが、相手のヴァンガードのグレードより低いなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

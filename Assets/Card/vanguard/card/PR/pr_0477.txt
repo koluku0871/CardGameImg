@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0477",
+  "PackNo": "PR",
+  "CardName": "ストリッピング・シャドウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：他のあなたのユニットがソウルから(R)に登場した時、そのターン中、このユニットのパワー＋1000。さらに、それが奇術能力の効果で登場したなら、そのターン中、このユニットのパワー＋1000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

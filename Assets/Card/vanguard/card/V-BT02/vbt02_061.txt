@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_061",
+  "PackNo": "V-BT02",
+  "CardName": "忍妖ユキヒメ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

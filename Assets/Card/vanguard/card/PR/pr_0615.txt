@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0615",
+  "PackNo": "PR",
+  "CardName": "サイキック・バード",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《オラクルシンクタンク》のヴァンガードがいるなら、１枚まで引く。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

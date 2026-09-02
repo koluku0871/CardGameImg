@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0048",
+  "PackNo": "V-PR",
+  "CardName": "暗闇の騎士ルゴス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：あなたのユニットが６枚以上なら、このユニットのグレード＋１/パワー＋3000し、『インターセプト』を得る。（ガーディアンも含む）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

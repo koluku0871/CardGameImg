@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_016",
+  "PackNo": "V-EB02",
+  "CardName": "戦場の歌姫ビビアナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヴァンガードにヒットした時、このターン３回目以降のバトルなら、【コスト】[このユニットをソウルに置く]ことで、１枚引き、そのターン中、あなたのユニット１枚のパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

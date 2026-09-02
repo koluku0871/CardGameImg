@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb08_011",
+  "PackNo": "EB08",
+  "CardName": "ユーピター・ブラウクリューガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0100",
+  "PackNo": "V-PR",
+  "CardName": "再会の誓いポータ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：アタックしたバトル終了時、あなたのリアガードが５枚なら、このユニットを手札に戻してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

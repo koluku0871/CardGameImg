@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_077",
+  "PackNo": "V-BT06",
+  "CardName": "デッドナイフ・ジャグラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル2,skill=インターセプト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_028",
+  "PackNo": "EB01",
+  "CardName": "ライト・アレスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【前列の右列(R)】：あなたの《むらくも》のヴァンガードがいて、前列の左列(R)にあなたの「レフト・アレスター」がいるなら、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

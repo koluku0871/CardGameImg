@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0035",
+  "PackNo": "V-PR",
+  "CardName": "キング・オブ・ソード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：手札から登場した時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、あなたのユニット２枚のパワー＋3000。あなたのユニットが５枚以上なら、＋3000のかわりに＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

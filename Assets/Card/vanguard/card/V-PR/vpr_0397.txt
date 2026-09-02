@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0397",
+  "PackNo": "V-PR",
+  "CardName": "ブラスター・ブレード“HisHighness”",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(V)】：【コスト】[「ブラスター」を含むカードを【ソウルブラスト】(6)]することで、相手のヴァンガードに６ダメージ！※ファイトでは使用できません。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

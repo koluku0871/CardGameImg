@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb02_017",
+  "PackNo": "EB02",
+  "CardName": "レインボーライトキャリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(R)から手札に戻された時、あなたの《バミューダ△》のヴァンガードがいるなら、コストを払ってよい。払ったら、【ソウルチャージ】(1)し、１枚引く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

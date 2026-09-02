@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_086",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[涙、こぼれる想い]チュチュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "RAISEASUILEN",
+  "Cost": "1",
+  "CardRarity": "R+",
+  "Text": "effect=【起】【ソウル】【ターン1回】：あなたのヴァンガードが「レイヤ」を含むグレード２以上で、あなたの(R)に「[離してやんない]チュチュ」がいないなら、【コスト】[【ソウルブラスト】(1)]することで、あなたの、山札かドロップから「[離してやんない]チュチュ」を１枚まで探し、(R)にコールする。山札から探したなら、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

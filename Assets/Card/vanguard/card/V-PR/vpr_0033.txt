@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0033",
+  "PackNo": "V-PR",
+  "CardName": "バトルシスターとるて",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたの手札が10枚以上なら、このユニットのパワー＋10000/クリティカル＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

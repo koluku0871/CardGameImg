@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_054",
+  "PackNo": "V-EB12",
+  "CardName": "ドラゴンダンサーカタリナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

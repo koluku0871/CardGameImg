@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_085",
+  "PackNo": "V-BT09",
+  "CardName": "ラッキング・フランキーニ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ドロップゾーンから登場した時、【コスト】[【カウンターブラスト】(2)]することで、そのターン中、このユニットのパワー＋25000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

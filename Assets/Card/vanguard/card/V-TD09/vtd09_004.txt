@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd09_004",
+  "PackNo": "V-TD09",
+  "CardName": "白妙の魔術師コルツ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

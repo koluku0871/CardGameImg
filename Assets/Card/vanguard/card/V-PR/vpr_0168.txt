@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0168",
+  "PackNo": "V-PR",
+  "CardName": "アハラノフ・キャット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：相手のバインドゾーンか、このユニットと同じ縦列に相手の裏のカードがあるなら、【コスト】[このユニットをソウルに置く]ことで、そのターン中、あなたのユニット１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

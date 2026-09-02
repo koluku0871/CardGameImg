@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_020",
+  "PackNo": "V-EB11",
+  "CardName": "際立つ個性テルミーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【手札】：あなたがＧアシストで除外するカードは、手札２枚のかわりに、『このカードとソウル１枚』でもよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

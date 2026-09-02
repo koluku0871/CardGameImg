@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_022",
+  "PackNo": "V-BT04",
+  "CardName": "五大元素の支配者",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)】：アタックした時、あなたのソウルが15枚以上なら、【コスト】[手札とソウルをすべてドロップゾーンに置く]ことで、あなたのユニットをすべて【スタンド】する。,critical=クリティカル1,skill=ツインドライブ、プロテクト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

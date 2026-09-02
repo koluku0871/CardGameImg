@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_009",
+  "PackNo": "V-TB01",
+  "CardName": "静寂の奏者氷川紗夜",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Roselia",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(R)】：このターンに〈Roselia〉の楽曲がプレイされているなら、このユニットのパワー＋5000。【自】【(R)】：ヴァンガードにアタックしたバトル終了時、あなたのヴァンガードが〈Roselia〉なら、【コスト】[このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0083",
+  "PackNo": "V-PR",
+  "CardName": "グランドストライク・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたの、ユニットとバインドゾーンの表のグレードが合計12以上なら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

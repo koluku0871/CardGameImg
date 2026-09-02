@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_070",
+  "PackNo": "V-BT08",
+  "CardName": "次元ロボゴーファイヤー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックした時、相手の手札が10枚以上なら、そのバトル中、このユニットのパワー＋20000/クリティカル＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

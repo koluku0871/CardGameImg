@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gfc02_032",
+  "PackNo": "G-FC02",
+  "CardName": "夜霧の忍鬼アギトマル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、相手のバインドゾーンから１枚まで選び、ドロップゾーンに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_066",
+  "PackNo": "V-BT04",
+  "CardName": "重力場を操る者",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：相手のリアガードが２枚以下なら、【コスト】[このユニットをソウルに置く]ことで、そのターン中、あなたのユニット３枚のパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

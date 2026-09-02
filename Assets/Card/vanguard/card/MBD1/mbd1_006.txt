@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbd1_006",
+  "PackNo": "MBD1",
+  "CardName": "虚ろの双刃バイナリスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

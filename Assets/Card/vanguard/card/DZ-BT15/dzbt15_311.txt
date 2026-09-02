@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_311",
+  "PackNo": "DZ-BT15",
+  "CardName": "エレガントブレード",
+  "CardCategory": "必殺技",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/オフェンス",
+  "Cost": "1",
+  "CardRarity": "IZR",
+  "Text": "effect=使用条件－「井馬里陽愛」を含むユニット【自】【必殺技ゾーン】：この必殺技が使われた時、あなたのリアガードを２枚まで選び、次の相手のターン終了時まで、『【永】【(R)】：このユニットは相手のカードの効果で、選べず、退却しない。』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

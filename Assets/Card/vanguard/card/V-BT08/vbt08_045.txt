@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_045",
+  "PackNo": "V-BT08",
+  "CardName": "招き入れる根絶者ファルヲン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【ドロップゾーン】：相手のヴァンガードがデリートされた時、このカードを(R)にコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

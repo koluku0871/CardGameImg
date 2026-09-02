@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss11_075",
+  "PackNo": "DZ-SS11",
+  "CardName": "LyricalShootingStarS☆増刊号",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "雑誌",
+  "Cost": "3",
+  "CardRarity": "FFR",
+  "Text": "effect=「キョウカ」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたのドロップから、あなたのヴァンガードのグレード以下でそれぞれ異なるグレードのノーマルユニットを２枚まで選び、(R)にコールする。その後、あなたの、グレード１とグレード２とグレード３のユニットがそれぞれ１枚以上なら、そのターン中、あなたはオーダーを合計２回までプレイでき、「LyricalShootingStarS」以外のオーダーをプレイできない。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

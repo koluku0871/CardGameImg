@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_054_2",
+  "PackNo": "V-EB11",
+  "CardName": "FromCPソナタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "SSR",
+  "Text": "effect=【旋律】-【永】【(V)/(R)】：ヴァンガードにアタックしたバトル中、このユニットのパワー＋5000。これは【旋律】を持つあなたのユニットすべてが共有する。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td07_018",
+  "PackNo": "TD07",
+  "CardName": "虹色秘薬の医療士官",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

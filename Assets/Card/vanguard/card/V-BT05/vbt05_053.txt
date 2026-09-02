@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_053",
+  "PackNo": "V-BT05",
+  "CardName": "ブリアンウィッチポポ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、あなたの山札が10枚以下なら、そのバトル中、このユニットのパワー＋10000し、相手は手札から、グレード０しかコールできない。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

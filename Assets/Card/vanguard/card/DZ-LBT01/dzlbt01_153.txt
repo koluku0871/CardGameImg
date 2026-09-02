@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_153",
+  "PackNo": "DZ-LBT01",
+  "CardName": "潮騒と流星ロミリッタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのヴァンガードが曲を歌った時、【コスト】[【エネルギーブラスト】(3)]することで、あなたのドロップから曲カードを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

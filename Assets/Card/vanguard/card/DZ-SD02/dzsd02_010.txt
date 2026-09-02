@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd02_010",
+  "PackNo": "DZ-SD02",
+  "CardName": "シアン・コンガマード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "キメラ",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td03_011",
+  "PackNo": "TD03",
+  "CardName": "バターリング・ミノタウロス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(1)]このユニットがアタックした時、コストを払ってよい。払ったら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_031",
+  "PackNo": "V-EB09",
+  "CardName": "フラワリィ・ティアラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このターンに相手のカードが山札からドロップゾーンに置かれているなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

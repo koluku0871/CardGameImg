@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0200",
+  "PackNo": "PR",
+  "CardName": "喧嘩屋サンダーアロー・ドラコキッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(1)]あなたのターン中、相手のリアガードがドロップゾーンに置かれた時、コストを払ってよい。払ったら、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

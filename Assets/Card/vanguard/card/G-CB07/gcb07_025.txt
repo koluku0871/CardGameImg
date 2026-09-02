@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_025",
+  "PackNo": "G-CB07",
+  "CardName": "Chouchouランファ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：[【カウンターブラスト】(1)，【ソウルブラスト】(1)]あなたの他のリアガードが山札に置かれた時、あなたの「ティルア」を含むヴァンガードがいるなら、コストを払ってよい。払ったら、このユニットを【スタンド】し、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

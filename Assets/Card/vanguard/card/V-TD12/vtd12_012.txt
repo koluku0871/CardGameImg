@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd12_012",
+  "PackNo": "V-TD12",
+  "CardName": "ダンガン・マロン",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

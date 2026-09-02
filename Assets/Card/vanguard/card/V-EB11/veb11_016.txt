@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_016",
+  "PackNo": "V-EB11",
+  "CardName": "パールシスターズペルル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】：このカードはデッキに１枚だけ入れられる。【永】【(R)】：あなたの(R)の「パールシスターズペルラ」すべてのパワー＋18000/クリティカル＋１。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

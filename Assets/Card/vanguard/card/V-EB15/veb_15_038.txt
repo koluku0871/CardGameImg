@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb_15_038",
+  "PackNo": "V-EB15",
+  "CardName": "ささやく細波ミリッタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル2,skill=インターセプト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

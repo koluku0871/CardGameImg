@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_094",
+  "PackNo": "G-BT01",
+  "CardName": "影分身ゲソラーズ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd12_002",
+  "PackNo": "V-TD12",
+  "CardName": "高雅の騎士オルヴェール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたの(R)に、あなたのヴァンガードと同名のユニットがいるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

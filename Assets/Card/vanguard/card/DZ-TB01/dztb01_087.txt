@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_087",
+  "PackNo": "DZ-TB01",
+  "CardName": "ブーメラン・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "武装騎竜",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=〈ドラゴンワールド〉【自】【(R)】：このユニットが、アタックかブーストしたバトル終了時、あなたのヴァンガードが「牙王」を含むなら、このユニットを手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

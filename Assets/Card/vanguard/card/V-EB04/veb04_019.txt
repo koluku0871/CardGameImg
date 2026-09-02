@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_019",
+  "PackNo": "V-EB04",
+  "CardName": "黄昏の狩人アルテミス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：アタックがヒットした時、このユニットにあなたのソウルから１枚神装ゲージとして裏で置いてよい。【永】【(R)】：このユニットの神装ゲージ１枚につき、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

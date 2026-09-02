@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_020",
+  "PackNo": "G-CB05",
+  "CardName": "Chouchouセーラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：[【カウンターブラスト】(1)，このユニットをソウルに置く]あなたの「Chouchou」を含むヴァンガードがアタックしたバトルの終了時、コストを払ってよい。払ったら、１枚引き、あなたの手札から「Chouchou」を含むカードを１枚まで選び、(R)にコールし、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

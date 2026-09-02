@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_099",
+  "PackNo": "G-BT05",
+  "CardName": "換骨奪胎のギアバット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[手札から１枚選び、捨てる]このユニットが(R)に登場した時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

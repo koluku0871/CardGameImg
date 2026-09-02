@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtb02_045",
+  "PackNo": "G-TB02",
+  "CardName": "今剣特",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

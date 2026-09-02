@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb05_010",
+  "PackNo": "EB05",
+  "CardName": "バトルシスターぐらっせ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、あなたのソウルにカードがないなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

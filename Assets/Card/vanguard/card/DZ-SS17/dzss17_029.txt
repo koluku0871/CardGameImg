@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss17_029",
+  "PackNo": "DZ-SS17",
+  "CardName": "氷結の舞",
+  "CardCategory": "トリガーオーダー",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/キーパー",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=【永】：相手ターンのガードステップ中、このカードはトリガーユニットとして(G)にコールでき、グレード０/シールド15000のガーディアンになる。,critical=クリティカル-,skill=-,gift=ヒールトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "0"
+}

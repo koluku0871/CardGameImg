@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0266",
+  "PackNo": "V-PR",
+  "CardName": "博雅の快音ラナンテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "マーメイド",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：あなたのリアガードが５枚以上なら、このユニットは『インターセプト』を得て、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

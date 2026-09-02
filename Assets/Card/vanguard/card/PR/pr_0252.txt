@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0252",
+  "PackNo": "PR",
+  "CardName": "お天気お姉さんらむね",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：相手のターン中、このユニットが(R)からドロップゾーンに置かれた時、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

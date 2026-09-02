@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_011",
+  "PackNo": "V-EB05",
+  "CardName": "蒼銀の歌姫ブリュム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(R)】：相手のターン中、このユニットのパワー＋5000。【自】【(R)】：アタックがヴァンガードにヒットした時、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

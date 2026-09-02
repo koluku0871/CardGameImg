@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_077",
+  "PackNo": "DZ-LBT01",
+  "CardName": "幻想的な星光ウルペルナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードのグレードが、相手のヴァンガードのグレードより低いか、あなたのダメージゾーンが４枚以上なら、このユニットのパワー＋5000/シールド＋5000。（相手ターンも有効）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

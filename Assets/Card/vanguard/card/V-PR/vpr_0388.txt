@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0388",
+  "PackNo": "V-PR",
+  "CardName": "プレシードスワール・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：アタックした時、そのバトル中、このユニットのパワー＋8000。このターン３回目以降のバトルなら、＋8000のかわりに－8000。,critical=クリティカル1,skill=インターセプト,gift=,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

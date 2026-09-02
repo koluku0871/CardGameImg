@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_034",
+  "PackNo": "G-BT05",
+  "CardName": "暴脚のメテオモンク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【Gブレイク】(1)：[【カウンターブラスト】(1)]このユニットが解呪された時、コストを払ってよい。払ったら、相手の呪縛カードを１枚まで選び、そのカードは、次の相手のエンドフェイズ中、解呪されない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

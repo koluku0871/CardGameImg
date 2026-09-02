@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_071",
+  "PackNo": "V-BT07",
+  "CardName": "オッドパンチャーゼルノイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】【ターン1回】：あなたのドライブチェックで【前】トリガーが出た時、そのターン中、このユニットのクリティカル＋１してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

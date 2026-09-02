@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_057_2",
+  "PackNo": "V-EB11",
+  "CardName": "FromCPフィナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "SSR",
+  "Text": "effect=【旋律】（あなたの【旋律】をすべて共有する）【永】【(G)】：【旋律】を持つあなたのヴァンガードがいるなら、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

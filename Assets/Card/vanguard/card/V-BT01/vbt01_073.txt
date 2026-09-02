@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_073",
+  "PackNo": "V-BT01",
+  "CardName": "トランスライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストした時、【コスト】[【ソウルブラスト】(2)]することで、【カウンターチャージ】(1)し、そのアタックがヴァンガードにアタックしているなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

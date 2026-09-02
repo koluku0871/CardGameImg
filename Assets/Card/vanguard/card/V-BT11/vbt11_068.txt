@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_068",
+  "PackNo": "V-BT11",
+  "CardName": "キャノン・ボール",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0282",
+  "PackNo": "V-PR",
+  "CardName": "ホイッピング・セイラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：【レスト】しているあなたのリアガードが４枚以上で、このユニットが前列にいるなら、あなたの前列の他のリアガードすべてはアタックされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

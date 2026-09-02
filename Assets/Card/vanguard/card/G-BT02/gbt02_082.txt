@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_082",
+  "PackNo": "G-BT02",
+  "CardName": "全力科学者にゃんしろー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

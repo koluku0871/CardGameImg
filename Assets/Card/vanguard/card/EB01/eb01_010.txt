@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_010",
+  "PackNo": "EB01",
+  "CardName": "双剣士MUSASHI",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、あなたのリアガードが相手のリアガードより多いなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

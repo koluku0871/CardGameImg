@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_041",
+  "PackNo": "G-CB07",
+  "CardName": "Chouchouリルン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)：あなたの「Chouchou」を含むヴァンガードがいるなら、このユニットのパワー＋2000し、あなたの「Chouchou」を含むグレード２以上のリアガードすべてに、『【永】【(R)】：抵抗』と『ブースト』を与える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

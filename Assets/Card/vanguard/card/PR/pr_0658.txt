@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0658",
+  "PackNo": "PR",
+  "CardName": "タイダル・アサルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットがヴァンガードにアタックしたバトルの終了時、あなたの《アクアフォース》のヴァンガードがいるなら、このユニットを【スタンド】し、そのターン中、パワー－5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

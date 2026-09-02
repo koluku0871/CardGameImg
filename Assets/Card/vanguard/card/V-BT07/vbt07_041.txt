@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_041",
+  "PackNo": "V-BT07",
+  "CardName": "専任整備士ストルジーニ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのドライブチェックで【前】トリガーが出た時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

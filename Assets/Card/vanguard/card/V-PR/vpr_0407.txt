@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0407",
+  "PackNo": "V-PR",
+  "CardName": "繋がる絆ファネッサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：アタックかブーストしたバトル終了時、【コスト】[ドロップゾーンからグレード３以上を１枚山札の下に置く]ことで、このユニットをソウルに置き、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

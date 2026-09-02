@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_060",
+  "PackNo": "DZ-LBT02",
+  "CardName": "ぬいぬいクリエイト!クレアーティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが手札から(G)に置かれた時、【コスト】[手札からオーダーカードを１枚捨てる]ことで、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

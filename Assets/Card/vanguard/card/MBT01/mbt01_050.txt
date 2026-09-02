@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbt01_050",
+  "PackNo": "MBT01",
+  "CardName": "鳴り響く根絶者プロヲーグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：相手のヴァンガードがデリートされた時、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

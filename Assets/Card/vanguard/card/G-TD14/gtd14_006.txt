@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd14_006",
+  "PackNo": "G-TD14",
+  "CardName": "Chouchouトルア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

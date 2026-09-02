@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_077",
+  "PackNo": "V-BT10",
+  "CardName": "キルパレード・メーヴィス",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

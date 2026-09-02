@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss17_004",
+  "PackNo": "DZ-SS17",
+  "CardName": "決闘マニア笹波雲明",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "南雲原中/ストーリー",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが「数日遅れの新入生笹波雲明」からライドして登場した時、あなたの山札を上から５枚見て、〈ストーリー〉のユニットカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

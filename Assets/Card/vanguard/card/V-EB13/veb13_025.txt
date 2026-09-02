@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_025",
+  "PackNo": "V-EB13",
+  "CardName": "回天の魔術師エストラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(V)/(R)】【ターン1回】：【コスト】[【ソウルブラスト】(15)]することで、【カウンターチャージ】(5)。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd09_007",
+  "PackNo": "G-TD09",
+  "CardName": "クロノビート・バッファロー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(R)】：あなたの(V)にグレード３以上の〈十二支刻獣〉があるなら、このユニットのパワー＋2000。（ハーツカードの種族も含む）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

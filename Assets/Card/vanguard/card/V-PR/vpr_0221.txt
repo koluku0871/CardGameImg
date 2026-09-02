@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0221",
+  "PackNo": "V-PR",
+  "CardName": "クロッカスナイト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、グレード０のあなたのリアガードが２枚以上なら、【コスト】[【ソウルブラスト】(1)，手札を１枚捨てる]ことで、１枚引き、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

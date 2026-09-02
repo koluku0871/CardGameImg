@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_058",
+  "PackNo": "G-CHB01",
+  "CardName": "スチームファイターナギッシュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがヴァンガードにアタックした時、あなたの、相手のリアガードより多いリアガード１枚につき、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

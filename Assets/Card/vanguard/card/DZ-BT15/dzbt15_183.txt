@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_183",
+  "PackNo": "DZ-BT15",
+  "CardName": "もちもち黄粉餅",
+  "CardCategory": "トリガーオーダー",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/ディフェンス",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=【永】：相手ターンのガードステップ中、このカードはトリガーユニットとして(G)にコールでき、グレード０/シールド15000のガーディアンになる。,critical=クリティカル-,skill=-,gift=クリティカルトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "0"
+}

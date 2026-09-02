@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_035",
+  "PackNo": "V-EB03",
+  "CardName": "要の守護天使ベカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、あなたのヴァンガードがグレード３以上なら、そのターン中、あなたのヴァンガード１枚とこのユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

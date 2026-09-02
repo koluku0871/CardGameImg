@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0153",
+  "PackNo": "PR",
+  "CardName": "千の名を持つ飛竜騎士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[【ソウルブラスト】(1)]あなたの《なるかみ》の〈ノーブル〉のヴァンガードを１枚選び、そのターン中、このユニットを同名のカードとしても扱う。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

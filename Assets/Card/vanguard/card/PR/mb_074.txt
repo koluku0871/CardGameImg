@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_074",
+  "PackNo": "PR",
+  "CardName": "忍獣ヒガングマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：相手のターン中、このユニットが(R)から退却した時、相手の手札が４枚以上なら、相手は自分の手札から１枚選び、捨てる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

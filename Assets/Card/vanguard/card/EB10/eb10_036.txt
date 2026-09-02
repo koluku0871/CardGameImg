@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb10_036",
+  "PackNo": "EB10",
+  "CardName": "Duo素敵なおもちゃ箱メナム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのカード名に「Duo」を含むヴァンガードがいるなら、あなたの「Duo素敵なおもちゃ箱メナム」を４枚まで選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_052",
+  "PackNo": "V-EB14",
+  "CardName": "スチームパフォーマーイブラヌム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードがアタックされた時、【コスト】[手札を１枚バインドする]ことで、このユニットを(G)に移動させ、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

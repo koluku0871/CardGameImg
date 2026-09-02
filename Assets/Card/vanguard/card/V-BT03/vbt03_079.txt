@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_079",
+  "PackNo": "V-BT03",
+  "CardName": "轟雷跋扈のワイバーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、相手のリアガードを１枚まで選び、そのユニットと同じ縦列の、ユニットのいない他の(R)に移動させる。選ばなかったら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

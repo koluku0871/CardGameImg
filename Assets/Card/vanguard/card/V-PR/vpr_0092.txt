@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0092",
+  "PackNo": "V-PR",
+  "CardName": "ぷらいがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(G)】：登場時、あなたの手札が１枚以下なら、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、このユニットが退却する際、かわりにユニットのいない(R)に移動させてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

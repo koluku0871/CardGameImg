@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_062",
+  "PackNo": "V-BT08",
+  "CardName": "パープルジェム・カーバンクル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのヴァンガードが【スタンド】した時、そのターン中、このユニットのパワー＋15000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0206_2",
+  "PackNo": "V-PR",
+  "CardName": "バトルライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：ライドされた時、１枚引く。さらに、相手のヴァンガードがグレード１以上なら、あなたはクイックシールド・チケットを１枚手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

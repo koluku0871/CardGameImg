@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_091",
+  "PackNo": "G-BT03",
+  "CardName": "アモンの眷族ヘルズ・ネイル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[【カウンターブラスト】(1)-カード名に「アモン」を含むカード]このユニットがヴァンガードにアタックした時、コストを払ってよい。払ったら、【ソウルチャージ】(3)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

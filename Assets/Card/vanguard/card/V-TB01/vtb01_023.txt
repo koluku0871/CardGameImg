@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_023",
+  "PackNo": "V-TB01",
+  "CardName": "頑張り屋さん牛込りみ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Poppin'Party",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードがアタックした時、相手のヴァンガードがグレード３以上なら、【コスト】[手札を１枚捨て、手札から【クリティカル】トリガーを１枚公開する]ことで、そのバトル中、あなたの(V)の〈Poppin'Party〉のパワー＋10000/ドライブ＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0419",
+  "PackNo": "V-PR",
+  "CardName": "ジュエリィライトクラシーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)】：登場時、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、あなたの山札を上から３枚見て、１枚を手札に加え、１枚を山札の下に置き、残りを(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

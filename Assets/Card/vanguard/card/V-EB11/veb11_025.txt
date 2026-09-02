@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_025",
+  "PackNo": "V-EB11",
+  "CardName": "赤面高潮アイレイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：「リヴィエール」を含むあなたのヴァンガードが登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

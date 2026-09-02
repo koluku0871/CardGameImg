@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_037",
+  "PackNo": "V-EB08",
+  "CardName": "掘削怪獣モグドルラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストした時、あなたのダメージゾーンが４枚以上なら、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

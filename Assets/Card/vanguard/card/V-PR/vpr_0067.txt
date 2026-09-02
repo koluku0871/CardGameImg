@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0067",
+  "PackNo": "V-PR",
+  "CardName": "竜槍のディルモンド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、あなたのリアガードが相手より少ないなら、【コスト】[【カウンターブラスト】(2)]することで、このユニットと同じ縦列にいる、相手のリアガードを２枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

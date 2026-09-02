@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_055",
+  "PackNo": "DZ-TB02",
+  "CardName": "白山吉光祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-剣",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたバトル終了時、あなたのオーダーゾーンに「地下に眠る千両箱」があるなら、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

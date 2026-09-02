@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt12_082",
+  "PackNo": "V-BT12",
+  "CardName": "轟腕の抹消者ガッサーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：いずれかのカードがバインドされた時、相手の後列のリアガードを１枚選び、ユニットのいない前列の(R)に移動させてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

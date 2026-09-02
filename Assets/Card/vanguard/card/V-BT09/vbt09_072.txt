@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_072",
+  "PackNo": "V-BT09",
+  "CardName": "フレイム・ラウディー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴブリン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：相手のターンに、(R)か(G)から退却した時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

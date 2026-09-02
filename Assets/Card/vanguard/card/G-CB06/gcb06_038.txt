@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb06_038",
+  "PackNo": "G-CB06",
+  "CardName": "コスモスフィア・キャット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの他のユニットを２枚まで選び、呪縛カード１枚につき、そのターン中、パワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

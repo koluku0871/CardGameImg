@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gttd01_004",
+  "PackNo": "G-TTD01",
+  "CardName": "大倶利伽羅",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_013",
+  "PackNo": "V-EB05",
+  "CardName": "過保護な寵児エノ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(V)/(R)】：ヴァンガードにアタックしたバトル中、このユニットのパワー＋2000。【自】【(R)】：あなたのヴァンガードのアタックがヴァンガードにヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

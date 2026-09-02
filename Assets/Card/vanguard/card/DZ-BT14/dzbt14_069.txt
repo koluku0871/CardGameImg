@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_069",
+  "PackNo": "DZ-BT14",
+  "CardName": "テンダープッシュアピュイル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたの他のリアガードがこのユニットと同じ縦列の(R)から手札に戻された時、あなたのヴァンガードが「Astesice」を含むなら、【コスト】[このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

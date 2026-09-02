@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_015",
+  "PackNo": "V-EB08",
+  "CardName": "吟遊死人アルフィオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゾンビ",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：手札から登場した時、あなたのドロップゾーンが10枚以上なら、【コスト】[手札を１枚捨てる]ことで、【カウンターチャージ】(1)/【ソウルチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

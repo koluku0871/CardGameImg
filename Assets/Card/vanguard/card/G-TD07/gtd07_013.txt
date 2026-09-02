@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd07_013",
+  "PackNo": "G-TD07",
+  "CardName": "エッグ・ジャグラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：[【ソウルブラスト】(1)]このユニットがソウルから(R)に登場した時、あなたの《ペイルムーン》のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

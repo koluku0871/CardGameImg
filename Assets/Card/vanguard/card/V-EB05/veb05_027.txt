@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_027",
+  "PackNo": "V-EB05",
+  "CardName": "這い上がるガールエスト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[手札からそれぞれ別名のグレード３を合計２枚捨てる]ことで、あなたの山札からグレード４を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

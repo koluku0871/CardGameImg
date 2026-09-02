@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_068",
+  "PackNo": "DZ-LBT01",
+  "CardName": "きちんとふわっと風紀乙女マリエリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックしたバトル終了時、あなたのヴァンガードが「AbsoluteZero」を含むグレード３以上なら、【コスト】[このユニットを退却させる]ことで、グレード２以下の相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

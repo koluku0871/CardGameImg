@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt09_063",
+  "PackNo": "G-BT09",
+  "CardName": "凛然の騎士ネーサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【起】【(R)】【Gブレイク】(1)儀式３（あなたのドロップゾーンにグレード１が３枚以上で有効）：[このユニットを【レスト】する]他のあなたのユニットを２枚まで選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

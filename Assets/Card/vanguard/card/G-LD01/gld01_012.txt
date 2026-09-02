@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gld01_012",
+  "PackNo": "G-LD01",
+  "CardName": "撃退者ウーンデッド・エンジェル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "LD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

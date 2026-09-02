@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_095",
+  "PackNo": "DZ-BT15",
+  "CardName": "ハウルオウル",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【レンアイコン】,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

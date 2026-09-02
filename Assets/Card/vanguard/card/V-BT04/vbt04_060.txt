@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_060",
+  "PackNo": "V-BT04",
+  "CardName": "番傘の忍鬼スケロック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他のユニットがアタックしたバトル終了時、そのユニットが追加された(R)にいるなら、【コスト】[【カウンターブラスト】(1)]することで、このユニットとそのユニットの位置を交換する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

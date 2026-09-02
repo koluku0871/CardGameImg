@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_007",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[ヒーローがくれたパン]青葉モカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Afterglow",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【左前列の(R)】：このユニットがアタックした時、あなたのヴァンガードが「美竹蘭」を含むグレード３以上なら、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋5000。このターンにこの能力のコストを払った２回目なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

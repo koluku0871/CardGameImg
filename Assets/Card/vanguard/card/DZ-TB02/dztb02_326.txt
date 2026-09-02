@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_326",
+  "PackNo": "DZ-TB02",
+  "CardName": "京極正宗特",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】：このユニットが「京極正宗戦闘」からライドして登場した時、あなたの山札から、「江戸城潜入調査」を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

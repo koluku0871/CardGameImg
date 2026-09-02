@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0261",
+  "PackNo": "V-PR",
+  "CardName": "トロピカルクロップ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：あなたのユニットが５枚以上なら、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_059",
+  "PackNo": "G-BT03",
+  "CardName": "ぶれいがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが【インターセプト】した時、コストを払ってよい。払ったら、あなたの山札の上から２枚を(G)に【レスト】でコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

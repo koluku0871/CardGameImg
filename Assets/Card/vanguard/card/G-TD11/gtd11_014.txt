@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd11_014",
+  "PackNo": "G-TD11",
+  "CardName": "痛撃の騎士グルギテス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

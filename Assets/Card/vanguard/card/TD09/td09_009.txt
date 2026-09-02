@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td09_009",
+  "PackNo": "TD09",
+  "CardName": "レッドリバー・ドラグーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

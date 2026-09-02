@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0405",
+  "PackNo": "V-PR",
+  "CardName": "巨象闘士パオーン・マスク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのユニットがカードの能力で【スタンド】した時、そのターン中、あなたのヴァンガード１枚とこのユニットのパワー＋10000してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

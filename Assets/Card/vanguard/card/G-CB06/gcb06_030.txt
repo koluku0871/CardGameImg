@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb06_030",
+  "PackNo": "G-CB06",
+  "CardName": "ダークメタル・カメレオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)/(R)/(G)】：抵抗（相手のカードの効果で選ばれない）【自】【Gブレイク】(1)：このユニットが解呪された時、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

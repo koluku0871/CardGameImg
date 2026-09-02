@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vmb01_020",
+  "PackNo": "V-MB01",
+  "CardName": "ベリコウスティドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：あなたのターンに相手のリアガードが退却した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

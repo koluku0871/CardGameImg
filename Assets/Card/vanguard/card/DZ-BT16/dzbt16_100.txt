@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_100",
+  "PackNo": "DZ-BT16",
+  "CardName": "天奏楽団レクティナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル/幻影",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「リアノーン」を含むグレード３にライドされた時、あなたのドロップから「天奏楽団」を含むユニットカードを１枚まで選び、(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

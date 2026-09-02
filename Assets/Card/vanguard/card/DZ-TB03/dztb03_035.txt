@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_035",
+  "PackNo": "DZ-TB03",
+  "CardName": "煉獄騎士団エヴィルグレイブ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "武装騎竜",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=〈ダークネスドラゴンワールド〉【自】：あなたのターンにこのユニットがカードの能力で(R)から退却した時、１枚引く。【永】【(G)】：あなたのヴァンガードが「煉獄騎士」を含むなら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

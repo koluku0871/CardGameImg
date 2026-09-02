@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_079",
+  "PackNo": "V-BT06",
+  "CardName": "爆発ピエロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴブリン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb02_053",
+  "PackNo": "G-EB02",
+  "CardName": "マシニング・ツリーホッパー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【Gブレイク】(1)：[このユニットを山札に戻す]相手のリアガードを１枚選び、そのユニットは次の相手のスタンドフェイズに【スタンド】できない。山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

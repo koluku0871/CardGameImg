@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vsd02_005",
+  "PackNo": "V-SD02",
+  "CardName": "ドラゴンナイトネハーレン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(2)]することで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

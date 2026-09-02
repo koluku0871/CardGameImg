@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0027",
+  "PackNo": "V-PR",
+  "CardName": "沈黙の騎士ギャラティン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

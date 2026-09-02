@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0860",
+  "PackNo": "PR",
+  "CardName": "ガーディアンシールド",
+  "CardCategory": "その他",
+  "Element": "",
+  "CardType": "-",
+  "CardSubType": "ブリッツオーダー",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=アタックされているあなたのユニットを１枚選び、そのバトル中、パワー＋20000。,critical=クリティカル0,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0041",
+  "PackNo": "V-PR",
+  "CardName": "フィアーソード・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを退却させる]ことで、そのターン中、あなたのユニット２枚のパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

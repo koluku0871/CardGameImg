@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_040",
+  "PackNo": "V-EB11",
+  "CardName": "静閑なる情熱ソルダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードと同名の、あなたのリアガードすべては『ブースト』を得て、相手のカードの効果で選ばれない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

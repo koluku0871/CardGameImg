@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_072",
+  "PackNo": "G-BT05",
+  "CardName": "混迷の星輝兵ジンク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの「カオス」を含むヴァンガードがいて、相手の呪縛カードがあるなら、【カウンターチャージ】(2)/【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_046",
+  "PackNo": "V-EB07",
+  "CardName": "ウォーリア・オブ・チャクラム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン/ヒーロー",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードがアタックされた時、【コスト】[【ソウルブラスト】(1)]することで、あなたのダメージゾーン１枚につき、そのターン中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

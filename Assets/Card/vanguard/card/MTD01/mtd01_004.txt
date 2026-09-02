@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mtd01_004",
+  "PackNo": "MTD01",
+  "CardName": "慢心する根絶者ギヲ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

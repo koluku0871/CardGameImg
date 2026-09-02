@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt12_070",
+  "PackNo": "V-BT12",
+  "CardName": "白燐の魔術師レヴォルタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【カウンターブラスト】(1)]することで、あなたの山札を上から３枚公開し、１枚まで手札に加え、残りをソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

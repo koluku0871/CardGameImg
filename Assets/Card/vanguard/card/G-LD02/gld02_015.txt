@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gld02_015",
+  "PackNo": "G-LD02",
+  "CardName": "ケンレンマスターゴジョー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ギルマン",
+  "Cost": "0",
+  "CardRarity": "LD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

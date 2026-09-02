@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_036",
+  "PackNo": "V-EB09",
+  "CardName": "アーマードマンモス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、【コスト】[このユニットの武装ゲージをすべて捨てる]ことで、そのバトル中、相手は手札から(G)にコールする際、このコストで捨てた武装ゲージの枚数以上でしかコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

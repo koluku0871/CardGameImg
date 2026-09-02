@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt12_073",
+  "PackNo": "G-BT12",
+  "CardName": "忍竜ホウジン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)：このユニットが(R)に登場した時、相手は自分のバインドゾーンから１枚選び、ドロップゾーンに置く。相手のバインドゾーンにカードがあるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

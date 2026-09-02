@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_040",
+  "PackNo": "V-BT07",
+  "CardName": "カノントルーパーハスカール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたの(V)の「闘拳竜ゴッドハンド・ドラゴン」がアタックした時、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

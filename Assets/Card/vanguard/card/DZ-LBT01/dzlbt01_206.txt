@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_206",
+  "PackNo": "DZ-LBT01",
+  "CardName": "Earnescorrectフォロワーリアデッタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "1",
+  "CardRarity": "SR",
+  "Text": "effect=【永】【(R)】：このターンにあなたが「目指せ！最強のアイドル！」をプレイしているなら、相手はインターセプトできない。【自】【後列の(R)】【ターン1回】：あなたのヴァンガードのアタックがヒットした時、このユニットを【スタンド】させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

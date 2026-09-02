@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd05_011",
+  "PackNo": "V-TD05",
+  "CardName": "オラクルガーディアンニケ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

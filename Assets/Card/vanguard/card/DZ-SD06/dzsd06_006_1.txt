@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd06_006_1",
+  "PackNo": "DZ-SD06",
+  "CardName": "心気充実アドリアーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

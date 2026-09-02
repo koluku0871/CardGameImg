@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_076",
+  "PackNo": "V-BT04",
+  "CardName": "風の開拓者",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのドライブチェックでトリガーユニットが出た時、そのカードをソウルに置いてよい。置いたら、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

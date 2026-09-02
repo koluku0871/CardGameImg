@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0018",
+  "PackNo": "PR",
+  "CardName": "カップボウラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)】：あなたの《ノヴァグラップラー》のリアガードが【レスト】した時、そのターン中、このユニットのパワー＋1000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

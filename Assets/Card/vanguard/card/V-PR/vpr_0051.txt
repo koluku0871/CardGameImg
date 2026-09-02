@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0051",
+  "PackNo": "V-PR",
+  "CardName": "神宮衛士ノヅチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)】：登場時、あなたの手札を望む枚数、望む順で山札の下に置き、１枚以上置いたら、それらと同じ枚数引き、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

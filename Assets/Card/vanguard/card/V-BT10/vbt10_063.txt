@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_063",
+  "PackNo": "V-BT10",
+  "CardName": "積載竜アケロカーゴ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのカードの能力でこのユニットが(R)から退却した時、このユニットの武装ゲージから１枚手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

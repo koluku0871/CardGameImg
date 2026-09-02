@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_028",
+  "PackNo": "V-EB10",
+  "CardName": "ドライセル・ラビット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのカードが山札からドロップゾーンに置かれた時、このユニットが追加された(R)にいるなら、【コスト】[手札を１枚捨てる]ことで、そのターン中、このユニットのパワー＋15000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

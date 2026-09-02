@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vz01_013",
+  "PackNo": "VZ",
+  "CardName": "スターライト・ユニコーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、他のあなたの《ロイヤルパラディン》を１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

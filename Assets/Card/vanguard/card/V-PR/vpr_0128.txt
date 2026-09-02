@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0128",
+  "PackNo": "V-PR",
+  "CardName": "イグナイト・プロポーザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：あなたのソウルが５枚以上なら、このユニットのパワー＋5000し、『インターセプト』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_060",
+  "PackNo": "V-EB09",
+  "CardName": "ブルブル・バンブル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

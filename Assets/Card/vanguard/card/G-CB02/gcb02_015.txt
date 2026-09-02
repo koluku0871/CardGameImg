@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb02_015",
+  "PackNo": "G-CB02",
+  "CardName": "ウェーブハント・セイラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】連波-３回目以降（各ターンの指定されたバトルで有効）：このユニットのアタックがヴァンガードにヒットした時、【カウンターチャージ】(1)/【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

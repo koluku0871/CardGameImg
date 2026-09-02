@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_074",
+  "PackNo": "V-BT02",
+  "CardName": "アマランス・ビーストテイマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：ヴァンガードにアタックした時、【コスト】[他のリアガードを１枚ソウルに置く]ことで、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

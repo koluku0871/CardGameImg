@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_104",
+  "PackNo": "DZ-BT15",
+  "CardName": "メガコロニー戦闘員⁺“Type.A”",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【後列の(R)】：あなたのターン中、あなたのヴァンガードがグレード３以上なら、あなたの後列の「メガコロニー戦闘員⁺」を含む他のリアガード１枚につき、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

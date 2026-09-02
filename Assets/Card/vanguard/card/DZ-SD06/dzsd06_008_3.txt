@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd06_008_3",
+  "PackNo": "DZ-SD06",
+  "CardName": "お茶目な落書きシーレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

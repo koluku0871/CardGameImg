@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_044",
+  "PackNo": "V-BT05",
+  "CardName": "ギガンテック・パルバライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

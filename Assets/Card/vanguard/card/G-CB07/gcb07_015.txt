@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_015",
+  "PackNo": "G-CB07",
+  "CardName": "照り映える輝石サンディー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【手札】：このカードは【治】であるかのように【Ｇガーディアン】をコールするコストにできる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

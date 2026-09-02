@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_036",
+  "PackNo": "V-EB05",
+  "CardName": "ちゃめっ気満載シラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの手札が５枚以上なら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

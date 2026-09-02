@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb03_045",
+  "PackNo": "G-CB03",
+  "CardName": "BN-PR♥ISMサファイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【自】【(R)】：あなたの「PR♥ISM」を元々含むグレード３以上のユニットが(V)に登場した時、他のあなたの「PR♥ISM」を含むリアガードを１枚選び、手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

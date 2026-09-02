@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_031",
+  "PackNo": "V-EB13",
+  "CardName": "スチームメイデンイシュビエ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：アタックしたバトル終了時、あなたの手札が３枚以下なら、【コスト】[【カウンターブラスト】(1)，このユニットを退却させる]ことで、２枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb07_017",
+  "PackNo": "EB07",
+  "CardName": "バトルシスターたると",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

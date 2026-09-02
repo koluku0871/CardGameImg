@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_056",
+  "PackNo": "V-EB12",
+  "CardName": "戦場の歌姫ステファナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)】：あなたの「戦場の歌姫ステファナ」は後列からでもアタックできる。【永】【(R)】：後列にいるなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

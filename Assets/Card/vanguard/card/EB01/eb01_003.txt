@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_003",
+  "PackNo": "EB01",
+  "CardName": "ハイパワードライザーカスタム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、このユニットと同じ縦列の後列にあなたの「バトルライザー」がいるなら、このユニットのパワー＋8000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

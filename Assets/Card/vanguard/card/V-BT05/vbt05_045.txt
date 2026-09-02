@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_045",
+  "PackNo": "V-BT05",
+  "CardName": "ローディング・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのターン終了時、あなたのユニットが５枚以上なら、【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、２枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

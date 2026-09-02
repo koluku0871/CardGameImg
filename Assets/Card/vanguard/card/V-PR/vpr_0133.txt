@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0133",
+  "PackNo": "V-PR",
+  "CardName": "デスアーミー・レディ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

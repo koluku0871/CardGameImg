@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0113",
+  "PackNo": "V-PR",
+  "CardName": "汚泥怪獣ドロヘッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(G)】：登場時、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、相手はブーストできない。（すでに行われているブーストは有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

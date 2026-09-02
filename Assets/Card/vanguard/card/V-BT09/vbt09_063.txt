@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_063",
+  "PackNo": "V-BT09",
+  "CardName": "エグザクト・フローズン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【カウンターブラスト】(2)]することで、あなたのソウルからグレード２以下を１枚まで(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

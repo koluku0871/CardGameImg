@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_033",
+  "PackNo": "V-BT06",
+  "CardName": "特務忍獣ウィーズルイエロー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：あなたの(R)の他の「特務」を含むユニットすべては『インターセプト』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

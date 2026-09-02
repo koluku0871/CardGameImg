@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_011",
+  "PackNo": "V-EB04",
+  "CardName": "戦巫女シタテルヒメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【起】【(V)/(R)】：【コスト】[【カウンターブラスト】(1)]することで、そのターン中、あなたが次に払う【ソウルブラスト】は(2)減り、あなたの他のユニット１枚のパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

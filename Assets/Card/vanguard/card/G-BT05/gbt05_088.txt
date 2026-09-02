@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_088",
+  "PackNo": "G-BT05",
+  "CardName": "ドリーミング・バイコーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【自】【(R)】【Gブレイク】(1)：[このユニットをソウルに置く]他のあなたのリアガードがソウルに置かれた時、コストを払ってよい。払ったら、他のあなたのユニットを３枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

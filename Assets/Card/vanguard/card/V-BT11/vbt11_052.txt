@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_052",
+  "PackNo": "V-BT11",
+  "CardName": "忍獣イブダヌキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヴァンガードにヒットした時、【コスト】[【ソウルブラスト】(1)]することで、相手のリアガードを１枚選び、手札に戻す。戻したら、相手は自分の手札を１枚選び、捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

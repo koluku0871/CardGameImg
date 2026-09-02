@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcmb01_044",
+  "PackNo": "G-CMB01",
+  "CardName": "責苛む根絶者ゴヲト",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れることができない）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

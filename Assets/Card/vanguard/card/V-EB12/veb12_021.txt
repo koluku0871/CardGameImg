@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_021",
+  "PackNo": "V-EB12",
+  "CardName": "忘我の騎士ケイラウト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)/(G)】：あなたの(V)か(R)に「ブラスター・ダーク」がいるなら、このユニットのパワー＋10000/シールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

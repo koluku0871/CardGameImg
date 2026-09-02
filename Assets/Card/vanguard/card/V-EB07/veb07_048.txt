@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_048",
+  "PackNo": "V-EB07",
+  "CardName": "ファームド・ガイアス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル2,skill=インターセプト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

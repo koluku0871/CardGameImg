@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0285",
+  "PackNo": "V-PR",
+  "CardName": "ウェッジムーブ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)】：アタックがヒットした時、【コスト】[手札を１枚バインドする]ことで、１枚引く。【永】【手札】：このカードを捨てる際、グレード３として捨ててよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

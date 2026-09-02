@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd10_007",
+  "PackNo": "V-TD10",
+  "CardName": "ギアズ・リピーター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：手札から登場した時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

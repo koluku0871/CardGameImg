@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_089",
+  "PackNo": "DZ-SS04",
+  "CardName": "兄者が大好きベベベベ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ベベベベベイビー",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードが、「ベベベベ」を含むか《コロコロ》で、あなたのドロップにブリッツオーダーがあるなら、このカードの元々のパワーは10000になる。（相手ターンも有効）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

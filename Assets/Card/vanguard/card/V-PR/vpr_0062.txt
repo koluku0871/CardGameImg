@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0062",
+  "PackNo": "V-PR",
+  "CardName": "魁の戦乙女ローレル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：あなたの他のリアガード１枚につき、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

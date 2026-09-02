@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_123",
+  "PackNo": "DZ-TB02",
+  "CardName": "九鬼正宗祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが「正宗」を含むユニットをブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

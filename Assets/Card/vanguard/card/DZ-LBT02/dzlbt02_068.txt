@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_068",
+  "PackNo": "DZ-LBT02",
+  "CardName": "待望の一品ポラニア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットがグレード３以上にアタックした時、【ソウルチャージ】(1)し、ノーマルユニットが【ソウルチャージ】されたなら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad5_008",
+  "PackNo": "KAD5",
+  "CardName": "草原に吹く風サグラモール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd12_008",
+  "PackNo": "V-TD12",
+  "CardName": "モモスモ・ピーチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：ブーストした時、あなたのユニットが５枚以上なら、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

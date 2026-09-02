@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb06_027",
+  "PackNo": "EB06",
+  "CardName": "PR♥ISM-Sコロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【自】【(R)】：他のあなたの《バミューダ△》が(R)から手札に戻された時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

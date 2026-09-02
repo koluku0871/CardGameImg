@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_059",
+  "PackNo": "V-EB03",
+  "CardName": "メイデン・オブ・サリックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

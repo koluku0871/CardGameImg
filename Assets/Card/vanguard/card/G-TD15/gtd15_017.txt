@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd15_017",
+  "PackNo": "G-TD15",
+  "CardName": "反作用の忌み子",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（【治】を持つカードはデッキに合計で４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

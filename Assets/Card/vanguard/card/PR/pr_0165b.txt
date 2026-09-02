@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0165b",
+  "PackNo": "PR",
+  "CardName": "忍獣メタモルフォックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの《むらくも》のヴァンガードがいるなら、あなたの呪縛カードを１枚選び、解呪する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd10_006",
+  "PackNo": "V-TD10",
+  "CardName": "スチームフェンサーイデナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：ブーストされてアタックした時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

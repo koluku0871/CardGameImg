@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_048",
+  "PackNo": "V-BT08",
+  "CardName": "戦巫女キッカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、【コスト】[【ソウルブラスト】(1)]することで、１枚引き、あなたの手札を１枚捨て、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

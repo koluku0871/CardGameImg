@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb04_018",
+  "PackNo": "EB04",
+  "CardName": "デスアーミー・ルーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td13_010",
+  "PackNo": "TD13",
+  "CardName": "エクセステンス・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットが《ジェネシス》を【ブースト】したバトル中、アタックがヴァンガードにヒットした時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

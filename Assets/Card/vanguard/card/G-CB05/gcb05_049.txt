@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_049",
+  "PackNo": "G-CB05",
+  "CardName": "Chouchouセルヴィーズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(1)]あなたのバトルフェイズ中、あなたの他のユニットが(R)に登場した時、コストを払ってよい。払ったら、あなたの他の「Chouchou」を含むユニットを２枚まで選び、そのターン中、パワー＋2000。あなたの、(V)か(R)に、「Chouchouメルヴィーズ」と「Chouchouマルヴィーズ」がいるなら、そのターン中、このユニットのパワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_056",
+  "PackNo": "V-EB10",
+  "CardName": "メイデン・オブ・プロテア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを退却させる]ことで、プラント・トークンを３枚まで(R)にコールする。（プラントはグレード０/パワー5000/クリティカル１でブーストを持つ）,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

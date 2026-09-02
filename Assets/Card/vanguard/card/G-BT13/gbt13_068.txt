@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt13_068",
+  "PackNo": "G-BT13",
+  "CardName": "解放者ボード・アンダルシアン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】【Gブレイク】(1)：あなたの他のユニットが(R)に登場した時、あなたの「解放者」を含むヴァンガードがいるなら、そのターン中、このユニットのパワー＋7000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

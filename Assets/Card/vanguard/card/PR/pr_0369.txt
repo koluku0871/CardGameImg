@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0369",
+  "PackNo": "PR",
+  "CardName": "甘い魔法使いロンネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)，【ソウルブラスト】(1)]このユニットが(R)から手札に戻された時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

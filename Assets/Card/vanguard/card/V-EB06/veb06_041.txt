@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_041",
+  "PackNo": "V-EB06",
+  "CardName": "虚脱の鋭環アルニラム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ヴァンガードをブーストしたバトル終了時、相手のヴァンガードがグレード３以上で、そのバトルでガーディアンが２枚以上退却したなら、【コスト】[このユニットを退却させる]ことで、２枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

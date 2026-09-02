@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_162",
+  "PackNo": "DZ-TB02",
+  "CardName": "楽器兵",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】：「楽器兵」はデッキに８枚まで入れられる。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

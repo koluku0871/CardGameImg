@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_054",
+  "PackNo": "V-EB13",
+  "CardName": "スチームコンポーザーウルカギナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストしたバトル終了時、【コスト】[このユニットをバインドする]ことで、そのターン中、あなたのヴァンガード１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

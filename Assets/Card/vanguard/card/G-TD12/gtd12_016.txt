@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd12_016",
+  "PackNo": "G-TD12",
+  "CardName": "追願の乙女エルミール",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

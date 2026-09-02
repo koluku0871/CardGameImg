@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td05_011",
+  "PackNo": "TD05",
+  "CardName": "ちゃーじがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(1)]このユニットが「大いなる銀狼ガルモール」を【ブースト】した時、コストを払ってよい。払ったら、そのバトル中、【ブースト】されたユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

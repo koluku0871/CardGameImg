@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd05_006_8",
+  "PackNo": "DZ-SD05",
+  "CardName": "フラッドレイド・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

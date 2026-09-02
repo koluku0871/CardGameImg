@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_039",
+  "PackNo": "V-EB03",
+  "CardName": "ドクトロイド・サーカディアン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

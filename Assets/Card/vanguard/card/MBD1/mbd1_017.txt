@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbd1_017",
+  "PackNo": "MBD1",
+  "CardName": "十字撃ちガープ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

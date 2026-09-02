@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_026",
+  "PackNo": "V-BT10",
+  "CardName": "ライアー・リップ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "0",
+  "CardRarity": "RR",
+  "Text": "effect=【永】：守護者（守護者を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "30000"
+}

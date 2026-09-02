@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb05_021",
+  "PackNo": "EB05",
+  "CardName": "オラクルガーディアンレッドアイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヒットした時、あなたの《オラクルシンクタンク》のヴァンガードがいるなら、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

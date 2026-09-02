@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_052",
+  "PackNo": "V-BT09",
+  "CardName": "忍竜シュラトグロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

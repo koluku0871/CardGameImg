@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_063",
+  "PackNo": "V-BT11",
+  "CardName": "モルゲンロート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのターン終了時、【コスト】[このユニットを退却させる]ことで、「ブラウ」を含むあなたのリアガードを１枚手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

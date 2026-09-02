@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_154",
+  "PackNo": "DZ-LBT02",
+  "CardName": "Snow＆Sorrow",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "FR",
+  "Text": "effect=【永】：ファイト中、このカードは「Trick＆Treat！」としても扱う。このカードはドロップからでもプレイでき、あなたのヴァンガードが「フェネル」を含み、このターンにあなたが「Snow＆Sorrow」をプレイしていないならプレイできる！あなたのドロップから守護者を持たないノーマルユニットを１枚選び、(R)にコールし、このカードを山札の下に置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

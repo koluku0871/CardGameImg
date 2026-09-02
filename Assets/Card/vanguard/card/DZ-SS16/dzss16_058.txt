@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_058",
+  "PackNo": "DZ-SS16",
+  "CardName": "光束の撃手ルミノフラクス",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

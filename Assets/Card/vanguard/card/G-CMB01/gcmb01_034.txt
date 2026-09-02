@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcmb01_034",
+  "PackNo": "G-CMB01",
+  "CardName": "熱砂の騎士ルッドフッド",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

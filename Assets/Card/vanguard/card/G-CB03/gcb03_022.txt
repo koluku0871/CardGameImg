@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb03_022",
+  "PackNo": "G-CB03",
+  "CardName": "白と黒の清浄ユカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：♪♪（他のあなたのユニットが同じ縦列に登場した時、そのターン中、双方を♪♪状態にする）【永】【(V)/(R)】：あなたのターン中、このユニットが♪♪状態なら、同じ横列にいる他のあなたのユニットすべてのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

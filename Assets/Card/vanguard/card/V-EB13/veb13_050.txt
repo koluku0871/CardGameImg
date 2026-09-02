@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_050",
+  "PackNo": "V-EB13",
+  "CardName": "歌舞優楽の時空巨兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアコロッサス",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[手札を１枚バインドする]ことで、そのターン中、相手は手札から(G)にコールする際、２枚以上でしかコールできない。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

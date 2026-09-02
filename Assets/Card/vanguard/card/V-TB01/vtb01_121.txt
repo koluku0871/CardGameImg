@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_121",
+  "PackNo": "V-TB01",
+  "CardName": "姉御肌宇田川巴",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Afterglow",
+  "Cost": "1",
+  "CardRarity": "SSR",
+  "Text": "effect=【自】【(R)】【ターン1回】：他の〈Afterglow〉の能力で【レスト】された時、そのターン中、あなたのヴァンガード１枚のパワー＋5000し、相手のヴァンガードがグレード３以上なら、さらに【コスト】[【カウンターブラスト】(1)]することで、あなたのヴァンガード１枚のクリティカル＋１。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

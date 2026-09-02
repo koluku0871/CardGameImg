@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_029",
+  "PackNo": "V-EB08",
+  "CardName": "白波の水将フィロガトス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードがアタックした時、そのターン中、そのユニットとこのユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ、アクセル,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

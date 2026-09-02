@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb12_014",
+  "PackNo": "EB12",
+  "CardName": "運命の神器ノルン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このカードがソウルからドロップゾーンに置かれた時、あなたのカード名に「神器」を含むヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

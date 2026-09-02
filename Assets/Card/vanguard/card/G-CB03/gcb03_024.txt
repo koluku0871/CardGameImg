@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb03_024",
+  "PackNo": "G-CB03",
+  "CardName": "BN-PR♥ISMエメラル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：バトルフェイズ中、このユニットが(R)から手札に戻された時、あなたの「PR♥ISM」を含むヴァンガードがいるなら、あなたの「PR♥ISM」を含むリアガードを２枚まで選び、手札に戻す。２枚戻したら、あなたのユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

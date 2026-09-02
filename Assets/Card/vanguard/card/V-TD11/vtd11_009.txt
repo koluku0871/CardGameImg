@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd11_009",
+  "PackNo": "V-TD11",
+  "CardName": "メロウディアス・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(2)]することで、１枚引き、あなたの表のダメージゾーンがないなら、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

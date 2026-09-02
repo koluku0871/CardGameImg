@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_041",
+  "PackNo": "G-BT06",
+  "CardName": "開かずの間のバンシー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：先駆【起】【(R)】【Gブレイク】(1)：[【カウンターブラスト】(1)，このユニットをソウルに置く]山札の上から10枚見て、亡霊能力を持つカードを３枚まで探し、ドロップゾーンに置き、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

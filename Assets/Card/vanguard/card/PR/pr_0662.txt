@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0662",
+  "PackNo": "PR",
+  "CardName": "時を掴むギアキャット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【山札】【Gブレイク】(1)：タイムリープで、このカードを山札からコールする際、グレードを無視してコールできる。【永】【(R)】：タイムリープで、このユニットは山札の下に置かなくてもよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

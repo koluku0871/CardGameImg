@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_123",
+  "PackNo": "DZ-LBT01",
+  "CardName": "トップアイドルアクア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットがグレード３の〈マーメイド〉にライドされた時、あなたの山札を上から５枚見て、グレード２以上のユニットカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

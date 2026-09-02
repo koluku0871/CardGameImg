@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_102",
+  "PackNo": "DZ-BT14",
+  "CardName": "Bel-Fioreシオネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットと同じ縦列の「Bel-Fiore」を含むあなたのユニットが【スタンド】した時、【コスト】[【ソウルブラスト】(1)]することで、このユニットを【スタンド】させる。【永】【(G)】：あなたのヴァンガードが「Bel-Fiore」を含むなら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

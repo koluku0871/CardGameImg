@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_085",
+  "PackNo": "G-BT03",
+  "CardName": "嘲笑する根絶者アヰーダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(1)]このユニットが【ブースト】したバトル中、アタックがヴァンガードにヒットした時、相手のヴァンガードがデリートされているなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

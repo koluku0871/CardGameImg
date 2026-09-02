@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_048",
+  "PackNo": "V-EB14",
+  "CardName": "スチームブレーダーデュデュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、このターンにあなたの手札が捨てられているなら、このユニットと同じ縦列のあなたのユニットのすべてのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

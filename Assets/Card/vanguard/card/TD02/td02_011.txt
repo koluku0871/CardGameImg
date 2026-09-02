@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td02_011",
+  "PackNo": "TD02",
+  "CardName": "ワイバーンストライクジャラン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットが「ワイバーンストライクテージャス」を【ブースト】した時、そのバトル中、ブーストされたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

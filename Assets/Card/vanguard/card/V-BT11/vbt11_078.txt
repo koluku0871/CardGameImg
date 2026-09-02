@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_078",
+  "PackNo": "V-BT11",
+  "CardName": "装弾のブレイブ・シューター",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_074",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[朝焼けに包まれて]丸山彩",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Pastel＊Palettes",
+  "Cost": "1",
+  "CardRarity": "R+",
+  "Text": "effect=【自】【ソウル】：「丸山彩」を含むグレード３以上のあなたのヴァンガードが登場した時、このカードと同名のあなたの他のソウルがないなら、あなたの、山札かドロップから「[支え合える存在]白鷺千聖」を１枚まで探し、(R)にコールする。山札から探したなら、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_052",
+  "PackNo": "G-CB07",
+  "CardName": "Chouchouロベルタ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

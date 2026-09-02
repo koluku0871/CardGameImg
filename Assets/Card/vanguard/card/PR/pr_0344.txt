@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0344",
+  "PackNo": "PR",
+  "CardName": "白昼夢の音色アーニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：このユニットのアタックがヴァンガードにヒットした時、【カウンターチャージ】(2)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

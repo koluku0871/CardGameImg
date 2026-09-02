@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd04_008_3",
+  "PackNo": "DZ-SD04",
+  "CardName": "リサージェンツ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

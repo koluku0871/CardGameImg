@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_081",
+  "PackNo": "V-BT06",
+  "CardName": "銀の茨バーキング・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

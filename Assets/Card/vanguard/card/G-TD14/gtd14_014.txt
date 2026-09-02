@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd14_014",
+  "PackNo": "G-TD14",
+  "CardName": "Chouchouレサッカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたの他の「Chouchou」を含むユニットを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

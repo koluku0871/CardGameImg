@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_039",
+  "PackNo": "V-BT04",
+  "CardName": "ヴィジブル・ソングスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：あなたのユニットがブーストされてアタックした時、【コスト】[【カウンターブラスト】(1)，リアガードを２枚ソウルに置く]ことで、ソウルから１枚(R)にコールする。,critical=クリティカル1,skill=ツインドライブ、アクセル,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

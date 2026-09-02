@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd05_003",
+  "PackNo": "V-TD05",
+  "CardName": "バトルシスターおらんじぇっと",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

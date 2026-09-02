@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0549",
+  "PackNo": "PR",
+  "CardName": "獣神バンパウロス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

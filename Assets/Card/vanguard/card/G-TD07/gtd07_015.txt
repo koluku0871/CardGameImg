@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd07_015",
+  "PackNo": "G-TD07",
+  "CardName": "キトゥン・ジャグラー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

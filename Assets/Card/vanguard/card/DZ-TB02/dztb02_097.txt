@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_097",
+  "PackNo": "DZ-TB02",
+  "CardName": "長曽祢虎徹祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたのヴァンガードが、「加州清光」か「蜂須賀虎徹」を含むなら、このユニットのシールド＋5000。さらにあなたのヴァンガードがグレード３以上なら、このユニットのパワー＋5000。（相手ターンも有効）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

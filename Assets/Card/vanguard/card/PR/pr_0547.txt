@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0547",
+  "PackNo": "PR",
+  "CardName": "抹消者ブルージェム・カーバンクル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

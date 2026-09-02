@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0061",
+  "PackNo": "V-PR",
+  "CardName": "レディバグ・キャヴァリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、そのターン中、このユニットのパワー＋3000。あなたのカードの能力で登場したら、さらに【コスト】[【カウンターブラスト】(1)]することで、＋3000のかわりに＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

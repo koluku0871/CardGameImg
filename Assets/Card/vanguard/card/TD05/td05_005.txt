@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td05_005",
+  "PackNo": "TD05",
+  "CardName": "すれいがる・ソード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(V)/(R)】：[【カウンターブラスト】(1)]他のあなたの《ゴールドパラディン》のリアガードが４枚以上なら、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

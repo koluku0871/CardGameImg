@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_070",
+  "PackNo": "V-BT04",
+  "CardName": "水の権力者",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのターンに相手のリアガードが退却した時、あなたのソウルが10枚以上なら、【カウンターチャージ】(1)してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

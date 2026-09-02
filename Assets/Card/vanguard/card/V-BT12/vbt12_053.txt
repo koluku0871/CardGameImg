@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt12_053",
+  "PackNo": "V-BT12",
+  "CardName": "幸せの鐘ノキエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【ダメージゾーン】：あなたのターン中、「ノキエル」を含むあなたのヴァンガードがいるなら、あなたの前列のユニットすべてのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

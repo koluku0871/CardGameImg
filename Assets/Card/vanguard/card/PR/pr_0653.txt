@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0653",
+  "PackNo": "PR",
+  "CardName": "ダイモス・ベアー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：[このユニットを【レスト】し、呪縛する]あなたの他のユニットがアタックした時、コストを払ってよい。払ったら、そのバトル中、アタックしたユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

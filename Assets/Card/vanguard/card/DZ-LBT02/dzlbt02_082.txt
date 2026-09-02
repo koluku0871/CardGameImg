@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_082",
+  "PackNo": "DZ-LBT02",
+  "CardName": "これから始まる人形劇ロコヴェラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたの(G)にトリガーユニットがいるなら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

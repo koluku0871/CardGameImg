@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt08_102",
+  "PackNo": "G-BT08",
+  "CardName": "ゴーヤ・イン・チャンプルー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=開花-【自】【(R)】【Gブレイク】(1)：[このユニットを退却させる]このユニットと同名の他のあなたのユニットが(R)に登場した時、コストを払ってよい。払ったら、あなたのリアガードを４枚まで選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

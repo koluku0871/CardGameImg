@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd07_012",
+  "PackNo": "V-TD07",
+  "CardName": "震脚のパルスモンク",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

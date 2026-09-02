@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_081",
+  "PackNo": "G-BT01",
+  "CardName": "メチャバトラーケンビーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

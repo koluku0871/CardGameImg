@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_086",
+  "PackNo": "V-BT05",
+  "CardName": "黒鎖の堅陣ホエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列の、このターンに登場したあなたの他のユニットのパワー＋5000。あなたの、(V)か(R)に「黒鎖の進撃カエダン」がいるなら、＋5000のかわりに＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

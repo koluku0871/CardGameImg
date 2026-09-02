@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss10_082",
+  "PackNo": "V-SS10",
+  "CardName": "鉛筆騎士はむすけ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードが「鉛筆英雄はむすけ」なら、このユニットのパワー＋3000。【永】【(V)】：アタックしたバトル中、あなたのソウルに「鉛筆従士はむすけ」があるなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

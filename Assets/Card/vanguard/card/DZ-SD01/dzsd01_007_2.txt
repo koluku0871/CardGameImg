@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd01_007_2",
+  "PackNo": "DZ-SD01",
+  "CardName": "投剣の忍鬼カゲイチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

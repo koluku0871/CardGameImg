@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_055",
+  "PackNo": "G-BT06",
+  "CardName": "ダークサーガ・ペインター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)：このユニットが(R)に登場した時、あなたの「Diablo」を含むヴァンガードがいるなら、１枚引き、手札から１枚選び、捨てる。【永】【山札】：あなたの「Diablo」を含むヴァンガードがいるなら、このカードのグレード－１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_071",
+  "PackNo": "G-BT01",
+  "CardName": "ドラゴンナイトタンナーズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：あなたのカードの効果で、相手のリアガードがドロップゾーンに置かれた時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

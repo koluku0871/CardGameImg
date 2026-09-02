@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_067",
+  "PackNo": "V-BT05",
+  "CardName": "忍獣アラクレギツネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル2,skill=ブースト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

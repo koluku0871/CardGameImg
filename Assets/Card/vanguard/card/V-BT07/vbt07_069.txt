@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_069",
+  "PackNo": "V-BT07",
+  "CardName": "ガインガインＸ２",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのドライブチェックで【前】トリガーが出た時、このユニットを【スタンド】してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

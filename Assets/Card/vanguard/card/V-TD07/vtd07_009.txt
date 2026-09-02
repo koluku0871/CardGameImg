@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd07_009",
+  "PackNo": "V-TD07",
+  "CardName": "崩壊の陰極マグノティア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(R)】：相手のヴァンガードがデリートされているか、相手のバインドゾーンに裏のカードがあるなら、このユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

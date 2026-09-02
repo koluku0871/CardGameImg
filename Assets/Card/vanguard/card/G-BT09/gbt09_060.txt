@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt09_060",
+  "PackNo": "G-BT09",
+  "CardName": "撃退者ヴァイトゴア・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのカードの、効果かコストで、他のあなたのユニットが(R)から退却した時、あなたの「レイジング」を含むヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

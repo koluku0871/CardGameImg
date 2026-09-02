@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_053",
+  "PackNo": "V-BT02",
+  "CardName": "静寂の忍鬼シジママル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストした時、そのターン中、ブーストされたユニットと同名のあなたのユニット２枚のパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

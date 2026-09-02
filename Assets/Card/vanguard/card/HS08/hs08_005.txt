@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs08_005",
+  "PackNo": "HS08",
+  "CardName": "次元ロボダイファイター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

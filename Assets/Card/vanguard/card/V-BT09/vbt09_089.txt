@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_089",
+  "PackNo": "V-BT09",
+  "CardName": "スケルトンの航海士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "スケルトン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[リアガードを２枚【レスト】する]ことで、あなたの山札を上から５枚ドロップゾーンに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

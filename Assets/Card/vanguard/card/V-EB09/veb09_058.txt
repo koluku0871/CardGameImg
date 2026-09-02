@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_058",
+  "PackNo": "V-EB09",
+  "CardName": "赤光怪人フラットレイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)]することで、相手のリアガードを２枚選び、【レスト】し、そのターン中、このユニットはそれらのパワーを得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

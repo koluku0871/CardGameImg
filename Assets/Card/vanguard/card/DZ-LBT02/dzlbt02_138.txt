@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_138",
+  "PackNo": "DZ-LBT02",
+  "CardName": "インスタントウェイトレスパメルシエ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが相手のカードの効果で(R)から退却した時、【コスト】[【ソウルブラスト】(1)]することで、このカードを手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

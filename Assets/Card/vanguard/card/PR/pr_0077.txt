@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0077",
+  "PackNo": "PR",
+  "CardName": "スタンプ・ラッコ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：あなたの《グレートネイチャー》のヴァンガードがいるなら、このユニットはカードの効果で退却しない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

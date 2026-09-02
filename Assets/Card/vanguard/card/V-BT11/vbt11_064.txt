@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_064",
+  "PackNo": "V-BT11",
+  "CardName": "ライトネス・クール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

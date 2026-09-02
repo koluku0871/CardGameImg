@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_040",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[私と、取引しよう]椎名立希",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "MyGO!!!!!",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【左後列の(R)】：このユニットと同じ縦列の「要楽奈」を含むあなたのユニットがカードの能力で【スタンド】した時、このユニットを【スタンド】させてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

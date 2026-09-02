@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0583",
+  "PackNo": "PR",
+  "CardName": "画策の賢者メール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】【Gブレイク】(1)：[このユニットを【レスト】する，手札から１枚選び、捨てる]あなたのリアガードを１枚選び、そのターン中、パワー＋4000し、『【自】【(R)】：あなたのターンの終了時、１枚引く。』を与える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

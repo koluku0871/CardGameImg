@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0193",
+  "PackNo": "V-PR",
+  "CardName": "サンバー・ブロワー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップゾーンから１枚ソウルに置き、そのカードと同じグレードの、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

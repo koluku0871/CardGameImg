@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_058",
+  "PackNo": "V-EB08",
+  "CardName": "戦場の歌姫ヘスパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

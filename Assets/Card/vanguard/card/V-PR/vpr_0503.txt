@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0503",
+  "PackNo": "V-PR",
+  "CardName": "銀の茨の神竜メガロルード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "4",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットがあなたのヴァンガードの能力でソウルから(R)に登場した時、いずれかの他のリアガードを１枚選び、ソウルに置く。置いたら、そのターン中、このユニットのパワー＋15000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

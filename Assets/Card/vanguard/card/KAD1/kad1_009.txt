@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad1_009",
+  "PackNo": "KAD1",
+  "CardName": "クレステッド・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_077",
+  "PackNo": "G-BT06",
+  "CardName": "獣神グレートイーター",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[このユニットを山札の上に置く]あなたのバトルフェイズ中、他のあなたの「獣神」を含むリアガードが【スタンド】した時、コストを払ってよい。払ったら、山札をシャッフルし、１枚引く。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

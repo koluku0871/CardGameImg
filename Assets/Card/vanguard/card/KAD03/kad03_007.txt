@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad03_007",
+  "PackNo": "KAD03",
+  "CardName": "幸運の運び手エポナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

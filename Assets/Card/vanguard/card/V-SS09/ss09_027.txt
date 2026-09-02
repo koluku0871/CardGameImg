@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "ss09_027",
+  "PackNo": "V-SS09",
+  "CardName": "サベイジ・トルーパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(R)】：このユニットの武装ゲージ１枚につき、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

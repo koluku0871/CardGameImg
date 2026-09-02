@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt12_037",
+  "PackNo": "V-BT12",
+  "CardName": "雲集の射手ビスコット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、あなたの山札を上から３枚見て、１枚を(R)にコールし、残りを山札の下に望む順で置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

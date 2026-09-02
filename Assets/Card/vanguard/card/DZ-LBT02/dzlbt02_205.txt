@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_205",
+  "PackNo": "DZ-LBT02",
+  "CardName": "ショートニングジャーニーバンリエッタ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "TGR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

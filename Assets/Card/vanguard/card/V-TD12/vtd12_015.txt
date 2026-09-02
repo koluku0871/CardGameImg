@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd12_015",
+  "PackNo": "V-TD12",
+  "CardName": "フェアリーライト・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（【治】を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

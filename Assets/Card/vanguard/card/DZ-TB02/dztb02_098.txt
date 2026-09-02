@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_098",
+  "PackNo": "DZ-TB02",
+  "CardName": "不動行光祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、【コスト】[【ソウルブラスト】(1)]することで、あなたのリアガードを１枚選び、そのバトル中、そのユニットはヒットされても退却しない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

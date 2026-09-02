@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd13_010",
+  "PackNo": "G-TD13",
+  "CardName": "忍竜ゴウカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

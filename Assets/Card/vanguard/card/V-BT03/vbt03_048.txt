@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_048",
+  "PackNo": "V-BT03",
+  "CardName": "あぶれがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたの他のリアガードがカードの能力で登場した時、そのターン中、このユニットのパワー＋5000してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

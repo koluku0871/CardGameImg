@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_338",
+  "PackNo": "DZ-TB02",
+  "CardName": "大慶直胤",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】【(R)/(G)】：あなたが「打刀の能力極」のクレストを持つなら、このユニットは『ブースト』を得る。さらに「水心子正秀」を含むあなたのユニットがいるなら、このユニットは後列からでもインターセプトでき、シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

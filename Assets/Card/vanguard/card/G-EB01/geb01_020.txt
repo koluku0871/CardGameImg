@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb01_020",
+  "PackNo": "G-EB01",
+  "CardName": "電離怪獣プラズーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(1)]このユニットのアタックがヴァンガードにヒットした時、コストを払ってよい。払ったら、相手のヴァンガードを１枚選び、そのターン中、パワー－3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

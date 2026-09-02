@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_070",
+  "PackNo": "DZ-BT14",
+  "CardName": "LettiaMateSマルフェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト/幻影",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが手札から(G)に置かれた時、【コスト】[【カウンターブラスト】(1)]することで、このユニットと別名の「LettiaMateS」を含むあなたのガーディアンを１枚選び、そのターン中、『【自】：このユニットが(G)から退却した時、このカードを手札に加える。』を与え、シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

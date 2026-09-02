@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_047",
+  "PackNo": "DZ-TB02",
+  "CardName": "浦島虎徹祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【中央後列の(R)】：このユニットが「虎徹」を含むヴァンガードをブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

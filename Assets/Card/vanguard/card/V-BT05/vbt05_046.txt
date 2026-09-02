@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_046",
+  "PackNo": "V-BT05",
+  "CardName": "エンゲージ・グリフォン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=（このユニットはブーストではなくインターセプトを持つ）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

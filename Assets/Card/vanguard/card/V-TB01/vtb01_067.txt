@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_067",
+  "PackNo": "V-TB01",
+  "CardName": "二重の虹",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "楽曲/Poppin'Party",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【自】【(R)】：登場時、１枚引き、あなたの山札を上から３枚見て、【クリティカル】トリガーを１枚まで公開し、手札に加え、残りを山札の下に望む順で置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

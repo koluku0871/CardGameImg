@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0821",
+  "PackNo": "PR",
+  "CardName": "クロノジェット・ドラゴン・G",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン/十二支刻獣",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=※ファイトでは使用できません。,critical=クリティカル1,skill=ツインドライブ,gift=クリティカルトリガー＋10000,",
+  "Attack": "11000",
+  "Defense": "0"
+}

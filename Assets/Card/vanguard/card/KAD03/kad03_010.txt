@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad03_010",
+  "PackNo": "KAD03",
+  "CardName": "ジェノサイド・ジョーカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "3",
+  "CardRarity": "-",
+  "Text": "effect=【起】【(V)/(R)】：[【カウンターブラスト】(2)]そのターン中、このユニットのパワー＋4000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

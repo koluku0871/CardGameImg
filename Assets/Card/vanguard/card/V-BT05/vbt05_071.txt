@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_071",
+  "PackNo": "V-BT05",
+  "CardName": "デザートガンナードウラン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードの能力のコストで手札を捨てた時、このユニットが前列にいるなら、【コスト】[【ソウルブラスト】(2)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

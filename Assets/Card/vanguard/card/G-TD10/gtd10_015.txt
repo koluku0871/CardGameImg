@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd10_015",
+  "PackNo": "G-TD10",
+  "CardName": "幼竜魔道士ミアハ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

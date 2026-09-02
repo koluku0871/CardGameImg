@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_035",
+  "PackNo": "V-EB06",
+  "CardName": "カラミティタワー・ワイバーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[【ソウルブラスト】(1)，このユニットを退却させる]ことで、そのターン中、あなたのヴァンガード１枚のパワー＋15000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

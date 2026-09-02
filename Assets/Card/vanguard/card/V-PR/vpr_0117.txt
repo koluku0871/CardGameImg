@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0117",
+  "PackNo": "V-PR",
+  "CardName": "スピアレイ・セイラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのユニットがアタックした時、このターン７回目のバトルなら、【コスト】[このユニットを退却させる]ことで、そのバトル中、相手は手札からグレード０をコールできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

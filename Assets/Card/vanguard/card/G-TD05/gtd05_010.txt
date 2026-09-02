@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd05_010",
+  "PackNo": "G-TD05",
+  "CardName": "鍵を砕く者リドルバイター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットがアタックした時、呪縛カードを１枚選び、解呪してよい。解呪したら、そのバトル中、このユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

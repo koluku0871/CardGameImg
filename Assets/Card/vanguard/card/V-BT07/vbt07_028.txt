@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_028",
+  "PackNo": "V-BT07",
+  "CardName": "神罰のスムマーヌ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(V)】【ターン1回】：【コスト】[【ソウルブラスト】(10)]することで、あなたと相手は、自分のリアガードをすべて、自分の山札に戻してシャッフルし、３枚まで引く。（あなたから行う）,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

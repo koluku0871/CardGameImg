@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0247",
+  "PackNo": "PR",
+  "CardName": "煉獄竜騎士エルハーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードが【双闘】した時、このユニットと同じ縦列にいる相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

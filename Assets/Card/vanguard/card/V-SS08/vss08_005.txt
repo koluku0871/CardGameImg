@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss08_005",
+  "PackNo": "V-SS08",
+  "CardName": "伝説のファイターDAIGO",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "‐",
+  "CardSubType": "ブリッツオーダー",
+  "Cost": "0",
+  "CardRarity": "SES",
+  "Text": "effect=このバトル中、アタックされたあなたのユニット１枚のパワー＋5000！（このカードはクイックシールド・チケットとして使える）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

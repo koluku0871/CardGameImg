@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0543",
+  "PackNo": "PR",
+  "CardName": "砲撃竜スレッジアンキロ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《たちかぜ》を１枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

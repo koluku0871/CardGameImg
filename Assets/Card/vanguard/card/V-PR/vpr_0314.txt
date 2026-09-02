@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0314",
+  "PackNo": "V-PR",
+  "CardName": "ウォーターエレメンタルミストフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "エレメンタル",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：相手のヴァンガードがグレード３以上なら、各ターンの終了時、あなたと相手は、自分の手札を８枚選び、残りの手札をすべて捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

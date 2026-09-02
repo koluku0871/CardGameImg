@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd01_010_4",
+  "PackNo": "DZ-SD01",
+  "CardName": "忍竜クデンムスビ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

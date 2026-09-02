@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0395",
+  "PackNo": "PR",
+  "CardName": "エンドレスフレア・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：[手札からグレード３以上の〈フレイムドラゴン〉を１枚選び、公開する]このユニットがアタックした時、コストを払ってよい。払ったら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0073",
+  "PackNo": "V-PR",
+  "CardName": "囚われの堕天使サラエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：アタックする際、【ソウルブラスト】(1)しない限りアタックできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "EB09_013",
+  "PackNo": "EB09",
+  "CardName": "ドラゴンナイトアシュガル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットが「超越龍ドラゴニック・ヌーベルバーグ」を【ブースト】した時、そのバトル中、【ブースト】されたユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

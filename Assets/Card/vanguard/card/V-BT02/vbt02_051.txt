@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_051",
+  "PackNo": "V-BT02",
+  "CardName": "忍竜ソウコクザッパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

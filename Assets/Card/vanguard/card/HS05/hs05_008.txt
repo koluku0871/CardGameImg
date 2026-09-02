@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs05_008",
+  "PackNo": "HS05",
+  "CardName": "ぞーいがる・解放者",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、他のあなたのカード名に「解放者」を含むリアガードが３枚以上いるなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_014",
+  "PackNo": "V-EB08",
+  "CardName": "ストームライド・ゴーストシップ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【手札】：このカードはノーマルコールできない。（(G)にもできない）【自】【(R)】：アタックした時、そのバトル中、このユニットのパワー＋15000。そのバトル終了時、１枚引きこのユニットを退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

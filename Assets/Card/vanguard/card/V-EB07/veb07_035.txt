@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_035",
+  "PackNo": "V-EB07",
+  "CardName": "ドラゴンナイトファヒーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、グレード３のあなたのリアガードがいるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

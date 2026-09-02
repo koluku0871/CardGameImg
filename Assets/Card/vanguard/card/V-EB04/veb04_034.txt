@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_034",
+  "PackNo": "V-EB04",
+  "CardName": "牧羊の神ヴォーロス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

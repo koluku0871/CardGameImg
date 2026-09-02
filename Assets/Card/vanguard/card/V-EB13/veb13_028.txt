@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_028",
+  "PackNo": "V-EB13",
+  "CardName": "ノヴェルアラウンド・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "4",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：登場時、【コスト】[【カウンターブラスト】(1)，手札を２枚捨てる]ことで、あなたの山札を上から３枚見て、(R)にコールする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "15000",
+  "Defense": "0"
+}

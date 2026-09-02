@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_041",
+  "PackNo": "DZ-TB01",
+  "CardName": "天竜開闢",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/ドラゴン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=〈エンシェントワールド〉【コスト】[【カウンターブラスト】(1)]することでプレイできる！２枚引く。そのターン中、あなたはオーダーを合計２回までプレイでき、「竜王伝」以外のオーダーをプレイできない。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

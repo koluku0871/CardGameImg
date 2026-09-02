@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_060",
+  "PackNo": "G-BT05",
+  "CardName": "妖剣の抹消者チョウジュン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(1)-「抹消者」を含むカード]このユニットのアタックがヴァンガードにヒットした時、コストを払ってよい。払ったら、相手は自分のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

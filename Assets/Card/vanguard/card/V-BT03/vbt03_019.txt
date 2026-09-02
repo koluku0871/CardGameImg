@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_019",
+  "PackNo": "V-BT03",
+  "CardName": "紅の獅子獣ハウエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：ブーストしたバトル終了時、「エイゼル」を含むあなたのヴァンガードがいるなら、【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、１枚引き、手札を１枚(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

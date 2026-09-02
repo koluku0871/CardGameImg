@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd14_007",
+  "PackNo": "G-TD14",
+  "CardName": "Chouchouアヤナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットがあるなら有効）：[【カウンターブラスト】(1)，このユニットを山札の下に置く]あなたの他の「Chouchou」を含むリアガードが山札に置かれた時、コストを払ってよい。払ったら、１枚引き、あなたの手札から「Chouchou」を含むカードを１枚まで選び、(R)にコールし、そのターン中、パワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_042",
+  "PackNo": "G-CHB01",
+  "CardName": "パンジーの銃士シルヴィア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(V)か(R)に登場した時、あなたの山札の上から１枚公開する。そのカードが「銃士」を含む《ネオネクタール》なら、そのカードを(R)にコールし、違うなら、あなたの山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

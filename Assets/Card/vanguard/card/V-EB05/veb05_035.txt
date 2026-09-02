@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_035",
+  "PackNo": "V-EB05",
+  "CardName": "盤石の優美レシャル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのソウルが２枚以下なら、このユニットのパワー＋2000。あなたのソウルがないなら、＋2000のかわりに＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

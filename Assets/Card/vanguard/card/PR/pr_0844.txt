@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0844",
+  "PackNo": "PR",
+  "CardName": "星輝兵カオスブレイカー・クライシス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=※ファイトでは使用できません。,critical=クリティカル1,skill=ツインドライブ,gift=クリティカルトリガー＋10000,",
+  "Attack": "11000",
+  "Defense": "0"
+}

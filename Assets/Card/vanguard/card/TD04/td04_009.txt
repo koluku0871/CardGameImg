@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td04_009",
+  "PackNo": "TD04",
+  "CardName": "お天気お姉さんみるく",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットが《オラクルシンクタンク》のヴァンガードを【ブースト】した時、あなたの手札が４枚以上なら、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

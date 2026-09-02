@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_041",
+  "PackNo": "V-BT03",
+  "CardName": "希望の雷ヘレナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのターンに相手のリアガードがバインドされた時、あなたのダメージゾーンに表のカードがないなら、【コスト】[【ソウルブラスト】(1)]することで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

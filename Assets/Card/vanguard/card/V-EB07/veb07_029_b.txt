@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_029_b",
+  "PackNo": "V-EB07",
+  "CardName": "トポロジカル・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：アタックした時、【コスト】[リアガードを２枚退却させる]ことで、そのターン中、このユニットのパワー＋5000/クリティカル＋１。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

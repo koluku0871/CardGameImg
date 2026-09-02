@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd03_016",
+  "PackNo": "G-TD03",
+  "CardName": "ウーント・タナップ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

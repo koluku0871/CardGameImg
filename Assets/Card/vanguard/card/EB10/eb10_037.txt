@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb10_037",
+  "PackNo": "EB10",
+  "CardName": "Duo純白の結晶リッカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)から手札に戻された時、あなたの《バミューダ△》のヴァンガードがいるなら、【ソウルチャージ】(1)し、あなたのダメージゾーンから１枚選び、表にする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

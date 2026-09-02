@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vsd02_008",
+  "PackNo": "V-SD02",
+  "CardName": "ガード・グリフォン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "キメラ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】：守護者（守護者を持つカードは合計でデッキに４枚まで入れられる）【自】【(G)】：登場時、【コスト】[手札を１枚捨てる]ことで、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "0"
+}

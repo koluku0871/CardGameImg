@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd05_013_13",
+  "PackNo": "DZ-SD05",
+  "CardName": "願意の乙女アレハンドラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【永】：守護者（守護者を持つカードはデッキに合計４枚まで入れられる）【自】：このユニットが(G)に置かれた時、【コスト】[手札から１枚捨てる]ことで、あなたのユニットを１枚選び、そのバトル中、ヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "0"
+}

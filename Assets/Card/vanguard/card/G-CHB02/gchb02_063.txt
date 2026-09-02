@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb02_063",
+  "PackNo": "G-CHB02",
+  "CardName": "減殺怪獣ウィーキング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(2)]あなたのヴァンガードが、アタックするかアタックされた時、コストを払ってよい。払ったら、相手の前列のユニットを１枚選び、そのバトル中、パワー－10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

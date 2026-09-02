@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd12_019",
+  "PackNo": "V-TD12",
+  "CardName": "クイックシールド",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "ブリッツオーダー",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=このバトル中、アタックされたあなたのユニット１枚のパワー＋5000！（カードタイプ：ブリッツオーダーは、ガーディアンのタイミングで使える）（このカードはすべてのクランのカードとして扱う）（このカードはチケットカードであり、デッキには入れられない）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

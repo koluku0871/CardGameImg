@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gftd01_017",
+  "PackNo": "G-FTD01",
+  "CardName": "インパーティブ・オウル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "FTD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

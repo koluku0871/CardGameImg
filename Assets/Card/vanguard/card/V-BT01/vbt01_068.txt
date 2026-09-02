@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_068",
+  "PackNo": "V-BT01",
+  "CardName": "フライト・ロック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、グレード０の相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

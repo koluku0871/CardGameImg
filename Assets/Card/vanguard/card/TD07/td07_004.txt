@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td07_004",
+  "PackNo": "TD07",
+  "CardName": "ティアーナイトラザロス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

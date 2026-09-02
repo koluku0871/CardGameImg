@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd12_018",
+  "PackNo": "G-TD12",
+  "CardName": "モンキーポッド・ドラゴン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたのユニットを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

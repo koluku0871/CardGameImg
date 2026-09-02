@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtb02_042",
+  "PackNo": "G-TB02",
+  "CardName": "平野藤四郎特",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

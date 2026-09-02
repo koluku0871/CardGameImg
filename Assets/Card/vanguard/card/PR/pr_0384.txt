@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0384",
+  "PackNo": "PR",
+  "CardName": "立凪コーリン役三森すずこ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

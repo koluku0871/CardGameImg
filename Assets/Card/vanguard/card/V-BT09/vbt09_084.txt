@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_084",
+  "PackNo": "V-BT09",
+  "CardName": "フォーボウド・ゴーストシップ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ドロップゾーン】：【コスト】[手札を１枚捨てる]ことで、このカードを(R)にコールし、あなたのドロップゾーンが10枚以上なら、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ、プロテクト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

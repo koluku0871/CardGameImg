@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_059",
+  "PackNo": "G-BT10",
+  "CardName": "ばーながる・解放者",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[【カウンターブラスト】(1)，【ソウルブラスト】(1)]あなたのユニットが山札から(R)に登場した時、コストを払ってよい。払ったら、そのターン中、そのユニットに『ブースト』を与える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

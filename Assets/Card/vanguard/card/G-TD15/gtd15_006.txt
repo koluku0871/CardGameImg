@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd15_006",
+  "PackNo": "G-TD15",
+  "CardName": "アルベド・コンドル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

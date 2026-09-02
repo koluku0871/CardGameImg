@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss01_003",
+  "PackNo": "DZ-SS01",
+  "CardName": "燦爛たる光明の宝剣",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "ORRR",
+  "Text": "effect=【レガリスピース】（レガリスピースはデッキに合計１枚だけ入れられ、ファイト中に合計１回だけ使える）以下を１つ行う。・２枚引く。・このカードをソウルに置き、【カウンターチャージ】(1)。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

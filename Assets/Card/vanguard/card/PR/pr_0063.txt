@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0063",
+  "PackNo": "PR",
+  "CardName": "サテライトフォール・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：他のあなたのグレード３の《ゴールドパラディン》が(R)に登場した時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

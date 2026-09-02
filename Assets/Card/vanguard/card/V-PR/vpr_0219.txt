@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0219",
+  "PackNo": "V-PR",
+  "CardName": "ビーカー・ホルスタイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、そのターン中、このユニットと同じ縦列の、あなたのユニット１枚のパワー＋3000し、『ブースト』を与える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_047",
+  "PackNo": "V-EB13",
+  "CardName": "オールアウト・ドッグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)】：アタックした時、【ソウルチャージ】(2)し、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_034",
+  "PackNo": "G-CB05",
+  "CardName": "Chouchouプレア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【Gブレイク】(1)：[【ソウルブラスト】(1)]このユニットが(R)に登場した時、あなたの「Chouchou」を含むヴァンガードがいるなら、コストを払ってよい。払ったら、あなたの手札から「Chouchou」を含むカードを１枚まで選び、このユニットと同じ縦列の(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

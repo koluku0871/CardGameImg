@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_080",
+  "PackNo": "G-BT14",
+  "CardName": "忍獣ミストフロッグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：[このユニットをソウルに置く]あなたのターン中、支配されている他のユニットがアタックした時、コストを払ってよい。払ったら、１枚引き、そのバトル中、そのユニットのパワー＋6000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_034",
+  "PackNo": "PR",
+  "CardName": "マシニング・ホーネットmkⅡ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのヴァンガードが【双闘】しているなら、相手のリアガードを１枚選び、そのユニットは、次の相手のスタンドフェイズ中、【スタンド】できない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

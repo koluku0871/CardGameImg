@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb02_038",
+  "PackNo": "G-CB02",
+  "CardName": "蒼嵐艦隊の医療士官",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

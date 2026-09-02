@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0086",
+  "PackNo": "PR",
+  "CardName": "レディバグ・キャヴァリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(G)に登場した時、あなたの《ゴールドパラディン》のヴァンガードがいるなら、コストを払ってよい。払ったら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_088",
+  "PackNo": "DZ-SS04",
+  "CardName": "高橋家",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ベベベベベイビー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【ソウルブラスト】(2)]することで、あなたのドロップから、【爆裂成長期】能力を持つカードを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

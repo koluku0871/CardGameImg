@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_130",
+  "PackNo": "DZ-BT13",
+  "CardName": "血風の騎士キルコアド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがグレード３以上にアタックした時、このターンに相手のダメージゾーンにカードが置かれていないなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

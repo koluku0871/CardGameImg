@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcmb01_017_pr",
+  "PackNo": "PR",
+  "CardName": "光の剣士ブラスター・レイピアローラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/（R)/(G)】：抵抗（相手のカードの効果で選ばれない）【永】【(R)】：このユニットと同じ縦列にいるあなたの「騎士王アルフレッド」すべてのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

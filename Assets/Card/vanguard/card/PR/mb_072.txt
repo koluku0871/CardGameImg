@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_072",
+  "PackNo": "PR",
+  "CardName": "飛散の忍鬼ツルチヨ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【Gブレイク】(1)：このユニットが(R)に登場した時、このユニットと同じ縦列にいるいずれかの他のユニットを２枚まで選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

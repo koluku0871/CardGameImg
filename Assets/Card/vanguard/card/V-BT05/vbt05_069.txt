@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_069",
+  "PackNo": "V-BT05",
+  "CardName": "ターニングバッシュ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、相手のヴァンガードがグレード３以上なら、【コスト】[【ソウルブラスト】(1)]することで、相手の前列のリアガードを１枚選び、バインドする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

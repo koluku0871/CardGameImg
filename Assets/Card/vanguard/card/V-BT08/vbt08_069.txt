@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_069",
+  "PackNo": "V-BT08",
+  "CardName": "次元ロボダイボート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

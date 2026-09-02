@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss07_057",
+  "PackNo": "V-SS07",
+  "CardName": "テンペスト・スフィア",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)，Ｇゾーンを１枚表にする]あなたの山札を上から７枚見て、【永】、【起】、【自】のいずれの能力も持たないユニットカードを２枚まで公開し、手札に加え、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

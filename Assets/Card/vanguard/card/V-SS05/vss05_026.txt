@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss05_026",
+  "PackNo": "V-SS05",
+  "CardName": "小さな賢者マロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたの他のリアガードがこのユニットと同じ縦列に登場した時、【コスト】[【カウンターブラスト】(1)]することで、１枚引き、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

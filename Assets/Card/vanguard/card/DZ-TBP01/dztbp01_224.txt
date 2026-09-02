@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_224",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[看板娘]山吹沙綾",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Poppin'Party",
+  "Cost": "1",
+  "CardRarity": "GPR+",
+  "Text": "effect=【起】【(R)】【ターン1回】：あなたのヴァンガードが「戸山香澄」を含むグレード３以上なら、このコストは『【エネルギーブラスト】(3)』でも払える。【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップから〈Poppin'Party〉を１枚選び、(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

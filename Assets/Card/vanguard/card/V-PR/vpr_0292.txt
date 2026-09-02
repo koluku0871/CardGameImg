@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0292",
+  "PackNo": "V-PR",
+  "CardName": "善導の乙女レナーテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：グレード０をブーストした時、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

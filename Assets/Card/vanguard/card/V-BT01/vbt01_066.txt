@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_066",
+  "PackNo": "V-BT01",
+  "CardName": "インスティゲイト・グリフォン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)/(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)]することで、そのターン中、あなたの〈フレイムドラゴン〉のユニット１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

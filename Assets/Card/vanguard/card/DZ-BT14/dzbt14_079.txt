@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_079",
+  "PackNo": "DZ-BT14",
+  "CardName": "滅龍の意志ユース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン/幻影",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「寂寞の孤影ユース」からライドして登場した時、あなたの山札を上から７枚見て、「ユースベルク」を含むカードか、赫月カードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

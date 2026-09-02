@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbt01_025",
+  "PackNo": "MBT01",
+  "CardName": "煉獄竜騎士タラーエフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットと同じ縦列にいる相手のリアガードがドロップゾーンに置かれた時、あなたのヴァンガードが【双闘】しているなら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

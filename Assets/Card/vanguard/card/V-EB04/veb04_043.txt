@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_043",
+  "PackNo": "V-EB04",
+  "CardName": "スチームエキスパートゼリクス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)】：登場時、そのターン中、このユニットのパワー＋10000。【自】【(R)】：あなたのヴァンガードが登場した時、そのターン中、あなたのヴァンガード１枚とこのユニットのパワー＋5000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

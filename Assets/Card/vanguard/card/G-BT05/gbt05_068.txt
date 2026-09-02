@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_068",
+  "PackNo": "G-BT05",
+  "CardName": "降着円盤のレディバトラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】【Gブレイク】(1)：[他のあなたのリアガードを１枚選び、呪縛する]このユニットのアタックがヴァンガードにヒットした時、コストを払ってよい。払ったら、相手のリアガードを１枚まで選び、呪縛する。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

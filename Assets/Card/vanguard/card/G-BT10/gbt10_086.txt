@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_086",
+  "PackNo": "G-BT10",
+  "CardName": "忍獣スティングウルフ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

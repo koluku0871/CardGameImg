@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbd1_026",
+  "PackNo": "MBD1",
+  "CardName": "レッドジェム・カーバンクル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

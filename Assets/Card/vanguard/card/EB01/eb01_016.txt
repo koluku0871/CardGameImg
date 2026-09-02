@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_016",
+  "PackNo": "EB01",
+  "CardName": "ブーメラン・スロアー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが《ノヴァグラップラー》にライドした時、そのターン中、このユニットは『【永】【(V)】：このユニットは、後列にいる相手のユニットをバトル相手のユニットに選べる。』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

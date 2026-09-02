@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss05_030",
+  "PackNo": "V-SS05",
+  "CardName": "礎の守護天使ハスデヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：手札から登場した時、【コスト】[【カウンターブラスト】(1)]することで、あなたの、手札のユニットカードとダメージゾーン１枚を入れ替える。（表で置く）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

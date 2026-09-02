@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_079",
+  "PackNo": "V-BT08",
+  "CardName": "茫漠の円環デュアニュラス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：いずれかの、バインドゾーンかサークルに裏のカードが合計２枚以上なら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

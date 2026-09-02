@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt08_091",
+  "PackNo": "G-BT08",
+  "CardName": "お化けのかーる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このカードが山札からドロップゾーンに置かれた時、コストを払ってよい。払ったら、このカードをユニットのいない(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_068",
+  "PackNo": "DZ-TB02",
+  "CardName": "盾兵",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【永】：「盾兵」と「稲葉江」はデッキに合計４枚まで入れられる。【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

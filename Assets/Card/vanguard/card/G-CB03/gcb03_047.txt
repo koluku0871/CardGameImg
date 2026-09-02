@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb03_047",
+  "PackNo": "G-CB03",
+  "CardName": "必殺パンチ！ミチル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

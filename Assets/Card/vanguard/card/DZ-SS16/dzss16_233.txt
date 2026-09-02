@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_233",
+  "PackNo": "DZ-SS16",
+  "CardName": "スチームバトラーダダシグ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "0",
+  "CardRarity": "SR",
+  "Text": "effect=【クロノアイコン】,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

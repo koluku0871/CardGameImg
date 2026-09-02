@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_029",
+  "PackNo": "V-EB01",
+  "CardName": "ウォーター・ギャング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：【スタンド】した時、【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、２枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0834",
+  "PackNo": "PR",
+  "CardName": "ブラスター・ブレード・エクシード",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=※ファイトでは使用できません。,critical=クリティカル1,skill=ツインドライブ,gift=クリティカルトリガー＋10000,",
+  "Attack": "11000",
+  "Defense": "0"
+}

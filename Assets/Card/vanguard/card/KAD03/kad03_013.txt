@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad03_013",
+  "PackNo": "KAD03",
+  "CardName": "タフ・ボーイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

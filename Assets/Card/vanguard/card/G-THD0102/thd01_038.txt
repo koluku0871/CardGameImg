@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_038",
+  "PackNo": "G-THD0102",
+  "CardName": "博多藤四郎-花丸-",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

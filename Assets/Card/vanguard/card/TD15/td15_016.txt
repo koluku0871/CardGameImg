@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td15_016",
+  "PackNo": "TD15",
+  "CardName": "魔竜喧嘩屋サーガラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

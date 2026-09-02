@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_096",
+  "PackNo": "G-BT14",
+  "CardName": "刻獣使いザンビヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド/十二支刻獣",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたのバインドゾーンの表の〈十二支刻獣〉１枚につき、このユニットのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

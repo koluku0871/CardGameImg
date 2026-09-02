@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_044",
+  "PackNo": "V-BT03",
+  "CardName": "威信の騎士カタラクス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：あなたのダメージゾーンが４枚以上なら、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

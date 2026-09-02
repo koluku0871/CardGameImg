@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd09_016",
+  "PackNo": "G-TD09",
+  "CardName": "クロノドーズ・シープ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

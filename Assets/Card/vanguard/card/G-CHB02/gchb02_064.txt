@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb02_064",
+  "PackNo": "G-CHB02",
+  "CardName": "次元ロボダイホーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【起】【(R)】：[あなたの「次元ロボ」を含むリアガードを４枚選び、ソウルに置く]あなたの「次元ロボ」を含むグレード３のヴァンガードがいるなら、Ｇゾーンから裏の「次元ロボ」を含むカードを１枚まで選び、(V)に【超越】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

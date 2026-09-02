@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_333",
+  "PackNo": "DZ-TB02",
+  "CardName": "火車切祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、相手のヴァンガードがグレード３以上で、あなたのオーダーゾーンに「鍛錬所」が２枚以上なら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

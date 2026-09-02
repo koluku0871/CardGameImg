@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_047",
+  "PackNo": "V-BT02",
+  "CardName": "アビス・ルーター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(1)，手札からグレード０を１枚(R)にコールする]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

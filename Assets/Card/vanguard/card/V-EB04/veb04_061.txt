@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_061",
+  "PackNo": "V-EB04",
+  "CardName": "シルバー・ウルフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：後列にいるなら、このユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_063",
+  "PackNo": "V-BT04",
+  "CardName": "ルメートルコード・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)/(G)】：登場時、あなたのリアガードが相手より多いなら、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000/シールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

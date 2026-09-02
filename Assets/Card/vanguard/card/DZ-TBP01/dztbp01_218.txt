@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_218",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[運命の一枚]高松燈",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "MyGO!!!!!",
+  "Cost": "2",
+  "CardRarity": "GPR",
+  "Text": "effect=【自】：このユニットが「[立希ちゃんのとなりで]高松燈」からライドして登場した時、あなたの山札を上から７枚見て、〈MyGO!!!!!〉を２枚まで選び、公開し、その公開された中から１枚選び、手札に加え、公開された残りを捨て、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

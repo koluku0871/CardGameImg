@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_024",
+  "PackNo": "V-BT08",
+  "CardName": "鋼闘機ウルバスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：登場時、「鋼闘機」を含むあなたのヴァンガードがいるなら、【コスト】[【ソウルブラスト】(1)]することで、相手のリアガードを１枚選び、退却させ、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

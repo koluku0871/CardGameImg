@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb11_023",
+  "PackNo": "EB11",
+  "CardName": "魔界城ファタリテート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴーレム",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがインターセプトした時、あなたの《シャドウパラディン》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

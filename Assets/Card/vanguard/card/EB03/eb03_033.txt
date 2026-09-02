@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb03_033",
+  "PackNo": "EB03",
+  "CardName": "決意の騎士ラモラック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_048",
+  "PackNo": "DZ-TB02",
+  "CardName": "髭切祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【エネルギーブラスト】(3)]することで、あなたの山札から「膝丸」を含むユニットカードを１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

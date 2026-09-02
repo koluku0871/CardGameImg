@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gld01_013",
+  "PackNo": "G-LD01",
+  "CardName": "跳躍の騎士リガン・ルミナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "LD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

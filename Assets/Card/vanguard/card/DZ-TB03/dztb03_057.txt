@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_057",
+  "PackNo": "DZ-TB03",
+  "CardName": "ロキ・ザ・エアガイツ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "アースガルド",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=〈レジェンドワールド〉【自】：このユニットが(R)に登場した時、いずれかのカードを１枚選び、そのカードのバディソウルすべてをドロップに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

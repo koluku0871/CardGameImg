@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_020",
+  "PackNo": "V-EB02",
+  "CardName": "マスクドポリスグレンダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードがクリティカル２以上なら、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

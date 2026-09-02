@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb03_061",
+  "PackNo": "G-EB03",
+  "CardName": "宇宙勇機グランガンナー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=超爆-【永】【(R)】：あなたのターン中、あなたのヴァンガードのパワーが40000以上なら、このユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_037",
+  "PackNo": "V-BT05",
+  "CardName": "忍竜ダイドク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：相手のターンに(R)から退却した時、１枚引いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

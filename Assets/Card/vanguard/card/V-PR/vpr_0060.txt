@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0060",
+  "PackNo": "V-PR",
+  "CardName": "薬剤の弾丸エルミエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)/(G)】：あなたのダメージゾーンが５枚以上なら、このユニットは相手のカードの能力で退却せず、パワー＋10000/シールド＋5000。（このユニットを選ぶことはできる）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

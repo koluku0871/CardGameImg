@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs07_012",
+  "PackNo": "HS07",
+  "CardName": "星輝兵オーロライーグル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットが《リンクジョーカー》のヴァンガードを【ブースト】した時、あなたのリアガードが相手のリアガードより多いなら、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

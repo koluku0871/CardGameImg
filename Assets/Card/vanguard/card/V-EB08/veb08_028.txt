@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_028",
+  "PackNo": "V-EB08",
+  "CardName": "お化けのぱっと",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【ドロップゾーン】：相手のヴァンガードがアタックしたバトル中、あなたのドロップゾーンが10枚以上なら、このカードを(G)にコールしてよい。【自】：(G)から退却した時、このカードをバインドする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

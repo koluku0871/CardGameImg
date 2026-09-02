@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0032",
+  "PackNo": "V-PR",
+  "CardName": "従者レアス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、そのターン中、あなたの他のリアガード１枚のパワー＋3000。そのユニットが「連撃のサザーランド」なら、＋3000のかわりにパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0444",
+  "PackNo": "PR",
+  "CardName": "聖琴の奏者ニマーヌ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(G)】結束（このターン中、(R)か(G)に２枚以上コールしていれば有効）：このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

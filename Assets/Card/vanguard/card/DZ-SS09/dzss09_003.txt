@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss09_003",
+  "PackNo": "DZ-SS09",
+  "CardName": "好音の芽吹きグラシア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが「華やぐ旋律レクティナ」にライドされた時、このカードを(R)にコールしてよい。【永】【(R)】：このユニットがヴァンガードをブーストしたバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0238",
+  "PackNo": "V-PR",
+  "CardName": "黄金獣ランペイジタートル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：アタックしたバトル中、あなたのリアガードが相手より多いなら、相手は手札から(G)にコールする際、２枚以上でしかコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

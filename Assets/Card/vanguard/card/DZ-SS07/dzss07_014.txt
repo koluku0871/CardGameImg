@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss07_014",
+  "PackNo": "DZ-SS07",
+  "CardName": "エゼルヴァ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ギャラクシアン",
+  "Cost": "2",
+  "CardRarity": "TDR",
+  "Text": "effect=【メイトユニット】－「ヴァージルア」,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "15000",
+  "Defense": "15000"
+}

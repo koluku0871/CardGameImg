@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_057",
+  "PackNo": "V-EB07",
+  "CardName": "エンベロープ・パンサー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、あなたの呪縛カードがあるなら、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットとあなたのヴァンガード１枚のパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

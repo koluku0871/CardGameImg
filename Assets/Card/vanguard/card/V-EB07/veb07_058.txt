@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_058",
+  "PackNo": "V-EB07",
+  "CardName": "メトリアル・ファング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

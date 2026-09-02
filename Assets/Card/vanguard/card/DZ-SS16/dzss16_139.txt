@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_139",
+  "PackNo": "DZ-SS16",
+  "CardName": "スチームメイデンウルル",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアロイド",
+  "Cost": "0",
+  "CardRarity": "LGR",
+  "Text": "effect=（【治】はデッキに合計４枚まで入れられる）【クロノアイコン】,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

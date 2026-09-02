@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_068",
+  "PackNo": "V-BT05",
+  "CardName": "ブラットアロー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、追加された(R)にいるなら、このユニットのパワー＋5000。【永】【(R)】：アタックしたバトル中、相手の【自】能力は発動しない。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

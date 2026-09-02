@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd05_005",
+  "PackNo": "G-TD05",
+  "CardName": "アローザル・メサイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "メサイア",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットが解呪された時、他のあなたのリアガードを１枚選び、【スタンド】し、そのターン中、パワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

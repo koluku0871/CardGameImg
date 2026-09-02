@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0439",
+  "PackNo": "PR",
+  "CardName": "エキセントリック・ディセクター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのメインフェイズ開始時、【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

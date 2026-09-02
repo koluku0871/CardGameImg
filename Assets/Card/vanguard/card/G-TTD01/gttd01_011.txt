@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gttd01_011",
+  "PackNo": "G-TTD01",
+  "CardName": "不動行光",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【永】：守護者（守護者はデッキに４枚までしか入れることができない）【自】：[手札から１枚選び、捨てる]このユニットが(G)に登場した時、コストを払ってよい。払ったら、あなたのアタックされているユニットを１枚選び、そのバトル中、そのユニットは、ヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "0"
+}

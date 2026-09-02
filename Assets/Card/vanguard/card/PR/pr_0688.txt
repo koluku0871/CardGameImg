@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0688",
+  "PackNo": "PR",
+  "CardName": "振武の騎士ドルイス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)結束（このターンにあなたがユニットを２枚以上コールしていれば有効）：あなたの他のリアガードすべては『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

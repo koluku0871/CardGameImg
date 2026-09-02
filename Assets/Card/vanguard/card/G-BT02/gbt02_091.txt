@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_091",
+  "PackNo": "G-BT02",
+  "CardName": "ブロードキャスト・ラビット",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

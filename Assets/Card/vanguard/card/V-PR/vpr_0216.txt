@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0216",
+  "PackNo": "V-PR",
+  "CardName": "転成の魔術師スピリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【ソウル】：【コスト】[このカードをバインドする]ことで、あなたの手札からトリガーユニットを１枚ソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

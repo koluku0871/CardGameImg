@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_152",
+  "PackNo": "DZ-LBT02",
+  "CardName": "OnebyOneフェスティナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、【コスト】[ドロップからノーマルオーダーを１枚山札の下に置く]ことで、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

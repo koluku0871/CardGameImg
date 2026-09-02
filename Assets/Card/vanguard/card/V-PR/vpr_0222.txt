@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0222",
+  "PackNo": "V-PR",
+  "CardName": "七彩の騎士マーシア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：カードの能力で登場した時、あなたのリアガードが６枚以上なら、そのターン中、このユニットのパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_150",
+  "PackNo": "DZ-SS16",
+  "CardName": "伝説の先導者新導クロノ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "LGTR",
+  "Text": "effect=【クロノアイコン】,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

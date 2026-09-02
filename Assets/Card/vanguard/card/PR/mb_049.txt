@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_049",
+  "PackNo": "PR",
+  "CardName": "研究生マフリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】達成20000（あなたのリアガードのパワーが20000以上になった時、そのターン中、このユニットを達成状態にする）【永】【(R)】：このユニットが達成状態なら、このユニットはカードの効果で退却しない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_066",
+  "PackNo": "V-BT09",
+  "CardName": "トルネード・ジェニター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[手札を１枚捨てる]ことで、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

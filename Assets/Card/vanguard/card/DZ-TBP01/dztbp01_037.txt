@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_037",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[注文、いつもの]千早愛音",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "MyGO!!!!!",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【右前列の(R)】：このユニットがアタックした時、あなたのヴァンガードがグレード３以上の〈MyGO!!!!!〉で、このターン１回目のバトルなら、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、あなたの前列の〈MyGO!!!!!〉すべてのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

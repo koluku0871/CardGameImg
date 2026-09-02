@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_052",
+  "PackNo": "V-BT10",
+  "CardName": "険難の賢者デクロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードがグレード３以上なら、あなたの前列のグレード１のユニットすべては『インターセプト』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

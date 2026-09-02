@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0046",
+  "PackNo": "V-PR",
+  "CardName": "ピー・カー・ブー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：(R)からソウルに置かれた時、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]することで、相手のリアガードを１枚選び、ソウルに置く。グレード２以上を選んだら、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

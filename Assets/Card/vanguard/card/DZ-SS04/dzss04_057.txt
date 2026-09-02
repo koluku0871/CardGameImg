@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_057",
+  "PackNo": "DZ-SS04",
+  "CardName": "背信的配信者ブラック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ブラックチャンネル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(V)に登場した時、あなたの山札から「さとし」を含むカードを１枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

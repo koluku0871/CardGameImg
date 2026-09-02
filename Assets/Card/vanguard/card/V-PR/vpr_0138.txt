@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0138",
+  "PackNo": "V-PR",
+  "CardName": "マジン・ゾルダート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴーレム",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：このターンに相手のリアガードが退却していないなら、このユニットはアタックできない。【永】【(R)】：ヴァンガードにアタックしたバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

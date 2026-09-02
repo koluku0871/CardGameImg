@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_073",
+  "PackNo": "G-BT06",
+  "CardName": "ラジャダムナン・キッド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのカードの効果で、他のこのユニットと同じ縦列にいるあなたの闘魂能力を持つユニットが【スタンド】した時、このユニットを【スタンド】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_087",
+  "PackNo": "V-EB05",
+  "CardName": "ハートを独り占めアネシュカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "4",
+  "CardRarity": "SSP",
+  "Text": "effect=【自】【(V)】：登場時、あなたの山札を上から10枚公開し、山札をシャッフルする。公開されたノーマルユニットがそれぞれ別名なら、イマジナリーギフト・フォース、アクセル、プロテクトを望む順で１つずつ得る。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "14000",
+  "Defense": "0"
+}

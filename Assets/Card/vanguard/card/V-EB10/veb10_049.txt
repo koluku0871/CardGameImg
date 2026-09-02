@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_049",
+  "PackNo": "V-EB10",
+  "CardName": "はむすけの級友パステルマーカーのはむな",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：登場時、【コスト】[【ソウルブラスト】(1)，手札からグレード２以下を１枚ソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_068",
+  "PackNo": "G-CHB01",
+  "CardName": "グリーンショット・エルフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=開花-【自】【(R)】【Gブレイク】(1)：他のあなたの「グリーンショット・エルフ」が(R)に登場した時、あなたの(R)の「グリーンショット・エルフ」を５枚まで選び、そのターン中、パワー＋2000し、『ブースト』を与える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "ss09_040",
+  "PackNo": "V-SS09",
+  "CardName": "ボルトパイク・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【(V)/(R)】：相手の前列のユニットが２枚以上なら、このユニットはアタックできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "10000"
+}

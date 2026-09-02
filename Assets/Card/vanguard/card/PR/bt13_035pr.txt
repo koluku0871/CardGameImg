@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "bt13_035pr",
+  "PackNo": "PR",
+  "CardName": "真剣の星輝兵セレン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：先駆（同じクランのユニットにライドされた時、(R)にコールできる）【自】【(R)】：あなたのカードの効果で、相手のリアガードが呪縛された時、あなたの《リンクジョーカー》のヴァンガードがいるなら、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

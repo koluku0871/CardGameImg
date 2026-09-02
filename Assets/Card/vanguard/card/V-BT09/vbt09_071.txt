@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_071",
+  "PackNo": "V-BT09",
+  "CardName": "フェスブライト・エスケイパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：(R)からソウルに置かれた時、【コスト】[このカード以外のソウルを１枚以上、すべて【ソウルブラスト】]することで、あなたのソウルから１枚(R)にコールし、そのターン中、そのユニットのパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

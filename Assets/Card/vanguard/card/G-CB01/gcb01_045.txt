@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb01_045",
+  "PackNo": "G-CB01",
+  "CardName": "冷たい視線サラ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

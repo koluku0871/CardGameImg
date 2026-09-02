@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "ss09_048",
+  "PackNo": "V-SS09",
+  "CardName": "噛み砕く根絶者バルヲル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(1)]することで、次の相手のターンのエンドフェイズ中、相手は自分のカードを表にできない。（解呪、デリート解除、【カウンターチャージ】等ができない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

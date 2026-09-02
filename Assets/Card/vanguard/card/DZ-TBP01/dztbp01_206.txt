@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_206",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[圧倒されるほどの]湊友希那",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Roselia",
+  "Cost": "2",
+  "CardRarity": "GPR",
+  "Text": "effect=【自】：このユニットが「[押し殺した想い]湊友希那」からライドして登場した時、あなたの山札から「今井リサ」を含むユニットカードを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

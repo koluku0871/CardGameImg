@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_050",
+  "PackNo": "V-EB09",
+  "CardName": "ジャックナイフ・ジャニス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：リアガードをブーストしたバトル終了時、そのユニットのサークルにフォース・マーカーがあるなら、【コスト】[【カウンターブラスト】(1)]することで、そのリアガードをソウルに置き、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

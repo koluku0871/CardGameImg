@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_075",
+  "PackNo": "V-BT11",
+  "CardName": "ティアーナイトマカオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル2,skill=ブースト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_061",
+  "PackNo": "V-EB09",
+  "CardName": "強酸怪人ゲルドスラッグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：【レスト】している相手の後列のリアガード１枚につき、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

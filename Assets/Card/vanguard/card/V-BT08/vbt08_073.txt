@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_073",
+  "PackNo": "V-BT08",
+  "CardName": "次元ロボダイファルコン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル2,skill=ブースト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

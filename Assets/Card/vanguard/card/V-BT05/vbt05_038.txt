@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_038",
+  "PackNo": "V-BT05",
+  "CardName": "忍竜コクジョウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)/(G)】：手札から登場した時、あなたのダメージゾーンに表のカードがないなら、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

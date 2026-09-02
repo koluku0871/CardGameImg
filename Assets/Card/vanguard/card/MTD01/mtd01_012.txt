@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mtd01_012",
+  "PackNo": "MTD01",
+  "CardName": "怨嗟する根絶者ヴヱラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(R)】：[このユニットを【レスト】する]他のあなたのユニットを１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss07_054",
+  "PackNo": "V-SS07",
+  "CardName": "アースエレメンタルロロック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "エレメンタル",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(G)】：登場時、あなたのヴァンガードが１枚で、グレード２以下なら、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

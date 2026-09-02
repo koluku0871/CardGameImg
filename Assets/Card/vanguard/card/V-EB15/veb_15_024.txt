@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb_15_024",
+  "PackNo": "V-EB15",
+  "CardName": "愛あるご奉仕マクシーネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：登場時、【コスト】[手札を１枚捨てる]ことで、あなたの山札から「夢に漂う星雲」を２枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_340",
+  "PackNo": "DZ-TB02",
+  "CardName": "九鬼正宗",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットがブーストした時、あなたのヴァンガードが「正宗」を含むなら、そのターン中、このユニットのパワー＋5000。さらに【ソウルチャージ】(1)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

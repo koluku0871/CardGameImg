@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb02_030",
+  "PackNo": "G-CB02",
+  "CardName": "威力偵察のオルカ兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】連波-２回目のみ（各ターンの指定されたバトルで有効）：このユニットがアタックした時、そのバトル中、このユニットのパワー＋3000。【永】【(V)/(R)/(G)】：抵抗（相手のカードの効果で選ばれない）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

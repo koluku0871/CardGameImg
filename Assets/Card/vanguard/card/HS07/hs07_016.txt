@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs07_016",
+  "PackNo": "HS07",
+  "CardName": "鍵盤の星輝兵ビスマス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd14_010",
+  "PackNo": "G-TD14",
+  "CardName": "Chouchouサブリナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

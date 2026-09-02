@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_019",
+  "PackNo": "V-BT06",
+  "CardName": "口寄せの忍鬼ジライヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)】：登場時、１枚引き、あなたの手札を１枚山札の下に置く。【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)]することで、そのターン中、あなたのヴァンガード１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

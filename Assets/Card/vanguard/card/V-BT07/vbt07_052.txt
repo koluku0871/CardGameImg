@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_052",
+  "PackNo": "V-BT07",
+  "CardName": "美禄のディオニュソス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、【コスト】[手札からグレード３以上を１枚捨てる]ことで、そのバトル中、このユニットのパワー＋5000し、相手は手札から(G)にコールする際、２枚以上でしかコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

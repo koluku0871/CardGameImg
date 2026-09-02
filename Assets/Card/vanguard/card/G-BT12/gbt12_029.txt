@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt12_029",
+  "PackNo": "G-BT12",
+  "CardName": "バトルシスターさぶれ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[【ソウルブラスト】(1)-「バトルシスター」を含むカード]このユニットが(R)に登場した時、あなたの他の「バトルシスター」を含むユニットが３枚以上なら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

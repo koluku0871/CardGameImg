@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_040",
+  "PackNo": "DZ-TB02",
+  "CardName": "水砲兵",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(G)から退却した時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "15000"
+}

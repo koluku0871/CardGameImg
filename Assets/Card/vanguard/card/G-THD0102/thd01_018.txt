@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_018",
+  "PackNo": "G-THD0102",
+  "CardName": "陸奥守吉行-花丸-",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【手札】：あなたのＧゾーンに表のカードがあるなら、あなたが「花丸」を含むＧユニットの【超越】のコストを払う際、このカードをグレード３として捨ててよい。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

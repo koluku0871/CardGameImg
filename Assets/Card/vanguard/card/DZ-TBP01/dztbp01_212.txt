@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_212",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[言の葉にのせて]倉田ましろ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Morfonica",
+  "Cost": "2",
+  "CardRarity": "GPR",
+  "Text": "effect=【自】：このユニットが「[フォーリン→ワンダー]倉田ましろ」にライドされた時、あなたのソウルに「[ようこそパーティへ！]倉田ましろ」があるなら、あなたの山札を上から７枚見て、〈Morfonica〉を２枚まで選び、公開し、その公開された中から１枚選び、手札に加え、公開された残りを捨てる。山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

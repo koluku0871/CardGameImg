@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_082",
+  "PackNo": "DZ-TB01",
+  "CardName": "サークルナイフ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "武装騎竜",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=〈ドラゴンワールド〉【起】【(R)】：【コスト】[このユニットを退却させる]ことで、あなたのドロップから「ジャックナイフ」を含むユニットカードを１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

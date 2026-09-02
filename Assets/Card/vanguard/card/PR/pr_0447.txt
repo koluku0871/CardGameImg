@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0447",
+  "PackNo": "PR",
+  "CardName": "黒鱗閃銃パピルレイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、同じ縦列にいる他のあなたのユニットを１枚選び、そのターン中、パワー＋2000。さらに、そのユニットが暗躍能力を持つなら、あなたのユニットを１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

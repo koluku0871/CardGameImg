@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb11_021",
+  "PackNo": "EB11",
+  "CardName": "彗星の魔女サーバ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

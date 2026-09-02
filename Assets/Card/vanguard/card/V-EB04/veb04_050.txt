@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_050",
+  "PackNo": "V-EB04",
+  "CardName": "スチームファイターメメンネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのヴァンガードが登場した時、１枚引き、手札を１枚捨てる。グレード３以上を捨てたら、そのターン中、あなたのユニット３枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

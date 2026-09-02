@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd12_005",
+  "PackNo": "G-TD12",
+  "CardName": "ヒラタケ・モンジロウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

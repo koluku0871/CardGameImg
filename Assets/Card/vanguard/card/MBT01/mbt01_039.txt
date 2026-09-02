@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbt01_039",
+  "PackNo": "MBT01",
+  "CardName": "煉獄戦鬼マナサー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードが【双闘】した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

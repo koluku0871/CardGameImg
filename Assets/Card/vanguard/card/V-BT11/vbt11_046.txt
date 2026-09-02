@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_046",
+  "PackNo": "V-BT11",
+  "CardName": "幻霊写本ファンサイクロペディア",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]そのターン中、あなたのリアガード１枚のパワー＋5000し、そのターン終了時、そのユニットを退却させ、１枚引く。,critical=クリティカル,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd06_010",
+  "PackNo": "DZ-SD06",
+  "CardName": "シアターレッスンラファティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

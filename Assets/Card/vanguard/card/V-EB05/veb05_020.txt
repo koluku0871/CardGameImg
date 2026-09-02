@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_020",
+  "PackNo": "V-EB05",
+  "CardName": "気さくな触れ合いショルティア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：アタックした時、このターンに相手が合計２枚以上ガーディアンをコールしているなら、そのバトル中、このユニットのパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

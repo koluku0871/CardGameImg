@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_015",
+  "PackNo": "V-BT04",
+  "CardName": "アポカリプス・バット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)】：登場時、あなたのソウルから１枚(R)にコールしてよい。【自】【(R)】：登場時、あなたのソウルから「アポカリプス・バット」を１枚(R)にコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

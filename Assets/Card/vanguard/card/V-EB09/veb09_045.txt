@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_045",
+  "PackNo": "V-EB09",
+  "CardName": "ブレイキング・グランモービル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのヴァンガードがアタックした時、【コスト】[【カウンターブラスト】(1)，「ブレイキング・グランモービル」を【ソウルブラスト】(1)]することで、このユニットを【スタンド】する。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

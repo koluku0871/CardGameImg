@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd04_005",
+  "PackNo": "G-TD04",
+  "CardName": "ケルピーライダーデニス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

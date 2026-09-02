@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td02_002",
+  "PackNo": "TD02",
+  "CardName": "ドラゴンモンクゴクウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)】：このユニットのドライブチェックでグレード３の《かげろう》がでた時、相手のグレード１以下のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

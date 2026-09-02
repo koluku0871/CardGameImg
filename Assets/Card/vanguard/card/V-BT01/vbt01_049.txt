@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_049",
+  "PackNo": "V-BT01",
+  "CardName": "戦巫女サラサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：ヴァンガードにアタックした時、あなたの山札を上から１枚見て、山札の上か下に置き、下に置いたら、そのバトル中、このユニットのパワー＋6000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0193",
+  "PackNo": "PR",
+  "CardName": "マキシマムライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、このユニットと同じ縦列に他のあなたのカード名に「ライザー」を含むユニットがいるなら、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

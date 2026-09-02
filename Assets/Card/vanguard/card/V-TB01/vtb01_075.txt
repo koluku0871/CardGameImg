@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_075",
+  "PackNo": "V-TB01",
+  "CardName": "えがおのオーケストラっ！",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "楽曲/ハロー、ハッピーワールド！",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【自】【(R)】：登場時、あなたのヴァンガードが〈ハロー、ハッピーワールド！〉なら、山札を上から２枚見て、１枚まで手札に加え、残りをソウルに置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_075",
+  "PackNo": "V-BT07",
+  "CardName": "グリット・ベンガル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、あなたの手札から【前】トリガーを１枚公開して山札の上に置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

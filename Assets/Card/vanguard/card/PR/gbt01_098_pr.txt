@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_098_pr",
+  "PackNo": "PR",
+  "CardName": "機械仕掛けのギアタイガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：[【ソウルブラスト】(1)]このユニットがアタックした時、あなたの(V)にＧユニットがいるなら、コストを払ってよい。払ったら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

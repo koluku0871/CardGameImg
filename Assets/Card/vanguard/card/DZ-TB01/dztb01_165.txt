@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_165",
+  "PackNo": "DZ-TB01",
+  "CardName": "ドラゴニック・チャージ",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/ドラゴン",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=〈ドラゴンワールド〉あなたの山札を上から２枚ゲージに裏で置く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

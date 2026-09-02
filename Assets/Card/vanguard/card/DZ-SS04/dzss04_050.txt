@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_050",
+  "PackNo": "DZ-SS04",
+  "CardName": "２級巻戻士アカバ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "運命の巻戻士",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

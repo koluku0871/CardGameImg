@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_032",
+  "PackNo": "DZ-LBT01",
+  "CardName": "星を届けにターミア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、あなたのドロップから「Trick＆Treat！」を１枚選び、ソウルに置いてよい。【自】【(R)】：このユニットがアタックした時、あなたのドロップに「Trick＆Treat！」が５枚以上なら、【コスト】[【カウンターブラスト】(1)]することで、１枚引き、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

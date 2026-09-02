@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd03_008_17",
+  "PackNo": "DZ-SD03",
+  "CardName": "ズィンガー・レイザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

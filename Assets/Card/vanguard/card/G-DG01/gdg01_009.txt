@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gdg01_009",
+  "PackNo": "G-DG01",
+  "CardName": "ミスリルの召喚術士",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "DG",
+  "Text": "effect=【自】：このユニットが、(V)か(R)に登場した時、山札の上を公開する。そのカードが、グレード１か２の、《ロイヤルパラディン》なら、そのカードを(R)にコールし、違うなら、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

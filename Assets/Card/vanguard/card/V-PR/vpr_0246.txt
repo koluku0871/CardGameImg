@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0246",
+  "PackNo": "V-PR",
+  "CardName": "ミラクル・プリティー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、あなたのダメージゾーンが５枚なら、そのターン中、あなたのユニット５枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

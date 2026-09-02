@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd05_004_1",
+  "PackNo": "DZ-SD05",
+  "CardName": "禍啜り",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

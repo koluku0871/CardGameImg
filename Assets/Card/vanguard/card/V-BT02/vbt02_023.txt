@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_023",
+  "PackNo": "V-BT02",
+  "CardName": "ジャンピング・ジル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：ソウルから登場した時、【コスト】[他のリアガードを１枚ソウルに置く]ことで、あなたのソウルからグレード２以外を１枚後列の(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

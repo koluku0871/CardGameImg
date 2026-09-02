@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb02_069",
+  "PackNo": "G-TCB02",
+  "CardName": "考古学徒コーネギー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：達成20000（あなたのリアガードのパワーが20000以上になった時、そのターン中、このユニットを達成状態にする）【永】【(R)】：このユニットが達成状態なら、このユニットのパワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

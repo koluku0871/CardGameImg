@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_064",
+  "PackNo": "V-BT09",
+  "CardName": "プログノス・ドライ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：アタックした時、あなたのソウルが５枚以上なら、山札を上から１枚見る。そのカードをソウルに置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

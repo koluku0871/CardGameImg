@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0494",
+  "PackNo": "V-PR",
+  "CardName": "真壁刀義",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "ブリッツオーダー",
+  "Cost": "",
+  "CardRarity": "PR",
+  "Text": "effect=このバトル中、アタックされたあなたのユニット１枚のパワー＋5000！（このカードはクイックシールド・チケットとして使える）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

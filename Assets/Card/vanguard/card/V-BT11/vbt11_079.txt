@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_079",
+  "PackNo": "V-BT11",
+  "CardName": "高速遊撃のイルカ兵",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

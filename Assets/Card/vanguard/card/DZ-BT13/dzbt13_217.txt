@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_217",
+  "PackNo": "DZ-BT13",
+  "CardName": "新芽の養育者ハースティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヒットした時、このターンにあなたがノーマルオーダーをプレイしているなら、【コスト】[【ソウルブラスト】(1)，このユニットを退却させる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

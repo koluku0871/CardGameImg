@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_057",
+  "PackNo": "G-CB05",
+  "CardName": "Chouchouフララ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【自】【(R)】【Gブレイク】(1)：[このユニットをソウルに置く]あなたの他のリアガードが山札に置かれた時、コストを払ってよい。払ったら、あなたの手札から「Chouchou」を含むカードを２枚まで選び、それらを、それぞれ同じ縦列の別々の(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzps01_029_2",
+  "PackNo": "DZ-PS01",
+  "CardName": "鮮烈の聖杖アンドラギウス",
+  "CardCategory": "Gユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "4",
+  "CardRarity": "TD",
+  "Text": "effect=【Ｇガーディアン】-相手ターンのガードステップ-【コスト】[手札から【治】を１枚捨てる]ことで、裏のこのカードを(G)にコールする。【永】【(G)】：グレード２のあなたのリアガードが２枚以上なら、このユニットのシールド＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "15000"
+}

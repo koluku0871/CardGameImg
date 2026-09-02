@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_063",
+  "PackNo": "PR",
+  "CardName": "叫んで叫ぶ実況ザ・マイク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのカードの効果で、このユニットと同じ縦列にいる他のあなたの闘魂能力を持つユニットが【スタンド】した時、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

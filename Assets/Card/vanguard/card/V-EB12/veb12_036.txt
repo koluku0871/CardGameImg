@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_036",
+  "PackNo": "V-EB12",
+  "CardName": "ジャマー・イントルーダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_039",
+  "PackNo": "V-EB05",
+  "CardName": "華麗な舞姫プラッハ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの手札が５枚以上なら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

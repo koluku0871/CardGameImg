@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd09_005",
+  "PackNo": "G-TD09",
+  "CardName": "クロノスピン・サーペント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

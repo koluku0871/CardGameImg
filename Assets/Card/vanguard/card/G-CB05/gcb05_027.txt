@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_027",
+  "PackNo": "G-CB05",
+  "CardName": "OR-PR♥ISMアヤリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：[【カウンターブラスト】(1)-「PR♥ISM」を含むカード]このユニットがアタックした時、コストを払ってよい。払ったら、あなたの他の「PR♥ISM」を含むリアガードを１枚選び、手札に戻し、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

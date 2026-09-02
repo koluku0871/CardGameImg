@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_208",
+  "PackNo": "DZ-LBT01",
+  "CardName": "スパークリングサマートゥムヘレン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "SR",
+  "Text": "effect=【自】【(R)】：このユニットが、アタックかブーストしたバトル終了時、【コスト】[「Astesice」を含むカードを【ソウルブラスト】(1)]することで、このユニットを手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

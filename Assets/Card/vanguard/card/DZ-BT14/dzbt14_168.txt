@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_168",
+  "PackNo": "DZ-BT14",
+  "CardName": "チンピラスタイル：根性反撃",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "龍が如く",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

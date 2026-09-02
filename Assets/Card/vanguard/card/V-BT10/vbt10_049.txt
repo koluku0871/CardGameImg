@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_049",
+  "PackNo": "V-BT10",
+  "CardName": "スパルバウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、そのバトル中、このユニットのパワー＋10000し、バトル終了時、あなたのリアガードを１枚退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

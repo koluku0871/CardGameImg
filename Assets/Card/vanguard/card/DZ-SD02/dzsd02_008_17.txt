@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd02_008_17",
+  "PackNo": "DZ-SD02",
+  "CardName": "フルピグメント・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0210",
+  "PackNo": "V-PR",
+  "CardName": "ドラゴニック・オーバーロード“TheVictory”",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(V)】：【コスト】[「オーバーロード」を含むカードを【ソウルブラスト】(6)]することで、相手のヴァンガードに６ダメージ！※ファイトでは使用できません。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

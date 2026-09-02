@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_097",
+  "PackNo": "DZ-TB01",
+  "CardName": "アーマナイト・イビルアイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "アーマナイト/百鬼",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=〈デンジャーワールド〉“爆雷”－【自】【(R)】【ターン1回】：相手がインターセプトした時、あなたのヴァンガードが「イカヅチ」を含むなら、そのターン中、そのインターセプトしたユニットのシールド－5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

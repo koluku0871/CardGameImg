@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_034",
+  "PackNo": "V-EB05",
+  "CardName": "幼き日の夢ラデュー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/(G)】：あなたの(R)に、あなたの、ヴァンガードと同名のリアガードがいるなら、このユニットのパワー＋2000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

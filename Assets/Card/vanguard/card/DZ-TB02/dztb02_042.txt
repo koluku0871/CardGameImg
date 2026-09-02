@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_042",
+  "PackNo": "DZ-TB02",
+  "CardName": "にっかり青江祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヒットした時、【コスト】[このユニットを退却させる]ことで、ペルソナシールド・チケットを１枚手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_103",
+  "PackNo": "DZ-TB01",
+  "CardName": "悪魔医師ブエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "72柱",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=〈マジックワールド〉【自】：このユニットが(R)に登場した時、あなたの山札を上から１枚ゲージに裏で置いてよい。そうしたなら、そのターン終了時、このユニットをドロップに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

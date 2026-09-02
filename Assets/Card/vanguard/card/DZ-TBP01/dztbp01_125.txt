@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_125",
+  "PackNo": "DZ-TBP01",
+  "CardName": "紡ぐ想い",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【永】：「紡ぐ想い」はデッキに８枚まで入れられる。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

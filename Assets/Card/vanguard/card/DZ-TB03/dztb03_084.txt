@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_084",
+  "PackNo": "DZ-TB03",
+  "CardName": "アーマナイト・カーリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "アーマナイト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=〈デンジャーワールド〉【自】：このユニットが(R)に登場した時、あなたのドロップからそれぞれ別名の〈アーマナイト〉を２枚まで選び、ソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

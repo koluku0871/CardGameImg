@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0825",
+  "PackNo": "PR",
+  "CardName": "覚醒を待つ竜ルアード",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=※ファイトでは使用できません。,critical=クリティカル1,skill=ツインドライブ,gift=クリティカルトリガー＋10000,",
+  "Attack": "11000",
+  "Defense": "0"
+}

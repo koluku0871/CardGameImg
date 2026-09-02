@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0231",
+  "PackNo": "V-PR",
+  "CardName": "紅葉の乙女ロージー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックしたバトル終了時、【コスト】[【カウンターブラスト】(1)，グレード０のリアガードを１枚退却させる]ことで、１枚引き、そのターン中、あなたのユニット１枚のパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

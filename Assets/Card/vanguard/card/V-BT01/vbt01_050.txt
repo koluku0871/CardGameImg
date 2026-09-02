@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_050",
+  "PackNo": "V-BT01",
+  "CardName": "英断の巫女チトセ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(V)/(R)】【ターン1回】：【コスト】[手札の守護者を１枚捨てる]ことで、１枚引き、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

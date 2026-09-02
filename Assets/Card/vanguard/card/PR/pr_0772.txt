@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0772",
+  "PackNo": "PR",
+  "CardName": "抹消者ドラゴニック・ディセンダント",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ツインドライブ,gift=クリティカルトリガー＋10000,",
+  "Attack": "11000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vz01_002",
+  "PackNo": "VZ",
+  "CardName": "双煌の剣士マーハウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "-",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがヴァンガードにアタックした時、あなたの《ロイヤルパラディン》のヴァンガードがいるなら、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

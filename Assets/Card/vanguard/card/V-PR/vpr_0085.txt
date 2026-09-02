@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0085",
+  "PackNo": "V-PR",
+  "CardName": "ストームブリング・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列にいるユニットすべてはインターセプトできず、ヴァンガードにしかアタックできない。（このユニットもできない）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_032",
+  "PackNo": "V-EB06",
+  "CardName": "ワイバーンストライクガジルバード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他の〈フレイムドラゴン〉が、(V)か(R)に登場した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

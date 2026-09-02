@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "ss09_054",
+  "PackNo": "V-SS09",
+  "CardName": "ファンタズマ・エグゼキューター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを退却させる]ことで、相手のリアガードを１枚選び、退却させ、【ソウルチャージ】(2)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_028",
+  "PackNo": "V-EB02",
+  "CardName": "お化けのちゃっぴー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)/(G)】：登場時、あなたのドロップゾーンが10枚以上なら、そのターン中、このユニットのパワー＋10000/シールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

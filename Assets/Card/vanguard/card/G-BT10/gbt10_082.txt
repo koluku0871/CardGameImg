@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_082",
+  "PackNo": "G-BT10",
+  "CardName": "忍妖ワタユキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)：このユニットと同じ縦列にいる他のあなたのリアガードすべてに『【永】【(R)】：カードの効果で、このユニットは山札に置かれない。』を与える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

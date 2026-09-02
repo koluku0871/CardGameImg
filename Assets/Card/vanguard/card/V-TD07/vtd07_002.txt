@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd07_002",
+  "PackNo": "V-TD07",
+  "CardName": "アロマトルバー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【カウンターブラスト】(1)]することで、相手のリアガードを１枚選び、裏でバインドする。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

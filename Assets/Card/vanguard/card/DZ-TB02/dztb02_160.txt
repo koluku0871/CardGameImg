@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_160",
+  "PackNo": "DZ-TB02",
+  "CardName": "根兵糖",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】：「根兵糖」はデッキに８枚まで入れられる。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

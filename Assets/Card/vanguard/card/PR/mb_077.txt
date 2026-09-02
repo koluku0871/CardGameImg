@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_077",
+  "PackNo": "PR",
+  "CardName": "刻獣使いエリバ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド/十二支刻獣",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)：あなたのバインドゾーンの表のカードのグレード１種類につき、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

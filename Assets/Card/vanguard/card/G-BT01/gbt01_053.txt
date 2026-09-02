@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_053",
+  "PackNo": "G-BT01",
+  "CardName": "神宮衛士アスハ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

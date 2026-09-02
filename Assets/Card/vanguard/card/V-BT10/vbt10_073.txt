@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_073",
+  "PackNo": "V-BT10",
+  "CardName": "メテオリック・パンテーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：このターンにあなたのカードの能力でリアガードを２枚以上コールしているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

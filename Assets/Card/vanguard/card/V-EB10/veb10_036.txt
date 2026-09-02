@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_036",
+  "PackNo": "V-EB10",
+  "CardName": "クラウドウイング・イーグル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：あなたの他のユニットが登場した時、そのターン中、このユニットのパワー＋5000。（ガーディアンの登場でも発動する）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

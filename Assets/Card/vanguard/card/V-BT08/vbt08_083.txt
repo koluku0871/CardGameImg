@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_083",
+  "PackNo": "V-BT08",
+  "CardName": "不磨の根絶者ゼグラヲ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：(R)から退却した時、【コスト】[ドロップゾーンからグレード０を２枚裏でバインドする]ことで、このカードを(R)に【レスト】でコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

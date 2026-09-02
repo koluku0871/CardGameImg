@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_072",
+  "PackNo": "V-BT08",
+  "CardName": "次元ロボダイジャイロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(G)】：登場時、【コスト】[このユニットを退却させる]ことで、そのターン中、あなたのヴァンガードのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

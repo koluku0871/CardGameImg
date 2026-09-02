@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_034",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[世界が変わる朝]パレオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "RAISEASUILEN",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【ドロップ】：あなたが〈RAISEASUILEN〉の楽曲オーダーをプレイした時、あなたのヴァンガードがグレード３以上で、このターンにこのカードと同名のユニットがドロップから(R)に登場していないなら、このカードをユニットのいない(R)にコールしてよい。コールしたなら、「チュチュ」を含むあなたのリアガードを１枚選び、【スタンド】させ、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

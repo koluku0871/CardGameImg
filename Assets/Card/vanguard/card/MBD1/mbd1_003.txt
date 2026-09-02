@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbd1_003",
+  "PackNo": "MBD1",
+  "CardName": "飛将の星輝兵クリプトン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

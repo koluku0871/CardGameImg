@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_071",
+  "PackNo": "G-BT05",
+  "CardName": "スターホルダー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバードラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：このユニットのアタックがヴァンガードにヒットした時、【カウンターチャージ】(2)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

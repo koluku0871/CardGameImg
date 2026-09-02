@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss07_048",
+  "PackNo": "V-SS07",
+  "CardName": "爆裂博士エゾノシン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【手札】：【超越】のコストを払う際、このカードをグレード３として捨ててよい。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_021",
+  "PackNo": "V-EB10",
+  "CardName": "燐光の騎士ラングリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このターンにあなたがコールしたリアガードの枚数により以下をすべて得る。・２枚以上-相手はインターセプトできない。・４枚以上-このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

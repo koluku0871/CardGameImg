@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0283",
+  "PackNo": "PR",
+  "CardName": "パンジーの銃士シルヴィア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(V)か(R)に登場した時、あなたの山札の上を公開する。そのカードがカード名に「銃士」を含むユニットなら、そのカードを(R)にコールし、違うなら、その山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

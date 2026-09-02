@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_044",
+  "PackNo": "V-BT08",
+  "CardName": "屈曲の豪打ヴァンマーネン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：解呪された時、１枚引く。この能力は同名カードを含めて各ターン１回まで使える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_048",
+  "PackNo": "V-BT11",
+  "CardName": "真率の忍鬼マフサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

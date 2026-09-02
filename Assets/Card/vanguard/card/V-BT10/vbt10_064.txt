@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_064",
+  "PackNo": "V-BT10",
+  "CardName": "戒厳竜コンプスカウター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

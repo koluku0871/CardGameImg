@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_106",
+  "PackNo": "DZ-BT13",
+  "CardName": "喧騒竜ディロフォナギング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットがグレード３以上のあなたのヴァンガードの能力のコストで(R)から退却した時、【コスト】[【エネルギーブラスト】(3)]することで、このカードを手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

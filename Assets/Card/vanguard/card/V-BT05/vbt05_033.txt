@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_033",
+  "PackNo": "V-BT05",
+  "CardName": "稲葉の白兎",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：グレード３のヴァンガードをブーストしたバトル終了時、【コスト】[手札を１枚ソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

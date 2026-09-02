@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_019",
+  "PackNo": "V-EB14",
+  "CardName": "大弓の騎士マルカーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：アタックした時、【コスト】[【カウンターブラスト】(1)，他の縦列のリアガードを１枚手札に戻す]ことで、そのバトル中、このユニットのパワー＋15000。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

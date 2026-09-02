@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_031",
+  "PackNo": "V-EB04",
+  "CardName": "タンク・マウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのカードが山札からドロップゾーンに置かれた時、【コスト】[【カウンターブラスト】(1)]することで、そのカードを手札に戻す。（同時に複数置かれても戻せるのは１枚）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

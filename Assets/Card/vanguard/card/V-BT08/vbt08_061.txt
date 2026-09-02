@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_061",
+  "PackNo": "V-BT08",
+  "CardName": "焦熱の火ギビル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サラマンダー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストしたバトル終了時、あなたの手札が４枚以下なら、【コスト】[このユニットをソウルに置く]ことで、そのターン中、あなたのヴァンガード１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

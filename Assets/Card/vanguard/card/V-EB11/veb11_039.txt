@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_039",
+  "PackNo": "V-EB11",
+  "CardName": "醇美の水波テクラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)】：登場時、【コスト】[手札からグレード４を１枚公開する]ことで、あなたの手札を望む枚数、山札の下に望む順で置き、置いたカードと同じ枚数引き、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

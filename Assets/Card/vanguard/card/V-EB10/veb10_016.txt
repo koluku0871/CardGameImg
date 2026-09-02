@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_016",
+  "PackNo": "V-EB10",
+  "CardName": "フルーツアソート・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "フォレストドラゴン",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、このユニットのパワーを、グレード０のあなたのリアガードすべての元々のパワーの合計分、増やす。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

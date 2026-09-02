@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gftd01_009",
+  "PackNo": "G-FTD01",
+  "CardName": "朝影の騎士キマルクス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "FTD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

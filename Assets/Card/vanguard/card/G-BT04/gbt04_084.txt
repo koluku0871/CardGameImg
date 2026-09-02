@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt04_084",
+  "PackNo": "G-BT04",
+  "CardName": "深慮遠謀のギアフォックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、そのバトル中、相手はグレード０のカードを手札から(G)にコールできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

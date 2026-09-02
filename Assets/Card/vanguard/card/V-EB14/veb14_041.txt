@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_041",
+  "PackNo": "V-EB14",
+  "CardName": "明光の騎士クレオダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、あなたのユニットが５枚以上なら、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

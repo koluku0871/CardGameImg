@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0252",
+  "PackNo": "V-PR",
+  "CardName": "サムライスピリット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【ドロップゾーン】：【コスト】[【ソウルブラスト】(1)，「サムライスピリット」以外のリアガードを１枚退却させる]ことで、このカードを(R)にコールし、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

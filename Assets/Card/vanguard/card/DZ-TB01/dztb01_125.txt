@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_125",
+  "PackNo": "DZ-TB01",
+  "CardName": "緑紫竜ペルーダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "ワイダーサカー/百鬼",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=〈レジェンドワールド〉“爆雷”－【自】【(R)】【ターン1回】：グレード１の相手のリアガードが登場した時、あなたのヴァンガードが「イカヅチ」を含むなら、そのターン中、その登場したユニットのパワー－5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

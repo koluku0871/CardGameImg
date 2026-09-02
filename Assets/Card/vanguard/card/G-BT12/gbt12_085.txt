@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt12_085",
+  "PackNo": "G-BT12",
+  "CardName": "抹消者ドラッグ・フェニックス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

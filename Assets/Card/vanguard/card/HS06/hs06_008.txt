@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "hs06_008",
+  "PackNo": "HS06",
+  "CardName": "撃退者の城塞ファタリテート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴーレム",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、あなたの《シャドウパラディン》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

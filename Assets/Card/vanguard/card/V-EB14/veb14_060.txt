@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_060",
+  "PackNo": "V-EB14",
+  "CardName": "ラークアロー・スクワイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=（このユニットはブーストではなくインターセプトを持つ）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

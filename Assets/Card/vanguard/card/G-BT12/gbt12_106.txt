@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt12_106",
+  "PackNo": "G-BT12",
+  "CardName": "エアーエレメンタルブルルン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "-",
+  "CardSubType": "エレメンタル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：相手のカードの効果で、相手の山札がシャッフルされた時、そのターン中、このユニットのパワー＋5000し、『【永】【(R)/(G)】：抵抗』を得る。（このカードはすべての、国家とクランに属する）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

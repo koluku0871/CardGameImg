@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_021",
+  "PackNo": "V-EB08",
+  "CardName": "星王大使ギンガード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(G)】：あなたのヴァンガードのグレードが、相手のヴァンガードのグレードより低いなら、このユニットのシールド＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

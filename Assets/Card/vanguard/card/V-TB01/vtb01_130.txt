@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_130",
+  "PackNo": "V-TB01",
+  "CardName": "迸る情熱今井リサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Roselia",
+  "Cost": "2",
+  "CardRarity": "SSR",
+  "Text": "effect=【自】：(G)から退却した時、このカードをソウルに置いてよい。【自】【(R)】：登場時、【ソウルチャージ】(1)し、そのターン中、あなたの他の〈Roselia〉１枚のパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0019",
+  "PackNo": "PR",
+  "CardName": "オムニサイエンス・マドンナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：[あなたの手札から１枚選び、捨てる]このユニットのアタックがヒットした時、あなたの《オラクルシンクタンク》のヴァンガードがいるなら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

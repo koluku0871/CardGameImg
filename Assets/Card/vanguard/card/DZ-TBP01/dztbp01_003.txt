@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_003",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[ToyFriends]牛込りみ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Poppin'Party",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【(R)】【ターン1回】：あなたのヴァンガードが「戸山香澄」を含むなら、【コスト】[【カウンターブラスト】(1)か手札から〈Poppin'Party〉を１枚ソウルに置く]ことで、１枚引く。相手のヴァンガードがグレード３以上なら、そのターン中、このユニットのパワー＋5000し、あなたの〈Poppin'Party〉のリアガードを１枚選び、パワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

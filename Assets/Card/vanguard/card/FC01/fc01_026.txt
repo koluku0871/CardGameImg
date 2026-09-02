@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "fc01_026",
+  "PackNo": "FC01",
+  "CardName": "ティアーナイトテオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

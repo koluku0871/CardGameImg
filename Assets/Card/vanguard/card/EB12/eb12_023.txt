@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb12_023",
+  "PackNo": "EB12",
+  "CardName": "蛙の魔女メリッサ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このカードがソウルからドロップゾーンに置かれた時、あなたの《ジェネシス》のヴァンガードがいるなら、コストを払ってよい。払ったら、このカードを(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

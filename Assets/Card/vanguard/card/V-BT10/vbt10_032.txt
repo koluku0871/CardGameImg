@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_032",
+  "PackNo": "V-BT10",
+  "CardName": "罪過の狩人マクドバ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：登場時、【コスト】[手札からグレード１を１枚捨てる]ことで、１枚引き、そのターン中、あなたのユニット１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

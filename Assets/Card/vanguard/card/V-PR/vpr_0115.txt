@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0115",
+  "PackNo": "V-PR",
+  "CardName": "お化けのべん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：山札からドロップゾーンに置かれた時、【コスト】[【ソウルブラスト】(1)]することで、このカードを(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

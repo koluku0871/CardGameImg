@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_030",
+  "PackNo": "V-BT10",
+  "CardName": "群像の魔女アンネリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：アタックした時、グレード１のあなたのリアガードが４枚以上なら、そのバトル中、このユニットのパワー＋20000。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

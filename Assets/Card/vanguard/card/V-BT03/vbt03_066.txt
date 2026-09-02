@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_066",
+  "PackNo": "V-BT03",
+  "CardName": "忍竜ダンブリーチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたか相手のリアガードが手札に戻されているなら、このユニットのパワー＋6000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

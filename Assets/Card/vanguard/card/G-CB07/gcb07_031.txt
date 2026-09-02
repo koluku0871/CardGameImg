@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_031",
+  "PackNo": "G-CB07",
+  "CardName": "アバンダントピンクセドナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)/(R)】：あなたの(V)と(R)の「シズク」を含むユニット１枚につき、このユニットのパワー＋1000。【永】【(V)/(R)】：あなたの(V)と(R)の「シズク」を含むユニットすべてのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

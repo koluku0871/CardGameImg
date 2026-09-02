@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss02_022",
+  "PackNo": "DZ-SS02",
+  "CardName": "スワンキィ・エンスローラー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=（トリガーで出たら、あなたのユニットを１枚選び、そのターン中、クリティカル＋１！さらにあなたのユニットを１枚選び、そのターン中、パワー＋10000！）,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

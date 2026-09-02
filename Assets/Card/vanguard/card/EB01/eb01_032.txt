@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_032",
+  "PackNo": "EB01",
+  "CardName": "シェルタービートル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

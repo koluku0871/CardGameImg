@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb01_016",
+  "PackNo": "G-EB01",
+  "CardName": "鋼闘機グラスカッター",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]他のあなたのカード名に「鋼闘機」を含む、グレード３とグレード２の、ユニットをそれぞれ１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

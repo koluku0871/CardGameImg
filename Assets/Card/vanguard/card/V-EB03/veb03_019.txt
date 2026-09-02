@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_019",
+  "PackNo": "V-EB03",
+  "CardName": "ミリオンレイ・ペガサス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)/(G)】：このターンにあなたのダメージゾーンに新たなカードが置かれているなら、このユニットのパワー＋5000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

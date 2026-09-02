@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_039",
+  "PackNo": "V-BT03",
+  "CardName": "ダストプラズマ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのターンに相手のリアガードがバインドされた時、そのターン中、このユニットと同じ縦列にいる、あなたのリアガード２枚のパワー＋5000してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

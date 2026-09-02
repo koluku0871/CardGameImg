@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_075",
+  "PackNo": "DZ-SS04",
+  "CardName": "超高層ビル街で「大」奮闘デッカくん",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "デカ杉デッカくん",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)】：あなたがライドデッキから、「デッカくん」を含むカードか《コロコロ》にライドする際、『手札から１枚選び、捨てる』ではなく『《コロコロ》を【ソウルブラスト】(1)』でもライドできる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

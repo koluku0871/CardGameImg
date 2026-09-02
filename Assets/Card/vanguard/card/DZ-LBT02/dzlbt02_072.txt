@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_072",
+  "PackNo": "DZ-LBT02",
+  "CardName": "SweetLinkerスクイラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=SweetLink－【永】：このカードと同名のあなたの他のソウルがあるなら、このカードはSweetLink状態になる。【自】：このユニットが「SweetLinker」を含むグレード３にライドされた時、あなたの手札から１枚選び、(R)にコールしてよい。コールしたなら、あなたの山札からそのユニットと同名のカードを１枚まで探し、ソウルに置き、山札をシャッフルし、１枚引く。【永】【(R)】：このユニットがSweetLink状態なら、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

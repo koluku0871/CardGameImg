@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad03_003",
+  "PackNo": "KAD03",
+  "CardName": "真理の騎士ゴードン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、あなたの《ロイヤルパラディン》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_053",
+  "PackNo": "V-BT10",
+  "CardName": "完遂の騎士ディラエルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのカードの能力で登場した時、【ソウルチャージ】(1)。この能力は同名カードを含めて各ターン１回まで使える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

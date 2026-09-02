@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_047",
+  "PackNo": "V-EB10",
+  "CardName": "美術部員ペルノワーレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ドロップゾーン】：【コスト】[このカードをバインドする]ことで、あなたのドロップゾーンからノーマルユニットを２枚まで山札の下に望む順で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

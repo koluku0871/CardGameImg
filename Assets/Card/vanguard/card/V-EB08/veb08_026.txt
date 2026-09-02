@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_026",
+  "PackNo": "V-EB08",
+  "CardName": "ドラゴンスピリット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：ドロップゾーンから登場した時、そのターン中、このユニットのパワー＋4000。あなたのドロップゾーンが10枚以上なら、＋4000のかわりに＋8000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_094",
+  "PackNo": "G-BT10",
+  "CardName": "ヴェーヌス・ブラウクリューガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】【Gブレイク】(1)：あなたの「ブラウ」を含むヴァンガードの効果で、他のあなたのリアガードが【スタンド】した時、このユニットを【スタンド】し、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

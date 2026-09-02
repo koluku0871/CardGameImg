@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_074",
+  "PackNo": "V-BT09",
+  "CardName": "テンプティング・フープスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[ソウルを１枚以上、すべて【ソウルブラスト】]することで、そのターン中、あなたのヴァンガード１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

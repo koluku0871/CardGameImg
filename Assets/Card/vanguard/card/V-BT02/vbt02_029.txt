@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_029",
+  "PackNo": "V-BT02",
+  "CardName": "レフト・アレスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックした時、「アレスター」を含むあなたの他のリアガードがいるなら、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_056",
+  "PackNo": "V-EB14",
+  "CardName": "懇到の騎士モーガン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたの(R)に、あなたのヴァンガードと同名のユニットがいるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

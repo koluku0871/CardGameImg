@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_054",
+  "PackNo": "V-BT09",
+  "CardName": "毬歌の忍鬼ミヤギク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[このユニットを【レスト】する]ことで、１枚引き、あなたの手札を１枚捨てる。「毬歌の忍鬼ミヤギク」を捨てたら、このユニットを【スタンド】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

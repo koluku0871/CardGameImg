@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0378",
+  "PackNo": "V-PR",
+  "CardName": "芸術家バビルサール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：アタックがヒットした時、相手のヴァンガードがグレード３以上なら、【コスト】[このユニットを退却させる]ことで、そのターン中、あなたのヴァンガード１枚のパワー＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

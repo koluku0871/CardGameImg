@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_078",
+  "PackNo": "G-BT10",
+  "CardName": "忍妖マーダーアンドン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)：カードの効果で、このユニットが(R)に登場した時、そのターン中、このユニットのパワー－2000してよい。パワー－2000したら、そのターン中、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb06_036",
+  "PackNo": "G-CB06",
+  "CardName": "グラヴィテート・タートル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】【Gブレイク】(1)：相手の呪縛カードがあるなら、このユニットは、『インターセプト』と『【永】【(R)】：このユニットは後列からインターセプトできる。』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

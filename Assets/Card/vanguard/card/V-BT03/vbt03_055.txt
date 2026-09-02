@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_055",
+  "PackNo": "V-BT03",
+  "CardName": "ディスリガード・モンキー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(G)】：登場時、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

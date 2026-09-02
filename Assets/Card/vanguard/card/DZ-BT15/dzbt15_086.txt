@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_086",
+  "PackNo": "DZ-BT15",
+  "CardName": "翔明の騎士リモール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「グラムグレイス」を含むグレード３にライドされた時、あなたの山札から、あなたのヴァンガードと同名のカードを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

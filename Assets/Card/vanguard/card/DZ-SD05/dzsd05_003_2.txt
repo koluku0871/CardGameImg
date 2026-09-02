@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd05_003_2",
+  "PackNo": "DZ-SD05",
+  "CardName": "求知の妖精ストロベラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

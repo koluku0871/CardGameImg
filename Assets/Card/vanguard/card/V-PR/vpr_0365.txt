@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0365",
+  "PackNo": "V-PR",
+  "CardName": "逆波のバンシー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ドロップゾーンから登場した時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

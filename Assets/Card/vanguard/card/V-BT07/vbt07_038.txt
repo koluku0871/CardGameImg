@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_038",
+  "PackNo": "V-BT07",
+  "CardName": "ソードトルーパーエクィテス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：アタックしたバトル終了時、【コスト】[【カウンターブラスト】(2)]することで、パワー20000以上のあなたのリアガードをすべて【スタンド】する。,critical=クリティカル1,skill=ツインドライブ、アクセル,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

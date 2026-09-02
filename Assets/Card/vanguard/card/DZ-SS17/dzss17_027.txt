@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss17_027",
+  "PackNo": "DZ-SS17",
+  "CardName": "スピニングカット",
+  "CardCategory": "トリガーオーダー",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/ディフェンス",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=【永】：相手ターンのガードステップ中、このカードはトリガーユニットとして(G)にコールでき、グレード０/シールド15000のガーディアンになる。,critical=クリティカル-,skill=-,gift=フロントトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "0"
+}

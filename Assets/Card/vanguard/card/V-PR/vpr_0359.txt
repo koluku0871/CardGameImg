@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0359",
+  "PackNo": "V-PR",
+  "CardName": "銀の茨のお手玉師ミュー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(G)】：手札から登場した時、あなたのソウルから「銀の茨」を含むカードを１枚(G)にコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

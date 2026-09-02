@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0339",
+  "PackNo": "V-PR",
+  "CardName": "パワーライズ・エリクサー",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "ノーマルオーダー",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(2)]そのターン中、あなたのユニット１枚のパワー＋20000。（このカードはすべてのクランのカードとして扱う）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

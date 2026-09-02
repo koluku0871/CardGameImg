@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_005",
+  "PackNo": "V-BT02",
+  "CardName": "漆黒の乙女マーハ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【(V)/(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)，手札からグレード１以下を１枚(R)にコールする]ことで、１枚引き、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

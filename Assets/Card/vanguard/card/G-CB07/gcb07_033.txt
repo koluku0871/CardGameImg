@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_033",
+  "PackNo": "G-CB07",
+  "CardName": "Chouchouイルーネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：[あなたの他の「Chouchou」を含むリアガードを１枚選び、山札の下に置く]このユニットがブーストしたバトルの終了時、コストを払ってよい。払ったら、１枚引く。【永】【(R)】【Gブレイク】(2)：あなたのターン中、あなたの前列の「Chouchou」を含むユニットすべてのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_048",
+  "PackNo": "V-TB01",
+  "CardName": "キラキラな思い出！",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】：「キラキラな思い出！」はデッキに12枚まで入れられる。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

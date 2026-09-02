@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_044",
+  "PackNo": "V-BT11",
+  "CardName": "採点名人ネズトビー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：アタックがヒットした時、１枚引く。【自】：あなたのカードの能力で(R)から退却した時、「ビッグベリー」を含むあなたのヴァンガードがいるなら、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

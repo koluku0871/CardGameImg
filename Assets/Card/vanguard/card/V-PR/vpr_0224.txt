@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0224",
+  "PackNo": "V-PR",
+  "CardName": "忍獣モウカギツネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：グレード３のリアガードをブーストしたバトル終了時、ブーストされたリアガードを手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

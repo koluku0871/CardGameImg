@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_093",
+  "PackNo": "DZ-SS04",
+  "CardName": "高橋ベベベベ(さそり座)",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ベベベベベイビー",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

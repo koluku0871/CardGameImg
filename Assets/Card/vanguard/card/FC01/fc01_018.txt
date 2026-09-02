@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "fc01_018",
+  "PackNo": "FC01",
+  "CardName": "戦巫女ミヒカリヒメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_017",
+  "PackNo": "EB01",
+  "CardName": "ライザーカスタム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、このユニットと同じ縦列の後列にあなたの「バトルライザー」がいるなら、このユニットのパワー＋6000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb03_070",
+  "PackNo": "G-EB03",
+  "CardName": "磁気嵐のレディボンバー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[あなたの手札からグレード１以上のカードを１枚選び、(R)に呪縛カードとして置く]このユニットが(R)に登場した時、あなたのヴァンガードが〈メサイア〉なら、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

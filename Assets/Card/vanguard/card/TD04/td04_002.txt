@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td04_002",
+  "PackNo": "TD04",
+  "CardName": "花占いの女神サクヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(V)】：あなたのターン中、あなたの手札が４枚以上なら、このユニットのパワー＋4000。【自】：このユニットが(V)に登場した時、あなたの《オラクルシンクタンク》のリアガードを手札にすべて戻す。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

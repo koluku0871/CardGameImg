@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_010",
+  "PackNo": "V-EB01",
+  "CardName": "突撃竜ブライトプス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：(R)から退却した時、【コスト】[【カウンターブラスト】(1)]することで、このユニットの武装ゲージから２枚まであなたの手札に戻す。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

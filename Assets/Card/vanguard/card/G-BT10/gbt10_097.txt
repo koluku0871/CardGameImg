@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_097",
+  "PackNo": "G-BT10",
+  "CardName": "ドグー・チャリオッツ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【ソウルブラスト】(2)]このユニットが(R)に登場した時、コストを払ってよい。払ったら、【カウンターチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

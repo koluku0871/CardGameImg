@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_019",
+  "PackNo": "V-EB05",
+  "CardName": "夢中な瞬間イナスタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列に、グレード３以上のあなたのユニットがいるなら、このユニットは『ブースト』を得て、後列からでもインターセプトできる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

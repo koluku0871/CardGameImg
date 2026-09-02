@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb02_073",
+  "PackNo": "G-CHB02",
+  "CardName": "マグニファイア・チャウチャウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：[【ソウルブラスト】(1)]あなたの達成状態のユニットが(R)から退却した時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

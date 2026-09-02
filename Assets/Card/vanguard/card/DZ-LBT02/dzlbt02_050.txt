@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_050",
+  "PackNo": "DZ-LBT02",
+  "CardName": "お気に入りをお迎えトゥプラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットがあなたの「Trick＆Treat！」の能力で(R)に登場した時、そのターン中、このユニットがアタックしたバトルでは、相手は手札から(G)にコールする際、２枚以上同時にコールしない限りコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

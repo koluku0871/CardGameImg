@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0682",
+  "PackNo": "PR",
+  "CardName": "酒井参輝-情ノ華-",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

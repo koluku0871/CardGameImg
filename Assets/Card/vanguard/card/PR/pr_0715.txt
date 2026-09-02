@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0715",
+  "PackNo": "PR",
+  "CardName": "ファイアワークフェニックス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

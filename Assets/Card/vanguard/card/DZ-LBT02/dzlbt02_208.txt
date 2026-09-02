@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_208",
+  "PackNo": "DZ-LBT02",
+  "CardName": "スノウスキップパルヴィ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "TGR",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

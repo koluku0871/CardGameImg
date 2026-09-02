@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_049",
+  "PackNo": "V-BT07",
+  "CardName": "気魂の魔術師クルート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：登場時、あなたのユニット１枚につき、【ソウルチャージ】(1)。（このユニットも含む）,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

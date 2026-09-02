@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0551",
+  "PackNo": "PR",
+  "CardName": "次元ロボダイクレーン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

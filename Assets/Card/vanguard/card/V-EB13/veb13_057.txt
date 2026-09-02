@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_057",
+  "PackNo": "V-EB13",
+  "CardName": "流星光底の時空巨兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアコロッサス",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

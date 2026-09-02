@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0179",
+  "PackNo": "V-PR",
+  "CardName": "光導勇姫セルディオラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのターンにあなたの「ブラスター・ブレード」が登場した時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

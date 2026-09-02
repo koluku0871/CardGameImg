@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0575",
+  "PackNo": "V-PR",
+  "CardName": "クイックシールド",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "ブリッツオーダー",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=アタックされているあなたのユニットを１枚選び、そのバトル中、パワー＋5000！,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

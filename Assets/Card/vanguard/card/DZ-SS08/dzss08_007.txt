@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss08_007",
+  "PackNo": "DZ-SS08",
+  "CardName": "エスタシオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "フォレストドラゴン/舞羅主疾",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

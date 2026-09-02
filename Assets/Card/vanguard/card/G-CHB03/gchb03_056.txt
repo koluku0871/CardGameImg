@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb03_056",
+  "PackNo": "G-CHB03",
+  "CardName": "お化けのまっと",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【起】【(R)】：[このユニットをソウルに置く]あなたの山札の上から２枚をドロップゾーンに置く。「お化け」を含むカードを置いたら、【ソウルチャージ】(1)し、さらに、２枚置いたら、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

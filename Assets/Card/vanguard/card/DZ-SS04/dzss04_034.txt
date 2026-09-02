@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_034",
+  "PackNo": "DZ-SS04",
+  "CardName": "冷し中華滅びました",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "でんぢゃらすじーさん",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_083",
+  "PackNo": "PR",
+  "CardName": "壊乱の騎士ケアバー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)/(G)】【Gブレイク】(1)儀式５（あなたのドロップゾーンにグレード１が５枚以上で有効）：このユニットのパワー＋2000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

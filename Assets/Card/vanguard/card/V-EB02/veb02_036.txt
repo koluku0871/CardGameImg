@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_036",
+  "PackNo": "V-EB02",
+  "CardName": "次元ロボダイランダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードがパワー30000以上なら、相手はインターセプトできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_052",
+  "PackNo": "G-BT05",
+  "CardName": "ビームシャワー・タートル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)神託（手札が５枚以上で有効）：[【ソウルブラスト】(2)]このユニットが(G)に登場した時、コストを払ってよい。払ったら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

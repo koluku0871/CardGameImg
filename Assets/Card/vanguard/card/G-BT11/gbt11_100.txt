@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt11_100",
+  "PackNo": "G-BT11",
+  "CardName": "刻獣ブリング・ホーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に登場した時、あなたの山札の上から１枚を表でバインドしてよい。そのカードが〈十二支刻獣〉なら、あなたの〈ギアコロッサス〉を１枚まで選び、そのバトル中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

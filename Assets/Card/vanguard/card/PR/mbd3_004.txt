@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbd3_004",
+  "PackNo": "PR",
+  "CardName": "煉獄導師アスティカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

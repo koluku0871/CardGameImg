@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_058",
+  "PackNo": "V-EB03",
+  "CardName": "ホーレン相談役",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたの他のリアガードがあなたのカードの能力で登場した時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

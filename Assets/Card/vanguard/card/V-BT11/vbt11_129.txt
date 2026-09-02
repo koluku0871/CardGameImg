@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_129",
+  "PackNo": "V-BT11",
+  "CardName": "支配の仮面",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/支配の仮面",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=（これは支配の仮面・トークンを表すカードであり、デッキには入れられない）,critical=クリティカル0,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

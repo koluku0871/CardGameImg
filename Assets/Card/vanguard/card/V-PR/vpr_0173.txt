@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0173",
+  "PackNo": "V-PR",
+  "CardName": "フォールンダイブ・イーグル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：相手のリアガードがアタックしたバトルでインターセプトした時、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_016",
+  "PackNo": "V-BT05",
+  "CardName": "魂を導くエルフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：相手の守護者が手札から(G)に登場した時、あなたのヴァンガードがグレード３以上なら、【コスト】[【カウンターブラスト】(1)]することで、あなたは１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_019",
+  "PackNo": "V-BT10",
+  "CardName": "アビサル・オウル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：この能力のコストはあなたと相手のヴァンガードのグレードが同じなら、『【ソウルブラスト】(1)』でも払える。登場時、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

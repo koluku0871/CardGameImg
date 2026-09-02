@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_025",
+  "PackNo": "V-BT01",
+  "CardName": "ふぁねるがる",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：ブーストされてヴァンガードにアタックした時、【コスト】[【カウンターブラスト】(1)]することで、【ソウルチャージ】(1)し、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

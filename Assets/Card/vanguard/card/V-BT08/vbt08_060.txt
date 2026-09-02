@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_060",
+  "PackNo": "V-BT08",
+  "CardName": "魔竜導師サカラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：アタックがヴァンガードにヒットした時、このユニットと同じ縦列の、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

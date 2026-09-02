@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_051",
+  "PackNo": "V-BT07",
+  "CardName": "万亀の魔女ケッパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのターン中、あなたの(V)のフォース・マーカーが３つ以上なら、このユニットは『ブースト』を得て、パワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

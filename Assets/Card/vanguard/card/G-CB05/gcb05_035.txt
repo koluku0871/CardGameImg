@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_035",
+  "PackNo": "G-CB05",
+  "CardName": "SW-PR♥ISMルピーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【Gブレイク】(1)：[【カウンターブラスト】(1)]あなたのバトルフェイズ中、このユニットが(R)から手札に戻された時、コストを払ってよい。払ったら、あなたの「PR♥ISM」を含むリアガードを１枚選び、手札に戻す。戻したら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_057",
+  "PackNo": "V-EB09",
+  "CardName": "盛装怪人アルゴビルバグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：ヴァンガードにアタックしたバトル中、このターンに相手のカードが山札からドロップゾーンに置かれているなら、相手は手札からガーディアンをコールする際、２枚以上でしかコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

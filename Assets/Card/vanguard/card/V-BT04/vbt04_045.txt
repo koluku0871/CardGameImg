@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_045",
+  "PackNo": "V-BT04",
+  "CardName": "肥沃の魔女ネーネス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[リアガードを３枚【レスト】する]ことで、あなたと相手は、【カウンターチャージ】(1)/【ソウルチャージ】(1)してよい。（お互い自分で選択する）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

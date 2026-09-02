@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_220",
+  "PackNo": "DZ-TB02",
+  "CardName": "秋田藤四郎祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【永】【(R)】：相手のターン中、あなたのヴァンガードが「一期一振」を含むか、あなたが「短刀の能力極」のクレストを持つなら、このユニットと同じ縦列のあなたのリアガードすべては相手のカードの効果で、選べず、退却しない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

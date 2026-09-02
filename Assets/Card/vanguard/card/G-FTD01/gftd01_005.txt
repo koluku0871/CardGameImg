@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gftd01_005",
+  "PackNo": "G-FTD01",
+  "CardName": "暁光の騎士イアゴー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "FTD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

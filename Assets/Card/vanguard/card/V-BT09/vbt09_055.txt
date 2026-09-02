@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_055",
+  "PackNo": "V-BT09",
+  "CardName": "無尽の忍鬼トキツネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの他のサークルの「無尽の忍鬼トキツネ」１枚につき、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

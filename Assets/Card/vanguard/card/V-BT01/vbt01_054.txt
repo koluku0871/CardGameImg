@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_054",
+  "PackNo": "V-BT01",
+  "CardName": "ペタル・フェアリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、あなたの山札を上から１枚見て、山札の上か下に置く。下に置いたら、そのターン中、あなたのユニット１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

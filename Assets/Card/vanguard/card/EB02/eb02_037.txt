@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb02_037",
+  "PackNo": "EB02",
+  "CardName": "ガールズロックリオ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "SP",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(R)から手札に戻された時、あなたの《バミューダ△》のヴァンガードがいるなら、コストを払ってよい。払ったら、【ソウルチャージ】(1)し、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

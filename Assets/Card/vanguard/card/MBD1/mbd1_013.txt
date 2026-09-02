@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbd1_013",
+  "PackNo": "MBD1",
+  "CardName": "星輝兵ムーンコマンダー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

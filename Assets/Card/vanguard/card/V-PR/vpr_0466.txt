@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0466",
+  "PackNo": "V-PR",
+  "CardName": "皇刻龍エターナルディグニティ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "4",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)】：登場時、あなたのバインドゾーンの表のグレード合計が24以上なら、追加10ターンを得る。※ファイトでは使用できません。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "15000",
+  "Defense": "0"
+}

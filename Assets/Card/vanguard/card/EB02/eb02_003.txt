@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb02_003",
+  "PackNo": "EB02",
+  "CardName": "バミューダプリンセスレナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(V)】：あなたのターン中、あなたの《バミューダ△》のリアガードが４枚以上なら、このユニットのパワー＋3000。【自】：このユニットが(V)に登場した時、あなたの《バミューダ△》のリアガードを手札にすべて戻す。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

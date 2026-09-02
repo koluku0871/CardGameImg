@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb01_033",
+  "PackNo": "G-CB01",
+  "CardName": "謎解きの時間イシル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのグレード３のユニットが(V)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

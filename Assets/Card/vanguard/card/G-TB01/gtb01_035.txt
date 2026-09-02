@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtb01_035",
+  "PackNo": "G-TB01",
+  "CardName": "小夜左文字",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

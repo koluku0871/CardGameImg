@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb12_020",
+  "PackNo": "EB12",
+  "CardName": "美の神器ヴィーナス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

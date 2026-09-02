@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_137",
+  "PackNo": "DZ-LBT02",
+  "CardName": "Earnescorrectフォロワーフィールネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【起】【(R)】：あなたのヴァンガードが「クラリッサ」を含むグレード３以上なら、【コスト】[このユニットを退却させる]ことで、以下を１つ行う。・あなたのドロップから、このカードと別名の「Earnescorrect」を含むノーマルユニットを１枚選び、(R)にコールする。・あなたのドロップから「目指せ！最強のアイドル！」を１枚選び、手札に加える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

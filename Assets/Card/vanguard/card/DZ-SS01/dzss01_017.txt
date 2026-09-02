@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss01_017",
+  "PackNo": "DZ-SS01",
+  "CardName": "砂塵舞う灼熱の大地",
+  "CardCategory": "セットオーダー",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "-",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=（セットオーダーはプレイ後、オーダーゾーンに置く）【自】【オーダーゾーン】：あなたのバトルフェイズ開始時、あなたの後列のリアガードを１枚選び、そのターン中、『ブースト』を与える。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

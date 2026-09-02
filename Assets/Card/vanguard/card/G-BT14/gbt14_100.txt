@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_100",
+  "PackNo": "G-BT14",
+  "CardName": "シャドウエレメンタルビックン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "エレメンタル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(G)に登場した時、このターンに相手のヴァンガードが２回以上アタックしているなら、あなたのユニットを１枚選び、そのバトル中、ヒットされない。（このカードはすべての、国家とクランに属する）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

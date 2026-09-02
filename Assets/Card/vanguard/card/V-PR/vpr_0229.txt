@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0229",
+  "PackNo": "V-PR",
+  "CardName": "パウダリィ・ディアレディ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのメインフェイズに手札から登場した時、【レスト】しているあなたの他のリアガード１枚を【スタンド】し、そのターン中、そのユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

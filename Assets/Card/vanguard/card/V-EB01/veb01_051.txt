@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_051",
+  "PackNo": "V-EB01",
+  "CardName": "チアガールフラニィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く，ドロップゾーンから１枚山札の下に置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

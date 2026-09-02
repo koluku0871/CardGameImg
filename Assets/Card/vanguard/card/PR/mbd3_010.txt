@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbd3_010",
+  "PackNo": "PR",
+  "CardName": "ガード・グリフォン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "キメラ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(Ｇ)に登場した時、あなたの《かげろう》のヴァンガードがいるなら、コストを払ってよい。払ったら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

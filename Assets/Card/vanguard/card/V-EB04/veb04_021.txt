@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_021",
+  "PackNo": "V-EB04",
+  "CardName": "猫の魔女クミン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【カウンターブラスト】(1)，このユニットを【レスト】する]ことで、【スタンド】しているあなたのリアガード１枚を手札に戻すか、ドロップゾーンから１枚ソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

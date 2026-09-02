@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_057",
+  "PackNo": "V-EB01",
+  "CardName": "ナスティ・スモッグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列にいる、相手のユニットすべてはインターセプトできない。【永】【(R)】：このユニットと同じ縦列の後列にいる、相手のユニットすべてはスタンドフェイズに【スタンド】できない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

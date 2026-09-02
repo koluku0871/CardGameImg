@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb02_028",
+  "PackNo": "G-CB02",
+  "CardName": "ティアーナイトティモス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)連波-２回目以降（各ターンの指定されたバトルで有効）：このユニットのアタックがヴァンガードにヒットした時、相手のリアガードを１枚まで選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

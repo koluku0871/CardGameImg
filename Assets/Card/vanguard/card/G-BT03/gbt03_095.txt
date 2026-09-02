@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_095",
+  "PackNo": "G-BT03",
+  "CardName": "キリング・ドールマスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[このユニットをソウルに置く]あなたのメインフェイズ開始時、コストを払ってよい。払ったら、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

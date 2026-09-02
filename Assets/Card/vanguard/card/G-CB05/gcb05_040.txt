@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_040",
+  "PackNo": "G-CB05",
+  "CardName": "SW-PR♥ISMティティス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【自】：先駆【自】【(R)】【Gブレイク】(1)：このユニットが「PR♥ISM」を含むグレード３以上のユニットをブーストした時、あなたの他の「PR♥ISM」を含むリアガードを１枚選び、手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

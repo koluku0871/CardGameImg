@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd07_004",
+  "PackNo": "V-TD07",
+  "CardName": "慢心する根絶者ギヲ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

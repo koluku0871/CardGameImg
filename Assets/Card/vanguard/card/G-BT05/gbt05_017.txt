@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_017",
+  "PackNo": "G-BT05",
+  "CardName": "白色矮星のレディバトラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：このユニットがブーストした時、呪縛カードを１枚選び、解呪してよい。解呪したら、そのバトル中、ブーストされたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

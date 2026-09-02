@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_050",
+  "PackNo": "V-BT07",
+  "CardName": "星夜の強弓ウリクセス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、１枚引き、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

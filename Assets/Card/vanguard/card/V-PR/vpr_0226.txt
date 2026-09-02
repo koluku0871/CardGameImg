@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0226",
+  "PackNo": "V-PR",
+  "CardName": "ハードタイル・ブレイカー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：あなたのターンに手札からこのカードを捨てた時、【コスト】[【カウンターブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

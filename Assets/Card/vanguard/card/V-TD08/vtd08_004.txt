@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd08_004",
+  "PackNo": "V-TD08",
+  "CardName": "義理の装いリルム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

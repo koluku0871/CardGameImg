@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb02_059",
+  "PackNo": "G-TCB02",
+  "CardName": "誘眠怪人ヒュプノモス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】暗躍（同じ縦列に相手の【スタンド】しているユニットがいないなら有効）：他のあなたの暗躍能力を持つユニット１枚につき、このユニットのパワー＋1000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

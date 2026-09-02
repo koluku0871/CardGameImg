@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gttd01_014",
+  "PackNo": "G-TTD01",
+  "CardName": "秋田藤四郎",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

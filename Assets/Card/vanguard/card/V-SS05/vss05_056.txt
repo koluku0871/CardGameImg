@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss05_056",
+  "PackNo": "V-SS05",
+  "CardName": "ドリーン・ザ・スラスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：あなたのカードがあなたのカードの能力でソウルに置かれた時、そのターン中、このユニットのパワー＋5000。（一度に【ソウルチャージ】(2)したら＋10000）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

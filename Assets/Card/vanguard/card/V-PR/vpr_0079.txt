@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0079",
+  "PackNo": "V-PR",
+  "CardName": "軍旗の騎士ロディーヌ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(2)]することで、あなたの山札を上から３枚見て、あなたのヴァンガード以下のグレードを１枚まで(R)にコールし、残りを山札の下に望む順で置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

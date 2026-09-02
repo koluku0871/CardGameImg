@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_042",
+  "PackNo": "V-BT01",
+  "CardName": "ギガンテック・チャージャー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：このユニットか、あなたの他のヴァンガードが登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

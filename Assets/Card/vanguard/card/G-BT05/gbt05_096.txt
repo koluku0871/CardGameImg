@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_096",
+  "PackNo": "G-BT05",
+  "CardName": "スチームメイデンバルル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(R)からバインドゾーンに置かれた時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

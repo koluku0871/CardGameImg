@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_090",
+  "PackNo": "DZ-SS04",
+  "CardName": "かわいい弟ベベベベ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ベベベベベイビー",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードが、「ベベベベ」を含むか《コロコロ》なら、このユニットは『インターセプト』を得る。【永】【(G)】：あなたのドロップにブリッツオーダーがあるなら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

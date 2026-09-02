@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_031",
+  "PackNo": "EB01",
+  "CardName": "マシニング・ワーカーアント",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、カード名に「マシニング」を含む《メガコロニー》のリアガードを１枚選び、【スタンド】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

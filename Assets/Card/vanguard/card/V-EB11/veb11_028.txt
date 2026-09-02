@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_028",
+  "PackNo": "V-EB11",
+  "CardName": "エレクトロテクノティーコ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)，このユニットをソウルに置く]ことで、そのターン中、「コーラル」を含むあなたのユニット１枚のパワー＋15000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

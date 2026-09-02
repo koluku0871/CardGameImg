@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td04_007",
+  "PackNo": "TD04",
+  "CardName": "オラクルガーディアンジェミニ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

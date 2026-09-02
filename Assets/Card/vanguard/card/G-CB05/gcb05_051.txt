@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_051",
+  "PackNo": "G-CB05",
+  "CardName": "Chouchouメラーレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのカードの効果で、他のユニットが(R)に登場した時、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_028",
+  "PackNo": "V-EB14",
+  "CardName": "メーザーギア・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたのターンに手札から捨てられた時、【コスト】[【ソウルブラスト】(1)]することで、相手の前列のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

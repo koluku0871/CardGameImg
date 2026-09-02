@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_057",
+  "PackNo": "DZ-TB02",
+  "CardName": "地蔵行平祝装",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】：「地蔵行平祝装」はデッキに８枚まで入れられる。【永】【(R)】：あなたのヴァンガードが、「山姥切国広」か「歌仙兼定」を含む、グレード３以上なら、このユニットは『ブースト』を得て、後列からでもインターセプトできる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb08_024",
+  "PackNo": "EB08",
+  "CardName": "ベアダウン・サムラーイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズ中、あなたの《ノヴァグラップラー》が【スタンド】した時、あなたのカード名に「アシュラ」を含むヴァンガードがいるなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

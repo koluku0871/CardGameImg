@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_032",
+  "PackNo": "V-EB04",
+  "CardName": "星河の女神プレイオネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：登場時、あなたの山札を上から３枚見て、１枚をソウルに置き、２枚を望む順で山札の上に置く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

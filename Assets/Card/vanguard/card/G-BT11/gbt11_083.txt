@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt11_083",
+  "PackNo": "G-BT11",
+  "CardName": "強攻の忍鬼チナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

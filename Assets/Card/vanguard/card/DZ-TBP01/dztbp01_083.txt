@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_083",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[ようこそパーティへ！]倉田ましろ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Morfonica",
+  "Cost": "1",
+  "CardRarity": "R+",
+  "Text": "effect=【自】：このユニットが「[言の葉にのせて]倉田ましろ」にライドされた時、あなたの山札からグレード２以下の〈Morfonica〉を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

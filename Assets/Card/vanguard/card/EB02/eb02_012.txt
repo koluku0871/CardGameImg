@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb02_012",
+  "PackNo": "EB02",
+  "CardName": "マーメイドアイドルフリュート",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)/(R)】：あなたのターン中、あなたの《バミューダ△》のリアガードが４枚以上いるなら、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

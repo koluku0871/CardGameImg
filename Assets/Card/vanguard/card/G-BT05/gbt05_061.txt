@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_061",
+  "PackNo": "G-BT05",
+  "CardName": "デザートガンナーコウジン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】【Gブレイク】(1)雷激２（相手のバインドゾーンが２枚以上で有効）：このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

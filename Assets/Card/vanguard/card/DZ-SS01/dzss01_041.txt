@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss01_041",
+  "PackNo": "DZ-SS01",
+  "CardName": "アンプルボマー・エンジェル",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_015",
+  "PackNo": "V-EB09",
+  "CardName": "スナッパー・デビル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)】：アタックがヒットした時、１枚引く。【自】【(R)】：ブーストした時、【コスト】[【カウンターブラスト】(1)]することで、あなたのフォース・マーカーをすべて、ブーストされたユニットのサークルに移動する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

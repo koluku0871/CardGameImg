@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_139",
+  "PackNo": "DZ-BT15",
+  "CardName": "静かなる守護神西蔭政也",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "王帝月ノ宮中/クロニクル",
+  "Cost": "1",
+  "CardRarity": "EXC",
+  "Text": "effect=ポジション：GK【自】：このユニットが(G)に置かれた時、【コスト】[ドロップから「王家の盾」を１枚バインドする]ことで、そのバトル中、このユニットのシールド＋10000。【永】【(G)】：このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

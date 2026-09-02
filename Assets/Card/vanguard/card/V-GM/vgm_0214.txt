@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vgm_0214",
+  "PackNo": "V-GM",
+  "CardName": "イマジナリーギフトプロテクト",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "-",
+  "Text": "effect=獲得時、このマーカーを手札に加える！（(G)以外にコールできない）【永】：守護者【自】【(G)】：登場時、【コスト】[手札を１枚捨てる]ことで、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_046",
+  "PackNo": "V-BT09",
+  "CardName": "倦怠の呪術師ネグロレイジー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：登場時、あなたのドロップゾーンからグレード０を１枚(R)にコールしてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

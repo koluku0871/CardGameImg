@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb06_034",
+  "PackNo": "G-CB06",
+  "CardName": "縮退のラピッドガンナー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【ターン1回】【Gブレイク】(1)：[このユニットと同じ縦列にいるあなたの他のリアガードを１枚選び、呪縛する]あなたの他のユニットを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0310",
+  "PackNo": "V-PR",
+  "CardName": "奮励の騎士ロドリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：あなたの表のダメージゾーンがあるなら、【コスト】[ダメージゾーンをすべて裏にする]ことで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

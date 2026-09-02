@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0346",
+  "PackNo": "PR",
+  "CardName": "清き（毎日の）１票を！ヴァンガ郎",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(G)からドロップゾーンに置かれた時、このカードをソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

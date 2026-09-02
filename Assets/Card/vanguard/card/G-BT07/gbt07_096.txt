@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt07_096",
+  "PackNo": "G-BT07",
+  "CardName": "ヴェアブルムベア・ゾルダート",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

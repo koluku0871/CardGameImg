@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_116",
+  "PackNo": "V-TB01",
+  "CardName": "ポピパのまとめ役山吹沙綾",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Poppin'Party",
+  "Cost": "1",
+  "CardRarity": "SSR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【カウンターブラスト】(1)，手札を１枚山札の下に置く]ことで、あなたのドロップゾーンから、【クリティカル】トリガーと〈Poppin'Party〉のノーマルユニットを１枚ずつ手札に戻す。この能力は同名カードも含めて各ターン１回まで使える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

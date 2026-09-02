@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_062",
+  "PackNo": "V-EB08",
+  "CardName": "索敵するカモメ兵",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

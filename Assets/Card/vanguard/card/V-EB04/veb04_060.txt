@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_060",
+  "PackNo": "V-EB04",
+  "CardName": "トライド・ドッグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

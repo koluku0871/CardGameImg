@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vmb01_004",
+  "PackNo": "V-MB01",
+  "CardName": "導きの賢者ゼノン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：手札から登場した時、あなたの山札を上から１枚公開してよい。そのカードのグレードがあなたのヴァンガードと同じなら、そのカードを【スタンド】でライドし、違うなら、ドロップゾーンに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

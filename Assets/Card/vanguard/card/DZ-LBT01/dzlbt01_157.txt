@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_157",
+  "PackNo": "DZ-LBT01",
+  "CardName": "ラスカル・スターズローヴァス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "FR",
+  "Text": "effect=【永】【(R)/(G)】：あなたのドロップに「Trick＆Treat！」が５枚以上なら、このユニットのパワー＋5000/シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

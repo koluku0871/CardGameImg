@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0340",
+  "PackNo": "V-PR",
+  "CardName": "知略の兵法剛腕の章",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(3)，【ソウルブラスト】(3)]３枚引き、そのターン中、あなたの前列のユニット３枚のパワー＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

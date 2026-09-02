@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_126",
+  "PackNo": "DZ-TB01",
+  "CardName": "ディザスターへの誘い臥炎キョウヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "バディファイター",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=〈ドラゴン・アイン〉【自】：このユニットが「キョウヤ」を含むグレード３にライドされた時、あなたの山札を上から１枚ゲージに裏で置き、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

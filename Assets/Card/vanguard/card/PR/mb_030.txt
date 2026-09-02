@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_030",
+  "PackNo": "PR",
+  "CardName": "砂塵の異能者イザヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのメインフェイズ中、あなたのカードがソウルに置かれた時、あなたのヴァンガードが【双闘】しているなら、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

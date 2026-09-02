@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0628",
+  "PackNo": "PR",
+  "CardName": "サイレンス・ジョーカー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《スパイクブラザーズ》のヴァンガードがいるなら、ダメージゾーンから１枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

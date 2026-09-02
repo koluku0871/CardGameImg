@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_076",
+  "PackNo": "V-BT09",
+  "CardName": "奇術人形フライング・ペリュトン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：(G)から退却した時、このカードをソウルに置いてよい。【自】【(R)】：「ハリー」を含むあなたのユニットの能力で登場した時、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td07_010",
+  "PackNo": "TD07",
+  "CardName": "アクセラレイテッド・コマンド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、他のあなたの《アクアフォース》を１枚選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

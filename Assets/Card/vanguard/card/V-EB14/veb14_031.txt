@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_031",
+  "PackNo": "V-EB14",
+  "CardName": "竜胆の銃士アンテロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：登場時、あなたのトークンユニット１枚につき、そのターン中、あなたのヴァンガード１枚のパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mtd01_014",
+  "PackNo": "MTD01",
+  "CardName": "蹂躙する根絶者ヲルグ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

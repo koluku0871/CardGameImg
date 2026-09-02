@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vsd02_003",
+  "PackNo": "V-SD02",
+  "CardName": "盾の化身ラーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

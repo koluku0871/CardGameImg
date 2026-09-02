@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0311",
+  "PackNo": "V-PR",
+  "CardName": "キュリオフェイズ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【手札】：このカードを捨てる際、グレード４か３か２か０として捨ててよい。【自】【(R)】：ブーストした時、そのターン中、グレード４のあなたのヴァンガード１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

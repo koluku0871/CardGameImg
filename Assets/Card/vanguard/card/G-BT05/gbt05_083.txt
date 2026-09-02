@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_083",
+  "PackNo": "G-BT05",
+  "CardName": "激甘ピエロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ゴブリン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)：このユニットがソウルから(R)に登場した時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

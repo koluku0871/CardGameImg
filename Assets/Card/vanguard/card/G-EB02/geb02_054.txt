@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb02_054",
+  "PackNo": "G-EB02",
+  "CardName": "メガコロニー戦闘員G",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

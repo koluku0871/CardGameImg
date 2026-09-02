@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd10_005",
+  "PackNo": "G-TD10",
+  "CardName": "魔界城アインガング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴーレム",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

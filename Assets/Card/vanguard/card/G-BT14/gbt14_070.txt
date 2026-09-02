@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_070",
+  "PackNo": "G-BT14",
+  "CardName": "醸成の神器ベンヌ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが手札から(V)か(R)に登場した時、あなたの山札の上から２枚見て、１枚をソウルに置き、１枚をドロップゾーンに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0014",
+  "PackNo": "V-PR",
+  "CardName": "グレイプショット・ワイバーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、このターンに相手のリアガードが退却しているなら、そのターン中、あなたのユニット１枚のパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

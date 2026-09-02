@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_059",
+  "PackNo": "V-TB01",
+  "CardName": "ドキドキな夢！",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】：「ドキドキな夢！」はデッキに８枚まで入れられる。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

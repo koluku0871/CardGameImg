@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd02_014",
+  "PackNo": "V-TD02",
+  "CardName": "レッドジェム・カーバンクル",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_189",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[離してやんない]チュチュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "RAISEASUILEN",
+  "Cost": "1",
+  "CardRarity": "GPR",
+  "Text": "effect=【起】【左後列の(R)】：あなたのヴァンガードが「レイヤ」を含むグレード２以上なら、【コスト】[【エネルギーブラスト】(2)，このユニットを【レスト】させる]ことで、以下を１つ行い、山札から探したなら、山札をシャッフルする。・あなたの、山札かドロップからあなたのヴァンガードのグレード以下の〈RAISEASUILEN〉のユニットカードを１枚まで探し、(R)にコールする。・あなたの、山札かドロップからあなたのヴァンガードのグレード以下の〈RAISEASUILEN〉の楽曲カードを１枚まで探し、公開して手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

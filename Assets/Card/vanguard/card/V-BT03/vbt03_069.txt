@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_069",
+  "PackNo": "V-BT03",
+  "CardName": "嵐の忍鬼フウキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：このターンにあなたか相手のリアガードが手札に戻されているなら、このユニットのパワー＋6000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

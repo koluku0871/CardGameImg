@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0265",
+  "PackNo": "V-PR",
+  "CardName": "奇想科学者ソレノシュタイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：あなたの他のリアガードが登場した時、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

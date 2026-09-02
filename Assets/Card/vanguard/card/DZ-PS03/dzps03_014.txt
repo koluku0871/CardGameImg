@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzps03_014",
+  "PackNo": "DZ-PS03",
+  "CardName": "メイデン・オブ・ポリアンサ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【手札】：あなたが【超越】のコストを払う際、このカードをグレード３として捨ててよい。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_051",
+  "PackNo": "G-BT14",
+  "CardName": "刻獣ボンバード・ホッグ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "0",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：[このユニットを表でバインドする]【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

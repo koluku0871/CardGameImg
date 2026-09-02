@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss07_056",
+  "PackNo": "V-SS07",
+  "CardName": "ヒートエレメンタルホワン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "エレメンタル",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(R)】：すべてのヴァンガードは、ヴァンガードにアタックしなければならない。（アタック順は選べる。アタックできない場合はしない）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

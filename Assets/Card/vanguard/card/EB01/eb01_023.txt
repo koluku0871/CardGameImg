@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_023",
+  "PackNo": "EB01",
+  "CardName": "スターティング・プレゼンター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：他の《ペイルムーン》がこのユニットにライドした時、【ソウルチャージ】(2)してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0373",
+  "PackNo": "PR",
+  "CardName": "チアガールルーシー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：このユニットが突撃能力を持つリアガードをブーストした時、そのバトル中、ブーストされたユニットのパワー＋5000し、そのバトルの終了時、そのユニットを山札の下に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

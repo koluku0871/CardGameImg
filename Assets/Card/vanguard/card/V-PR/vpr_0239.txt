@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0239",
+  "PackNo": "V-PR",
+  "CardName": "エンジェリック・ワイズマン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：ヴァンガードにアタックした時、【コスト】[【カウンターブラスト】(1)，【ソウルブラスト】(2)]することで、そのターン中、あなたの前列にいるユニット３枚のパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

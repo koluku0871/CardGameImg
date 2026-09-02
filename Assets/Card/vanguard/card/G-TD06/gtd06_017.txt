@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd06_017",
+  "PackNo": "G-TD06",
+  "CardName": "ワンツーパンチ・ドラコキッド",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

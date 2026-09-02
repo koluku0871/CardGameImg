@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_245",
+  "PackNo": "DZ-TB01",
+  "CardName": "風遁旋風さらい",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/忍法",
+  "Cost": "1",
+  "CardRarity": "KR",
+  "Text": "effect=〈カタナワールド〉あなたのドロップから守護者を持たない〈忍者〉のユニットカードを１枚選び、手札に加える。【自】：このカードがカードの能力で手札から捨てられた時、あなたの山札を上から１枚ゲージに裏で置き、１枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

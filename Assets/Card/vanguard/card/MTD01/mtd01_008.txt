@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mtd01_008",
+  "PackNo": "MTD01",
+  "CardName": "有毒の根絶者ヱッダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

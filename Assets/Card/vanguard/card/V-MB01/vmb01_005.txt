@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vmb01_005",
+  "PackNo": "V-MB01",
+  "CardName": "ヌーベルクリティック・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：アタックがヴァンガードにヒットした時、あなたの山札から「超越龍ドラゴニック・ヌーベルバーグ」を１枚まで探して公開し、手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

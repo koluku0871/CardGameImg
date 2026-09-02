@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0270",
+  "PackNo": "V-PR",
+  "CardName": "5人いっしょセレナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【旋律】（あなたの【旋律】をすべて共有する）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_222",
+  "PackNo": "DZ-BT15",
+  "CardName": "重桜の忍鬼カザキ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "FR",
+  "Text": "effect=【自】【(R)】：このユニットがアタックしたバトル終了時、このターンにあなたのリアガードがあなたのヴァンガードの能力で２枚以上同時にソウルに置かれているなら、【コスト】[このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

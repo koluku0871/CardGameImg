@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0263",
+  "PackNo": "V-PR",
+  "CardName": "セラミクス・スロース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのカードが山札からドロップゾーンに置かれた時、【コスト】[このユニットを退却させる]ことで、そのターン中、あなたのリアガード２枚のパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

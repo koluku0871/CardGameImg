@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0362",
+  "PackNo": "V-PR",
+  "CardName": "エリア・スティラー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】【ターン1回】：いずれかの、サークルかユニットにマーカーが置かれているなら、【コスト】[グレード３を【ソウルブラスト】(1)]することで、イマジナリーギフト・プロテクトを１つ得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

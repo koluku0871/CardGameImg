@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_023",
+  "PackNo": "V-EB07",
+  "CardName": "ガーリィ・ドーリィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン/ヒーロー",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(V)/(R)】：あなたの(R)の〈ヒーロー〉が５枚以上なら、あなたのガーディアンすべてのシールド＋10000。,critical=クリティカル1,skill=ツインドライブ、アクセル,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

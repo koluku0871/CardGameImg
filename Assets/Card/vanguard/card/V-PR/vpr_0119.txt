@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0119",
+  "PackNo": "V-PR",
+  "CardName": "バトルシスターぱねとーね",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、あなたの山札を上から２枚見て、１枚を山札の上に、１枚を山札の下に置き、そのターン中、あなたの次のトリガー効果のパワー増加を＋10000する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

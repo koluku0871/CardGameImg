@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_309",
+  "PackNo": "DZ-BT15",
+  "CardName": "やまびこステップ",
+  "CardCategory": "必殺技",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/オフェンス",
+  "Cost": "2",
+  "CardRarity": "IZR",
+  "Text": "effect=使用条件－「頂挑夢」を含むユニット【自】【必殺技ゾーン】：この必殺技が使われた時、このカードと同名のあなたの表の必殺技ゾーン１枚につき、そのバトル中、この必殺技を使ったユニットのパワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0040",
+  "PackNo": "V-PR",
+  "CardName": "ダークサイド・ペガサス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：あなたのリアガードが３枚以下なら、このユニットのパワー＋3000し、『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0275",
+  "PackNo": "V-PR",
+  "CardName": "アンプル・ディフューザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：アタックした時、相手の表のダメージゾーンが１枚以上なら、そのバトル中、このユニットのパワー＋5000。２枚以上なら、＋5000のかわりに＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

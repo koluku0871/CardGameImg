@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_013",
+  "PackNo": "V-EB13",
+  "CardName": "セクシオ・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列にあなたのプロテクト・マーカーがあるなら、このユニットは相手の効果で選ばれず、『インターセプト』を得て、後列からインターセプトできる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

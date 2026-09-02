@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_018",
+  "PackNo": "V-TB01",
+  "CardName": "ScarletSky",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "楽曲/Afterglow",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【自】【(R)】：登場時、あなたのヴァンガードが〈Afterglow〉なら、あなたの山札から、あなたの(V)か(R)にいるユニットそれぞれと別名の、〈Afterglow〉のユニットカードを１枚まで探して公開し、手札に加え、山札をシャッフルする。【自】【(R)】：あなたのバトルフェイズ開始時、あなたの〈Afterglow〉を２枚まで【スタンド】する。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

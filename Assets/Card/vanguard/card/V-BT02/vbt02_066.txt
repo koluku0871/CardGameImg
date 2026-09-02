@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_066",
+  "PackNo": "V-BT02",
+  "CardName": "ヴェアヴォルフ・フライビリガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、【ソウルチャージ】(1)し、そのターン中、あなたのユニット１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

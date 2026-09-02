@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_087",
+  "PackNo": "DZ-SS04",
+  "CardName": "高橋アニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ベベベベベイビー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを【レスト】させる]ことで、あなたのドロップから「ベベベベ」を含むグレード０のノーマルユニットを１枚選び、(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

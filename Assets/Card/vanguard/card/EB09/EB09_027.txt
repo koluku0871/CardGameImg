@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "EB09_027",
+  "PackNo": "EB09",
+  "CardName": "溶岩洞のスケイルドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：[【ソウルブラスト】(1)]このユニットがアタックした時、あなたの《かげろう》のヴァンガードがいるなら、コストを払ってよい。払ったら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

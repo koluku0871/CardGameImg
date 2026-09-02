@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb03_059",
+  "PackNo": "G-EB03",
+  "CardName": "宇宙勇機グランバルゲル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)/(G)】：抵抗（相手のカードの効果で選ばれない）超爆-【自】【(R)】【Gブレイク】(1)：このユニットがアタックした時、あなたのヴァンガードのパワーが40000以上なら、そのバトル中、このユニットのパワー＋8000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

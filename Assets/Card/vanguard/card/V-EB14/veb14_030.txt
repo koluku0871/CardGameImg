@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_030",
+  "PackNo": "V-EB14",
+  "CardName": "メイデン・オブ・ファインエール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)，このユニットを退却させる]ことで、あなたの山札を上から３枚見て、２枚まで(R)にコールし、残りを山札の下に望む順で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

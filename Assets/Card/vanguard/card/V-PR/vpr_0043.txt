@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0043",
+  "PackNo": "V-PR",
+  "CardName": "忍獣リーフラクーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：登場時、そのターン中、あなたのユニット１枚のパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_037",
+  "PackNo": "DZ-TB01",
+  "CardName": "降魔忍者是音",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "忍者/百鬼",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=〈カタナワールド〉【コールコスト】[ゲージ１を払う]【自】：このユニットが(R)に登場した時、あなたのドロップから“爆雷”能力を持つグレード１以下を１枚選び、(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_049",
+  "PackNo": "V-EB13",
+  "CardName": "富貴のアブンダンテ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのバトルフェイズ開始時、最もグレードが高いあなたのユニット１枚のグレード１につき、そのターン中、このユニットのパワー＋1000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

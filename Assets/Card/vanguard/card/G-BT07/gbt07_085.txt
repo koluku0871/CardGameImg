@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt07_085",
+  "PackNo": "G-BT07",
+  "CardName": "イニグマン・ウォーム",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

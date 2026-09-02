@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0101",
+  "PackNo": "V-PR",
+  "CardName": "無心なる刃ハートレス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：相手のユニットがインターセプトした時、【コスト】[【ソウルブラスト】(1)]することで、そのユニットを退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

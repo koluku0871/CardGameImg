@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0563",
+  "PackNo": "PR",
+  "CardName": "悲しき銃声ナイトフレア",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

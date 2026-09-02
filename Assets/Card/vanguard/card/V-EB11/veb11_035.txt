@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_035",
+  "PackNo": "V-EB11",
+  "CardName": "鮮やかなる夢幻アクティアナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのヴァンガードのグレード１につき、このユニットのパワー＋3000。【自】【(R)】：あなたのライドフェイズ開始時、このユニットを退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

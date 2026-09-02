@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "ss09_003",
+  "PackNo": "V-SS09",
+  "CardName": "パーシステンス・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)]することで、１枚引き、あなたの手札を１枚捨て、ドロップゾーンから「マルクトメレク」を含むカードを１枚まで山札の上に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

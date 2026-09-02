@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_027",
+  "PackNo": "V-BT05",
+  "CardName": "決意の騎士ラモラック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】：あなたのユニットが５枚以上なら、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

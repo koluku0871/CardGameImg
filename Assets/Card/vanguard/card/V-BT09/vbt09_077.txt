@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_077",
+  "PackNo": "V-BT09",
+  "CardName": "ワンダー・ハンガー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットをソウルに置く]ことで、そのターン中、あなたのリアガード１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0767",
+  "PackNo": "PR",
+  "CardName": "蒼嵐覇竜グローリー・メイルストローム",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ティアードラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ツインドライブ,gift=ドロートリガー＋10000,",
+  "Attack": "11000",
+  "Defense": "0"
+}

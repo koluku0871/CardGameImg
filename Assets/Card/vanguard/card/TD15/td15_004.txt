@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td15_004",
+  "PackNo": "TD15",
+  "CardName": "獄鎖の喧嘩屋コウテンカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

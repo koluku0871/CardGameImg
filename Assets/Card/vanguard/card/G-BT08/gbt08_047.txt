@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt08_047",
+  "PackNo": "G-BT08",
+  "CardName": "熟達の騎士グレヌス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】【Gブレイク】(1)：このユニットがヴァンガードにアタックした時、そのバトル中、このユニットのパワー＋4000。【永】【山札】勇敢（手札が３枚以下で有効）：このカードのグレード－１。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

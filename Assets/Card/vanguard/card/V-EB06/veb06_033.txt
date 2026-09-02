@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_033",
+  "PackNo": "V-EB06",
+  "CardName": "ドラゴンナイトワリード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、相手のリアガードが３枚以下なら、そのターン中、このユニットと同じ縦列にいる、あなたのユニットすべてのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

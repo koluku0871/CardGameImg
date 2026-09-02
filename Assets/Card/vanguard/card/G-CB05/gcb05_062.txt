@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_062",
+  "PackNo": "G-CB05",
+  "CardName": "プンプンバルジマハカ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

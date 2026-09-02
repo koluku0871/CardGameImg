@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd06_019",
+  "PackNo": "G-TD06",
+  "CardName": "噛み合わせるギアキャット",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたのユニットを１枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

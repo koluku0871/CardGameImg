@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_084",
+  "PackNo": "V-BT08",
+  "CardName": "緊縮の根絶者ヰゲルマ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：いずれかのファイターが、自分のカードの効果で山札からカードを探した時、そのファイターは【ソウルブラスト】(1)する。（ソウルがなくても探せる）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "10000"
+}

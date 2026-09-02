@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_081",
+  "PackNo": "V-BT08",
+  "CardName": "究理の邪爪ドラバルクロー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：インターセプトした時か(G)に登場した時、このターン４回目以降のバトルなら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

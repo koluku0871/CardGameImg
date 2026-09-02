@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_116",
+  "PackNo": "DZ-SS04",
+  "CardName": "頼れる仲間",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ブラックチャンネル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(G)】：相手のヴァンガードがグレード３以上なら、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "15000"
+}

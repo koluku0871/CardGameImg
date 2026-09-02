@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_038",
+  "PackNo": "DZ-LBT02",
+  "CardName": "SweetLinkerパールケット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=SweetLink－【永】：このカードと同名のあなたの他のソウルがあるなら、このカードはSweetLink状態になる。【永】【(R)】：あなたのターン中、このユニットがSweetLink状態なら、このユニットと同じ縦列のあなたの他のユニットのパワー＋5000。【自】【(R)】：このユニットがブーストしたバトル終了時、あなたのヴァンガードが「SweetLinker」を含むなら、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

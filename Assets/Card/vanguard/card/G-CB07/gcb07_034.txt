@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_034",
+  "PackNo": "G-CB07",
+  "CardName": "Chouchouシェーラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)から山札に置かれた時、【カウンターチャージ】(1)/【ソウルチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

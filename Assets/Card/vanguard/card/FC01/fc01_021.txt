@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "fc01_021",
+  "PackNo": "FC01",
+  "CardName": "抹消者サンダーブーム・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

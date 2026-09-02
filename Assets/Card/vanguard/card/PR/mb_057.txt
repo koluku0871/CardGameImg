@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_057",
+  "PackNo": "PR",
+  "CardName": "フラッシュザンバー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "コスモドラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】【Gブレイク】(1)勇敢（あなたの手札が３枚以下で有効）：他のあなたの勇敢能力を持つリアガード１枚につき、このユニットのパワー＋1000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

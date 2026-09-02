@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_074",
+  "PackNo": "V-BT10",
+  "CardName": "メカ・マネージャー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットを【レスト】する]ことで、そのターン中、あなたの他のリアガード１枚のパワー＋10000し、そのユニットがアタックしたバトル終了時、そのユニットを山札の下に置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

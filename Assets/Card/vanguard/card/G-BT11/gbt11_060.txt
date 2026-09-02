@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt11_060",
+  "PackNo": "G-BT11",
+  "CardName": "源流の女神ナキサワメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【起】【(R)】【Gブレイク】(1)：[このユニットをソウルに置く]あなたのリアガードを１枚まで選び、【スタンド】し、【スタンド】させたら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

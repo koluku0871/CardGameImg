@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt13_099",
+  "PackNo": "G-BT13",
+  "CardName": "ダッドリー・ストライカー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt13_110",
+  "PackNo": "G-BT13",
+  "CardName": "蒼波兵ツインヘッド・シャーク",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【Gブレイク】(1)：[このユニットを退却させる]あなたのリアガードを好きな枚数選び、それらの位置を好きなように交換し、１枚引く。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

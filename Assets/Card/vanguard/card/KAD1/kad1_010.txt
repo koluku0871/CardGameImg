@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad1_010",
+  "PackNo": "KAD1",
+  "CardName": "ドラゴンナイトネハーレン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

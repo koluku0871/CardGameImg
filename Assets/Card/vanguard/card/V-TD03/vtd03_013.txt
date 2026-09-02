@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd03_013",
+  "PackNo": "V-TD03",
+  "CardName": "高速遊撃のイルカ兵",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

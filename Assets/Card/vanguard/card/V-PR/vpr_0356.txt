@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0356",
+  "PackNo": "V-PR",
+  "CardName": "ソードボックス・マイスター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)/(G)】：あなたのアクセル・マーカーが３つ以上なら、このユニットのパワー＋10000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb01_046",
+  "PackNo": "G-CB01",
+  "CardName": "ハートの恋人ペンネロッタ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに４枚までしか入れることができない）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

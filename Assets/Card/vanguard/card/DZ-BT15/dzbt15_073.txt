@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_073",
+  "PackNo": "DZ-BT15",
+  "CardName": "漆黒の詩人アモン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「熱望の悪魔アモン」にライドされた時、あなたの山札から「万象統べし冥闇の獄焔」を１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

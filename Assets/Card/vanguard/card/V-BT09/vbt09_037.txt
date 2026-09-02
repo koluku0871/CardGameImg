@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_037",
+  "PackNo": "V-BT09",
+  "CardName": "ストーン・フレーマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたのターンに(R)からソウルに置かれた時、そのターン中、あなたのヴァンガード１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

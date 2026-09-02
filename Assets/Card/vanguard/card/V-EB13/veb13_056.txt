@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_056",
+  "PackNo": "V-EB13",
+  "CardName": "スチームファイターザバイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[手札を１枚捨てる]ことで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

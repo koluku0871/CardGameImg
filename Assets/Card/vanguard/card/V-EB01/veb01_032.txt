@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_032",
+  "PackNo": "V-EB01",
+  "CardName": "ファントム・ブラック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：ブーストした時、【コスト】[手札を１枚捨てる]ことで、そのバトル中、このユニットのパワー＋6000し、相手は手札からノーマルユニットを(G)にコールできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

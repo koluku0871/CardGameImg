@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd04_003",
+  "PackNo": "V-TD04",
+  "CardName": "兇変の魔女エマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたの他のリアガードが登場した時、そのターン中、このユニットのパワー＋5000してよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

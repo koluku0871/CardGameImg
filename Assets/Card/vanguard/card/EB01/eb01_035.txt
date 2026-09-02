@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_035",
+  "PackNo": "EB01",
+  "CardName": "スパイクバウンサー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：他のあなたの《スパイクブラザーズ》のアタックがヴァンガードにヒットした時、そのターン中、このユニットをパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td02_008",
+  "PackNo": "TD02",
+  "CardName": "ドラゴンモンクゴジョー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ギルマン",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(V)/(R)】：[このユニットを【レスト】する，あなたの手札から１枚選び、捨てる]１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

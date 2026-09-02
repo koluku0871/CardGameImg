@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_312",
+  "PackNo": "DZ-BT15",
+  "CardName": "ハヤブサ返し",
+  "CardCategory": "必殺技",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/オフェンス",
+  "Cost": "2",
+  "CardRarity": "IZR",
+  "Text": "effect=使用条件－後列の「古手打七南」を含むユニット【自】【必殺技ゾーン】：この必殺技が使われた時、この必殺技を使ったユニットを１枚選び、【スタンド】させる。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

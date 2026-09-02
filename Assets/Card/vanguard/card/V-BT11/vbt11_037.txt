@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_037",
+  "PackNo": "V-BT11",
+  "CardName": "荒潮の水将フリスティナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】【ターン1回】：ブーストされてアタックしたバトル終了時、ブーストしたリアガードを１枚【スタンド】してよい。【スタンド】したら、そのユニットをユニットのいない後列の(R)に移動させてよい。,critical=クリティカル1,skill=ツインドライブ、アクセル,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

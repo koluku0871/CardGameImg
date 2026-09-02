@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_093",
+  "PackNo": "DZ-BT15",
+  "CardName": "グリム・リーパー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【レンアイコン】,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

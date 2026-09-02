@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss17_005",
+  "PackNo": "DZ-SS17",
+  "CardName": "数日遅れの新入生笹波雲明",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "南雲原中/ストーリー",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

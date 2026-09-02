@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_070",
+  "PackNo": "DZ-BT15",
+  "CardName": "熱望の悪魔アモン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが「アモン」を含むグレード３にライドされた時、１枚引き、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

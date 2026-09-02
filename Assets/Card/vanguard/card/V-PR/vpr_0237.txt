@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0237",
+  "PackNo": "V-PR",
+  "CardName": "鋭牙の魔女フォドラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：登場時、【コスト】[【カウンターブラスト】(1)]することで、あなたの山札からトリガーユニットを２枚まで探し、(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

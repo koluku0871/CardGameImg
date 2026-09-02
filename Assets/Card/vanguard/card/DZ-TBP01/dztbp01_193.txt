@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_193",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[雨はずっと]長崎そよ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "MyGO!!!!!",
+  "Cost": "1",
+  "CardRarity": "GPR",
+  "Text": "effect=【自】【右後列の(R)】：このユニットがブーストしたバトル終了時、このターンにあなたが〈MyGO!!!!!〉の楽曲オーダーをプレイしているなら、【コスト】[このユニットをソウルに置く]ことで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

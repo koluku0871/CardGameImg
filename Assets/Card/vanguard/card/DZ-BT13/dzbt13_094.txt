@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_094",
+  "PackNo": "DZ-BT13",
+  "CardName": "アートゥフル・マンティスライサー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このユニットがアタックしたバトル中、このユニットと同じ縦列のあなたの無限鱗粉マーカーが２つ以上なら、相手は手札から(G)にコールする際、２枚以上同時にコールしない限りコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

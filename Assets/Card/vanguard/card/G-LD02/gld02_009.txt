@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gld02_009",
+  "PackNo": "G-LD02",
+  "CardName": "ドラゴンパートナーモニカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "LD",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：このユニットが〈フレイムドラゴン〉をブーストした時、そのバトル中、ブーストされたユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

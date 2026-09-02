@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_081",
+  "PackNo": "DZ-TB01",
+  "CardName": "サウザンドレイピア・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "武装騎竜",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=〈ドラゴンワールド〉【自】【(R)】：このユニットがアタックした時、【コスト】[【カウンターブラスト】(1)]することで、そのバトル中、このユニットのクリティカル＋１。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_037",
+  "PackNo": "G-BT01",
+  "CardName": "マスラオライザー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたのカードの効果で、このユニットが【スタンド】した時、あなたのカード名に「ライザー」を含むヴァンガードがいるなら、他のこのユニットと同じ縦列にいるあなたのリアガードを１枚選び、【スタンド】する。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

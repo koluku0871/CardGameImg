@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_047",
+  "PackNo": "V-BT11",
+  "CardName": "忍獣ゾクヒヒ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)】：ヴァンガードにアタックした時、【コスト】[【カウンターブラスト】(1)]することで、あなたと相手のリアガードをそれぞれ２枚選び、手札に戻す。合計４枚戻したら、相手は自分の手札を２枚選び、捨てる。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_078",
+  "PackNo": "DZ-BT15",
+  "CardName": "ブレイクアップ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ブラントゲート",
+  "CardSubType": "スペースドラゴン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのオーダーゾーンが２枚以上なら、このユニットがリアガードにアタックする際、相手の前列のリアガードすべてとバトルする。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

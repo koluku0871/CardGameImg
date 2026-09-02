@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0071",
+  "PackNo": "PR",
+  "CardName": "ランブルガン・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)】：このユニットのドライブチェックでグレード３の《なるかみ》がでた時、相手のグレード１以下のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0570",
+  "PackNo": "PR",
+  "CardName": "アース・ドリーマー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：[このユニットを山札の上に置く]相手のライドフェイズ開始時、相手の【レスト】しているリアガードが３枚以上なら、コストを払ってよい。払ったら、あなたの山札をシャッフルし、２枚引く。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_024",
+  "PackNo": "V-EB06",
+  "CardName": "メガントン・パワードン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒーロー",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】：【レスト】しているこのユニットが(R)から退却した時、あなたのドロップゾーンから〈ヒーロー〉を１枚手札に戻す。この能力は同名カードも含めて各ターン１回まで使える。,critical=クリティカル1,skill=ツインドライブ、アクセル,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

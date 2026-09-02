@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_024",
+  "PackNo": "DZ-TB01",
+  "CardName": "竜騎士カリオストロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "竜騎士",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=〈ドラゴンワールド〉【自】：このユニットが(R)に登場した時、このターンにこのユニットと同名のあなたのリアガードが登場しておらず、あなたのオーダーゾーンに「ドラゴン・アイン」があるなら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

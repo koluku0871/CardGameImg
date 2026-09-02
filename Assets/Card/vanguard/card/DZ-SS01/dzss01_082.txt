@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss01_082",
+  "PackNo": "DZ-SS01",
+  "CardName": "ダイアフルドールしゃるめいん",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "Re",
+  "Text": "effect=【自】：このユニットが(G)に置かれた時、あなたのヴァンガードのグレードが、相手のヴァンガードのグレードより低いなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

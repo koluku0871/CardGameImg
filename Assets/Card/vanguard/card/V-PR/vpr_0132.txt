@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0132",
+  "PackNo": "V-PR",
+  "CardName": "ソーシャルフィッグアンティム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": ""
+}

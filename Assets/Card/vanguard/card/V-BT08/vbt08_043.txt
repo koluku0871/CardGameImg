@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_043",
+  "PackNo": "V-BT08",
+  "CardName": "模作の根絶者バヲン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：各ターンのバトルフェイズ開始時、相手のヴァンガードを１枚選び、そのターン中、このユニットのパワーを、そのユニットと同じになるまで増減させる。（選んだ時点のパワーになる）,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

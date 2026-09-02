@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0230",
+  "PackNo": "V-PR",
+  "CardName": "保険医ウォンバック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたの山札からノーマルユニットがドロップゾーンに置かれた時、【コスト】[このユニットを退却させる]ことで、そのカードを手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

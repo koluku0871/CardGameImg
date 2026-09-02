@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_045",
+  "PackNo": "G-CB07",
+  "CardName": "目いっぱいの歌唱ラコル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(2)：このユニットがアタックした時、あなたの山札が３枚以下なら、そのバトル中、相手は自分の手札からカードを(G)にコールできず、インターセプトできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

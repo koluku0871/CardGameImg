@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_057",
+  "PackNo": "DZ-LBT02",
+  "CardName": "真冬を感じてフルル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが(R)から手札に戻された時、あなたのヴァンガードが「カイリ」を含むグレード３以上なら、【エネルギーチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

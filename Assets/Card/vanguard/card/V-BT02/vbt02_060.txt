@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_060",
+  "PackNo": "V-BT02",
+  "CardName": "忍獣アヘッドパンサー",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

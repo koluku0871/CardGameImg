@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gld02_014",
+  "PackNo": "G-LD02",
+  "CardName": "テンポウマスターハッカイ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "LD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

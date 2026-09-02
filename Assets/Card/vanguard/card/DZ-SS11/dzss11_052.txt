@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss11_052",
+  "PackNo": "DZ-SS11",
+  "CardName": "クリシス・バイセクション",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb06_039",
+  "PackNo": "G-CB06",
+  "CardName": "星輝兵エルギブス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーゴーレム",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットが「星輝兵」を含むユニットをブーストした時、相手の呪縛カードが２枚以上なら、あなたは１枚引いてよい。引いたら、あなたの手札から１枚選び、捨て、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

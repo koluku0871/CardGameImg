@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0573",
+  "PackNo": "PR",
+  "CardName": "蓮の銃士リアナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

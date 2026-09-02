@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_073",
+  "PackNo": "V-EB14",
+  "CardName": "夢の運び手ベレヌス",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=【永】：守護者,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "30000"
+}

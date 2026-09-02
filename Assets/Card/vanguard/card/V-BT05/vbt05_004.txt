@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt05_004",
+  "PackNo": "V-BT05",
+  "CardName": "修羅忍竜ジャミョウコンゴウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "3",
+  "CardRarity": "VR",
+  "Text": "effect=【自】【(V)】：登場時と各ターン終了時、相手は自分の手札を６枚選び、残りの手札を捨てる。あなたのソウルにグレード３があるなら、６枚のかわりに４枚選ぶ。,critical=クリティカル1,skill=ツインドライブ、プロテクト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

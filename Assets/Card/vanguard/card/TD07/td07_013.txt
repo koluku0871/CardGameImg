@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td07_013",
+  "PackNo": "TD07",
+  "CardName": "戦場の歌姫ドロテア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットが《アクアフォース》のヴァンガードを【ブースト】した時、そのターンで３回目以降のバトル中なら、そのバトル中、【ブースト】されたユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

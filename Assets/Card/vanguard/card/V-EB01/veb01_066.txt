@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_066",
+  "PackNo": "V-EB01",
+  "CardName": "治療戦闘員ランプリ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】を持つカードは合計でデッキに４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+10000,",
+  "Attack": "5000",
+  "Defense": "20000"
+}

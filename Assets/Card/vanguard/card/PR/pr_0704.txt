@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0704",
+  "PackNo": "PR",
+  "CardName": "Chouchouパラル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】【ターン1回】：[【カウンターブラスト】(1)]このユニットがヴァンガードにアタックした時、コストを払ってよい。払ったら、あなたの他のリアガードを１枚選び、手札に戻し、相手のリアガードを１枚選び、相手はそのユニットを自分の手札に戻す。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

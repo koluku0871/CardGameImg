@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_072",
+  "PackNo": "DZ-LBT01",
+  "CardName": "満点の星を抱いてティケイア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、【コスト】[【エネルギーブラスト】(3)]することで、あなたの、山札かドロップから「Trick＆Treat！」を１枚まで探し、公開して手札に加え、山札から探したなら、山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ、ペルソナライド,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

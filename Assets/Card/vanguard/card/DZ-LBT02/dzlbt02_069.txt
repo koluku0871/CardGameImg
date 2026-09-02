@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_069",
+  "PackNo": "DZ-LBT02",
+  "CardName": "お得を独占!マードリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【ターン1回】：このユニットがグレード３以上にアタックした時、【ソウルチャージ】(1)し、トリガーユニットが【ソウルチャージ】されたなら、そのバトル中、相手はインターセプトできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

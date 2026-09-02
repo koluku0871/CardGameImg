@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_064",
+  "PackNo": "V-BT04",
+  "CardName": "驕慢の根絶者ゴウガヰ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：アタックがヴァンガードにヒットした時、そのターン中、あなたのユニット２枚のパワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

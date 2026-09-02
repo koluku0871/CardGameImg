@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0302",
+  "PackNo": "PR",
+  "CardName": "轟脚のブラストモンク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットがアタックした時、呪縛カードを１枚選び、解呪してよい。解呪したら、そのバトル中、このユニットのパワー＋4000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

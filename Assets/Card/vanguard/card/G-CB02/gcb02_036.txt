@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb02_036",
+  "PackNo": "G-CB02",
+  "CardName": "蒼嵐戦艦“海神”",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

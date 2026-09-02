@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtb01_040",
+  "PackNo": "G-TB01",
+  "CardName": "平野藤四郎",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】真剣必殺（あなたのダメージが３枚以上で有効）：あなたのターン中、あなたのカード名に「前田藤四郎」を含むリアガードがいるなら、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

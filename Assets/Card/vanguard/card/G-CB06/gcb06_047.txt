@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb06_047",
+  "PackNo": "G-CB06",
+  "CardName": "奏でる根絶者ヱファメス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのカードの、効果かコストで、このユニットが(R)から退却した時、相手のヴァンガードがデリートされているなら、あなたの山札の上から１枚見て、(R)にコールし、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

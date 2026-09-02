@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt11_080",
+  "PackNo": "G-BT11",
+  "CardName": "忍獣ウズイタチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：[このユニットを退却させる]あなたのターン中、支配されているユニットのアタックがヒットした時、コストを払ってよい。払ったら、相手は自分の手札から１枚選び、捨てる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

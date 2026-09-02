@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb02_058",
+  "PackNo": "G-TCB02",
+  "CardName": "旋鎌怪人アリストサイズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】暗躍（同じ縦列に相手の【スタンド】しているユニットがいないなら有効）：このユニットがアタックした時、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

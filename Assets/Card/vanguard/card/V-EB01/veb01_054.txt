@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_054",
+  "PackNo": "V-EB01",
+  "CardName": "陽気なリンクス",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

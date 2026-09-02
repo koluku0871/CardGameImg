@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb06_016",
+  "PackNo": "EB06",
+  "CardName": "扇の舞姫ミナト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのグレード３の《バミューダ△》が(V)に登場した時、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

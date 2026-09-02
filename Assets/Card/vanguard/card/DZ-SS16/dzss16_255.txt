@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_255",
+  "PackNo": "DZ-SS16",
+  "CardName": "サイバー・タイガー",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "SR",
+  "Text": "effect=【新右衛門アイコン】,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

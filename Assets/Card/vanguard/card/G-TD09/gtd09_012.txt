@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd09_012",
+  "PackNo": "G-TD09",
+  "CardName": "クロノチャージ・ユニコーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、他のあなたの〈十二支刻獣〉のユニットを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

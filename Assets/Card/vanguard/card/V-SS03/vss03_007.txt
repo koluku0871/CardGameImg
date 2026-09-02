@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss03_007",
+  "PackNo": "V-SS03",
+  "CardName": "悲壮の騎士カスバド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "SD",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックした時、相手より多いあなたのリアガードの枚数１枚につき、そのバトル中、このユニットのパワー＋3000。（あなたが５枚で相手が２枚なら＋9000）,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

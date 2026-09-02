@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_028",
+  "PackNo": "V-BT06",
+  "CardName": "厳酷の魔道士マース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックした時、相手のリアガードがいないなら、【コスト】[【カウンターブラスト】(1)]することで、あなたは２枚引き、自分のリアガードを１枚退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

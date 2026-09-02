@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd11_004",
+  "PackNo": "V-TD11",
+  "CardName": "壮麗の騎士ルークス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

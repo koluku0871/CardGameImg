@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td13_008",
+  "PackNo": "TD13",
+  "CardName": "戦巫女ミヒカリヒメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

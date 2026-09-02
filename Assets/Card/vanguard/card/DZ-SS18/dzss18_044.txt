@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss18_044",
+  "PackNo": "DZ-SS18",
+  "CardName": "ゴッドハンド",
+  "CardCategory": "その他",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "ブリッツオーダー/必殺技/キーパー",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=（このカードはチケットカードであり、デッキには入れられない）アタックされているユニットを１枚選び、あなたのダメージゾーン１枚につき、そのバトル中、パワー＋5000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

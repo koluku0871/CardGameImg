@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gfc02_035",
+  "PackNo": "G-FC02",
+  "CardName": "クラウンホルダー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：あなたの「カイザー」を含むヴァンガードのアタックがヒットした時、他のあなたのユニットを１枚まで選び、そのターン中、そのユニットとこのユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

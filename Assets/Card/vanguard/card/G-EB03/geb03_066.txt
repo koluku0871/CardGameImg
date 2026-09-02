@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb03_066",
+  "PackNo": "G-EB03",
+  "CardName": "ビルド・スタンダード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【起】【(R)】：[【カウンターブラスト】(1)，このユニットをソウルに置く]１枚引き、あなたのヴァンガードを１枚選び、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

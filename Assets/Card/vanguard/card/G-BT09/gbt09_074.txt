@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt09_074",
+  "PackNo": "G-BT09",
+  "CardName": "抹消者アンビシャス・ドラグーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【自】【(R)】【Gブレイク】(1)：あなたの「ディセンダント」を含むヴァンガードのアタックがヴァンガードにヒットした時、このユニットを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0702",
+  "PackNo": "PR",
+  "CardName": "モーニング・タイマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：[このユニットを退却させる]あなたのバトルフェイズ開始時、コストを払ってよい。払ったら、あなたのリアガードすべてを【スタンド】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

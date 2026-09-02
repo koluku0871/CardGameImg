@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_089",
+  "PackNo": "G-BT01",
+  "CardName": "ファイナル・レンチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：あなたのカードの効果で、他のこのユニットと同じ縦列にいるあなたのユニットが【スタンド】した時、そのターン中、そのユニットのパワー＋4000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

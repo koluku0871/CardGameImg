@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_088",
+  "PackNo": "V-BT09",
+  "CardName": "七海呪術師レイスチューター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：アタックがヒットした時、財宝マーカーのないあなたの、(V)か(R)を１つ選び、財宝マーカーを１つ置く。【永】【(R)】：このユニットのサークルにマーカーがあるなら、このユニットは『インターセプト』を得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

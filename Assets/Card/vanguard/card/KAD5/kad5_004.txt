@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad5_004",
+  "PackNo": "KAD5",
+  "CardName": "守護聖獣ネメアライオン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、あなたの《ゴールドパラディン》のヴァンガードがいるなら、そのバトル中、このユニットのシールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

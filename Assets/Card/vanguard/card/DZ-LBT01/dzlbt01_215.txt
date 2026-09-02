@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_215",
+  "PackNo": "DZ-LBT01",
+  "CardName": "星灯祭へようこそ!",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "SR",
+  "Text": "effect=【コスト】[【カウンターブラスト】(1)]することでプレイできる！あなたのドロップからグレード０を３枚選び、ソウルに置く。【クリティカル】を３枚置いたなら、１枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

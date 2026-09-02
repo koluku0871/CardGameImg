@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_052",
+  "PackNo": "V-EB02",
+  "CardName": "操船海賊パオロ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ヴァンパイア",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_151",
+  "PackNo": "DZ-BT14",
+  "CardName": "澤村由美",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "龍が如く",
+  "Cost": "1",
+  "CardRarity": "EXC",
+  "Text": "effect=【起】【ソウル】：あなたのヴァンガードが「桐生一馬」を含み、「錦山彰」を含むあなたのリアガードがいて、あなたのバインドゾーンすべてがこのカードと別名なら、【コスト】[このカードをバインドする]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "0",
+  "Defense": "5000"
+}

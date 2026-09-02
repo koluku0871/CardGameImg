@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vmb01_019",
+  "PackNo": "V-MB01",
+  "CardName": "ドラゴンアーマード・ナイト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：ヴァンガードにアタックした時、相手のリアガードが３枚以下なら、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

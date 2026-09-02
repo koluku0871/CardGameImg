@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_072",
+  "PackNo": "V-BT06",
+  "CardName": "ブリッツ・リッター",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

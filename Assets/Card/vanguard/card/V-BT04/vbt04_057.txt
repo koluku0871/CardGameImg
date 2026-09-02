@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_057",
+  "PackNo": "V-BT04",
+  "CardName": "忍獣ホワイトメイン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックした時、あなたの、(R)とドロップゾーンの他の「忍獣ホワイトメイン」１枚につき、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

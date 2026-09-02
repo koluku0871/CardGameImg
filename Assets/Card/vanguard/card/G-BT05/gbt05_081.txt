@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt05_081",
+  "PackNo": "G-BT05",
+  "CardName": "ナイトメアドールじにー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[このユニットをソウルに置く]このユニットが(R)に登場した時、コストを払ってよい。払ったら、ソウルから「ナイトメアドールありす」を１枚まで選び、(R)にコールし、そのターン中、そのユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

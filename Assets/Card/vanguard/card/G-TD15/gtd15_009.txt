@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd15_009",
+  "PackNo": "G-TD15",
+  "CardName": "グレートウォール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーゴーレム",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットがインターセプトした時、呪縛カードがあるなら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

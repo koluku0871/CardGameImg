@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_069",
+  "PackNo": "G-BT01",
+  "CardName": "ハルクロアー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[【カウンターブラスト】(2)]他のあなたのカードの効果で、相手のリアガードがドロップゾーンに置かれた時、コストを払ってよい。払ったら、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

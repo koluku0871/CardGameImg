@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt01_067",
+  "PackNo": "G-BT01",
+  "CardName": "ワイバーンストライクドーハ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_073",
+  "PackNo": "V-BT09",
+  "CardName": "ジェンティール・オープナー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル2,skill=インターセプト,gift=-,",
+  "Attack": "3000",
+  "Defense": "5000"
+}

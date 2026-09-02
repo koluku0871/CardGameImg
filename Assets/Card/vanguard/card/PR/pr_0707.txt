@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0707",
+  "PackNo": "PR",
+  "CardName": "ソウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=トリプルドライブ,gift=-,",
+  "Attack": "333",
+  "Defense": "0"
+}

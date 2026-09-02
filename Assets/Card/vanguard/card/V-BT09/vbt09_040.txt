@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_040",
+  "PackNo": "V-BT09",
+  "CardName": "ブレンディング・バーナー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "キメラ",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：手札から登場した時、あなたのソウルをすべて山札に戻してシャッフルし、山札に戻されたカード１枚につき、【ソウルチャージ】(1)。,critical=クリティカル1,skill=ツインドライブ、アクセル,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_043",
+  "PackNo": "V-EB14",
+  "CardName": "アグリゲイト・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたのユニットが６枚なら、このユニットのパワー＋15000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

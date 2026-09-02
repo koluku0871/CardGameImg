@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_021",
+  "PackNo": "V-EB01",
+  "CardName": "翼竜スカイプテラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：あなたのターンに(R)から退却した時、【コスト】[【カウンターブラスト】(1)]することで、このカードを手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

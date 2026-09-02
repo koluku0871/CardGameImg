@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_167",
+  "PackNo": "DZ-BT14",
+  "CardName": "ボブ宇都宮",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "龍が如く",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td03_004",
+  "PackNo": "TD03",
+  "CardName": "キング・オブ・ソード",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

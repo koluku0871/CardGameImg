@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_040",
+  "PackNo": "V-EB07",
+  "CardName": "ワイバーンストライクマンバス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストした時、相手のリアガードがいないなら、そのバトル中、相手は手札から(G)にコールする際、２枚以上でしかコールできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

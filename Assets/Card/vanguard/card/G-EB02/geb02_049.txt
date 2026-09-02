@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb02_049",
+  "PackNo": "G-EB02",
+  "CardName": "傑出怪人プロムラーバ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：先駆【自】【(R)】：[【カウンターブラスト】(1)，このユニットをソウルに置く]あなたのライドフェイズ開始時、コストを払ってよい。払ったら、１枚引き、相手のユニットすべてを【レスト】する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_088",
+  "PackNo": "DZ-BT15",
+  "CardName": "翔看天使パルジエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)】：あなたがライドデッキから「翔明の騎士リモール」にライドする際、『手札から１枚選び、捨てる』ではなく『【ソウルブラスト】(1)』でもライドできる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

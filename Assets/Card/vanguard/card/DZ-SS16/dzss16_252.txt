@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_252",
+  "PackNo": "DZ-SS16",
+  "CardName": "希望の管理人パンドラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "SR",
+  "Text": "effect=【永】：守護者【自】：このユニットが(G)に置かれた時、あなたのユニットを１枚選び、そのバトル中、ヒットされない。あなたの手札が２枚以上なら、手札から１枚選び、捨てる。【新右衛門アイコン】,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "0"
+}

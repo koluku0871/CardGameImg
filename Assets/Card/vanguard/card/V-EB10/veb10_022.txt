@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_022",
+  "PackNo": "V-EB10",
+  "CardName": "才徳の騎士グンヒルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)/(G)】：あなたの手札が１枚以下なら、このユニットは『インターセプト』を得て、後列からインターセプトでき、パワー＋5000/シールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss18_041",
+  "PackNo": "DZ-SS18",
+  "CardName": "フォルテシモ",
+  "CardCategory": "必殺技",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/シュート",
+  "Cost": "2",
+  "CardRarity": "TDR",
+  "Text": "effect=使用条件－前列の「神童拓人」を含むユニット【自】【必殺技ゾーン】：この必殺技が使われた時、そのバトル中、この必殺技を使ったユニットのパワー＋5000。あなたのヴァンガードがグレード３以上なら、＋5000ではなく＋10000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

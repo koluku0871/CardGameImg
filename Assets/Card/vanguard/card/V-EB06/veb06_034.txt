@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_034",
+  "PackNo": "V-EB06",
+  "CardName": "魔竜導師キンナラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)，このユニットを退却させる]ことで、相手のリアガードを３枚選び、それら以外の相手のリアガードをすべて退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

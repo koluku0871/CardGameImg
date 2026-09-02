@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0099",
+  "PackNo": "V-PR",
+  "CardName": "赤熱の高揚リゴーレ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

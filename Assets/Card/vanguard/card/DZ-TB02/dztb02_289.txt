@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_289",
+  "PackNo": "DZ-TB02",
+  "CardName": "豊前江戦闘",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "1",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】：このユニットが「豊前江特」にライドされた時、【コスト】[ライドデッキから「豊前江」を含むグレード３を１枚公開する]ことで、あなたのオーダーゾーンに鍛錬所・トークンを１枚置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

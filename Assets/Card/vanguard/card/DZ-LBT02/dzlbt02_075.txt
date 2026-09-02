@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_075",
+  "PackNo": "DZ-LBT02",
+  "CardName": "ホリデーカードメイツベリヒルダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：あなたの表のダメージゾーンがないなら、このユニットは相手のカードの効果で選べない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

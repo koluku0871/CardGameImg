@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd08_002",
+  "PackNo": "V-TD08",
+  "CardName": "淑やかな願い事アミィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：ヴァンガードにアタックした時、あなたのリアガードが５枚なら、そのバトル中、このユニットのパワー＋15000。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

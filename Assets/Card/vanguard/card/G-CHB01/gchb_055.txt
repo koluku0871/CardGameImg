@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_055",
+  "PackNo": "G-CHB01",
+  "CardName": "サイオン・ライダー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "シルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[このユニットをソウルに置く]あなたの「アルフレッド」を含むグレード３のヴァンガードがアタックした時、コストを払ってよい。払ったら、【カウンターチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

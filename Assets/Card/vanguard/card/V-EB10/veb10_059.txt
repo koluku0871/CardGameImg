@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_059",
+  "PackNo": "V-EB10",
+  "CardName": "紅団扇の銃士ガストーネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：山札から登場したターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

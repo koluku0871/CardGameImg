@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0758",
+  "PackNo": "PR",
+  "CardName": "レインエレメンタルティア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "エレメンタル",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(2)]することで、あなたの表のＧゾーンの《クレイエレメンタル》１枚につき、あなたのダメージゾーンから１枚選び、表にする。【永】：このカードはすべての、国家とクランに属する。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

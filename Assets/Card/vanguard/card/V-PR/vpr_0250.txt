@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0250",
+  "PackNo": "V-PR",
+  "CardName": "ラーク・ピジョン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【ソウル】：あなたか相手のターン終了時、あなたの手札が２枚以下なら、このカードを手札に戻してよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "3000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gftd01_019",
+  "PackNo": "G-FTD01",
+  "CardName": "フレイム・オブ・ビクトリー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "サラマンダー",
+  "Cost": "0",
+  "CardRarity": "FTD",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《ゴールドパラディン》を１枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

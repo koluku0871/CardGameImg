@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_054",
+  "PackNo": "V-BT02",
+  "CardName": "忍竜アマツスナイプ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(V)/(R)】：このターンにあなたの山札からリアガードが登場しているなら、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

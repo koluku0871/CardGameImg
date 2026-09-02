@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_225",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[暴走は止められない！]市ヶ谷有咲",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Poppin'Party",
+  "Cost": "1",
+  "CardRarity": "GPR+",
+  "Text": "effect=【自】【(R)】：このユニットが〈Poppin'Party〉をブーストしたバトル終了時、【コスト】[このユニットをソウルに置く]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

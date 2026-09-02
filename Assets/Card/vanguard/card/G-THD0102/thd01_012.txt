@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_012",
+  "PackNo": "G-THD0102",
+  "CardName": "山姥切国広-花丸-",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：このユニットがアタックかブーストした時、そのアタックがヴァンガードにアタックしており、あなたの「花丸」を含むグレード３以上のヴァンガードがいるなら、そのバトル中、このユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

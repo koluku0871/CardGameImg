@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb02_041",
+  "PackNo": "G-TCB02",
+  "CardName": "はむすけの学友油性ペンのはむじろー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：あなたのターンの終了時、あなたの「はむすけ」を含むヴァンガードがいるなら、他のあなたの「はむすけ」を含むリアガードを１枚選び、退却させてよい。退却させたら、【カウンターチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

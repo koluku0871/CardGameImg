@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_019",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[高みの先の頂点へ]宇田川あこ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Roselia",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【右後列の(R)】【ターン1回】：あなたのヴァンガードが「湊友希那」を含み、このターンにあなたが【カウンターチャージ】していないなら、【コスト】[【エネルギーブラスト】(3)]することで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

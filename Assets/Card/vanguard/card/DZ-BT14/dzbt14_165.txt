@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_165",
+  "PackNo": "DZ-BT14",
+  "CardName": "壊し屋スタイル：豪力の鎮圧",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "龍が如く",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

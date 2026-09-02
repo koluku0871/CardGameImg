@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt13_077",
+  "PackNo": "DZ-BT13",
+  "CardName": "ドラグリッタールワイダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがブーストしたアタックがヒットした時、このターンにあなたがノーマルオーダーをプレイしているなら、【コスト】[【ソウルブラスト】(1)，このユニットを退却させる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

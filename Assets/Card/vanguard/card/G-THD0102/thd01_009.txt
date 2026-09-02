@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_009",
+  "PackNo": "G-THD0102",
+  "CardName": "獅子王-花丸-",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-太刀",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(V)/(R)】：相手のカードの効果で、このユニットは選ばれない。【起】【(V)/(R)】【ターン1回】：[あなたの手札から「花丸」を含むカードを１枚選び、捨てる]１枚引き、そのターン中、このユニットのパワー＋2000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

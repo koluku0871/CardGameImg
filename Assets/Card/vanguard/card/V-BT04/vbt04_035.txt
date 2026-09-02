@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_035",
+  "PackNo": "V-BT04",
+  "CardName": "略奪する根絶者ガノヱク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：アタックかブーストしたアタックがヴァンガードにヒットした時、【コスト】[【ソウルブラスト】(1)]することで、あなたの他のリアガードを１枚手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

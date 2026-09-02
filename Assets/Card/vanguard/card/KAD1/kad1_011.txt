@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad1_011",
+  "PackNo": "KAD1",
+  "CardName": "ワイバーンストライクテージャス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ウイングドラゴン",
+  "Cost": "2",
+  "CardRarity": "-",
+  "Text": "effect=【永】【(V)/(R)】：このユニットは、このユニットと同じ縦列の後列にいる相手のユニットをバトル中のユニットに選べる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

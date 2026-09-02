@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_035",
+  "PackNo": "G-BT02",
+  "CardName": "腕利き助手グル・ウルフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、このユニットのパワーが20000以上なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

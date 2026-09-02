@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td04_006",
+  "PackNo": "TD04",
+  "CardName": "ソードダンサー・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：あなたがカードを引いた時、そのターン中、このユニットのパワー＋1000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

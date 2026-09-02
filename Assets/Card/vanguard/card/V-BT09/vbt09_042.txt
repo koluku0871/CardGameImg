@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt09_042",
+  "PackNo": "V-BT09",
+  "CardName": "奇術人形ルナテック・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：(G)から退却した時、このカードをソウルに置いてよい。【自】【(R)】：「ハリー」を含むあなたのユニットの能力で登場した時、相手のリアガードを１枚まで選び、相手はそのユニットを自分のソウルに置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_081",
+  "PackNo": "V-BT03",
+  "CardName": "ドラゴンダンサーレギーナ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：相手の前列にいるリアガードが１枚以下なら、【コスト】[このユニットをソウルに置く]ことで、そのターン中、あなたのリアガード３枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

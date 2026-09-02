@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_074",
+  "PackNo": "DZ-LBT01",
+  "CardName": "休息の羽衣風紀乙女クルノール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンにこのカードが手札から捨てられた時、あなたのヴァンガードが「AbsoluteZero」を含むなら、あなたのリアガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

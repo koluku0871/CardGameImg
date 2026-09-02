@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt12_087",
+  "PackNo": "V-BT12",
+  "CardName": "ドラゴンダンサーヴィアンネ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

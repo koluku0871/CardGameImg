@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_086",
+  "PackNo": "V-EB05",
+  "CardName": "類稀なる才覚ラウラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "4",
+  "CardRarity": "SSP",
+  "Text": "effect=【自】【(V)】：登場時、あなたの山札を上から10枚公開し、公開されたノーマルユニットがそれぞれ別名なら、公開されたカードから望む枚数(R)にコールし、そのターン中、それらのパワー＋10000。山札をシャッフルする。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "14000",
+  "Defense": "0"
+}

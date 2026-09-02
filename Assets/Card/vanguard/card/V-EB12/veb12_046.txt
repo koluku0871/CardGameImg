@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb12_046",
+  "PackNo": "V-EB12",
+  "CardName": "デザートガンナーテンゲン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

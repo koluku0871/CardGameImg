@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb04_045",
+  "PackNo": "G-CB04",
+  "CardName": "スチームメイデンサドゥム",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

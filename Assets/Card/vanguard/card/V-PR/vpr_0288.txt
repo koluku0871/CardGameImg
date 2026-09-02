@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0288",
+  "PackNo": "V-PR",
+  "CardName": "ゴロンピッシャー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストした時、このターンにいずれかのカードがバインドされているなら、【コスト】[【カウンターブラスト】(1)]することで、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

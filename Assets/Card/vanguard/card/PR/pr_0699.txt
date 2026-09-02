@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0699",
+  "PackNo": "PR",
+  "CardName": "宇宙勇機グランエイダー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】【Gブレイク】(1)：[このユニットを【レスト】する，あなたの他のリアガード１枚を【レスト】する]あなたのヴァンガードを１枚選び、そのターン中、パワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

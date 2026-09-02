@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0244",
+  "PackNo": "V-PR",
+  "CardName": "ボルトパイク・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：相手の前列のユニットが２枚以上なら、このユニットはアタックできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "10000"
+}

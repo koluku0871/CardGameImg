@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_022",
+  "PackNo": "G-BT02",
+  "CardName": "秘められし賢者ミロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[【ソウルブラスト】(1)]このユニットが山札から(R)に登場した時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

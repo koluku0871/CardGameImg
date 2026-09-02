@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0554",
+  "PackNo": "PR",
+  "CardName": "衝撃の星輝兵ジスプロシウム",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：[【カウンターブラスト】(1)，このユニットをソウルに置く]相手のエンドフェイズ中、相手の呪縛カードが解呪された時、コストを払ってよい。払ったら、そのユニットを呪縛する。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

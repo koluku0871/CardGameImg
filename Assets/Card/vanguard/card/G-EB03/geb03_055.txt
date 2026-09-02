@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb03_055",
+  "PackNo": "G-EB03",
+  "CardName": "ザール・ブラウグランツ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【Gブレイク】(1)：[【カウンターブラスト】(1)，このユニットをソウルに置く]あなたの、サークルとダメージゾーンのカードを合計２枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

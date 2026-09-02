@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_081",
+  "PackNo": "V-BT02",
+  "CardName": "レインボー・マジシャン",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_023",
+  "PackNo": "V-EB05",
+  "CardName": "霊異の独唱アトリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列に、あなたの他のユニットがいないなら、このユニットは相手のカードの効果で、退却せず選ばれない。（アタックはされる。ヒットすれば退却する）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

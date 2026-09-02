@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td07_005",
+  "PackNo": "TD07",
+  "CardName": "潮騒の水将アルゴス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：このユニットのアタックがヴァンガードにヒットした時、あなたの《アクアフォース》のヴァンガードがいて、そのターンで４回目以降のバトル中なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_065",
+  "PackNo": "V-BT04",
+  "CardName": "巻き込む根絶者ジャヱーガ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【カウンターブラスト】(1)，他のリアガードを１枚退却させる]ことで、このユニットと同じ縦列にいる、相手のリアガードをすべて裏でバインドする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

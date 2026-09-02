@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss06_009",
+  "PackNo": "V-SS06",
+  "CardName": "クラウドランサーグモリス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "SDS",
+  "Text": "effect=【自】【(R)】：登場時、あなたのドロップゾーンからグレード２を１枚まで、山札の上か下に置く。置いたら、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt14_082",
+  "PackNo": "G-BT14",
+  "CardName": "忍妖カゲウサ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[このユニットを裏でバインドする]いずれかのリアガードを２枚まで選び、そのターン中、パワー＋2000。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

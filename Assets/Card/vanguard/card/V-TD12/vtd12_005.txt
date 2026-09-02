@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd12_005",
+  "PackNo": "V-TD12",
+  "CardName": "メイデン・オブ・ボットフィスト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(R)】：アタックした時、あなたのユニットが５枚以上なら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

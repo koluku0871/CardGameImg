@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_033",
+  "PackNo": "V-EB02",
+  "CardName": "ミラクル・キューティー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：アタックがヴァンガードにヒットした時、あなたのヴァンガードがパワー30000以上なら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

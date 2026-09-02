@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gfc04_064",
+  "PackNo": "G-FC04",
+  "CardName": "専門医ヴィンセント",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "RR",
+  "Text": "effect=（【治】はデッキに４枚までしか入れることができない）【自】：Ｇゾーンから「断絶の医学ヴィンセント」をコールするコストで、このカードを手札から捨てた時、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

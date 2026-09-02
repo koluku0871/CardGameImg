@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_088",
+  "PackNo": "DZ-BT16",
+  "CardName": "ブライズ・プランクスタ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このカードが、手札から捨てられた時か(G)から退却した時、あなたのヴァンガードが「アルカサル」を含むなら、このカードをソウルに置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

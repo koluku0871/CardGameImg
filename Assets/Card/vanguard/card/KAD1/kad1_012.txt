@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "kad1_012",
+  "PackNo": "KAD1",
+  "CardName": "鎧の化身バー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "-",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

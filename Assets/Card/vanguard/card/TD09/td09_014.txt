@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td09_014",
+  "PackNo": "TD09",
+  "CardName": "抹消者イエロージェム・カーバンクル",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

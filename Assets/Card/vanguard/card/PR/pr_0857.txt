@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0857",
+  "PackNo": "PR",
+  "CardName": "幻蒼のラナンキュラスアーシャ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=※ファイトでは使用できません。,critical=クリティカル1,skill=ツインドライブ,gift=クリティカルトリガー＋10000,",
+  "Attack": "11000",
+  "Defense": "0"
+}

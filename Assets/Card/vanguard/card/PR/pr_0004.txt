@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0004",
+  "PackNo": "PR",
+  "CardName": "エグザイル・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】[このユニットを退却させる]相手のグレード０以下のリアガードを1枚選び、退却させる。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

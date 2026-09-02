@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_040",
+  "PackNo": "V-TB01",
+  "CardName": "サムライハート若宮イヴ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "Pastel＊Palettes",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【ソウルチャージ】(1)。【永】【(R)】：あなたのソウルの〈Pastel＊Palettes〉のカード名が５種類以上なら、このユニットは『インターセプト』を得て、後列からインターセプトできる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

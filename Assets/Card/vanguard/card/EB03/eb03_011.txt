@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb03_011",
+  "PackNo": "EB03",
+  "CardName": "トキシック・トルーパー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：このユニットがアタックした時、そのバトル中、相手のユニットすべては【インターセプト】できない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_188",
+  "PackNo": "DZ-TB01",
+  "CardName": "大魔法デビルズロッケンロール",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "魔法/72柱",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=〈マジックワールド〉【コスト】[ゲージ２を払う]ことでプレイできる！あなたの山札を上から５枚見て、守護者を持たない〈72柱〉を２枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

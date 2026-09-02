@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_025",
+  "PackNo": "G-CB05",
+  "CardName": "Chouchouミュリッツ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】【Gブレイク】(1)：[あなたの他の「Chouchou」を含むリアガードを１枚選び、山札の下に置く]このユニットがヴァンガードにアタックした時、コストを払ってよい。払ったら、あなたの手札から「Chouchou」を含むグレード２以下のカードを１枚まで選び、(R)にコールし、そのターン中、パワー＋4000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "11000",
+  "Defense": "0"
+}

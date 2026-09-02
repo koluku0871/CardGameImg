@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_046",
+  "PackNo": "V-BT06",
+  "CardName": "魔界城エンデフォルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ゴーレム",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：相手のダメージゾーンが５枚なら、このユニットのパワー＋20000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

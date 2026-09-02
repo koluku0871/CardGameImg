@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzps03_034",
+  "PackNo": "DZ-PS03",
+  "CardName": "ガーディアンシールド",
+  "CardCategory": "その他",
+  "Element": "",
+  "CardType": "-",
+  "CardSubType": "ブリッツオーダー",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=アタックされているあなたのユニットを１枚選び、そのバトル中、パワー＋20000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

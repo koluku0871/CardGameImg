@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_085",
+  "PackNo": "DZ-LBT02",
+  "CardName": "SweetLinkerペチェルネ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=SweetLink－【永】：このカードと同名のあなたの他のソウルがあるなら、このカードはSweetLink状態になる。【自】：あなたのターンにこのカードが手札から捨てられた時、このカードをソウルに置いてよい。【起】【ソウル】：あなたのヴァンガードが「SweetLinker」を含むグレード３以上で、このカードがSweetLink状態なら、【コスト】[このカードをドロップに置く]ことで、あなたのドロップからこのカードと別名の「SweetLinker」を含むカードを１枚選び、ソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

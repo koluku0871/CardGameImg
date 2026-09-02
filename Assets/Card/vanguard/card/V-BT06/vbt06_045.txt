@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt06_045",
+  "PackNo": "V-BT06",
+  "CardName": "クールバウ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：【コスト】[このユニットと同じ縦列の、リアガード２枚を【レスト】する]ことで、あなたのドロップゾーンからパワー5000のノーマルユニットを１枚手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

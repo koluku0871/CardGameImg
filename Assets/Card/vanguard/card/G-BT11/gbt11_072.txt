@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt11_072",
+  "PackNo": "G-BT11",
+  "CardName": "封竜バーズアイ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】【Gブレイク】(1)：[このユニットをソウルに置く]あなたのユニットを２枚まで選び、相手のグレード２のユニット１枚につき、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

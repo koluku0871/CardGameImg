@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_085",
+  "PackNo": "DZ-BT14",
+  "CardName": "アドーリング・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "アビスドラゴン/幻影",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【ドロップ】：【コスト】[ドロップからこのカードと同名の他のカードを１枚バインドする]ことで、このカードを(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

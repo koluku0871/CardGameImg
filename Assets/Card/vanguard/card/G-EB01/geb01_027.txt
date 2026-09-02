@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "geb01_027",
+  "PackNo": "G-EB01",
+  "CardName": "鋼闘機ハンマーヘル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】[【カウンターブラスト】(1)，【ソウルブラスト】(1)]このユニットが(G)に登場した時、コストを払ってよい。払ったら、そのバトル中、あなたの(V)にあるカード１枚につき、このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

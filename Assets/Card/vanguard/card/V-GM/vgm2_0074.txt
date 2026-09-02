@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vgm2_0074",
+  "PackNo": "V-GM",
+  "CardName": "イマジナリーギフトアクセル",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "-",
+  "Text": "effect=獲得時、このマーカーを新たな前列(R)として置き、１枚引く。あなたのターン中、そこにいるユニットのパワー＋5000！（最初は左前列(R)の左に増え、次は右前列(R)の右に増える。以降、左右交互に増える）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

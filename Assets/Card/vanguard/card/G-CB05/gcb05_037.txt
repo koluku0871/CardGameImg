@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_037",
+  "PackNo": "G-CB05",
+  "CardName": "Duoいいコト日記シェリル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(R)から手札に戻された時、コストを払ってよい。払ったら、【ソウルチャージ】(1)し、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

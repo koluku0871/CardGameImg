@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_123",
+  "PackNo": "DZ-BT14",
+  "CardName": "X-CeeDaNCeトラン・ディーベ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ヒューマン/幻影",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：このカードが、(R)に登場した時か、あなたのターンに自己改修ゲージとして置かれた時、あなたの自己改修ゲージがあるなら、【エネルギーチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

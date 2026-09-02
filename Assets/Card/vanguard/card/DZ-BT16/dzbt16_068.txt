@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt16_068",
+  "PackNo": "DZ-BT16",
+  "CardName": "雨上がりのヒカリキャルベル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのターンにあなたがオーダーをプレイした時、【コスト】[【ソウルブラスト】(1)]することで、あなたの他のユニットを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

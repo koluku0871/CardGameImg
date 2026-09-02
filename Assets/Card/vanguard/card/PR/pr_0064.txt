@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0064",
+  "PackNo": "PR",
+  "CardName": "ブラスター・豆しば",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ハイビースト",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(G)からドロップゾーンに置かれた時、このカードをソウルに置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

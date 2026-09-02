@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_106",
+  "PackNo": "V-TB01",
+  "CardName": "前向きな笑顔松原花音",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "ハロー、ハッピーワールド！",
+  "Cost": "1",
+  "CardRarity": "SP",
+  "Text": "effect=【自】【(R)】：ブーストしたバトル終了時、このターンに〈ハロー、ハッピーワールド！〉の楽曲がプレイされているなら、【コスト】[このユニットを手札に戻す]ことで、【ソウルチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

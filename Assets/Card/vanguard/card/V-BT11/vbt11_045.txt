@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_045",
+  "PackNo": "V-BT11",
+  "CardName": "歴史学者ブッシュベック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：登場時、【コスト】[手札を１枚捨てる]ことで、１枚引く。【自】【(R)】：ブーストしたバトル終了時、【コスト】[このユニットを退却させる]ことで、そのターン中、あなたのリアガード１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

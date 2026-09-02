@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_094",
+  "PackNo": "V-BT07",
+  "CardName": "妖魔変幻",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "トークンユニット/妖魔変幻",
+  "Cost": "0",
+  "CardRarity": "-",
+  "Text": "effect=（これは妖魔変幻・トークンを表すカードであり、デッキには入れられない。ブーストを持たず、インターセプトを持つ）【永】【(R)】：アタックできず、後列からインターセプトできる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "0",
+  "Defense": "5000"
+}

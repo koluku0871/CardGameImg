@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_054",
+  "PackNo": "DZ-LBT02",
+  "CardName": "届ける温もりマシュトラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：このユニットが手札から(R)に登場した時、「LèVre♡SœurS」を含むあなたのユニット２枚につき、【ソウルチャージ】(1)。合計２枚以上【ソウルチャージ】したなら、あなたのヴァンガードを１枚選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

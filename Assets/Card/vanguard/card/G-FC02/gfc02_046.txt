@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gfc02_046",
+  "PackNo": "G-FC02",
+  "CardName": "エリート怪人トライグール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：相手のライドフェイズ開始時、相手の【レスト】しているユニットがいるなら、山札の上から５枚見て、「ギラファ」を含むカードを１枚まで探し、相手に見せ、手札に加え、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

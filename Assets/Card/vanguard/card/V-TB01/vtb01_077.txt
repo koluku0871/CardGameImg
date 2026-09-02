@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_077",
+  "PackNo": "V-TB01",
+  "CardName": "“才能の開花”ロック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "RAISEASUILEN",
+  "Cost": "2",
+  "CardRarity": "SCR",
+  "Text": "effect=【永】【(R)】：このターンに楽曲がプレイされているなら、このユニットのパワー＋5000。【起】【(V)/(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)，手札を１枚捨てる]ことで、そのターン中、このユニットのパワー＋5000。このコストで手札から〈RAISEASUILEN〉を捨てたら、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

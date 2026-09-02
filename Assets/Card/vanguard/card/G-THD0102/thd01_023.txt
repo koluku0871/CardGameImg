@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_023",
+  "PackNo": "G-THD0102",
+  "CardName": "蜂須賀虎徹-花丸-",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_232",
+  "PackNo": "DZ-TB03",
+  "CardName": "煉獄騎士団アングリーハンド・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "武装騎竜",
+  "Cost": "1",
+  "CardRarity": "H",
+  "Text": "effect=〈ダークネスドラゴンワールド〉【自】：あなたのターンにこのユニットがカードの能力で(R)から退却した時、【コスト】[ゲージ１を払う]ことで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

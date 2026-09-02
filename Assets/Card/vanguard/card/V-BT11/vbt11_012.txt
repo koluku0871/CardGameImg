@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt11_012",
+  "PackNo": "V-BT11",
+  "CardName": "ケルピーライダーデニス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【起】【(V)/(R)】：【コスト】[他のリアガードを１枚【レスト】する]ことで、あなたの山札を上から１枚見て、(R)にコールする。この能力は同名カードを含めて各ターン１回まで使える。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

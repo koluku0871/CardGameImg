@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vgm2_0110",
+  "PackNo": "V-GM",
+  "CardName": "イマジナリーギフトフォース",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "PR",
+  "Text": "effect=獲得時、このマーカーを(V)か(R)に置き、そこにいるユニットの元々のクリティカルは２になる！,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_034",
+  "PackNo": "V-EB08",
+  "CardName": "謀略団長セクシリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "10000"
+}

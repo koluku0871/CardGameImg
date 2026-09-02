@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb_15_051",
+  "PackNo": "V-EB15",
+  "CardName": "メーアの贈り物",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "-",
+  "Text": "effect=（これはメーアの贈り物を表すカードであり、デッキには入れられない。このカードはノーマルコールできず、スペリオルコールされると消滅する。),critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

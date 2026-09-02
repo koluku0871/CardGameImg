@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_057",
+  "PackNo": "DZ-LBT01",
+  "CardName": "ConvivialEvening!ラスキィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ワービースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：このユニットがブーストした時、このターンにあなたが雑誌オーダーをプレイしているなら、あなたのドロップから１枚まで選び、ソウルに置き、そのバトル中、このユニットのパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

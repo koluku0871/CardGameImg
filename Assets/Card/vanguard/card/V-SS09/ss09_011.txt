@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "ss09_011",
+  "PackNo": "V-SS09",
+  "CardName": "黒の賢者カロン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ジャイアント",
+  "Cost": "1",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(R)】：あなたのカードの能力で登場した時、【コスト】[【ソウルブラスト】(1)]することで、【カウンターチャージ】(1)し、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

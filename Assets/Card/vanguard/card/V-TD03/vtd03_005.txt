@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtd03_005",
+  "PackNo": "V-TD03",
+  "CardName": "ティアーナイトラザロス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "アクアロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【(V)/(R)】：ヴァンガードにアタックした時、このターン２回目以降のバトルなら、そのバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

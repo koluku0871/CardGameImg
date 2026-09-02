@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vtb01_081",
+  "PackNo": "V-TB01",
+  "CardName": "EXPOSE‘Burnout!!!’",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "楽曲/RAISEASUILEN",
+  "Cost": "3",
+  "CardRarity": "SCR",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【自】【(R)】：あなたのバトルフェイズ開始時、あなたのドロップゾーンに〈RAISEASUILEN〉の楽曲が７枚以上なら、そのターン中、あなたの前列のユニットすべてのパワー＋10000し、さらに【コスト】[【カウンターブラスト】(1)]することで、相手のユニットすべてはトリガー効果でパワーが増加しない。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

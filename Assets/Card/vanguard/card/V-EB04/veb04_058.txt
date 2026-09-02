@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_058",
+  "PackNo": "V-EB04",
+  "CardName": "バーコード・ゼブラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのカードが山札からドロップゾーンに置かれた時、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

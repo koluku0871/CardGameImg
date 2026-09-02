@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb01_048",
+  "PackNo": "G-TCB01",
+  "CardName": "鏡月の忍鬼ツバクロ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：残影（バインドされているカードが相手の手札に加えられた時、あなたの手札が６枚以下なら、このユニットを手札に戻してよい）【永】【(G)】【Gブレイク】(1)：このユニットのシールド＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

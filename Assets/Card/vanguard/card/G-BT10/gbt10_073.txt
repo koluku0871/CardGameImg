@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt10_073",
+  "PackNo": "G-BT10",
+  "CardName": "サベイジ・ノーティス",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

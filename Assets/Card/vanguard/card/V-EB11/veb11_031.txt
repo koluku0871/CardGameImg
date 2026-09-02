@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_031",
+  "PackNo": "V-EB11",
+  "CardName": "要の品格エヴィ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：「リヴィエール」を含むあなたのヴァンガードが登場した時、あなたの表のダメージゾーンが１枚以下なら、【コスト】[このユニットを退却させる]ことで、１枚引き、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

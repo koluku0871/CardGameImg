@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_059",
+  "PackNo": "DZ-TBP01",
+  "CardName": "TheCircleOfButterflies",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "楽曲/Morfonica",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=（楽曲はプレイ後、ターン終了時まで中央後列に置かれる）【永】【(R)】：あなたは中央後列の(R)にユニットカードを置けない。【自】：このカードが(R)に置かれた時、あなたのヴァンガードが〈Morfonica〉なら、１枚引く。さらに「八潮瑠唯」を含むあなたの、ヴァンガードかリアガードがいるなら、【コスト】[【エネルギーブラスト】(3)]することで、１枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_047",
+  "PackNo": "V-EB09",
+  "CardName": "プロヴォーク・ニードル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：フォース・マーカーのある(R)にいるなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

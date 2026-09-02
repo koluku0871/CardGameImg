@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0130",
+  "PackNo": "V-PR",
+  "CardName": "イノセントダンスプリット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヴァンガードにヒットした時、１枚引いてよい。引いたら、あなたの手札を１枚捨てる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

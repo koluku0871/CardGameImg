@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0297",
+  "PackNo": "V-PR",
+  "CardName": "壮挙の騎士デグヌーズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのメインフェイズ開始時、そのターン中、このユニットのパワー＋5000。あなたの表のダメージゾーンがないなら、【カウンターチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

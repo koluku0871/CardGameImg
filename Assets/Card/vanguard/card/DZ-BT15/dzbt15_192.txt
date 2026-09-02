@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt15_192",
+  "PackNo": "DZ-BT15",
+  "CardName": "王家の盾",
+  "CardCategory": "トリガーオーダー",
+  "Element": "スタンダード",
+  "CardType": "イナズマイレブン",
+  "CardSubType": "必殺技/キーパ－",
+  "Cost": "0",
+  "CardRarity": "EXC",
+  "Text": "effect=【永】：相手ターンのガードステップ中、このカードはトリガーユニットとして(G)にコールでき、グレード０/シールド15000のガーディアンになる。,critical=クリティカル-,skill=-,gift=ヒールトリガー＋10000,",
+  "Attack": "0",
+  "Defense": "0"
+}

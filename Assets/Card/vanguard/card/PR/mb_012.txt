@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_012",
+  "PackNo": "PR",
+  "CardName": "雲井叶絵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：このユニットは地図の本を自費出版しようとしている。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

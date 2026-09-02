@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_017",
+  "PackNo": "V-BT03",
+  "CardName": "ロンバス・メイガス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(R)】：アタックした時、「メイガス」を含むあなたのヴァンガードがいるなら、そのバトル中、このユニットのパワー＋5000し、そのヴァンガードがグレード３なら、相手はインターセプトできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

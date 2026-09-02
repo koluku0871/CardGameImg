@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td17_004",
+  "PackNo": "TD17",
+  "CardName": "爆撃の星輝兵マグネシウム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

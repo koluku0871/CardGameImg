@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_046",
+  "PackNo": "V-EB14",
+  "CardName": "スチームファイターシュトル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのターンに手札から捨てられた時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、相手は手札から(G)にグレード２以上をコールできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

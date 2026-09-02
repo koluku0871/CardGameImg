@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_066",
+  "PackNo": "DZ-TB03",
+  "CardName": "魔弾の射手ガスパール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "黒騎士/深淵",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=〈ダークネスドラゴンワールド〉【起】【ドロップ】：【コスト】[【ソウルブラスト】(1)]することで、このカードを(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

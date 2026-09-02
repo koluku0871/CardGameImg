@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_234",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[駆けたその先には]大和麻弥",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Pastel＊Palettes",
+  "Cost": "1",
+  "CardRarity": "GPR+",
+  "Text": "effect=【起】【(R)】【ターン1回】：あなたのヴァンガードが「丸山彩」を含むグレード３以上なら、【コスト】[【エネルギーブラスト】(3)か手札から１枚ソウルに置く]ことで、あなたのソウルから、あなたのリアガードすべてと別名の〈Pastel＊Palettes〉を１枚選び、(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

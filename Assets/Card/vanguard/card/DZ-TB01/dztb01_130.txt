@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_130",
+  "PackNo": "DZ-TB01",
+  "CardName": "百鬼を率いるイカヅチ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "バディファイター",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=〈百鬼夜行〉【自】：このユニットが「百鬼夜行」からライドして登場した時、あなたの山札を上から７枚見て、１枚まで選び、ドロップに置き、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

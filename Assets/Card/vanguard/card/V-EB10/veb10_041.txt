@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_041",
+  "PackNo": "V-EB10",
+  "CardName": "フレイム・オブ・ビクトリー",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "サラマンダー",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

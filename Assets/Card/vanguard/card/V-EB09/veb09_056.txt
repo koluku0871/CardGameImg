@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_056",
+  "PackNo": "V-EB09",
+  "CardName": "ヘイタブル・スポット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt02_210",
+  "PackNo": "DZ-LBT02",
+  "CardName": "真っ白な観客の為にアクティカ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "0",
+  "CardRarity": "TGR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0376",
+  "PackNo": "V-PR",
+  "CardName": "霊木の賢者イルミンスール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、グレード０のあなたのリアガードが２枚以上なら、【コスト】[【カウンターブラスト】(1)]することで、１枚引き、そのターン中、このユニットと同じ縦列にいる、あなたのユニットすべてのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

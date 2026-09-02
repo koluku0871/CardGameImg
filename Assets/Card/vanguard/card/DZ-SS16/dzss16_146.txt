@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_146",
+  "PackNo": "DZ-SS16",
+  "CardName": "タリスマン・エンジェル",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "0",
+  "CardRarity": "LGR",
+  "Text": "effect=【新右衛門アイコン】,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gftd01_010",
+  "PackNo": "G-FTD01",
+  "CardName": "紅日の騎士ルノー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "FTD",
+  "Text": "effect=【自】【(R)】【Gブレイク】（1）（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：このユニットが結束能力を持つユニットをブーストした時、そのバトル中、ブーストされたユニットのパワー＋2000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

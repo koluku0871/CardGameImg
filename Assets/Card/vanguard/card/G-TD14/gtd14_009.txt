@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd14_009",
+  "PackNo": "G-TD14",
+  "CardName": "Chouchouミルダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【永】【(R)/(G)】：あなたの他のリアガードが１枚以下なら、このユニットのパワー＋2000/シールド＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

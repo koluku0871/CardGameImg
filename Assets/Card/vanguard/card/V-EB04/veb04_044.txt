@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb04_044",
+  "PackNo": "V-EB04",
+  "CardName": "スチームハンターリピット",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：手札から登場した時、【コスト】[ドロップゾーンから１枚バインドする]ことで、そのターン中、このユニットのパワー＋3000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

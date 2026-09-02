@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt04_072",
+  "PackNo": "G-BT04",
+  "CardName": "筋の戒めドローミ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ノーブル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

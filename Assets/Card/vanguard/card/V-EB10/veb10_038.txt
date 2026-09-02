@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb10_038",
+  "PackNo": "V-EB10",
+  "CardName": "宝玉の魔光モルムテウス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

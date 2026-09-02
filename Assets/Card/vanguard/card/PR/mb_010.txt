@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_010",
+  "PackNo": "PR",
+  "CardName": "“男”",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン",
+  "Cost": "3",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(V)】：[見つめる]『操る力』で、〈ヒューマン〉を意のままに操る。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

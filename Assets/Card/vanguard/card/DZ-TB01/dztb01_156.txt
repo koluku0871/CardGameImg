@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_156",
+  "PackNo": "DZ-TB01",
+  "CardName": "未門流合気柔術の達人未門牙王",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "バディファイター",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=〈ドラゴンワールド〉【自】：このユニットが(V)に登場した時、あなたの山札を上から７枚見て、「ドラム」を含むカードか、アイテムカードを１枚まで選び、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "thd01_045",
+  "PackNo": "G-THD0102",
+  "CardName": "薬研藤四郎-花丸-",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-短刀",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(V)か(R)に登場した時、コストを払ってよい。払ったら、あなたのドロップゾーンから、「藤四郎」か「五虎退」を含むグレード１以下のカードを１枚選び、(R)にコールする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

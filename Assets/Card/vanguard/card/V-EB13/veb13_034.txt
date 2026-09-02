@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_034",
+  "PackNo": "V-EB13",
+  "CardName": "銀彩の斬刃タルエル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【永】【手札】：このカードはノーマルライドできない。【永】【(R)】：このターンにあなたのダメージゾーンに新たなカードが置かれていないなら、このユニットはアタックできない。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "25000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd04_018",
+  "PackNo": "G-TD04",
+  "CardName": "戦場の歌姫カロリーナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー+5000,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_056",
+  "PackNo": "V-EB01",
+  "CardName": "強毒怪人ヘルデマイズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、相手のリアガードを１枚選び、【レスト】し、あなたのリアガードを１枚【スタンド】する。【永】【(R)】：このユニットと同じ縦列の後列にいる、相手のリアガードすべてはスタンドフェイズに【スタンド】できない。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_054",
+  "PackNo": "V-BT03",
+  "CardName": "クレセント・メイガス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】：トリガーゾーンに置かれた時、あなたのヴァンガードがグレード３以上なら、【コスト】[【ソウルブラスト】(1)]することで、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

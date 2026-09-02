@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbt01_046",
+  "PackNo": "MBT01",
+  "CardName": "分岐する根絶者ヌヲーク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットのアタックがヴァンガードにヒットした時、他のあなたのユニットを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

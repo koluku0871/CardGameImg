@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt03_028",
+  "PackNo": "V-BT03",
+  "CardName": "ステラ・メイガス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：ブーストされたバトル中、このユニットのパワー＋2000。【自】【(R)】：アタックがヴァンガードにヒットした時、あなたの手札を１枚山札の上に置いてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

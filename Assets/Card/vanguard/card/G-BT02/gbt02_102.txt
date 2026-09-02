@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_102",
+  "PackNo": "G-BT02",
+  "CardName": "梔子の銃士アラン",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】：あなたのカード名に「銃士」を含むカードの効果で、このユニットが(R)に登場した時、あなたのダメージゾーンから２枚まで選び、表にする。,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

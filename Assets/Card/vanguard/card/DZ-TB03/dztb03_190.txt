@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_190",
+  "PackNo": "DZ-TB03",
+  "CardName": "もっと強くなりたい氷竜キリ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "バディファイター/ディザスター",
+  "Cost": "2",
+  "CardRarity": "H",
+  "Text": "effect=〈レジェンドワールド〉【起】【(V)】【ターン1回】：【コスト】[手札から１枚捨てる]ことで、２枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

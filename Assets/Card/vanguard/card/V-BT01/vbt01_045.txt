@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_045",
+  "PackNo": "V-BT01",
+  "CardName": "急進の騎士アニル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)】：ヴァンガードにアタックしたバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0044",
+  "PackNo": "V-PR",
+  "CardName": "ブルー・ダスト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：アタックがヒットした時、相手のヴァンガードのグレード１につき、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

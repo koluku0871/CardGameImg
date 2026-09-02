@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb01_099",
+  "PackNo": "DZ-TB01",
+  "CardName": "悪魔ソムリエザガン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "72柱",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=〈マジックワールド〉【自】：このユニットが(R)に登場した時、そのターン中、あなたが次にオーダーをプレイする際、そのコストがゲージ１減る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

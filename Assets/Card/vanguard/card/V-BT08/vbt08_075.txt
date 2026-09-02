@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_075",
+  "PackNo": "V-BT08",
+  "CardName": "次元ロボダイレーサー",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

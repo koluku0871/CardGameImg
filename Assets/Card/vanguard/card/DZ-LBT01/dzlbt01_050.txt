@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzlbt01_050",
+  "PackNo": "DZ-LBT01",
+  "CardName": "Earnescorrectフォロワーピレッソ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "リリカルモナステリオ",
+  "CardSubType": "ドラゴロイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：あなたが「目指せ！最強のアイドル！」をプレイした時、相手のリアガードがいないなら、あなたのヴァンガードを１枚選び、そのターン中、そのユニットがアタックしたバトルでは、相手は手札から守護者を、コールやプレイできない。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

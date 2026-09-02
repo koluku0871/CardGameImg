@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_149",
+  "PackNo": "DZ-SS16",
+  "CardName": "伝説の先導者櫂トシキ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "0",
+  "CardRarity": "LGTR",
+  "Text": "effect=【櫂アイコン】,critical=クリティカル1,skill=ブースト,gift=クリティカルトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

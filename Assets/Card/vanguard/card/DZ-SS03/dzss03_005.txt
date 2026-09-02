@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss03_005",
+  "PackNo": "DZ-SS03",
+  "CardName": "パーティング・シェイド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=【自】：このユニットが「死せざる死者グルナッシュ」からライドして登場した時、１枚引き、あなたは「夜霧の吸血姫ナイトローゼ」のクレストを得る。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

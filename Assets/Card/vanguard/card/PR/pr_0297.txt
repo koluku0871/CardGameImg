@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0297",
+  "PackNo": "PR",
+  "CardName": "スチームソルジャーアル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：[あなたの手札から１枚選び、捨てる]このユニットが【ブースト】したバトルの終了時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

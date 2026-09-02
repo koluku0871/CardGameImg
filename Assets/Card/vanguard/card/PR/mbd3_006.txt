@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mbd3_006",
+  "PackNo": "PR",
+  "CardName": "煉獄竜騎士ナーゼル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】：このユニットが(R)に登場した時、このユニットと同じ縦列に相手のリアガードがいないなら、そのターン中、このユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

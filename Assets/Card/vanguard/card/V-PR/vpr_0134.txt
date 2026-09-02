@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0134",
+  "PackNo": "V-PR",
+  "CardName": "もこもこファンタジーミャーフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：アタックがヴァンガードにヒットした時、あなたのリアガードが相手より多いなら、【コスト】[【ソウルブラスト】(1)]することで、１枚引く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "mb_081",
+  "PackNo": "PR",
+  "CardName": "フラッフィー・ビーフライ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(V)/(R)】：相手の【スタンド】しているユニットがいるなら、このユニットはアタックできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

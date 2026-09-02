@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb03_005",
+  "PackNo": "V-EB03",
+  "CardName": "後駆の守護天使アールマティ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "RRR",
+  "Text": "effect=【自】【(V)/(R)】：手札から登場した時、【コスト】[【ソウルブラスト】(1)]することで、あなたのダメージゾーンから１枚(R)にコールし、山札を上から１枚ダメージゾーンに裏で置く。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

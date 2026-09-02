@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0751",
+  "PackNo": "PR",
+  "CardName": "暴餓の魔忍獣モウス",
+  "CardCategory": "Gユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "4",
+  "CardRarity": "PR",
+  "Text": "effect=【Ｇガーディアン】-相手ターンのガードステップ-【コスト】[手札から【治】を１枚捨てる]ことで、裏のこのカードを(G)にコールする。【自】【(G)】：登場時、あなたの手札が２枚以下なら、そのバトル中、このユニットのシールド＋15000。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "15000"
+}

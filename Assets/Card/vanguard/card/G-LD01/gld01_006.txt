@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gld01_006",
+  "PackNo": "G-LD01",
+  "CardName": "外道の盾マクリール",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "LD",
+  "Text": "effect=【自】：このユニットが【インターセプト】した時、あなたの後列のリアガードが１枚以下なら、そのバトル中、このユニットのシールド＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

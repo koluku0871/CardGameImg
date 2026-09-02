@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd13_018",
+  "PackNo": "G-TD13",
+  "CardName": "喜捨の忍鬼ジロキチ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "デーモン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]いずれかのリアガードを１枚選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_035",
+  "PackNo": "V-BT08",
+  "CardName": "インテンスエイム・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：グレード３をブーストした時、【コスト】[【ソウルブラスト】(1)]することで、相手の後列のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

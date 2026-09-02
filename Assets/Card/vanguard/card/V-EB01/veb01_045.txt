@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb01_045",
+  "PackNo": "V-EB01",
+  "CardName": "前線司令ジギスヴァルト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "デーモン",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：あなたのメインフェイズ開始時、【コスト】[このユニットをソウルに置く，ドロップゾーンから１枚山札の下に置く]ことで、１枚引き、【カウンターチャージ】(1)。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd01_019",
+  "PackNo": "G-TD01",
+  "CardName": "ラッキーポット・ドラコキッド",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=【起】【(R)】：[このユニットをソウルに置く]あなたの《ギアクロニクル》を１枚まで選び、そのターン中、パワー＋3000。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "4000",
+  "Defense": "5000"
+}

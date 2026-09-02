@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb02_025",
+  "PackNo": "V-EB02",
+  "CardName": "イービル・シェイド",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)，ドロップゾーンから１枚をバインドする]ことで、あなたのドロップゾーンから、このコストでバインドされたカードと同名のカードを１枚(R)にコールする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

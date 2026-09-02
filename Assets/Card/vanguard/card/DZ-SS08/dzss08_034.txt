@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss08_034",
+  "PackNo": "DZ-SS08",
+  "CardName": "チアリーサポート・エルフ",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0190",
+  "PackNo": "V-PR",
+  "CardName": "忍妖ハリケンテング",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ワービースト",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【起】【(R)】：【コスト】[【カウンターブラスト】(1)]することで、そのターン中、このユニットのパワー＋5000し、カード名をあなたの他のユニット１枚と同名に変更する。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

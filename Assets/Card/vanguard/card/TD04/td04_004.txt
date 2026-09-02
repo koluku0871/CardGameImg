@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td04_004",
+  "PackNo": "TD04",
+  "CardName": "オラクルガーディアンワイズマン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "バトロイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

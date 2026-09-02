@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_017",
+  "PackNo": "V-BT10",
+  "CardName": "竜刻魔道士リア・ファル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：登場時、【コスト】[【カウンターブラスト】(1)]することで、あなたの山札からグレード１を１枚まで探し、ユニットのいない(R)にコールし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

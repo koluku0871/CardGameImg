@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt03_047",
+  "PackNo": "G-BT03",
+  "CardName": "勤厚の騎士マゾルフ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

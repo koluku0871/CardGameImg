@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_332",
+  "PackNo": "DZ-TB02",
+  "CardName": "後家兼光",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "TRR",
+  "Text": "effect=【自】【(R)】：このユニットがヴァンガードにアタックした時、あなたが「打刀の能力極」のクレストを持つなら、「姫鶴一文字」を含むあなたのユニットを１枚選び、そのターン中、そのユニットとこのユニットのパワー＋5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

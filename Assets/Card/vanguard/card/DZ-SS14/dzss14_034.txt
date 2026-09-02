@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss14_034",
+  "PackNo": "DZ-SS14",
+  "CardName": "世界樹の巫女エレイン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ケテルサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "TDR",
+  "Text": "effect=【アイチアイコン】,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

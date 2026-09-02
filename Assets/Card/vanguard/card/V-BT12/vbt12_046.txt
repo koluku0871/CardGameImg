@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt12_046",
+  "PackNo": "V-BT12",
+  "CardName": "求められし果てなき力",
+  "CardCategory": "ノーマルオーダー",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=あなたのドロップゾーンからノーマルユニットを１枚山札の下に置く。グレード３以上を置いたら、１枚引く。,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

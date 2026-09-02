@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb07_037",
+  "PackNo": "V-EB07",
+  "CardName": "魔竜導師ケイテン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "15000"
+}

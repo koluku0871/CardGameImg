@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_067",
+  "PackNo": "V-BT01",
+  "CardName": "猛爆の業火ガビヤ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サラマンダー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：ヴァンガードにアタックした時、このターンに相手のリアガードが退却しているなら、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

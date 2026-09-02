@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb05_028",
+  "PackNo": "V-EB05",
+  "CardName": "悠然たる前進ストラシカ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：このユニットと同じ縦列に、グレード３以上のあなたのユニットがいるなら、このユニットは『インターセプト』を得て、後列からでもインターセプトできる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

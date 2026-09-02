@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0058",
+  "PackNo": "V-PR",
+  "CardName": "戦場の歌姫パルテニア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【ターン1回】：あなたのユニットのアタックがヴァンガードにヒットした時、このターン１回目か２回目のバトルなら、【コスト】[【カウンターブラスト】(1)]することで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

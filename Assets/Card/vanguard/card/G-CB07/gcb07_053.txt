@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb07_053",
+  "PackNo": "G-CB07",
+  "CardName": "Chouchouメルジュ",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：[このユニットを山札の下に置く]あなたの「Chouchou」を含むヴァンガードがアタックした時、コストを払ってよい。払ったら、あなたのリアガードを１枚選び、そのターン中、パワー＋10000し、１枚引く。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_080",
+  "PackNo": "DZ-SS16",
+  "CardName": "クロノ・ドラン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアドラゴン/十二支刻獣",
+  "Cost": "0",
+  "CardRarity": "15thSP",
+  "Text": "effect=【自】：このユニットがライドされた時、あなたが後攻なら、１枚引く。【クロノアイコン】,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

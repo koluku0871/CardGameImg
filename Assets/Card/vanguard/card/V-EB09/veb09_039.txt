@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb09_039",
+  "PackNo": "V-EB09",
+  "CardName": "鞭尾竜バッシャーカルノ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ディノドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストしたアタックがヴァンガードにヒットした時、【コスト】[武装ゲージを２枚か、手札を１枚捨てる]ことで、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

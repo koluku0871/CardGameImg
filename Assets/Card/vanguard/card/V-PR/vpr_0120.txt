@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0120",
+  "PackNo": "V-PR",
+  "CardName": "デッドアーマー・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：あなたのユニットがアタックした時、【コスト】[【ソウルブラスト】(1)，このユニットを退却させる]ことで、そのバトル中、相手は手札から(G)にコールする際、２枚以上でしかコールできない。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

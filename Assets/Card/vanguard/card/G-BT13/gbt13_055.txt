@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt13_055",
+  "PackNo": "G-BT13",
+  "CardName": "サーミックショット・ナース",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)：このカードがダメージゾーンからドロップゾーンに置かれた時、【ソウルチャージ】(1)し、救援能力の効果で置かれたなら、このカードを(R)にコールしてよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

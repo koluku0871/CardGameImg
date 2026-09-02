@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb11_030",
+  "PackNo": "V-EB11",
+  "CardName": "ミニミニスパークルパルーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【永】【(R)】：あなたがこのターンに合計【ソウルブラスト】(2)以上しているなら、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

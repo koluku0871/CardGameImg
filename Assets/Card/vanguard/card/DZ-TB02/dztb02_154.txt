@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb02_154",
+  "PackNo": "DZ-TB02",
+  "CardName": "火車切",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "刀剣乱舞",
+  "CardSubType": "刀剣男士-脇差",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがアタックした時、そのターン中、このユニットのパワー＋2000し、あなたが「脇差の能力極」のクレストを持ち、あなたの表のダメージゾーンがないなら、さらにパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

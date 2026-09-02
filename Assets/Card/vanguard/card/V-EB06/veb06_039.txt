@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_039",
+  "PackNo": "V-EB06",
+  "CardName": "核磁気共鳴の秘蔵っ子",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバーフェアリー",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストしたバトル終了時、そのバトルで相手がトリガーユニットをコールしていないなら、【コスト】[このユニットをソウルに置く]ことで、そのターン中、あなたのユニット１枚のパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

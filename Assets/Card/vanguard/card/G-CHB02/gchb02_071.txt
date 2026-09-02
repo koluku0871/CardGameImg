@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb02_071",
+  "PackNo": "G-CHB02",
+  "CardName": "パステル・ディアー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ハイビースト",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：このユニットがパワーが20000以上のユニットにブーストされた時、そのバトル中、このユニットのクリティカル＋１。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

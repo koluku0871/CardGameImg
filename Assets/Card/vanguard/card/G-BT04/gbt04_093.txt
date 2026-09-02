@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt04_093",
+  "PackNo": "G-BT04",
+  "CardName": "マシニング・スレイター",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：このユニットがカード名に「マシニング」を含むヴァンガードを【ブースト】した時、相手の、ヴァンガードとリアガードが、すべて【レスト】しているなら、【ソウルチャージ】(2)。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

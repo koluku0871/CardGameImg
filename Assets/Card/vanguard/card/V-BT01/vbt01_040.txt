@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt01_040",
+  "PackNo": "V-BT01",
+  "CardName": "ブーメラン・スロアー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ヒューマン/ヒーロー",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(R)】：登場時、あなたのダメージゾーンに表のカードが１枚以下なら、【カウンターチャージ】(1)。【自】【(R)】：登場時、あなたのソウルが１枚以下なら、【ソウルチャージ】(1)。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

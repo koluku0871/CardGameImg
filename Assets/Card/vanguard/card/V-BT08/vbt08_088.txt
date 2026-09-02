@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_088",
+  "PackNo": "V-BT08",
+  "CardName": "銀漢の利剣グエルグ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "サイバロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

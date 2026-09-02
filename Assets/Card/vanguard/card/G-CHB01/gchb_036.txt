@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb_036",
+  "PackNo": "G-CHB01",
+  "CardName": "刻獣ファーム・ピーコック",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアビースト/十二支刻獣",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】：タイムリープで、このユニットが山札から(R)に登場した時、そのターン中、このユニットは『【永】【(R)】：カードの効果で、このユニットは山札に置かれない。』を得てよい。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "ss09_067",
+  "PackNo": "V-SS09",
+  "CardName": "不死竜スカルドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "スケルトン",
+  "Cost": "3",
+  "CardRarity": "RRR",
+  "Text": "effect=【永】【手札】：このカードはノーマルコールできない。【永】【(V)/(R)】：あなたのターン中、あなたのドロップゾーン１枚につき、このユニットのパワー＋2000。【自】【(R)】：アタックしたバトル終了時、このユニットを退却させる。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "12000",
+  "Defense": "0"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_065",
+  "PackNo": "DZ-SS04",
+  "CardName": "#密着取材",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "ブラックチャンネル",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=フロントトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

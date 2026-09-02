@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0012",
+  "PackNo": "V-PR",
+  "CardName": "ドラゴンモンクゴジョー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ギルマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストした時、あなたのリアガードが相手より多いなら、そのターン中、ブーストされたユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

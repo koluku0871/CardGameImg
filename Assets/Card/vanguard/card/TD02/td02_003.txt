@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td02_003",
+  "PackNo": "TD02",
+  "CardName": "魔竜戦鬼ヤクシャ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ドラゴンマン",
+  "Cost": "3",
+  "CardRarity": "TD",
+  "Text": "effect=【自】【手札】：あなたのメインフェイズ中、相手のリアガードがドロップゾーンに置かれた時、あなたのグレード２のヴァンガードがいるなら、このカードを公開してよい。公開したら、このカードをライドする。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

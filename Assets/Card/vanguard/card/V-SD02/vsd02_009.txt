@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vsd02_009",
+  "PackNo": "V-SD02",
+  "CardName": "ドラゴンナイトブルジュ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【永】【(R)】：ヴァンガードにアタックしたバトル中、このユニットのパワー＋3000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

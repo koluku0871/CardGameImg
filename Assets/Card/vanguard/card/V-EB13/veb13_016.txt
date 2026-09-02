@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb13_016",
+  "PackNo": "V-EB13",
+  "CardName": "リノベイトウイング・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "3",
+  "CardRarity": "RR",
+  "Text": "effect=【起】【(V)/(R)】【ターン1回】：【コスト】[【ソウルブラスト】(1)，リアガードを２枚バインドする]ことで、あなたの山札を上から３枚見て、２枚を(R)にコールし、１枚をバインドする。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

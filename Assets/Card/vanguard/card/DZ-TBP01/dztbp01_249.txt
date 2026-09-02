@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztbp01_249",
+  "PackNo": "DZ-TBP01",
+  "CardName": "[輝ける学び舎で]二葉つくし",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "BanGDream!",
+  "CardSubType": "Morfonica",
+  "Cost": "1",
+  "CardRarity": "GPR+",
+  "Text": "effect=【自】：このカードが、(R)に登場した時か、楽曲カードの能力のコストで手札から捨てられた時、【コスト】[手札から〈Morfonica〉を１枚ソウルに置く]ことで、あなたの(V)の、「[フォーリン→ワンダー]倉田ましろ」か「二葉つくし」を含むグレード３以上を１枚選び、そのターン中、『トリプルドライブ』を与える。さらに【コスト】[【カウンターブラスト】(1)]することで、あなたのドロップからグレード２以下の〈Morfonica〉を１枚選び、手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

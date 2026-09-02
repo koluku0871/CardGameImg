@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0497",
+  "PackNo": "V-PR",
+  "CardName": "初代ヴァンガードキッズ渡辺賢一",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "ブリッツオーダー",
+  "Cost": "",
+  "CardRarity": "PR",
+  "Text": "effect=このバトル中、アタックされたあなたのユニット１枚のパワー＋5000！（このカードはクイックシールド・チケットとして使える）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

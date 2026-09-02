@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss16_235",
+  "PackNo": "DZ-SS16",
+  "CardName": "ラッキーポット・ドラコキッド",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "ダークステイツ",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "0",
+  "CardRarity": "SR",
+  "Text": "effect=【クロノアイコン】,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0279",
+  "PackNo": "V-PR",
+  "CardName": "ボルトスラッグ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：アタックした時、このターンにいずれかのカードが３枚以上バインドされているなら、【コスト】[【ソウルブラスト】(1)]することで、そのバトル中、このユニットのパワー＋10000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

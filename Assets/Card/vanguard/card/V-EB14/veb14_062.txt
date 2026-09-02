@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb14_062",
+  "PackNo": "V-EB14",
+  "CardName": "メイデン・オブ・ドリームシャワー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、あなたのヴァンガードがグレード３以上なら、【コスト】[【カウンターブラスト】(1)]することで、そのターン中、あなたの(R)のトークンユニットすべてのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

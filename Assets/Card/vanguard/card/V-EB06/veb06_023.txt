@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb06_023",
+  "PackNo": "V-EB06",
+  "CardName": "ドラゴニック・バーンアウト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "フレイムドラゴン",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【起】【(R)】【ターン1回】：【コスト】[【カウンターブラスト】(1)，ドロップゾーンからグレード２以上を１枚山札の下に置く]ことで、相手のリアガードを１枚選び、退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

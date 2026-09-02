@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd11_015",
+  "PackNo": "G-TD11",
+  "CardName": "アダマントの増幅術士",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エルフ",
+  "Cost": "0",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

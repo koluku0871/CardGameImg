@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vss05_058",
+  "PackNo": "V-SS05",
+  "CardName": "パープル・トラピージスト",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "サキュバス",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：(R)からソウルに置かれた時、【コスト】[「パープル・トラピージスト」を【ソウルブラスト】(1)]することで、あなたのソウルから１枚(R)にコールする。（このカード自身でもコストを払える）,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

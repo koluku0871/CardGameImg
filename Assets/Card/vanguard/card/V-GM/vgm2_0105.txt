@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vgm2_0105",
+  "PackNo": "V-GM",
+  "CardName": "イマジナリーギフトプロテクト",
+  "CardCategory": "その他",
+  "Element": "Vスタンダード",
+  "CardType": "-",
+  "CardSubType": "-",
+  "Cost": "",
+  "CardRarity": "-",
+  "Text": "effect=獲得時、このマーカーを(R)に置き、そこにいるユニットはパワー＋5000、インターセプト時シールド＋10000！（同じサークルにも置ける。効果も重複する）,critical=クリティカル-,skill=-,gift=-,",
+  "Attack": "0",
+  "Defense": "0"
+}

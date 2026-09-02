@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzbt14_157",
+  "PackNo": "DZ-BT14",
+  "CardName": "狭山民代",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "龍が如く",
+  "Cost": "1",
+  "CardRarity": "EXC",
+  "Text": "effect=【自】：このカードが「堂島の龍桐生一馬」の能力でライドデッキからソウルに置かれた時、【コスト】[手札から１枚ソウルに置く]ことで、あなたの山札から「狭山薫」を含むカードを１枚まで探し、公開して手札に加え、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "0",
+  "Defense": "5000"
+}

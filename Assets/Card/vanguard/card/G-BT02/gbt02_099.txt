@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt02_099",
+  "PackNo": "G-BT02",
+  "CardName": "哀愁戦士オニオーン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "ドリアード",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）：あなたのメインフェイズ開始時、あなたの山札から「哀愁戦士オニオーン」を１枚まで探し、(R)にコールし、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

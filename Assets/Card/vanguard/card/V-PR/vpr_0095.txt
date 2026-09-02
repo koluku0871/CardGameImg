@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0095",
+  "PackNo": "V-PR",
+  "CardName": "ドレッドチャージ・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "サンダードラゴン",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[【ソウルブラスト】(1)]することで、そのターン中、このユニットのパワー＋15000。【自】【(R)】：あなたのターン終了時、このユニットを退却させる。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

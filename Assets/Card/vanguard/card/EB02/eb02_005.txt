@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb02_005",
+  "PackNo": "EB02",
+  "CardName": "パールシスターズペルラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】【(V)/(R)】：[【ソウルブラスト】(1)]このユニットのアタックがヴァンガードにヒットした時、コストを払ってよい。払ったら、他のあなたの《バミューダ△》のリアガードを１枚選び、手札に戻す。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

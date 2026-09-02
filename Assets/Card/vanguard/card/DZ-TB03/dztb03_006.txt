@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dztb03_006",
+  "PackNo": "DZ-TB03",
+  "CardName": "戦乙女全知のアルヴィドル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "バディファイト",
+  "CardSubType": "アースガルド/英雄",
+  "Cost": "0",
+  "CardRarity": "RRR",
+  "Text": "effect=〈レジェンドワールド〉【自】：あなたのターンにこのカードが手札から捨てられた時、このカードをソウルに置き、１枚引き、あなたのドロップから１枚選び、ゲージに裏で置く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

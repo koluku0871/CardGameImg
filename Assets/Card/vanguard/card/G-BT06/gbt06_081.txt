@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_081",
+  "PackNo": "G-BT06",
+  "CardName": "シグナル・スネークテイマー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "エルフ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[【カウンターブラスト】(1)，このユニットを【レスト】する]山札の上から１枚公開し、ソウルから公開したカードのグレードと同じグレードのカードを１枚まで選び、(R)にコールし、その山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

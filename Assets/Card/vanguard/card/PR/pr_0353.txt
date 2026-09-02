@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0353",
+  "PackNo": "PR",
+  "CardName": "護衛艦「いずも」",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "海上自衛隊",
+  "Cost": "2",
+  "CardRarity": "PR",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

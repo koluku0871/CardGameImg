@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_080",
+  "PackNo": "DZ-SS04",
+  "CardName": "みんなで「大」きな雪像作り！",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "デカ杉デッカくん",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

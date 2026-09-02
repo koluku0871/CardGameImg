@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt08_037",
+  "PackNo": "V-BT08",
+  "CardName": "超次元ロボダイアーム",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "3",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)/(R)】：登場時、相手の手札が10枚以上なら、そのターン中、あなたの前列のユニット３枚のパワー＋30000。,critical=クリティカル1,skill=ツインドライブ、フォース,gift=-,",
+  "Attack": "13000",
+  "Defense": "0"
+}

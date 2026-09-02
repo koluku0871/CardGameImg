@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb01_025",
+  "PackNo": "EB01",
+  "CardName": "ラーク・ピジョン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワービースト",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=【自】【ソウル】：あなたのガードステップ開始時、あなたの《ペイルムーン》のヴァンガードがいて、あなたの手札がないなら、このカードを(G)に【レスト】でコールしてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "5000",
+  "Defense": "10000"
+}

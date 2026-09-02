@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt12_105",
+  "PackNo": "G-BT12",
+  "CardName": "ルピナスナイト",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ズー",
+  "CardSubType": "バイオロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=開花-【自】【(R)】【Gブレイク】(1)：このユニットと同名のあなたの他のユニットが、(R)か(G)に登場した時、そのターン中、このユニットは『【自】【(R)】：各ターンの終了時、このユニットを手札に戻してよい。』を得る。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}

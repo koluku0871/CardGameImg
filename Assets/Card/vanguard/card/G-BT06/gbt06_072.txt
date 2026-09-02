@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt06_072",
+  "PackNo": "G-BT06",
+  "CardName": "獣神ホーンドハルク",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "バトロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【起】【(R)】：[【ソウルブラスト】(1)-「獣神」を含むカード，このユニットを【レスト】する]他のあなたの「獣神」を含むユニットを１枚まで選び、そのターン中、パワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "5000"
+}

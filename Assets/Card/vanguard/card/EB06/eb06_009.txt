@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb06_009",
+  "PackNo": "EB06",
+  "CardName": "PR♥ISM-Sリグリア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0104",
+  "PackNo": "V-PR",
+  "CardName": "一体の感動カエリン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(V)/(R)】：アタックがヴァンガードにヒットした時、そのターン中、あなたのユニット１枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

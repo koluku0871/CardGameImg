@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gchb03_044",
+  "PackNo": "G-CHB03",
+  "CardName": "ナイトメアドールしどにー",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=ドロートリガー+5000,",
+  "Attack": "5000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt12_050",
+  "PackNo": "V-BT12",
+  "CardName": "ディスインフェクト・エンジェル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ユナイテッドサンクチュアリ",
+  "CardSubType": "エンジェル",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[手札からユニットカードを１枚ダメージゾーンに置く]ことで、あなたの表のダメージゾーンから１枚手札に加える。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

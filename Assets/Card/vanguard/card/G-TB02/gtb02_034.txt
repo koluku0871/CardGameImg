@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtb02_034",
+  "PackNo": "G-TB02",
+  "CardName": "宗三左文字特",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "",
+  "CardSubType": "刀剣男士-打刀",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】【Gブレイク】(1)（あなたの(V)かＧゾーンに表のＧユニットが１枚以上で有効）真剣必殺（あなたのダメージが３枚以上で有効）：このユニットがインターセプトした時、そのバトル中、このユニットのシールド＋15000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

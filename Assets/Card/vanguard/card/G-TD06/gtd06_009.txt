@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtd06_009",
+  "PackNo": "G-TD06",
+  "CardName": "スチームバトラーウル・ギル",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアロイド",
+  "Cost": "1",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "eb10_011",
+  "PackNo": "EB10",
+  "CardName": "PR♥ISM-Duoスレーニー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "RR",
+  "Text": "effect=【自】：[【カウンターブラスト】(1)]このユニットが(R)に登場した時、あなたの《バミューダ△》のヴァンガードがいるなら、コストを払ってよい。払ったら、他のあなたの《バミューダ△》のリアガードを１枚選び、手札に戻す。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

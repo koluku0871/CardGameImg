@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt02_050",
+  "PackNo": "V-BT02",
+  "CardName": "忍竜マガイマンダラ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【永】【(R)/山札】：このカードのカード名を「隠密魔竜マンダラロード」に変更する。【永】【(R)】：あなたの、(V)と(R)にいる「隠密魔竜マンダラロード」が合計３枚以上なら、このユニットは『ブースト』を得る。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "9000",
+  "Defense": "5000"
+}

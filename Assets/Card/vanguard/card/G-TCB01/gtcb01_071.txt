@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gtcb01_071",
+  "PackNo": "G-TCB01",
+  "CardName": "指揮官ゲイリー・ギャノン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ダークゾーン",
+  "CardSubType": "オーガ",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：[手札から１枚選び、捨てる]このユニットがブーストしたバトル中、アタックがヒットした時、コストを払ってよい。払ったら、１枚引く。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "6000",
+  "Defense": "5000"
+}

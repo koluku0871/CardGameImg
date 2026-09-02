@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_073",
+  "PackNo": "V-BT07",
+  "CardName": "ファイティング・レフリー",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=-,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "9000",
+  "Defense": "0"
+}

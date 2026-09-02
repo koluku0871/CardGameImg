@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "td02_004",
+  "PackNo": "TD02",
+  "CardName": "ドラゴンナイトネハーレン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ヒューマン",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

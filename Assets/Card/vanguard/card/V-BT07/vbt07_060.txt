@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt07_060",
+  "PackNo": "V-BT07",
+  "CardName": "忍妖ドドドメ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "ゴースト",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：登場時、【コスト】[手札を１枚捨てる]ことで、１枚引き、さらに【コスト】[グレード０を１枚退却させる]ことで、そのターン中、このユニットのパワー＋10000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

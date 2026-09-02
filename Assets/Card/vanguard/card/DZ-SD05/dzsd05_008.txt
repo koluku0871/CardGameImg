@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzsd05_008",
+  "PackNo": "DZ-SD05",
+  "CardName": "戦場の歌姫フィランティア",
+  "CardCategory": "ノーマルユニット",
+  "Element": "スタンダード",
+  "CardType": "ストイケイア",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "TD",
+  "Text": "effect=-,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

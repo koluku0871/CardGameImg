@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "dzss04_051",
+  "PackNo": "DZ-SS04",
+  "CardName": "２級巻戻士レモン",
+  "CardCategory": "トリガーユニット",
+  "Element": "スタンダード",
+  "CardType": "コロコロ",
+  "CardSubType": "運命の巻戻士",
+  "Cost": "0",
+  "CardRarity": "C",
+  "Text": "effect=（【治】はデッキに合計４枚まで入れられる）,critical=クリティカル1,skill=ブースト,gift=ヒールトリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "15000"
+}

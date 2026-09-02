@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt04_061",
+  "PackNo": "V-BT04",
+  "CardName": "忍竜レイコウスラッグ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ドラゴンエンパイア",
+  "CardSubType": "アビスドラゴン",
+  "Cost": "1",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(R)】：ブーストしたバトル終了時、【コスト】[このユニットと同じ縦列にいる、他のリアガードを１枚山札の下に置く]ことで、そのターン中、あなたのユニット２枚のパワー＋5000。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "7000",
+  "Defense": "10000"
+}

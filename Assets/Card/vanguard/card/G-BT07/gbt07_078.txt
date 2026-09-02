@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gbt07_078",
+  "PackNo": "G-BT07",
+  "CardName": "脅迫怪獣ゴルメナス",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "エイリアン",
+  "Cost": "2",
+  "CardRarity": "C",
+  "Text": "effect=【自】：[【ソウルブラスト】(1)]このユニットが(G)に置かれた時、コストを払ってよい。払ったら、相手のユニットを１枚選び、そのターン中、パワー－5000。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "8000",
+  "Defense": "5000"
+}

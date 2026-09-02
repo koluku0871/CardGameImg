@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "gcb05_043",
+  "PackNo": "G-CB05",
+  "CardName": "Chouchouメルヴィーズ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "3",
+  "CardRarity": "C",
+  "Text": "effect=【自】【(V)/(R)】：[【カウンターブラスト】(1)，あなたの他の「Chouchou」を含むリアガードを１枚選び、山札の下に置く]このユニットがヴァンガードにアタックした時、コストを払ってよい。払ったら、あなたの手札から「Chouchou」を含む、グレード２と１のカードをそれぞれ１枚まで選び、別々の(R)にコールする。あなたの(R)に、「Chouchouセルヴィーズ」と「Chouchouマルヴィーズ」がいるなら、１枚引く。,critical=クリティカル1,skill=ツインドライブ,gift=-,",
+  "Attack": "10000",
+  "Defense": "0"
+}

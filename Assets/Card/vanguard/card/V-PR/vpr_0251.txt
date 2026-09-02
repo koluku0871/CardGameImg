@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vpr_0251",
+  "PackNo": "V-PR",
+  "CardName": "レトロアックス・ドラゴン",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ダークゾーン",
+  "CardSubType": "ギアドラゴン",
+  "Cost": "1",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】：ブーストしたバトル終了時、【コスト】[【カウンターブラスト】(1)，このユニットをバインドする]ことで、あなたのドロップゾーンからグレード２を１枚手札に戻す。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

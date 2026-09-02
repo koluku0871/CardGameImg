@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb_15_022",
+  "PackNo": "V-EB15",
+  "CardName": "マルチプルシャインミラーダ",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "マーメイド",
+  "Cost": "2",
+  "CardRarity": "R",
+  "Text": "effect=【自】【(V)】：登場時、【コスト】[【カウンターブラスト】(1)]することで、１枚引き、あなたの山札を上から７枚見て、グレード２のユニットカードを１枚まで【スタンド】でライドし、山札をシャッフルする。,critical=クリティカル1,skill=インターセプト,gift=-,",
+  "Attack": "10000",
+  "Defense": "5000"
+}

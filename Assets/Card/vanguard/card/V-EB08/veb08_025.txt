@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "veb08_025",
+  "PackNo": "V-EB08",
+  "CardName": "スケルトンの狙撃兵",
+  "CardCategory": "ノーマルユニット",
+  "Element": "Vスタンダード",
+  "CardType": "メガラニカ",
+  "CardSubType": "スケルトン",
+  "Cost": "1",
+  "CardRarity": "R",
+  "Text": "effect=【自】：(R)から退却した時、あなたの山札を上から２枚ドロップゾーンに置いてよい。,critical=クリティカル1,skill=ブースト,gift=-,",
+  "Attack": "8000",
+  "Defense": "10000"
+}

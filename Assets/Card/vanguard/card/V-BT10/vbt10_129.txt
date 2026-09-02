@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "vbt10_129",
+  "PackNo": "V-BT10",
+  "CardName": "パラライズ・マドンナ",
+  "CardCategory": "トリガーユニット",
+  "Element": "Vスタンダード",
+  "CardType": "ズー",
+  "CardSubType": "インセクト",
+  "Cost": "0",
+  "CardRarity": "SP",
+  "Text": "effect=【永】：守護者【自】【(G)】：登場時、【コスト】[手札を１枚捨てる]ことで、そのバトル中、あなたのユニット１枚はヒットされない。,critical=クリティカル1,skill=ブースト,gift=ドロートリガー＋10000,",
+  "Attack": "5000",
+  "Defense": "0"
+}

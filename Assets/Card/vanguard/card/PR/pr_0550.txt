@@ -1,0 +1,14 @@
+﻿{
+  "CardNo": "pr_0550",
+  "PackNo": "PR",
+  "CardName": "エナジー・ガール",
+  "CardCategory": "トリガーユニット",
+  "Element": "",
+  "CardType": "スターゲート",
+  "CardSubType": "ワーカロイド",
+  "Cost": "0",
+  "CardRarity": "PR",
+  "Text": "effect=【自】【(R)】【Gブレイク】(1)：このユニットがブーストしたバトルの終了時、他のあなたのリアガードを１枚選び、【スタンド】してよい。【スタンド】したら、このユニットを山札に戻し、山札をシャッフルする。,critical=クリティカル1,skill=ブースト,gift=スタンドトリガー+5000,",
+  "Attack": "4000",
+  "Defense": "10000"
+}
