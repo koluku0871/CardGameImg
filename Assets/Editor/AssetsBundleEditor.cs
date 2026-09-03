@@ -58,6 +58,14 @@ public class AssetBundleEditor
         BuildAssetBundles(target_platform, output_path, asset_bundle_build_list);
     }
 
+    [MenuItem("AssetBundles/Windows64_Vanguard", false)]
+    static private void BuildAssetBundlesForWindows64TVanguard()
+    {
+        (var target_platform, var output_path) = CreateDirectoryForWindows64();
+        var asset_bundle_build_list = GetAssetBundleBuild(output_path, "vanguard_");
+        BuildAssetBundles(target_platform, output_path, asset_bundle_build_list);
+    }
+
     [MenuItem("AssetBundles/Windows64_Yugioh", false)]
     static private void BuildAssetBundlesForWindows64ToYugioh()
     {
